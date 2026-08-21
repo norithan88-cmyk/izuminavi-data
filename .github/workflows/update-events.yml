@@ -1,0 +1,37 @@
+name: イベント情報を自動更新
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 21 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ファイルを取得
+        uses: actions/checkout@v4
+
+      - name: Node.jsを準備
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 安城市のイベントを収集
+        run: node automation/events/collect-events.mjs
+
+      - name: 変更があるときだけ保存
+        shell: bash
+        run: |
+          if git diff --quiet -- automation/events/events.json; then
+            echo "変更はありません"
+            exit 0
+          fi
+          git config user.name "izuminavi-bot"
+          git config user.email "izuminavi-bot@users.noreply.github.com"
+          git add -- automation/events/events.json
+          git commit -m "イベント情報を自動更新"
+          git push
