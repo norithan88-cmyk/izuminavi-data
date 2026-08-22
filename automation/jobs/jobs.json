@@ -1,0 +1,43 @@
+{
+  "updated_at": "2026-08-22T00:20:16.983Z",
+  "source_name": "安城市公式サイト 職員募集",
+  "job_count": 4,
+  "jobs": [
+    {
+      "title": "パートタイム職員（会計年度任用職員）",
+      "type": "随時募集",
+      "summary": "保育士・児童クラブ職員・保健師など",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shokuinboshu/kaikeinendo.html",
+      "updated_date": "2026-06-25",
+      "organization": "安城市",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "学校給食補助員",
+      "type": "随時募集",
+      "summary": "市内小中学校・給食配膳などの補助",
+      "url": "https://www.city.anjo.aichi.jp/manabu/gakko/kyusyoku/documents/documents/gakkokyusyokuhojyoinn.html",
+      "updated_date": "2026-06-03",
+      "organization": "安城市",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公民館職員",
+      "type": "随時募集",
+      "summary": "公民館などで働く会計年度任用職員",
+      "url": "https://www.city.anjo.aichi.jp/manabu/kominkan/documents/syokuinbosyu.html",
+      "updated_date": "2026-05-30",
+      "organization": "安城市",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "安城市 正規職員",
+      "type": "職員採用",
+      "summary": "事務職・技術職・保健師・保育士など",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shokuinboshu/",
+      "updated_date": "2026-05-29",
+      "organization": "安城市",
+      "source": "安城市公式サイト"
+    }
+  ]
+}
