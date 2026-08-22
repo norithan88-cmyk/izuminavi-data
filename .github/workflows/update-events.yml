@@ -1,4 +1,4 @@
-name: イベント情報を自動更新
+name: 地域情報を自動更新
 
 on:
   workflow_dispatch:
@@ -20,18 +20,20 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 安城市のイベントを収集
-        run: node automation/events/collect-events.mjs
+      - name: 安城市のイベントとニュースを収集
+        run: |
+          node automation/events/collect-events.mjs
+          node automation/news/collect-news.mjs
 
       - name: 変更があるときだけ保存
         shell: bash
         run: |
-          if git diff --quiet -- automation/events/events.json; then
+          if git diff --quiet -- automation/events/events.json automation/news/news.json; then
             echo "変更はありません"
             exit 0
           fi
           git config user.name "izuminavi-bot"
           git config user.email "izuminavi-bot@users.noreply.github.com"
-          git add -- automation/events/events.json
-          git commit -m "イベント情報を自動更新"
+          git add -- automation/events/events.json automation/news/news.json
+          git commit -m "地域情報を自動更新"
           git push
