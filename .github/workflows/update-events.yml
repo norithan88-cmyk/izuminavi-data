@@ -27,10 +27,12 @@ jobs:
           node automation/jobs/collect-jobs.mjs
 
       - name: 変更があるときだけ保存
+        id: save
         shell: bash
         run: |
           if git diff --quiet -- automation/events/events.json automation/news/news.json automation/jobs/jobs.json; then
             echo "変更はありません"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "izuminavi-bot"
@@ -38,3 +40,10 @@ jobs:
           git add -- automation/events/events.json automation/news/news.json automation/jobs/jobs.json
           git commit -m "地域情報を自動更新"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: 新着情報をLINEへ投稿
+        if: steps.save.outputs.changed == 'true'
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+        run: node automation/line/send-update.mjs
