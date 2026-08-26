@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:43:37.328+09:00",
+  "updated_at": "2026-08-27T01:43:54.180+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=8&type=2&year=2026",
@@ -10,24 +10,8 @@
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-08-26",
+      "start_date": "2026-08-27",
       "end_date": "2026-09-30",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
-      "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
-      "start_date": "2026-08-26",
-      "end_date": "2026-09-13",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "令和8年度市民公募文化事業美術部門「ここから、また。～2人展～」",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/shiminkoubo/2026kokokaramata.html",
-      "start_date": "2026-08-26",
-      "end_date": "2026-08-30",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
@@ -36,6 +20,22 @@
       "url": "https://www.city.anjo.aichi.jp/event/kankyo-r8wakuwakunature.html",
       "start_date": "2026-08-27",
       "end_date": "2026-08-28",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
+      "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
+      "start_date": "2026-08-27",
+      "end_date": "2026-09-13",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "令和8年度市民公募文化事業美術部門「ここから、また。～2人展～」",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/shiminkoubo/2026kokokaramata.html",
+      "start_date": "2026-08-27",
+      "end_date": "2026-08-30",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
