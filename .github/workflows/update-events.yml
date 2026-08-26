@@ -47,3 +47,25 @@ jobs:
         env:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
         run: node automation/line/send-update.mjs
+
+      - name: 今日のいずみラジオ音声を生成
+        env:
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+        run: |
+          node automation/radio/generate-daily-script.mjs automation/radio/daily-script.txt
+          node automation/radio/generate-audio.mjs automation/radio/daily-script.txt automation/radio/daily.mp3
+
+      - name: ラジオ音声を保存
+        shell: bash
+        run: |
+          if git diff --quiet -- automation/radio/daily-script.txt; then
+            if ! git status --porcelain -- automation/radio/daily.mp3 | grep -q .; then
+              echo "ラジオに変更はありません"
+              exit 0
+            fi
+          fi
+          git config user.name "izuminavi-bot"
+          git config user.email "izuminavi-bot@users.noreply.github.com"
+          git add -- automation/radio/daily-script.txt automation/radio/daily.mp3
+          git commit -m "今日のいずみラジオ音声を更新"
+          git push
