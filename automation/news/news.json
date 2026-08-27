@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T16:43:55.767Z",
+  "updated_at": "2026-08-27T00:47:14.346Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -10,11 +10,35 @@
   "news_count": 40,
   "news": [
     {
+      "title": "休日保育",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/kyujitsuhoiku.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-27T08:46:09+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "「公民館講座」更新しました",
       "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/kouminkankouza.html",
       "summary": "公民館講座",
       "category": "学び",
       "published_at": "2026-08-26T19:04:56+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "愛知・名古屋2026大会女子ソフトボール競技決勝PV",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/asia.html",
+      "summary": "",
+      "category": "文化・スポーツ",
+      "published_at": "2026-08-26T16:12:36+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和6年度体力・運動能力テスト",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/tairyokutest/r8.html",
+      "summary": "",
+      "category": "文化・スポーツ",
+      "published_at": "2026-08-26T15:51:53+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -74,6 +98,54 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "保育園・認定こども園（保育園コース）の令和９年４月新規入園申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/2024shinkinyuenmousikomi.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T11:03:09+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "保育園・認定こども園（保育園コース）の３歳児進級に伴う申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r73saisaityousei.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T11:02:00+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和９年度 保育園・認定こども園オンライン申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/2025onlinemousikomi.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T11:00:35+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和９年４月入園のご案内（保育園・認定こども園（保育園コース））",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/20244gatunyuengoannai.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T11:00:05+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "保育園・認定こども園（保育園コース）の令和９年４月転園申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r74gatsutenen.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T10:59:05+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "リユース品入札受付開始（令和8年8月27日から9月11日まで）",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/gomi/saiseikagu/saiseikagu.html",
+      "summary": "リユース品,入札",
+      "category": "くらし",
+      "published_at": "2026-08-26T10:58:19+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "アジア競技大会開催に伴う総合運動公園内の規制について",
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/asiakouenkisei.html",
       "summary": "",
@@ -95,6 +167,22 @@
       "summary": "",
       "category": "学び",
       "published_at": "2026-08-26T09:21:15+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和9年4月入園のご案内（公立認定こども園（幼稚園コース））",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r9youchienannnai.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T09:04:29+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公立認定こども園（幼稚園コース）の令和9年4月入園申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r9youchienmoushikomi.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-26T09:03:29+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -138,27 +226,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "令和8年度途中入園（5月～3月）のご案内",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/tochunyuenmoushikomi.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-25T17:38:08+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "広報あんじょう2026年(令和8年)9月号",
       "url": "https://www.city.anjo.aichi.jp/shisei/koho/202609/index.html",
       "summary": "",
       "category": "市政",
       "published_at": "2026-08-25T17:25:49+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "市内で起こった消費生活トラブル事例を紹介",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/syouhiseikatu.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-25T16:44:35+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -178,14 +250,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "会計年度任用職員募集",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/sonota/index.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-25T14:58:31+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "第59回安城矢作川マラソン",
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/marason/59marathon.html",
       "summary": "",
@@ -199,38 +263,6 @@
       "summary": "",
       "category": "文化・スポーツ",
       "published_at": "2026-08-25T09:13:02+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "安城市観光案内所「ＫＥＹＰＯＲＴ（キーポート）」",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/keyport.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-25T09:01:10+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "罹災証明書の発行について",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/zeikin/kotei/risaisyoumei.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-24T18:36:10+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "安城市水道事業及び下水道事業審議会",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/suido/gesuido/singikai/singikai.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-24T17:17:42+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "健康情報",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/column.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-24T17:02:35+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -266,14 +298,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "子どもの予防接種",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/yobosessyu/annai.html",
-      "summary": "安城市が実施する子どもの定期予防接種について紹介しています。",
-      "category": "くらし",
-      "published_at": "2026-08-24T13:52:59+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "eフェスNEXT（デジタル人材育成推進事業）",
       "url": "https://www.city.anjo.aichi.jp/shisei/digital-human.html",
       "summary": "",
@@ -290,14 +314,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "献血日程",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/kenketsu/zouki.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-24T11:21:35+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "令和8年8月10日定例記者会見",
       "url": "https://www.city.anjo.aichi.jp/shisei/pressrelease/kisyakaiken/20260810.html",
       "summary": "",
@@ -311,22 +327,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-08-24T10:32:48+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "中心市街地拠点施設（アンフォーレ）",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/anforet/anforet.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-24T10:28:23+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "おやこの料理教室",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/kyoiku/kodomoryouri.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-24T10:10:05+09:00",
       "source": "安城市公式サイト"
     }
   ]
