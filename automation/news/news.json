@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T05:23:30.592Z",
+  "updated_at": "2026-08-29T03:09:52.371Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -10,11 +10,123 @@
   "news_count": 40,
   "news": [
     {
+      "title": "保育園・認定こども園（保育園コース）の令和９年４月新規入園申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/2024shinkinyuenmousikomi.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-28T17:54:24+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "保育園・認定こども園（保育園コース）の令和９年４月転園申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r74gatsutenen.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-28T17:53:40+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "保育園・認定こども園（保育園コース）の３歳児進級に伴う申込み",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r73saisaityousei.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-28T17:52:32+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "環境保全・美化",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/bika/index.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-28T17:14:57+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "安城市埋蔵文化財センターTOP",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/maibun-top.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-28T17:03:36+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "2026年8月報道発表資料",
+      "url": "https://www.city.anjo.aichi.jp/shisei/pressrelease/202608.html",
+      "summary": "安城市が報道発表した資料です。",
+      "category": "市政",
+      "published_at": "2026-08-28T17:02:33+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "催し物案内",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/maibun-event.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-28T16:24:10+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "審議会等の開催予定一覧",
+      "url": "https://www.city.anjo.aichi.jp/shisei/siminsankatokyodo/siminsanka/singikai/singikaiyotei-itiran.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-28T15:26:08+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "緑化推進委員会",
+      "url": "https://www.city.anjo.aichi.jp/shisei/siminsankatokyodo/siminsanka/singikai/ryokkasuisiniinkai.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-28T14:29:19+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "緑化審議会",
+      "url": "https://www.city.anjo.aichi.jp/shisei/siminsankatokyodo/siminsanka/singikai/ryokuka.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-28T14:15:28+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "妊婦のRSウイルス感染症予防接種",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/yobosessyu/ninpurs.html",
+      "summary": "安城市の妊婦の方に向けた、RSウイルス定期予防接種のご案内を掲載しています。",
+      "category": "くらし",
+      "published_at": "2026-08-28T13:48:08+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "市政に関するアンケート(eモニター制度)",
+      "url": "https://www.city.anjo.aichi.jp/shisei/emonitor/index.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-28T12:17:05+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和8年度のアンケート結果",
+      "url": "https://www.city.anjo.aichi.jp/shisei/emonitor/r8result.html",
+      "summary": "eモニターの結果をお知らせします",
+      "category": "市政",
+      "published_at": "2026-08-28T12:16:24+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "ごみステーションの新設・移設・廃止",
       "url": "https://www.city.anjo.aichi.jp/kurasu/gomi/gomidashi/gomistation.html",
       "summary": "",
       "category": "くらし",
       "published_at": "2026-08-28T11:28:22+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "予防接種",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/yobosessyu.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-08-28T10:21:01+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -170,27 +282,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "行事・イベント",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkan7.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-08-27T10:38:02+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "「学校部活動から地域クラブ活動への展開」に向けた取組",
       "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/chugakusei.html",
       "summary": "「学校部活動から地域クラブ活動への展開」に向けた取組",
       "category": "学び",
       "published_at": "2026-08-27T10:36:01+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "遊戯室",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkan6.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-08-27T09:36:33+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -210,27 +306,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "東部公民館講座",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkan8.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-08-27T09:20:05+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "決算等審査",
       "url": "https://www.city.anjo.aichi.jp/shisei/kansa/shinsa/index.html",
       "summary": "",
       "category": "市政",
       "published_at": "2026-08-27T08:50:46+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "東部公民館",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkant.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-08-27T08:48:31+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -242,91 +322,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "明祥公民館",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/meisho.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-08-27T08:26:49+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "「公民館講座」更新しました",
       "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/kouminkankouza.html",
       "summary": "公民館講座",
       "category": "学び",
       "published_at": "2026-08-26T19:04:56+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "愛知・名古屋2026大会女子ソフトボール競技決勝PV",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/asia.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-08-26T16:12:36+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "令和6年度体力・運動能力テスト",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/tairyokutest/r8.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-08-26T15:51:53+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "過去のあんてな",
-      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/kakonoanntena.html",
-      "summary": "",
-      "category": "学び",
-      "published_at": "2026-08-26T15:35:43+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "生涯学習情報誌「あんてな」",
-      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/antena.html",
-      "summary": "生涯学習情報誌「あんてな」",
-      "category": "学び",
-      "published_at": "2026-08-26T15:31:43+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "ものづくり講座",
-      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/fabspace.html",
-      "summary": "ものづくり講座",
-      "category": "学び",
-      "published_at": "2026-08-26T14:06:17+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "条例及び規則",
-      "url": "https://www.city.anjo.aichi.jp/shisei/denshikeijijyo/jyoreioyobikisokunokohubun.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-08-26T13:10:10+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "2026年8月報道発表資料",
-      "url": "https://www.city.anjo.aichi.jp/shisei/pressrelease/202608.html",
-      "summary": "安城市が報道発表した資料です。",
-      "category": "市政",
-      "published_at": "2026-08-26T11:45:43+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "保育園・認定こども園（保育園コース）の令和９年４月新規入園申込み",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/2024shinkinyuenmousikomi.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-26T11:03:09+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "保育園・認定こども園（保育園コース）の３歳児進級に伴う申込み",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/r73saisaityousei.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-08-26T11:02:00+09:00",
       "source": "安城市公式サイト"
     }
   ]
