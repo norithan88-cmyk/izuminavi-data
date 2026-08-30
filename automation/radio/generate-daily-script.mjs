@@ -15,13 +15,13 @@ async function loadJson(path, fallback) {
 }
 
 function todayLabel() {
-  return new Intl.DateTimeFormat('ja-JP', { month: 'long', day: 'numeric', weekday: 'long' }).format(new Date());
+  return new Intl.DateTimeFormat('ja-JP', { month: 'long', day: 'numeric', weekday: 'long', timeZone: 'Asia/Tokyo' }).format(new Date());
 }
 
 function makeHoroscope() {
   const zodiacSigns = ['おひつじ座', 'おうし座', 'ふたご座', 'かに座', 'しし座', 'おとめ座', 'てんびん座', 'さそり座', 'いて座', 'やぎ座', 'みずがめ座', 'うお座'];
   const fortuneTips = ['身近な人へのひと言が幸運を運びます', '焦らず丁寧に進めると良い日です', '新しい情報に小さな発見があります', 'いつもの道を少し変えると気分転換になります', '温かい飲み物でひと息つきましょう', '笑顔のあいさつが運気を明るくします'];
-  const seedText = new Intl.DateTimeFormat('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+  const seedText = new Intl.DateTimeFormat('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit', timeZone: 'Asia/Tokyo' }).format(new Date());
   let seed = 0;
   for (let i = 0; i < seedText.length; i++) seed = (seed * 31 + seedText.charCodeAt(i)) >>> 0;
   const ranked = zodiacSigns.slice();
