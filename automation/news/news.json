@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T06:05:19.864Z",
+  "updated_at": "2026-08-30T23:29:02.844Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -282,6 +282,14 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "作野公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/sakuno-kouminkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-08-27T11:12:06+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "「学校部活動から地域クラブ活動への展開」に向けた取組",
       "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/chugakusei.html",
       "summary": "「学校部活動から地域クラブ活動への展開」に向けた取組",
@@ -319,14 +327,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-08-27T08:46:09+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "「公民館講座」更新しました",
-      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/kouminkankouza.html",
-      "summary": "公民館講座",
-      "category": "学び",
-      "published_at": "2026-08-26T19:04:56+09:00",
       "source": "安城市公式サイト"
     }
   ]
