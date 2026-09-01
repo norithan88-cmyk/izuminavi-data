@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-31T08:28:59.084+09:00",
+  "updated_at": "2026-09-01T09:37:09.579+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
-    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=8&type=2&year=2026",
-    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026"
+    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
+    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
   ],
-  "event_count": 8,
+  "event_count": 14,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-08-31",
-      "end_date": "2026-09-30",
+      "start_date": "2026-09-01",
+      "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
     {
       "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
       "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
-      "start_date": "2026-08-31",
+      "start_date": "2026-09-01",
       "end_date": "2026-09-13",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
@@ -68,6 +68,54 @@
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/shiminkoubo/20260927anjofiestaibento.html",
       "start_date": "2026-09-27",
       "end_date": "2026-09-27",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "第35回市民陶芸まつり",
+      "url": "https://www.city.anjo.aichi.jp/event/2026anshou-tougeimaturi.html",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "桜井こどもハッピーハロウィン祭",
+      "url": "https://www.city.anjo.aichi.jp/event/happyharowin/2026sakuraikouharowin.html",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "作野公民館芸能まつり",
+      "url": "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "川と海のクリーン大作戦",
+      "url": "https://www.city.anjo.aichi.jp/event/26kawatouminoclean.html",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "あんじょう健康大学 第2講",
+      "url": "https://www.city.anjo.aichi.jp/event/20261027kenkodaigaku.html",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "令和8年度男女共同参画月間イベント",
+      "url": "https://www.city.anjo.aichi.jp/event/sankaku/2026gekkan.html",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     }
