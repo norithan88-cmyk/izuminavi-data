@@ -44,11 +44,16 @@ async function main() {
   const events = await loadJson(join(ROOT, 'automation', 'events', 'events.json'), { events: [] });
   const news = await loadJson(join(ROOT, 'automation', 'news', 'news.json'), { news: [] });
   const jobs = await loadJson(join(ROOT, 'automation', 'jobs', 'jobs.json'), { jobs: [] });
+  const ownerMessage = await loadJson(join(HERE, 'owner-message.json'), null);
 
   const segments = [];
-  segments.push('こんにちは。いずみなび初代エーアイアナウンサーの、みおんです。');
-  segments.push('和泉町と明祥地域の、身近な情報を、やさしくお届けします。まだ少し読み方を勉強中ですが、どうぞよろしくお願いします。');
-  segments.push(`${todayLabel()}の、いずみなび地域ラジオを始めます。`);
+  segments.push(`こんにちは。いずみなびAIアナウンサーのみおんです。${todayLabel()}の地域ラジオを始めます。`);
+
+  const ownerText = (ownerMessage && typeof ownerMessage.message === 'string') ? ownerMessage.message.trim() : '';
+  if (ownerText) {
+    segments.push('ここで、いずみなび運営者からひとことです。');
+    segments.push(ownerText);
+  }
 
   segments.push('はじめに、防災情報です。最新の警報・注意報は、いずみなびのトップページと気象庁の公式発表をご確認ください。');
 
