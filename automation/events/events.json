@@ -1,33 +1,17 @@
 {
-  "updated_at": "2026-09-05T18:23:37.549+09:00",
+  "updated_at": "2026-09-06T00:05:41.705+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
   ],
-  "event_count": 14,
+  "event_count": 13,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-09-05",
+      "start_date": "2026-09-06",
       "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
-      "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-13",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "認知症を知ってつながる交流の場 おれんじフェスタ２０２６inアンフォーレを開催します",
-      "url": "https://www.city.anjo.aichi.jp/event/2026orenjifes.html",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-05",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
@@ -36,6 +20,14 @@
       "url": "https://www.city.anjo.aichi.jp/event/geijyutukansyo8event.html",
       "start_date": "2026-09-06",
       "end_date": "2026-09-06",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
+      "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-13",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
