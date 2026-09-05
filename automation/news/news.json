@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T08:59:33.462Z",
+  "updated_at": "2026-09-05T09:07:18.746Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,14 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "安祥公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-05T16:58:01+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "市民企画講座",
       "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/shiminkikakukouza.html",
@@ -231,14 +239,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-09-03T14:45:10+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "広報あんじょう 2001年（平成13年）5月15日",
-      "url": "https://www.city.anjo.aichi.jp/shisei/koho/20010515/index.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-03T14:40:53+09:00",
       "source": "安城市公式サイト"
     },
     {
