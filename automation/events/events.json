@@ -1,32 +1,24 @@
 {
-  "updated_at": "2026-09-06T07:54:14.752+09:00",
+  "updated_at": "2026-09-07T06:11:32.913+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
   ],
-  "event_count": 13,
+  "event_count": 12,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-09-06",
+      "start_date": "2026-09-07",
       "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "芸術鑑賞会「ファミリー演劇鑑賞会」～パパパのうた パパゲーノとパパゲーナ～",
-      "url": "https://www.city.anjo.aichi.jp/event/geijyutukansyo8event.html",
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-06",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
     {
       "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
       "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
-      "start_date": "2026-09-06",
+      "start_date": "2026-09-07",
       "end_date": "2026-09-13",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
