@@ -1,0 +1,946 @@
+{
+  "updated_at": "2026-04-01",
+  "source": "名鉄バス時刻表PDF（2026年4月1日時点）",
+  "note": "名鉄バスは区間ごとの到着時刻が公開されておらず、出発時刻のみの掲載です。そのため、あんくるバスとの自動乗り換え検索(到着時刻の計算)には含めず、参考情報の時刻表としてのみ提供します。",
+  "route_legend": [
+    {
+      "system": "30",
+      "corridor": "名鉄東岡崎駅～矢作橋～別郷～JR安城駅"
+    },
+    {
+      "system": "83",
+      "corridor": "名鉄新安城駅～JR安城駅～安城更生病院～デンパーク"
+    },
+    {
+      "system": "82",
+      "corridor": "名鉄新安城駅～JR安城駅～安城更生病院"
+    },
+    {
+      "system": "81",
+      "corridor": "名鉄新安城駅～JR安城駅"
+    }
+  ],
+  "departure_points": [
+    {
+      "origin": "JR安城駅",
+      "tables": [
+        {
+          "platform": "①のりば",
+          "destination": "名鉄東岡崎駅",
+          "systems_weekday": [
+            "30"
+          ],
+          "systems_weekend": [
+            "30"
+          ],
+          "hours": [
+            {
+              "hour": 6,
+              "weekday": [
+                "50"
+              ],
+              "weekend": []
+            },
+            {
+              "hour": 7,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 8,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 9,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 10,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 11,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 12,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 13,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 14,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 15,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 16,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 17,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 18,
+              "weekday": [
+                "30"
+              ],
+              "weekend": [
+                "30"
+              ]
+            },
+            {
+              "hour": 19,
+              "weekday": [],
+              "weekend": []
+            },
+            {
+              "hour": 20,
+              "weekday": [],
+              "weekend": []
+            },
+            {
+              "hour": 21,
+              "weekday": [],
+              "weekend": []
+            }
+          ]
+        },
+        {
+          "platform": "②のりば",
+          "destination": "名鉄新安城駅",
+          "systems_weekday": [
+            "81",
+            "82"
+          ],
+          "systems_weekend": [
+            "82",
+            "83"
+          ],
+          "hours": [
+            {
+              "hour": 6,
+              "weekday": [
+                "35"
+              ],
+              "weekend": []
+            },
+            {
+              "hour": 7,
+              "weekday": [
+                "02",
+                "28",
+                "58"
+              ],
+              "weekend": [
+                "02",
+                "26",
+                "56"
+              ]
+            },
+            {
+              "hour": 8,
+              "weekday": [
+                "28",
+                "56"
+              ],
+              "weekend": [
+                "26",
+                "56"
+              ]
+            },
+            {
+              "hour": 9,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26",
+                "56"
+              ]
+            },
+            {
+              "hour": 10,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26"
+              ]
+            },
+            {
+              "hour": 11,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26"
+              ]
+            },
+            {
+              "hour": 12,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26"
+              ]
+            },
+            {
+              "hour": 13,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26"
+              ]
+            },
+            {
+              "hour": 14,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26"
+              ]
+            },
+            {
+              "hour": 15,
+              "weekday": [
+                "26",
+                "56"
+              ],
+              "weekend": [
+                "26"
+              ]
+            },
+            {
+              "hour": 16,
+              "weekday": [
+                "28",
+                "58"
+              ],
+              "weekend": [
+                "26",
+                "56"
+              ]
+            },
+            {
+              "hour": 17,
+              "weekday": [
+                "28",
+                "58"
+              ],
+              "weekend": [
+                "26",
+                "56"
+              ]
+            },
+            {
+              "hour": 18,
+              "weekday": [
+                "28",
+                "58"
+              ],
+              "weekend": [
+                "26",
+                "56"
+              ]
+            },
+            {
+              "hour": 19,
+              "weekday": [
+                "28",
+                "56"
+              ],
+              "weekend": [
+                "25",
+                "53"
+              ]
+            },
+            {
+              "hour": 20,
+              "weekday": [
+                "25",
+                "55"
+              ],
+              "weekend": [
+                "23",
+                "53"
+              ]
+            },
+            {
+              "hour": 21,
+              "weekday": [
+                "24"
+              ],
+              "weekend": []
+            }
+          ]
+        },
+        {
+          "platform": "③のりば",
+          "destination": "安城更生病院",
+          "systems_weekday": [
+            "82"
+          ],
+          "systems_weekend": [
+            "82",
+            "83"
+          ],
+          "notes": [
+            "*83 = 安城更生病院経由デンパーク行き"
+          ],
+          "hours": [
+            {
+              "hour": 6,
+              "weekday": [
+                "51"
+              ],
+              "weekend": []
+            },
+            {
+              "hour": 7,
+              "weekday": [
+                "22",
+                "56"
+              ],
+              "weekend": [
+                "00",
+                "30",
+                "53"
+              ]
+            },
+            {
+              "hour": 8,
+              "weekday": [
+                "26",
+                "54"
+              ],
+              "weekend": [
+                "25",
+                "55"
+              ]
+            },
+            {
+              "hour": 9,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25",
+                "55"
+              ]
+            },
+            {
+              "hour": 10,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25*83"
+              ]
+            },
+            {
+              "hour": 11,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25*83"
+              ]
+            },
+            {
+              "hour": 12,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25*83"
+              ]
+            },
+            {
+              "hour": 13,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25*83"
+              ]
+            },
+            {
+              "hour": 14,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25*83"
+              ]
+            },
+            {
+              "hour": 15,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25*83"
+              ]
+            },
+            {
+              "hour": 16,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25",
+                "55"
+              ]
+            },
+            {
+              "hour": 17,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25",
+                "55"
+              ]
+            },
+            {
+              "hour": 18,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "25",
+                "55"
+              ]
+            },
+            {
+              "hour": 19,
+              "weekday": [
+                "23",
+                "53"
+              ],
+              "weekend": [
+                "21",
+                "51"
+              ]
+            },
+            {
+              "hour": 20,
+              "weekday": [
+                "21",
+                "51"
+              ],
+              "weekend": [
+                "25"
+              ]
+            },
+            {
+              "hour": 21,
+              "weekday": [
+                "33"
+              ],
+              "weekend": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "名鉄新安城駅",
+      "tables": [
+        {
+          "destination": "安城更生病院",
+          "systems_weekday": [
+            "82"
+          ],
+          "systems_weekend": [
+            "82",
+            "83",
+            "81"
+          ],
+          "notes": [
+            "*83 = 安城更生病院経由デンパーク行き",
+            "*81 = JR安城駅どまり"
+          ],
+          "hours": [
+            {
+              "hour": 6,
+              "weekday": [
+                "36"
+              ],
+              "weekend": [
+                "45"
+              ]
+            },
+            {
+              "hour": 7,
+              "weekday": [
+                "02",
+                "36"
+              ],
+              "weekend": [
+                "13",
+                "36"
+              ]
+            },
+            {
+              "hour": 8,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06",
+                "36"
+              ]
+            },
+            {
+              "hour": 9,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06",
+                "36"
+              ]
+            },
+            {
+              "hour": 10,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06*83"
+              ]
+            },
+            {
+              "hour": 11,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06*83"
+              ]
+            },
+            {
+              "hour": 12,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06*83"
+              ]
+            },
+            {
+              "hour": 13,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06*83"
+              ]
+            },
+            {
+              "hour": 14,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06*83"
+              ]
+            },
+            {
+              "hour": 15,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06*83"
+              ]
+            },
+            {
+              "hour": 16,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06",
+                "36"
+              ]
+            },
+            {
+              "hour": 17,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06",
+                "36"
+              ]
+            },
+            {
+              "hour": 18,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06",
+                "36"
+              ]
+            },
+            {
+              "hour": 19,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "06",
+                "36"
+              ]
+            },
+            {
+              "hour": 20,
+              "weekday": [
+                "06",
+                "36"
+              ],
+              "weekend": [
+                "10",
+                "40*81"
+              ]
+            },
+            {
+              "hour": 21,
+              "weekday": [
+                "20"
+              ],
+              "weekend": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "origin": "安城更生病院",
+      "tables": [
+        {
+          "destination": "名鉄新安城駅",
+          "systems_weekday": [
+            "82"
+          ],
+          "systems_weekend": [
+            "82",
+            "83"
+          ],
+          "hours": [
+            {
+              "hour": 6,
+              "weekday": [
+                "50"
+              ],
+              "weekend": [
+                "50"
+              ]
+            },
+            {
+              "hour": 7,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 8,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 9,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 10,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14"
+              ]
+            },
+            {
+              "hour": 11,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14"
+              ]
+            },
+            {
+              "hour": 12,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14"
+              ]
+            },
+            {
+              "hour": 13,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14"
+              ]
+            },
+            {
+              "hour": 14,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14"
+              ]
+            },
+            {
+              "hour": 15,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14"
+              ]
+            },
+            {
+              "hour": 16,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 17,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 18,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 19,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 20,
+              "weekday": [
+                "14",
+                "44"
+              ],
+              "weekend": [
+                "14",
+                "44"
+              ]
+            },
+            {
+              "hour": 21,
+              "weekday": [
+                "14"
+              ],
+              "weekend": []
+            }
+          ]
+        },
+        {
+          "destination": "デンパーク",
+          "systems_weekday": [],
+          "systems_weekend": [
+            "83"
+          ],
+          "hours": [
+            {
+              "hour": 10,
+              "weekday": [],
+              "weekend": [
+                "34"
+              ]
+            },
+            {
+              "hour": 11,
+              "weekday": [],
+              "weekend": [
+                "34"
+              ]
+            },
+            {
+              "hour": 12,
+              "weekday": [],
+              "weekend": [
+                "34"
+              ]
+            },
+            {
+              "hour": 13,
+              "weekday": [],
+              "weekend": [
+                "34"
+              ]
+            },
+            {
+              "hour": 14,
+              "weekday": [],
+              "weekend": [
+                "34"
+              ]
+            },
+            {
+              "hour": 15,
+              "weekday": [],
+              "weekend": [
+                "34"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
