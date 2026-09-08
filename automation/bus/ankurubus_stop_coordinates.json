@@ -1,0 +1,1213 @@
+{
+  "schema_version": 2,
+  "dataset_name": "あんくるバス停留所・公式代表座標（いずみなび用）",
+  "updated_at": "2026-09-09",
+  "source": "https://ankuru-bus.com/",
+  "source_timetable": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/ankurubus/documents/2604ankurubus-nihongo.pdf",
+  "important_note": "stops は公式代表地点です。方向別または臨時移設は direction_points に追加すると優先されます。",
+  "direction_key_format": "路線名|進行方向|停留所名",
+  "stop_count": 170,
+  "stops": {
+    "安城更生病院": {
+      "lat": 34.940803,
+      "lng": 137.078248,
+      "official_name": "安城更生病院",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=1"
+    },
+    "でんまるしぇ": {
+      "lat": 34.939921,
+      "lng": 137.074723,
+      "official_name": "でんまるしぇ",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=2"
+    },
+    "赤松北": {
+      "lat": 34.943669,
+      "lng": 137.069271,
+      "official_name": "赤松北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=3"
+    },
+    "総合福祉センター": {
+      "lat": 34.945917,
+      "lng": 137.071971,
+      "official_name": "総合福祉センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=4"
+    },
+    "南中学校": {
+      "lat": 34.948472,
+      "lng": 137.075048,
+      "official_name": "南中学校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=5"
+    },
+    "百々目木": {
+      "lat": 34.950385,
+      "lng": 137.076939,
+      "official_name": "百々目木",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=6"
+    },
+    "小堤": {
+      "lat": 34.95315,
+      "lng": 137.07828,
+      "official_name": "小堤",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=7"
+    },
+    "百石": {
+      "lat": 34.955485,
+      "lng": 137.076496,
+      "official_name": "百石",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=8"
+    },
+    "安城警察署": {
+      "lat": 34.957921,
+      "lng": 137.073289,
+      "official_name": "安城警察署",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=9"
+    },
+    "保健センター": {
+      "lat": 34.959745,
+      "lng": 137.073922,
+      "official_name": "保健センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=10"
+    },
+    "教育センター": {
+      "lat": 34.960092,
+      "lng": 137.075681,
+      "official_name": "教育センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=11"
+    },
+    "安城公園": {
+      "lat": 34.958453,
+      "lng": 137.078481,
+      "official_name": "安城公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=12"
+    },
+    "市役所・文化センター": {
+      "lat": 34.959119,
+      "lng": 137.080866,
+      "official_name": "市役所・文化センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=13"
+    },
+    "アンフォーレ": {
+      "lat": 34.959744,
+      "lng": 137.083814,
+      "official_name": "アンフォーレ",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=14"
+    },
+    "JR安城駅": {
+      "lat": 34.959138,
+      "lng": 137.087533,
+      "official_name": "ＪＲ安城駅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=15"
+    },
+    "朝日町西": {
+      "lat": 34.95689559,
+      "lng": 137.0884179,
+      "official_name": "朝日町西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=16"
+    },
+    "日の出": {
+      "lat": 34.954293,
+      "lng": 137.091072,
+      "official_name": "日の出",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=17"
+    },
+    "南安城駅": {
+      "lat": 34.952517,
+      "lng": 137.09244,
+      "official_name": "南安城駅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=18"
+    },
+    "南町": {
+      "lat": 34.952585,
+      "lng": 137.087719,
+      "official_name": "南町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=19"
+    },
+    "秋葉公園": {
+      "lat": 34.949877,
+      "lng": 137.085777,
+      "official_name": "秋葉公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=20"
+    },
+    "秋葉住宅西": {
+      "lat": 34.947522,
+      "lng": 137.084076,
+      "official_name": "秋葉住宅西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=1&pass_no=21"
+    },
+    "朝日町東": {
+      "lat": 34.95578491,
+      "lng": 137.08953914,
+      "official_name": "朝日町東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=2&pass_no=7"
+    },
+    "市役所": {
+      "lat": 34.958617,
+      "lng": 137.081284,
+      "official_name": "市役所",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=2&pass_no=11"
+    },
+    "安城神社": {
+      "lat": 34.956896,
+      "lng": 137.079265,
+      "official_name": "安城神社",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=2&pass_no=12"
+    },
+    "古井住宅": {
+      "lat": 34.934717,
+      "lng": 137.086222,
+      "official_name": "古井住宅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=18"
+    },
+    "古井新町": {
+      "lat": 34.934449,
+      "lng": 137.088926,
+      "official_name": "古井新町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=17"
+    },
+    "古井駅": {
+      "lat": 34.93643,
+      "lng": 137.091463,
+      "official_name": "古井駅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=17"
+    },
+    "古井北": {
+      "lat": 34.937883,
+      "lng": 137.09452,
+      "official_name": "古井北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=53"
+    },
+    "安祥福祉センター": {
+      "lat": 34.943428,
+      "lng": 137.092823,
+      "official_name": "安祥福祉センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=23"
+    },
+    "古井町内会": {
+      "lat": 34.933844,
+      "lng": 137.094655,
+      "official_name": "古井町内会",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=16"
+    },
+    "堀内公園": {
+      "lat": 34.928186,
+      "lng": 137.093099,
+      "official_name": "堀内公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=15"
+    },
+    "円光寺": {
+      "lat": 34.925158,
+      "lng": 137.093432,
+      "official_name": "円光寺",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=14"
+    },
+    "城山公園": {
+      "lat": 34.921769,
+      "lng": 137.093657,
+      "official_name": "城山公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=13"
+    },
+    "桜井駅北": {
+      "lat": 34.919112,
+      "lng": 137.091769,
+      "official_name": "桜井駅北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=12"
+    },
+    "桜井駅": {
+      "lat": 34.918101,
+      "lng": 137.087928,
+      "official_name": "桜井駅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=11"
+    },
+    "桜井駅東": {
+      "lat": 34.91693,
+      "lng": 137.089387,
+      "official_name": "桜井駅東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=10"
+    },
+    "桜井中央公園": {
+      "lat": 34.91247,
+      "lng": 137.092134,
+      "official_name": "桜井中央公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=9"
+    },
+    "小川": {
+      "lat": 34.909215,
+      "lng": 137.092606,
+      "official_name": "小川",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=8"
+    },
+    "岩根": {
+      "lat": 34.903182,
+      "lng": 137.091748,
+      "official_name": "岩根",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=7"
+    },
+    "寺領": {
+      "lat": 34.898975,
+      "lng": 137.090605,
+      "official_name": "寺領",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=6"
+    },
+    "木戸": {
+      "lat": 34.896298,
+      "lng": 137.090954,
+      "official_name": "木戸",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=5"
+    },
+    "藤井東": {
+      "lat": 34.895264,
+      "lng": 137.085519,
+      "official_name": "藤井東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=4"
+    },
+    "藤井西": {
+      "lat": 34.895035,
+      "lng": 137.080472,
+      "official_name": "藤井西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=3"
+    },
+    "野寺本證寺前": {
+      "lat": 34.900244,
+      "lng": 137.086093,
+      "official_name": "野寺本證寺前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=2"
+    },
+    "南桜井駅": {
+      "lat": 34.905897,
+      "lng": 137.077177,
+      "official_name": "南桜井駅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=201&pass_no=1"
+    },
+    "昭林公園": {
+      "lat": 34.945451,
+      "lng": 137.07537,
+      "official_name": "昭林公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=21"
+    },
+    "赤松": {
+      "lat": 34.940418,
+      "lng": 137.065296,
+      "official_name": "赤松",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=18"
+    },
+    "赤松向": {
+      "lat": 34.936432,
+      "lng": 137.063069,
+      "official_name": "赤松向",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=17"
+    },
+    "デンパーク東": {
+      "lat": 34.929114,
+      "lng": 137.065296,
+      "official_name": "デンパーク東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=16"
+    },
+    "デンパーク": {
+      "lat": 34.92991,
+      "lng": 137.061801,
+      "official_name": "デンパーク",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=15"
+    },
+    "和泉北": {
+      "lat": 34.931801,
+      "lng": 137.052362,
+      "official_name": "和泉北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=14"
+    },
+    "上之切": {
+      "lat": 34.924551,
+      "lng": 137.047338,
+      "official_name": "上之切",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=13"
+    },
+    "和泉丈山苑": {
+      "lat": 34.923304,
+      "lng": 137.047308,
+      "official_name": "和泉丈山苑",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=12"
+    },
+    "明祥プラザマーメイドパレス": {
+      "lat": 34.912333,
+      "lng": 137.044334,
+      "official_name": "明祥プラザ・マーメイドパレス",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=11"
+    },
+    "城ヶ入": {
+      "lat": 34.905152,
+      "lng": 137.051224,
+      "official_name": "城ヶ入",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=10"
+    },
+    "新井": {
+      "lat": 34.899927,
+      "lng": 137.047756,
+      "official_name": "新井",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=9"
+    },
+    "欠間": {
+      "lat": 34.895844,
+      "lng": 137.04711,
+      "official_name": "欠間",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=8"
+    },
+    "根崎東": {
+      "lat": 34.898981,
+      "lng": 137.036875,
+      "official_name": "根崎東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=7"
+    },
+    "根崎西": {
+      "lat": 34.900064,
+      "lng": 137.032911,
+      "official_name": "根崎西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=6"
+    },
+    "殿町": {
+      "lat": 34.902352,
+      "lng": 137.028463,
+      "official_name": "殿町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=5"
+    },
+    "東端保育園": {
+      "lat": 34.905516,
+      "lng": 137.024716,
+      "official_name": "東端保育園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=4"
+    },
+    "東端": {
+      "lat": 34.904584,
+      "lng": 137.020494,
+      "official_name": "東端",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=3"
+    },
+    "油ヶ淵水辺公園前": {
+      "lat": 34.9004609,
+      "lng": 137.01721,
+      "official_name": "油ヶ淵水辺公園前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=2"
+    },
+    "碧南市民病院": {
+      "lat": 34.901137,
+      "lng": 137.013022,
+      "official_name": "碧南市民病院",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=301&pass_no=1"
+    },
+    "百石南": {
+      "lat": 34.949642,
+      "lng": 137.071869,
+      "official_name": "百石南",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=19"
+    },
+    "横山南": {
+      "lat": 34.954727,
+      "lng": 137.067581,
+      "official_name": "横山南",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=18"
+    },
+    "三河安城小学校": {
+      "lat": 34.959461,
+      "lng": 137.063583,
+      "official_name": "三河安城小学校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=17"
+    },
+    "下管池西": {
+      "lat": 34.96339,
+      "lng": 137.068512,
+      "official_name": "下管池西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=16"
+    },
+    "三河安城東町": {
+      "lat": 34.966293,
+      "lng": 137.066238,
+      "official_name": "三河安城東町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=15"
+    },
+    "三河安城駅中央口": {
+      "lat": 34.969138,
+      "lng": 137.06106,
+      "official_name": "三河安城駅中央口",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=14"
+    },
+    "ツインパーク": {
+      "lat": 34.965694,
+      "lng": 137.060974,
+      "official_name": "ツインパーク",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=13"
+    },
+    "箕輪町内会": {
+      "lat": 34.956512,
+      "lng": 137.05806,
+      "official_name": "箕輪町内会",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=12"
+    },
+    "小矢場": {
+      "lat": 34.952919,
+      "lng": 137.058441,
+      "official_name": "小矢場",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=11"
+    },
+    "五十石": {
+      "lat": 34.950768,
+      "lng": 137.052157,
+      "official_name": "五十石",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=10"
+    },
+    "西中学校": {
+      "lat": 34.948757,
+      "lng": 137.048416,
+      "official_name": "西中学校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=9"
+    },
+    "西部福祉センター": {
+      "lat": 34.947357,
+      "lng": 137.04422,
+      "official_name": "西部福祉センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=8"
+    },
+    "福釜町内会": {
+      "lat": 34.944793,
+      "lng": 137.045945,
+      "official_name": "福釜町内会",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=7"
+    },
+    "蔵前": {
+      "lat": 34.942665,
+      "lng": 137.044174,
+      "official_name": "蔵前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=6"
+    },
+    "榎前北": {
+      "lat": 34.936783,
+      "lng": 137.036362,
+      "official_name": "榎前北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=5"
+    },
+    "榎前": {
+      "lat": 34.934608,
+      "lng": 137.03421,
+      "official_name": "榎前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=4"
+    },
+    "高棚口": {
+      "lat": 34.937962,
+      "lng": 137.031418,
+      "official_name": "高棚口",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=3"
+    },
+    "高棚郵便局": {
+      "lat": 34.941124,
+      "lng": 137.026672,
+      "official_name": "高棚郵便局",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=2"
+    },
+    "高棚": {
+      "lat": 34.941189,
+      "lng": 137.023773,
+      "official_name": "高棚",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=401&pass_no=1"
+    },
+    "松井整形前": {
+      "lat": 34.95563,
+      "lng": 137.093866,
+      "official_name": "松井整形前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=11"
+    },
+    "東新町": {
+      "lat": 34.957819,
+      "lng": 137.096549,
+      "official_name": "東新町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=18"
+    },
+    "新田": {
+      "lat": 34.961671,
+      "lng": 137.094918,
+      "official_name": "新田",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=17"
+    },
+    "北安城駅東": {
+      "lat": 34.966041,
+      "lng": 137.093539,
+      "official_name": "北安城駅東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=16"
+    },
+    "中部福祉センター": {
+      "lat": 34.970481,
+      "lng": 137.092525,
+      "official_name": "中部福祉センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=15"
+    },
+    "新田北": {
+      "lat": 34.96615,
+      "lng": 137.099176,
+      "official_name": "新田北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=14"
+    },
+    "コアラドライブ安城": {
+      "lat": 34.967236,
+      "lng": 137.106852,
+      "official_name": "コアラドライブ安城",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=13"
+    },
+    "東別所": {
+      "lat": 34.964528,
+      "lng": 137.11479,
+      "official_name": "東別所",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=12"
+    },
+    "別所団地": {
+      "lat": 34.969228,
+      "lng": 137.113537,
+      "official_name": "別所団地",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=11"
+    },
+    "宇頭駅南": {
+      "lat": 34.969927,
+      "lng": 137.117614,
+      "official_name": "宇頭駅南",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=10"
+    },
+    "柿": {
+      "lat": 34.97576,
+      "lng": 137.119988,
+      "official_name": "柿碕",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=9"
+    },
+    "尾崎町東": {
+      "lat": 34.976742,
+      "lng": 137.116727,
+      "official_name": "尾崎町東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=8"
+    },
+    "尾崎公民館": {
+      "lat": 34.979081,
+      "lng": 137.114176,
+      "official_name": "尾崎公民館",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=7"
+    },
+    "熊野神社": {
+      "lat": 34.980968,
+      "lng": 137.111907,
+      "official_name": "熊野神社",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=6"
+    },
+    "宇頭茶屋": {
+      "lat": 34.983223,
+      "lng": 137.108951,
+      "official_name": "宇頭茶屋",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=5"
+    },
+    "宇頭茶屋説教所": {
+      "lat": 34.985328,
+      "lng": 137.105955,
+      "official_name": "宇頭茶屋説教所",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=4"
+    },
+    "浜屋": {
+      "lat": 34.987115,
+      "lng": 137.102273,
+      "official_name": "浜屋",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=3"
+    },
+    "明治川神社": {
+      "lat": 34.985755,
+      "lng": 137.099022,
+      "official_name": "明治川神社",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=2"
+    },
+    "北部福祉センター": {
+      "lat": 34.984509,
+      "lng": 137.097737,
+      "official_name": "北部福祉センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=501&pass_no=1"
+    },
+    "新安城駅南口": {
+      "lat": 34.987045,
+      "lng": 137.084579,
+      "official_name": "新安城駅南口",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=1"
+    },
+    "イトーヨーカドー安城店": {
+      "lat": 34.984844,
+      "lng": 137.081787,
+      "official_name": "イトーヨーカドー安城店",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=2"
+    },
+    "荒曽根住宅": {
+      "lat": 34.980965,
+      "lng": 137.078751,
+      "official_name": "荒曽根住宅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=3"
+    },
+    "作野公民館": {
+      "lat": 34.978058,
+      "lng": 137.075943,
+      "official_name": "作野公民館",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=4"
+    },
+    "段留公園": {
+      "lat": 34.980003,
+      "lng": 137.0728,
+      "official_name": "段留公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=5"
+    },
+    "作野福祉センター": {
+      "lat": 34.98209,
+      "lng": 137.068192,
+      "official_name": "作野福祉センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=6"
+    },
+    "篠目町大西": {
+      "lat": 34.976894,
+      "lng": 137.064529,
+      "official_name": "篠目町大西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=7"
+    },
+    "三河安城駅北口": {
+      "lat": 34.970566,
+      "lng": 137.061874,
+      "official_name": "三河安城駅北口",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=8"
+    },
+    "井杭山": {
+      "lat": 34.974628,
+      "lng": 137.061844,
+      "official_name": "井杭山",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=9"
+    },
+    "養下公園": {
+      "lat": 34.977043,
+      "lng": 137.055344,
+      "official_name": "養下公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=10"
+    },
+    "美園": {
+      "lat": 34.977539,
+      "lng": 137.05127,
+      "official_name": "美園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=11"
+    },
+    "美園公園": {
+      "lat": 34.975548,
+      "lng": 137.051178,
+      "official_name": "美園公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=12"
+    },
+    "東刈谷駅北口": {
+      "lat": 34.9776,
+      "lng": 137.043701,
+      "official_name": "東刈谷駅北口",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=13"
+    },
+    "依佐美住宅": {
+      "lat": 34.978882,
+      "lng": 137.046082,
+      "official_name": "依佐美住宅",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=14"
+    },
+    "美園郵便局": {
+      "lat": 34.976974,
+      "lng": 137.049088,
+      "official_name": "美園郵便局",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=15"
+    },
+    "緑町": {
+      "lat": 34.974529,
+      "lng": 137.047623,
+      "official_name": "緑町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=16"
+    },
+    "ＪＡ二本木支店": {
+      "lat": 34.971783,
+      "lng": 137.05127,
+      "official_name": "ＪＡ二本木支店",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=17"
+    },
+    "八千代病院": {
+      "lat": 34.986153,
+      "lng": 137.080032,
+      "official_name": "八千代病院",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=34"
+    },
+    "住吉": {
+      "lat": 34.987801,
+      "lng": 137.076355,
+      "official_name": "住吉",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=33"
+    },
+    "作野小北": {
+      "lat": 34.984634,
+      "lng": 137.07428,
+      "official_name": "作野小北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=32"
+    },
+    "篠目三丁目": {
+      "lat": 34.982357,
+      "lng": 137.072876,
+      "official_name": "篠目三丁目",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=31"
+    },
+    "篠目公園": {
+      "lat": 34.976372,
+      "lng": 137.070282,
+      "official_name": "篠目公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=30"
+    },
+    "池浦西": {
+      "lat": 34.971596,
+      "lng": 137.074326,
+      "official_name": "池浦西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=29"
+    },
+    "農林高校前": {
+      "lat": 34.967472,
+      "lng": 137.078598,
+      "official_name": "農林高校前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=28"
+    },
+    "ららぽーと安城": {
+      "lat": 34.96585,
+      "lng": 137.08117,
+      "official_name": "ららぽーと安城",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=27"
+    },
+    "中部小学校": {
+      "lat": 34.963997,
+      "lng": 137.085266,
+      "official_name": "中部小学校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=26"
+    },
+    "桜町": {
+      "lat": 34.961899,
+      "lng": 137.079056,
+      "official_name": "桜町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=22"
+    },
+    "横山町寺田": {
+      "lat": 34.964207,
+      "lng": 137.072769,
+      "official_name": "横山町寺田",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=21"
+    },
+    "二本木公民館": {
+      "lat": 34.97131,
+      "lng": 137.055161,
+      "official_name": "二本木公民館",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=601&pass_no=18"
+    },
+    "新安城駅北口": {
+      "lat": 34.987556,
+      "lng": 137.085114,
+      "official_name": "新安城駅北口",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=12"
+    },
+    "今村公園西": {
+      "lat": 34.989704,
+      "lng": 137.081689,
+      "official_name": "今村公園西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=43"
+    },
+    "今村郵便局": {
+      "lat": 34.991543,
+      "lng": 137.084641,
+      "official_name": "今村郵便局",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=19"
+    },
+    "今本町": {
+      "lat": 34.994415,
+      "lng": 137.081772,
+      "official_name": "今本町",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=14"
+    },
+    "猿渡橋": {
+      "lat": 34.997129,
+      "lng": 137.082689,
+      "official_name": "猿渡橋",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=15"
+    },
+    "不乗森神社西": {
+      "lat": 35.001167,
+      "lng": 137.086769,
+      "official_name": "不乗森神社西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=16"
+    },
+    "里町内会": {
+      "lat": 34.997051,
+      "lng": 137.087875,
+      "official_name": "里町内会",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=17"
+    },
+    "北部小学校": {
+      "lat": 34.994148,
+      "lng": 137.086197,
+      "official_name": "北部小学校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=18"
+    },
+    "東栄二丁目": {
+      "lat": 34.989632,
+      "lng": 137.086533,
+      "official_name": "東栄二丁目",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=11"
+    },
+    "野池": {
+      "lat": 34.991135,
+      "lng": 137.08847,
+      "official_name": "野池",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=10"
+    },
+    "北部公民館": {
+      "lat": 34.992138,
+      "lng": 137.090561,
+      "official_name": "北部公民館",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=9"
+    },
+    "井畑": {
+      "lat": 34.994896,
+      "lng": 137.092529,
+      "official_name": "井畑",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=8"
+    },
+    "重原田公園": {
+      "lat": 34.996387,
+      "lng": 137.094467,
+      "official_name": "重原田公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=7"
+    },
+    "石橋公園": {
+      "lat": 34.995872,
+      "lng": 137.098618,
+      "official_name": "石橋公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=6"
+    },
+    "石橋": {
+      "lat": 34.993835,
+      "lng": 137.094955,
+      "official_name": "石橋",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=5"
+    },
+    "東大道": {
+      "lat": 34.990917,
+      "lng": 137.094238,
+      "official_name": "東大道",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=4"
+    },
+    "東栄公園": {
+      "lat": 34.987801,
+      "lng": 137.093491,
+      "official_name": "東栄公園",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=3"
+    },
+    "ピアゴ東栄店": {
+      "lat": 34.986,
+      "lng": 137.095703,
+      "official_name": "ピアゴ東栄店",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=801&pass_no=2"
+    },
+    "堀内町北": {
+      "lat": 34.931102,
+      "lng": 137.088529,
+      "official_name": "堀内町北",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=16"
+    },
+    "堀内公園駅西": {
+      "lat": 34.926611,
+      "lng": 137.08729,
+      "official_name": "堀内公園駅西",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=15"
+    },
+    "アピタ安城南店": {
+      "lat": 34.92033,
+      "lng": 137.086233,
+      "official_name": "アピタ安城南店",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=14"
+    },
+    "特別支援学校": {
+      "lat": 34.916653,
+      "lng": 137.082446,
+      "official_name": "特別支援学校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=12"
+    },
+    "南高校": {
+      "lat": 34.917797,
+      "lng": 137.077419,
+      "official_name": "南高校",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=11"
+    },
+    "南分署前": {
+      "lat": 34.920432,
+      "lng": 137.0669,
+      "official_name": "南分署前",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=10"
+    },
+    "アグリライフ支援センター": {
+      "lat": 34.923172,
+      "lng": 137.065708,
+      "official_name": "アグリライフ支援センター",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=9"
+    },
+    "庄司作": {
+      "lat": 34.92108,
+      "lng": 137.056028,
+      "official_name": "庄司作",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=6"
+    },
+    "和泉工業団地東": {
+      "lat": 34.914137,
+      "lng": 137.064089,
+      "official_name": "和泉工業団地東",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=5"
+    },
+    "山中": {
+      "lat": 34.911577,
+      "lng": 137.070901,
+      "official_name": "山中",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=4"
+    },
+    "小川の里": {
+      "lat": 34.910037,
+      "lng": 137.078159,
+      "official_name": "小川の里",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=3"
+    },
+    "御林": {
+      "lat": 34.909483,
+      "lng": 137.082644,
+      "official_name": "御林",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=901&pass_no=2"
+    },
+    "川島": {
+      "lat": 34.924381,
+      "lng": 137.106698,
+      "official_name": "川島",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=1"
+    },
+    "村高": {
+      "lat": 34.927249,
+      "lng": 137.111019,
+      "official_name": "村高",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=2"
+    },
+    "河野": {
+      "lat": 34.933037,
+      "lng": 137.111322,
+      "official_name": "河野",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=3"
+    },
+    "歴史博物館": {
+      "lat": 34.94606,
+      "lng": 137.098987,
+      "official_name": "歴史博物館",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=4"
+    },
+    "西尾": {
+      "lat": 34.948681,
+      "lng": 137.09643,
+      "official_name": "西尾",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=5"
+    },
+    "安城コロナワールド": {
+      "lat": 34.954122,
+      "lng": 137.097439,
+      "official_name": "安城コロナワールド",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=12"
+    },
+    "山崎": {
+      "lat": 34.954416,
+      "lng": 137.102561,
+      "official_name": "山崎",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=13"
+    },
+    "上条": {
+      "lat": 34.95381,
+      "lng": 137.100411,
+      "official_name": "上条",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=14"
+    },
+    "アオキスーパー東明店": {
+      "lat": 34.952007,
+      "lng": 137.097015,
+      "official_name": "アオキスーパー東明店",
+      "position_type": "official_representative",
+      "source_url": "https://ankuru-bus.com/busstop_6.php?keito_no=101&pass_no=42"
+    }
+  },
+  "direction_points": {},
+  "maintenance_example": {
+    "南部線|安城更生病院→碧南市民病院|和泉丈山苑": {
+      "lat": 34.923304,
+      "lng": 137.047308,
+      "status": "verified",
+      "valid_from": "2026-09-09",
+      "valid_until": null,
+      "note": "現地確認後に座標・状態・注記を更新してください"
+    }
+  }
+}
