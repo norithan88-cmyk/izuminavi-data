@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T23:09:45.041Z",
+  "updated_at": "2026-09-11T02:24:40.594Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -10,6 +10,30 @@
   "news_count": 40,
   "news": [
     {
+      "title": "見つかるつながる(公開用）",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/koureisya/documents/documents/yukuefumei.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-09-11T10:16:12+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "寄附企業のご紹介（令和8年度）",
+      "url": "https://www.city.anjo.aichi.jp/shisei/joreikeikaku/kigyoubankihukigyour8.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-11T08:56:28+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "地方創生関係交付金",
+      "url": "https://www.city.anjo.aichi.jp/shisei/keikaku/kouhukinjixtuseki.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-11T08:46:14+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "男女共同参画月間イベント",
       "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/siminkatudo/sankaku/documents/gekkannevent/2018.html",
       "summary": "",
@@ -18,11 +42,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "見つかるつながる(公開用）",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/koureisya/documents/documents/yukuefumei.html",
+      "title": "こころの健康",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/kokoronokenko.html",
       "summary": "",
       "category": "くらし",
-      "published_at": "2026-09-10T16:18:12+09:00",
+      "published_at": "2026-09-10T16:43:39+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -71,6 +95,14 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-10T09:15:45+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "災害時の指定避難所",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/yakudachi/hinanjo.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-09-09T16:21:27+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -194,14 +226,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "災害時の指定避難所",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/yakudachi/hinanjo.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-09-08T14:52:50+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "人口・世帯数",
       "url": "https://www.city.anjo.aichi.jp/shisei/tokei/jinkousetai.html",
       "summary": "安城市の毎月の人口及び世帯数です。",
@@ -266,27 +290,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "令和8年（年齢別・男女別・5歳階級別）",
-      "url": "https://www.city.anjo.aichi.jp/shisei/tokei/reiwa8nenreidanjo5saikaikyu.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-07T15:54:06+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "令和8年（町字別）",
       "url": "https://www.city.anjo.aichi.jp/shisei/tokei/reiwa8machiazabetsu.html",
       "summary": "",
       "category": "市政",
       "published_at": "2026-09-07T15:52:49+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "広報あんじょう2015年（平成27年）1月1日号",
-      "url": "https://www.city.anjo.aichi.jp/shisei/koho/20150101/index.html",
-      "summary": "広報あんじょう1月1日号を掲載。",
-      "category": "市政",
-      "published_at": "2026-09-07T15:13:43+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -303,14 +311,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-07T14:06:45+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "市税概要",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/zeikin/shizeigaiyou.html",
-      "summary": "愛知県安城市の市税概要です。",
-      "category": "くらし",
-      "published_at": "2026-09-07T13:39:34+09:00",
       "source": "安城市公式サイト"
     },
     {
