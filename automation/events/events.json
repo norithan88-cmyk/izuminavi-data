@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-12T08:15:17.105+09:00",
+  "updated_at": "2026-09-13T06:42:57.923+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
   ],
-  "event_count": 13,
+  "event_count": 12,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-09-12",
+      "start_date": "2026-09-13",
       "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
@@ -18,30 +18,22 @@
     {
       "title": "Instagramフォロワー3,000人達成＆丈山苑開苑30周年プレゼントキャンペーン",
       "url": "https://www.city.anjo.aichi.jp/event/instagramkyannpe-nn.html",
-      "start_date": "2026-09-12",
+      "start_date": "2026-09-13",
       "end_date": "2026-09-30",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "第29回中部公民館芸能まつり",
-      "url": "https://www.city.anjo.aichi.jp/event/08chubu-geinoumaturi-.html",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-12",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
-      "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
     {
       "title": "第33回昭林落語会",
       "url": "https://www.city.anjo.aichi.jp/event/33rakugo.html",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "特別展「あこがれの黒髪－結う・切る・守る 日本人と髪の歴史－」",
+      "url": "https://www.city.anjo.aichi.jp/event/20260725kurokami.html",
       "start_date": "2026-09-13",
       "end_date": "2026-09-13",
       "category": "安城市公式",
