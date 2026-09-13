@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T23:02:57.321Z",
+  "updated_at": "2026-09-13T23:09:31.721Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,70 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "「公民館講座」他の抽選結果を掲載しました",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/kouminkankouza.html",
+      "summary": "公民館講座",
+      "category": "学び",
+      "published_at": "2026-09-13T12:27:54+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "ものづくり講座",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/fabspace.html",
+      "summary": "ものづくり講座",
+      "category": "学び",
+      "published_at": "2026-09-13T11:14:01+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "秋の星空ウォッチング",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/2026autumn-hosizora.html",
+      "summary": "秋の夜空を楽しみましょう！へきしんギャラクシープラザの屋上から秋の星座を探しながら、月（月齢13.2）土星等を天体望遠鏡で見ることができます。解説は安城天文同好会のみなさまです。",
+      "category": "学び",
+      "published_at": "2026-09-12T16:15:40+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "自主グループ",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-kominkan4.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-12T16:14:09+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "「ＷＥＢ申込可能な公民館講座」更新しました",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/webkouza.html",
+      "summary": "公民館講座",
+      "category": "学び",
+      "published_at": "2026-09-12T15:47:59+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "こどものまちドリームタウン",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/dreamtown.html",
+      "summary": "こどもがつくるこどものまち。自分のやりたい仕事を選んで働き、こどものまちだけで使えるお金をもらいます。もらったお金はこどものまちで買い物したり、遊んだり自由に使えます。",
+      "category": "学び",
+      "published_at": "2026-09-12T14:45:42+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "生涯学習情報更新しました",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/index.html",
+      "summary": "",
+      "category": "学び",
+      "published_at": "2026-09-12T14:43:12+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "東部公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-12T08:52:05+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "中部公民館",
       "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkant.html",
@@ -47,14 +111,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-11T16:03:45+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "「公民館講座」他の抽選結果を掲載しました",
-      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/kouminkankouza.html",
-      "summary": "公民館講座",
-      "category": "学び",
-      "published_at": "2026-09-11T15:44:05+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -266,67 +322,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "昭林公民館",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/shorin-kominkant.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-09T14:47:52+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "認知症高齢者等個人賠償責任保険",
       "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/koureisya/koureifukushi/hoken.html",
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-09T14:23:44+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "榎前町のひまわり",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/gomi/enokimae/himawari.html",
-      "summary": "榎前町のひまわり",
-      "category": "くらし",
-      "published_at": "2026-09-09T14:16:42+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "安城ゆかりの選手がアジア競技大会へ出場します！",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/asiaborn.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-09-09T13:41:50+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "介護保険",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/kaigo/kaigo1.html",
-      "summary": "市民のみなさまへ",
-      "category": "くらし",
-      "published_at": "2026-09-09T12:23:26+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "東部公民館",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkant.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-09T11:20:25+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "2026年9月報道発表資料",
-      "url": "https://www.city.anjo.aichi.jp/shisei/pressrelease/202609.html",
-      "summary": "安城市が報道発表した資料です。",
-      "category": "市政",
-      "published_at": "2026-09-09T10:04:12+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "後で払い戻されるもの",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/hokennenkin/kokuho/kokuhoryoyo.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-09-09T09:54:23+09:00",
       "source": "安城市公式サイト"
     }
   ]
