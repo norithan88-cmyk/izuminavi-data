@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T23:17:36.077Z",
+  "updated_at": "2026-09-19T23:03:18.763Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,30 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "ものづくり講座",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/fabspace.html",
+      "summary": "ものづくり講座",
+      "category": "学び",
+      "published_at": "2026-09-19T15:56:56+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公民館だより",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkan2t.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-19T13:16:16+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "中部公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-19T13:11:08+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "北部公民館",
       "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/hokubu-kominkant.html",
@@ -282,14 +306,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "3.Saúde, pensões e assistência social",
-      "url": "https://www.city.anjo.aichi.jp/shisei/kokusai/documents/life-guidebook-portugal-iryonenkinfukushi.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-15T15:21:39+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "審議会等の開催予定一覧",
       "url": "https://www.city.anjo.aichi.jp/shisei/siminsankatokyodo/siminsanka/singikai/singikaiyotei-itiran.html",
       "summary": "",
@@ -311,22 +327,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-15T14:59:42+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "学校施設開放事業",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/gakokaiho/gakokaiho0.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-09-15T14:06:38+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "3.医療・年金・福祉",
-      "url": "https://www.city.anjo.aichi.jp/shisei/kokusai/documents/life-guidebook-japanese-iryonenkinfukushi.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-15T13:55:53+09:00",
       "source": "安城市公式サイト"
     }
   ]
