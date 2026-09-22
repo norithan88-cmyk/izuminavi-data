@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T23:46:24.169Z",
+  "updated_at": "2026-09-22T00:06:04.536Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -15,6 +15,14 @@
       "summary": "ものづくり講座",
       "category": "学び",
       "published_at": "2026-09-19T15:56:56+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "文化センターイベント一覧",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/bunka-center4.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-19T14:55:45+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -319,14 +327,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-09-15T15:08:02+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "安城市減災まちづくり研究会",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/gmkintroduction.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-09-15T14:59:42+09:00",
       "source": "安城市公式サイト"
     }
   ]
