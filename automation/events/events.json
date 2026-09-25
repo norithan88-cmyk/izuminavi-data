@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-25T08:52:52.852+09:00",
+  "updated_at": "2026-09-26T08:56:53.535+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
   ],
-  "event_count": 10,
+  "event_count": 11,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-09-25",
+      "start_date": "2026-09-26",
       "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
@@ -18,7 +18,7 @@
     {
       "title": "Instagramフォロワー3,000人達成＆丈山苑開苑30周年プレゼントキャンペーン",
       "url": "https://www.city.anjo.aichi.jp/event/instagramkyannpe-nn.html",
-      "start_date": "2026-09-25",
+      "start_date": "2026-09-26",
       "end_date": "2026-09-30",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
@@ -44,6 +44,14 @@
       "url": "https://www.city.anjo.aichi.jp/event/sukusukumori1.html",
       "start_date": "2026-10-11",
       "end_date": "2026-10-11",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "令和8年度安城市総合防災訓練",
+      "url": "https://www.city.anjo.aichi.jp/event/202610sougobosaikunren.html",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
