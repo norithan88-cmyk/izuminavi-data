@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T02:11:07.578Z",
+  "updated_at": "2026-09-26T23:37:27.325Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -10,11 +10,27 @@
   "news_count": 40,
   "news": [
     {
+      "title": "こどものまちドリームタウン",
+      "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/dreamtown.html",
+      "summary": "こどもがつくるこどものまち。自分のやりたい仕事を選んで働き、こどものまちだけで使えるお金をもらいます。もらったお金はこどものまちで買い物したり、遊んだり自由に使えます。",
+      "category": "学び",
+      "published_at": "2026-09-26T11:42:11+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "要介護認定・要支援認定申請後の進捗状況の確認",
       "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/youkaigoyoushienjoukyou.html",
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-25T16:41:29+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "西部公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/seibu-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-25T15:59:52+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -162,6 +178,14 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "自主グループ",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/sakuno-kominkan4.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-09-24T15:53:27+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "不動産・空き家無料相談会、木造耐震改修及び建築一般相談会の申込みを開始しました。",
       "url": "https://www.city.anjo.aichi.jp/kurasu/sumai/images/soudankai.html",
       "summary": "",
@@ -303,30 +327,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-09-20T16:44:59+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "中学生日曜教室（音楽・美術）",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/bukatsumusicart.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-09-20T09:21:10+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "文化センターイベント一覧",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/bunka-center4.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-19T14:55:45+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "公民館だより",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkan2t.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-09-19T13:16:16+09:00",
       "source": "安城市公式サイト"
     }
   ]
