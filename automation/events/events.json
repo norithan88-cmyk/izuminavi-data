@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-27T18:08:52.528+09:00",
+  "updated_at": "2026-09-28T08:47:41.976+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
   ],
-  "event_count": 11,
+  "event_count": 10,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-09-27",
+      "start_date": "2026-09-28",
       "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
@@ -18,16 +18,8 @@
     {
       "title": "Instagramフォロワー3,000人達成＆丈山苑開苑30周年プレゼントキャンペーン",
       "url": "https://www.city.anjo.aichi.jp/event/instagramkyannpe-nn.html",
-      "start_date": "2026-09-27",
+      "start_date": "2026-09-28",
       "end_date": "2026-09-30",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "市民公募文化事業「安城フィエスタ 情熱のフラメンコ」",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/shiminkoubo/20260927anjofiestaibento.html",
-      "start_date": "2026-09-27",
-      "end_date": "2026-09-27",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
