@@ -50,8 +50,13 @@ jobs:
 
       - name: 今日のいずみラジオ音声を生成
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
         run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install --yes ffmpeg
+          fi
           node automation/radio/generate-daily-script.mjs automation/radio/daily-script.txt
           node automation/radio/generate-audio.mjs automation/radio/daily-script.txt automation/radio/daily.mp3
 
