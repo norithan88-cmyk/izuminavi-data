@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T14:03:58.292Z",
+  "updated_at": "2026-09-29T00:58:52.213Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,14 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "国外に転出する方の市税の納付",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/zeikin/kokugaizei.html",
+      "summary": "国外に転出する方の市税の納付手続き",
+      "category": "くらし",
+      "published_at": "2026-09-29T08:49:04+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "社会資本総合整備計画",
       "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/shinkoufukin/seibikeikaku.html",
@@ -31,6 +39,14 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-28T15:39:40+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "市有地売却情報（安城南明治第一土地区画整理事業施行地区内）",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/sumai/tochi/minamimeiji/daiichi-shiyuchibaikyaku.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-09-28T14:08:01+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -159,14 +175,6 @@
       "summary": "緊急輸送道路沿道建築物の耐震診断費及び耐震改修費の一部を補助します。",
       "category": "くらし",
       "published_at": "2026-09-25T11:19:48+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "瓦屋根改修等補助について",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/kawarayane.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-09-25T10:54:35+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -303,14 +311,6 @@
       "summary": "例年、中学校単位で出場していた市内大会について、開催情報等を掲載しています。",
       "category": "学び",
       "published_at": "2026-09-24T09:12:34+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "悪臭規制について",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/bika/akushu.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-09-24T08:46:40+09:00",
       "source": "安城市公式サイト"
     },
     {
