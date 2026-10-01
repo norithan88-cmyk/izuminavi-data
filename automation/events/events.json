@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-09-30T09:26:12.723+09:00",
+  "updated_at": "2026-10-01T09:32:50.270+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
-    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=9&type=2&year=2026",
-    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026"
+    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
+    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026"
   ],
-  "event_count": 10,
+  "event_count": 17,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-09-30",
+      "start_date": "2026-10-01",
       "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "Instagramフォロワー3,000人達成＆丈山苑開苑30周年プレゼントキャンペーン",
-      "url": "https://www.city.anjo.aichi.jp/event/instagramkyannpe-nn.html",
-      "start_date": "2026-09-30",
-      "end_date": "2026-09-30",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
@@ -84,6 +76,70 @@
       "url": "https://www.city.anjo.aichi.jp/event/sankaku/2026gekkan.html",
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "あんじょう健康大学 第3講",
+      "url": "https://www.city.anjo.aichi.jp/event/202611kenkodaigaku3.html",
+      "start_date": "2026-11-10",
+      "end_date": "2026-11-10",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "あんじょう健康大学 第4講",
+      "url": "https://www.city.anjo.aichi.jp/event/202611114kenkodaigaku.html",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "中部公民館ふれあいウォーキング",
+      "url": "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "あんじょう健康大学 第5講",
+      "url": "https://www.city.anjo.aichi.jp/event/20261116kenkodaigaku5.html",
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-16",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "令和８年度地域包括ケアフォーラム 人生100年時代を豊かに生きるために 軽運動で体も脳も活性化！～みんなでスローエアロビック～を開催します",
+      "url": "https://www.city.anjo.aichi.jp/event/tiikikeahoukatufo-ramu.html",
+      "start_date": "2026-11-18",
+      "end_date": "2026-11-18",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "西部地域まつり",
+      "url": "https://www.city.anjo.aichi.jp/event/seibumaturi2026-event.html",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "市民公募文化事業「第19回ビッグ・ラバーズ・オーケストラ定期演奏会」",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/koubojigyou/2026blo19.html",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "市民公募文化事業「安城市民吹奏楽団第53回定期演奏会」",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/2026shisui53.html",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     }
