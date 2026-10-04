@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T23:47:20.798Z",
+  "updated_at": "2026-10-04T23:57:02.905Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,22 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "安祥公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-03T17:09:13+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公民館だより",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-kominkan27.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-03T17:06:51+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "西部公民館",
       "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/seibu-kominkant.html",
@@ -311,22 +327,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-09-29T09:14:28+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "広報あんじょう2017年（平成29年）2月1日号",
-      "url": "https://www.city.anjo.aichi.jp/shisei/koho/20170201/index.html",
-      "summary": "広報あんじょう2月1日号を掲載。",
-      "category": "市政",
-      "published_at": "2026-09-28T15:55:18+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "広報あんじょう2017年（平成29年）1月15日号",
-      "url": "https://www.city.anjo.aichi.jp/shisei/koho/20170115/index.html",
-      "summary": "広報あんじょう1月15日号を掲載。",
-      "category": "市政",
-      "published_at": "2026-09-28T15:54:46+09:00",
       "source": "安城市公式サイト"
     }
   ]
