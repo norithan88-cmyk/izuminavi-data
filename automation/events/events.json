@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-06T10:45:20.302+09:00",
+  "updated_at": "2026-10-07T09:41:26.237+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026"
   ],
-  "event_count": 16,
+  "event_count": 17,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-10-06",
+      "start_date": "2026-10-07",
       "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
@@ -19,6 +19,14 @@
       "title": "第35回市民陶芸まつり",
       "url": "https://www.city.anjo.aichi.jp/event/2026anshou-tougeimaturi.html",
       "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "すくすく森づくりプロジェクト in 根羽村 矢作川水源の森（募集終了）",
+      "url": "https://www.city.anjo.aichi.jp/event/sukusukumori.html",
+      "start_date": "2026-10-11",
       "end_date": "2026-10-11",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"

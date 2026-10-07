@@ -1,8 +1,17 @@
 {
-  "updated_at": "2026-10-06T01:45:23.539Z",
+  "updated_at": "2026-10-07T00:41:27.965Z",
   "source_name": "安城市公式サイト 職員募集",
   "job_count": 4,
   "jobs": [
+    {
+      "title": "安城市 正規職員",
+      "type": "職員採用",
+      "summary": "事務職・技術職・保健師・保育士など",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shokuinboshu/",
+      "updated_date": "2026-10-06",
+      "organization": "安城市",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "パートタイム職員（会計年度任用職員）",
       "type": "随時募集",
@@ -27,15 +36,6 @@
       "summary": "公民館などで働く会計年度任用職員",
       "url": "https://www.city.anjo.aichi.jp/manabu/kominkan/documents/syokuinbosyu.html",
       "updated_date": "2026-05-30",
-      "organization": "安城市",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "安城市 正規職員",
-      "type": "職員採用",
-      "summary": "事務職・技術職・保健師・保育士など",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shokuinboshu/",
-      "updated_date": "2026-05-29",
       "organization": "安城市",
       "source": "安城市公式サイト"
     }
