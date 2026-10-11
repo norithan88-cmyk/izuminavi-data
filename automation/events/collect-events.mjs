@@ -1,3 +1,4 @@
+import { fetchText } from '../lib/fetch-text.mjs';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -94,11 +95,8 @@ function mergeEvents(rows, today) {
 
 async function fetchMonth(year, month) {
   const sourceUrl = `${BASE_URL}/cgi-bin/event_cal_multi/calendar.cgi?month=${month}&type=2&year=${year}`;
-  const response = await fetch(sourceUrl, {
-    headers: { 'user-agent': 'izuminavi-event-collector/1.0 (+https://anjo-izumi.life/)' },
-  });
-  if (!response.ok) throw new Error(`取得失敗: ${response.status} ${sourceUrl}`);
-  return { sourceUrl, html: await response.text() };
+  const html = await fetchText(sourceUrl);
+  return { sourceUrl, html };
 }
 
 async function main() {

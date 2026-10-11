@@ -1,3 +1,4 @@
+import { fetchText } from '../lib/fetch-text.mjs';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -57,11 +58,7 @@ function parseRss(xml, source) {
 }
 
 async function fetchSource(source) {
-  const response = await fetch(source.url, {
-    headers: { 'user-agent': 'izuminavi-news-collector/1.0 (+https://anjo-izumi.life/)' },
-  });
-  if (!response.ok) throw new Error(`取得失敗: ${response.status} ${source.url}`);
-  return parseRss(await response.text(), source);
+  return parseRss(await fetchText(source.url), source);
 }
 
 async function main() {

@@ -1,3 +1,4 @@
+import { fetchText } from '../lib/fetch-text.mjs';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -52,11 +53,7 @@ function updatedDate(text) {
 }
 
 async function checkSource(source) {
-  const response = await fetch(source.url, {
-    headers: { 'user-agent': 'izuminavi-jobs-collector/1.0 (+https://anjo-izumi.life/)' },
-  });
-  if (!response.ok) throw new Error(`取得失敗: ${response.status} ${source.url}`);
-  const text = stripHtml(await response.text());
+  const text = stripHtml(await fetchText(source.url));
   if (!source.active.test(text)) return null;
   return {
     title: source.title,

@@ -18,13 +18,20 @@ jobs:
       - name: Node.jsを準備
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
-      - name: 安城市のイベント・ニュース・求人を収集
-        run: |
-          node automation/events/collect-events.mjs
-          node automation/news/collect-news.mjs
-          node automation/jobs/collect-jobs.mjs
+      # 1つが失敗しても他の収集・ラジオ・LINEは止めない（失敗した分は前回のデータを維持）
+      - name: 安城市のイベントを収集
+        continue-on-error: true
+        run: node automation/events/collect-events.mjs
+
+      - name: 安城市のニュースを収集
+        continue-on-error: true
+        run: node automation/news/collect-news.mjs
+
+      - name: 安城市の求人を収集
+        continue-on-error: true
+        run: node automation/jobs/collect-jobs.mjs
 
       - name: 変更があるときだけ保存
         id: save
