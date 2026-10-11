@@ -18,10 +18,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ファイルを取得
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Node.jsを準備
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
 
