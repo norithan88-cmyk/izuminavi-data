@@ -1,4 +1,5 @@
 import { requestWithRetry } from './request-with-retry.mjs';
+import { mixBackground } from './background-music.mjs';
 import { mkdir, readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
 import { spawnSync } from 'node:child_process';
 import { tmpdir } from 'node:os';
@@ -89,7 +90,7 @@ async function main() {
     await writeFile(join(temp, 'list.txt'), chunks.map((_, i) => `file 'part-${i}.mp3'`).join('\n'));
     const combined = spawnSync(process.env.FFMPEG_PATH || 'ffmpeg', ['-hide_banner', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', join(temp, 'list.txt'), '-codec:a', 'libmp3lame', '-b:a', '128k', '-ac', '1', '-ar', '24000', '-f', 'mp3', 'pipe:1'], { maxBuffer: 64 * 1024 * 1024 });
     if (combined.error || combined.status !== 0) throw new Error('音声の結合に失敗しました');
-    audio = combined.stdout;
+    audio = await mixBackground(combined.stdout, temp);
   } finally { await rm(temp, { recursive: true, force: true }); }
 
   await mkdir(dirname(OUTPUT_PATH), { recursive: true });
@@ -101,4 +102,3 @@ main().catch((error) => {
   console.error(error.message);
   process.exitCode = 1;
 });
-
