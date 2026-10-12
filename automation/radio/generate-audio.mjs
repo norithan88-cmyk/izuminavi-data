@@ -1,3 +1,4 @@
+import { requestWithRetry, apiError } from './request-with-retry.mjs';
 import { mkdir, readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
 import { spawnSync } from 'node:child_process';
 import { tmpdir } from 'node:os';
@@ -35,7 +36,7 @@ function buildAzureSsml(text) {
 }
 
 async function getAzureToken() {
-  const response = await fetch(`https://${REGION}.api.cognitive.microsoft.com/sts/v1.0/issuetoken`, {
+  const response = await requestWithRetry(`https://${REGION}.api.cognitive.microsoft.com/sts/v1.0/issuetoken`, {
     method: 'POST', signal: AbortSignal.timeout(180000),
     headers: { 'Ocp-Apim-Subscription-Key': AZURE_KEY, 'Content-Length': '0' },
   });
@@ -44,7 +45,7 @@ async function getAzureToken() {
 }
 
 async function synthesizeWithAzure(token, ssml) {
-  const response = await fetch(`https://${REGION}.tts.speech.microsoft.com/cognitiveservices/v1`, {
+  const response = await requestWithRetry(`https://${REGION}.tts.speech.microsoft.com/cognitiveservices/v1`, {
     method: 'POST', signal: AbortSignal.timeout(180000),
     headers: {
       Authorization: `Bearer ${token}`,
@@ -59,7 +60,7 @@ async function synthesizeWithAzure(token, ssml) {
 }
 
 async function synthesizeWithGemini(text) {
-  const response = await fetch('https://generativelanguage.googleapis.com/v1beta/interactions', {
+  const response = await requestWithRetry('https://generativelanguage.googleapis.com/v1beta/interactions', {
     method: 'POST', signal: AbortSignal.timeout(180000),
     headers: {
       'x-goog-api-key': GEMINI_KEY,
