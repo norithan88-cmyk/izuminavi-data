@@ -1,16 +1,6 @@
 name: いずみラジオだけを更新
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'automation/radio/generate-daily-script.mjs'
-      - 'automation/radio/generate-basic-script.mjs'
-      - 'automation/radio/generate-audio.mjs'
-      - 'automation/radio/saturday-stories.json'
-      - 'automation/radio/listener-notes.json'
-      - 'automation/radio/request-with-retry.mjs'
-      - '.github/workflows/update-radio.yml'
 permissions:
   contents: write
 concurrency:

@@ -1,4 +1,4 @@
-import { requestWithRetry, apiError } from './request-with-retry.mjs';
+import { requestWithRetry } from './request-with-retry.mjs';
 import { mkdir, readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
 import { spawnSync } from 'node:child_process';
 import { tmpdir } from 'node:os';
@@ -7,11 +7,8 @@ import { fileURLToPath } from 'node:url';
 
 const HERE = fileURLToPath(new URL('.', import.meta.url));
 const REGION = process.env.AZURE_SPEECH_REGION || 'japaneast';
-const GEMINI_KEY = process.env.GEMINI_API_KEY;
 const AZURE_KEY = process.env.AZURE_SPEECH_KEY;
 const AZURE_VOICE = 'ja-JP-NanamiNeural';
-const GEMINI_VOICE = process.env.GEMINI_TTS_VOICE || 'Aoede';
-const GEMINI_STYLE = 'Warm, clear, friendly community radio presenter; gently upbeat and unhurried Japanese narration.';
 
 const SCRIPT_PATH = process.argv[2] || join(HERE, 'script.txt');
 const OUTPUT_PATH = process.argv[3] || join(HERE, 'latest.mp3');
@@ -59,57 +56,9 @@ async function synthesizeWithAzure(token, ssml) {
   return Buffer.from(await response.arrayBuffer());
 }
 
-async function synthesizeWithGemini(text) {
-  const response = await requestWithRetry('https://generativelanguage.googleapis.com/v1beta/interactions', {
-    method: 'POST', signal: AbortSignal.timeout(180000),
-    headers: {
-      'x-goog-api-key': GEMINI_KEY,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({
-      model: 'gemini-3.8-flash-tts',
-      input: [{
-        type: 'user_input',
-        content: [{
-          type: 'text',
-          text,
-          annotations: [{ type: 'speech_metadata', style: GEMINI_STYLE }],
-        }],
-      }],
-      response_format: { type: 'audio' },
-      generation_config: { speech_config: [{ voice: GEMINI_VOICE }] },
-      store: false,
-    }),
-  });
-  const interaction = await response.json();
-  if (!response.ok) {
-    throw new Error(`Gemini音声生成失敗: ${response.status} ${JSON.stringify(interaction)}`);
-  }
-
-  const audioBlock = (interaction.steps || [])
-    .flatMap((step) => step.content || [])
-    .findLast((content) => content.type === 'audio' && content.data);
-  const audioData = audioBlock?.data || interaction.output_audio?.data;
-  if (!audioData) throw new Error('Gemini APIの応答に音声データがありません。');
-  return Buffer.from(audioData, 'base64');
-}
-
-function convertWavToMp3(wav) {
-  const result = spawnSync(process.env.FFMPEG_PATH || 'ffmpeg', [
-    '-hide_banner', '-loglevel', 'error', '-y', '-i', 'pipe:0', '-vn',
-    '-codec:a', 'libmp3lame', '-b:a', '128k', '-ac', '1', '-ar', '24000',
-    '-f', 'mp3', 'pipe:1',
-  ], { input: wav, maxBuffer: 32 * 1024 * 1024 });
-  if (result.error) throw new Error(`ffmpegを起動できません: ${result.error.message}`);
-  if (result.status !== 0) {
-    throw new Error(`WAVからMP3への変換に失敗しました: ${result.stderr.toString('utf8')}`);
-  }
-  return result.stdout;
-}
-
 async function main() {
-  if (!GEMINI_KEY && !AZURE_KEY) {
-    throw new Error('環境変数 GEMINI_API_KEY または AZURE_SPEECH_KEY を設定してください。');
+  if (!AZURE_KEY) {
+    throw new Error('Nanami音声には AZURE_SPEECH_KEY が必要です。');
   }
 
   const text = (await readFile(SCRIPT_PATH, 'utf8')).trim();
@@ -128,11 +77,11 @@ async function main() {
   if (current) chunks.push(current);
   const temp = await mkdtemp(join(tmpdir(), 'izumi-radio-'));
   let audio;
-  const provider = GEMINI_KEY ? `Gemini (${GEMINI_VOICE})` : `Azure Speech (${AZURE_VOICE})`;
+  const provider = `Azure Speech (${AZURE_VOICE})`;
   try {
-    const token = GEMINI_KEY ? null : await getAzureToken();
+    const token = await getAzureToken();
     for (let i = 0; i < chunks.length; i++) {
-      const part = GEMINI_KEY ? convertWavToMp3(await synthesizeWithGemini(chunks[i])) : await synthesizeWithAzure(token, buildAzureSsml(chunks[i]));
+      const part = await synthesizeWithAzure(token, buildAzureSsml(chunks[i]));
       if (!part.length) throw new Error('生成音声が空です');
       await writeFile(join(temp, `part-${i}.mp3`), part);
       console.log(`音声 ${i + 1}/${chunks.length} を生成`);
