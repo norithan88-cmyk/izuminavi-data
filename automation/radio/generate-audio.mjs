@@ -1,5 +1,6 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
 import { spawnSync } from 'node:child_process';
+import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -35,7 +36,7 @@ function buildAzureSsml(text) {
 
 async function getAzureToken() {
   const response = await fetch(`https://${REGION}.api.cognitive.microsoft.com/sts/v1.0/issuetoken`, {
-    method: 'POST',
+    method: 'POST', signal: AbortSignal.timeout(180000),
     headers: { 'Ocp-Apim-Subscription-Key': AZURE_KEY, 'Content-Length': '0' },
   });
   if (!response.ok) throw new Error(`トークン取得失敗: ${response.status} ${await response.text()}`);
@@ -44,7 +45,7 @@ async function getAzureToken() {
 
 async function synthesizeWithAzure(token, ssml) {
   const response = await fetch(`https://${REGION}.tts.speech.microsoft.com/cognitiveservices/v1`, {
-    method: 'POST',
+    method: 'POST', signal: AbortSignal.timeout(180000),
     headers: {
       Authorization: `Bearer ${token}`,
       'Content-Type': 'application/ssml+xml',
@@ -59,7 +60,7 @@ async function synthesizeWithAzure(token, ssml) {
 
 async function synthesizeWithGemini(text) {
   const response = await fetch('https://generativelanguage.googleapis.com/v1beta/interactions', {
-    method: 'POST',
+    method: 'POST', signal: AbortSignal.timeout(180000),
     headers: {
       'x-goog-api-key': GEMINI_KEY,
       'Content-Type': 'application/json',
@@ -113,17 +114,33 @@ async function main() {
   const text = (await readFile(SCRIPT_PATH, 'utf8')).trim();
   if (!text) throw new Error(`台本が空です: ${SCRIPT_PATH}`);
 
-  let audio;
-  let provider;
-  if (GEMINI_KEY) {
-    const wav = await synthesizeWithGemini(text);
-    audio = convertWavToMp3(wav);
-    provider = `Gemini 3.8 Flash TTS (${GEMINI_VOICE})`;
-  } else {
-    const token = await getAzureToken();
-    audio = await synthesizeWithAzure(token, buildAzureSsml(text));
-    provider = `Azure Speech (${AZURE_VOICE})`;
+  // 長い番組を段落単位（最大約900文字）で音声化。全区間成功後にだけ公開ファイルを置換。
+  const chunks = [];
+  let current = '';
+  for (const paragraph of text.split(/\n+/).filter(Boolean)) {
+    for (let offset = 0; offset < paragraph.length; offset += 900) {
+      const part = paragraph.slice(offset, offset + 900);
+      if (current && current.length + part.length > 900) { chunks.push(current); current = ''; }
+      current += (current ? '\n' : '') + part;
+    }
   }
+  if (current) chunks.push(current);
+  const temp = await mkdtemp(join(tmpdir(), 'izumi-radio-'));
+  let audio;
+  const provider = GEMINI_KEY ? `Gemini (${GEMINI_VOICE})` : `Azure Speech (${AZURE_VOICE})`;
+  try {
+    const token = GEMINI_KEY ? null : await getAzureToken();
+    for (let i = 0; i < chunks.length; i++) {
+      const part = GEMINI_KEY ? convertWavToMp3(await synthesizeWithGemini(chunks[i])) : await synthesizeWithAzure(token, buildAzureSsml(chunks[i]));
+      if (!part.length) throw new Error('生成音声が空です');
+      await writeFile(join(temp, `part-${i}.mp3`), part);
+      console.log(`音声 ${i + 1}/${chunks.length} を生成`);
+    }
+    await writeFile(join(temp, 'list.txt'), chunks.map((_, i) => `file 'part-${i}.mp3'`).join('\n'));
+    const combined = spawnSync(process.env.FFMPEG_PATH || 'ffmpeg', ['-hide_banner', '-loglevel', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', join(temp, 'list.txt'), '-codec:a', 'libmp3lame', '-b:a', '128k', '-ac', '1', '-ar', '24000', '-f', 'mp3', 'pipe:1'], { maxBuffer: 64 * 1024 * 1024 });
+    if (combined.error || combined.status !== 0) throw new Error('音声の結合に失敗しました');
+    audio = combined.stdout;
+  } finally { await rm(temp, { recursive: true, force: true }); }
 
   await mkdir(dirname(OUTPUT_PATH), { recursive: true });
   await writeFile(OUTPUT_PATH, audio);
@@ -134,3 +151,4 @@ main().catch((error) => {
   console.error(error.message);
   process.exitCode = 1;
 });
+

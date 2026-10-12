@@ -84,7 +84,9 @@ jobs:
           fi
           git config user.name "izuminavi-bot"
           git config user.email "izuminavi-bot@users.noreply.github.com"
-          git add -- automation/radio/daily-script.txt automation/radio/daily.mp3
+          git add -- automation/radio/daily-script.txt automation/radio/daily.mp3 automation/radio/daily-sources.json
+          if [ -f automation/radio/broadcast-history.json ]; then git add -- automation/radio/broadcast-history.json; fi
           git commit -m "今日のいずみラジオ音声を更新"
           git pull --rebase origin main
           git push
+

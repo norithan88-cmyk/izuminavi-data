@@ -1,27 +1,30 @@
-# いずみラジオ 音声生成
+# いずみラジオ：曜日別・約15分
 
-`script.txt` に書いた台本を、Azure AI Speech（Nanami・cheerfulスタイル）で音声化し、`latest.mp3` として書き出します。
+月：暮らしの工夫 / 火：食べ物・台所 / 水：地元の歴史 / 木：科学・自然 / 金：週末 / 土：懐かしい暮らし＋創作小話 / 日：季節・趣味。
 
-## 使い方（ローカル）
+`generate-daily-script.mjs` は Gemini と Google検索で資料を集め、資料に沿って5〜7話題、約4,000〜4,700文字を編集します。約15分は目安で、声・話速により変わります。直近30回の話題をプロンプトで除外し、同名の再使用も検査します。言い換えによる類似話題を完全には検出できません。
 
+土曜には `saturday-stories.json` の創作小話30本を2026年10月17日から週替わりで1本追加します。実話としては紹介しません。30週で一巡します。
+
+## 実行
+
+環境変数 `GEMINI_API_KEY` を設定した上で：
+
+```sh
+node automation/radio/generate-daily-script.mjs automation/radio/daily-script.txt
+node automation/radio/generate-audio.mjs automation/radio/daily-script.txt automation/radio/daily.mp3
 ```
-set AZURE_SPEECH_KEY=（Azureのキー1）
-node automation/radio/generate-audio.mjs
-```
 
-- 第1引数：台本ファイルのパス（省略時は `automation/radio/script.txt`）
-- 第2引数：出力先mp3のパス（省略時は `automation/radio/latest.mp3`）
+Node.js 22、ffmpeg が必要。台本モデルは `GEMINI_SCRIPT_MODEL`（標準 `gemini-3.8-flash`）で変更可。音声は既存のGemini設定を継続し、キーがなければAzure。台本の検索・編集に1日2回のGemini呼び出しと検索利用が加わります。
 
-## GitHub Actionsで自動化する場合
+音声は約900文字ごとに生成し、全部成功したときだけMP3を結合・保存。途中失敗では公開音声を上書きしません。
 
-リポジトリの Settings → Secrets and variables → Actions で `AZURE_SPEECH_KEY` を登録し、
-ワークフローのstepで `env: { AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }} }` を渡す
-（`automation/line/send-update.mjs` が `LINE_CHANNEL_ACCESS_TOKEN` を使っているのと同じやり方）。
+- `daily-sources.json`：採用話題・本文・検索資料・検索出典・生成モード。
+- `broadcast-history.json`：直近30回の話題。音声成功後、台本・音声と一緒にコミット。
+- `generate-basic-script.mjs`：APIエラー・出典不足・長さ不正時に使う従来版。短い地域情報版に戻り、Actionsにwarningを残します。
 
-台本（`script.txt`）は、設計図に沿って「AIが台本を作る→管理者が確認する」を経てから
-このスクリプトで音声化する想定。台本のAI自動生成はまだ未実装。
+出典URLが取得資料にあることを検査しますが、全主張の正確性を保証するものではありません。元資料と生成台本は `daily-sources.json` で確認できます。Google検索のgroundingMetadataも保存します。
 
-## 声を変える場合
+日次実行は既存の `update-events.yml`（日本時間6:15）に統合。コード変更時・手動試聴用は `update-radio.yml` でラジオだけを更新します。こちらはLINE送信を行いません。生成済みファイルのコミットでは再起動しません。
 
-`generate-audio.mjs` 冒頭の `VOICE` / `STYLE` を書き換える。
-Azureの日本語Neuralボイス・スタイル一覧は公式ドキュメント参照。
+`listener-notes.json` は運営者・住民の提供話。出典と掲載期間を記録し、放送履歴に記録済みの話は翌日以降繰り返しません。今回のフェルナの価格の話は、運営者の観察として収録します。
