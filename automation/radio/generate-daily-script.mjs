@@ -211,7 +211,7 @@ JSONや完成台本ではなく、出典の引用を伴う通常の文章で回�
 - opening：挨拶より先に、思わず耳を止める一言（ボケ・あるある・意外な数字・独り言）。60文字以内。毎回語り出しの型を変える。
 - lineup：今日のメニューを短く予告する一文。例「今日は〇〇の話と、〇〇の話をお届けします」。50文字以内。
 - quiz：資料${izumi ? 'か和泉ネタ帳' : ''}にある意外な事実から3択クイズ（和泉ネタ帳から出すと喜ばれる）。question は「〜でしょうか。1番、〜。2番、〜。3番、〜。」の形で110文字以内。選択肢の1つはボケ（明らかにふざけた答え）にする。answer は「正解は〇番、〜でした！」に理由とツッコミを一言、100文字以内。source_ids必須。
-${izumi ? `- izumi：番組の目玉コーナー「みおんの和泉ディープ」。和泉町ゆかりの「${izumi.story.title}」を、今日の切り口「${izumi.angle.hook}」で550〜650文字のトークにする。下の和泉ネタ帳の事実だけを使い、年号や数字を勝手に足さない。昔の人物にもツッコミを入れ、現代の暮らしに置き換えて笑いにする（例：今ならSNSで炎上、転職サイトに登録、など）。人物を馬鹿にはしない。最後は地元の人がちょっと自慢したくなる一言で締める。source_ids は出典リストの id ${1}。
+${izumi ? `- izumi：番組の目玉コーナー「みおんの和泉ディープ」。和泉町ゆかりの「${izumi.story.title}」を、今日の切り口「${izumi.angle.hook}」で550〜650文字のトークにする。下の和泉下の和泉ネタ帳の事実だけを使い、年号・数字・地名・見た目の描写（色や大きさの例え）を勝手に足さない。昔の人物にもツッコミを入れ、現代の暮らしに置き換えて笑いにする（例：今ならSNSで炎上、転職サイトに登録、など）。人物を馬鹿にはしない。最後は地元の人がちょっと自慢したくなる一言で締める。source_ids は出典リストの id ${1}。
 ` : ''}- segments：メイン話題を${segmentCount}件。各${segmentCount === 3 ? '480〜560' : '600〜700'}文字。
   各話題は「あるある・ボケで引き込む → 意外な事実や数字にみおんが大げさに驚く → なぜそうなるのかを身近なものに例えてゆるく説明 → ツッコミやオチ → 誰かに話したくなる一言」の流れで、トークのように語る。
   話題同士は自然な一言でつなぐ（「そういえば」「台所の話が出たついでに」など）。毎回「続いて」で始めない。
@@ -246,6 +246,16 @@ ${izumi ? `和泉ネタ帳（いずみなび記事より・これ以外の事実
       const raw = (edited.content?.parts || []).filter(p => !p.thought).map(p => p.text || '').join('');
       episode = validateEpisode(raw, sourceList, previous, Boolean(izumi));
       text = assembleScript(episode, { label, notes: activeNotes, story, ownerText, tomorrowTheme, tomorrowDay });
+      if (episode.izumi) {
+        // 単位つきの数字（年・メートル・トン・本・人など）だけを見る。「〇倍」など計算した比較はOK
+        const known = new Set(izumi.story.facts.join(' ').replace(/[,，]/g, '').match(/\d+(?:\.\d+)?/g) || []);
+        const unit = /(\d+(?:\.\d+)?)\s*(?=年|メートル|キロ|センチ|トン|本|人|万|千|軒|階|度|両|ヘクタール|町歩|石|歳|才|代)/g;
+        const extra = [...new Set([...episode.izumi.text.replace(/[,，]/g, '').matchAll(unit)].map(m => m[1]))].filter(n => !known.has(n));
+        if (extra.length) {
+          if (attempt === 1) throw new Error(`目玉コーナーにネタ帳にない数字（${extra.join('、')}）が入っています。ネタ帳の事実だけで書き直してください`);
+          console.warn(`目玉コーナーにネタ帳にない数字: ${extra.join('、')}`);
+        }
+      }
       const nagoya = text.match(NAGOYA_WORDS);
       if (nagoya) {
         if (attempt === 1) throw new Error(`三河弁ではなく名古屋弁「${nagoya[0]}」が入っています。名古屋弁を使わず、西三河の言い方に直してください`);
