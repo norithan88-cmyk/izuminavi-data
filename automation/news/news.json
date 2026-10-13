@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12T09:29:48.110Z",
+  "updated_at": "2026-10-13T02:34:01.846Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -26,6 +26,22 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "東部公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-11T16:11:06+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公民館だより",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/tobu-kominkan2.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-11T16:09:26+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "スポーツ施設について",
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/2022/sportstop.html",
       "summary": "",
@@ -42,6 +58,14 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "東部公民館講座",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/toubu-kominkan8.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-11T09:19:54+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "要介護認定・要支援認定申請後の進捗状況の確認",
       "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/youkaigoyoushienjoukyou.html",
       "summary": "",
@@ -55,6 +79,22 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-10-09T14:55:06+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "初めて申請する方",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/todokede/passport/passport-shinkishinsei.html",
+      "summary": "初めて申請する方・期限切れのパスポートをお持ちの方",
+      "category": "くらし",
+      "published_at": "2026-10-09T14:25:34+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "その他手続",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/todokede/passport/202506/passport-sonota.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-09T14:23:50+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -114,11 +154,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "アリーナをホームとする予定のチーム紹介、連携した取組みに関すること",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/projectpromotion/arenahometeam.html",
-      "summary": "",
+      "title": "パスポートのオンライン申請",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/todokede/passport/passport-denshishinsei.html",
+      "summary": "パスポート更新手続きの電子申請",
       "category": "くらし",
-      "published_at": "2026-10-08T18:44:41+09:00",
+      "published_at": "2026-10-08T16:51:01+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -135,14 +175,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-10-08T14:27:50+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "高齢者帯状疱疹予防接種（定期）",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/yobosessyu/taijyouhousin-teiki.html",
-      "summary": "帯状疱疹の定期接種を実施します",
-      "category": "くらし",
-      "published_at": "2026-10-08T14:26:18+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -178,6 +210,22 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "災害救助・救援のために使用する車両の取扱いについて",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/shitorikumi/yuryodoromuryou.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-08T10:38:01+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和8年台風第25号に伴う災害救助・救援のために使用する車両の取扱いについて(千葉県)",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/shitorikumi/r8taihu25gouchiba.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-08T10:36:35+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "2026年10月報道発表資料",
       "url": "https://www.city.anjo.aichi.jp/shisei/pressrelease/202610.html",
       "summary": "安城市が報道発表した資料です。",
@@ -202,27 +250,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "三河安城交流拠点・アリーナ",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/projectpromotion/index.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-08T08:44:42+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "指定工事事業者への通知事項",
       "url": "https://www.city.anjo.aichi.jp/kurasu/suido/shiteigyousyajikou.html",
       "summary": "指定給水装置工事事業者の方はよく確認しておいてください。",
       "category": "くらし",
       "published_at": "2026-10-08T08:43:35+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "アリーザ愛知との連携した取組み",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/projectpromotion/queenseis-collaborationprojects/2025.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-08T08:43:02+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -295,38 +327,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-10-07T13:11:46+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "自主グループ",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/seibu-kominkan4.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-07T11:58:10+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "安城ゆかりの選手がアジア競技大会へ出場します！",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/asiaborn.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-10-06T16:43:20+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "職員募集、インターンシップ",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shokuinboshu/shokuinbosyu-internshp.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-06T16:25:45+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "愛知・名古屋2026大会女子ソフトボール競技決勝PV",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/asia.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-10-06T16:15:30+09:00",
       "source": "安城市公式サイト"
     }
   ]
