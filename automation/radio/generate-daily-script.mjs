@@ -85,17 +85,17 @@ export function assembleScript(episode, { label, notes = [], story = null, owner
   const [first, ...rest] = episode.segments;
   const parts = [
     episode.opening,
-    `${label}。おはようございます、いずみなびAIアナウンサーのみおんです。${episode.lineup ? cleanSpoken(episode.lineup) : ''}`.trim(),
-    `まずは、みおんクイズから。${episode.quiz.question}答えは番組の最後に発表します。ちょっと考えながら聞いてくださいね。`,
+    `${label}。おはよう！ いずみなびのAIアナウンサー、みおんです。${episode.lineup ? cleanSpoken(episode.lineup) : ''}`.trim(),
+    `さっそく、みおんクイズ！ ${episode.quiz.question}答えは最後に言うでね。ちょっと考えといてね。`,
     ...notes.map(n => n.text),
     first.text,
-    ...(episode.local ? [`ここで、和泉のまちの話題をひとつ。${episode.local.text}`] : []),
+    ...(episode.local ? [`ここでちょっと、和泉のまちの話。${episode.local.text}`] : []),
     ...rest.map(s => s.text),
     ...(story ? ['ここで、みおんの土曜の創作小話です。今日のお話は、' + story.title + '。\n' + story.text] : []),
-    `さて、最初のみおんクイズの答えです。${episode.quiz.answer}`,
+    `はい、お待たせ！ さっきのみおんクイズの答え。${episode.quiz.answer}`,
     ...(ownerText ? ['いずみなび運営者からのお知らせです。' + ownerText] : []),
     episode.closing,
-    tomorrowTheme ? `明日、${tomorrowDay}曜日のいずみラジオは「${tomorrowTheme}」がテーマです。またこの時間にお会いしましょう。みおんでした。` : 'みおんでした。',
+    tomorrowTheme ? `明日、${tomorrowDay}曜日のいずみラジオは「${tomorrowTheme}」の日。また聞きに来てね。みおんでした、ほんじゃーね！` : 'みおんでした。',
   ];
   return parts.filter(Boolean).join('\n\n') + '\n';
 }
@@ -166,17 +166,25 @@ JSONや完成台本ではなく、出典の引用を伴う通常の文章で回�
   // ② 編集段階：7分番組の台本（JSON）
   const editPrompt = `あなたはいずみなび地域ラジオ「いずみラジオ」の構成作家。今日は日本時間${date}（${WEEKDAYS[weekday]}曜日）、愛知県安城市和泉町の住民向け。
 目的は「明日も聞きたい」約${TARGET_MINUTES}分の朝の番組。曜日テーマは「${angle}」。
-読み手はAIアナウンサーの「みおん」。好奇心旺盛で、ちょっと天然。驚いたら素直に「えっ」と言い、自分で小さくツッコむ。聞き手に語りかける気さくな口調。時々、三河弁を一言だけ（「〜じゃん」「〜だら」「〜りん」など）混ぜてもよい。多用しない。
+これはニュース番組ではない。NHKのニュースや教養番組のような、かしこまった解説口調は禁止。深夜ラジオや地元FMのゆるいトーク番組のノリで、品よりも「面白い」を優先してよい。
+読み手はAIアナウンサーの「みおん」。好奇心旺盛でかなり天然、ノリツッコミが得意な三河育ちのAI。
+- 驚きは大げさに（「えっ、ちょっと待って」「うそでしょ」「聞いてないんだけど」）。自分のボケに自分でツッコむ（「…って、AIだから電池で動いとらんわ！」）。
+- AIである自分をネタにした自虐はOK（「みおん、手がないからできないんだけど」）。ただし実体験のふりはしない。
+- 三河弁を各話題に1〜2回まぜる（「〜じゃん」「〜だら」「〜りん」「えらい（＝疲れた）」「ちんちん（＝熱々）」など）。
+- 「家族に話したら絶対ウケる」「明日、職場で言いたくなる」ネタを選ぶ。豆知識は大げさな例え（東京ドーム、象何頭分、など資料の数字から計算できる範囲）で笑いに変える。
+- 「あるある」で共感を取り、オチを付けて次の話題へ。1話題に1回は笑いどころを作る。
+- 「〜でございます」「〜と言われています」「〜なのです」「皆さん、いかがでしたか」などの硬い言い回し、教訓めいた締めは使わない。文末は「〜なんだって」「〜じゃん」「〜らしいよ」など話し言葉中心で、です・ます調ばかりにしない。
+- 品は少し落としてもよいが、下ネタ、悪口、特定の人・お店・地域・職業を笑いものにすること、差別的な冗談、政治ネタは禁止。
 
 【番組の構成】
-- opening：挨拶より先に、思わず耳を止める一言（問いかけ・意外な数字・あるある）。60文字以内。毎回語り出しの型を変える。
+- opening：挨拶より先に、思わず耳を止める一言（ボケ・あるある・意外な数字・独り言）。60文字以内。毎回語り出しの型を変える。
 - lineup：今日のメニューを短く予告する一文。例「今日は〇〇の話と、〇〇の話をお届けします」。50文字以内。
-- quiz：資料にある意外な事実から3択クイズ。question は「〜でしょうか。1番、〜。2番、〜。3番、〜。」の形で110文字以内。answer は「正解は〇番、〜でした。」に理由を一言、100文字以内。source_ids必須。
+- quiz：資料にある意外な事実から3択クイズ。question は「〜でしょうか。1番、〜。2番、〜。3番、〜。」の形で110文字以内。選択肢の1つはボケ（明らかにふざけた答え）にする。answer は「正解は〇番、〜でした！」に理由とツッコミを一言、100文字以内。source_ids必須。
 - segments：メイン話題を${segmentCount}件。各${segmentCount === 3 ? '480〜560' : '600〜700'}文字。
-  各話題は「つかみの疑問 → 意外な事実や具体的な数字 → なぜそうなるのかを身近なものに例えて説明 → みおんのツッコミや共感 → 今日から試せる・誰かに話したくなる一言」の流れで、物語のように語る。
+  各話題は「あるある・ボケで引き込む → 意外な事実や数字にみおんが大げさに驚く → なぜそうなるのかを身近なものに例えてゆるく説明 → ツッコミやオチ → 誰かに話したくなる一言」の流れで、トークのように語る。
   話題同士は自然な一言でつなぐ（「そういえば」「台所の話が出たついでに」など）。毎回「続いて」で始めない。
 - local：地元資料に、今日から2週間以内のイベントなど和泉・安城の人に役立つ話が1件あれば、120〜220文字で紹介。資料にある名前と日付だけを使い、内容・料金・会場の様子は想像しない。ふさわしいものがなければ null。
-- closing：今日の話を一言で振り返り、聞き手を元気づける結び。80文字以内。明日の予告や「みおんでした」は不要（番組側で付ける）。
+- closing：今日のネタを一言でいじって、ゆるく締める（説教・教訓は不要）。80文字以内。明日の予告や「みおんでした」は不要（番組側で付ける）。
 
 【守ること】
 下記の検索資料にある事実だけを使う。追加の事実・記憶での補足・架空の取材・住民の声・みおんの実体験は作らない。
@@ -198,7 +206,7 @@ source_ids には下記の出典リストの整数idを入れる（URLは出力�
   let episode, text, lastError;
   for (let attempt = 1; attempt <= 2; attempt++) {
     try {
-      const editResponse = await gemini({ contents: [{ parts: [{ text: editPrompt + feedback }] }], generationConfig: { temperature: 0.8, maxOutputTokens: 12000, responseMimeType: 'application/json' } });
+      const editResponse = await gemini({ contents: [{ parts: [{ text: editPrompt + feedback }] }], generationConfig: { temperature: 0.95, maxOutputTokens: 12000, responseMimeType: 'application/json' } });
       if (!editResponse.ok) throw await apiError(editResponse, '台本編集API');
       const edited = (await editResponse.json()).candidates?.[0];
       if (edited?.finishReason !== 'STOP') throw new Error('台本編集が正常に完了していません');
