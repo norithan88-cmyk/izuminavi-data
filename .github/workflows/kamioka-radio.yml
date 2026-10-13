@@ -1,0 +1,60 @@
+name: 神岡ラジオを生成
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 21 * * *'
+
+permissions:
+  contents: write
+
+# いずみなびの更新と同時に動くとpushがぶつかるので、同じ順番待ちに入れる
+concurrency:
+  group: update-events
+  cancel-in-progress: false
+
+jobs:
+  radio:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: いずみなび（保存先）を取得
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: 神岡ナビ（台本の仕組み・地域データ）を取得
+        run: git clone --depth 1 https://github.com/norithan88-cmyk/hida-kamioka.git "$RUNNER_TEMP/hida-kamioka"
+
+      - name: Node.jsを準備
+        uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: 音声変換を準備
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install --yes ffmpeg
+          fi
+
+      - name: 神岡ラジオの台本と音声を生成
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AZURE_SPEECH_KEY: ${{ secrets.AZURE_SPEECH_KEY }}
+        run: |
+          RADIO="$RUNNER_TEMP/hida-kamioka/automation/radio"
+          OUT="$GITHUB_WORKSPACE/automation/kamioka-radio"
+          node "$RADIO/generate-daily-script.mjs" "$OUT/daily-script.txt"
+          node "$RADIO/generate-audio.mjs" "$OUT/daily-script.txt" "$OUT/daily.mp3"
+
+      - name: 保存
+        shell: bash
+        run: |
+          git config user.name "izuminavi-bot"
+          git config user.email "izuminavi-bot@users.noreply.github.com"
+          git add -- automation/kamioka-radio
+          if git diff --cached --quiet; then echo "変更はありません"; exit 0; fi
+          git commit -m "今日の神岡ラジオを更新"
+          git pull --rebase origin main
+          git push
