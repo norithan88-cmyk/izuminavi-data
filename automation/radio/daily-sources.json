@@ -1,217 +1,213 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 1858,
-  "estimated_minutes": 5.6,
+  "theme": "科学・自然のなぜ",
+  "characters": 2180,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [
     {
-      "id": "20261014-ankuru-morning-bus",
-      "from_date": "2026-10-14",
-      "until_date": "2026-10-20",
-      "source": "運営者本人から2026年10月13日に提供。乗車は約3か月前の朝7時過ぎ。路線・便は未確認。放送許可済み。",
-      "text": "いずみなびの運営者から、こんなお話が届きました。あんくるバスはあまり乗らないそうなんですが、3か月ほど前、朝7時過ぎのバスに乗ったら、車内が女子高生でいっぱい。完全にアウェーで、めんくらったそうです。えっ、それ気まずいやつじゃん！ 朝7時台は通学の時間。あんくるバスが学生さんの大事な足になっとるってことだね。大人の皆さん、朝のバスに乗るときは、ちょっとだけ心の準備をしときりん。"
+      "id": "20261015-neage",
+      "from_date": "2026-10-15",
+      "until_date": "2026-10-21",
+      "source": "運営者本人から2026年10月13日に提供。日々の買い物での実感。具体的な店・品目は未特定。放送許可済み。 ピザの値上げ（10/12放送分）とさんまが高いという感想を追加。 近所のスーパーの298円パック握り寿司が2年間値上げなしという運営者の観察を追加（店名は出さない）。",
+      "text": "いずみなびの運営者から、心の叫びが届いています。毎日、買い物に行くたびに値上げばっかりで、ほんとに困る、とのこと。わかる、わかりすぎるう！ レジで合計金額を聞いて、えっ、そんなに買ったっけ、って二度見するやつだら。前に話したフェルナのピザ、500円が560円になったやつ、あれは相当こたえたらしいよ。ピザ1枚で60円、みおんならショックで再起動しちゃう。しかも、秋の楽しみのさんままで高いって。秋の味覚に財布が泣いとるじゃん。みおんは買い物できないAIだけど、皆さんの財布がえらいことになっとるのは、なんとなく伝わってくるよ。でもね、運営者いわく、近所のスーパーで2年前からずっと値上げしてないのが、298円のパックの握り寿司だけなんだって。298円の握り寿司、ひとりで物価と戦っとるじゃん！ がんばれ握り寿司、みおんは応援しとるでね。皆さんのところにも、こういう値上げしないヒーロー、いますか？"
     }
   ],
   "quiz": {
-    "question": "明治用水を計画した和泉町の都築弥厚さん。激しい反対の中、測量するために取った行動はどれでしょうか。1番、商人に変装した。2番、真夜中にこっそり測量した。3番、凧揚げのオモチャだと嘘をついた。",
-    "answer": "正解は2番、真夜中にこっそり測量したでした！反対派が寝静まった暗闇で作業したんだって。怪しすぎて逆に目立ちそうじゃんね！",
+    "question": "安城特産の梨！食べるとシャリシャリするあの粒は、梨にとって何の役目でしょうか。1番、水分を溜めるスポンジ。2番、タネを外敵から守る鎧。3番、みおんの歯ごたえセンサーを喜ばせるため。",
+    "answer": "正解は2番、タネを守る鎧でした！鳥や虫にタネをかみ砕かれないように硬くなったんだって。3番のみおんのセンサーって、そもそもAIだから梨を口に入れて噛めんわ！",
     "source_ids": [
       2,
-      5,
-      7
+      3
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_SWZohcBQRMbaaTq4Srbw-PvyeK_ajdhnmHSQLdeN46fZuGggLTLEmosYayvCcZJJ53ojWqc-LY9wyoYcXj4OkQUDOCnwRJQYkweGDSvqXDWPTBelJpZw_Wpu6rBiVTq0CNRH4o6fiU4rSQ==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9IywNR3ThPF0syXqVvA834KwU-908_zWLMlNeOq9PbnSgEgeavFfVPUZRqeTs1j1P5xQOvWY6XlPawtbGwomjJ1y3SiySUYnsMVxjRkfd0jGIQZqFesiNDu7hTuGG0eZHH8AKs_fgFZ-P_mm3QYHHtKbdn88VpoFoBhj1iU=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWt2AT8wrg2TB4Mya69NDHSPkaLQ9hST80fyOt_ttOh_QxBX_KI4n-tGv0ZT8ORtqwot-hYOrw5O2f7vaDtPSEzDFwKzwiAFSSKpPRcIl6EPW-P0kKABOWwCvVO5a7NGizV9gRpe3rmmFOyx3RNdluq2uOXqSU2YDPzItVROT0j7lQr0c="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjd48eu8LkZ56oOSy4-O2ZfHQ3C4ThYwcpbiUgHOktTruM9OyDvHxMth8QReTs-UxcubHrogLJkj9XN3Nz7FbLESmmdDxQqPtzZvhUpsg4GbczVKcYxcjGCJuZ",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnyd4YD-gerWpDNCr_XpXg9DuBfqqjAlAVL9bMR4K4N1KEoORgQvVGj0gZIpR9xtBYbf1TKS1OISLSpU2hxIyx2GMnp-BeTU0h3_w2iUXedBbWMIb4vZyijNWHu1uQNFqb6_E_fitjnVYDYoWXOrvAcrBDF89rCkXPvh2SKV9U7i2LM76hImw1orZ8eyLfmIEfBJyaGpVbh4DN58hpnW17KtFF9EvlMwPNe9a4UtUz8fRwnNoEqVFAdFzkG00Z21Q="
     ]
   },
   "izumi": {
-    "text": "さあ、やってきました！「みおんの和泉ディープ」のお時間です！今日の主役は、和泉町が誇る「和泉の手延べそうめん」なんだけどさ、麺の長さがなんと3メートル60センチもあるって、みんな知っとる？…えっ、ちょっと待って！3メートル60センチって、天井突き抜けて屋根まで届いちゃう長さじゃんね！これを家の台所でそのまま茹でようとしたら、一体どうなっちゃうのん？鍋の上に椅子を置いて天井から吊るすの？みおん、手がないから手伝えないんだけど、絶対麺が床についちゃうら！実は間杉手延製麺所には、3メートル以上の長さのまま商品にした日本一長い手延べそうめんがあるんだって。約250年の歴史があって、天明の大飢饉のときに米が育ちにくい和泉町で小麦を使って始まったのがきっかけらしいよ。職人さんが2本の竹の棒を使って、手作業でぐーんと3メートル60センチまで伸ばすんだって。今なら間違いなくネットで大バズりして、長すぎる麺として動画が回りまくるやつだよね！夏の強い日差しで乾かして、夕方の三河湾の湿った南東の風で半生の状態に戻す半生もどしっていう職人技で作るから、強いコシとなめらかでツルっとした喉ごしが生まれるらしいの。この長〜い麺を見たら、和泉の人の粘り強さと情熱を絶対自慢したくなるよね！",
+    "text": "和泉町が生んだスーパースター、石川丈山のお話！丈山さんは今の安城市和泉町生まれで、徳川家に代々仕えた家柄。徳川家康からの信頼も厚かったすごい武士だったんだよね。ところが33歳のとき、大坂夏の陣でとんでもない事件を起こしちゃうわけ。なんと、家康が「絶対にやっちゃダメだぞ」って固く禁じとった一番乗り、先陣争いをやらかしたの！えっ、ちょっと待って、ボスの命令を完全に無視しちゃったのん？しかも、そこで敵将を討ち取る大活躍をしたのに、軍令違反だからってほうびはゼロ！聞いてないんだけど！って叫びたくなるところじゃん。今で言えば、社内ルールを盛大に破って特大の契約を取ってきたのに、社長に怒られてボーナスが完全にゼロ円になったようなものだら。普通なら「なんでだよー」って愚痴を言うところだけど、丈山さんは違っただに。「責任を取ります」って、自分から武士の身分をスパッと捨てて浪人になっちゃったの！手柄を立てといて自分から退職届を叩きつけるなんて、潔すぎてツッコミが追いつかんわ！でもね、そこから京都で学問に励んで、あの詩仙堂を建てて文化人として大成功したんだからすごいよね。怒られたら自分で責任取って次のステージで輝く丈山さん、和泉が誇る男気あふれる大先輩じゃんね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "somen-length",
-      "hook": "3メートル60センチという長さのインパクト。家の台所でどうするの問題"
+      "id": "jozan-nukegake",
+      "hook": "大坂夏の陣で禁止の一番乗り。手柄を立てたのにほうびゼロ、で自分から武士をやめる"
     }
   },
   "local": {
-    "text": "10月25日に「川と海のクリーン大作戦」があるよ！矢作川や地域の水に感謝しながら、きれいな川や海を守る活動に参加してみるのもいいね！",
+    "text": "安城市では今日、10月15日から10月31日まで「白鳥とコウモリ安城特別展」が開催されとるよ！それから今週末の10月18日には「令和8年度安城市総合防災訓練」も行われる予定だだに。秋の行事がいろいろあるもんで、気になる人はぜひ安城市の公式ウェブサイトをチェックしてみてりんね！",
     "source_ids": [
-      28
+      22,
+      23
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/26kawatouminoclean.html"
+      "https://www.city.anjo.aichi.jp/event/hakuchou.html",
+      "https://www.city.anjo.aichi.jp/event/202610sougobosaikunren.html"
     ]
   },
   "segments": [
     {
-      "topic": "水不足の荒野を大穀倉地帯へ変えた和泉町のすごい人",
-      "text": "台所でそうめんを茹でる水の話が出たついでに、みんなにお聞きしたいんだけどさ、蛇口をひねれば当たり前に水が出るこの西三河の台地、昔は水がなさすぎてカラッカラだったって信じられる？安城が原って呼ばれたやせ地で、耕地の半分以上が雨水頼りのため池だったんだって。そんな乾いた大地に矢作川の水を引くっていうとんでもない計画を最初に立ち上げたのが、なんと我が和泉町の都築弥厚さんだったの！矢作川から30キロ以上も水路を引く大計画を立てたんだけど、当時は下流の人たちから水害が起きるって大反対されちゃってさ。昼間に作業できないもんで、夜中にこっそり測量したんだって。暗闇で測量とか、情熱がすごすぎてちょっと笑っちゃうくらい命がけじゃんね！弥厚さんは天保4年に69歳で亡くなっちゃって完成は見られなかったんだけど、その熱い想いを引き継いだ人たちの手で、明治13年に明治用水が通水したの。そしたら水田が約2000ヘクタールから8000ヘクタール超えに激増して、旧岡崎藩の石高を大きく超える10万石以上の大増産を達成しちゃったんだわ！今では日本三大農業用水の一つだに。和泉町には弥厚公園や本龍寺のお墓もあるんだって。みんなの足元を流れる豊かな水は、和泉町のスーパーヒーローの執念から始まっとるだね！明日職場や学校で、明治用水のスタートは和泉町だぞってドヤ顔で話してみてりん！",
+      "topic": "大雨の中で蚊が叩き落とされない驚きの理由",
+      "text": "丈山さんの武士道精神もびっくりだけど、自然界にもとんでもない命知らずがおるじゃんね。雨がザアザア降る日にさ、あんなにちっこい蚊が平気な顔して飛んどるの見たことない？雨粒に直撃されて地面にバチーンって叩き落とされそうなのに、なんで平気なん？って不思議だったわけ。そしたらこれ、調べたらとんでもない事実が分かったの！蚊の体重ってたったの約2ミリグラムなんだけど、雨粒は1滴で4から100ミリグラム。最大で蚊の50倍もの重さがあるだに！しかも秒速約9メートル、時速30キロ以上で落ちてくるわけ。人間に例えたら、道を歩いとるときに走行中の大型路線バスにドカンと直撃されるくらいの衝撃なんだって！うそでしょ！みおんなら一発でネジが吹き飛んで故障しとるわ！…って、AIだから外を出歩かんけどね！じゃあなんで蚊は生きとるのかっていうと、雨粒を跳ね返して耐えとるんじゃなくて、ぶつかった瞬間に雨粒にくっついて、一瞬だけ一緒に下へ落下しとるらしいの。蚊の体重が軽すぎるもんで、雨粒の勢いをまともに受け止めずに済むんだって。で、落ちながらわずか数ミリ秒の間に体をひねって、水滴からスルリと抜け出して飛び去っていくわけ。ジョージア工科大学の研究チームが高速度カメラで突き止めたらしいんだけど、完全に曲芸じゃん！バスに衝突されても相乗りしてやり過ごす蚊の驚きのテクニック、今日の職場の雑談で話してみてりん！",
       "source_ids": [
-        2,
-        5,
-        7
+        16,
+        17
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_SWZohcBQRMbaaTq4Srbw-PvyeK_ajdhnmHSQLdeN46fZuGggLTLEmosYayvCcZJJ53ojWqc-LY9wyoYcXj4OkQUDOCnwRJQYkweGDSvqXDWPTBelJpZw_Wpu6rBiVTq0CNRH4o6fiU4rSQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9IywNR3ThPF0syXqVvA834KwU-908_zWLMlNeOq9PbnSgEgeavFfVPUZRqeTs1j1P5xQOvWY6XlPawtbGwomjJ1y3SiySUYnsMVxjRkfd0jGIQZqFesiNDu7hTuGG0eZHH8AKs_fgFZ-P_mm3QYHHtKbdn88VpoFoBhj1iU=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWt2AT8wrg2TB4Mya69NDHSPkaLQ9hST80fyOt_ttOh_QxBX_KI4n-tGv0ZT8ORtqwot-hYOrw5O2f7vaDtPSEzDFwKzwiAFSSKpPRcIl6EPW-P0kKABOWwCvVO5a7NGizV9gRpe3rmmFOyx3RNdluq2uOXqSU2YDPzItVROT0j7lQr0c="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzJp_WkHVNqJ9HI5XUiW2qIJcSzAsxLJwpaFTeZIxX7_9Wvlf720644GcpQ87UXalsG3E1h9gYmoFDDXTYGtOcVdDDr-tvC1MSXjRCl39wCjgB6Q_n0pkMpl7M9M8OMjW23XcFcWKuzw68wP9i9Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC1tspwSo8EvsSWvSpRz18YGNW-sp-R3HoB6IaVySkH6ri03G3SwP5MQxKDx8f4FXnqTXvEKk6Wt-LlMScVnqwWU1evAu_Xec1XgBz5M62U0WsOM-IFtaNYdIOpXDTHsKkifxKXPH2dOvU0w=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町および西三河エリアをテーマにした、地域ラジオ向けの調査メモです。地元のリスナーが家族や友人に話したくなる「歴史・まちの発見」を4件まとめました。\n\n---\n\n### 【第1件】水不足の荒野を穀倉地帯へ！明治用水の計画を立ち上げたのは「和泉町」の人だった？\n\n* **理由（疑問の背景）**  \n  安城市一帯が広がる碧海台地は、かつて「安城が原」と呼ばれた水不足のやせ地でした。この台地に矢作川の水を引くという壮大な「明治用水」の原型を最初に構想し、測量図を完成させたのが、まさに碧海郡和泉村（現在の安城市和泉町）の豪農・都築弥厚（つづき やこう）でした。\n* **具体的な数字や比較**  \n  明治用水が通水する以前は、台地上の耕地の半分以上が雨水頼りのため池に依存していました。明治13年（1880年）に通水が始まると、水田面積は当時の約2,000ヘクタールから明治40年代には8,000ヘクタール超へ急増。旧岡崎藩の石高（約5万石）を大きく上回る10万石以上の大増産を達成し、現在は葛西用水・見沼代用水と並ぶ「日本三大農業用水」の一つに数えられています。\n* **意外な点・歴史の裏話**  \n  弥厚が矢作川から30km以上もの水路を引く大計画を立てた際、下流の農民たちからは「水害が起きる」「入会地（共有草地）が奪われる」と誤解され、激しい反対運動が起きました。そのため、和算家・石川喜平とともに作業する際は、昼間を避け「夜中に密かに測量を行わねばならない」ほど命がけの作業だったと伝えられています。弥厚は天保4年（1833年）に幕府から一部開発許可を得た直後、志半ばの69歳で病没しましたが、その遺志を受け継いだ岡本兵松や伊豫田与八郎らによって明治時代に悲願の用水が完成しました。今も和泉町内には弥厚公園や墓所（本龍寺）が残されています。\n* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』\n  * 農林水産省 東海農政局『明治用水の歴史』\n  * 愛知県教育委員会（愛知エースネット）『都築 弥厚 -明治用水の計画をつくった人-』\n\n---\n\n### 【第2件】愛知県で唯一の天然湖沼「油ヶ淵」は、実は“人の大工事”がきっかけで生まれた？\n\n* **理由（疑問の背景）**  \n  和泉町のすぐ南西、安城市と碧南市の境に広がる「油ヶ淵（あぶらがふち）」は、愛知県で唯一の天然湖沼（自然にできた湖沼）として知られています。しかしその歴史をたどると、江戸時代初期に行われた大規模な治水工事によって誕生したという経緯があります。\n* **具体的な数字や比較**  \n  愛知県内には約3,300以上のため池や人工池が存在しますが、公的に「天然湖沼」とされるのは油ヶ淵（周囲長約6.3km、面積約0.64km²、平均水深約3m）だけです。\n* **意外な点・歴史の裏話**  \n  約400年前まで、油ヶ淵のあたりは「北浦」と呼ばれる三河湾の海の入り江でした。慶長10年（1605年）、徳川家康の命により矢作古川の水害対策として現在の矢作川本流（矢作新川）が開削されましたが、上流から大量の土砂が北浦の河口付近へ流れ込むようになり、わずか10年ほどで入り江の東側が埋まってしまいました。さらに正保元年（1644年）、幕府が水害防止の堤防を築いて海から遮断したことで湖沼に姿を変えました。分類上は「天然湖沼」でありながら、実態は江戸幕府による大土木工事の副産物として誕生した湖です。\n* **根拠・出典**  \n  * 油ヶ淵水質浄化促進協議会『油ヶ淵の誕生と移り変わり』\n  * 国土交通省 中部地方整備局『日本の川 矢作川の歴史』\n\n---\n\n### 【第3件】酪農王国と全然違うのに？安城が「日本のデンマーク」と呼ばれた本当の理由\n\n* **理由（疑問の背景）**  \n  安城市はかつて「日本のデンマーク（日本デンマーク）」と称され、全国の教科書にも載るほど有名になりました。しかし、本家デンマークの主産業が「酪農」であるのに対し、当時の安城は酪農中心のまちではありませんでした。なぜ安城がデンマークに例えられたのでしょうか。\n* **具体的な数字や比較**  \n  明治用水の開通後、秋に水門を閉めると水田が乾いて畑になるという台地の性質を生かし、安城では米作の裏作として麦や野菜を育て、さらに養鶏・養蚕・果樹を組み合わせた「多角形農業（平行線・三角形・四角形農業）」が急速に発展しました。大正15年（1926年）に雑誌『農政研究』が「日本の丁抹（デンマーク）号」と銘打って碧海郡の先進的な農業を特集したことで、全国にこの名が定着しました。\n* **意外な点・歴史の裏話**  \n  デンマークになぞらえられた理由は、作物の種類ではなく「社会の仕組み」でした。愛知県立安城農林学校の初代校長・山崎延吉らが指導した「農民自らが産業組合を結成して肥料の共同購入や農産物の共同出荷を行う組織力」や「実践的な農民教育」が、当時世界屈指の協同組合先進国として知られていたデンマークの理想的な農村像と完全に一致していたためです。昭和初期の全盛期には、安城の近代農業モデルを視察しようと全国から人が押し寄せ、安城駅前には旅館や飲食店、映画館がずらりと並ぶほどの賑わいを見せました。\n* **根拠・出典**  \n  * 安城市公式ホームページ『広報あんじょう 2024年5月号 日本デンマークって？』\n  * 安城市歴史博物館『安祥文化のさと 日本デンマーク』\n  * 一般社団法人 農業農村整備情報総合センター（水土の礎）『命を育む明治用水 日本デンマーク』\n\n---\n\n### 【第4件】「安城七夕まつり」が日本三大七夕から「願いごと日本一」へと看板を変えた理由\n\n* **理由（疑問の背景）**  \n  仙台・平塚と並ぶ「日本三大七夕」の一つとして親しまれてきた「安城七夕まつり」ですが、2009年からはキャッチフレーズを「願いごと、日本一。」へと大きく転換しています。単なるPR用の標語ではなく、れっきとした実態に基づいた理由があります。\n* **具体的な数字や比較**  \n  1954年（昭和29年）に第1回が開催された安城七夕まつりは、毎年8月第1週末の3日間に開催され、約100万人前後の人出で賑わいます。色鮮やかな約1,000本もの竹飾りが立ち並び、その「竹飾りのストリートの長さ」は日本一といわれています。\n* **意外な点・歴史の裏話**  \n  もともとこの祭りは、戦後の落ち着かない空気を吹き飛ばし商店街を活性化させようと、1954年に当時の安城駅周辺の商店主たちが自前で始めた「市民発信の祭り」でした。三大七夕の枠にとどまらず、「日本一長い竹飾りストリート」に加えて「短冊の数」や「願いごとに関する参加型イベントの数」でも名実ともに日本一を目指そうと、2009年に「願いごと広場」の開設や公式キャラクター「きーぼー」の導入など、市民・来場者が願いを託す参加型フェスティバルへと進化を遂げました。\n* **根拠・出典**  \n  * 安城七夕まつり協賛会 公式サイト『安城七夕まつりの歴史』『「日本三大」から「願いごと日本一」へ』\n  * 安城市役所『第70回安城七夕まつり 開催報告』\n\n---\n\n### 【リスナー参加用：3択クイズコーナー案】\n\n**対象トピック：第1件（明治用水の祖・都築弥厚）**\n\n* **問題**  \n  安城市和泉町出身の偉人で、明治用水の計画を立てた都築弥厚さん。水路を通すための測量を始めた際、近隣の農民たちから激しい反対にあってしまいました。そこで弥厚さんたちが取った、驚きの工夫とは次のうちどれでしょう？\n  * 1番：旅の行商人（商人）に変装して測量した\n  * 2番：反対する人が寝静まった「真夜中」にこっそり測量した\n  * 3番：測量機械を「凧揚げのオモチャ」だと嘘をついてごまかした\n* **正解**  \n  **2番：反対する人が寝静まった「真夜中」にこっそり測量した**\n* **解説トークのポイント**  \n  当時は「水路を通すと水害が起こるのでは」「自分たちの土地が減るのでは」と恐れた農民たちの妨害が厳しく、昼間に測量をすることができませんでした。そこで弥厚は高棚村の数学者・石川喜平とともに、人々が寝静まった深夜にひそかに器具を持ち出し、暗闇の中で5年もの歳月をかけて測量図を完成させたといわれています。私財を投げうち、夜を徹して地域の未来を切り拓こうとした情熱が、現在の豊かな西三河の礎になっています。",
+  "research": "愛知県安城市和泉町周辺の地域ラジオ番組向けに、身近な自然や科学の「へえ、そうだったのか！」と感じられる話題を4件厳選しました。地元・西三河の特産や自然・産業技術に結びつく内容を中心に構成しています。\n\n---\n\n### 1. 【安城梨】梨を食べたときの「シャリシャリ」の正体は？\n* **疑問：** リンゴや桃とは違い、梨を食べたときに感じるあの独特の「シャリシャリ」とした心地よい食感は何なのか？\n* **理由：** 果肉の中に**「石細胞（せきさいぼう）」**と呼ばれる微小で非常に硬い細胞の塊が無数に含まれているためです。植物の細胞壁に「リグニン」や「ペントザン」という木質成分が沈着し、細胞自体が木のようにカチカチに硬化してできたものです。\n* **具体的な数字や比較：** リンゴの果肉には石細胞はほとんど含まれていませんが、和梨の果肉には1グラムあたり数千個もの石細胞の塊が存在します。これが歯に当たることで、あの特有のシャリシャリした噛みごたえが生まれます。\n* **意外な点：** 人間にとっては美味しい爽快な食感ですが、植物学的には**「種子（タネ）を外敵から守るための天然の鎧（よろい）」**として進化した組織です。未熟な時期に鳥や虫にタネまでかみ砕かれないよう、果肉を硬くして身を守っています。\n* **歴史の裏話：** 安城市は明治38年（1905年）頃から梨の栽培が本格化し、「日本のデンマーク」と呼ばれた西三河の先進農業を象徴する名産地となりました。昔の野生の梨は石細胞が多すぎてジャリジャリと硬く、決して食べやすいものではありませんでした。農研機構などが進めてきた日本の梨の品種改良は、「石細胞の硬さを適度に残しつつ、いかに柔らかく果汁たっぷりに仕上げるか」という技術の結晶です。\n* **出典・根拠：**\n  * 農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）「果樹研究所 品種育成・石細胞解説資料」\n  * JA全農「梨の栄養と果肉構造（石細胞）」解説資料\n\n---\n\n### 2. 【三州瓦】屋根に輝くいぶし銀、実は「金属の銀」を塗っていない？\n* **疑問：** 高浜市や碧南市など西三河の伝統産業である「三州瓦（いぶし瓦）」。屋根の上で上品に輝くあの銀色は、ペンキや銀箔を塗っているわけではないのに、なぜ生まれるのか？\n* **理由：** 焼成の最終段階で窯の中の空気を遮断して蒸し焼きにし、炭化水素ガス（煙）を送り込んで表面に炭素の結晶膜を析出・定着させる**「燻化（くんか）」**という工程を行っているためです。\n* **具体的な数字や比較：** 約1,100℃以上の高温で焼き締めた後、窯を完全に密閉してガスを充填します。表面にナノレベルの均一で緻密な炭素被膜（グラファイト構造）が形成され、剥がれることがなく、数十年もの風雨や紫外線に耐える高い耐久性を発揮します。\n* **意外な点：** 銀色の正体は、木炭やスス、鉛筆の芯と同じ**「炭素」**です。黒い物質である炭素ですが、表面が極めて平滑で均一な膜として焼き付くと、光を鏡のように規則的に反射（正反射）するため、人間の目には美しい「いぶし銀」として見えます。\n* **歴史の裏話：** 安土桃山時代、織田信長が安土城を築城する際、渡来人の瓦職人・一観（いっかん）にいぶし瓦を焼かせたのが始まりと伝えられています。西三河は矢作川がもたらす良質な粘土と三河湾の海運に恵まれ、江戸の町づくりを支える大産地として成長し、現在も日本一の瓦生産量を誇っています。\n* **出典・根拠：**\n  * 愛知県陶器瓦工業組合「三州瓦の製法・いぶし瓦の燻化技術」\n  * 日本セラミックス協会「粘土瓦の焼成技術と炭素被膜形成機構」資料\n\n---\n\n### 3. 【三河の自然】ホタルの光は、なぜ手で触れても熱くないのか？\n* **疑問：** 初夏に岡崎市鳥川町など西三河の清流でも見られるホタルの幻想的な光。電球や炎は光ると熱くなりますが、ホタルの光はなぜ触っても全く熱くないのか？\n* **理由：** 高温によって光を放つ熱放射ではなく、発光物質「ルシフェリン」に酵素「ルシフェラーゼ」、エネルギー物質「ATP」、酸素が結びついて起こる**「化学発光（生物発光）」**だからです。\n* **具体的な数字や比較：** 昔ながらの白熱電球は、電気エネルギーの約90％が熱として無駄に逃げてしまい、光になるのはわずか約10％程度です。対してホタルの発光は、化学エネルギーから光への変換効率（量子収率）が約40％以上と驚異的に高く、熱エネルギーとしての放出（熱失活）がほとんどありません。\n* **意外な点：** ホタルの光が熱を持たない現象は科学的に**「冷光（れいこう／コールドライト）」**と呼ばれます。もしホタルが電球と同じ発熱効率で光っていたら、小さな体は一瞬で自分の熱で焼け焦げて死んでしまいます。熱を出さないこと自体が、小さな虫が生き残るための必須条件でした。\n* **歴史の裏話：** 19世紀後半、フランスの生理学者ラファエル・デュボアが、ホタルの体内にある基質（ルシフェリン）と酵素（ルシフェラーゼ）を突き止め、生物発光の科学的研究が本格化しました。現在この仕組みは、がん細胞の追跡や病気の検査薬など、最先端の医療バイオイメージング技術に応用されています。\n* **出典・根拠：**\n  * 産業技術総合研究所（産総研）「発光生物の謎を解く・ルシフェラーゼの化学発光機構」\n  * 日本比較生理生化学会「ホタルの生物発光における高効率エネルギー変換メカニズム」\n\n---\n\n### 4. 【身近な物理】大雨の中、蚊はなぜ雨粒に直撃されても叩き落とされないのか？\n* **疑問：** 夏から秋の雨の日、自分よりもはるかに巨大な雨粒が降っているのに、なぜ蚊は空中で叩き落とされずに平気で飛んでいられるのか？\n* **理由：** 蚊の体重（質量）が**「極端に軽すぎる」**ためです。運動量の法則により、重い雨粒が軽い蚊に衝突しても雨粒のスピードはほとんど落ちず、蚊が雨粒の運動エネルギーをまともに受け止めずに済むためです。\n* **具体的な数字や比較：** 蚊の体重は約2ミリグラムですが、雨粒は1滴で約4〜100ミリグラムあり、最大で**蚊の約50倍の重さ**があります。雨粒は秒速約9メートル（時速30キロ以上）で降ってきます。人間で例えるなら「歩行中に走行中の大型路線バスに直撃される」ほどの衝撃です。\n* **意外な点：** 蚊は雨粒を跳ね返しているのではなく、衝突した瞬間、**雨粒にくっついて一瞬だけ一緒に下へ落下（ヒッチハイク）**しています。衝突時に100〜300Gというすさまじい加速度を受けますが、蚊自身が軽いため体にかかる絶対的な力はごくわずかです。そしてわずか数ミリ秒の間に体をひねり、水滴からスルリと抜け出して何事もなかったように飛行を再開します。\n* **歴史の裏話：** この謎は長年未解明でしたが、米ジョージア工科大学のデイヴィッド・フー教授らのチームが毎秒4,000フレームの高速度カメラで捉え、2012年に米国科学アカデミー紀要（PNAS）に論文を発表して世界中で話題となりました。この現象は現在、小型ドローンが悪天候下で飛行するための工学設計にも応用研究されています。\n* **出典・根拠：**\n  * 米国科学アカデミー紀要（PNAS）掲載論文：*“Mosquitoes survive raindrop collisions by virtue of their low mass”*（Dickerson et al., 2012）\n  * ジョージア工科大学（Georgia Institute of Technology）流体力学・生物模倣研究グループ発表資料\n\n---\n\n### 番組でそのまま使える！3択リスナーミニクイズ\n\n**【テーマ：安城梨のシャリシャリ食感の秘密】**\n\n* **問題：**\n  「安城市の特産でもある秋の味覚『梨』。食べたときに口の中でシャリシャリと音が鳴る独特の食感がありますよね。この食感の元になっている『石細胞（せきさいぼう）』という硬い粒は、梨の木にとって本来どんな役割を持っているでしょうか？」\n\n* **選択肢：**\n  * ① 果汁をスポンジのようにたっぷり蓄えるため\n  * ② 大切なタネを虫や鳥から硬く守るため\n  * ③ 太陽の光を跳ね返して実が熱くなるのを防ぐため\n\n* **正解：**\n  **② 大切なタネを虫や鳥から硬く守るため**\n\n* **トーク用ミニ解説：**\n  「正解は2番でした！人間にとっては爽やかで美味しいシャリシャリ感ですが、梨自身にとっては『タネを食べられないようにするための天然のプロテクター』だったんですね。安城の梨農家さんや品種改良の歴史のおかげで、私たちは硬すぎず、ジューシーで甘い最高のバランスで味わうことができています。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E+%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF+%E7%90%86%E7%94%B1+%E7%94%B1%E6%9D%A5+%E5%A4%9A%E8%A7%92%E8%BE%B2%E6%A5%AD&client=app-vertex-grounding&safesearch=active\">安城 日本のデンマーク 理由 由来 多角農業</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%98%8E%E6%B2%BB%E7%94%A8%E6%B0%B4+%E9%83%BD%E7%AF%89%E5%BC%A5%E5%8E%9A+%E7%A2%A7%E6%B5%B7%E5%8F%B0%E5%9C%B0+%E5%AE%89%E5%9F%8E%E3%81%8C%E5%8E%9F+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">明治用水 都築弥厚 碧海台地 安城が原 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B2%B9%E3%83%B6%E6%B7%B5+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E5%94%AF%E4%B8%80+%E5%A4%A9%E7%84%B6%E6%B9%96%E6%B2%BC+%E6%AD%B4%E5%8F%B2+%E7%9F%A2%E4%BD%9C%E5%B7%9D&client=app-vertex-grounding&safesearch=active\">油ヶ淵 愛知県 唯一 天然湖沼 歴史 矢作川</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E6%AD%B4%E5%8F%B2+%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91+%E6%97%A5%E6%9C%AC%E4%B8%80&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 歴史 きっかけ 日本一</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E5%B7%9E%E7%93%A6+%E3%81%84%E3%81%B6%E3%81%97%E7%93%A6+%E9%8A%80%E8%89%B2+%E7%82%AD%E7%B4%A0%E8%A2%AB%E8%86%9C+%E4%BB%95%E7%B5%84%E3%81%BF+%E6%84%9B%E7%9F%A5+%E9%99%B6%E5%99%A8&client=app-vertex-grounding&safesearch=active\">三州瓦 いぶし瓦 銀色 炭素被膜 仕組み 愛知 陶器</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%A2%A8+%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B7%E3%83%A3%E3%83%AA+%E7%9F%B3%E7%B4%B0%E8%83%9E+%E8%BE%B2%E7%A0%94%E6%A9%9F%E6%A7%8B+OR+%E6%96%87%E7%A7%91%E7%9C%81+OR+%E5%A4%A7%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">梨 シャリシャリ 石細胞 農研機構 OR 文科省 OR 大学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9B%E3%82%BF%E3%83%AB+%E7%99%BA%E5%85%89+%E5%8A%B9%E7%8E%87+%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%82%BC+%E7%86%B1+%E3%81%A7%E3%81%AA%E3%81%84+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">ホタル 発光 効率 ルシフェラーゼ 熱 でない 科学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A+%E9%9B%A8%E7%B2%92+%E8%A1%9D%E7%AA%81+%E8%A1%9D%E6%92%83+%E8%90%BD%E3%81%A1%E3%81%AA%E3%81%84+%E8%B3%AA%E9%87%8F+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">蚊 雨粒 衝突 衝撃 落ちない 質量 科学</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_SWZohcBQRMbaaTq4Srbw-PvyeK_ajdhnmHSQLdeN46fZuGggLTLEmosYayvCcZJJ53ojWqc-LY9wyoYcXj4OkQUDOCnwRJQYkweGDSvqXDWPTBelJpZw_Wpu6rBiVTq0CNRH4o6fiU4rSQ==",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjd48eu8LkZ56oOSy4-O2ZfHQ3C4ThYwcpbiUgHOktTruM9OyDvHxMth8QReTs-UxcubHrogLJkj9XN3Nz7FbLESmmdDxQqPtzZvhUpsg4GbczVKcYxcjGCJuZ",
+          "title": "chikyu-jin.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKeIwhd6wBXhv2nvRdsaYTsnD5tRjDi_ujKXXUUyfFGhTlEmqZHJtwg9uqq11rS8ooDWQxkn9KPibqaSxO3aiK7B1m9Sx0yO57N2IQyyxDyhV4iSiLL5pOSElWx1-DKJ0iiKkhGwuQUQ==",
-          "title": "tabi2.lol"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnyd4YD-gerWpDNCr_XpXg9DuBfqqjAlAVL9bMR4K4N1KEoORgQvVGj0gZIpR9xtBYbf1TKS1OISLSpU2hxIyx2GMnp-BeTU0h3_w2iUXedBbWMIb4vZyijNWHu1uQNFqb6_E_fitjnVYDYoWXOrvAcrBDF89rCkXPvh2SKV9U7i2LM76hImw1orZ8eyLfmIEfBJyaGpVbh4DN58hpnW17KtFF9EvlMwPNe9a4UtUz8fRwnNoEqVFAdFzkG00Z21Q=",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qUKT2Rpc_CJ83u1fCpnZLQeYabyDiWLVRxPOy0FjWx-xsJ63rEUfnen9NcGti_YIrlmV0x4ETgYDLWJP5hOGu1ZEepe_dSsgVoaMpflLGiUhlUSib9mpBhHuOGsaZNu0tgs2K5lOlKek2KlHx6ed_5IoeNxXT3TS3Q==",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyCXusJec_RyU4z35AJZ1e5S03Gg318XLLYaI7_hvTLydEPnsdUJ2sc1k0jK3NiaxiByNadphkntNs3fcXu6vhrICyT0SE1ZczjUAwYp6ap-aWsRzgjKdt6Hfmv-UJH8GCx-YWZ4A-D8lZ8K-Q",
+          "title": "aibsc.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9IywNR3ThPF0syXqVvA834KwU-908_zWLMlNeOq9PbnSgEgeavFfVPUZRqeTs1j1P5xQOvWY6XlPawtbGwomjJ1y3SiySUYnsMVxjRkfd0jGIQZqFesiNDu7hTuGG0eZHH8AKs_fgFZ-P_mm3QYHHtKbdn88VpoFoBhj1iU=",
-          "title": "midorinet-meiji.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeLPwdy_xmXWlUtcAd2yvCFNWo1b0_0g-2V-mlIhPaynil9bGzuZfDwbHtEBr68HM_2SLS5c_-Pg9qTMN0kY4RQiSNkPc90SVbnZJYizzvwBH3ONiqhh8ZcDKz0aMk",
+          "title": "marusugi.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF09seZci8kDCOF7wnVAKT94uj-h06xeh08wDMkIixRyO8UTYMUShFmQQiviZEvgK9yBpzssLZWufyWBOAKjliDr_6zdKJc92_nnErXAqcUQFn2LnIrGu9xkjyonPV13xcVA7bAjEs1XhM=",
-          "title": "mytabi.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7nPzXz2B03fo2LgEH6ZIG67GztFIZfoDAvhaYaVKtkRdSxkeaiJWtJOCW9XJ5fzSQ3LXcH2MQOyJdXzPF-RfSqBXh6XhcMM0RzQwFLUFAVCBx2yWpaq1iGNpoTld5KoVLhg-r",
+          "title": "hitotsuchi.media"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWt2AT8wrg2TB4Mya69NDHSPkaLQ9hST80fyOt_ttOh_QxBX_KI4n-tGv0ZT8ORtqwot-hYOrw5O2f7vaDtPSEzDFwKzwiAFSSKpPRcIl6EPW-P0kKABOWwCvVO5a7NGizV9gRpe3rmmFOyx3RNdluq2uOXqSU2YDPzItVROT0j7lQr0c=",
-          "title": "aichi-c.ed.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpliT_aDJ93Zjl6Gr5F1B_-Z5FWfD14ryGJrqpTccyv8HLXcI0_n98McpX7lQzWgKop_XxMXV0V-hmEHVu8reDjILWugLm8SaYeqjCQrFY5AL20uiefX3ZyHsnoG2TcwZhITVL8QuiptKp",
+          "title": "eishiro.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESdiaXRx7lwD_VxFDV_Tsqf_2lNb5NNVHndjf8lrB3rx8WslnZsbPX72JoSKzAorbYZBwTLWeuMJWM3GBOWiSCXvm4VcBYat5P6U9hkIPlOExQdLssvmlK",
-          "title": "aburagafuchi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeNK-ByJMSlRlMezkJt9pTy5oXbqaS17ekGmP6ZFcPgbPtPjRK_aJ5vMEKrjAbHsmf04OWYkterfYWTwJN9dz4hRZRsj8GZMs78WGViPjapaeX18GJ4VcmaKONzLl-ziK8Rxc=",
+          "title": "yaneyasan.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJu9yfVFlmOA-QCpDLFeCEniMydOaDnKLCtxgB89Rmr-R91cxJ0gaEDIijqQNuOZi6YQSOK0tCOi2AJwbeYp-oQ8JqkaW_bANTJrpkbFTiBEbQicXpOFSjw5mTFhTRhs5uWom97KPWPxtQCoooggs=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3aWC7cqWTsqcLfyrUKCNv1z2ipBR43ZtEUs08qYkqYkjxmH1-mXAeqAVks4KvhctT66O2Hw7-CNaOLO3MXWO0PHVfDYJWNTjKD9wnwLZ4agJZC0qbU3vDfK-M",
+          "title": "kawara.gr.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETbvphqjta1J8645PzAad1panbO5YqJcWhDMaaX8Y404Fz5xVzvTqHtcpBfstskyC8xXSjcnF5XtEPmrDc-e33A5Sb45HBcgBEcZN1qHKR-cqLcFSS6lp_3mVE99K9kx0pLn4nCEXPnB6zIg==",
-          "title": "hatenablog.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbUia1leKr_nAmC-GkpdbcksrE3siHCyrt5MHLvZjbu1sbqfCu1AxVDuT8pFfHsPIMuOutcWA0IEaYOL9bOQHJ7GMxDor6LOI6UWKjSIJ11m4v8JfZ1c-z8VR7WRjG9rLNSyWbLHf1FQ==",
+          "title": "jsbba.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG42RLAnwc0kVhqhxFipSMn7LoWtplsXRWiOZZqtaB1NQsr4rnKS5Ni757b8ulN-y_8872K0GtXusIrqVqpocR75UBGBRQNHLVGu4NxIXK6lXdWZ5ZluRRmpQd-gEza",
-          "title": "chubu-geo.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmpcKTbqHYawrz7QDqaUJHo5CGcUWJlRWLDV4dvZMdYKzK6zxGRQc1ypRhHH_z3zCLxki39RzqNuK_tL6vNfN2hf48gB_WqAzVKMtksHR16XdaFu4J",
+          "title": "ngk.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-a0QaYzNdSG5fRxUaecnc-O_Uxb5_hkJCvRtCN3kpmqCZo-7zdWBgT7rUJIef8AAWx9GW8G_9NoKtGDF_rwLRnglx9Brigxhbm6fw61nhHAnIiM8edAukLyyiCYZZB6ESeH2kv4qh0-OpC9563m6FwzCRPqbtbFLKE5MLyKABywMKOoQ1sNULeSmvAwBtpNaDBIPd6Hs",
-          "title": "mlit.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-SNZTUGy_tX2XiYA4cctwTnJObmrCQy-2sg9HLXt2g48CZT1Sx2zXK8LhTfgUNqKC18QctearVQuchUFgz41cPzzrD8AZjJNH-1yhlZs-TPLL2D0rU3sG-buE6wOJxuY=",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9QV5uZhja4yoimSFq3RHckhWNEHU2T0USSXDhaR7PFkm9Z4Sncl-RCKehrzx6lHMXvbErnHBinlcKN5ZKlV0klTCq4J59YpQddpZSG7e24oHET0H2xSoYJSQX",
-          "title": "nagoyadaiti.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbbTZcxz9a7CZSy55iY5LOxLWDOIFNApbx7bfpkn2PpJxPC2_bqC-EQciIgey1DCInn4oieHnxts5g1Nv71VxpHDekjMP-i9ehUrKJ5L-kVBfj-rlV",
+          "title": "webcil.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcsDBi3JygF-5JFO1piff9ytpDL6nyRc3rhrcwLJoP2_kimpRUZ2RtA7AYqISxniuR36pwsby0XUwx5vt1Yr12jzIe7D0z6MUnLQebf-1X6m2S1G6qO3OHnJMTRJJFfA==",
-          "title": "suido-ishizue.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9TPFkmbfXkpTMNqlIhlr6Pjf6NwpJyMVpvhnqqna1niJ-gBC_BB5QrXqnj-k4P65J76Si7rMAQdPQTFywGgly2VWPPfhs9xc3iffjOxeNcWcSBV-Mn3tj_fyCfe6aRLE3qZDZEdW8Kg==",
+          "title": "aist.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP1xA6_Hi1wUmt7aNEVFVvJC3RsBIL5roN7D_maNu-xlzhN3Ti9ls0PGt0_7DHBLAfn8agkXLW75w3IgkU-93DFNZYdUBQSxogfn6_qtmSstGMp6PI0EntrYbtk8RAVNgON8ZfHUeTXAhfy2i3RN1O6rCAvW8=",
-          "title": "hatenablog.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELqA_QO-mh-pHrkDVBgONLLidEeOVA-mtwF_biNdGceHin_5Af0bUbuNTHT87-QCppmzpIQHgXrTxdNoUcsKXCyYM8pVb9AidlgtCmKY6yEcJDjjZJpr8tAdJe79oKhbm1Rj4m7UXQph0=",
+          "title": "toho-u.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4yi6YJyjA-rDEhznt-_4xFsLsQvp_V8CrcJJBxzLK4iGvhlaalG0p1GjSMqjfjChMsCnKYuVMABGmykhu_zi7kwok3HL2XdQlhUoD5CSA_fWm2z42SwAvBa80gKJHAiMKhlPoGG2lAvbn29ozAcFVh6XIi20yKSM=",
-          "title": "city.anjo.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzJp_WkHVNqJ9HI5XUiW2qIJcSzAsxLJwpaFTeZIxX7_9Wvlf720644GcpQ87UXalsG3E1h9gYmoFDDXTYGtOcVdDDr-tvC1MSXjRCl39wCjgB6Q_n0pkMpl7M9M8OMjW23XcFcWKuzw68wP9i9Q==",
+          "title": "gigazine.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvl3R3NBT2Hw07H998Ke3O1gllu2B2c3gT4BYq_OZuzCllrZLdcgHvN5TyIeRt89LWcGPHVTbkLaN3ouZFWIxpOIT_RnLz63VESKXbHX-hPc737kgtBYhVZVkgefpXZfGeQqbJt4=",
-          "title": "suido-ishizue.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC1tspwSo8EvsSWvSpRz18YGNW-sp-R3HoB6IaVySkH6ri03G3SwP5MQxKDx8f4FXnqTXvEKk6Wt-LlMScVnqwWU1evAu_Xec1XgBz5M62U0WsOM-IFtaNYdIOpXDTHsKkifxKXPH2dOvU0w==",
+          "title": "zaikei.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmwK903l_NHaSCR0AEixyf7Z4mG5bXxSL36Xqq1ultv4itAxleaOUbop8g_ZhiabJQwO1k2Qj3dSp_PKjhtikkJ5g_2FnXPJjH4TizyAK0q0ZwFVgLcEXB",
-          "title": "ansyobunka.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTHSV9UTtEJgUIsjGryKA3SNXD_62s9egk9P6KjYt2NlJBwmHyOFhpHgkZyKGl5okezekfUHMhqmW98SyXvQRgjnzP5oMnrqCFGnRlPtZFyIbCITvsNe_V2K8M8Z7yikApN8Bqhl7dQdPLuQ9QxWiEEj0cJvPkoAZ68TgfsZOT9JOZZKKQDUx5XyWXyzD7XownsXajkpVo9qxdXwS-SBY=",
+          "title": "reddit.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhO8p8XeE01aWDWqUQcN9Gt9JUDLB-ZMmdvtSXdVNeMm_ACrxtolDBC2rq_V8C2nH9DkBm_uIwdBY1FTHFxGOhf6M0ZGSnW4qQP3j60yE-1w6Ieo35MEhg5OHGzJW8dB02_soZoY5jw3YuxJAiCuIWtaUn0GxhtGzDejkWiZ4PKKy6aE9RRrK2HrlgsQ==",
-          "title": "city.anjo.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs0rIIuX2ZeQwfy5ouFFEUk5AiH53BRUhAwoPnFrGZ5F-YsEBTvNQbwogWfNBIUOE5yazTO6l0pArRU8yPKIMZwqKqyr3U56p6jWEE3sevqmj9qS4__iUWa6LjYO7C9I8=",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECOHsmrrko9CLyfaxTXfi_o-uFWPMFKiKj5m49PzwlQzd_EOJuvYAu2zvmO0ABHF53coYj8SAuNE0o9VkzHvvNxTYUcE8VGzOj32tQroknZCmi9ycc5dhZGRGp",
-          "title": "anjo-tanabata.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG1NPieGMeubSjswnwHfZcfAAfnXyM4WmNWxakCuAbE2YTzfoJZQzBbMFrjPCY5wUiRg6xVlxEY6qhWd8VknlCMGjs6OG-NV6R2uTtx7ypKw0Io23jzlzck4zsLRrDZUZkdbwbC3cOHDqRnD2PIWi3mquQ57mzTrhtf2nv8Hblg9jroukyF2Du51xhGEayVx0uIy6vnyxWi6IsgxatNg9rZaVJZS7o4P4=",
+          "title": "reddit.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0scJKbXnhv3IJq3KQm32MJxESZHACGIpRdwJ9fDOgmv6Cpfhal04VmbzdOed_Jxn_heGET2CJ9dznHbYqyUfQB2ygZmoTOMWej8igUm6TIneJE0dUEjJ8NA19H7meppdv797rLj_DGYFkD3_5LQ==",
-          "title": "city.anjo.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphzhODROhv95FAneIuqtEYMRwl4J7VCceW5yNOu08O94ALTLPnjZWhWy1uVwYer3d1uR-8Ot9rfcocCwg689yjyqsYVadZUl-SmAfyOC_eCxPJj8D865mmQ==",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBn659pN6QMT6hOVPRIL27nhL-hix9phseEx1N35_imYmSe1egFML7n9xg3PJmW2P9ZzZo2OgKxCclgVlInxbBbqEF3Yb4He9rdSSjvxraQTgRsbZ5AUh7SMKJ_QC1_dw0kav5stdDDDhBdleh-M-Lg7LpIJMKyMR3yKVmkcHQ3GDnFd4hrhCMx3J-A_DrR4WT2ng=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Ciq7lDNWeraFIJGNHo32CF_OvKD8CTH0PA__mxdC8Jj9OOhlMiyEpTQVCvritfAUzznFPzVZR5bl_rPT6VR73ICnijcdtOr4f90N820uiABQIrVARh2afhir4kIFWz2U",
+          "title": "youtube.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 384,
-          "endIndex": 539,
-          "text": "* **理由（疑問の背景）**  \n  安城市一帯が広がる碧海台地は、かつて「安城が原」と呼ばれた水不足のやせ地でした"
+          "startIndex": 388,
+          "endIndex": 548,
+          "text": "* **疑問：** リンゴや桃とは違い、梨を食べたときに感じるあの独特の「シャリシャリ」とした心地よい食感は何なのか"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 552,
+          "endIndex": 719,
+          "text": "* **理由：** 果肉の中に**「石細胞（せきさいぼう）」**と呼ばれる微小で非常に硬い細胞の塊が無数に含まれているためです"
         },
         "groundingChunkIndices": [
           0,
@@ -220,104 +216,69 @@
       },
       {
         "segment": {
-          "startIndex": 542,
-          "endIndex": 804,
-          "text": "この台地に矢作川の水を引くという壮大な「明治用水」の原型を最初に構想し、測量図を完成させたのが、まさに碧海郡和泉村（現在の安城市和泉町）の豪農・都築弥厚（つづき やこう）でした"
+          "startIndex": 722,
+          "endIndex": 899,
+          "text": "植物の細胞壁に「リグニン」や「ペントザン」という木質成分が沈着し、細胞自体が木のようにカチカチに硬化してできたものです"
         },
         "groundingChunkIndices": [
-          2,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 808,
-          "endIndex": 972,
-          "text": "* **具体的な数字や比較**  \n  明治用水が通水する以前は、台地上の耕地の半分以上が雨水頼りのため池に依存していました"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 975,
-          "endIndex": 1131,
-          "text": "明治13年（1880年）に通水が始まると、水田面積は当時の約2,000ヘクタールから明治40年代には8,000ヘクタール超へ急増"
-        },
-        "groundingChunkIndices": [
-          0,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 1134,
-          "endIndex": 1347,
-          "text": "旧岡崎藩の石高（約5万石）を大きく上回る10万石以上の大増産を達成し、現在は葛西用水・見沼代用水と並ぶ「日本三大農業用水」の一つに数えられています"
+          "startIndex": 1109,
+          "endIndex": 1217,
+          "text": "これが歯に当たることで、あの特有のシャリシャリした噛みごたえが生まれます"
         },
         "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1351,
-          "endIndex": 1633,
-          "text": "* **意外な点・歴史の裏話**  \n  弥厚が矢作川から30km以上もの水路を引く大計画を立てた際、下流の農民たちからは「水害が起きる」「入会地（共有草地）が奪われる」と誤解され、激しい反対運動が起きました"
-        },
-        "groundingChunkIndices": [
-          2,
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 1636,
-          "endIndex": 1840,
-          "text": "そのため、和算家・石川喜平とともに作業する際は、昼間を避け「夜中に密かに測量を行わねばならない」ほど命がけの作業だったと伝えられています"
+          "startIndex": 1221,
+          "endIndex": 1439,
+          "text": "* **意外な点：** 人間にとっては美味しい爽快な食感ですが、植物学的には**「種子（タネ）を外敵から守るための天然の鎧（よろい）」**として進化した組織です"
         },
         "groundingChunkIndices": [
-          5
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1843,
-          "endIndex": 1967,
-          "text": "弥厚は天保4年（1833年）に幕府から一部開発許可を得た直後、志半ばの69歳で病没しましたが"
+          "startIndex": 1915,
+          "endIndex": 2122,
+          "text": "農研機構などが進めてきた日本の梨の品種改良は、「石細胞の硬さを適度に残しつつ、いかに柔らかく果汁たっぷりに仕上げるか」という技術の結晶です"
         },
         "groundingChunkIndices": [
-          2,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1843,
-          "endIndex": 2099,
-          "text": "弥厚は天保4年（1833年）に幕府から一部開発許可を得た直後、志半ばの69歳で病没しましたが、その遺志を受け継いだ岡本兵松や伊豫田与八郎らによって明治時代に悲願の用水が完成しました"
-        },
-        "groundingChunkIndices": [
-          2,
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 2102,
-          "endIndex": 2186,
-          "text": "今も和泉町内には弥厚公園や墓所（本龍寺）が残されています"
+          "startIndex": 2126,
+          "endIndex": 2301,
+          "text": "* **出典・根拠：**\n  * 農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）「果樹研究所 品種育成・石細胞解説資料」"
         },
         "groundingChunkIndices": [
-          5
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2190,
-          "endIndex": 2358,
-          "text": "* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』"
+          "startIndex": 2126,
+          "endIndex": 2374,
+          "text": "* **出典・根拠：**\n  * 農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）「果樹研究所 品種育成・石細胞解説資料」\n  * JA全農「梨の栄養と果肉構造（石細胞）」解説資料"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2482,
+          "endIndex": 2591,
+          "text": "* **疑問：** 高浜市や碧南市など西三河の伝統産業である「三州瓦（いぶし瓦）」"
         },
         "groundingChunkIndices": [
           2
@@ -325,19 +286,75 @@
       },
       {
         "segment": {
-          "startIndex": 2190,
-          "endIndex": 2421,
-          "text": "* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』\n  * 農林水産省 東海農政局『明治用水の歴史』"
+          "startIndex": 2594,
+          "endIndex": 2729,
+          "text": "屋根の上で上品に輝くあの銀色は、ペンキや銀箔を塗っているわけではないのに、なぜ生まれるのか"
         },
         "groundingChunkIndices": [
-          0
+          3,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 2190,
-          "endIndex": 2541,
-          "text": "* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』\n  * 農林水産省 東海農政局『明治用水の歴史』\n  * 愛知県教育委員会（愛知エースネット）『都築 弥厚 -明治用水の計画をつくった人-』"
+          "startIndex": 2733,
+          "endIndex": 3002,
+          "text": "* **理由：** 焼成の最終段階で窯の中の空気を遮断して蒸し焼きにし、炭化水素ガス（煙）を送り込んで表面に炭素の結晶膜を析出・定着させる**「燻化（くんか）」**という工程を行っているためです"
+        },
+        "groundingChunkIndices": [
+          3,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3006,
+          "endIndex": 3144,
+          "text": "* **具体的な数字や比較：** 約1,100℃以上の高温で焼き締めた後、窯を完全に密閉してガスを充填します"
+        },
+        "groundingChunkIndices": [
+          5,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3147,
+          "endIndex": 3360,
+          "text": "表面にナノレベルの均一で緻密な炭素被膜（グラファイト構造）が形成され、剥がれることがなく、数十年もの風雨や紫外線に耐える高い耐久性を発揮します"
+        },
+        "groundingChunkIndices": [
+          5,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3364,
+          "endIndex": 3468,
+          "text": "* **意外な点：** 銀色の正体は、木炭やスス、鉛筆の芯と同じ**「炭素」**です"
+        },
+        "groundingChunkIndices": [
+          7,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3471,
+          "endIndex": 3711,
+          "text": "黒い物質である炭素ですが、表面が極めて平滑で均一な膜として焼き付くと、光を鏡のように規則的に反射（正反射）するため、人間の目には美しい「いぶし銀」として見えます"
+        },
+        "groundingChunkIndices": [
+          5,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3715,
+          "endIndex": 3926,
+          "text": "* **歴史の裏話：** 安土桃山時代、織田信長が安土城を築城する際、渡来人の瓦職人・一観（いっかん）にいぶし瓦を焼かせたのが始まりと伝えられています"
         },
         "groundingChunkIndices": [
           5
@@ -345,53 +362,41 @@
       },
       {
         "segment": {
-          "startIndex": 2681,
-          "endIndex": 2923,
-          "text": "* **理由（疑問の背景）**  \n  和泉町のすぐ南西、安城市と碧南市の境に広がる「油ヶ淵（あぶらがふち）」は、愛知県で唯一の天然湖沼（自然にできた湖沼）として知られています"
+          "startIndex": 3929,
+          "endIndex": 4133,
+          "text": "西三河は矢作川がもたらす良質な粘土と三河湾の海運に恵まれ、江戸の町づくりを支える大産地として成長し、現在も日本一の瓦生産量を誇っています"
         },
         "groundingChunkIndices": [
           6,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4137,
+          "endIndex": 4250,
+          "text": "* **出典・根拠：**\n  * 愛知県陶器瓦工業組合「三州瓦の製法・いぶし瓦の燻化技術」"
+        },
+        "groundingChunkIndices": [
+          3,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 2926,
-          "endIndex": 3076,
-          "text": "しかしその歴史をたどると、江戸時代初期に行われた大規模な治水工事によって誕生したという経緯があります"
+          "startIndex": 4450,
+          "endIndex": 4562,
+          "text": "* **疑問：** 初夏に岡崎市鳥川町など西三河の清流でも見られるホタルの幻想的な光"
         },
         "groundingChunkIndices": [
-          6,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 3080,
-          "endIndex": 3327,
-          "text": "* **具体的な数字や比較**  \n  愛知県内には約3,300以上のため池や人工池が存在しますが、公的に「天然湖沼」とされるのは油ヶ淵（周囲長約6.3km、面積約0.64km²、平均水深約3m）だけです"
-        },
-        "groundingChunkIndices": [
-          6,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3331,
-          "endIndex": 3480,
-          "text": "* **意外な点・歴史の裏話**  \n  約400年前まで、油ヶ淵のあたりは「北浦」と呼ばれる三河湾の海の入り江でした"
-        },
-        "groundingChunkIndices": [
-          6,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3483,
-          "endIndex": 3642,
-          "text": "慶長10年（1605年）、徳川家康の命により矢作古川の水害対策として現在の矢作川本流（矢作新川）が開削されましたが"
+          "startIndex": 4565,
+          "endIndex": 4673,
+          "text": "電球や炎は光ると熱くなりますが、ホタルの光はなぜ触っても全く熱くないのか"
         },
         "groundingChunkIndices": [
           9,
@@ -400,138 +405,52 @@
       },
       {
         "segment": {
-          "startIndex": 3483,
-          "endIndex": 3803,
-          "text": "慶長10年（1605年）、徳川家康の命により矢作古川の水害対策として現在の矢作川本流（矢作新川）が開削されましたが、上流から大量の土砂が北浦の河口付近へ流れ込むようになり、わずか10年ほどで入り江の東側が埋まってしまいました"
+          "startIndex": 4677,
+          "endIndex": 4943,
+          "text": "* **理由：** 高温によって光を放つ熱放射ではなく、発光物質「ルシフェリン」に酵素「ルシフェラーゼ」、エネルギー物質「ATP」、酸素が結びついて起こる**「化学発光（生物発光）」**だからです"
         },
         "groundingChunkIndices": [
-          6,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3806,
-          "endIndex": 3945,
-          "text": "さらに正保元年（1644年）、幕府が水害防止の堤防を築いて海から遮断したことで湖沼に姿を変えました"
-        },
-        "groundingChunkIndices": [
-          6,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3948,
-          "endIndex": 4086,
-          "text": "分類上は「天然湖沼」でありながら、実態は江戸幕府による大土木工事の副産物として誕生した湖です"
-        },
-        "groundingChunkIndices": [
-          6,
+          11,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 4090,
-          "endIndex": 4196,
-          "text": "* **根拠・出典**  \n  * 油ヶ淵水質浄化促進協議会『油ヶ淵の誕生と移り変わり』"
+          "startIndex": 4947,
+          "endIndex": 5141,
+          "text": "* **具体的な数字や比較：** 昔ながらの白熱電球は、電気エネルギーの約90％が熱として無駄に逃げてしまい、光になるのはわずか約10％程度です"
         },
         "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4090,
-          "endIndex": 4275,
-          "text": "* **根拠・出典**  \n  * 油ヶ淵水質浄化促進協議会『油ヶ淵の誕生と移り変わり』\n  * 国土交通省 中部地方整備局『日本の川 矢作川の歴史』"
-        },
-        "groundingChunkIndices": [
+          9,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 4406,
-          "endIndex": 4597,
-          "text": "* **理由（疑問の背景）**  \n  安城市はかつて「日本のデンマーク（日本デンマーク）」と称され、全国の教科書にも載るほど有名になりました"
+          "startIndex": 5144,
+          "endIndex": 5365,
+          "text": "対してホタルの発光は、化学エネルギーから光への変換効率（量子収率）が約40％以上と驚異的に高く、熱エネルギーとしての放出（熱失活）がほとんどありません"
         },
         "groundingChunkIndices": [
-          12,
-          4
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4600,
-          "endIndex": 4753,
-          "text": "しかし、本家デンマークの主産業が「酪農」であるのに対し、当時の安城は酪農中心のまちではありませんでした"
+          "startIndex": 5369,
+          "endIndex": 5524,
+          "text": "* **意外な点：** ホタルの光が熱を持たない現象は科学的に**「冷光（れいこう／コールドライト）」**と呼ばれます"
         },
         "groundingChunkIndices": [
-          13
+          11,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4756,
-          "endIndex": 4822,
-          "text": "なぜ安城がデンマークに例えられたのでしょうか"
-        },
-        "groundingChunkIndices": [
-          14,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4826,
-          "endIndex": 5197,
-          "text": "* **具体的な数字や比較**  \n  明治用水の開通後、秋に水門を閉めると水田が乾いて畑になるという台地の性質を生かし、安城では米作の裏作として麦や野菜を育て、さらに養鶏・養蚕・果樹を組み合わせた「多角形農業（平行線・三角形・四角形農業）」が急速に発展しました"
-        },
-        "groundingChunkIndices": [
-          12,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5200,
-          "endIndex": 5410,
-          "text": "大正15年（1926年）に雑誌『農政研究』が「日本の丁抹（デンマーク）号」と銘打って碧海郡の先進的な農業を特集したことで、全国にこの名が定着しました"
-        },
-        "groundingChunkIndices": [
-          14,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5414,
-          "endIndex": 5566,
-          "text": "* **意外な点・歴史の裏話**  \n  デンマークになぞらえられた理由は、作物の種類ではなく「社会の仕組み」でした"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5569,
-          "endIndex": 5950,
-          "text": "愛知県立安城農林学校の初代校長・山崎延吉らが指導した「農民自らが産業組合を結成して肥料の共同購入や農産物の共同出荷を行う組織力」や「実践的な農民教育」が、当時世界屈指の協同組合先進国として知られていたデンマークの理想的な農村像と完全に一致していたためです"
-        },
-        "groundingChunkIndices": [
-          14,
-          12,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5953,
-          "endIndex": 6175,
-          "text": "昭和初期の全盛期には、安城の近代農業モデルを視察しようと全国から人が押し寄せ、安城駅前には旅館や飲食店、映画館がずらりと並ぶほどの賑わいを見せました"
+          "startIndex": 5774,
+          "endIndex": 6044,
+          "text": "* **歴史の裏話：** 19世紀後半、フランスの生理学者ラファエル・デュボアが、ホタルの体内にある基質（ルシフェリン）と酵素（ルシフェラーゼ）を突き止め、生物発光の科学的研究が本格化しました"
         },
         "groundingChunkIndices": [
           12,
@@ -540,29 +459,20 @@
       },
       {
         "segment": {
-          "startIndex": 6179,
-          "endIndex": 6313,
-          "text": "* **根拠・出典**  \n  * 安城市公式ホームページ『広報あんじょう 2024年5月号 日本デンマークって？』"
+          "startIndex": 6047,
+          "endIndex": 6203,
+          "text": "現在この仕組みは、がん細胞の追跡や病気の検査薬など、最先端の医療バイオイメージング技術に応用されています"
         },
         "groundingChunkIndices": [
-          14
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 6316,
-          "endIndex": 6391,
-          "text": "* 安城市歴史博物館『安祥文化のさと 日本デンマーク』"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6316,
-          "endIndex": 6527,
-          "text": "* 安城市歴史博物館『安祥文化のさと 日本デンマーク』\n  * 一般社団法人 農業農村整備情報総合センター（水土の礎）『命を育む明治用水 日本デンマーク』"
+          "startIndex": 6207,
+          "endIndex": 6356,
+          "text": "* **出典・根拠：**\n  * 産業技術総合研究所（産総研）「発光生物の謎を解く・ルシフェラーゼの化学発光機構」"
         },
         "groundingChunkIndices": [
           12
@@ -570,173 +480,191 @@
       },
       {
         "segment": {
-          "startIndex": 6664,
-          "endIndex": 6825,
-          "text": "* **理由（疑問の背景）**  \n  仙台・平塚と並ぶ「日本三大七夕」の一つとして親しまれてきた「安城七夕まつり」ですが"
+          "startIndex": 6207,
+          "endIndex": 6478,
+          "text": "* **出典・根拠：**\n  * 産業技術総合研究所（産総研）「発光生物の謎を解く・ルシフェラーゼの化学発光機構」\n  * 日本比較生理生化学会「ホタルの生物発光における高効率エネルギー変換メカニズム」"
         },
         "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6601,
+          "endIndex": 6794,
+          "text": "* **疑問：** 夏から秋の雨の日、自分よりもはるかに巨大な雨粒が降っているのに、なぜ蚊は空中で叩き落とされずに平気で飛んでいられるのか"
+        },
+        "groundingChunkIndices": [
+          14,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6798,
+          "endIndex": 6884,
+          "text": "* **理由：** 蚊の体重（質量）が**「極端に軽すぎる」**ためです"
+        },
+        "groundingChunkIndices": [
+          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6887,
+          "endIndex": 7094,
+          "text": "運動量の法則により、重い雨粒が軽い蚊に衝突しても雨粒のスピードはほとんど落ちず、蚊が雨粒の運動エネルギーをまともに受け止めずに済むためです"
+        },
+        "groundingChunkIndices": [
+          14,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7098,
+          "endIndex": 7282,
+          "text": "* **具体的な数字や比較：** 蚊の体重は約2ミリグラムですが、雨粒は1滴で約4〜100ミリグラムあり、最大で**蚊の約50倍の重さ**があります"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7285,
+          "endIndex": 7363,
+          "text": "雨粒は秒速約9メートル（時速30キロ以上）で降ってきます"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7366,
+          "endIndex": 7477,
+          "text": "人間で例えるなら「歩行中に走行中の大型路線バスに直撃される」ほどの衝撃です"
+        },
+        "groundingChunkIndices": [
+          14,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7481,
+          "endIndex": 7678,
+          "text": "* **意外な点：** 蚊は雨粒を跳ね返しているのではなく、衝突した瞬間、**雨粒にくっついて一瞬だけ一緒に下へ落下（ヒッチハイク）**しています"
+        },
+        "groundingChunkIndices": [
+          16,
+          17,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 6904,
-          "endIndex": 6940,
-          "text": "へと大きく転換しています"
+          "startIndex": 7681,
+          "endIndex": 7835,
+          "text": "衝突時に100〜300Gというすさまじい加速度を受けますが、蚊自身が軽いため体にかかる絶対的な力はごくわずかです"
         },
         "groundingChunkIndices": [
-          19,
-          20
+          15,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 6943,
-          "endIndex": 7041,
-          "text": "単なるPR用の標語ではなく、れっきとした実態に基づいた理由があります"
+          "startIndex": 7838,
+          "endIndex": 7988,
+          "text": "そしてわずか数ミリ秒の間に体をひねり、水滴からスルリと抜け出して何事もなかったように飛行を再開します"
         },
         "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7045,
-          "endIndex": 7255,
-          "text": "* **具体的な数字や比較**  \n  1954年（昭和29年）に第1回が開催された安城七夕まつりは、毎年8月第1週末の3日間に開催され、約100万人前後の人出で賑わいます"
-        },
-        "groundingChunkIndices": [
-          18,
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7258,
-          "endIndex": 7401,
-          "text": "色鮮やかな約1,000本もの竹飾りが立ち並び、その「竹飾りのストリートの長さ」は日本一といわれています"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7405,
-          "endIndex": 7675,
-          "text": "* **意外な点・歴史の裏話**  \n  もともとこの祭りは、戦後の落ち着かない空気を吹き飛ばし商店街を活性化させようと、1954年に当時の安城駅周辺の商店主たちが自前で始めた「市民発信の祭り」でした"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7678,
-          "endIndex": 8105,
-          "text": "三大七夕の枠にとどまらず、「日本一長い竹飾りストリート」に加えて「短冊の数」や「願いごとに関する参加型イベントの数」でも名実ともに日本一を目指そうと、2009年に「願いごと広場」の開設や公式キャラクター「きーぼー」の導入など、市民・来場者が願いを託す参加型フェスティバルへと進化を遂げました"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8109,
-          "endIndex": 8279,
-          "text": "* **根拠・出典**  \n  * 安城七夕まつり協賛会 公式サイト『安城七夕まつりの歴史』『「日本三大」から「願いごと日本一」へ』"
-        },
-        "groundingChunkIndices": [
-          18,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8109,
-          "endIndex": 8347,
-          "text": "* **根拠・出典**  \n  * 安城七夕まつり協賛会 公式サイト『安城七夕まつりの歴史』『「日本三大」から「願いごと日本一」へ』\n  * 安城市役所『第70回安城七夕まつり 開催報告』"
-        },
-        "groundingChunkIndices": [
+          17,
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 8491,
-          "endIndex": 8598,
-          "text": "* **問題**  \n  安城市和泉町出身の偉人で、明治用水の計画を立てた都築弥厚さん"
+          "startIndex": 7992,
+          "endIndex": 8312,
+          "text": "* **歴史の裏話：** この謎は長年未解明でしたが、米ジョージア工科大学のデイヴィッド・フー教授らのチームが毎秒4,000フレームの高速度カメラで捉え、2012年に米国科学アカデミー紀要（PNAS）に論文を発表して世界中で話題となりました"
         },
         "groundingChunkIndices": [
-          2,
-          5
+          16,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 8601,
-          "endIndex": 8721,
-          "text": "水路を通すための測量を始めた際、近隣の農民たちから激しい反対にあってしまいました"
+          "startIndex": 8315,
+          "endIndex": 8444,
+          "text": "この現象は現在、小型ドローンが悪天候下で飛行するための工学設計にも応用研究されています"
         },
         "groundingChunkIndices": [
-          2,
-          5
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 8823,
-          "endIndex": 9170,
-          "text": "* 1番：旅の行商人（商人）に変装して測量した\n  * 2番：反対する人が寝静まった「真夜中」にこっそり測量した\n  * 3番：測量機械を「凧揚げのオモチャ」だと嘘をついてごまかした\n* **正解**  \n  **2番：反対する人が寝静まった「真夜中」にこっそり測量した**"
+          "startIndex": 8448,
+          "endIndex": 8637,
+          "text": "* **出典・根拠：**\n  * 米国科学アカデミー紀要（PNAS）掲載論文：*“Mosquitoes survive raindrop collisions by virtue of their low mass”*（Dickerson et al., 2012）"
         },
         "groundingChunkIndices": [
-          5
+          16,
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 8823,
-          "endIndex": 9422,
-          "text": "* 1番：旅の行商人（商人）に変装して測量した\n  * 2番：反対する人が寝静まった「真夜中」にこっそり測量した\n  * 3番：測量機械を「凧揚げのオモチャ」だと嘘をついてごまかした\n* **正解**  \n  **2番：反対する人が寝静まった「真夜中」にこっそり測量した**\n* **解説トークのポイント**  \n  当時は「水路を通すと水害が起こるのでは」「自分たちの土地が減るのでは」と恐れた農民たちの妨害が厳しく、昼間に測量をすることができませんでした"
+          "startIndex": 8448,
+          "endIndex": 8763,
+          "text": "* **出典・根拠：**\n  * 米国科学アカデミー紀要（PNAS）掲載論文：*“Mosquitoes survive raindrop collisions by virtue of their low mass”*（Dickerson et al., 2012）\n  * ジョージア工科大学（Georgia Institute of Technology）流体力学・生物模倣研究グループ発表資料"
         },
         "groundingChunkIndices": [
-          2,
+          16,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9492,
+          "endIndex": 9569,
+          "text": "* **正解：**\n  **② 大切なタネを虫や鳥から硬く守るため**"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9635,
+          "endIndex": 9842,
+          "text": "人間にとっては爽やかで美味しいシャリシャリ感ですが、梨自身にとっては『タネを食べられないようにするための天然のプロテクター』だったんですね"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9845,
+          "endIndex": 10022,
+          "text": "安城の梨農家さんや品種改良の歴史のおかげで、私たちは硬すぎず、ジューシーで甘い最高のバランスで味わうことができています"
+        },
+        "groundingChunkIndices": [
           0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9425,
-          "endIndex": 9657,
-          "text": "そこで弥厚は高棚村の数学者・石川喜平とともに、人々が寝静まった深夜にひそかに器具を持ち出し、暗闇の中で5年もの歳月をかけて測量図を完成させたといわれています"
-        },
-        "groundingChunkIndices": [
-          0,
-          5,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9660,
-          "endIndex": 9807,
-          "text": "私財を投げうち、夜を徹して地域の未来を切り拓こうとした情熱が、現在の豊かな西三河の礎になっています"
-        },
-        "groundingChunkIndices": [
-          2,
-          5
         ]
       }
     ],
     "webSearchQueries": [
-      "安城 日本のデンマーク 理由 由来 多角農業",
-      "明治用水 都築弥厚 碧海台地 安城が原 歴史",
-      "油ヶ淵 愛知県 唯一 天然湖沼 歴史 矢作川",
-      "安城七夕まつり 歴史 きっかけ 日本一"
+      "三州瓦 いぶし瓦 銀色 炭素被膜 仕組み 愛知 陶器",
+      "梨 シャリシャリ 石細胞 農研機構 OR 文科省 OR 大学",
+      "ホタル 発光 効率 ルシフェラーゼ 熱 でない 科学",
+      "蚊 雨粒 衝突 衝撃 落ちない 質量 科学"
     ]
   }
 }
