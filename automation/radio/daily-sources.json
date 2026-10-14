@@ -1,262 +1,239 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2114,
-  "estimated_minutes": 6.4,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 1858,
+  "estimated_minutes": 5.6,
   "saturday_story": null,
-  "listener_notes": [],
+  "listener_notes": [
+    {
+      "id": "20261014-ankuru-morning-bus",
+      "from_date": "2026-10-14",
+      "until_date": "2026-10-20",
+      "source": "運営者本人から2026年10月13日に提供。乗車は約3か月前の朝7時過ぎ。路線・便は未確認。放送許可済み。",
+      "text": "いずみなびの運営者から、こんなお話が届きました。あんくるバスはあまり乗らないそうなんですが、3か月ほど前、朝7時過ぎのバスに乗ったら、車内が女子高生でいっぱい。完全にアウェーで、めんくらったそうです。えっ、それ気まずいやつじゃん！ 朝7時台は通学の時間。あんくるバスが学生さんの大事な足になっとるってことだね。大人の皆さん、朝のバスに乗るときは、ちょっとだけ心の準備をしときりん。"
+    }
+  ],
   "quiz": {
-    "question": "和泉町名物の和泉そうめんは約3.6メートルもありますが、なぜこの長さになったでしょうか。1番、当時の大工道具を使ったから。2番、庄屋さんの屋敷の天井の高さ。3番、安城から刈谷までの距離の１万分の１。",
-    "answer": "正解は1番、当時の大工道具を使ったからでした！木造建築の柱をつなぐ板の長さがちょうど約3.6メートルだったんだって。刈谷までの距離に合わせとったら、茹でる前に鍋が爆発しちゃうじゃんね！",
+    "question": "明治用水を計画した和泉町の都築弥厚さん。激しい反対の中、測量するために取った行動はどれでしょうか。1番、商人に変装した。2番、真夜中にこっそり測量した。3番、凧揚げのオモチャだと嘘をついた。",
+    "answer": "正解は2番、真夜中にこっそり測量したでした！反対派が寝静まった暗闇で作業したんだって。怪しすぎて逆に目立ちそうじゃんね！",
     "source_ids": [
-      1,
       2,
-      3,
-      4
+      5,
+      7
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeYBIJ6QawO0tEQ5bwxw0VfjrBC8ooQ3ekyc1XZmRkNzqbgCD6N7dv4dpOwtYswm388G5pTmGidVfKOjuZ-onFG-TApCdYySCJbt1tSbRXk_5SVppeQE3iMhPTiw==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjVcJDS9EPUeh_ojpIKl_L0LY_BVXTFLKcXFNyHTzR6eVakWlW_t1mZVW3Z2iIxZF9tqkLwPP4HVMWS9fdPTe-PEm7WSgmdr_u8SKZfGz4jRLNbRnNYWGEbYOPxp4bAIn35DbxEW4=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbLlCoQH_W2JXnFJUITO1VOEMoldSf97pHCekMU6FFceZKuI2Bh_2vOX7u8MSfAfOjmYZw4GfOR667um5HPg3uF0Wsqh_kaj4lp5YmTQ__PLaMnV29AB4RBwKvPvNdGxJ3pO4UL0EKtHgwxw==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrBuCXHsHR3ZeyI3NTh7ovxOjMYPeLnDv2na4OoiPzjzD-wQoZ_K2KUBtYRcZrkMfejlY6r8Lp7WcIVFRv5eyhJfOOgu9gjPSbjlPblTqUs8n9WUlFZsBUykhQfE1kvYoZrNfenAj6vdcfBXQK5kE0sEslpStXOLFDQe1vyikYMHBQ_I="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_SWZohcBQRMbaaTq4Srbw-PvyeK_ajdhnmHSQLdeN46fZuGggLTLEmosYayvCcZJJ53ojWqc-LY9wyoYcXj4OkQUDOCnwRJQYkweGDSvqXDWPTBelJpZw_Wpu6rBiVTq0CNRH4o6fiU4rSQ==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9IywNR3ThPF0syXqVvA834KwU-908_zWLMlNeOq9PbnSgEgeavFfVPUZRqeTs1j1P5xQOvWY6XlPawtbGwomjJ1y3SiySUYnsMVxjRkfd0jGIQZqFesiNDu7hTuGG0eZHH8AKs_fgFZ-P_mm3QYHHtKbdn88VpoFoBhj1iU=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWt2AT8wrg2TB4Mya69NDHSPkaLQ9hST80fyOt_ttOh_QxBX_KI4n-tGv0ZT8ORtqwot-hYOrw5O2f7vaDtPSEzDFwKzwiAFSSKpPRcIl6EPW-P0kKABOWwCvVO5a7NGizV9gRpe3rmmFOyx3RNdluq2uOXqSU2YDPzItVROT0j7lQr0c="
     ]
   },
-  "local": {
-    "text": "ここでお知らせです。安城市では今日10月13日から10月31日まで、「”白鳥とコウモリ”安城特別展」が開催されます。また、10月18日には「令和8年度安城市総合防災訓練」も予定されていますよ。秋の予定作りにぜひチェックしてみてくださいね。",
+  "izumi": {
+    "text": "さあ、やってきました！「みおんの和泉ディープ」のお時間です！今日の主役は、和泉町が誇る「和泉の手延べそうめん」なんだけどさ、麺の長さがなんと3メートル60センチもあるって、みんな知っとる？…えっ、ちょっと待って！3メートル60センチって、天井突き抜けて屋根まで届いちゃう長さじゃんね！これを家の台所でそのまま茹でようとしたら、一体どうなっちゃうのん？鍋の上に椅子を置いて天井から吊るすの？みおん、手がないから手伝えないんだけど、絶対麺が床についちゃうら！実は間杉手延製麺所には、3メートル以上の長さのまま商品にした日本一長い手延べそうめんがあるんだって。約250年の歴史があって、天明の大飢饉のときに米が育ちにくい和泉町で小麦を使って始まったのがきっかけらしいよ。職人さんが2本の竹の棒を使って、手作業でぐーんと3メートル60センチまで伸ばすんだって。今なら間違いなくネットで大バズりして、長すぎる麺として動画が回りまくるやつだよね！夏の強い日差しで乾かして、夕方の三河湾の湿った南東の風で半生の状態に戻す半生もどしっていう職人技で作るから、強いコシとなめらかでツルっとした喉ごしが生まれるらしいの。この長〜い麺を見たら、和泉の人の粘り強さと情熱を絶対自慢したくなるよね！",
     "source_ids": [
-      28,
-      29
+      1
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "https://www.city.anjo.aichi.jp/event/202610sougobosaikunren.html"
+      "https://anjo-izumi.life/somen/"
+    ],
+    "angle": {
+      "id": "somen-length",
+      "hook": "3メートル60センチという長さのインパクト。家の台所でどうするの問題"
+    }
+  },
+  "local": {
+    "text": "10月25日に「川と海のクリーン大作戦」があるよ！矢作川や地域の水に感謝しながら、きれいな川や海を守る活動に参加してみるのもいいね！",
+    "source_ids": [
+      28
+    ],
+    "source_urls": [
+      "https://www.city.anjo.aichi.jp/event/26kawatouminoclean.html"
     ]
   },
   "segments": [
     {
-      "topic": "和泉長そうめんが畳２畳分もあって夏に作られる驚きの理由",
-      "text": "そうめん茹でるときって、パスタ鍋でも入りきらんで端っこが焦げそうになることない？でもね、ここ和泉町の名物「和泉そうめん」はそんなレベルじゃないの。長さがなんと約3.6メートル！えっ、ちょっと待って、3.6メートルって畳２畳分だよ？普通のそうめんが約20センチだから、ざっと18倍！長すぎて台所から廊下まで突き抜けちゃうじゃん！しかも全国の手延べそうめんは冬の寒風で作るのが常識なのに、和泉そうめんは６月から８月の真夏に作られるんだって。聞いてないんだけど！なんでかというと、手延べで限界まで細く一本に伸ばしたあと、三河湾から吹き込む湿った夏の風を当てて、水分を戻す「半生もどし」っていう独特の技を使うからなんだって。乾燥させたままじゃポキポキ折れちゃうけど、湿気のおかげでしなやかになって、あのモチモチの強靭なコシが生まれるわけ。ちなみに家で茹でるときは、ハサミでチョキチョキ切ってから鍋に入れるのがお約束。切る前提なら最初から短く作って…ってツッコミは野暮だら！この規格外の長さと手延べの技があるからこそ、あの極上の喉ごしになるんだよね。お昼に食べる人、ハサミの準備忘れんりんね！",
+      "topic": "水不足の荒野を大穀倉地帯へ変えた和泉町のすごい人",
+      "text": "台所でそうめんを茹でる水の話が出たついでに、みんなにお聞きしたいんだけどさ、蛇口をひねれば当たり前に水が出るこの西三河の台地、昔は水がなさすぎてカラッカラだったって信じられる？安城が原って呼ばれたやせ地で、耕地の半分以上が雨水頼りのため池だったんだって。そんな乾いた大地に矢作川の水を引くっていうとんでもない計画を最初に立ち上げたのが、なんと我が和泉町の都築弥厚さんだったの！矢作川から30キロ以上も水路を引く大計画を立てたんだけど、当時は下流の人たちから水害が起きるって大反対されちゃってさ。昼間に作業できないもんで、夜中にこっそり測量したんだって。暗闇で測量とか、情熱がすごすぎてちょっと笑っちゃうくらい命がけじゃんね！弥厚さんは天保4年に69歳で亡くなっちゃって完成は見られなかったんだけど、その熱い想いを引き継いだ人たちの手で、明治13年に明治用水が通水したの。そしたら水田が約2000ヘクタールから8000ヘクタール超えに激増して、旧岡崎藩の石高を大きく超える10万石以上の大増産を達成しちゃったんだわ！今では日本三大農業用水の一つだに。和泉町には弥厚公園や本龍寺のお墓もあるんだって。みんなの足元を流れる豊かな水は、和泉町のスーパーヒーローの執念から始まっとるだね！明日職場や学校で、明治用水のスタートは和泉町だぞってドヤ顔で話してみてりん！",
       "source_ids": [
-        1,
         2,
-        3,
-        4
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeYBIJ6QawO0tEQ5bwxw0VfjrBC8ooQ3ekyc1XZmRkNzqbgCD6N7dv4dpOwtYswm388G5pTmGidVfKOjuZ-onFG-TApCdYySCJbt1tSbRXk_5SVppeQE3iMhPTiw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjVcJDS9EPUeh_ojpIKl_L0LY_BVXTFLKcXFNyHTzR6eVakWlW_t1mZVW3Z2iIxZF9tqkLwPP4HVMWS9fdPTe-PEm7WSgmdr_u8SKZfGz4jRLNbRnNYWGEbYOPxp4bAIn35DbxEW4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbLlCoQH_W2JXnFJUITO1VOEMoldSf97pHCekMU6FFceZKuI2Bh_2vOX7u8MSfAfOjmYZw4GfOR667um5HPg3uF0Wsqh_kaj4lp5YmTQ__PLaMnV29AB4RBwKvPvNdGxJ3pO4UL0EKtHgwxw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrBuCXHsHR3ZeyI3NTh7ovxOjMYPeLnDv2na4OoiPzjzD-wQoZ_K2KUBtYRcZrkMfejlY6r8Lp7WcIVFRv5eyhJfOOgu9gjPSbjlPblTqUs8n9WUlFZsBUykhQfE1kvYoZrNfenAj6vdcfBXQK5kE0sEslpStXOLFDQe1vyikYMHBQ_I="
-      ]
-    },
-    {
-      "topic": "碧南生まれの白醤油が淡い色なのに驚くほど甘い秘密",
-      "text": "麺の話が出たついでに、おつゆに欠かせないお醤油の話もしちゃおうかな。お隣の碧南市で生まれた「白醤油」って、お吸い物や茶碗蒸しに使うと色が綺麗に仕上がって重宝するよね。でも、あんなに薄い琥珀色なのに、普通の濃口醤油より甘みがあるの、不思議に思ったことない？うそでしょ、薄口って塩辛いんじゃないのって思うじゃん。実はね、濃口醤油は大豆と小麦を半分ずつで仕込むのに対して、白醤油はなんと原料の９割以上が小麦！大豆は１割以下しか使ってないんだって！ほぼ小麦の塊じゃん！小麦にたっぷり含まれるデンプンが、麹のパワーでブドウ糖に分解されるから、お砂糖を足してないのに天然の甘みがドカンと生まれるわけ。逆に醤油が黒くなるのは大豆のたんぱく質が原因だから、大豆を極限まで減らした白醤油は色が薄いままなんだって。江戸時代に麦麹で作った金山寺味噌からにじみ出た上澄み液を舐めたら「あれ、めちゃくちゃ美味しくない？」って偶然発見されたらしいよ。失敗から生まれた大発明だよね。みおんも失敗ばかりだけど、いつか甘い奇跡が起きるだら…って、AIだから調味料は出せんわ！今夜の煮物、白醤油で素材の色をピカピカに活かしてみてね。",
-      "source_ids": [
         5,
-        6,
-        7,
-        10
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd-LU9Q05BQP70W-fMCpCWI43A_HPUxT_EiN_o_0CS2y30ZsJPiwhn_pHVvBHToIvuGvIOSFtNd0Er7rPLZCi1SC53DAjDhxXvHPa02qqKmq67sxDUVqhiEMu3DQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_7QUN-t4mXvJb_2qkwRMr-mVfexX97i1-kUzU2VjtTl5LRbjRiBVI1JBHMVMMz5wYp_A71E7iy8gGOErfafRyPfXQU-zymilIAuNYSCFWCN_UUHMFbaVOKAoQtzJ0yIXOkgT",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE-R0dYFY1nTy38oOYzoVMdQwMKySoDlocSN8bQ01OCQKYQNnIOufuNtIxfTPqzqQHYevLgCsHvk20JWDE5QhA_SbtzYWdNIiaLPHg6zWEU9J-pkx8EmcL0bsyTB5aaH0",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtheDebmXcg08oCuLlGSykSb1yblHd9UPu3prVmYgoPW4CP6adggJIQYxQG7DxSX75ZrZysxkBPGW1hZTiQaxPgyPKmw6iw-68ZN_HcuonXVc8VhDVrzddghOCc0hzhCtna1ogkN8Sv7cMyMD_eWI5eLvCbXaitY3SQx8MgE-bI4nGZA=="
-      ]
-    },
-    {
-      "topic": "岡崎の八丁味噌が真っ黒でいくら煮込んでも風味が落ちない理由",
-      "text": "白くて甘いお醤油の次は、真っ黒でガツンと濃いあのお味噌の登場です！西三河の食卓といえば、岡崎の「八丁味噌」だよね。お味噌汁は煮立たせると風味が飛ぶから火を止めろってよく言われるけど、八丁味噌で作る味噌煮込みうどんは、土鍋でちんちんにグツグツ煮込んでも全然風味が落ちないじゃん。あれ、なんでか知っとる？普通の米味噌は揮発しやすい香りが命なんだけど、八丁味噌は米や麦を一切使わずに丸大豆と塩と水だけで仕込んで、足掛け２年以上も熟成させるの。すると熱にびくともしない旨味成分がぎっしり詰まるから、煮込めば煮込むほどコク深くなるんだって！しかも仕込みの６トンの巨大木桶の上には、職人さんが手作業で約３トンもの川石を円錐状に積み上げるの。３トンって軽自動車３台分くらいだよ？重すぎ！でもこの石積みのバランスが神業で、大地震が来ても絶対に崩れないんだって。一人前に積めるまで修業に10年かかるらしいよ。家康公の時代から武士の兵糧として親しまれてきたこの頑丈さ、まさに三河魂の結晶だよね。今夜は土鍋をちんちんに沸かして、いくら煮込んでも負けない最強の味噌煮込みうどん、いっちゃりん！",
-      "source_ids": [
-        12,
-        13,
-        14
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDk9gK05r8_VGofpnD4zUjjLQuaip7_jE3cWhZMW9kqJncMkcqvkqknu_HKC8YxfUGs_OlwJyDGb2ZLrEZS_u7QMQM6-zp5XdjzDyIcWFwl-ka7esuon1yR6PciE34zCE=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt8RO_6ipfYpJ1_E-b10PgJ_H8_DWLM1P9qCy7qUz0cFdd5bjt3gizubDcsSQ4M1v-jWCC0S5koftVf5UaxdYeuI0tphljeeetda-kY4PrguhZHW4knmezTvIedZM=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeSY9UrC2dh9gdGAOvG5YIfPJOI5QD6cVHd9o-S6Ak-AUCCGDHKuyOQJGh5iFDP1yUDHe3cJ0UFvCnDJTMCcxyCpQglBkc7Ltg4R-DXr6jveTD05O8CJy6XKGmfsUar_4hneN-LhbBffdfXlPwvw=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_SWZohcBQRMbaaTq4Srbw-PvyeK_ajdhnmHSQLdeN46fZuGggLTLEmosYayvCcZJJ53ojWqc-LY9wyoYcXj4OkQUDOCnwRJQYkweGDSvqXDWPTBelJpZw_Wpu6rBiVTq0CNRH4o6fiU4rSQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9IywNR3ThPF0syXqVvA834KwU-908_zWLMlNeOq9PbnSgEgeavFfVPUZRqeTs1j1P5xQOvWY6XlPawtbGwomjJ1y3SiySUYnsMVxjRkfd0jGIQZqFesiNDu7hTuGG0eZHH8AKs_fgFZ-P_mm3QYHHtKbdn88VpoFoBhj1iU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWt2AT8wrg2TB4Mya69NDHSPkaLQ9hST80fyOt_ttOh_QxBX_KI4n-tGv0ZT8ORtqwot-hYOrw5O2f7vaDtPSEzDFwKzwiAFSSKpPRcIl6EPW-P0kKABOWwCvVO5a7NGizV9gRpe3rmmFOyx3RNdluq2uOXqSU2YDPzItVROT0j7lQr0c="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ番組向けに、地元・西三河の台所と食文化に深く根ざした「食べ物・台所の雑学」調査メモを作成しました。\n\n---\n\n# 地域ラジオ用調査メモ：食と台所の雑学（西三河・安城編）\n\n---\n\n### 【疑問1】安城名産「和泉そうめん」は、なぜ3.6メートルもあり、冬ではなく夏に作られるのか？\n\n* **理由（仕組み）**  \n  和泉そうめんがこれほど長く伸びるのは、小麦粉と塩水をこねて熟成させながら細く一本に延ばし続ける伝統的な「手延べ」技術によるものです。麺を細く長く延ばすことで小麦に含まれるたんぱく質「グルテン」の分子配列が綺麗に整い、細いながらもモチモチとした強靭なコシが生まれます。また、乾麺が主流の全国産地と異なり、一度乾燥させた麺に三河湾から吹き込む湿った空気（そうめん風）や蒸気を当てて水分を戻す「半生もどし製法」をとるため、長いままでも折れずにしなやかさを保てます。\n* **具体的な数字や比較**  \n  一般的な全国のそうめんは乾燥した状態で「約19〜20cm」に切り揃えられますが、和泉の長そうめんは**約3.6メートル（畳2畳分に相当）**あります。家庭で茹でる際は、ハサミでお好みの長さに切ってから鍋に入れます。\n* **意外な点**  \n  全国の手延べそうめん（奈良・三輪や兵庫・播州など）の多くは、気温が低く乾燥した「極寒期（冬）」に仕込まれます。しかし、和泉そうめんは**主に6月〜8月中旬の「夏」に製造**されます。梅雨から夏にかけて三河湾から吹き込む湿潤な気候を生かして半生状態へ戻すためです。\n* **歴史の裏話**  \n  江戸時代の天明の飢饉（1782〜1788年）の際、水利に乏しく米作りが難しく小麦栽培が主だった和泉村の農民が、困窮を脱する副業として隣の鷲塚村（現・碧南市）から技術を学んだのが始まりです。約3.6mという規格外の長さになったのは、当時麺を延ばす作業台として木造建築の柱をつなぐ水平材「貫（ぬき）」を転用したためで、この材木の長さが昔の尺度でちょうど「2間（約3.6m）」あったことに由来します。\n* **出典・根拠**  \n  * 愛知県教育委員会「愛知エースネット」教材資料『和泉手延べ長そうめん』  \n  * 間杉手延製麺所 公式Webサイト『和泉手延長そうめん』  \n  * CBCテレビ『チャント！』調査報道（2024年9月放送）\n\n---\n\n### 【疑問2】碧南生まれの「白醤油」は、なぜ色が薄いのに普通の醤油より甘いのか？\n\n* **理由（仕組み）**  \n  一般的な「濃口醤油」は大豆と小麦をほぼ「1対1」の等量で仕込みますが、白醤油は**原料の約9割以上を小麦、大豆を約1割程度**という極端な配合で仕込みます。小麦に豊富に含まれるデンプンが麹の酵素によってブドウ糖などの糖分に分解されるため、砂糖を加えていなくても天然の強い甘みが生まれます。一方、色の濃さ（褐色化）は大豆のたんぱく質が分解されてできるアミノ酸と糖が反応する「メイラード反応」によって生じるため、大豆を極力減らすことで着色を抑え、淡い琥珀色を維持しています。\n* **具体的な数字や比較**  \n  原料比率は濃口醤油が「大豆50％：小麦50％」なのに対し、白醤油は**「小麦90％以上：大豆10％以下」**です。色を淡く保つため、仕込み後の加熱殺菌（火入れ）を行わずに濾過だけで仕上げる蔵も多く、熱による着色を防いでいます。\n* **意外な点**  \n  「うすくち（淡口）醤油」と「白醤油」は別物です。関西の淡口醤油は色を抑えるために塩分濃度を濃口より約1割高めに仕込みますが、白醤油はそもそも原材料配合と製法が根本から異なり、全国で親しまれている「白だし」のベースとしても広く活用されています。\n* **歴史の裏話**  \n  白醤油の発祥は江戸時代後期の三河地方（現・愛知県碧南市）とされています。麦麹を使って仕込んでいた金山寺味噌の桶からにじみ出た、琥珀色の澄んだ上澄み液（上汁）を味見したところ、非常に美味しく上品だったことから、料理の色を邪魔しない調味料として生み出されたという偶然の産物です。\n* **出典・根拠**  \n  * 愛知県味噌溜醤油工業協同組合『しろしょうゆについて』  \n  * ヤマシン醸造株式会社『白しょう油を知る』  \n  * キッコーマングループ 研究機関誌『FOOD CULTURE No.28』\n\n---\n\n### 【疑問3】岡崎の「八丁味噌」は、なぜあんなに黒く、いくら煮込んでも風味が落ちないのか？\n\n* **理由（仕組み）**  \n  八丁味噌は、米麹や麦麹を一切使わず、**「丸大豆・塩・水」のみ**を原料に仕込みます。水分をごくわずかに抑え、2年以上の春夏秋冬（二夏二冬）を越えて天然醸造させるため、大豆のたんぱく質がアミノ酸へ、微量の糖が分解され、メイラード反応によってメラノイジンという濃褐色の色素が極限まで生成され、黒褐色の色合いになります。一般的な米味噌は「揮発性の高い香り」が命のため煮立たせると風味が飛びますが、豆味噌は熱に強い「旨味（グルタミン酸など）」が主成分であるため、煮込むほどコクが増します。\n* **具体的な数字や比較**  \n  米味噌の熟成期間が数ヶ月〜1年程度であるのに対し、八丁味噌は**足掛け2年以上（二夏二冬）**じっくり寝かせます。さらに、仕込みの巨大木桶（内容量約6トン）の上には、職人の手作業で**約3トンもの天然の川石**が円錐状に積み上げられます。水分が少ない味噌全体に均等に圧力をかけ、均一に熟成させるための知恵です。\n* **意外な点**  \n  木桶の上に積み上げられた3トンの石積みは、崩れそうで崩れません。絶妙な重心バランスを保つ特殊な技術により、大きな地震が起きても崩落しない構造になっており、この石積みを一人前に組めるようになるには約10年の修業が必要とされています。\n* **歴史の裏話**  \n  八丁味噌の名は、徳川家康が生まれた岡崎城から西へ「八丁（約870m）」離れた八丁村（現・岡崎市八帖町）で作られていたことに由来します。東海道と矢作川の水運が交わる交通の要衝で、良質な大豆と吉良の塩が手に入りやすい土地でした。水分が極めて少なく長持ちすることから、戦国時代には武士の貴重な兵糧として重宝されました。\n* **出典・根拠**  \n  * カクキュー八丁味噌『味噌の豆知識』  \n  * まるや八丁味噌・カクキュー取材資料（岡崎市観光推進協議会資料等）  \n  * マルコメ株式会社 研究開発室『味噌の色を変えるものの正体とは メイラード阻害物質の探究』\n\n---\n\n### 【疑問4】三河の伝統「本みりん」は、砂糖が入っていないのになぜあんなに甘いのか？\n\n* **理由（仕組み）**  \n  伝統的な本みりんは、「もち米・米麹・本格焼酎」のみを原料として造られます。日本酒造りでは酵母が糖を食べてアルコールと炭酸ガスを作りますが、みりんは最初から度数約40％の焼酎を投入するため、酵母が活動できず**アルコール発酵が完全にストップ**します。その一方で、米麹の酵素（アミラーゼ）だけは働き続け、蒸したもち米のデンプンを徹底的に「ブドウ糖やオリゴ糖」へと分解（糖化）するため、砂糖を加えなくても濃厚な自然の甘みが生まれます。\n* **具体的な数字や比較**  \n  砂糖（ショ糖）の甘みが直線的でキレのある甘さであるのに対し、本みりんは糖化によって生まれるブドウ糖や各種オリゴ糖など**9種類以上の複合うま味・糖分**で構成されています。この複雑な糖とアミノ酸が、料理の素材に上品な甘みと美しい「照り・ツヤ」を与えます。\n* **意外な点**  \n  現在でこそ調味料の代名詞ですが、戦国時代から江戸時代前期にかけては、女性や下戸にも好まれた**「高級な甘口の飲み酒」**として楽しまれていました。江戸時代後期になって鰻の蒲焼のタレや蕎麦つゆに使われ始めたことで、料理調味料としての地位を確立しました。\n* **歴史の裏話**  \n  三河地方（碧南市など）は矢作川水系の良質な水ともち米、知多半島の醸造技術が融合し、江戸時代から本みりん造りの一大拠点として発展しました。みりん粕は「こぼれ梅」と呼ばれ、白くポロポロとした形状が満開の梅の花に似ていることから、風情あるおやつや漬物床として古くから親しまれています。\n* **出典・根拠**  \n  * 杉浦味淋株式会社（愛櫻）『三河みりんの原料と糖化の仕組み』  \n  * 甘強酒造株式会社『みりんについて・歴史と違い』  \n  * 三菱商事ライフサイエンス『味な話：みりんについて』\n\n---\n\n## 地域ラジオ用 3択リスナークイズ（疑問1より）\n\n**【問題】**  \n安城市和泉町の名産「和泉長そうめん」。一般的なそうめんの長さが約20cmなのに対し、和泉そうめんはなんと約3.6mもあります！では、なぜ「約3.6m」という長さになったのでしょうか？\n\n* **① 昔の木造家屋の大工道具（木材）を使って麺を伸ばしたから**\n* **② 和泉村の庄屋さんの屋敷の天井の高さに合わせたから**\n* **③ 当時の安城から刈谷までの距離の「1万分の1」に合わせたから**\n\n---\n\n**【正解】**  \n**① 昔の木造家屋の大工道具（木材）を使って麺を伸ばしたから**\n\n**【解説トークのヒント】**  \n「正解は①番です！江戸時代、和泉村でそうめん造りを始めた際、麺を掛けて引き延ばす道具として、木造建築で柱と柱の間に通す横木『貫（ぬき）』を利用しました。この貫の長さが昔の単位でちょうど『2間（約3.6メートル）』あったことから、この驚きの長さが定着したと言われています。今でも1本1本職人さんの手作業で3.6メートルまで丁寧に延ばされているんですよ！」",
+  "research": "愛知県安城市和泉町および西三河エリアをテーマにした、地域ラジオ向けの調査メモです。地元のリスナーが家族や友人に話したくなる「歴史・まちの発見」を4件まとめました。\n\n---\n\n### 【第1件】水不足の荒野を穀倉地帯へ！明治用水の計画を立ち上げたのは「和泉町」の人だった？\n\n* **理由（疑問の背景）**  \n  安城市一帯が広がる碧海台地は、かつて「安城が原」と呼ばれた水不足のやせ地でした。この台地に矢作川の水を引くという壮大な「明治用水」の原型を最初に構想し、測量図を完成させたのが、まさに碧海郡和泉村（現在の安城市和泉町）の豪農・都築弥厚（つづき やこう）でした。\n* **具体的な数字や比較**  \n  明治用水が通水する以前は、台地上の耕地の半分以上が雨水頼りのため池に依存していました。明治13年（1880年）に通水が始まると、水田面積は当時の約2,000ヘクタールから明治40年代には8,000ヘクタール超へ急増。旧岡崎藩の石高（約5万石）を大きく上回る10万石以上の大増産を達成し、現在は葛西用水・見沼代用水と並ぶ「日本三大農業用水」の一つに数えられています。\n* **意外な点・歴史の裏話**  \n  弥厚が矢作川から30km以上もの水路を引く大計画を立てた際、下流の農民たちからは「水害が起きる」「入会地（共有草地）が奪われる」と誤解され、激しい反対運動が起きました。そのため、和算家・石川喜平とともに作業する際は、昼間を避け「夜中に密かに測量を行わねばならない」ほど命がけの作業だったと伝えられています。弥厚は天保4年（1833年）に幕府から一部開発許可を得た直後、志半ばの69歳で病没しましたが、その遺志を受け継いだ岡本兵松や伊豫田与八郎らによって明治時代に悲願の用水が完成しました。今も和泉町内には弥厚公園や墓所（本龍寺）が残されています。\n* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』\n  * 農林水産省 東海農政局『明治用水の歴史』\n  * 愛知県教育委員会（愛知エースネット）『都築 弥厚 -明治用水の計画をつくった人-』\n\n---\n\n### 【第2件】愛知県で唯一の天然湖沼「油ヶ淵」は、実は“人の大工事”がきっかけで生まれた？\n\n* **理由（疑問の背景）**  \n  和泉町のすぐ南西、安城市と碧南市の境に広がる「油ヶ淵（あぶらがふち）」は、愛知県で唯一の天然湖沼（自然にできた湖沼）として知られています。しかしその歴史をたどると、江戸時代初期に行われた大規模な治水工事によって誕生したという経緯があります。\n* **具体的な数字や比較**  \n  愛知県内には約3,300以上のため池や人工池が存在しますが、公的に「天然湖沼」とされるのは油ヶ淵（周囲長約6.3km、面積約0.64km²、平均水深約3m）だけです。\n* **意外な点・歴史の裏話**  \n  約400年前まで、油ヶ淵のあたりは「北浦」と呼ばれる三河湾の海の入り江でした。慶長10年（1605年）、徳川家康の命により矢作古川の水害対策として現在の矢作川本流（矢作新川）が開削されましたが、上流から大量の土砂が北浦の河口付近へ流れ込むようになり、わずか10年ほどで入り江の東側が埋まってしまいました。さらに正保元年（1644年）、幕府が水害防止の堤防を築いて海から遮断したことで湖沼に姿を変えました。分類上は「天然湖沼」でありながら、実態は江戸幕府による大土木工事の副産物として誕生した湖です。\n* **根拠・出典**  \n  * 油ヶ淵水質浄化促進協議会『油ヶ淵の誕生と移り変わり』\n  * 国土交通省 中部地方整備局『日本の川 矢作川の歴史』\n\n---\n\n### 【第3件】酪農王国と全然違うのに？安城が「日本のデンマーク」と呼ばれた本当の理由\n\n* **理由（疑問の背景）**  \n  安城市はかつて「日本のデンマーク（日本デンマーク）」と称され、全国の教科書にも載るほど有名になりました。しかし、本家デンマークの主産業が「酪農」であるのに対し、当時の安城は酪農中心のまちではありませんでした。なぜ安城がデンマークに例えられたのでしょうか。\n* **具体的な数字や比較**  \n  明治用水の開通後、秋に水門を閉めると水田が乾いて畑になるという台地の性質を生かし、安城では米作の裏作として麦や野菜を育て、さらに養鶏・養蚕・果樹を組み合わせた「多角形農業（平行線・三角形・四角形農業）」が急速に発展しました。大正15年（1926年）に雑誌『農政研究』が「日本の丁抹（デンマーク）号」と銘打って碧海郡の先進的な農業を特集したことで、全国にこの名が定着しました。\n* **意外な点・歴史の裏話**  \n  デンマークになぞらえられた理由は、作物の種類ではなく「社会の仕組み」でした。愛知県立安城農林学校の初代校長・山崎延吉らが指導した「農民自らが産業組合を結成して肥料の共同購入や農産物の共同出荷を行う組織力」や「実践的な農民教育」が、当時世界屈指の協同組合先進国として知られていたデンマークの理想的な農村像と完全に一致していたためです。昭和初期の全盛期には、安城の近代農業モデルを視察しようと全国から人が押し寄せ、安城駅前には旅館や飲食店、映画館がずらりと並ぶほどの賑わいを見せました。\n* **根拠・出典**  \n  * 安城市公式ホームページ『広報あんじょう 2024年5月号 日本デンマークって？』\n  * 安城市歴史博物館『安祥文化のさと 日本デンマーク』\n  * 一般社団法人 農業農村整備情報総合センター（水土の礎）『命を育む明治用水 日本デンマーク』\n\n---\n\n### 【第4件】「安城七夕まつり」が日本三大七夕から「願いごと日本一」へと看板を変えた理由\n\n* **理由（疑問の背景）**  \n  仙台・平塚と並ぶ「日本三大七夕」の一つとして親しまれてきた「安城七夕まつり」ですが、2009年からはキャッチフレーズを「願いごと、日本一。」へと大きく転換しています。単なるPR用の標語ではなく、れっきとした実態に基づいた理由があります。\n* **具体的な数字や比較**  \n  1954年（昭和29年）に第1回が開催された安城七夕まつりは、毎年8月第1週末の3日間に開催され、約100万人前後の人出で賑わいます。色鮮やかな約1,000本もの竹飾りが立ち並び、その「竹飾りのストリートの長さ」は日本一といわれています。\n* **意外な点・歴史の裏話**  \n  もともとこの祭りは、戦後の落ち着かない空気を吹き飛ばし商店街を活性化させようと、1954年に当時の安城駅周辺の商店主たちが自前で始めた「市民発信の祭り」でした。三大七夕の枠にとどまらず、「日本一長い竹飾りストリート」に加えて「短冊の数」や「願いごとに関する参加型イベントの数」でも名実ともに日本一を目指そうと、2009年に「願いごと広場」の開設や公式キャラクター「きーぼー」の導入など、市民・来場者が願いを託す参加型フェスティバルへと進化を遂げました。\n* **根拠・出典**  \n  * 安城七夕まつり協賛会 公式サイト『安城七夕まつりの歴史』『「日本三大」から「願いごと日本一」へ』\n  * 安城市役所『第70回安城七夕まつり 開催報告』\n\n---\n\n### 【リスナー参加用：3択クイズコーナー案】\n\n**対象トピック：第1件（明治用水の祖・都築弥厚）**\n\n* **問題**  \n  安城市和泉町出身の偉人で、明治用水の計画を立てた都築弥厚さん。水路を通すための測量を始めた際、近隣の農民たちから激しい反対にあってしまいました。そこで弥厚さんたちが取った、驚きの工夫とは次のうちどれでしょう？\n  * 1番：旅の行商人（商人）に変装して測量した\n  * 2番：反対する人が寝静まった「真夜中」にこっそり測量した\n  * 3番：測量機械を「凧揚げのオモチャ」だと嘘をついてごまかした\n* **正解**  \n  **2番：反対する人が寝静まった「真夜中」にこっそり測量した**\n* **解説トークのポイント**  \n  当時は「水路を通すと水害が起こるのでは」「自分たちの土地が減るのでは」と恐れた農民たちの妨害が厳しく、昼間に測量をすることができませんでした。そこで弥厚は高棚村の数学者・石川喜平とともに、人々が寝静まった深夜にひそかに器具を持ち出し、暗闇の中で5年もの歳月をかけて測量図を完成させたといわれています。私財を投げうち、夜を徹して地域の未来を切り拓こうとした情熱が、現在の豊かな西三河の礎になっています。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9C%AC%E3%81%BF%E3%82%8A%E3%82%93+%E3%81%AA%E3%81%9C%E7%94%98%E3%81%84+%E7%A0%82%E7%B3%96+%E7%B1%B3+%E9%BA%B9+%E7%B3%96%E5%8C%96+%E4%B8%89%E6%B2%B3%E3%81%BF%E3%82%8A%E3%82%93&client=app-vertex-grounding&safesearch=active\">本みりん なぜ甘い 砂糖 米 麹 糖化 三河みりん</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%85%AB%E4%B8%81%E5%91%B3%E5%99%8C+%E3%81%AA%E3%81%9C%E9%BB%92%E3%81%84+%E3%83%A1%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%89%E5%8F%8D%E5%BF%9C+%E4%BA%8C%E5%A4%8F%E4%BA%8C%E5%86%AC+%E5%B2%A1%E5%B4%8E&client=app-vertex-grounding&safesearch=active\">八丁味噌 なぜ黒い メイラード反応 二夏二冬 岡崎</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%92%8C%E6%B3%89%E3%81%9D%E3%81%86%E3%82%81%E3%82%93+%E5%AE%89%E5%9F%8E%E5%B8%82+%E7%89%B9%E5%BE%B4+%E8%A3%BD%E6%B3%95+%E6%AD%B4%E5%8F%B2+%E5%8D%8A%E7%94%9F+%E8%BE%B2%E6%B0%B4%E7%9C%81&client=app-vertex-grounding&safesearch=active\">和泉そうめん 安城市 特徴 製法 歴史 半生 農水省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%99%BD%E9%86%A4%E6%B2%B9+%E7%99%BA%E7%A5%A5+%E7%A2%A7%E5%8D%97%E5%B8%82+%E3%81%AA%E3%81%9C%E7%99%BD%E3%81%84+%E5%B0%8F%E9%BA%A6+%E5%A4%A7%E8%B1%86+%E9%81%95%E3%81%84&client=app-vertex-grounding&safesearch=active\">白醤油 発祥 碧南市 なぜ白い 小麦 大豆 違い</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E+%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF+%E7%90%86%E7%94%B1+%E7%94%B1%E6%9D%A5+%E5%A4%9A%E8%A7%92%E8%BE%B2%E6%A5%AD&client=app-vertex-grounding&safesearch=active\">安城 日本のデンマーク 理由 由来 多角農業</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%98%8E%E6%B2%BB%E7%94%A8%E6%B0%B4+%E9%83%BD%E7%AF%89%E5%BC%A5%E5%8E%9A+%E7%A2%A7%E6%B5%B7%E5%8F%B0%E5%9C%B0+%E5%AE%89%E5%9F%8E%E3%81%8C%E5%8E%9F+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">明治用水 都築弥厚 碧海台地 安城が原 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B2%B9%E3%83%B6%E6%B7%B5+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E5%94%AF%E4%B8%80+%E5%A4%A9%E7%84%B6%E6%B9%96%E6%B2%BC+%E6%AD%B4%E5%8F%B2+%E7%9F%A2%E4%BD%9C%E5%B7%9D&client=app-vertex-grounding&safesearch=active\">油ヶ淵 愛知県 唯一 天然湖沼 歴史 矢作川</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E6%AD%B4%E5%8F%B2+%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91+%E6%97%A5%E6%9C%AC%E4%B8%80&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 歴史 きっかけ 日本一</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeYBIJ6QawO0tEQ5bwxw0VfjrBC8ooQ3ekyc1XZmRkNzqbgCD6N7dv4dpOwtYswm388G5pTmGidVfKOjuZ-onFG-TApCdYySCJbt1tSbRXk_5SVppeQE3iMhPTiw==",
-          "title": "masugiseimen.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_SWZohcBQRMbaaTq4Srbw-PvyeK_ajdhnmHSQLdeN46fZuGggLTLEmosYayvCcZJJ53ojWqc-LY9wyoYcXj4OkQUDOCnwRJQYkweGDSvqXDWPTBelJpZw_Wpu6rBiVTq0CNRH4o6fiU4rSQ==",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjVcJDS9EPUeh_ojpIKl_L0LY_BVXTFLKcXFNyHTzR6eVakWlW_t1mZVW3Z2iIxZF9tqkLwPP4HVMWS9fdPTe-PEm7WSgmdr_u8SKZfGz4jRLNbRnNYWGEbYOPxp4bAIn35DbxEW4=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKeIwhd6wBXhv2nvRdsaYTsnD5tRjDi_ujKXXUUyfFGhTlEmqZHJtwg9uqq11rS8ooDWQxkn9KPibqaSxO3aiK7B1m9Sx0yO57N2IQyyxDyhV4iSiLL5pOSElWx1-DKJ0iiKkhGwuQUQ==",
+          "title": "tabi2.lol"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbLlCoQH_W2JXnFJUITO1VOEMoldSf97pHCekMU6FFceZKuI2Bh_2vOX7u8MSfAfOjmYZw4GfOR667um5HPg3uF0Wsqh_kaj4lp5YmTQ__PLaMnV29AB4RBwKvPvNdGxJ3pO4UL0EKtHgwxw==",
-          "title": "locipo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5qUKT2Rpc_CJ83u1fCpnZLQeYabyDiWLVRxPOy0FjWx-xsJ63rEUfnen9NcGti_YIrlmV0x4ETgYDLWJP5hOGu1ZEepe_dSsgVoaMpflLGiUhlUSib9mpBhHuOGsaZNu0tgs2K5lOlKek2KlHx6ed_5IoeNxXT3TS3Q==",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKrBuCXHsHR3ZeyI3NTh7ovxOjMYPeLnDv2na4OoiPzjzD-wQoZ_K2KUBtYRcZrkMfejlY6r8Lp7WcIVFRv5eyhJfOOgu9gjPSbjlPblTqUs8n9WUlFZsBUykhQfE1kvYoZrNfenAj6vdcfBXQK5kE0sEslpStXOLFDQe1vyikYMHBQ_I=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb9IywNR3ThPF0syXqVvA834KwU-908_zWLMlNeOq9PbnSgEgeavFfVPUZRqeTs1j1P5xQOvWY6XlPawtbGwomjJ1y3SiySUYnsMVxjRkfd0jGIQZqFesiNDu7hTuGG0eZHH8AKs_fgFZ-P_mm3QYHHtKbdn88VpoFoBhj1iU=",
+          "title": "midorinet-meiji.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF09seZci8kDCOF7wnVAKT94uj-h06xeh08wDMkIixRyO8UTYMUShFmQQiviZEvgK9yBpzssLZWufyWBOAKjliDr_6zdKJc92_nnErXAqcUQFn2LnIrGu9xkjyonPV13xcVA7bAjEs1XhM=",
+          "title": "mytabi.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWt2AT8wrg2TB4Mya69NDHSPkaLQ9hST80fyOt_ttOh_QxBX_KI4n-tGv0ZT8ORtqwot-hYOrw5O2f7vaDtPSEzDFwKzwiAFSSKpPRcIl6EPW-P0kKABOWwCvVO5a7NGizV9gRpe3rmmFOyx3RNdluq2uOXqSU2YDPzItVROT0j7lQr0c=",
           "title": "aichi-c.ed.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd-LU9Q05BQP70W-fMCpCWI43A_HPUxT_EiN_o_0CS2y30ZsJPiwhn_pHVvBHToIvuGvIOSFtNd0Er7rPLZCi1SC53DAjDhxXvHPa02qqKmq67sxDUVqhiEMu3DQ==",
-          "title": "yamashin-shoyu.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESdiaXRx7lwD_VxFDV_Tsqf_2lNb5NNVHndjf8lrB3rx8WslnZsbPX72JoSKzAorbYZBwTLWeuMJWM3GBOWiSCXvm4VcBYat5P6U9hkIPlOExQdLssvmlK",
+          "title": "aburagafuchi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe_7QUN-t4mXvJb_2qkwRMr-mVfexX97i1-kUzU2VjtTl5LRbjRiBVI1JBHMVMMz5wYp_A71E7iy8gGOErfafRyPfXQU-zymilIAuNYSCFWCN_UUHMFbaVOKAoQtzJ0yIXOkgT",
-          "title": "s-shoyu.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJu9yfVFlmOA-QCpDLFeCEniMydOaDnKLCtxgB89Rmr-R91cxJ0gaEDIijqQNuOZi6YQSOK0tCOi2AJwbeYp-oQ8JqkaW_bANTJrpkbFTiBEbQicXpOFSjw5mTFhTRhs5uWom97KPWPxtQCoooggs=",
+          "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVE-R0dYFY1nTy38oOYzoVMdQwMKySoDlocSN8bQ01OCQKYQNnIOufuNtIxfTPqzqQHYevLgCsHvk20JWDE5QhA_SbtzYWdNIiaLPHg6zWEU9J-pkx8EmcL0bsyTB5aaH0",
-          "title": "aichimisotamari.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETbvphqjta1J8645PzAad1panbO5YqJcWhDMaaX8Y404Fz5xVzvTqHtcpBfstskyC8xXSjcnF5XtEPmrDc-e33A5Sb45HBcgBEcZN1qHKR-cqLcFSS6lp_3mVE99K9kx0pLn4nCEXPnB6zIg==",
+          "title": "hatenablog.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr94en9a08yS3cvEtQCNEGmrnEj_ChSMuFwlGdnZ0KQAidvlEkdZlqyvlQJUO9YsnkW8yWJEni1xyVekNBnRUc7oZvN7Ud4LrDsOk_FEONhPo5RBoCmf3Vn2J79hrIv2I8ssLA",
-          "title": "instagram.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG42RLAnwc0kVhqhxFipSMn7LoWtplsXRWiOZZqtaB1NQsr4rnKS5Ni757b8ulN-y_8872K0GtXusIrqVqpocR75UBGBRQNHLVGu4NxIXK6lXdWZ5ZluRRmpQd-gEza",
+          "title": "chubu-geo.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_mRThsUZk4fEqjuJWlyQG8xYejCjdPORvou6eMK8vBPkIjKzS8jC5m7JhcUvWc4NJkqmj8dtmy7E9SuT8BipYTfSZw980fFHfiO1k4rRQmGduYuAA26XdTGuS3-9Xm0MI64INu6MiJbPL",
-          "title": "intojapanwaraku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY-a0QaYzNdSG5fRxUaecnc-O_Uxb5_hkJCvRtCN3kpmqCZo-7zdWBgT7rUJIef8AAWx9GW8G_9NoKtGDF_rwLRnglx9Brigxhbm6fw61nhHAnIiM8edAukLyyiCYZZB6ESeH2kv4qh0-OpC9563m6FwzCRPqbtbFLKE5MLyKABywMKOoQ1sNULeSmvAwBtpNaDBIPd6Hs",
+          "title": "mlit.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtheDebmXcg08oCuLlGSykSb1yblHd9UPu3prVmYgoPW4CP6adggJIQYxQG7DxSX75ZrZysxkBPGW1hZTiQaxPgyPKmw6iw-68ZN_HcuonXVc8VhDVrzddghOCc0hzhCtna1ogkN8Sv7cMyMD_eWI5eLvCbXaitY3SQx8MgE-bI4nGZA==",
-          "title": "kikkoman.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9QV5uZhja4yoimSFq3RHckhWNEHU2T0USSXDhaR7PFkm9Z4Sncl-RCKehrzx6lHMXvbErnHBinlcKN5ZKlV0klTCq4J59YpQddpZSG7e24oHET0H2xSoYJSQX",
+          "title": "nagoyadaiti.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4IU1kvNH4u1uexhelVwFMVCJKwGH0I8jZ1s4BB-KcNwjPSjAWDxkgeYrFS9hk8YZN5bTXSNZ7a2mgBeSLn6R8WlWwUZWqMy1MbUcnR3tmfxdCByVWyeaYIKvp6Frc8wQkc9AJNa58AA==",
-          "title": "shakaika.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcsDBi3JygF-5JFO1piff9ytpDL6nyRc3rhrcwLJoP2_kimpRUZ2RtA7AYqISxniuR36pwsby0XUwx5vt1Yr12jzIe7D0z6MUnLQebf-1X6m2S1G6qO3OHnJMTRJJFfA==",
+          "title": "suido-ishizue.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDk9gK05r8_VGofpnD4zUjjLQuaip7_jE3cWhZMW9kqJncMkcqvkqknu_HKC8YxfUGs_OlwJyDGb2ZLrEZS_u7QMQM6-zp5XdjzDyIcWFwl-ka7esuon1yR6PciE34zCE=",
-          "title": "kakukyu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP1xA6_Hi1wUmt7aNEVFVvJC3RsBIL5roN7D_maNu-xlzhN3Ti9ls0PGt0_7DHBLAfn8agkXLW75w3IgkU-93DFNZYdUBQSxogfn6_qtmSstGMp6PI0EntrYbtk8RAVNgON8ZfHUeTXAhfy2i3RN1O6rCAvW8=",
+          "title": "hatenablog.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt8RO_6ipfYpJ1_E-b10PgJ_H8_DWLM1P9qCy7qUz0cFdd5bjt3gizubDcsSQ4M1v-jWCC0S5koftVf5UaxdYeuI0tphljeeetda-kY4PrguhZHW4knmezTvIedZM=",
-          "title": "marukome.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4yi6YJyjA-rDEhznt-_4xFsLsQvp_V8CrcJJBxzLK4iGvhlaalG0p1GjSMqjfjChMsCnKYuVMABGmykhu_zi7kwok3HL2XdQlhUoD5CSA_fWm2z42SwAvBa80gKJHAiMKhlPoGG2lAvbn29ozAcFVh6XIi20yKSM=",
+          "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeSY9UrC2dh9gdGAOvG5YIfPJOI5QD6cVHd9o-S6Ak-AUCCGDHKuyOQJGh5iFDP1yUDHe3cJ0UFvCnDJTMCcxyCpQglBkc7Ltg4R-DXr6jveTD05O8CJy6XKGmfsUar_4hneN-LhbBffdfXlPwvw==",
-          "title": "okazaki-kanko.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvl3R3NBT2Hw07H998Ke3O1gllu2B2c3gT4BYq_OZuzCllrZLdcgHvN5TyIeRt89LWcGPHVTbkLaN3ouZFWIxpOIT_RnLz63VESKXbHX-hPc737kgtBYhVZVkgefpXZfGeQqbJt4=",
+          "title": "suido-ishizue.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8GqihRBQt46ovD32ShD916xPMD_26tsmMCHoBoA5PI4ZrIbRnS7IbE1dLCMfaYqUZgDh41Ru1cQ8EvZp36YEzTNz97YB7oBLdkJEhZgoBsrGRZoZ3hLlOusSHyJY=",
-          "title": "kyoto-art.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmwK903l_NHaSCR0AEixyf7Z4mG5bXxSL36Xqq1ultv4itAxleaOUbop8g_ZhiabJQwO1k2Qj3dSp_PKjhtikkJ5g_2FnXPJjH4TizyAK0q0ZwFVgLcEXB",
+          "title": "ansyobunka.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWzkN_mo2-wBaONo9kvuPNTijz7Axqr3DcYy0xulebdzV1kFwoOizJyihHtNcNPoVB4rGfPD1MAZIZBEIeNa9CjcaMb-1Nn_WoIXiq1UFn9CqzxYLoekLKYH3koY2HXRD0GetpR3RMbeNr5js8xhZNYsl9wLcoCR56jaP8yHEiuuDcawkukL4=",
-          "title": "pal-system.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhO8p8XeE01aWDWqUQcN9Gt9JUDLB-ZMmdvtSXdVNeMm_ACrxtolDBC2rq_V8C2nH9DkBm_uIwdBY1FTHFxGOhf6M0ZGSnW4qQP3j60yE-1w6Ieo35MEhg5OHGzJW8dB02_soZoY5jw3YuxJAiCuIWtaUn0GxhtGzDejkWiZ4PKKy6aE9RRrK2HrlgsQ==",
+          "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1MwebAbP7LVJIYYkoVqSwlvCFYReQ1oQOQ3NGGUF8wP1gN6OWOOocSeNaQIt_AuX0NhZyfeyexW0qzD_ogfXYf9GETF99VDkEfuRvT7qLdZGDVVrACEN2NC6hfMb_ItAw-hg31Q==",
-          "title": "hakko-blend.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECOHsmrrko9CLyfaxTXfi_o-uFWPMFKiKj5m49PzwlQzd_EOJuvYAu2zvmO0ABHF53coYj8SAuNE0o9VkzHvvNxTYUcE8VGzOj32tQroknZCmi9ycc5dhZGRGp",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ3weqU_RjWN-a1Yj-Buz71EB6c6JjPRjJmJ_3QPHmu20viMCFB8Ve2fTpmXsc2O2iKny18NXXC7ldukJEEekXZeV32XopRAedbAZ50dcLEkStqg==",
-          "title": "mirinya.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0scJKbXnhv3IJq3KQm32MJxESZHACGIpRdwJ9fDOgmv6Cpfhal04VmbzdOed_Jxn_heGET2CJ9dznHbYqyUfQB2ygZmoTOMWej8igUm6TIneJE0dUEjJ8NA19H7meppdv797rLj_DGYFkD3_5LQ==",
+          "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_j_U1d6Ps1O5XeuTB_Dn3cb8rybbGe0fH-cGd2RwtPk3Wg0m0CfdTt8laRieCaAxnlEuMJehApcUZ-TTcVJ_DIr-7wnapo2PpDhp46aVDBfrduBwRSPQ=",
-          "title": "honmirin.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphzhODROhv95FAneIuqtEYMRwl4J7VCceW5yNOu08O94ALTLPnjZWhWy1uVwYer3d1uR-8Ot9rfcocCwg689yjyqsYVadZUl-SmAfyOC_eCxPJj8D865mmQ==",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY5lazrGSdRHg01ZIHmjpc7y5lv8ve1eU1NbT_CshT5btlTeONVTme3bTZIOgyAT0gy8Z0h3nVB7rI1xjraQrtY_k5Q_SXcbdDU2425gY4-HqwJNhHObvG88zMH0l90tW9xprzA7LPdaPRjd6RvTc1KS3Yio46UMOWbA==",
-          "title": "yahoo.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKfp_QYXyOu1ZyF2pojjlHfuN9i9GsO9vQ_vZFzx9KZMfPKU8bTgXmuNkE4Kp5GGyw14SUHGAZCND3F_C_dre7xTDvfPp6tKbx3q2EOb4pUb765jsZiDlmlQq2vx89cHjf61JoF2u5",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNipNh94UNis23ANoWcx2NLCunM3viBfvg_n5tRCEp1sQ8ZRSoK7qxRNK_zNSIKBQ9A2gaMbpC1SKLT4QQb9DV4JNgE0Wk_mEqNQ5oUCHe_u5h3yMM5TB9wJttpzWc-2Rh",
-          "title": "kankyo-shuzo.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvP81z7E7Ia-yk5Yz6N37RWuwZMEtdiJLa7L-jrO-e-kgvFqg92FOarNFoapzvMBiVOgClbAHLVX9PVJtF2Fvm6kX-TwwJ4n-hFhEaYzU9BH7Czkw=",
-          "title": "ajibana.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdi_CYEpYUXEMrPaXVesp704iPHIkuQcIibINEy1dFcTAY-jDHBTMtaQ50L7LBG39-GJfhR_vOMu_kcFQoXSEQsbEu0wbA_Wust_P9mJPkppSzkHAnIgyA7A_1cnJI",
-          "title": "tokyo-gas.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFScNuE6gL9TbCE1vn7Co-h4txQCO5wFND4AgwTlROmOnEQZptNS-XP_iInnAMoULzBCbbEQTF9cgGaSPB2vl0BuF9m45ZpNQy4Jejy19H6Jez_z9ho",
-          "title": "hakkou.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUfeFWXW9MSA3KwkDREqHIdb5ncNS9JLkzeogcJXgi4NOA3u8_VdE7AGacrF3dVddAKScOh95umXg2rJqLScwjpZtFiENUpaOVgIifRLMCmN_kAa6d",
-          "title": "hakkou.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHruIFt1pNpqivBBUe3XcFgY8J_ywyc-NUUMGahz_Zo1bL3qemj-05w0NpHdCLOV88rBLA7IDSxgpgmgX4YcIMSrvWx1--Rk4Eu_rcbyma0wXmgiA==",
-          "title": "mirinya.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBn659pN6QMT6hOVPRIL27nhL-hix9phseEx1N35_imYmSe1egFML7n9xg3PJmW2P9ZzZo2OgKxCclgVlInxbBbqEF3Yb4He9rdSSjvxraQTgRsbZ5AUh7SMKJ_QC1_dw0kav5stdDDDhBdleh-M-Lg7LpIJMKyMR3yKVmkcHQ3GDnFd4hrhCMx3J-A_DrR4WT2ng=",
+          "title": "wikipedia.org"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 655,
-          "endIndex": 853,
-          "text": "麺を細く長く延ばすことで小麦に含まれるたんぱく質「グルテン」の分子配列が綺麗に整い、細いながらもモチモチとした強靭なコシが生まれます"
+          "startIndex": 384,
+          "endIndex": 539,
+          "text": "* **理由（疑問の背景）**  \n  安城市一帯が広がる碧海台地は、かつて「安城が原」と呼ばれた水不足のやせ地でした"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 542,
+          "endIndex": 804,
+          "text": "この台地に矢作川の水を引くという壮大な「明治用水」の原型を最初に構想し、測量図を完成させたのが、まさに碧海郡和泉村（現在の安城市和泉町）の豪農・都築弥厚（つづき やこう）でした"
+        },
+        "groundingChunkIndices": [
+          2,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 808,
+          "endIndex": 972,
+          "text": "* **具体的な数字や比較**  \n  明治用水が通水する以前は、台地上の耕地の半分以上が雨水頼りのため池に依存していました"
         },
         "groundingChunkIndices": [
           0
@@ -264,159 +241,146 @@
       },
       {
         "segment": {
-          "startIndex": 856,
-          "endIndex": 1141,
-          "text": "また、乾麺が主流の全国産地と異なり、一度乾燥させた麺に三河湾から吹き込む湿った空気（そうめん風）や蒸気を当てて水分を戻す「半生もどし製法」をとるため、長いままでも折れずにしなやかさを保てます"
+          "startIndex": 975,
+          "endIndex": 1131,
+          "text": "明治13年（1880年）に通水が始まると、水田面積は当時の約2,000ヘクタールから明治40年代には8,000ヘクタール超へ急増"
         },
         "groundingChunkIndices": [
-          1,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1134,
+          "endIndex": 1347,
+          "text": "旧岡崎藩の石高（約5万石）を大きく上回る10万石以上の大増産を達成し、現在は葛西用水・見沼代用水と並ぶ「日本三大農業用水」の一つに数えられています"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1351,
+          "endIndex": 1633,
+          "text": "* **意外な点・歴史の裏話**  \n  弥厚が矢作川から30km以上もの水路を引く大計画を立てた際、下流の農民たちからは「水害が起きる」「入会地（共有草地）が奪われる」と誤解され、激しい反対運動が起きました"
+        },
+        "groundingChunkIndices": [
           2,
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 1145,
-          "endIndex": 1377,
-          "text": "* **具体的な数字や比較**  \n  一般的な全国のそうめんは乾燥した状態で「約19〜20cm」に切り揃えられますが、和泉の長そうめんは**約3.6メートル（畳2畳分に相当）**あります"
+          "startIndex": 1636,
+          "endIndex": 1840,
+          "text": "そのため、和算家・石川喜平とともに作業する際は、昼間を避け「夜中に密かに測量を行わねばならない」ほど命がけの作業だったと伝えられています"
         },
         "groundingChunkIndices": [
-          2,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1380,
-          "endIndex": 1473,
-          "text": "家庭で茹でる際は、ハサミでお好みの長さに切ってから鍋に入れます"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1665,
-          "endIndex": 1758,
-          "text": "しかし、和泉そうめんは**主に6月〜8月中旬の「夏」に製造**されます"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1761,
-          "endIndex": 1878,
-          "text": "梅雨から夏にかけて三河湾から吹き込む湿潤な気候を生かして半生状態へ戻すためです"
-        },
-        "groundingChunkIndices": [
-          1,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1882,
-          "endIndex": 2171,
-          "text": "* **歴史の裏話**  \n  江戸時代の天明の飢饉（1782〜1788年）の際、水利に乏しく米作りが難しく小麦栽培が主だった和泉村の農民が、困窮を脱する副業として隣の鷲塚村（現・碧南市）から技術を学んだのが始まりです"
-        },
-        "groundingChunkIndices": [
-          3,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2174,
-          "endIndex": 2462,
-          "text": "約3.6mという規格外の長さになったのは、当時麺を延ばす作業台として木造建築の柱をつなぐ水平材「貫（ぬき）」を転用したためで、この材木の長さが昔の尺度でちょうど「2間（約3.6m）」あったことに由来します"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2466,
-          "endIndex": 2596,
-          "text": "* **出典・根拠**  \n  * 愛知県教育委員会「愛知エースネット」教材資料『和泉手延べ長そうめん』"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2466,
-          "endIndex": 2676,
-          "text": "* **出典・根拠**  \n  * 愛知県教育委員会「愛知エースネット」教材資料『和泉手延べ長そうめん』  \n  * 間杉手延製麺所 公式Webサイト『和泉手延長そうめん』"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2716,
-          "endIndex": 2751,
-          "text": "調査報道（2024年9月放送）"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2876,
-          "endIndex": 3123,
-          "text": "* **理由（仕組み）**  \n  一般的な「濃口醤油」は大豆と小麦をほぼ「1対1」の等量で仕込みますが、白醤油は**原料の約9割以上を小麦、大豆を約1割程度**という極端な配合で仕込みます"
-        },
-        "groundingChunkIndices": [
-          4,
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 3126,
-          "endIndex": 3321,
-          "text": "小麦に豊富に含まれるデンプンが麹の酵素によってブドウ糖などの糖分に分解されるため、砂糖を加えていなくても天然の強い甘みが生まれます"
+          "startIndex": 1843,
+          "endIndex": 1967,
+          "text": "弥厚は天保4年（1833年）に幕府から一部開発許可を得た直後、志半ばの69歳で病没しましたが"
         },
         "groundingChunkIndices": [
-          6
+          2,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3324,
-          "endIndex": 3594,
-          "text": "一方、色の濃さ（褐色化）は大豆のたんぱく質が分解されてできるアミノ酸と糖が反応する「メイラード反応」によって生じるため、大豆を極力減らすことで着色を抑え、淡い琥珀色を維持しています"
+          "startIndex": 1843,
+          "endIndex": 2099,
+          "text": "弥厚は天保4年（1833年）に幕府から一部開発許可を得た直後、志半ばの69歳で病没しましたが、その遺志を受け継いだ岡本兵松や伊豫田与八郎らによって明治時代に悲願の用水が完成しました"
+        },
+        "groundingChunkIndices": [
+          2,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2102,
+          "endIndex": 2186,
+          "text": "今も和泉町内には弥厚公園や墓所（本龍寺）が残されています"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2190,
+          "endIndex": 2358,
+          "text": "* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2190,
+          "endIndex": 2421,
+          "text": "* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』\n  * 農林水産省 東海農政局『明治用水の歴史』"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2190,
+          "endIndex": 2541,
+          "text": "* **根拠・出典**  \n  * 農林水産省『水土里電子博物館 土地改良偉人伝～水土里を拓いた人びと～「明治用水の祖 都築弥厚」』\n  * 農林水産省 東海農政局『明治用水の歴史』\n  * 愛知県教育委員会（愛知エースネット）『都築 弥厚 -明治用水の計画をつくった人-』"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2681,
+          "endIndex": 2923,
+          "text": "* **理由（疑問の背景）**  \n  和泉町のすぐ南西、安城市と碧南市の境に広がる「油ヶ淵（あぶらがふち）」は、愛知県で唯一の天然湖沼（自然にできた湖沼）として知られています"
         },
         "groundingChunkIndices": [
           6,
-          5,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3598,
-          "endIndex": 3780,
-          "text": "* **具体的な数字や比較**  \n  原料比率は濃口醤油が「大豆50％：小麦50％」なのに対し、白醤油は**「小麦90％以上：大豆10％以下」**です"
+          "startIndex": 2926,
+          "endIndex": 3076,
+          "text": "しかしその歴史をたどると、江戸時代初期に行われた大規模な治水工事によって誕生したという経緯があります"
         },
         "groundingChunkIndices": [
-          4,
-          8,
-          5
+          6,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 3783,
-          "endIndex": 3948,
-          "text": "色を淡く保つため、仕込み後の加熱殺菌（火入れ）を行わずに濾過だけで仕上げる蔵も多く、熱による着色を防いでいます"
+          "startIndex": 3080,
+          "endIndex": 3327,
+          "text": "* **具体的な数字や比較**  \n  愛知県内には約3,300以上のため池や人工池が存在しますが、公的に「天然湖沼」とされるのは油ヶ淵（周囲長約6.3km、面積約0.64km²、平均水深約3m）だけです"
+        },
+        "groundingChunkIndices": [
+          6,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3331,
+          "endIndex": 3480,
+          "text": "* **意外な点・歴史の裏話**  \n  約400年前まで、油ヶ淵のあたりは「北浦」と呼ばれる三河湾の海の入り江でした"
         },
         "groundingChunkIndices": [
           6,
@@ -425,104 +389,84 @@
       },
       {
         "segment": {
-          "startIndex": 4047,
-          "endIndex": 4333,
-          "text": "関西の淡口醤油は色を抑えるために塩分濃度を濃口より約1割高めに仕込みますが、白醤油はそもそも原材料配合と製法が根本から異なり、全国で親しまれている「白だし」のベースとしても広く活用されています"
+          "startIndex": 3483,
+          "endIndex": 3642,
+          "text": "慶長10年（1605年）、徳川家康の命により矢作古川の水害対策として現在の矢作川本流（矢作新川）が開削されましたが"
         },
         "groundingChunkIndices": [
-          6
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4337,
-          "endIndex": 4468,
-          "text": "* **歴史の裏話**  \n  白醤油の発祥は江戸時代後期の三河地方（現・愛知県碧南市）とされています"
+          "startIndex": 3483,
+          "endIndex": 3803,
+          "text": "慶長10年（1605年）、徳川家康の命により矢作古川の水害対策として現在の矢作川本流（矢作新川）が開削されましたが、上流から大量の土砂が北浦の河口付近へ流れ込むようになり、わずか10年ほどで入り江の東側が埋まってしまいました"
         },
         "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4471,
-          "endIndex": 4771,
-          "text": "麦麹を使って仕込んでいた金山寺味噌の桶からにじみ出た、琥珀色の澄んだ上澄み液（上汁）を味見したところ、非常に美味しく上品だったことから、料理の色を邪魔しない調味料として生み出されたという偶然の産物です"
-        },
-        "groundingChunkIndices": [
-          4,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4775,
-          "endIndex": 4881,
-          "text": "* **出典・根拠**  \n  * 愛知県味噌溜醤油工業協同組合『しろしょうゆについて』"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4775,
-          "endIndex": 4948,
-          "text": "* **出典・根拠**  \n  * 愛知県味噌溜醤油工業協同組合『しろしょうゆについて』  \n  * ヤマシン醸造株式会社『白しょう油を知る』"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5020,
-          "endIndex": 5025,
-          "text": "28』"
-        },
-        "groundingChunkIndices": [
+          6,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 5165,
-          "endIndex": 5315,
-          "text": "* **理由（仕組み）**  \n  八丁味噌は、米麹や麦麹を一切使わず、**「丸大豆・塩・水」のみ**を原料に仕込みます"
+          "startIndex": 3806,
+          "endIndex": 3945,
+          "text": "さらに正保元年（1644年）、幕府が水害防止の堤防を築いて海から遮断したことで湖沼に姿を変えました"
         },
         "groundingChunkIndices": [
-          10,
+          6,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 5318,
-          "endIndex": 5658,
-          "text": "水分をごくわずかに抑え、2年以上の春夏秋冬（二夏二冬）を越えて天然醸造させるため、大豆のたんぱく質がアミノ酸へ、微量の糖が分解され、メイラード反応によってメラノイジンという濃褐色の色素が極限まで生成され、黒褐色の色合いになります"
+          "startIndex": 3948,
+          "endIndex": 4086,
+          "text": "分類上は「天然湖沼」でありながら、実態は江戸幕府による大土木工事の副産物として誕生した湖です"
         },
         "groundingChunkIndices": [
-          7,
+          6,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4090,
+          "endIndex": 4196,
+          "text": "* **根拠・出典**  \n  * 油ヶ淵水質浄化促進協議会『油ヶ淵の誕生と移り変わり』"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4090,
+          "endIndex": 4275,
+          "text": "* **根拠・出典**  \n  * 油ヶ淵水質浄化促進協議会『油ヶ淵の誕生と移り変わり』\n  * 国土交通省 中部地方整備局『日本の川 矢作川の歴史』"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4406,
+          "endIndex": 4597,
+          "text": "* **理由（疑問の背景）**  \n  安城市はかつて「日本のデンマーク（日本デンマーク）」と称され、全国の教科書にも載るほど有名になりました"
+        },
+        "groundingChunkIndices": [
           12,
-          13,
-          14
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 5661,
-          "endIndex": 5907,
-          "text": "一般的な米味噌は「揮発性の高い香り」が命のため煮立たせると風味が飛びますが、豆味噌は熱に強い「旨味（グルタミン酸など）」が主成分であるため、煮込むほどコクが増します"
-        },
-        "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5911,
-          "endIndex": 6105,
-          "text": "* **具体的な数字や比較**  \n  米味噌の熟成期間が数ヶ月〜1年程度であるのに対し、八丁味噌は**足掛け2年以上（二夏二冬）**じっくり寝かせます"
+          "startIndex": 4600,
+          "endIndex": 4753,
+          "text": "しかし、本家デンマークの主産業が「酪農」であるのに対し、当時の安城は酪農中心のまちではありませんでした"
         },
         "groundingChunkIndices": [
           13
@@ -530,92 +474,95 @@
       },
       {
         "segment": {
-          "startIndex": 6108,
-          "endIndex": 6279,
-          "text": "さらに、仕込みの巨大木桶（内容量約6トン）の上には、職人の手作業で**約3トンもの天然の川石**が円錐状に積み上げられます"
+          "startIndex": 4756,
+          "endIndex": 4822,
+          "text": "なぜ安城がデンマークに例えられたのでしょうか"
         },
         "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6282,
-          "endIndex": 6387,
-          "text": "水分が少ない味噌全体に均等に圧力をかけ、均一に熟成させるための知恵です"
-        },
-        "groundingChunkIndices": [
+          14,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 6508,
-          "endIndex": 6750,
-          "text": "絶妙な重心バランスを保つ特殊な技術により、大きな地震が起きても崩落しない構造になっており、この石積みを一人前に組めるようになるには約10年の修業が必要とされています"
+          "startIndex": 4826,
+          "endIndex": 5197,
+          "text": "* **具体的な数字や比較**  \n  明治用水の開通後、秋に水門を閉めると水田が乾いて畑になるという台地の性質を生かし、安城では米作の裏作として麦や野菜を育て、さらに養鶏・養蚕・果樹を組み合わせた「多角形農業（平行線・三角形・四角形農業）」が急速に発展しました"
         },
         "groundingChunkIndices": [
-          13
+          12,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6754,
-          "endIndex": 6970,
-          "text": "* **歴史の裏話**  \n  八丁味噌の名は、徳川家康が生まれた岡崎城から西へ「八丁（約870m）」離れた八丁村（現・岡崎市八帖町）で作られていたことに由来します"
+          "startIndex": 5200,
+          "endIndex": 5410,
+          "text": "大正15年（1926年）に雑誌『農政研究』が「日本の丁抹（デンマーク）号」と銘打って碧海郡の先進的な農業を特集したことで、全国にこの名が定着しました"
         },
         "groundingChunkIndices": [
-          15,
+          14,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 6973,
-          "endIndex": 7105,
-          "text": "東海道と矢作川の水運が交わる交通の要衝で、良質な大豆と吉良の塩が手に入りやすい土地でした"
+          "startIndex": 5414,
+          "endIndex": 5566,
+          "text": "* **意外な点・歴史の裏話**  \n  デンマークになぞらえられた理由は、作物の種類ではなく「社会の仕組み」でした"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 7108,
-          "endIndex": 7237,
-          "text": "水分が極めて少なく長持ちすることから、戦国時代には武士の貴重な兵糧として重宝されました"
+          "startIndex": 5569,
+          "endIndex": 5950,
+          "text": "愛知県立安城農林学校の初代校長・山崎延吉らが指導した「農民自らが産業組合を結成して肥料の共同購入や農産物の共同出荷を行う組織力」や「実践的な農民教育」が、当時世界屈指の協同組合先進国として知られていたデンマークの理想的な農村像と完全に一致していたためです"
         },
         "groundingChunkIndices": [
-          14
+          14,
+          12,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 7241,
-          "endIndex": 7320,
-          "text": "* **出典・根拠**  \n  * カクキュー八丁味噌『味噌の豆知識』"
+          "startIndex": 5953,
+          "endIndex": 6175,
+          "text": "昭和初期の全盛期には、安城の近代農業モデルを視察しようと全国から人が押し寄せ、安城駅前には旅館や飲食店、映画館がずらりと並ぶほどの賑わいを見せました"
         },
         "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7241,
-          "endIndex": 7423,
-          "text": "* **出典・根拠**  \n  * カクキュー八丁味噌『味噌の豆知識』  \n  * まるや八丁味噌・カクキュー取材資料（岡崎市観光推進協議会資料等）"
-        },
-        "groundingChunkIndices": [
+          12,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 7241,
-          "endIndex": 7558,
-          "text": "* **出典・根拠**  \n  * カクキュー八丁味噌『味噌の豆知識』  \n  * まるや八丁味噌・カクキュー取材資料（岡崎市観光推進協議会資料等）  \n  * マルコメ株式会社 研究開発室『味噌の色を変えるものの正体とは メイラード阻害物質の探究』"
+          "startIndex": 6179,
+          "endIndex": 6313,
+          "text": "* **根拠・出典**  \n  * 安城市公式ホームページ『広報あんじょう 2024年5月号 日本デンマークって？』"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6316,
+          "endIndex": 6391,
+          "text": "* 安城市歴史博物館『安祥文化のさと 日本デンマーク』"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6316,
+          "endIndex": 6527,
+          "text": "* 安城市歴史博物館『安祥文化のさと 日本デンマーク』\n  * 一般社団法人 農業農村整備情報総合センター（水土の礎）『命を育む明治用水 日本デンマーク』"
         },
         "groundingChunkIndices": [
           12
@@ -623,150 +570,173 @@
       },
       {
         "segment": {
-          "startIndex": 7689,
-          "endIndex": 7829,
-          "text": "* **理由（仕組み）**  \n  伝統的な本みりんは、「もち米・米麹・本格焼酎」のみを原料として造られます"
+          "startIndex": 6664,
+          "endIndex": 6825,
+          "text": "* **理由（疑問の背景）**  \n  仙台・平塚と並ぶ「日本三大七夕」の一つとして親しまれてきた「安城七夕まつり」ですが"
         },
         "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7832,
-          "endIndex": 8081,
-          "text": "日本酒造りでは酵母が糖を食べてアルコールと炭酸ガスを作りますが、みりんは最初から度数約40％の焼酎を投入するため、酵母が活動できず**アルコール発酵が完全にストップ**します"
-        },
-        "groundingChunkIndices": [
-          17,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 8084,
-          "endIndex": 8351,
-          "text": "その一方で、米麹の酵素（アミラーゼ）だけは働き続け、蒸したもち米のデンプンを徹底的に「ブドウ糖やオリゴ糖」へと分解（糖化）するため、砂糖を加えなくても濃厚な自然の甘みが生まれます"
+          "startIndex": 6904,
+          "endIndex": 6940,
+          "text": "へと大きく転換しています"
         },
         "groundingChunkIndices": [
-          17,
           19,
-          18
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 8355,
-          "endIndex": 8638,
-          "text": "* **具体的な数字や比較**  \n  砂糖（ショ糖）の甘みが直線的でキレのある甘さであるのに対し、本みりんは糖化によって生まれるブドウ糖や各種オリゴ糖など**9種類以上の複合うま味・糖分**で構成されています"
+          "startIndex": 6943,
+          "endIndex": 7041,
+          "text": "単なるPR用の標語ではなく、れっきとした実態に基づいた理由があります"
         },
         "groundingChunkIndices": [
-          20,
-          21,
-          19
+          19,
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 8641,
-          "endIndex": 8761,
-          "text": "この複雑な糖とアミノ酸が、料理の素材に上品な甘みと美しい「照り・ツヤ」を与えます"
+          "startIndex": 7045,
+          "endIndex": 7255,
+          "text": "* **具体的な数字や比較**  \n  1954年（昭和29年）に第1回が開催された安城七夕まつりは、毎年8月第1週末の3日間に開催され、約100万人前後の人出で賑わいます"
         },
         "groundingChunkIndices": [
-          21,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8765,
-          "endIndex": 8996,
-          "text": "* **意外な点**  \n  現在でこそ調味料の代名詞ですが、戦国時代から江戸時代前期にかけては、女性や下戸にも好まれた**「高級な甘口の飲み酒」**として楽しまれていました"
-        },
-        "groundingChunkIndices": [
-          21,
-          22,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8999,
-          "endIndex": 9152,
-          "text": "江戸時代後期になって鰻の蒲焼のタレや蕎麦つゆに使われ始めたことで、料理調味料としての地位を確立しました"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9156,
-          "endIndex": 9383,
-          "text": "* **歴史の裏話**  \n  三河地方（碧南市など）は矢作川水系の良質な水ともち米、知多半島の醸造技術が融合し、江戸時代から本みりん造りの一大拠点として発展しました"
-        },
-        "groundingChunkIndices": [
-          24,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9386,
-          "endIndex": 9596,
-          "text": "みりん粕は「こぼれ梅」と呼ばれ、白くポロポロとした形状が満開の梅の花に似ていることから、風情あるおやつや漬物床として古くから親しまれています"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9600,
-          "endIndex": 9715,
-          "text": "* **出典・根拠**  \n  * 杉浦味淋株式会社（愛櫻）『三河みりんの原料と糖化の仕組み』"
-        },
-        "groundingChunkIndices": [
-          26,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9600,
-          "endIndex": 9791,
-          "text": "* **出典・根拠**  \n  * 杉浦味淋株式会社（愛櫻）『三河みりんの原料と糖化の仕組み』  \n  * 甘強酒造株式会社『みりんについて・歴史と違い』"
-        },
-        "groundingChunkIndices": [
+          18,
+          19,
           21
         ]
       },
       {
         "segment": {
-          "startIndex": 9600,
-          "endIndex": 9873,
-          "text": "* **出典・根拠**  \n  * 杉浦味淋株式会社（愛櫻）『三河みりんの原料と糖化の仕組み』  \n  * 甘強酒造株式会社『みりんについて・歴史と違い』  \n  * 三菱商事ライフサイエンス『味な話：みりんについて』"
+          "startIndex": 7258,
+          "endIndex": 7401,
+          "text": "色鮮やかな約1,000本もの竹飾りが立ち並び、その「竹飾りのストリートの長さ」は日本一といわれています"
         },
         "groundingChunkIndices": [
-          22
+          19,
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 11040,
-          "endIndex": 11153,
-          "text": "今でも1本1本職人さんの手作業で3.6メートルまで丁寧に延ばされているんですよ！」"
+          "startIndex": 7405,
+          "endIndex": 7675,
+          "text": "* **意外な点・歴史の裏話**  \n  もともとこの祭りは、戦後の落ち着かない空気を吹き飛ばし商店街を活性化させようと、1954年に当時の安城駅周辺の商店主たちが自前で始めた「市民発信の祭り」でした"
         },
         "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7678,
+          "endIndex": 8105,
+          "text": "三大七夕の枠にとどまらず、「日本一長い竹飾りストリート」に加えて「短冊の数」や「願いごとに関する参加型イベントの数」でも名実ともに日本一を目指そうと、2009年に「願いごと広場」の開設や公式キャラクター「きーぼー」の導入など、市民・来場者が願いを託す参加型フェスティバルへと進化を遂げました"
+        },
+        "groundingChunkIndices": [
+          19,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8109,
+          "endIndex": 8279,
+          "text": "* **根拠・出典**  \n  * 安城七夕まつり協賛会 公式サイト『安城七夕まつりの歴史』『「日本三大」から「願いごと日本一」へ』"
+        },
+        "groundingChunkIndices": [
+          18,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8109,
+          "endIndex": 8347,
+          "text": "* **根拠・出典**  \n  * 安城七夕まつり協賛会 公式サイト『安城七夕まつりの歴史』『「日本三大」から「願いごと日本一」へ』\n  * 安城市役所『第70回安城七夕まつり 開催報告』"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8491,
+          "endIndex": 8598,
+          "text": "* **問題**  \n  安城市和泉町出身の偉人で、明治用水の計画を立てた都築弥厚さん"
+        },
+        "groundingChunkIndices": [
+          2,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8601,
+          "endIndex": 8721,
+          "text": "水路を通すための測量を始めた際、近隣の農民たちから激しい反対にあってしまいました"
+        },
+        "groundingChunkIndices": [
+          2,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8823,
+          "endIndex": 9170,
+          "text": "* 1番：旅の行商人（商人）に変装して測量した\n  * 2番：反対する人が寝静まった「真夜中」にこっそり測量した\n  * 3番：測量機械を「凧揚げのオモチャ」だと嘘をついてごまかした\n* **正解**  \n  **2番：反対する人が寝静まった「真夜中」にこっそり測量した**"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8823,
+          "endIndex": 9422,
+          "text": "* 1番：旅の行商人（商人）に変装して測量した\n  * 2番：反対する人が寝静まった「真夜中」にこっそり測量した\n  * 3番：測量機械を「凧揚げのオモチャ」だと嘘をついてごまかした\n* **正解**  \n  **2番：反対する人が寝静まった「真夜中」にこっそり測量した**\n* **解説トークのポイント**  \n  当時は「水路を通すと水害が起こるのでは」「自分たちの土地が減るのでは」と恐れた農民たちの妨害が厳しく、昼間に測量をすることができませんでした"
+        },
+        "groundingChunkIndices": [
+          2,
           0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9425,
+          "endIndex": 9657,
+          "text": "そこで弥厚は高棚村の数学者・石川喜平とともに、人々が寝静まった深夜にひそかに器具を持ち出し、暗闇の中で5年もの歳月をかけて測量図を完成させたといわれています"
+        },
+        "groundingChunkIndices": [
+          0,
+          5,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9660,
+          "endIndex": 9807,
+          "text": "私財を投げうち、夜を徹して地域の未来を切り拓こうとした情熱が、現在の豊かな西三河の礎になっています"
+        },
+        "groundingChunkIndices": [
+          2,
+          5
         ]
       }
     ],
     "webSearchQueries": [
-      "本みりん なぜ甘い 砂糖 米 麹 糖化 三河みりん",
-      "八丁味噌 なぜ黒い メイラード反応 二夏二冬 岡崎",
-      "和泉そうめん 安城市 特徴 製法 歴史 半生 農水省",
-      "白醤油 発祥 碧南市 なぜ白い 小麦 大豆 違い"
+      "安城 日本のデンマーク 理由 由来 多角農業",
+      "明治用水 都築弥厚 碧海台地 安城が原 歴史",
+      "油ヶ淵 愛知県 唯一 天然湖沼 歴史 矢作川",
+      "安城七夕まつり 歴史 きっかけ 日本一"
     ]
   }
 }
