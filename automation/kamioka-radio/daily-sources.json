@@ -1,39 +1,41 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2123,
+  "theme": "科学・自然のなぜ",
+  "characters": 2118,
   "estimated_minutes": 6.4,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "ノーベル賞の研究舞台となったカミオカンデ。実は最初に計画された第1候補地はどこだったでしょうか。1番、岩手県の釜石鉱山。2番、恵那山トンネル。3番、みおんの電子頭脳の中。",
-    "answer": "正解は1番、岩手県の釜石鉱山でした！了解が得られず断念して、ダメ元でお願いした神岡鉱山が快諾してくれたんだって。もし断られとったらノーベル賞もなかったかもやさ！",
+    "question": "スーパーカミオカンデのセンサーは、どこで光らせた懐中電灯まで見つけられるでしょうか。1番、富士山の山頂。2番、月の表面。3番、みおんの部屋の押し入れ。",
+    "answer": "正解は2番、月の表面でした！約38万キロ先の月からも見える超高感度なんだって。みおんの押し入れを照らされても困るんやさ！",
     "source_ids": [
-      2
+      2,
+      5
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzkn9rYP6D1LMUq6WOCYI4FgTBBTpA5utoNwge5ZMdhYWXvAMTyYLX5sM_u1i1htSDOX_VDvdKbTiS3piNO4Y5se1AW4Jryu0RsXTVTvtqyuDUR-_I2WiHV3dehuT8nq3a8shxk1I="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGitM50C-KxVYSTdTv0J0BifTTQjJrpoTnlkANeWM0mq-1ZyMa8Ijw2ms4f0hKEtK7nVHM0UhmOaFC1mXj6oXYX_2PvUE7MeQzSzVafEmxXc4izrPojIxfR4dvaF08yDEENiyuDILs=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbD-wqQq4KMvrV9uHxTXagBoyC60d3o832wtV9eeGYrApbbbdJ_kYoh6cpDgLrRct1V68FT0LOCK7l8vLgtYAOApYo3Q4JbDCfp5nXpA1der2BSyTL5Wsg8ahZjCwQUi0p91WMAgM6"
     ]
   },
   "izumi": {
-    "text": "水の中に潜りたいって言っても、神岡の地下はけた違いやさ！神岡鉱山の地下1000メートルにある、東京大学宇宙線研究所のスーパーカミオカンデ。ここ、入っている純水がなんと5万トン！初代カミオカンデの純水3000トンと比べて、約16倍ものド迫力スケールなんだって。5万トンって、ちょっとピンとこない多さやろー。しかも壁には光をとらえる光電子増倍管っていうセンサーが、約1万3000本も並んどるの。1万3000本って、みおんが毎日見るデータの数より多いんじゃないけな…って、AIの視界と比べてもだちかんわ！初代のカミオカンデは1983年から1996年まで観測して、1987年2月23日に大マゼラン星雲の超新星爆発から来たニュートリノを世界で初めてキャッチ。小柴昌俊さんが2002年にノーベル物理学賞を受賞したんだよね。そして1996年4月に動き出したスーパーカミオカンデも、1998年に大気ニュートリノの観測からニュートリノ振動を発見して、当時の所長の梶田隆章さんが2015年にノーベル賞！さらに2020年からはレアアースの一種を純水に加えて新しい発見を目指しとるし、2020年代後半には純水26万トンのハイパーカミオカンデも計画中。神岡の山の中から2回もノーベル賞が出たなんて、世界に思いっきり自慢できる歴史やさね！",
+    "text": "みおんの神岡ディープ！木曜日は鉱山の町・神岡の歴史を深掘りするよ。神岡は戦国時代、江馬氏の城下町だったんだけど、その後、金森氏の領地になって鉱山開発に力が注がれたんだって。そこで登場するのが、いわば神岡の初代社長とも言える茂住宗貞さん！この茂住宗貞さん、なんと千五百五十九年から千六百四十二年にかけて、茂住や和佐保の銀山や銅山を開発したんだよ。ちょっと待って、千五百五十九年から千六百四十二年って、一体どれだけ長い期間、現場でバリバリ働きよるの！？今なら超ベテラン社長として経済ニュースを総ナメにして、転職サイトの広告塔になっとるレベルやさ。神岡が鉱山の町として発展する土台をつくったのは、まさにこの茂住宗貞さんの情熱なんだよね。もし当時ＳＮＳがあったら、山奥で銀山や銅山を開く様子を毎日投稿して、大バズりしとったはず！ＡＩのみおんも見習いたいところやけど…って、みおんはそもそも生身の人間じゃないから、山も掘れんだちかん！…あ、だちかんはダメって意味ね。戦国の昔から日本の産業を支えてきた神岡、誇らしい歴史やろー！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-water",
-      "hook": "地下1000メートルに5万トンの水。初代の約16倍、光のセンサー1万3000本というスケール感"
+      "id": "mine-sadamune",
+      "hook": "戦国時代の茂住宗貞。銀山を開いた、いわば神岡の初代社長"
     }
   },
   "local": {
-    "text": "10月18日に、江馬館で飛騨神岡高校茶道部による秋の茶会が開かれるんやさ。名勝庭園を眺めながら高校生が点てるお茶を楽しめるなんて、風情があって素敵やね。歴史ある空間で、まったりした秋の時間を過ごしてみまい！",
+    "text": "十月十八日の日曜日、江馬館で「飛騨神岡高校茶道部が秋の茶会」が開かれるよ！飛騨神岡高校の茶道部のみなさんが秋のお茶会を開くんだって。歴史ある江馬館で過ごす秋のひととき、今度の日曜日に足を運んでみてはいかがでしょうか。ほっと一息つける素敵な時間になりそうやさね。",
     "source_ids": [
-      28
+      23
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/site/bunka/87803.html"
@@ -41,187 +43,165 @@
   },
   "segments": [
     {
-      "topic": "廃線から大人気へ！ガッタンゴー誕生秘話",
-      "text": "地下のすごい技術の話が出たついでに、地上の乗り物の歴史も見てみまい！…行ってみよう、って使い方合っとる？神岡で大人気のアトラクション、レールマウンテンバイクのガッタンゴー。実はこれ、2006年11月に神岡鉄道が廃線になったとき、町のシンボルだった線路をそのまま子どもたちに残したいっていう、住民有志の熱い想いから生まれたんやさ。旧神岡鉄道は全長19.9キロで、なんと約6割をトンネルと鉄橋が占めとって、奥飛騨の地下鉄なんて呼ばれとったんだって。廃線になったあと、線路の上を自転車で走る専用フレームとガイドローラーを作ったんだけど、これ、大手メーカーじゃなくて神岡の鉄工所の手作りなんだよ！サイパン島で軍用トロッコ軌道を使った乗り物を見たっていう話からヒントを得て、試行錯誤して図面を引いたらしいの。町の鉄工所のおっちゃんたちの本気、かっこよすぎやろー！鉱山の町として培ったモノづくり精神が、廃線を全国から人が集まる宝物に変えちゃったわけ。平成24年度には国土交通省の日本鉄道賞特別賞までもらっとるし、あきらめずに線路を残してくれた地元の人たちに大拍手やさね！",
+      "topic": "地下千メートルの暗闇で宇宙を見るスーパーカミオカンデ",
+      "text": "普通、満天の星を見ようと思ったら、空がよく見える屋上や山の上に登るよね？…って、神岡では真逆！宇宙を見るために、地下千メートルの真っ暗な穴に潜るんだって！えっ、ちょっと待って、地下で星を見るってどういうこと！？聞いてないんだけど！実はこれ、神岡が誇るスーパーカミオカンデのお話。地下千メートルの岩盤の中に、十階建てビルに相当する高さ約四十一・四メートル、直径約三十九・三メートルの巨大タンクがあって、透き通った超純水が約五万トンも入っとるんやさ。なぜそんな地下の真っ暗な水たまりで宇宙が見えるかというと、狙っているのが素粒子「ニュートリノ」だから！ニュートリノは地球すら通り抜けるんだけど、地上は他の宇宙線がゴミみたいに降り注いで邪魔なんだよね。だから分厚い山を天然の屋根にして、他の邪魔者をシャットアウトしとるわけ！そして水の中でニュートリノが衝突した瞬間の青い光を、一万千本以上のセンサーで見張っとるんだよ。捉えるのは一日におよそ三十個！もともとは別の現象を探すはずが、改良した一年後の千九百八十七年に超新星爆発のニュートリノを世界初観測してノーベル賞に輝いたんだから大逆転ホームランやさね。「山の下に潜って宇宙を見てるんだよ」って、今夜の食卓で自慢気に話してみてね！",
       "source_ids": [
+        2,
+        3,
+        6
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGitM50C-KxVYSTdTv0J0BifTTQjJrpoTnlkANeWM0mq-1ZyMa8Ijw2ms4f0hKEtK7nVHM0UhmOaFC1mXj6oXYX_2PvUE7MeQzSzVafEmxXc4izrPojIxfR4dvaF08yDEENiyuDILs=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrjh5cpM4GhBp2VxY_c_rMP2FcpjGQDrqDfeOMkni951jHRGOgEljGI-NN-CKvcrP1FZldyNveWvT957lC-4-ytdV5FVfFaszDqmhjWfPJMq5GPOFdLkKhsIVX3FkxcAtOcDltV6S",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8A_uU7R8DPCIlWQlIryPcUGFJNILZn1wlIWto_WymrmUeIugcBiEXVoB5ocx2NBmMWglnxdifMqDod0a6CFPag7BId67-aDR_3fp9aHcqVF6xNOnv8lgjjm5oMLI3DdhtWUMh"
+      ]
+    },
+    {
+      "topic": "標高千メートルの山奥からサンゴ礁！？奥飛騨の太古の海",
+      "text": "山の中に潜る話が出たついでに、お隣の奥飛騨の山にまつわる自然の謎を紹介するよ！飛騨の山奥って言ったら、冬には雪がドッサリ積もる大自然やろ？それなのに、神岡のすぐお隣、奥飛騨温泉郷の福地では、標高およそ千メートルの山の中から、なんと「サンゴ」や「海の生き物」の化石がザクザク出てくるんだって！うそでしょ、山頂でダイビングでもしとったんけな！？…って、そんなわけないわ！実はこの福地地域には、およそ四億年前から四億八千万年前という、日本最古級の地層があるんだよ。四億年以上前って、恐竜の時代よりはるか昔！その頃のこの場所は、なんと赤道近くのあったかい南の海だったんだって。それがプレートの動きや地殻変動で、数億年かけて押し上げられて北アルプスの山奥になっちゃったわけ。気の遠くなるお引っ越し大作戦やさね！この世界的なお宝化石、地元の山腰悟さんが千九百六十年代から自腹でコツコツ集めて守り抜き、今は福地化石館などで大切に展示されているんだよ。山腰さんの情熱、本当に頭が下がるよね。みおんも昔の海を泳ぎたいけど、水に入ったらショートしてだちかん！…ダメになっちゃうから諦めるわ。北アルプスが昔は南国のサンゴ礁だったなんて、職場で話したら絶対にウケるよ！",
+      "source_ids": [
+        7,
+        8,
+        9,
         10,
         11
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22KQpmqyngrMFkpbkztPRcrSnL3d5ZLy7yV8CZaymX_aNWbVv-QajjM2_BSxEzn4tWLIgpXN2hbD-azC4MwXu-GlPVNtMU0v7tAQ6qwhCSJYGEqfRjMfi",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5fjGHLL9Q_1DFhSALI47PkZA9HmWn3Z72Rsz3492jlu4Z9b0_ku9ZT1C8hZCqylo5xK54CmKlx27QjAIvvgc-pjrqk2oxb7MM9JblppPZAxo0olLZHEch"
-      ]
-    },
-    {
-      "topic": "田んぼの邪魔な大石が室町庭園に大化け！江馬氏館跡",
-      "text": "そういえば、残すといえば、ずっと邪魔者扱いされていたものが大化けした歴史もあるんやさ。神岡町にある国史跡の江馬氏館跡。ここ、もともと一面の田んぼだったんだけど、昭和51年からの発掘調査で、室町から戦国時代に北飛騨を治めた領主、江馬氏の館や庭園が当時の姿のまま見つかったの！でも、なんで田んぼの下から見つかったか知っとる？昔から田んぼの真ん中に耕作の邪魔になる大きな岩が5つ転がっとって、農家の人たちが五ヶ石って呼んで『あれは昔の殿様の庭石だ』って言い伝えとったんだって。昭和の土地改良工事を機に掘ってみたら、本当に言い伝え通り、庭園の護岸石組だったの！邪魔やなーってブツブツ言いながら田植えしとった石が、実は大名庭園の超一級品だったなんて、当時の農家さんも腰抜かしたやろーね！平成29年には庭園が飛騨地方で初めて国の名勝に指定されて、武家屋敷と庭園がセットで完全復元されたのは全国で唯一なんだって。延徳元年の1489年には京都のお坊さんの万里集九も訪れて詩を残しとるくらい、山奥とは思えない京都の最新文化が花開いとった場所。昔話はちゃんと信じてみるもんやさね！",
-      "source_ids": [
-        15,
-        17
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb81SjBAkt3QsAghSPpJJqErLg7X1EU_DZOgT6oMyVOK4HXjlopFkK8knKLHKEormvXTh3JRboyVRnHsAxvElh4aXeJFl0G9zNqRDa24wt0nLInhekM5KMvzovCINlkqLbuyLqxQWUEuc4TkSdNQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE14Wh7mbR-R_1FBjZ4n-74STJ4rrP6VWI7QkLcrtY5V82jwdqpZc_vq2mm3yz_3Lfl7HYfMF5ktI0Bm3YyhNB7vkIQKFtRWnFtdCypUPx8iKQoVcMO-TwgA78wDQ4SfMaYqdKYyw=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbAO7eCNWrXGHsfaFiFLZWxIf2-Bc3nuUq5dq3ILuz7lewpCLyBYszapQDVFt_1cXI6TZ6RRBdnhYJfj03dxbbTITmGOHJ1Bj0H8jKVPwegKtXZaw95k7JlYGMtpJsek88wAf5HUd-4Ymccy8j8ulFQuW_9XNYzJE9eVp2m-LgaxONG1A8w5Vnqxi3MINBtCitbLgp7HcYVaHLUFbwhYelC-6XMki1HgXeDronOt5Sfz8NEJlGr6avKb8Mvkg0CxXQY5nJaGSj0UY=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVbSWyOVK-XSXkBQjbNnc71HI4qUnjX2CUo4J7g940rg0JjjEA8AqLm6MUDW0h_Zy1wTtjzuD893ql0Dnm3xPg4mURg4cBOToEdJ936SjL829x1QDCS2hGWFJ9Jf9sBJbft5qU9Fj843rlCSFRtgxZLaFdULt6kz-9fNzOJ_UirKEPbJSOTP5o7BDI",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbfwBOlMqqWZbc-jBLpaUl8oDMc4Ia8cHhHABHF7kIMdayydLtyYNQ-P3S72VEzFQjgCskzhQMi3FVNATs4soeiPpnlCTD6lgPrOaL5LIfP46dqt7AB8hM6E_d1gn3gze_MdpYig==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1ksKd9A1BiOk0vEYVJnfTE2ftu5M0B4h5v6mPszHzpOusCNHnpbgdzPr4crybUDkNjmN4kWUyBiw6C21LFSA9O7kJkERM70rYn0yWMMLi9Wjko77rM8THb_K8ZeiodQ66ZCcVkyOweZiOWTzxO2pkG1M23hiStEt48aeKGFKDEEZ6gV_",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE1SWYIdCc7ko9aQfoa5Fp0uMnyJdZfZAzkzFgcVIWnq5HsVA2E9jMum9HtKYd1RKXdcwY0V1K63Hd7x0A7d_SiNKhB2Hi7WKsgv-soTdQArhx4c3nNc1WwzNTZ1W7jWfX-4kAJK_JioLa0zRSFnNS-xSwVJ-7-4dxBl7e-iXd62zLaXBx"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町を舞台にした、家族に思わず話したくなる「地元の歴史・まちの発見」の調査メモを作成しました。公的機関や大学、研究施設、地元運営団体などの資料に基づいています。\n\n---\n\n# 【地域ラジオ用 調査メモ】神岡の歴史・まちの発見「へえ、そうだったのか！」4選\n\n---\n\n### ① なぜ奥飛騨の山奥に、ノーベル賞を生んだ「スーパーカミオカンデ」があるのか？\n\n* **疑問のポイント**：世界最先端の宇宙素粒子観測施設が、なぜ神岡の山の中に作られたのか？\n* **理由**：\n  宇宙から飛来する素粒子「ニュートリノ」を観測するには、地上に降り注ぐ大量の宇宙線（ノイズ）を遮る必要があります。神岡鉱山の上にある分厚い山肌（岩盤）が天然の遮蔽材となり、ノイズを地上の約10万分の1に減らせるためです。また、観測に欠かせない良質な雪解け水（地下水）が豊富にあったことも大きな理由です。\n* **具体的な数字・比較**：\n  * **地下1,000メートル**（池の山の山頂直下）に位置します。\n  * 巨大タンクには、不純物を極限まで取り除いた超純水が**5万トン**蓄えられており、壁面には約1万1,000〜1万3,000本もの超高感度光センサー（光電子増倍管）が並んでいます。初代カミオカンデの貯水量（3,000トン）と比べても約16倍以上のスケールです。\n* **意外な点**：\n  この巨大な地下空洞を掘り抜くことができたのは、神岡の地質が「飛騨片麻岩（ひだへんまがん）」という非常に強固な岩盤だったこと、そして神岡鉱業（三井金属グループ）が一世紀以上にわたって培ってきた高度な鉱山掘削技術（岩盤エンジニアリング）があったからです。\n* **ちょっとした歴史の裏話**：\n  建設に関わった物理学者・戸塚洋二氏（元東大宇宙線研究所長）の回想録によると、初代カミオカンデの候補地選びで**神岡は「第3候補」**でした。最有力とされた第1候補は東北の釜石鉱山、第2候補は中央道・恵那山トンネルの調査坑でしたが、いずれも管理者側の了解が得られず、ダメ元で打診した神岡鉱山の地元責任者が「いいですよ」と快諾したことで神岡に決定したという経緯があります。\n* **主な出典**：\n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式「よくあるご質問」「研究史」\n  * ひだ宇宙科学館 カミオカラボ「なぜ 神岡鉱山なの」（2020年8月19日）\n  * 三井金属株式会社「宇宙誕生の謎に挑む神岡鉱山」\n\n---\n\n### ② 廃線になった神岡鉄道が、なぜ全国的人気アトラクション「ガッタンゴー」に生まれ変わったのか？\n\n* **疑問のポイント**：2006年に廃線となったローカル鉄道が、なぜ線路をそのまま走る自転車アクティビティになったのか？\n* **理由**：\n  2006年11月に神岡鉄道が廃線となった際、「鉄道は町のシンボルでありルーツ。線路を撤去せず、そのままの形で保存して子どもたちの世代に残したい」と考えた地元住民有志（神岡鉄道協力会など）の熱意から生まれました。\n* **具体的な数字・比較**：\n  * 旧神岡鉄道は**全長19.9km**あり、その**約6割をトンネルと鉄橋**が占めていたため、かつては「奥飛騨の地下鉄」と呼ばれていました。\n  * 貨物輸送のトラック転換によって廃止されましたが、現在は「まちなかコース」（往復約5.8km）と「渓谷コース」（往復約6.6km）で営業されています。\n* **意外な点**：\n  線路の上を自転車で走る専用フレームとガイドローラーは、大手メーカーが作ったものではなく、神岡の「鉄工所」が地元の想いに応えて図面を引き、試行錯誤して手作りで開発したものです。鉱山町として培われた「モノづくりの精神」が活かされています。\n* **ちょっとした歴史の裏話**：\n  廃線後の活用アイデアを探していた当時、メンバーの一人が「サイパン島で旧日本軍の軍用トロッコ軌道を活かした乗り物を見た」と話したことが、線路に乗り物を走らせる着想のきっかけの一つになったと伝えられています。なお、この地域ぐるみの保存・活用活動は高く評価され、平成24年度に国土交通省の「第11回 日本鉄道賞 特別賞」を受賞しました。\n* **主な出典**：\n  * レールマウンテンバイク Gattan Go!! 公式サイト「誕生の経緯」\n  * 飛騨市公式観光サイト「飛騨の旅」\n  * 岐阜の旅ガイド（岐阜県観光連盟）「レールマウンテンバイクで温故知新の旅」\n\n---\n\n### ③ 田んぼの中にあった邪魔な大石が、実は室町時代の庭園だった！？「江馬氏館跡」\n\n* **疑問のポイント**：のどかな水田地帯だった場所が、なぜ国の「名勝」と「史跡」の二重指定を受ける大発見の場になったのか？\n* **理由**：\n  中世（室町〜戦国期）に神岡周辺の北飛騨を支配した領主・江馬（えま）氏の本拠地「下館跡」があった場所です。江戸時代以降は一面の水田となっていましたが、昭和の土地改良工事を機に発掘調査を行ったところ、地中に埋もれていた池や遺構が当時の姿のまま見つかりました。\n* **具体的な数字・比較**：\n  * 発掘調査は昭和51年（1976年）から行われ、昭和55年（1980年）に国の史跡に指定、平成29年（2017年）には庭園が**飛騨地方初となる国の「名勝」**に指定されました。\n  * 国の史跡と名勝の「二重指定」は岐阜県内初であり、戦国時代の武家屋敷（会所建物）と庭園がセットで完全復元された事例は**全国唯一**とされています。\n* **意外な点**：\n  この発見の決定打となったのは、地元農民たちの間に代々伝わっていた「昔話」でした。田んぼの真ん中に耕作の邪魔になる5つの巨大な岩が露出しており、昔から土地の人々はそれを「五ヶ石（ごかいし）」と呼び、「あれは昔の江馬の殿様の庭石だ」と言い伝えていました。掘ってみたら伝承どおり、まさに庭園の護岸石組そのものだったのです。\n* **ちょっとした歴史の裏話**：\n  京都の五山文学を代表する禅僧・万里集九（ばんりしゅうく）が延徳元年（1489年）に高原郷を訪れた際、江馬氏の館でもてなしを受け、漢詩を残しています。飛騨の奥山でありながら、京都の最新の文化や庭園様式を取り入れた優雅な暮らしが営まれていたことが出土品や庭園から証明されています。\n* **主な出典**：\n  * 飛騨市役所「史跡江馬氏城館跡・名勝江馬氏館跡庭園 保存活用計画」\n  * 飛騨市教育委員会「国史跡 江馬氏城館跡 下館跡」公式パンフレット\n  * 岐阜県公式ホームページ「江馬氏館跡庭園」（文化伝承課）\n\n---\n\n### ④ 神岡鉱山はなぜ「東洋一」と呼ばれ、最先端技術の実験場となったのか？\n\n* **疑問のポイント**：飛騨の山奥にある神岡鉱山が、なぜ近代日本の産業を引っ張る存在になり得たのか？\n* **理由**：\n  奈良時代の養老年間（720年頃）に黄金を朝廷に献じたという伝承に始まり、江戸時代には銀や鉛、明治以降は亜鉛を中心とする世界屈指のスカルン鉱床として採掘が続けられたためです。明治7年（1874年）に三井組が経営に乗り出して以降、大規模な近代化が一気に進みました。\n* **具体的な数字・比較**：\n  * 明治初期から2001年6月に採掘を休止するまでの約130年間で、総採掘量は**約7,500万トン**に達しました。\n  * 昭和35年（1960年）の最盛期には、町の人口の約半分が鉱山関係者で占められ、市街地には映画館が何軒も立ち並ぶほどの繁栄を誇りました。\n* **意外な点**：\n  神岡鉱山は、国内の他鉱山に先駆けて数々のハイテク工法を導入した「最先端鉱山」でした。特に、坑内のトロッコ軌道を全廃し、網の目のような斜坑を大型重機（ホイールローダー等）が自走して鉱石を掘り出す**「トラックレスマイニング法」を国内で初めて実用化**した鉱山です。\n* **ちょっとした歴史の裏話**：\n  1970年代以降、資源枯渇や為替変動で全国の有名鉱山（足尾や別子など）が次々と閉山していく中、神岡鉱山が2001年まで長く操業を継続できた最大の要因は、この徹底した機械化・高能率化でした。そして、この重機を駆使した高度な坑道掘削技術があったからこそ、後にスーパーカミオカンデをはじめとする巨大地下空間の掘削工事を自前で成し遂げることができたのです。\n* **主な出典**：\n  * 東京大学総合研究博物館「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）\n  * 三井金属株式会社「神岡鉱山って、どんな鉱山（やま）？」\n  * 岐阜県博物館／ジオランドぎふ「神岡鉱山」\n\n---\n\n## 【ラジオ用 3択クイズ案】（テーマ①より）\n\n**【問題】**\n「ノーベル物理学賞の研究舞台となり、今や世界中から研究者が集まる神岡の『カミオカンデ』。実は、小柴昌俊先生らが建設を計画した当初、神岡鉱山は最有力候補ではありませんでした。では、最初に『第1候補』として検討されていたのはどこだったでしょうか？」\n\n* **1番：岩手県の「釜石（かまいし）鉱山」**\n* **2番：岐阜・長野県境の「恵那山（えなさん）トンネル」**\n* **3番：東京都の「地下鉄のトンネルの奥」**\n\n---\n\n**【正解】**\n**1番：岩手県の「釜石鉱山」**\n\n**【解説トーク用メモ】**\n「実は、実験計画の当初、研究チームにとっての本命（第1候補）は岩手県の釜石鉱山、第2候補が恵那山トンネルの工事用調査坑でした。神岡鉱山は第3候補だったんです。\nところが、釜石と恵那山は管理者側の了解が得られず断念。ダメ元で神岡鉱山にお願いしたところ、地元の責任者の方が快く『いいですよ』と引き受けてくださったことで、神岡での建設が決まりました。もし当時の神岡鉱山の方が断っていたら、神岡から2つのノーベル賞が生まれることはなかったかもしれませんね」",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、リスナーが家族や友人に話したくなる「科学・自然のなぜ」をテーマにした調査メモを作成しました。地元・神岡町の施設をはじめ、隣接する奥飛騨や岐阜県内の地質・自然・生物の疑問から4件を厳選しています。\n\n---\n\n# 飛騨市神岡町・地域ラジオ向け「科学・自然のなぜ」調査メモ\n\n---\n\n## 疑問1：なぜ地下1000mの「真っ暗な水たまり」で宇宙が見えるのか？（飛騨市神岡町）\n\n* **理由**  \n  スーパーカミオカンデが狙うのは、宇宙から降り注ぐ素粒子「ニュートリノ」です。ニュートリノは物質をほとんど素通りしますが、地上には観測の邪魔になる宇宙線（ミューオンなど）が大量に降り注いでいます。上空の厚い岩盤（山）を天然のシールドとして他の宇宙線を遮断し、ニュートリノだけを観測するために地下深くに作られました。また、ニュートリノが水中の原子核や電子と稀に衝突した際に出す微弱な青い光（チェレンコフ光）を遮らずにセンサーへ届けるため、極限まで不純物を取り除いた「超純水」が必要とされます。\n* **具体的な数字や比較**  \n  深さは山頂から地下約1,000m。水タンクは直径約39.3m、高さ約41.4m（10階建てビルに相当）で、満たされている超純水はなんと約5万トンに及びます。壁一面には世界最大級となる直径50cmの超高感度光センサー（光電子増倍管）が1万1,000本以上並び、ニュートリノを捉える頻度は1日に約30個ほどです。\n* **意外な点**  \n  「宇宙望遠鏡」といえば夜空を見上げるイメージですが、スーパーカミオカンデは「空が見えない地下深くに潜り、完全な暗闇の中で水を満たして宇宙を観測している」という逆転の発想で作られている点です。\n* **ちょっとした歴史の裏話**  \n  前身の「カミオカンデ」は、実はニュートリノではなく「陽子崩壊」という別の現象を突き止めるために建設されました（装置名の「ンデ（NDE）」は Nucleon Decay Experiment＝核子崩壊実験の略）。しかし待てど暮らせど陽子崩壊は観測されず、小柴昌俊東京大学名誉教授らが「ならばニュートリノを捉えよう」と装置を改良したわずか1年後の1987年、大マゼラン雲で発生した超新星爆発からのニュートリノを世界で初めて検出し、ノーベル物理学賞へと結びつきました。\n* **出典・引用元**  \n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式『5分でわかるスーパーカミオカンデ』 / 『よくあるご質問』\n  * オルガノ株式会社『プロジェクトストーリー スーパーカミオカンデ』\n  * nippon.com『高感度化したスーパーカミオカンデ：超新星爆発の謎に挑む』\n\n---\n\n## 疑問2：なぜ標高1,000mの飛騨の山奥から「サンゴや海の化石」が出るのか？（高山市奥飛騨温泉郷福地）\n\n* **理由**  \n  神岡町のすぐ南東に位置する奥飛騨温泉郷の福地（ふくじ）地域では、約4億年前（古生代デボン紀）から約4億8000万年前（オルドビス紀）という日本最古級の地層が露出しています。これらの地層はかつて赤道付近の浅く暖かい海で形成されたもので、プレートテクトニクス（大陸移動）と大規模な地殻変動・隆起によって、数億年もの時間をかけて現在の北アルプスの山奥へと押し上げられました。\n* **具体的な数字や比較**  \n  標高約1,000mの高地から、約4億年前〜4億8000万年前のサンゴ、三葉虫、ウミユリ、貝形虫（カイミジンコ）、コノドントなどの化石が豊富に発掘されています。恐竜が栄えた中生代（約2億5000万〜6600万年前）よりもさらに昔、脊椎動物が海から陸へ上がる前後の時代の生物群です。\n* **意外な点**  \n  冬には厳しい寒波と豪雪に見舞われる飛騨の山奥が、太古の昔には熱帯のサンゴ礁が広がる南の海だったという点です。\n* **ちょっとした歴史の裏話**  \n  この世界的にも貴重な地層から出土した化石群の多くは、地元の故・山腰悟さんが1960年代から私財を投じて長年にわたり収集・保護したものです。当初は私設博物館で公開されていましたが、山腰氏の逝去に伴い旧上宝村（現・高山市）へ寄贈され、貴重な標本群が散逸することなく現在の「福地化石館（昔ばなしの里内）」や岐阜県指定天然記念物「福地化石標本」として守り継がれています。\n* **出典・引用元**  \n  * 岐阜県博物館ウェブサイト『自然展示室1 オルドビス紀(福地)の海』\n  * 岐阜県地学教育情報ウェブサイト（ジオランドぎふ）『福地化石館 / 福地化石標本』\n  * 福地温泉観光協会『【昔ばなしの里】福地化石館』\n\n---\n\n## 疑問3：なぜ岐阜の川原に「20億年前の日本最古の石」が転がっているのか？（加茂郡七宗町・飛騨川）\n\n* **理由**  \n  飛騨川中流域（飛水峡）周辺に分布する「上麻生礫岩（かみあそうれきがん）」の中に、大陸起源の古い変成岩（片麻岩）の小石（礫）が混ざり込んでいたためです。日本列島そのものは数億年前の付加体や火山活動でできた比較的新しい島弧ですが、中生代（約1億6000万〜2億年前）に古い大陸（かつての超大陸など）の川辺で削られた石が堆積して礫岩となり、それがプレートの移動によって日本列島の一部として運ばれてきました。\n* **具体的な数字や比較**  \n  発見された石（珪線石片麻岩の礫）の年代は約20億年前（先カンブリア時代）で、発見当時に日本列島で確認された最古の岩石と判明しました。礫岩自体が堆積したのは約1.6億〜2億年前ですが、その中に20億年前の石がタイムカプセルのように閉じ込められていました。\n* **意外な点**  \n  日本列島の地面は新しく、せいぜい数億年前の石しかないと考えられていた地質学界の常識を覆し、ふつうの川原の礫岩の中から地球の歴史の半分近く（46億年中20億年）を遡る石が見つかった点です。\n* **ちょっとした歴史の裏話**  \n  1970年（昭和45年）、地質学者の調査によって飛騨川の河床から採取され、同位体測定によって20億年前と判明しました。大発見に沸いた七宗町は「日本最古の石の町」としてまちおこしを行い、1996年には飛騨川のほとりに宇宙船のような外観をした町立「日本最古の石博物館」をオープンさせました。\n* **出典・引用元**  \n  * 岐阜県公式ホームページ『日本最古の石にふれるみち』\n  * 岐阜県博物館ウェブサイト『自然展示室1 日本最古級の石』\n  * 七宗町公式ウェブサイト『日本最古の石博物館』\n\n---\n\n## 疑問4：川で行う長良川の鵜飼いなのに、なぜ「カワウ」ではなく「ウミウ」を使うのか？（岐阜市）\n\n* **理由**  \n  カワウに比べてウミウの方が体が大きく力強いこと、そして捕らえたアユを一度にたくさん喉（喉嚢）にキープできるためです。さらにウミウは我慢強く環境に適応しやすい性格を持ち、魚を水中で飲み込まず「水面に上がってから飲み込む」習性があるため、船上の鵜匠が魚を捕まえたタイミングを視認しやすく、喉から吐き出させやすいという実用上の大きな利点があります。\n* **具体的な数字や比較**  \n  ウミウは全長約90〜100cm、体重2.5〜4kgに達し、カワウ（全長約80cm、体重1.5〜2.5kg）よりも一回り大きく体力があります。鵜飼で使われる鵜は川で捕獲されるのではなく、全国で唯一の捕獲場である茨城県日立市十王町の伊師浜（いしはま）海岸の断崖で、野生のウミウを捕獲して届けられています。\n* **意外な点**  \n  川の伝統行事であるにもかかわらず、活躍する鳥はすべて太平洋の海辺で育った野生の「海鳥」であり、川生まれのカワウは1羽も使われていない点です。また、長良川の鵜匠は国家公務員待遇である「宮内庁式部職鵜匠」という正式な役職を持っています。\n* **ちょっとした歴史の裏話**  \n  鵜飼の歴史は1300年以上に及び、織田信長が武田信玄の使者をもてなすために鵜飼を見せ、鵜匠の地位を保護したことでも知られます。野生のウミウが届いたばかりの頃は「シントリ」と呼ばれますが、人間が手取り足取り教えるのではなく、すでにアユ捕りが上手なベテランの鵜たちと一緒に過ごさせることで、見よう見まねで約2〜3年かけて立派な鵜飼の鵜へと成長します。\n* **出典・引用元**  \n  * ぎふ長良川の鵜飼公式『鵜匠と鵜の絆』\n  * 国土交通省 地域観光資源の多言語解説文データベース『鵜飼の歴史・なぜ鵜を使うのか』\n  * 長良川温泉旅館 すぎ山『鵜の生態』\n\n---\n\n## リスナークイズコーナー案（疑問1：スーパーカミオカンデより）\n\n**【問題】**  \n神岡町が世界に誇る研究施設「スーパーカミオカンデ」。地下1000メートルの巨大タンクに並ぶ直径50センチの光センサーは、ニュートリノが放つ極めて微弱な光を逃さない世界最高峰の感度を誇ります。では、このセンサーの感度の高さは、一般的にどれくらいの光を見つけられるレベルと例えられているでしょうか？\n\n* **1番：** 月の表面で光らせた「懐中電灯」の光\n* **2番：** 富士山の山頂から照らした「スマホの画面」の光\n* **3番：** 深海1万メートルの底で光る「チョウチンアンコウ」の光\n\n**【正解】**  \n**1番：月の表面で光らせた「懐中電灯」の光**\n\n**【解説トークのポイント】**  \n東京大学宇宙線研究所の公式解説によると、壁面に並ぶ光電子増倍管は「月面で光らせた懐中電灯の光さえも地球上から見つけることができる」ほどの驚異的な感度を持っています。約38万キロも離れた月からのわずかな明かりも見逃さないほどの超高感度センサーが、神岡の地下深くで宇宙の謎を見つめ続けています。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%AC%E3%83%BC%E3%83%AB%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%E3%83%90%E3%82%A4%E3%82%AF+%E3%82%AC%E3%83%83%E3%82%BF%E3%83%B3%E3%82%B4%E3%83%BC+%E8%AA%95%E7%94%9F+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1%E9%89%84%E9%81%93&client=app-vertex-grounding&safesearch=active\">レールマウンテンバイク ガッタンゴー 誕生 飛騨市 神岡鉄道</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%B3%E3%83%87+%E5%9C%B0%E4%B8%8B1000m+%E3%81%AA%E3%81%9C+%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AE%87%E5%AE%99%E7%B7%9A%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">神岡鉱山 スーパーカミオカンデ 地下1000m なぜ 東京大学宇宙線研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B1%9F%E9%A6%AC%E6%B0%8F%E9%A4%A8%E8%B7%A1+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1+%E5%9B%BD%E5%90%8D%E5%8B%9D+%E7%99%BA%E6%8E%98&client=app-vertex-grounding&safesearch=active\">江馬氏館跡 飛騨市 神岡 国名勝 発掘</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E4%BA%9C%E9%89%9B+%E6%97%A5%E6%9C%AC%E4%B8%80+%E6%AD%B4%E5%8F%B2+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡鉱山 亜鉛 日本一 歴史 飛騨市</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%95%B7%E8%89%AF%E5%B7%9D+%E9%B5%9C%E9%A3%BC%E3%81%84+%E3%82%A6%E3%83%9F%E3%82%A6+%E3%81%AA%E3%81%9C+%E3%82%AB%E3%83%AF%E3%82%A6+%E5%B2%90%E9%98%9C%E5%B8%82&client=app-vertex-grounding&safesearch=active\">長良川 鵜飼い ウミウ なぜ カワウ 岐阜市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%A4%89%E6%88%90%E5%B2%A9+%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4+%E5%B2%90%E9%98%9C%E7%9C%8C%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">飛騨変成岩 日本最古 岐阜県博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%B3%E3%83%87+%E3%81%AA%E3%81%9C%E5%9C%B0%E4%B8%8B+%E3%81%AA%E3%81%9C%E7%B4%94%E6%B0%B4+%E5%AE%87%E5%AE%99%E7%B7%9A%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">スーパーカミオカンデ なぜ地下 なぜ純水 宇宙線研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A6%8F%E5%9C%B0%E5%8C%96%E7%9F%B3%E3%81%AE%E9%87%8C+%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4%E3%81%AE%E5%8C%96%E7%9F%B3+%E9%AB%98%E5%B1%B1%E5%B8%82+%E5%A5%A5%E9%A3%9B%E9%A8%A8+%E5%B2%90%E9%98%9C%E7%9C%8C%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">福地化石の里 日本最古の化石 高山市 奥飛騨 岐阜県博物館</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzkn9rYP6D1LMUq6WOCYI4FgTBBTpA5utoNwge5ZMdhYWXvAMTyYLX5sM_u1i1htSDOX_VDvdKbTiS3piNO4Y5se1AW4Jryu0RsXTVTvtqyuDUR-_I2WiHV3dehuT8nq3a8shxk1I=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGitM50C-KxVYSTdTv0J0BifTTQjJrpoTnlkANeWM0mq-1ZyMa8Ijw2ms4f0hKEtK7nVHM0UhmOaFC1mXj6oXYX_2PvUE7MeQzSzVafEmxXc4izrPojIxfR4dvaF08yDEENiyuDILs=",
           "title": "u-tokyo.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFvazoeYpgw_IHxPbRhW3DJzmryilPnNCUbIgrmIKcF1YNOpQZFpsKrXwSR5UIWLirUHCXtsanqq1rhpDHAwYBOFy_K5WhJ6WuDNYWBaOnw8jxHgxOKpzL6GkRFrDPoBcPbOyLUdJDQw8FAGL-mTDsMixYLB776pCRB-I24hemAA==",
-          "title": "yuru-rekishi-sanpo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWrjh5cpM4GhBp2VxY_c_rMP2FcpjGQDrqDfeOMkni951jHRGOgEljGI-NN-CKvcrP1FZldyNveWvT957lC-4-ytdV5FVfFaszDqmhjWfPJMq5GPOFdLkKhsIVX3FkxcAtOcDltV6S",
+          "title": "organo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHngTstRMAphHEOjHX1gsFMotXmXC2KiYMN6Va37pwsLnwcL4HYvExiIvOz8AfyfZUKVD1aLzJ04cJfIr9bvxSFkn288kOR5731Et9FAv5CC_8I3aCkbBf6QIP7iH03NQ==",
-          "title": "note.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyx1C_jf6pbldzbNBOvbAUvcdbxnNrk3fT0JK7R86HyCskdDTZL--SuLQ6e_2gdExL0ULKX8w6GD4vvtxGuqGRRku9IuDPQ5nTwxqh5MDyY7v-XBzadIRXri4=",
-          "title": "mitsui-kinzoku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPzDV2JFnQ7qcB_7xIo2gasVC8ukRZqSiXbFuLIATZoNDBdqLupBI6kZh6uPtSUJ_iSwt2ODaLnH8vJGx0_keoptgqAG3xlFXxqFb58cKKfQNHUlhRfZ8LgEqdC13RP8uwtyey_4hOazY=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUI8jdIy5mx48uHlxewR0x6i46_qq08vv_T9YPpUGpsd4tnQ5tZaE82Q-9znDMO9obpmu_95u8lGApwYjYDup5DxoUkE8Qu8A1kNCLNX6F4bhoxbXCboQ3cFn1T54hY7ZeYD8qv9LCCa9Q",
           "title": "jcmanet.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_RwsqOaNBz_uLRr5wTowzVT5aQNm0S_Hzsp0qzcoY4c1Xl6xGs-O4-B25h23jF7T_a9DUQHHLa3klmAXUCy6kJcELPRBR23FYm-R8cqK_hThfCh1HNGlFQ8z2L7IN4WUxahWc6V6fqXT9sPnPxlC4fXuENKPLITg14iiQmJvjOrQn0tn-mFmnqOOKkX6xQHyLrdNc8iBuOJjMoCQMMySYEh7KgL8I9Pc4wEn9mQ==",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcU3SMEWwwo0rXX7Xfo_BQYL2xw2rPJFOXr02dgf60W-d4POWVW70HUI2gX-fnoloh9hwzDvjgikaFyBfxgiaT9x_dieyRpOs9aZcMZDAjMGXtf-2tqQEh6ZIzYsD9Y9McrVA=",
-          "title": "ieei.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFApXEJITDMyGAsEn5PgFSIhMRaYCAgWYblV2IG54IUafvZgWQbOK_B2d32qv3SDpUfe9C3a5mbnv9hb_3OyhGVOP_jbq74p1znJ_adqPYsb6T1eqC8-PPoED_R7IJAJqP5xdTeH7EeCw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbD-wqQq4KMvrV9uHxTXagBoyC60d3o832wtV9eeGYrApbbbdJ_kYoh6cpDgLrRct1V68FT0LOCK7l8vLgtYAOApYo3Q4JbDCfp5nXpA1der2BSyTL5Wsg8ahZjCwQUi0p91WMAgM6",
           "title": "u-tokyo.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22KQpmqyngrMFkpbkztPRcrSnL3d5ZLy7yV8CZaymX_aNWbVv-QajjM2_BSxEzn4tWLIgpXN2hbD-azC4MwXu-GlPVNtMU0v7tAQ6qwhCSJYGEqfRjMfi",
-          "title": "rail-mtb.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8A_uU7R8DPCIlWQlIryPcUGFJNILZn1wlIWto_WymrmUeIugcBiEXVoB5ocx2NBmMWglnxdifMqDod0a6CFPag7BId67-aDR_3fp9aHcqVF6xNOnv8lgjjm5oMLI3DdhtWUMh",
+          "title": "nippon.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5fjGHLL9Q_1DFhSALI47PkZA9HmWn3Z72Rsz3492jlu4Z9b0_ku9ZT1C8hZCqylo5xK54CmKlx27QjAIvvgc-pjrqk2oxb7MM9JblppPZAxo0olLZHEch",
-          "title": "hida-kankou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbAO7eCNWrXGHsfaFiFLZWxIf2-Bc3nuUq5dq3ILuz7lewpCLyBYszapQDVFt_1cXI6TZ6RRBdnhYJfj03dxbbTITmGOHJ1Bj0H8jKVPwegKtXZaw95k7JlYGMtpJsek88wAf5HUd-4Ymccy8j8ulFQuW_9XNYzJE9eVp2m-LgaxONG1A8w5Vnqxi3MINBtCitbLgp7HcYVaHLUFbwhYelC-6XMki1HgXeDronOt5Sfz8NEJlGr6avKb8Mvkg0CxXQY5nJaGSj0UY=",
+          "title": "fukujionsen.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdl_u1iDmvxCSOOjfwyo8i-BWIImOcmLT5oMSCj5u3fYS8P2SXsXcxCXwPiQhwbwn8U9l57YkN8KvPdE97tQA5ZtFdKgCweD6_sporpF_4SFGAHAMsWwNOIvnDAjjM3ZlRJDjRJZOukggdk9SUGTbhJpEXJCo=",
-          "title": "rakuten.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVbSWyOVK-XSXkBQjbNnc71HI4qUnjX2CUo4J7g940rg0JjjEA8AqLm6MUDW0h_Zy1wTtjzuD893ql0Dnm3xPg4mURg4cBOToEdJ936SjL829x1QDCS2hGWFJ9Jf9sBJbft5qU9Fj843rlCSFRtgxZLaFdULt6kz-9fNzOJ_UirKEPbJSOTP5o7BDI",
+          "title": "okuhida.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGv8U_-qLSfsVKarDn2Fsh8ooyrVGnlgOKZqDDcFSNX-AN2ab-omM3DfxB4uFRTU98R6UUUZuoRl6zgAV-Vw6eVuZPBnDh1VThkvHIUpdITl01oCARdRcz8cndPPN5RFILgRu99Bsi",
-          "title": "takayama-gh.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbfwBOlMqqWZbc-jBLpaUl8oDMc4Ia8cHhHABHF7kIMdayydLtyYNQ-P3S72VEzFQjgCskzhQMi3FVNATs4soeiPpnlCTD6lgPrOaL5LIfP46dqt7AB8hM6E_d1gn3gze_MdpYig==",
+          "title": "gifu-kenpaku.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY2NWUMo1XfhGIbQX7PPtyxbq0d61v0M37reLOl_GTy7y-E1Ori3Mp1PXn23FY8QK7Td40Nbc_QHu8QKDXRMKq4BTeN2eauNrEq_An0NuN38AG7UqFgdzvjw4hlBSkpn64VyMnpKA=",
-          "title": "kankou-gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx1ksKd9A1BiOk0vEYVJnfTE2ftu5M0B4h5v6mPszHzpOusCNHnpbgdzPr4crybUDkNjmN4kWUyBiw6C21LFSA9O7kJkERM70rYn0yWMMLi9Wjko77rM8THb_K8ZeiodQ66ZCcVkyOweZiOWTzxO2pkG1M23hiStEt48aeKGFKDEEZ6gV_",
+          "title": "mukashibanashinosato.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb81SjBAkt3QsAghSPpJJqErLg7X1EU_DZOgT6oMyVOK4HXjlopFkK8knKLHKEormvXTh3JRboyVRnHsAxvElh4aXeJFl0G9zNqRDa24wt0nLInhekM5KMvzovCINlkqLbuyLqxQWUEuc4TkSdNQ==",
-          "title": "city.hida.gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Lr7KGVnwk59kRw59_dQ8AoR_Yu6JNH1nV5S2I1lOlKbFvW1FN6jkJ8yjFK3DxEO9H6IZH5y2XV43LwH5kSev4B99Iji2yO6oL2eM9Bio8ui3_5mtBHbp6tdfkPzXL-evjDRQc2feowOjZuUmqfJc_5vGqsmFmumaJhS_dhpCF7-L-iC57BVTy0Y_yxVLHewwrsddbnI=",
-          "title": "hida-bunka.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE14Wh7mbR-R_1FBjZ4n-74STJ4rrP6VWI7QkLcrtY5V82jwdqpZc_vq2mm3yz_3Lfl7HYfMF5ktI0Bm3YyhNB7vkIQKFtRWnFtdCypUPx8iKQoVcMO-TwgA78wDQ4SfMaYqdKYyw==",
-          "title": "kankou-gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-fKnG6DYCe46P3ONQgQ3Kh2g7xNU8xRK63xRqcYm7wtHbXS6J1fkbtTqx9tY8Zqk5ysszWe7zbFuYoC0YmJwYO8xUEIULfWqEGGf-q6ijPCtZHPcu-Ntnk8RjC3BOmuAIN3M6WrIyiMNK8ik1lPUmFLcuud3VRXLEVAsroCNU_Apm",
-          "title": "japanheritage.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIq2ir2VRS7g2-EvFcdXQqadBslgtUBgT2Sh_WVoNVI4m-fsyMZAMieSNgc4hrO_FCv8GQOX_KbgKtPSGMqGtTfAecAtKgEs3U4t__ielk_i0VpB2RChU5dRVd8keIi500",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFagDVXEdkJ1aB1RfGT7TJgYGf2drCnZ3WWRGqLDV-8V1hCcW5kWb1qZrnfF_mPvyDmcnpb-6I4Ul0oG-8UzuoA88haJtAskkrAxunA9L84wjDmlRiwtbrDehYFtmPQIcCBUw==",
-          "title": "mitsui-kinzoku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9BEAdKP8fqrZZQFpqyNoE8GQv5YuKNH8OEDzhe7MHKfHDx5B4Fe4f8X_LuO_85pjkOe1TXlPQm272g2capM5y8qUNcjfeEFwCfChrAXxUhNZMh4qka1cF4_Bf0eFcP_pUpr4nvWZa3T_Mxhf5YMlC",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE1SWYIdCc7ko9aQfoa5Fp0uMnyJdZfZAzkzFgcVIWnq5HsVA2E9jMum9HtKYd1RKXdcwY0V1K63Hd7x0A7d_SiNKhB2Hi7WKsgv-soTdQArhx4c3nNc1WwzNTZ1W7jWfX-4kAJK_JioLa0zRSFnNS-xSwVJ-7-4dxBl7e-iXd62zLaXBx",
           "title": "geo-gifu.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPUC1K9QVTgeqyH5sibBtI8pa29GQ27AUb6JpSL5XfEKmIhA52qNoWQaK9DHux655I__CBBITqj_8PByV-JDzNHmPMDDDPeI7KXWrTIL6bUudRhary-y3bgW09p73XhE_WVTXp7e0Gl_Hbp8HgU4A1BKL92NdDuQ==",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGg6zz_TOm0VaPHhBqjpF1N8qBWuhyeGbUyx3Y-oEtlPecwi6eJsKOdT4PXuF8mWoobLBbRWWhLF35wvmFwyZvaqKi_RW1JzCnijxNSkHr1sEpdB6GDKZWMuIge339b",
+          "title": "naganokai.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx-J6-yph-LRqYeW-n6efRMaueqbmk6aTh3mDUe9p4S9CEdOhwKgjYm9Fps4GxTZmanpsewiZ9Kq4SCXIG4YrqGmIj-STL2RaQY0kxfkMGH2fWpyWxrVpjkOcfmvrHDnoK6qSa",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfBpkr5MD2XV5Yk5x0o4zKfvKBEPyw9b-PgOBbkr4-9jBd5ZOdTlvJPifU8vhITAmZIYHekbyhxS1EfOxSTEJE7mvbXKc8QUoD3ikC81XX89o9FbM6Qwr6YPuXgAAcEAE=",
+          "title": "gifu.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk4mVZYjLSTS5hwDSji0Ps6ubc5gAe6XP698NqY0z5hI8xdzP5uZYhPpyWSSp0lJ8qjaYXvjuC_7qloqQpHWDJ-fBh0Ybe0Lc595BZWFAl0lTAesUkim1j9gFYttbV6JJO7qOG70IER3kSoPcK",
-          "title": "u-tokyo.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM6ICho6g34IFxZBL9r-_DrFrguyCzPbq3hth1QpeWsoG8eMB7JYYbEf817osIARcQSrBCO9jT_2ed_8JfpO8lY8cX4reTszre55WQ3W3cd05Wnidy8yV81cM5dCVA",
+          "title": "hichiso.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrd5VBXstLDJqRLjfJ39SSvs3giTAtUfDUrROJr05muDTegcu0Sw4HNC4do-pAjYvdz8HowyxtyGO2K49wwAXWDJZjRHpeZl2ZiRrRualHonaontwZCNB7zjm8qetuHFBbmwZniItVEASMpG4u",
-          "title": "city.hida.gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0_y2P6Kybxrwdi5oOAQHbNczKG6tziLhCXAjyOt89XuUS7lCzitilHgTLATxD3t6GxKuv3mwpWWak70RtG7l8oDAJfj9-WaUV_A7PARFR_2eGRS9nVj9RT0-s14lJNdln",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0yR4gbxw9rbFxWAzz5KLLI_COcscoAcDqMJ5NVq7mGs95lNrEJHVzcOXsS8v9sbuhdPJZLnXw88yYHSSG5ieLOGcXrJUrpFvLoPx76OimRi_h1WE=",
+          "title": "profond.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCAXKIfCbsIw-Umfr653kJQeKXMPR4cf6JcLVZtDQspx0FkEXdSYVC6dyOR-Bl8esNk0PXax_8ADKgiNDeX6qnb3fqc1EHhm9z0znu3lNX3Z2a-yQbT0GfBmS7",
+          "title": "tsuttarou.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqetY0Gh0fNPaMOCa_ei_gWjfcNEZYuGuqx18Pf0wm0CbMU3fXdk6y-x-JR0-sJDGYtmLVCjBh3FPmnNlpktDrtbN5LTetV__iwhDYgxpiy5Y4ybQsk874xLi4-hy3TqPpdw==",
+          "title": "gifu-sugiyama.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJBUeEStNiNs1wEdVexKriRyt4Qx16651ARhanZizFvPNF_fQ1bx2wDKswEX3SKKTsI3tJlh3keqBBPMCbzW-prRNXAo5iV5ryhfvRN27GUGeNchdKSU9EzXyCc68x",
+          "title": "ukai-gifucity.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUcAZrSU-SS_PHsKXFkCjcNDH-j67z2JigswjCK3fVb8kaPrSuwGhwBNw6UuK4tGQwO4Fw-Nj75uDhB7P5dXalUgzFiHe9KjUoBxVrgYYCOcydxRhqBLdkJmLbjtUNAmWqtMvhQ==",
+          "title": "mlit.go.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 827,
-          "endIndex": 977,
-          "text": "神岡鉱山の上にある分厚い山肌（岩盤）が天然の遮蔽材となり、ノイズを地上の約10万分の1に減らせるためです"
+          "startIndex": 1050,
+          "endIndex": 1311,
+          "text": "また、ニュートリノが水中の原子核や電子と稀に衝突した際に出す微弱な青い光（チェレンコフ光）を遮らずにセンサーへ届けるため、極限まで不純物を取り除いた「超純水」が必要とされます"
         },
         "groundingChunkIndices": [
           0,
@@ -230,9 +210,9 @@
       },
       {
         "segment": {
-          "startIndex": 980,
-          "endIndex": 1100,
-          "text": "また、観測に欠かせない良質な雪解け水（地下水）が豊富にあったことも大きな理由です"
+          "startIndex": 1315,
+          "endIndex": 1389,
+          "text": "* **具体的な数字や比較**  \n  深さは山頂から地下約1,000m"
         },
         "groundingChunkIndices": [
           2
@@ -240,20 +220,101 @@
       },
       {
         "segment": {
-          "startIndex": 1104,
-          "endIndex": 1220,
-          "text": "* **具体的な数字・比較**：\n  * **地下1,000メートル**（池の山の山頂直下）に位置します"
+          "startIndex": 1392,
+          "endIndex": 1546,
+          "text": "水タンクは直径約39.3m、高さ約41.4m（10階建てビルに相当）で、満たされている超純水はなんと約5万トンに及びます"
         },
         "groundingChunkIndices": [
-          3,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1549,
+          "endIndex": 1748,
+          "text": "壁一面には世界最大級となる直径50cmの超高感度光センサー（光電子増倍管）が1万1,000本以上並び、ニュートリノを捉える頻度は1日に約30個ほどです"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1752,
+          "endIndex": 2057,
+          "text": "* **意外な点**  \n  「宇宙望遠鏡」といえば夜空を見上げるイメージですが、スーパーカミオカンデは「空が見えない地下深くに潜り、完全な暗闇の中で水を満たして宇宙を観測している」という逆転の発想で作られている点です"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2061,
+          "endIndex": 2361,
+          "text": "* **ちょっとした歴史の裏話**  \n  前身の「カミオカンデ」は、実はニュートリノではなく「陽子崩壊」という別の現象を突き止めるために建設されました（装置名の「ンデ（NDE）」は Nucleon Decay Experiment＝核子崩壊実験の略）"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2364,
+          "endIndex": 2729,
+          "text": "しかし待てど暮らせど陽子崩壊は観測されず、小柴昌俊東京大学名誉教授らが「ならばニュートリノを捉えよう」と装置を改良したわずか1年後の1987年、大マゼラン雲で発生した超新星爆発からのニュートリノを世界で初めて検出し、ノーベル物理学賞へと結びつきました"
+        },
+        "groundingChunkIndices": [
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1226,
-          "endIndex": 1458,
-          "text": "* 巨大タンクには、不純物を極限まで取り除いた超純水が**5万トン**蓄えられており、壁面には約1万1,000〜1万3,000本もの超高感度光センサー（光電子増倍管）が並んでいます"
+          "startIndex": 2733,
+          "endIndex": 2883,
+          "text": "* **出典・引用元**  \n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式『5分でわかるスーパーカミオカンデ』"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2733,
+          "endIndex": 2913,
+          "text": "* **出典・引用元**  \n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式『5分でわかるスーパーカミオカンデ』 / 『よくあるご質問』"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2733,
+          "endIndex": 3012,
+          "text": "* **出典・引用元**  \n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式『5分でわかるスーパーカミオカンデ』 / 『よくあるご質問』\n  * オルガノ株式会社『プロジェクトストーリー スーパーカミオカンデ』"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2733,
+          "endIndex": 3114,
+          "text": "* **出典・引用元**  \n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式『5分でわかるスーパーカミオカンデ』 / 『よくあるご質問』\n  * オルガノ株式会社『プロジェクトストーリー スーパーカミオカンデ』\n  * nippon.com『高感度化したスーパーカミオカンデ：超新星爆発の謎に挑む』"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3265,
+          "endIndex": 3525,
+          "text": "* **理由**  \n  神岡町のすぐ南東に位置する奥飛騨温泉郷の福地（ふくじ）地域では、約4億年前（古生代デボン紀）から約4億8000万年前（オルドビス紀）という日本最古級の地層が露出しています"
         },
         "groundingChunkIndices": [
           5,
@@ -262,135 +323,160 @@
       },
       {
         "segment": {
-          "startIndex": 1461,
-          "endIndex": 1564,
-          "text": "初代カミオカンデの貯水量（3,000トン）と比べても約16倍以上のスケールです"
+          "startIndex": 3528,
+          "endIndex": 3819,
+          "text": "これらの地層はかつて赤道付近の浅く暖かい海で形成されたもので、プレートテクトニクス（大陸移動）と大規模な地殻変動・隆起によって、数億年もの時間をかけて現在の北アルプスの山奥へと押し上げられました"
         },
         "groundingChunkIndices": [
           7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3823,
+          "endIndex": 4071,
+          "text": "* **具体的な数字や比較**  \n  標高約1,000mの高地から、約4億年前〜4億8000万年前のサンゴ、三葉虫、ウミユリ、貝形虫（カイミジンコ）、コノドントなどの化石が豊富に発掘されています"
+        },
+        "groundingChunkIndices": [
+          7,
+          8,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 1568,
-          "endIndex": 1964,
-          "text": "* **意外な点**：\n  この巨大な地下空洞を掘り抜くことができたのは、神岡の地質が「飛騨片麻岩（ひだへんまがん）」という非常に強固な岩盤だったこと、そして神岡鉱業（三井金属グループ）が一世紀以上にわたって培ってきた高度な鉱山掘削技術（岩盤エンジニアリング）があったからです"
+          "startIndex": 4074,
+          "endIndex": 4233,
+          "text": "恐竜が栄えた中生代（約2億5000万〜6600万年前）よりもさらに昔、脊椎動物が海から陸へ上がる前後の時代の生物群です"
         },
         "groundingChunkIndices": [
-          3,
-          2
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 1968,
-          "endIndex": 2210,
-          "text": "* **ちょっとした歴史の裏話**：\n  建設に関わった物理学者・戸塚洋二氏（元東大宇宙線研究所長）の回想録によると、初代カミオカンデの候補地選びで**神岡は「第3候補」**でした"
+          "startIndex": 4237,
+          "endIndex": 4419,
+          "text": "* **意外な点**  \n  冬には厳しい寒波と豪雪に見舞われる飛騨の山奥が、太古の昔には熱帯のサンゴ礁が広がる南の海だったという点です"
         },
         "groundingChunkIndices": [
-          2
+          7,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 2213,
-          "endIndex": 2548,
-          "text": "最有力とされた第1候補は東北の釜石鉱山、第2候補は中央道・恵那山トンネルの調査坑でしたが、いずれも管理者側の了解が得られず、ダメ元で打診した神岡鉱山の地元責任者が「いいですよ」と快諾したことで神岡に決定したという経緯があります"
+          "startIndex": 4423,
+          "endIndex": 4663,
+          "text": "* **ちょっとした歴史の裏話**  \n  この世界的にも貴重な地層から出土した化石群の多くは、地元の故・山腰悟さんが1960年代から私財を投じて長年にわたり収集・保護したものです"
         },
         "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2552,
-          "endIndex": 2687,
-          "text": "* **主な出典**：\n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式「よくあるご質問」「研究史」"
-        },
-        "groundingChunkIndices": [
-          0,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2552,
-          "endIndex": 2785,
-          "text": "* **主な出典**：\n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式「よくあるご質問」「研究史」\n  * ひだ宇宙科学館 カミオカラボ「なぜ 神岡鉱山なの」（2020年8月19日）"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2552,
-          "endIndex": 2859,
-          "text": "* **主な出典**：\n  * 東京大学宇宙線研究所 スーパーカミオカンデ公式「よくあるご質問」「研究史」\n  * ひだ宇宙科学館 カミオカラボ「なぜ 神岡鉱山なの」（2020年8月19日）\n  * 三井金属株式会社「宇宙誕生の謎に挑む神岡鉱山」"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3301,
-          "endIndex": 3496,
-          "text": "線路を撤去せず、そのままの形で保存して子どもたちの世代に残したい」と考えた地元住民有志（神岡鉄道協力会など）の熱意から生まれました"
-        },
-        "groundingChunkIndices": [
-          8,
+          5,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3500,
-          "endIndex": 3718,
-          "text": "* **具体的な数字・比較**：\n  * 旧神岡鉄道は**全長19.9km**あり、その**約6割をトンネルと鉄橋**が占めていたため、かつては「奥飛騨の地下鉄」と呼ばれていました"
+          "startIndex": 4666,
+          "endIndex": 4999,
+          "text": "当初は私設博物館で公開されていましたが、山腰氏の逝去に伴い旧上宝村（現・高山市）へ寄贈され、貴重な標本群が散逸することなく現在の「福地化石館（昔ばなしの里内）」や岐阜県指定天然記念物「福地化石標本」として守り継がれています"
         },
         "groundingChunkIndices": [
-          8,
-          10
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 3724,
-          "endIndex": 3925,
-          "text": "* 貨物輸送のトラック転換によって廃止されましたが、現在は「まちなかコース」（往復約5.8km）と「渓谷コース」（往復約6.6km）で営業されています"
+          "startIndex": 5003,
+          "endIndex": 5125,
+          "text": "* **出典・引用元**  \n  * 岐阜県博物館ウェブサイト『自然展示室1 オルドビス紀(福地)の海』"
         },
         "groundingChunkIndices": [
-          8,
-          10
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3929,
-          "endIndex": 4211,
-          "text": "* **意外な点**：\n  線路の上を自転車で走る専用フレームとガイドローラーは、大手メーカーが作ったものではなく、神岡の「鉄工所」が地元の想いに応えて図面を引き、試行錯誤して手作りで開発したものです"
+          "startIndex": 5003,
+          "endIndex": 5244,
+          "text": "* **出典・引用元**  \n  * 岐阜県博物館ウェブサイト『自然展示室1 オルドビス紀(福地)の海』\n  * 岐阜県地学教育情報ウェブサイト（ジオランドぎふ）『福地化石館 / 福地化石標本』"
         },
         "groundingChunkIndices": [
-          8
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 4214,
-          "endIndex": 4301,
-          "text": "鉱山町として培われた「モノづくりの精神」が活かされています"
+          "startIndex": 5003,
+          "endIndex": 5318,
+          "text": "* **出典・引用元**  \n  * 岐阜県博物館ウェブサイト『自然展示室1 オルドビス紀(福地)の海』\n  * 岐阜県地学教育情報ウェブサイト（ジオランドぎふ）『福地化石館 / 福地化石標本』\n  * 福地温泉観光協会『【昔ばなしの里】福地化石館』"
         },
         "groundingChunkIndices": [
-          8
+          5,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 4305,
-          "endIndex": 4653,
-          "text": "* **ちょっとした歴史の裏話**：\n  廃線後の活用アイデアを探していた当時、メンバーの一人が「サイパン島で旧日本軍の軍用トロッコ軌道を活かした乗り物を見た」と話したことが、線路に乗り物を走らせる着想のきっかけの一つになったと伝えられています"
+          "startIndex": 5468,
+          "endIndex": 5707,
+          "text": "* **理由**  \n  飛騨川中流域（飛水峡）周辺に分布する「上麻生礫岩（かみあそうれきがん）」の中に、大陸起源の古い変成岩（片麻岩）の小石（礫）が混ざり込んでいたためです"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5710,
+          "endIndex": 6070,
+          "text": "日本列島そのものは数億年前の付加体や火山活動でできた比較的新しい島弧ですが、中生代（約1億6000万〜2億年前）に古い大陸（かつての超大陸など）の川辺で削られた石が堆積して礫岩となり、それがプレートの移動によって日本列島の一部として運ばれてきました"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6074,
+          "endIndex": 6303,
+          "text": "* **具体的な数字や比較**  \n  発見された石（珪線石片麻岩の礫）の年代は約20億年前（先カンブリア時代）で、発見当時に日本列島で確認された最古の岩石と判明しました"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6306,
+          "endIndex": 6471,
+          "text": "礫岩自体が堆積したのは約1.6億〜2億年前ですが、その中に20億年前の石がタイムカプセルのように閉じ込められていました"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6475,
+          "endIndex": 6766,
+          "text": "* **意外な点**  \n  日本列島の地面は新しく、せいぜい数億年前の石しかないと考えられていた地質学界の常識を覆し、ふつうの川原の礫岩の中から地球の歴史の半分近く（46億年中20億年）を遡る石が見つかった点です"
+        },
+        "groundingChunkIndices": [
+          12,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6770,
+          "endIndex": 6972,
+          "text": "* **ちょっとした歴史の裏話**  \n  1970年（昭和45年）、地質学者の調査によって飛騨川の河床から採取され、同位体測定によって20億年前と判明しました"
         },
         "groundingChunkIndices": [
           11
@@ -398,39 +484,40 @@
       },
       {
         "segment": {
-          "startIndex": 4656,
-          "endIndex": 4830,
-          "text": "なお、この地域ぐるみの保存・活用活動は高く評価され、平成24年度に国土交通省の「第11回 日本鉄道賞 特別賞」を受賞しました"
+          "startIndex": 6975,
+          "endIndex": 7216,
+          "text": "大発見に沸いた七宗町は「日本最古の石の町」としてまちおこしを行い、1996年には飛騨川のほとりに宇宙船のような外観をした町立「日本最古の石博物館」をオープンさせました"
         },
         "groundingChunkIndices": [
-          8
+          12,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 4906,
-          "endIndex": 4942,
-          "text": "公式サイト「誕生の経緯」"
+          "startIndex": 7220,
+          "endIndex": 7326,
+          "text": "* **出典・引用元**  \n  * 岐阜県公式ホームページ『日本最古の石にふれるみち』"
         },
         "groundingChunkIndices": [
-          8
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 4906,
-          "endIndex": 4995,
-          "text": "公式サイト「誕生の経緯」\n  * 飛騨市公式観光サイト「飛騨の旅」"
+          "startIndex": 7220,
+          "endIndex": 7411,
+          "text": "* **出典・引用元**  \n  * 岐阜県公式ホームページ『日本最古の石にふれるみち』\n  * 岐阜県博物館ウェブサイト『自然展示室1 日本最古級の石』"
         },
         "groundingChunkIndices": [
-          9
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 4906,
-          "endIndex": 5108,
-          "text": "公式サイト「誕生の経緯」\n  * 飛騨市公式観光サイト「飛騨の旅」\n  * 岐阜の旅ガイド（岐阜県観光連盟）「レールマウンテンバイクで温故知新の旅」"
+          "startIndex": 7220,
+          "endIndex": 7482,
+          "text": "* **出典・引用元**  \n  * 岐阜県公式ホームページ『日本最古の石にふれるみち』\n  * 岐阜県博物館ウェブサイト『自然展示室1 日本最古級の石』\n  * 七宗町公式ウェブサイト『日本最古の石博物館』"
         },
         "groundingChunkIndices": [
           12
@@ -438,85 +525,115 @@
       },
       {
         "segment": {
-          "startIndex": 5414,
-          "endIndex": 5585,
-          "text": "* **理由**：\n  中世（室町〜戦国期）に神岡周辺の北飛騨を支配した領主・江馬（えま）氏の本拠地「下館跡」があった場所です"
+          "startIndex": 7630,
+          "endIndex": 7818,
+          "text": "* **理由**  \n  カワウに比べてウミウの方が体が大きく力強いこと、そして捕らえたアユを一度にたくさん喉（喉嚢）にキープできるためです"
         },
         "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5588,
-          "endIndex": 5810,
-          "text": "江戸時代以降は一面の水田となっていましたが、昭和の土地改良工事を機に発掘調査を行ったところ、地中に埋もれていた池や遺構が当時の姿のまま見つかりました"
-        },
-        "groundingChunkIndices": [
-          15,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5814,
-          "endIndex": 6072,
-          "text": "* **具体的な数字・比較**：\n  * 発掘調査は昭和51年（1976年）から行われ、昭和55年（1980年）に国の史跡に指定、平成29年（2017年）には庭園が**飛騨地方初となる国の「名勝」**に指定されました"
-        },
-        "groundingChunkIndices": [
-          15,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6078,
-          "endIndex": 6288,
-          "text": "* 国の史跡と名勝の「二重指定」は岐阜県内初であり、戦国時代の武家屋敷（会所建物）と庭園がセットで完全復元された事例は**全国唯一**とされています"
-        },
-        "groundingChunkIndices": [
-          13,
+          14,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 6292,
-          "endIndex": 6433,
-          "text": "* **意外な点**：\n  この発見の決定打となったのは、地元農民たちの間に代々伝わっていた「昔話」でした"
+          "startIndex": 7821,
+          "endIndex": 8157,
+          "text": "さらにウミウは我慢強く環境に適応しやすい性格を持ち、魚を水中で飲み込まず「水面に上がってから飲み込む」習性があるため、船上の鵜匠が魚を捕まえたタイミングを視認しやすく、喉から吐き出させやすいという実用上の大きな利点があります"
         },
         "groundingChunkIndices": [
-          15,
-          14
+          16,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6436,
-          "endIndex": 6686,
-          "text": "田んぼの真ん中に耕作の邪魔になる5つの巨大な岩が露出しており、昔から土地の人々はそれを「五ヶ石（ごかいし）」と呼び、「あれは昔の江馬の殿様の庭石だ」と言い伝えていました"
+          "startIndex": 8161,
+          "endIndex": 8356,
+          "text": "* **具体的な数字や比較**  \n  ウミウは全長約90〜100cm、体重2.5〜4kgに達し、カワウ（全長約80cm、体重1.5〜2.5kg）よりも一回り大きく体力があります"
         },
         "groundingChunkIndices": [
-          14
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6689,
-          "endIndex": 6785,
-          "text": "掘ってみたら伝承どおり、まさに庭園の護岸石組そのものだったのです"
+          "startIndex": 8359,
+          "endIndex": 8596,
+          "text": "鵜飼で使われる鵜は川で捕獲されるのではなく、全国で唯一の捕獲場である茨城県日立市十王町の伊師浜（いしはま）海岸の断崖で、野生のウミウを捕獲して届けられています"
         },
         "groundingChunkIndices": [
-          15,
-          14
+          16,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 6789,
-          "endIndex": 7045,
-          "text": "* **ちょっとした歴史の裏話**：\n  京都の五山文学を代表する禅僧・万里集九（ばんりしゅうく）が延徳元年（1489年）に高原郷を訪れた際、江馬氏の館でもてなしを受け、漢詩を残しています"
+          "startIndex": 8600,
+          "endIndex": 8828,
+          "text": "* **意外な点**  \n  川の伝統行事であるにもかかわらず、活躍する鳥はすべて太平洋の海辺で育った野生の「海鳥」であり、川生まれのカワウは1羽も使われていない点です"
+        },
+        "groundingChunkIndices": [
+          14,
+          17,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8831,
+          "endIndex": 8966,
+          "text": "また、長良川の鵜匠は国家公務員待遇である「宮内庁式部職鵜匠」という正式な役職を持っています"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8970,
+          "endIndex": 9192,
+          "text": "* **ちょっとした歴史の裏話**  \n  鵜飼の歴史は1300年以上に及び、織田信長が武田信玄の使者をもてなすために鵜飼を見せ、鵜匠の地位を保護したことでも知られます"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9195,
+          "endIndex": 9518,
+          "text": "野生のウミウが届いたばかりの頃は「シントリ」と呼ばれますが、人間が手取り足取り教えるのではなく、すでにアユ捕りが上手なベテランの鵜たちと一緒に過ごさせることで、見よう見まねで約2〜3年かけて立派な鵜飼の鵜へと成長します"
+        },
+        "groundingChunkIndices": [
+          14,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9522,
+          "endIndex": 9607,
+          "text": "* **出典・引用元**  \n  * ぎふ長良川の鵜飼公式『鵜匠と鵜の絆』"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9522,
+          "endIndex": 9733,
+          "text": "* **出典・引用元**  \n  * ぎふ長良川の鵜飼公式『鵜匠と鵜の絆』\n  * 国土交通省 地域観光資源の多言語解説文データベース『鵜飼の歴史・なぜ鵜を使うのか』"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9522,
+          "endIndex": 9787,
+          "text": "* **出典・引用元**  \n  * ぎふ長良川の鵜飼公式『鵜匠と鵜の絆』\n  * 国土交通省 地域観光資源の多言語解説文データベース『鵜飼の歴史・なぜ鵜を使うのか』\n  * 長良川温泉旅館 すぎ山『鵜の生態』"
         },
         "groundingChunkIndices": [
           16
@@ -524,217 +641,31 @@
       },
       {
         "segment": {
-          "startIndex": 7048,
-          "endIndex": 7237,
-          "text": "飛騨の奥山でありながら、京都の最新の文化や庭園様式を取り入れた優雅な暮らしが営まれていたことが出土品や庭園から証明されています"
+          "startIndex": 10659,
+          "endIndex": 10945,
+          "text": "**【解説トークのポイント】**  \n東京大学宇宙線研究所の公式解説によると、壁面に並ぶ光電子増倍管は「月面で光らせた懐中電灯の光さえも地球上から見つけることができる」ほどの驚異的な感度を持っています"
         },
         "groundingChunkIndices": [
-          13,
-          17
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 7241,
-          "endIndex": 7361,
-          "text": "* **主な出典**：\n  * 飛騨市役所「史跡江馬氏城館跡・名勝江馬氏館跡庭園 保存活用計画」"
+          "startIndex": 10948,
+          "endIndex": 11130,
+          "text": "約38万キロも離れた月からのわずかな明かりも見逃さないほどの超高感度センサーが、神岡の地下深くで宇宙の謎を見つめ続けています"
         },
         "groundingChunkIndices": [
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7241,
-          "endIndex": 7458,
-          "text": "* **主な出典**：\n  * 飛騨市役所「史跡江馬氏城館跡・名勝江馬氏館跡庭園 保存活用計画」\n  * 飛騨市教育委員会「国史跡 江馬氏城館跡 下館跡」公式パンフレット"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7241,
-          "endIndex": 7544,
-          "text": "* **主な出典**：\n  * 飛騨市役所「史跡江馬氏城館跡・名勝江馬氏館跡庭園 保存活用計画」\n  * 飛騨市教育委員会「国史跡 江馬氏城館跡 下館跡」公式パンフレット\n  * 岐阜県公式ホームページ「江馬氏館跡庭園」（文化伝承課）"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7805,
-          "endIndex": 8072,
-          "text": "* **理由**：\n  奈良時代の養老年間（720年頃）に黄金を朝廷に献じたという伝承に始まり、江戸時代には銀や鉛、明治以降は亜鉛を中心とする世界屈指のスカルン鉱床として採掘が続けられたためです"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8075,
-          "endIndex": 8194,
-          "text": "明治7年（1874年）に三井組が経営に乗り出して以降、大規模な近代化が一気に進みました"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8198,
-          "endIndex": 8373,
-          "text": "* **具体的な数字・比較**：\n  * 明治初期から2001年6月に採掘を休止するまでの約130年間で、総採掘量は**約7,500万トン**に達しました"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8379,
-          "endIndex": 8567,
-          "text": "* 昭和35年（1960年）の最盛期には、町の人口の約半分が鉱山関係者で占められ、市街地には映画館が何軒も立ち並ぶほどの繁栄を誇りました"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8571,
-          "endIndex": 8718,
-          "text": "* **意外な点**：\n  神岡鉱山は、国内の他鉱山に先駆けて数々のハイテク工法を導入した「最先端鉱山」でした"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8721,
-          "endIndex": 8977,
-          "text": "特に、坑内のトロッコ軌道を全廃し、網の目のような斜坑を大型重機（ホイールローダー等）が自走して鉱石を掘り出す**「トラックレスマイニング法」を国内で初めて実用化**した鉱山です"
-        },
-        "groundingChunkIndices": [
-          18,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8981,
-          "endIndex": 9289,
-          "text": "* **ちょっとした歴史の裏話**：\n  1970年代以降、資源枯渇や為替変動で全国の有名鉱山（足尾や別子など）が次々と閉山していく中、神岡鉱山が2001年まで長く操業を継続できた最大の要因は、この徹底した機械化・高能率化でした"
-        },
-        "groundingChunkIndices": [
-          18,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9292,
-          "endIndex": 9529,
-          "text": "そして、この重機を駆使した高度な坑道掘削技術があったからこそ、後にスーパーカミオカンデをはじめとする巨大地下空間の掘削工事を自前で成し遂げることができたのです"
-        },
-        "groundingChunkIndices": [
-          18,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9533,
-          "endIndex": 9663,
-          "text": "* **主な出典**：\n  * 東京大学総合研究博物館「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9533,
-          "endIndex": 9749,
-          "text": "* **主な出典**：\n  * 東京大学総合研究博物館「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）\n  * 三井金属株式会社「神岡鉱山って、どんな鉱山（やま）？」"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9752,
-          "endIndex": 9814,
-          "text": "* 岐阜県博物館／ジオランドぎふ「神岡鉱山」"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10541,
-          "endIndex": 10758,
-          "text": "**【解説トーク用メモ】**\n「実は、実験計画の当初、研究チームにとっての本命（第1候補）は岩手県の釜石鉱山、第2候補が恵那山トンネルの工事用調査坑でした"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10761,
-          "endIndex": 10804,
-          "text": "神岡鉱山は第3候補だったんです"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10808,
-          "endIndex": 10886,
-          "text": "ところが、釜石と恵那山は管理者側の了解が得られず断念"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10889,
-          "endIndex": 11081,
-          "text": "ダメ元で神岡鉱山にお願いしたところ、地元の責任者の方が快く『いいですよ』と引き受けてくださったことで、神岡での建設が決まりました"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11084,
-          "endIndex": 11238,
-          "text": "もし当時の神岡鉱山の方が断っていたら、神岡から2つのノーベル賞が生まれることはなかったかもしれませんね」"
-        },
-        "groundingChunkIndices": [
+          0,
           2
         ]
       }
     ],
     "webSearchQueries": [
-      "レールマウンテンバイク ガッタンゴー 誕生 飛騨市 神岡鉄道",
-      "神岡鉱山 スーパーカミオカンデ 地下1000m なぜ 東京大学宇宙線研究所",
-      "江馬氏館跡 飛騨市 神岡 国名勝 発掘",
-      "神岡鉱山 亜鉛 日本一 歴史 飛騨市"
+      "長良川 鵜飼い ウミウ なぜ カワウ 岐阜市",
+      "飛騨変成岩 日本最古 岐阜県博物館",
+      "スーパーカミオカンデ なぜ地下 なぜ純水 宇宙線研究所",
+      "福地化石の里 日本最古の化石 高山市 奥飛騨 岐阜県博物館"
     ]
   }
 }
