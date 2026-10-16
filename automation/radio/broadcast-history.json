@@ -62,5 +62,16 @@
     "izumi_angle": "yakou-night",
     "saturday_story": null,
     "listener_notes": []
+  },
+  {
+    "date": "2026-10-17",
+    "topics": [
+      "昔の郵便ポストが黒かった理由と前代未聞の勘違い事件"
+    ],
+    "opening": "ねえ、街で見かける赤い郵便ポスト、昔は真っ黒だったって知っとる？今朝はポストの秘密から！",
+    "quiz": "日本の夏の風物詩、蚊取り線香が渦巻き型になったのは開発者の妻ゆきさんのひらめきです。ヒントになった生き物は何でしょうか。1番、カタツムリ。2番、とぐろを巻いたヘビ。3番、寝相が悪い夫。",
+    "izumi_angle": "meiji-relay",
+    "saturday_story": "story-01",
+    "listener_notes": []
   }
 ]

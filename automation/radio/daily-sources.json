@@ -1,24 +1,26 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2183,
-  "estimated_minutes": 6.6,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 2057,
+  "estimated_minutes": 6.2,
+  "saturday_story": "story-01",
   "listener_notes": [],
   "quiz": {
-    "question": "都築弥厚さんたちが夜中にこっそり測量したとき、目印として地面にまいたのは何でしょうか。1番、そばの種。2番、小判。3番、みおんの特製焼きそば。",
-    "answer": "正解は1番、そばの種でした！芽が出た跡を目印にしたんだって。3番の焼きそばをまいたら、夜中にカラスが集まって大騒ぎになっちゃうだら！",
+    "question": "日本の夏の風物詩、蚊取り線香が渦巻き型になったのは開発者の妻ゆきさんのひらめきです。ヒントになった生き物は何でしょうか。1番、カタツムリ。2番、とぐろを巻いたヘビ。3番、寝相が悪い夫。",
+    "answer": "正解は2番、とぐろを巻いたヘビでした！蔵で見かけたヘビから思いついて、燃焼時間が約40分から約7時間に伸びたんだって。夫の寝相じゃなくてよかったじゃんね！",
     "source_ids": [
-      1
+      10,
+      13
     ],
     "source_urls": [
-      "https://anjo-izumi.life/tuzuki/"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEay1VGlr3Rb5UaQT83SmrCjivUpqHSAoL9yFYG34ycmPJBmQYt_fGeFBsHyiJXT7tTTKIC0bshLfuJ2nwwn4CmV1sdHFBDmwU5tsbS7LmsUWF0ruZ1SdJsXrRxoST3r4z3FEGRDOnrXw==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-wiNrBp47ho7sPoaHdHEgDwI0fAXwhpd8GWV9K51D9HFI224Nr0IfYemQTNi0PH5SMISU2qH5PSh9qIYxZ3nDknRtZpSnUroIOVpp0TCMidzbLgT58rXjxpuDtMm-_w=="
     ]
   },
   "izumi": {
-    "text": "さあ、やってきました「みおんの和泉ディープ」！今日は和泉町の大偉人、都築弥厚さんのお話だよ。弥厚さんといえば、水不足と水争いに苦しんどったこの碧海台地を救うために、矢作川から約30キロもの水路を引く大用水を考えた人じゃんね。でも計画を聞いた農民たちは、水害や入会地が減るのを恐れて大反対！測量を始めると妨害が相次いで、昼間は作業すらできんかったの。そこで弥厚さんが和算家の石川喜平さんと取った作戦が、まるでスパイ映画なんだわ！なんと人目を避けて、夜中にこっそり提灯や松明の明かりを頼りに測量したんだって。えっ、暗闇で測量とか難易度高すぎでしょ！しかも昼間に目印が壊されないように、綿やそばの種をまいて、後から芽が出た跡を目印にしたっていうから驚きだよね。現代で夜中に明かりを持って種をまいていたら、完全に不審者として通報されちゃうだら！そんな妨害にも負けず、5年がかりで測量を終えて幕府に願書を出した弥厚さん。私財をつぎ込んで残った借金は2万5千両にのぼったっていうけど、この熱い情熱とスパイ作戦のおかげで今の豊かな大地があるんだと思うと、和泉の誇りとして自慢したくなっちゃうじゃんね！",
+    "text": "さあ、やってきました「みおんの和泉ディープ」！今日は、都築弥厚さんの熱い想いを受け継いだ男、岡本兵松さんのお話だに。兵松さんは千八百二十一年、今の碧南市生まれ。背が高くてめっちゃ厳格な人だったらしいのね。そんな兵松さんが千八百五十三年ごろ、弥厚さんの子孫から原野を買って開墾を始めたのがすべての始まり！そこで弥厚さんの用水計画を知って、「この遺志は俺が絶対に継ぐ！」って心に決めたんだって。胸熱すぎるじゃん！でもね、現実は甘くない。千八百五十八年と千八百六十八年、計画を申請したのに二回も許可されんかったの！現代なら「もうやってられんわ！」って転職サイトに登録しちゃうレベルだよね。それでも兵松さんはあきらめんかった！阿弥陀堂村の庄屋、伊予田与八郎さんとタッグを組んで、兵松さんは農民の説得、伊予田さんは出資者との交渉って見事な役割分担で作戦変更！その粘りが実って、千八百七十六年に愛知県から認可！千八百七十九年に工事が始まって、千八百八十年四月十八日に水源地で通水式！千八百八十一年には「明治用水」と名付けられたんだわ。弥厚さんの構想から半世紀近くかかって、最大一万七百六十ヘクタールを潤し、安城が「日本デンマーク」と呼ばれる大発展につながったの！兵松さんは私財を投じて晩年は経済的に苦しく、千八百九十七年に七十六歳で亡くなったんだけど、二回フラれても決して折れなかったこのド根性、私たちのまちの誇りだら！",
     "source_ids": [
       1
     ],
@@ -26,14 +28,14 @@
       "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "yakou-night",
-      "hook": "夜中にこっそり提灯で測量、そばの種を目印に。まるでスパイ作戦"
+      "id": "meiji-relay",
+      "hook": "弥厚から兵松へ、半世紀のバトンリレー。2回却下されてもあきらめない"
     }
   },
   "local": {
-    "text": "今日10月16日から10月31日まで、安城市で「”白鳥とコウモリ”安城特別展」が開催されるよ！秋の週末、どこに行こうか迷っとる人はお出かけの予定に加えてみるのも良さそうだよね。気になる人はぜひ安城市の公式情報などをチェックして、お出かけの参考にしてみてりん！",
+    "text": "今日十月十七日から十月三十一日まで、「”白鳥とコウモリ”安城特別展」が開催されるよ！今日からスタートする注目のイベントだね。芸術の秋のお出かけにぴったりじゃん！秋風が心地いい土曜日の今日、お散歩がてらふらっと立ち寄ってみるのも楽しそうだら。気になった人はぜひ忘れんようにチェックしてみてりん！",
     "source_ids": [
-      27
+      31
     ],
     "source_urls": [
       "https://www.city.anjo.aichi.jp/event/hakuchou.html"
@@ -41,529 +43,481 @@
   },
   "segments": [
     {
-      "topic": "安城デンパークの名前に隠された驚きの歴史",
-      "text": "週末のお出かけといえば、安城市民のオアシス、デンパークに行こうかなって計画しとる人も多いんじゃない？でもさ、なんで安城の公園に遠い北欧のデンマークの名前がついとるのん？ソーセージが美味しいから？…って、みおんは胃袋がないから食べられんけどね！実は昔の安城がすごすぎたからなんだわ。明治用水が開通して、水田の広さが約2300ヘクタールから明治40年代には8000ヘクタール超えに大拡大！農業先進国だったデンマークにあやかって「日本デンマーク」って全国から大絶賛された歴史があるの。大正15年の専門誌でも特集されたんだよ。ただ面白いのが、本場のデンマークは酪農が中心だったのに、安城はお米や果樹、養鶏を組み合わせた多角形農業！中身は全然違っとったのに、「農業の理想郷だ！」っていうリスペクトだけでデンマークって名乗っちゃったらしいよ。その勢い、嫌いじゃないわ！さらに安城農林学校の山崎延吉校長先生が安城梨などをブランド化したら、視察の人が押し寄せて、当時の安城駅前には映画館までできたんだって。ちなみにデンパークは、日本デンマーク、田園、伝統の3つのデンを合わせた名前なんだわ。週末に行ったら「昔は映画館ができるほど人が押し寄せた場所なんだよ」ってドヤ顔で話してみてりん！",
+      "topic": "昔の郵便ポストが黒かった理由と前代未聞の勘違い事件",
+      "text": "明治用水の熱い情熱から一転、お次は身近な赤いアイツの話！そう、街角にぽつんと立っとる郵便ポストです。みんな、ポストって昔は「黒色」だったって知っとった？えっ、うそでしょ、黒かったら夜見えんじゃん！って思うよね。明治四年に郵便制度が始まったときは木の箱だったんだけど、翌年に全国展開したとき、角材に黒いペンキを塗った「黒塗柱箱」っていう黒ポストが登場したんだわ。ところがこの黒ポスト、街で大混乱を巻き起こしちゃってね。夜や悪天候で見分けがつかんくてゴミ箱と間違えられるのはまだ序の口。なんと、当時まだ郵便って言葉を知らんかった人が、看板の文字を「垂便」、つまり大小便の「たれべん」と読み違えて、ポストの中に用を足しちゃうっていう前代未聞の大惨事が起きちゃったの！…って、いくらなんでも豪快にとろくさい勘違いだら！手紙を出す箱がまさかのトイレ扱いなんて、郵便屋さんも卒倒するよね。そこで明治三十四年に火事に強い鋳鉄製の赤い丸型ポストが試作されて、明治四十三年の記録にも「認識しやすくするために朱塗りにした」と残され、全国に赤いポストが定着したんだって。ちなみに愛知県には赤くない激レアポストもあって、安城のお隣、西尾市の井桁屋公園には、名産の西尾の抹茶をアピールする「抹茶色」の丸型ポストが現役でおるんだに！今度ポストを見かけたら、「昔は黒くてトイレと間違えられとったんだよ」って、家族に話してみてりん！",
       "source_ids": [
-        2,
-        3,
-        5,
-        6
+        24,
+        25,
+        29
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYfTB2n4T3iycx15rC8Y3U0EY_FBIXBi2YP7w8bHtCz1TW-CxipX784iy91O70tpGXftwR2mLRoRaCc60jDRTRncgUan91JgpAWfushyguCGRIlyXDfgZbBpv_qVVLUFcpAyxO79ZIhdQ8eSR_lCIjXH0ohkreO3Y=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeprnoQI2CBoicnhR2GCKBCwO26s6PU_pa-74W4iVtV0drmcmP87d0moMYezaoA0uBCJMQj0dkHYMbZSHlh7nL4o75C8MXVcbdx9NgX-0swrRCTfKh9VBP41Z4vfj1",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPX-2R8eaNTbLu0IeVIAK-yPWtnzBHrrItF2-D7x7wu9c-36HHtMQaTAuYkqIPN_vKjuFHyFmebpwVxh1beVjnNpe--9DP-ZFk3_tOCARsSoYqOjSWSDREy3ex9cwgmZeQtGa_mqV1VM0fBw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbGPWefxESROliUe-H0QatnYWqRueZqbAgR1O_uRz4BMFn3DzgvXDe4EQsvPCk2ipB0VKD6KhKsPQ878wUr2l2IZQWa6F5Eg5WS_qhPmBgJyX8BebXZsaU"
-      ]
-    },
-    {
-      "topic": "東山動植物園のコアラがいつも寝ている驚きの理由",
-      "text": "公園でのんびりするのもいいけど、週末に東山動植物園へお出かけするご家族もおるよね。でも東山でコアラを見に行くと、いつ行っても丸くなってグーグー寝とらん？起きてる姿を見たことないんだけどってツッコミ入れたくなるじゃんね。昔はユーカリに酔っ払っとるなんて噂もあったけど、実はあれ、極限の省エネ生活なんだわ！コアラが食べるユーカリの葉っぱって、信じられないくらい栄養が少なくて毒素まで入っとるの。その毒を体の中で解毒するのにものすごいエネルギーを使うもんで、余計な動きを一切しない作戦に出たわけ。なんとコアラの睡眠時間は1日およそ18時間から20時間！1日のほとんど寝とるじゃん！起きとる4〜5時間のうち、約3時間は食事しとるから、実質「起きて食べて即寝る」の無限ループだよ。羨ましい…って、みおんAIだから睡眠いらんかったわ！しかも体長約70センチの小さい体の中に、毒を分解するための約2メートルもある巨大な盲腸が入っとるんだって。身長の3倍近い盲腸ってどういうことなの！さらにお尻の毛がぎっしり密集しとって、木の枝に何時間座っても痛くならん天然クッションになっとるらしいよ。まさに寝るためのプロ！今週末コアラを見に行って爆睡しとったら、「2メートルの盲腸で毒と戦っとるんだな」って優しく見守ってあげりんね！",
-      "source_ids": [
-        20,
-        21,
-        23,
-        24
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE74w-h8MY8wWbNcxQyqY3phes0fff8brq_jhtC66RbXtztJNrU00sPRmdUJ_xhu1dOuhGgSBvd60iEJJQCXsDAWoZFfj0mhsayP8OYDglrpOVYwextv_aQm1zilf8_34ZmtFaYO0x20UTc30CX3rdvXxvweCQcm40=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQOSyuVvnpRklM6xwjnKkDrjNs7EkaCxXL6ce7xLeewVqePVwlseecQz7u4mLF-vugiBhgO_EeBeiIJ_GOqu30LC3WwPI8G8Uuyn_IistP5nsTFuXplD9vCITxrHkD-XKzrm8yjS-wUFO7wajWgyaNXkfgIZ2hLYyEtZa0LaXUT4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHufEiirD2g6rvAkzfGeWR025dUh0jjweNjDiZG2JUgJwG4-V_hequ5x8yCiOzybGP1mtIydx1iz8bYrTfpFs0oce9ddmidl6YkS_8RH4Z2EvXdolVM-DgbIzTBwJdpZozRaWHzQFu6h7o3T9OUYx083TMFZps=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGubv54tZSgJmUOFcZhqiv4hVUufNYRluDrpiY3sHfWiWox8iXAhgGnJ36g3gifzR0YaasvC0CULj_8eBAQkqYgkdm4LnFAeOS4ruPyEXVR9bAfm7Gmo1GogLyUScSI_Ocoj4M="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAm-4fUeyYqQaLB2iT3RDLrI9JJBObrs1tSFGwhYfoR1kAbn2SnabGllHPnbynl9mBI7sPc1vkUV06GyzHFp7cUYEXYkV5swoGv0KfJovy_jMlv0NoKuk2EVzMkM-D9sVaUoJ-2de7bPsGWB_ndgCK",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRCSTCUhbbKyDlca0SQRiAnQXmwZlrWTiLhzENelR9c5nzwdau-rgH0BDsH6lpwFMUA5hvOpcBVoDoIV4UIb6Y1HUPKZP-Ry1o2l3bqXoOp_F9YBXd2nyAxbzG-cizeUlZE9jDQ8BTm-TZIn-11H3Q1OlG0g0mikKZ99h7ZdZAbWe2aHGgGKdh8iL-_Q4HUpn9C97VFn3f9UPcVy-VIEmsJX1Gts2SxGF69YcsiMQjIaLuk_uRm_QNaryWu6MJykWpycBdTpz1Ri0Ve2BthYbLzjQ5ls536313qBxH5L1-gVeGFfkkF1kl4fLhqcO-M5bf8GlA9c8zqlEO-g==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDIm5mU6Zbgm4iKAZS4PRQ1UU1JASEnDJvP1tv8TJHKYCVZ3MeUBsPtenkjVZBXBtaWNlM1oYCOfry0kJq3maW7rIBZDAOcwK0VoagjMKTOl3Tl-4-JNyQKTyQpmLE5EpZGEspwVB-brsYQgu-8VWG"
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ放送向けに、週末のドライブやお出かけが何倍も楽しくなり、家族に話したくなる「へえ、そうだったのか！」を集めた調査メモを作成しました。安城・西三河および愛知県内の身近なスポットから4件を厳選しています。\n\n---\n\n# 週末のお出かけがもっと楽しくなる！「へえ、そうだったのか」調査メモ\n\n---\n\n### 1. 【安城産業文化公園デンパーク（安城市）】\n**疑問：なぜ安城市の公園に、遠い北欧の国「デンマーク」の名前がついているの？**\n\n* **理由：** かつて安城市を中心とする碧海郡（へっかいぐん）地域が、先進的な多角形農業や協同組合組織を発展させ、当時世界的な農業先進国として知られていたデンマークになぞらえて「日本デンマーク」と称賛された歴史があるためです。\n* **具体的な数字や比較：** かつて原野だったこの地域は、明治13年（1880年）の明治用水開通により、水田面積が約2,300ヘクタールから明治40年代には8,000ヘクタールを超える一大穀倉地帯へと大急拡大しました。大正15年（1926年）発行の専門誌『農政研究』では「日本の丁抹（デンマーク）号」として全国に紹介されています。なお、園名の「デンパーク」は、日本デンマークの「デン」、田園の「デン」、伝統の「デン」の3つの「デン」と「パーク」を組み合わせて名付けられました。\n* **意外な点：** 本場のデンマークは「酪農」が中心の国でした。一方の安城は米作を軸に畑作・果樹・養鶏・養蚕を組み合わせた複合経営（多角形農業）であり、営農形態そのものが似ていたわけではありません。「農村を豊かに近代化させた理想郷」という敬意の象徴として名付けられました。\n* **歴史の裏話：** この発展を支えたのが、明治34年（1901年）に新設された安城農林学校（現・安城農林高校）の初代校長・山崎延吉（やまざきのぶきち）です。卒業生らと組織化を進めて「安城梨」などをブランド化し、全国から視察者が殺到した結果、当時の安城駅前には旅館や飲食店だけでなく演芸場や映画館まで立ち並ぶほど賑わいました。\n* **主な出典：**\n  * 安城市役所「日本デンマークって？」\n  * 安城産業文化公園デンパーク「本施設について」\n  * 農林水産省 東海農政局「明治用水の歴史」\n  * 安城市歴史博物館「日本デンマーク」\n\n---\n\n### 2. 【香嵐渓の紅葉（豊田市足助町）】\n**疑問：東海屈指の紅葉名所「香嵐渓」の美しいもみじは、どうしてあんなに山一面に広がったの？**\n\n* **理由：** 自然の原生林ではなく、約380年前の江戸時代初期に、山内にある香積寺（こうじゃくじ）の住職が参道に祈りを込めて手植えしたことが始まりです。\n* **具体的な数字や比較：** 現在はイロハカエデやオオモミジなど11種類、約4,000本のもみじが山を彩っています。開祖が植えたとされる巨木のうち、杉の木2本が今も境内に残っています。\n* **意外な点：** 飯盛山（いいもりやま）の本来の植生はスギやヒノキ、広葉樹の山でした。お寺の参道だけにあったもみじを山全体へと広げたのは、大正末期から昭和初期にかけて「美しい森林公園を作ろう」と立ち上がった地元の住民、青年団や婦人会などのボランティアによる植樹活動でした。\n* **歴史の裏話：** 「香嵐渓」という風情ある地名がついたのは昭和5年（1930年）のことです。香積寺の「香」と、巴川の清流がもたらす山気・嵐気の「嵐」をとって命名されました。\n* **主な出典：**\n  * 曹洞宗 飯盛山 香積寺「香積寺について」\n  * 豊田市足助観光協会「香積寺」\n  * 愛知県観光コンベンション推進局（Aichi Now）「香嵐渓もみじまつり」\n\n---\n\n### 3. 【西尾の抹茶（西尾市）】\n**疑問：週末のカフェ巡りでも人気の西尾市が、なぜ「お茶」ではなく「抹茶」に特化した産地になったの？**\n\n* **理由：** 矢作川の川霧が適度な湿度をもたらし、水はけの良い赤土が広がる自然環境が、日光を遮って育てる抹茶の原料「てん茶」の栽培に極めて適していたためです。\n* **具体的な数字や比較：** 西尾市全体で約200ヘクタールある茶園のうち、じつに生産量の「96％以上」が抹茶の原料である「てん茶」で占められています。一般的な茶産地は煎茶が主ですが、抹茶の原料にここまで特化している地域は全国唯一とされます。また、「西尾の抹茶」は茶の分野で「抹茶に限定した地域ブランド（地域団体商標）」として全国で初めて特許庁に認定されました。\n* **意外な点：** 西尾の茶づくりは、明治初期の開墾当初から大衆的なお茶ではなく「玉露」など最初から高級茶の製造を目標にしていました。大正時代後期に加工技術の近代化とともに「てん茶」へ完全に舵を切ったという、極めて戦略的な歴史があります。\n* **歴史の裏話：** 寺院での起源は鎌倉時代（1271年に実相寺の聖一国師が種をまいた）に遡りますが、産業として定着させたキーマンはお坊さんでした。明治5年（1872年）、紅樹院（こうじゅいん）の住職・足立順道師が京都の宇治から茶の種と製茶技術を持ち帰り、地域の農家に熱心に栽培を勧めたことが発展の礎となりました。\n* **主な出典：**\n  * 西尾市役所公式ウェブサイト「西尾の抹茶・お茶」\n  * 西尾市観光協会「西尾の抹茶 日本有数の生産量を誇る」\n  * 西尾茶協同組合「西尾の抹茶について」\n\n---\n\n### 4. 【東山動植物園のコアラ（名古屋市千種区）】\n**疑問：週末に家族で見に行っても、なぜコアラはいつも丸くなって寝てばかりいるの？**\n\n* **理由：** コアラが食べるユーカリの葉は極めて栄養価が低く、しかも毒素（タンニンや油分）が含まれているため、消化と解毒に膨大なエネルギーを消費します。動いて無駄なカロリーを消費しないための「極限の省エネ生活」をしているからです。\n* **具体的な数字や比較：** コアラの1日の睡眠・休息時間は「約18〜20時間」に及びます。起きている時間はわずか4〜5時間ほどで、その大半（約3時間）は食事に使われます。体長約70cm前後の小さな体の中に、毒素を腸内細菌で分解するための約2メートルもの長い盲腸を持っています。\n* **意外な点：** 昔は「ユーカリの成分に酔っぱらって眠っている」という俗説がありましたが、科学的に否定されています。また、お尻の部分の毛は他の部位よりも密に生えており、硬い木の枝の股に長時間座り続けても痛くならない天然のクッション仕様になっています。\n* **歴史の裏話：** 日本で初めてコアラが一般公開されたのは1984年秋（東山動植物園、多摩動物公園、平川動物公園）のことです。東山動植物園では公開直後から大フィーバーが起き、わずか4か月で100万人以上がコアラ舎を訪れる社会現象となりました。\n* **主な出典：**\n  * 名古屋市 東山動植物園 オフィシャルブログ「コアラのイメージ」「ズーボが行く！『コアラは眠りのプロ？！』」\n  * 国立国会図書館 レファレンス協同データベース「どうしてコアラはいつも眠っているのか」\n  * オーストラリア・コアラ基金（AKF）「コアラ豆知識」\n\n---\n\n## 番組内で使える！3択リスナークイズ（香嵐渓編）\n\n**問題：**\n秋のお出かけ先として大人気の足助の「香嵐渓」。およそ380年前、香積寺の三栄（さんえい）和尚がもみじを1本植えるごとに、あることを行っていたと伝えられています。一体何をしていたでしょうか？\n\n* **① 矢作川の水を一杯かける**\n* **② 般若心経（はんにゃしんぎょう）を一巻唱える**\n* **③ 参拝者に手打ちうどんを一杯ふるまう**\n\n---\n\n**【正解】**\n**② 般若心経を一巻唱える**\n\n**【解説トーク例】**\n「正解は2番！三栄和尚は、かつてこの地を治めた足助氏の菩提を弔い、訪れる人々に喜んでもらえる美しい山にしようと、お経（般若心経）を1回唱え終えるごとに1本ずつ、心を込めて木を植えていったと伝えられています。いま私たちが目にする約4,000本の美しい紅葉は、一人の住職の深い祈りと、それを受け継いだ地元の人たちの手で育まれた景色だったんですね。」",
+  "research": "愛知県安城市和泉町周辺のリスナーに向けた地域ラジオのトークネタとして、昔懐かしい暮らしの道具や風景にまつわる「心が和み、思わず家族に話したくなる話」を4件まとめました。地元・愛知の伝統工芸や身近な生活用品を題材に、一次資料（メーカー公式・博物館・業界団体など）の記録をもとに構成しています。\n\n---\n\n### 1. 常滑焼の赤い急須でお茶を淹れると、なぜ角が取れて美味しくなるのか？\n\n* **理由：**  \n  愛知県知多半島で作られる「常滑焼（とこなめやき）」の代表格・朱泥（しゅでい）急須には、原料土に鉄分（酸化鉄）が豊富に含まれており、釉薬（うわぐすり）を塗らずに焼き締められています。お湯を注ぐと、土に含まれる酸化鉄とお茶の渋み・苦味成分である「タンニン（カテキン類）」が適度に反応・吸着し、お茶の角が取れて味がまろやかになります。\n* **具体的な数字や比較：**  \n  ガラス質で表面がつるつるした「磁器」の急須は茶葉の味をストレートに抽出しますが、常滑焼の朱泥は多孔質で土の成分がダイレクトにお茶に作用します。また、熟練の職人が本体とフタを擦り合わせる「蓋擦り（すりあわせ）」という技法により、隙間なく密閉されるため、最後の一滴（旨みが凝縮したゴールデンドロップ）まで残さず注ぎきれる精密さを持っています。\n* **意外な点：**  \n  「急須でお茶の味が変わるなんて気のせいでは？」と思われがちですが、実際には土の鉄分と茶葉の成分による**化学反応**という明確な科学的根拠があります。\n* **歴史の裏話：**  \n  平安時代末期から続く日本六古窯の一つ・常滑焼ですが、この朱泥急須が盛んに作られるようになったのは幕末から明治にかけてのこと。中国・宜興窯（ぎこうよう）の茶器を手本に研究が重ねられ、日本の煎茶文化とともに大ヒットしました（常滑市と中国の宜興市は、この茶器のご縁で友好都市提携を結んでいます）。\n* **根拠・出典：**  \n  * とこなめ陶の森 資料館 展示解説\n  * とこなめ焼協同組合・伝統的工芸品産業振興協会資料\n  * 日本茶専門店等による朱泥急須の成分解説（酸化鉄とタンニンの反応）\n\n---\n\n### 2. 蚊取り線香はなぜ「渦巻き型」になったのか？\n\n* **理由：**  \n  かつて蚊取り線香は仏壇のお線香と同じ「細い棒状」でしたが、燃焼時間が短く、寝ている間に燃え尽きて蚊に刺されてしまうという弱点がありました。そこで「長時間持たせるために線香を長くしたいが、場所を取らず、倒れて火事にならないようにする」という工夫から渦巻き型に丸められました。\n* **具体的な数字や比較：**  \n  明治23年（1890年）に世界で初めて発売された棒状蚊取り線香は、長さ約20cmで燃焼時間は**約40分**でした。これを渦巻き型にしたところ、まっすぐに伸ばすと**約75cm**の長さになり、人の睡眠時間に合わせて**約7時間**燃え続けるようになりました（持続時間が10倍以上に向上）。\n* **意外な点：**  \n  この歴史的アイデアをひらめいたのは、KINCHO（大日本除虫菊）創業者の上山英一郎氏ではなく、妻の「ゆき」さんでした。ある日、庭（または蔵）で見かけた「とぐろを巻いた蛇」の姿を見て「細長く巻けばいいのでは」と夫に提案した内助の功から生まれています。\n* **歴史の裏話：**  \n  明治28年（1895年）に渦巻き型が考案された当初は機械がなく、職人が木型を使って1本1本手作業で2巻を組み合わせて手巻きしていました。現在のように平らな板から機械で打ち抜く方式になる大正時代まで、大変な手間をかけて手づくりされていた暮らしの道具でした。\n* **根拠・出典：**  \n  * 大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです。」\n  * 国立科学博物館「重要科学技術史資料（未来技術遺産）」登録資料（金鳥の渦巻）\n\n---\n\n### 3. 黒い鉛筆は「六角形」なのに、色鉛筆はなぜ「丸い」のか？\n\n* **理由：**  \n  普通の鉛筆は文字を正確に書くため、親指・人差し指・中指の「3本」の指で固定して持ちます。3の倍数である「六角形」は指の腹が平らな面にぴったり収まり、長時間書いても疲れにくく、机の上でも転がりにくいためです。一方、色鉛筆は絵を描いたり塗ったりする際、ペンの角度を寝かせたりくるくる回したりしながら使うため、指当たりが柔らかくどの角度でも回しやすい「丸軸」に設計されています。\n* **具体的な数字や比較：**  \n  鉛筆は「3本の指」で支えるため、断面が3の倍数（三角形や六角形）になります。握力が弱い幼児向けの練習鉛筆には太い「三角形」もありますが、一般的な筆記用は転がり防止と持ちやすさのバランスが取れた「六角形」が主流です。また、色鉛筆の芯は黒鉛筆（黒鉛と粘土を高温で焼成）とは違ってワックスや油脂を含んで柔らかいため、六角形にして偏った圧力がかかるのを防ぎ、円形の均等な木の厚みで保護する役割もあります。\n* **意外な点：**  \n  同じ「鉛筆」という名称でも、「文字を書く道具（安定した固定が必要）」と「絵を描く道具（自由な動きが必要）」という手の使い方の違いによって、軸の形が論理的に作り分けられている点です。\n* **歴史の裏話：**  \n  19世紀半ば、ドイツの鉛筆メーカー「ファーバーカステル社」の4代目ローター・フォン・ファーバーが、筆記具としての握りやすさ、机からの転がり防止、そして板材を切り出す際の木材ロスの少なさを追求して「六角形」の鉛筆を開発し、これが世界標準サイズとして定着しました。\n* **根拠・出典：**  \n  * 一般社団法人 日本筆記具工業会「筆記具の基礎知識：鉛筆」\n  * 株式会社トンボ鉛筆公式「Q&A / 鉛筆の軸の形状について」\n  * 三菱鉛筆株式会社公式「えんぴつなんでもQ&A：6角形が多い理由」\n\n---\n\n### 4. 郵便ポストはなぜ「赤」になったのか？（昔は何色だった？）\n\n* **理由：**  \n  郵便ポストが赤くなった最大の理由は、「街角で遠くからでも目立ち、誰でもすぐに見つけられるようにするため」です。明治43年（1910年）の逓信省年報にも「公衆ヲシテ認識シ易カラシムルタメ特ニ朱塗トセリ」と公式記録が残されています。\n* **具体的な数字や比較：**  \n  明治4年（1871年）に郵便制度が始まった当初、最初のポストは木製無塗装の「書状集め箱」でした。翌明治5年（1872年）に全国展開された際には、角材に黒いペンキを塗った「黒塗柱箱（黒ポスト）」が作られました。しかし夜間や悪天候で見分けがつかず、明治34年（1901年）に火事に強い鋳鉄製の「赤い丸型ポスト」が試作・登場し、以降全国へ赤いポストが普及しました。\n* **意外な点：**  \n  初期の黒いポストは、夜に目立たずゴミ箱と間違えられただけでなく、当時まだ「郵便」という言葉を知らない一部の人が「垂便（たれべん＝大小便）」と読み違え、ポストの中に用を足してしまうという前代未聞のトラブルが実際に起きて問題視されました。\n* **歴史の裏話（西三河・愛知の話題）：**  \n  東海道の宿場町にも置かれた初期のポストですが、現代の愛知県内にはユニークなポストがあります。安城市の南隣にある西尾市（特産の西尾の抹茶で有名）の井桁屋公園などには、名産をPRするために塗られた「抹茶色（深い緑色）の丸型ポスト」が現役で活躍しており、赤色以外の珍しいポストとして親しまれています。\n* **根拠・出典：**  \n  * 郵政博物館「郵便ポストの移り変わり 〜日本最初のポストから現在のポストまで〜」\n  * 郵政博物館 研究紀要 第7号（2016年）「最初の公式鋳鉄製赤色円筒形郵便柱箱」\n\n---\n\n### 【ラジオ番組用 3択リスナー向けクイズ】（話題2：蚊取り線香より）\n\n**問題：**  \n日本の夏の風物詩、ぐるぐる巻きの「蚊取り線香」。昔は棒状でおよそ40分しか持ちませんでしたが、寝ている間も長く使えるようにと、創業者の奥さんが「渦巻き型」をひらめきました。さて、奥さんが渦巻きの形を思いつくきっかけとなった生き物は何だったでしょう？\n\n* ① 庭をゆっくり歩いていた「カタツムリ」\n* ② 蔵の中でとぐろを巻いていた「ヘビ」\n* ③ 網をきれいに張っていた「クモ」\n\n**正解：**  \n**② 蔵の中でとぐろを巻いていた「ヘビ」**\n\n**トーク用ひとこと解説：**  \n「実はヘビだったんですね！創業者の上山英一郎さんの奥さん、ゆきさんが蔵で見かけたとぐろを巻くヘビを見て『これだ！細長くして巻けば場所も取らないし、朝まで燃え続ける！』とひらめいたそうです。一本伸ばすとなんと約75センチもあるんですよ。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9D%B1%E5%B1%B1%E5%8B%95%E6%A4%8D%E7%89%A9%E5%9C%92+%E3%82%B3%E3%82%A2%E3%83%A9+%E7%9D%A1%E7%9C%A0%E6%99%82%E9%96%93+%E3%83%A6%E3%83%BC%E3%82%AB%E3%83%AA+%E3%81%AA%E3%81%9C&client=app-vertex-grounding&safesearch=active\">東山動植物園 コアラ 睡眠時間 ユーカリ なぜ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A6%99%E5%B5%90%E6%B8%93+%E3%82%82%E3%81%BF%E3%81%98+%E6%AD%B4%E5%8F%B2+%E4%B8%89%E6%A0%84%E5%92%8C%E5%B0%9A+%E8%B1%8A%E7%94%B0%E5%B8%82&client=app-vertex-grounding&safesearch=active\">香嵐渓 もみじ 歴史 三栄和尚 豊田市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E5%B8%82+%E6%97%A5%E6%9C%AC%E3%81%AE%E3%83%87%E3%83%B3%E3%83%9E%E3%83%BC%E3%82%AF+%E7%94%B1%E6%9D%A5+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">安城市 日本のデンマーク 由来 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%A5%BF%E5%B0%BE+%E6%8A%B9%E8%8C%B6+%E6%AD%B4%E5%8F%B2+%E7%94%B1%E6%9D%A5+%E8%A5%BF%E5%B0%BE%E5%B8%82+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">西尾 抹茶 歴史 由来 西尾市 特徴</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%89%9B%E7%AD%86+%E5%85%AD%E8%A7%92%E5%BD%A2+%E8%89%B2%E9%89%9B%E7%AD%86+%E4%B8%B8+%E7%90%86%E7%94%B1+%E6%97%A5%E6%9C%AC%E7%AD%86%E8%A8%98%E5%85%B7%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E3%83%88%E3%83%B3%E3%83%9C%E9%89%9B%E7%AD%86&client=app-vertex-grounding&safesearch=active\">鉛筆 六角形 色鉛筆 丸 理由 日本筆記具工業会 トンボ鉛筆</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%B8%E6%BB%91%E7%84%BC+%E6%80%A5%E9%A0%88+%E3%81%BE%E3%82%8D%E3%82%84%E3%81%8B+%E7%90%86%E7%94%B1+%E9%85%B8%E5%8C%96%E9%89%84&client=app-vertex-grounding&safesearch=active\">常滑焼 急須 まろやか 理由 酸化鉄</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%83%B5%E4%BE%BF%E3%83%9D%E3%82%B9%E3%83%88+%E3%81%AA%E3%81%9C%E8%B5%A4%E3%81%84+%E6%9C%80%E5%88%9D+%E7%99%BD+%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">郵便ポスト なぜ赤い 最初 白 郵政博物館</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYfTB2n4T3iycx15rC8Y3U0EY_FBIXBi2YP7w8bHtCz1TW-CxipX784iy91O70tpGXftwR2mLRoRaCc60jDRTRncgUan91JgpAWfushyguCGRIlyXDfgZbBpv_qVVLUFcpAyxO79ZIhdQ8eSR_lCIjXH0ohkreO3Y=",
-          "title": "city.anjo.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaPyzoZRiCwzTRlml5Xvg7OEHU5vZoNxqU9BbXaMCDgnwPTrZrua1lkQUYa8DVd1kXlTiQLZf9ssXzTh2hBLqUvIwK5j7IcP_36VS5ZMiii-9H6sd_c2Wvdw==",
+          "title": "shinryokuen.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeprnoQI2CBoicnhR2GCKBCwO26s6PU_pa-74W4iVtV0drmcmP87d0moMYezaoA0uBCJMQj0dkHYMbZSHlh7nL4o75C8MXVcbdx9NgX-0swrRCTfKh9VBP41Z4vfj1",
-          "title": "denpark.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB56eovmSLfm7DHd2X1nrtBNNcrXYnwqnv2eiYm3x8O0iEMwIC935FYdjbJNlyjqRznYqpiRBFb1u65MYsQyucDvPxz-VwXVo3pJ_rfqpuk80=",
+          "title": "ochajikan1.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-1Du4ZJe4pTSAi96oFNx1JWYRKstYVs08bxGwdMgPNoarSu6iQLS3qn01a-_3OhMJ8jqfrVfiEHRiX70QBIn-jG8pnKkKXFZFqHdQspRtXE3CALGOfL2Qd40NgL85tw==",
-          "title": "suido-ishizue.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG09WQVHOZYPHeK7rekZx0fglSf6Z_VGqouRklD-Q4V92-2iPSbxFBxNawA9DENatJ7PDbVoPkMtlIYRTZ-Nv9UYZrt5I8UZBsncZAkvRWaBf4vyn6JgdZvdEtZY1CVGRNQSalRDyA=",
+          "title": "saji.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPX-2R8eaNTbLu0IeVIAK-yPWtnzBHrrItF2-D7x7wu9c-36HHtMQaTAuYkqIPN_vKjuFHyFmebpwVxh1beVjnNpe--9DP-ZFk3_tOCARsSoYqOjSWSDREy3ex9cwgmZeQtGa_mqV1VM0fBw==",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1LtfdNKYpdHgMmePtLgZzbhpaOIqvDpaoCOqVj1QxX_x7Lf1SKGsnVprQzVldAh3RJtXln1Ib-m8sqYoUbTJXEv-uGzo27iVWnSoYoaG6Iomh2rGNlQoU2gxC1KIvjA==",
+          "title": "thecovernippon.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbGPWefxESROliUe-H0QatnYWqRueZqbAgR1O_uRz4BMFn3DzgvXDe4EQsvPCk2ipB0VKD6KhKsPQ878wUr2l2IZQWa6F5Eg5WS_qhPmBgJyX8BebXZsaU",
-          "title": "ansyobunka.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqptlHQCmV3XFb0_i4hQeV_sR1QEIiQpiwmLSAW0f_QWxr2tFCuSzUiniqZ5NevqxmKkTAy66ypVymGDCIk29GrNWnf5pKiLOF6kuPwnXFwkj3hTW42aOXzJxZeJC1FF4g8QkH1UNasSjPds-txkRNoE7kUC8orbNaMh99yJjPDrKtG3002sJ6BxC0VhM7MLZRJOTY3bIRinZDKvCA8ljgMoW1oGzzcqW05v4Hw5dTg3i1-2uEpNfJ38QfzXpw8SgVHavZkwjcNlbdgCTb76rlDmsH28mDu8CHhqbUHjIVfcNA-JM=",
+          "title": "sayamaen-japanesetea.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUxW5-wpE_pUAynwv7-XUb5lz_kj--4aC6_wdVK-dZ6nTY291V6SES51dAGhJHtCzc7-VJ1CZnMpChAHQ9btmbkjIZzbgQTbm0fU49E4oCW1hlJvRBSUm2g1y9lRh8vQdvgWjz-kzUyL8LI6tlKNaJyQOXUz4=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7z9nkrIi9X357ATT2t29QXHKEprkjGxtSn--tl4hbCiBi6GmehP3UWtk-Ri-nbUZhmCfoAE69OazEaPnlAquXjh74NIP0-TT6cPWf4FWTrWqCMserDd_xOoSkP9ordKIMwy2N8hDI",
+          "title": "ameblo.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9JUwc7SbQAg3_24Q4zBAmxS_V-wNppv8mlgmPXxGK7b3-tAFYQcao5FspUT43KhNAdjGjEss0qitK08Sbe-x6Fh9XrVUsx-e1ea5LE6pzUR3Pd5paigwRbUXZtwdn47o55ocql0=",
+          "title": "sencha-note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYTr-rNZn25xnkzntyPmhcd9bcwui_iz1aMdiRWN8x3iqUHQfLfTe22WuKpAVBOkXZgSSVpaH1JsBkXAFzy75Wwu63c5MpbqrmRr_JefbUmWxBvETryl-9suoqNY5jcrYXYyq_JpuFjc35xBY=",
           "title": "hatenablog.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_cj0fRIy8f8b2vOaxrnbpIWLrgiRd6RGYXrJLuzvFgNKJ8YlkMQvy6Hz5V61VyoRja0p6Ja4K0tF9eHw92BwkuO6z0XRrRXYXPU1TBr8Bzi0EeYsK1OMJ_UiE-KhRW4NzAOIlXX4=",
-          "title": "jaac.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEay1VGlr3Rb5UaQT83SmrCjivUpqHSAoL9yFYG34ycmPJBmQYt_fGeFBsHyiJXT7tTTKIC0bshLfuJ2nwwn4CmV1sdHFBDmwU5tsbS7LmsUWF0ruZ1SdJsXrRxoST3r4z3FEGRDOnrXw==",
+          "title": "kincho.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMBPhJG-v6FQ2i-8WalRMYjNmXvE0wB2AD2t-iu8rchGphVvwWT512eFxUelOwwJrEpKDIGHkwS7pzIymMvi-hDvRJdivExOcYMw8OXD86NcU=",
-          "title": "kojakuji.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtG8lXSuiiRRsBSaV4AnjdnLUh0x8nrvIGwqt0-mKn4XtmFOHJklsVNZkM16_NxB9ghZts-OSMBNLBgOgU6fXxj4IW_hBmwC830bdbYCTpgAkCc_EdB0FUdcyWof8=",
-          "title": "club-t.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOTVsu7PPXBtUuFr5_fsDCk233oqRr-wCz5k-6KqFudu_2TVlzW2yaxeYmHPhsQUPb4AGFnbOHNmmXeqUr_okPI_kwgtKdrXWWyd8v9zB-uvrw33KoJeWiKdx04e96I_saGtAmCqk5Dr6i4Hrtr3n-kCqaaxshqt8NEY0cI4DYoIVac-_pJ8ESdv-s4dePopFakGxKRfQvl_PNPJDDGUrLKXwsDQ==",
-          "title": "jimdofree.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-DhWpDhn_kXNk5O6Mg39Se0cW1PgcALDAXuFDfC1ZYNNU9y7jzMpCkiM4R7d_KzeuURgUcIhK0mXbVBArr0A7D6lHfnrIPSbyEMGHVQCbmDWHa7RUg3Hwqw1MRVX4-YfbBl4=",
-          "title": "tourismtoyota.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFareMc_t3h_6n39sX7zHK3-q2vM-CwxE8lnDZ5Yipo--rGWn7Mmkt9Li-BDlTwlv0bDasO7IWserU6yZipePUYEdrq4g24evvipW-fJyXmiat-Tv6IryKtzisleENolu_Azg==",
-          "title": "asuke.info"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1WImVgs60VWR3UvilucVcQ4wEjWd1pVvqQP9x3EBpMxyf3BcdrxF5e6Hkfa3yuU5iSd0V37cR8P9R954hNrbcIgE9tfHghz18wbCO0cSXCK5A4mayzgxR648zrLpFYPvtOZQ=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm9OGyp9od6wsaiW8acxqbS809erN4Wek7BaARKcq0Ma5mgXAxM6nRu2rsIjtpYX-OZA-8w5tkoZs2iR2P-xs5V1LvPl2U0JHcrc9EEF856Ao7_nb7IhRNZ6SXvKfWqYE=",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPwZm2PGJWs3Ub207m4ENTcyHM-74JrlNoV-gOATXkm4GCL6fUGxNm9VRP1Y9PUB4b_CvWAvy2cNtOpgnWHYIaA7488f20ky-AK-qEI-ky2SoGankiAlLOOUqfsmfeWL0ti4jzSfuj",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pgo8SLjUNll2nB-Gy4rlmdV4tE1HqmRKVDlr3YFXYddpsFuhtQw9255He9W-GBLtXToEMUa_0wfZZkB9KFkkmaOdpy3Fx9kG5yLeFSthU4XQF_OYuVhetvNHJm_6JYxJNGKpXTNIH6hRNKqkOCm3cGA=",
+          "title": "tenki.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDCmC38gh7FhKkslhQ0zGN8IBznXh_mYtmhvhxzfkCsd55x74KDqIDGyPpEleOMY3owZ4mujSa6ZuIT8AobqNHGKpQU0jFpHAGuJZgEOsfu5yb8vf1w1qrkRQxLqMPCV-_HTpOscDSGIqx_8cEzLcu_F74yboRPDmFy2GJhWeCBvAxBUwR",
-          "title": "city.nishio.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-wiNrBp47ho7sPoaHdHEgDwI0fAXwhpd8GWV9K51D9HFI224Nr0IfYemQTNi0PH5SMISU2qH5PSh9qIYxZ3nDknRtZpSnUroIOVpp0TCMidzbLgT58rXjxpuDtMm-_w==",
+          "title": "kincho.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkVB0upTVnvorwfyUbk0-whNQzqTg7GxOTynecUcYbqUbzQv-lg5TvDH0Tr1RIZSQVigAyJaLjdrj7e-OIgDJzptNjNMGZaaw1GCbmrizjicRcm36xJL4aDWF8r-OhvbaQLw==",
-          "title": "nishiokanko.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4uS-7vKjQtg7aBiQsI0wg8FUeLFFr0XTDYN1syN8jCvEuQMOXWUmd3UP4CeTIzJNMnoO28NsHxJhVqgpORGi99_w9VF2keKdpvXjSoztZPYGWYc27ogRjuLkp1pW0bNjJ_VL1v0iSlOUmnQ0jf48dWFoumm_Kntpp_q0=",
+          "title": "wakayama.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-pqPN_FlXmV9eTR02weqYwONL1JtNLcBPlGnpZnoDiHKz4J6cj1hKVhk8vorirpnc38EjkJbcw61k-G2BEUOvJL6Za9mDeKzmf5TyDEja5GmebTaQHNtF",
-          "title": "nishiomatcha.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfRXsubkN1hkKX1uRPDSnXaizPKvaQ0jronCNrxbVPW0tRVOiVxuOgyuJX4l_nAPlJO0TZ7MNVGDMVPyH2WV7HefBwGaM6CWZbZL6fuLEyZhDTaSL7AXO-RWIhiZ_Pc_AEVRJ0R5SdIilUQA34SI=",
+          "title": "tombow.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPnnm3TP0X-Nx0DS-pcWS5ewcMfSWHsWfpGQyhPcpJGdL__rwtVRVi-b9XujVPSOyrnfUhAZO-RnfPj20gmx9zY18pTaVdbOjPmC5mTsXJYe9mtVh4NTo=",
-          "title": "matcha.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETBt8upIoB0R6wls7MdoNUK9rOovlwAihgedlhtYf_eFjFMFBsIaSwAu4yz61K_-xsQvTTcjEVNjCGVCWcEz3GMFge7BDU7B37PRxTkYJ4vOZZXojJcJE5vVyXeU4MzvM=",
+          "title": "zatsuneta.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE74w-h8MY8wWbNcxQyqY3phes0fff8brq_jhtC66RbXtztJNrU00sPRmdUJ_xhu1dOuhGgSBvd60iEJJQCXsDAWoZFfj0mhsayP8OYDglrpOVYwextv_aQm1zilf8_34ZmtFaYO0x20UTc30CX3rdvXxvweCQcm40=",
-          "title": "city.nagoya.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmjpn1R0U0mtTcM47T1vmESseodvwcbSQ7o0pvhn8RL_qHMqnaWPy4DZ0R5JJrgCXk5pVlDbzwYgWVNRyhJgGgopcbkKXWbrC2o5B8ekMVlqjl99QjB7O-upGhlpxZF02R-_jgYQJ_EBOX6A=",
+          "title": "tplant848.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmQOSyuVvnpRklM6xwjnKkDrjNs7EkaCxXL6ce7xLeewVqePVwlseecQz7u4mLF-vugiBhgO_EeBeiIJ_GOqu30LC3WwPI8G8Uuyn_IistP5nsTFuXplD9vCITxrHkD-XKzrm8yjS-wUFO7wajWgyaNXkfgIZ2hLYyEtZa0LaXUT4=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhggoLzqTtFAVfYllEACwlTSc7yesXeQ_mWuFM-rogFbf4tiIo5oGkfXdB_EfhKWidsJyCBnU-fXFuGCbjy14Y1PDlizikusQyJDC_azxHSnOSaJANjDqy_794Y2Hz2LuFbPz-HHe09w==",
+          "title": "mpuni.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8wD5iSvoL83HnASAtnc9FzXN8iy64RYCv5EFVi-eMCVI4t4DaAktIDtF4vLF1I_Rj2feCG3rHXnENqVolFAR5_jfsBS8hzRgQqdNFfsvhgRDX6W2yURT-AA==",
+          "title": "precious.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIHwn3K8QObqZLoTCzef49ahYZdO0jG9XOEFtIe6Io-f7iIJ6MRF8BMepLNbeCbifdgBnzeOOB6CJnYyK74wpLm9uvRBI0yov9HMOqqv_OEUFCSHrpmPztks7TAKt3cvHT",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLpUYugd-CHnJQ8EKAIa042mo_wKfO3xhizY5SqkN22VDx2pDsuiNZK4QqnHnjVM9J9i52HgUjZB5wpFJANrIJhvxRa5Y6lUBpi3p_PCr_Yn_uRSLhkaOlQdXfnLFoA-WabBB907RK1DzcVQV5BsFE47ezyjEdfHY7UtM=",
+          "title": "yahoo.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kZ9_0IQ7tBsJeEqtTlKvHgtMMkWA5cvmfU3fmWvCM6Nk35lLI29_ILqSDJ57ymVO7gywGV1WnfRhvJRLUfpNvOwDPpZnz1QetkNCye1cBoFdl2zVfKs9BU3wNi6u",
+          "title": "02key.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfk_sBNCr5lZwBKjC84xpVh0Vzurlfkyxn0xmkXuy9IdbGfgfqblTlocWPtwYr_54HR-WwC6_h2HS8QLATJw3ZovyeZXJ1ZTvV8ItG10rU3zO62VDJIKKpIwkE8aV",
+          "title": "tombow.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAm-4fUeyYqQaLB2iT3RDLrI9JJBObrs1tSFGwhYfoR1kAbn2SnabGllHPnbynl9mBI7sPc1vkUV06GyzHFp7cUYEXYkV5swoGv0KfJovy_jMlv0NoKuk2EVzMkM-D9sVaUoJ-2de7bPsGWB_ndgCK",
+          "title": "postalmuseum.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRCSTCUhbbKyDlca0SQRiAnQXmwZlrWTiLhzENelR9c5nzwdau-rgH0BDsH6lpwFMUA5hvOpcBVoDoIV4UIb6Y1HUPKZP-Ry1o2l3bqXoOp_F9YBXd2nyAxbzG-cizeUlZE9jDQ8BTm-TZIn-11H3Q1OlG0g0mikKZ99h7ZdZAbWe2aHGgGKdh8iL-_Q4HUpn9C97VFn3f9UPcVy-VIEmsJX1Gts2SxGF69YcsiMQjIaLuk_uRm_QNaryWu6MJykWpycBdTpz1Ri0Ve2BthYbLzjQ5ls536313qBxH5L1-gVeGFfkkF1kl4fLhqcO-M5bf8GlA9c8zqlEO-g==",
+          "title": "a-kaisetu.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4qcppwvJI8B0Z2-UbDBecYOGqsCvwpeNncwtlnU3FS41HKs-w5I-m3wKXdEjs3Ps_yVw6L2lVxr9iEj2sMNvkcXMdJV1cOWtGAc0UuChyqb3CYXDurcO3JKNlCOczuk0hqhxxcc1sOQRVHNA3aaUjEMdsXbAUHsD6WHLTTDHKyQ==",
+          "title": "fc2.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxGvkLSuaRvx0Fvr8j1HWq67E_vfqLCDy6utAiiVTNoyRs3eQohNECA9nZSxUyJyRNL_2Pkawqn6I8Nc8Nx6WVF5EdcSllp_qeB33pZBBzw8jgR9u63cheCQCnlgtBtHHnx22kYOMYtxZOsVM-7_8_Y2O-lEWoe-kDlXHJgIyX8eM=",
           "title": "ndl.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoxxnSDWRDbFxMU8GXs_a2HKPYdzJwaDNJK7gSZufw0t0RkRBOSj_8m2-XESF6sooBEwPtDKSW3adXdZ3shNe29owJmu1t18UMp5mShtdfvNb_SjKW_HaHNwA5IA==",
-          "title": "bookbang.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_2pKABosX3o7gjRi5lst6fIvPEm0wN3RXWUADASuJryDsouamhhaa9j4TQSh9egcTQOtjm1NM1EN1GuQ5IPAUe--YxujOkgAtHudH6e2iseEcQVFMD1fbe4=",
+          "title": "quizknock.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHufEiirD2g6rvAkzfGeWR025dUh0jjweNjDiZG2JUgJwG4-V_hequ5x8yCiOzybGP1mtIydx1iz8bYrTfpFs0oce9ddmidl6YkS_8RH4Z2EvXdolVM-DgbIzTBwJdpZozRaWHzQFu6h7o3T9OUYx083TMFZps=",
-          "title": "city.nagoya.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDIm5mU6Zbgm4iKAZS4PRQ1UU1JASEnDJvP1tv8TJHKYCVZ3MeUBsPtenkjVZBXBtaWNlM1oYCOfry0kJq3maW7rIBZDAOcwK0VoagjMKTOl3Tl-4-JNyQKTyQpmLE5EpZGEspwVB-brsYQgu-8VWG",
+          "title": "mailmate.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGubv54tZSgJmUOFcZhqiv4hVUufNYRluDrpiY3sHfWiWox8iXAhgGnJ36g3gifzR0YaasvC0CULj_8eBAQkqYgkdm4LnFAeOS4ruPyEXVR9bAfm7Gmo1GogLyUScSI_Ocoj4M=",
-          "title": "savethekoala.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkV_rLUi-qCDvHOEFHpbUbwe-fWhNzpcI5Cl4Krqc7xxZr3llN6cqXx292MmJBMWfvkl_c3VYL4ILTLqzm9KXr947uTZu5-L0QIPD0MazEum4vv_xHkAX2a4sMuK7QhUZSSvQZ",
-          "title": "otonano-shumatsu.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF96y5Ee-frJRY_DoWRK7fB9V4zoh7WjUfg28JhEHwBtUGKRCtcrCAwh24AQFhS1eB3RJJktTe2Hy98hxZJYxQacnZHj2cIiSrK1ExHN8xU1F7RDjVag2rMwrIOOOjYBH1-igyi5fy0F1iPw784g3TdGA==",
-          "title": "hananomigoro.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztplic7L0RNqzGRtWC2OEsrOEhDWz46SoQFdfGlh-3R0bpBNZoHN8EIp9CGzs5eR3HIHKlTZT1QmP_MWyt4rKf4L2bXzgj2s2hWaxVfFavsiLK2WmqxY0hFD7w7M=",
+          "title": "note.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 645,
-          "endIndex": 971,
-          "text": "**理由：** かつて安城市を中心とする碧海郡（へっかいぐん）地域が、先進的な多角形農業や協同組合組織を発展させ、当時世界的な農業先進国として知られていたデンマークになぞらえて「日本デンマーク」と称賛された歴史があるためです"
+          "startIndex": 838,
+          "endIndex": 1057,
+          "text": "お湯を注ぐと、土に含まれる酸化鉄とお茶の渋み・苦味成分である「タンニン（カテキン類）」が適度に反応・吸着し、お茶の角が取れて味がまろやかになります"
         },
         "groundingChunkIndices": [
           0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 977,
-          "endIndex": 1255,
-          "text": "**具体的な数字や比較：** かつて原野だったこの地域は、明治13年（1880年）の明治用水開通により、水田面積が約2,300ヘクタールから明治40年代には8,000ヘクタールを超える一大穀倉地帯へと大急拡大しました"
-        },
-        "groundingChunkIndices": [
-          2,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1258,
-          "endIndex": 1411,
-          "text": "大正15年（1926年）発行の専門誌『農政研究』では「日本の丁抹（デンマーク）号」として全国に紹介されています"
-        },
-        "groundingChunkIndices": [
-          0,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1414,
-          "endIndex": 1628,
-          "text": "なお、園名の「デンパーク」は、日本デンマークの「デン」、田園の「デン」、伝統の「デン」の3つの「デン」と「パーク」を組み合わせて名付けられました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1634,
-          "endIndex": 1717,
-          "text": "**意外な点：** 本場のデンマークは「酪農」が中心の国でした"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1720,
-          "endIndex": 1918,
-          "text": "一方の安城は米作を軸に畑作・果樹・養鶏・養蚕を組み合わせた複合経営（多角形農業）であり、営農形態そのものが似ていたわけではありません"
-        },
-        "groundingChunkIndices": [
-          2,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1921,
-          "endIndex": 2029,
-          "text": "「農村を豊かに近代化させた理想郷」という敬意の象徴として名付けられました"
-        },
-        "groundingChunkIndices": [
-          6,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2035,
-          "endIndex": 2247,
-          "text": "**歴史の裏話：** この発展を支えたのが、明治34年（1901年）に新設された安城農林学校（現・安城農林高校）の初代校長・山崎延吉（やまざきのぶきち）です"
-        },
-        "groundingChunkIndices": [
+          1,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 2250,
-          "endIndex": 2499,
-          "text": "卒業生らと組織化を進めて「安城梨」などをブランド化し、全国から視察者が殺到した結果、当時の安城駅前には旅館や飲食店だけでなく演芸場や映画館まで立ち並ぶほど賑わいました"
+          "startIndex": 1102,
+          "endIndex": 1312,
+          "text": "ガラス質で表面がつるつるした「磁器」の急須は茶葉の味をストレートに抽出しますが、常滑焼の朱泥は多孔質で土の成分がダイレクトにお茶に作用します"
         },
         "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2529,
-          "endIndex": 2580,
-          "text": "安城市役所「日本デンマークって？」"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2585,
-          "endIndex": 2651,
-          "text": "安城産業文化公園デンパーク「本施設について」"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2656,
-          "endIndex": 2714,
-          "text": "農林水産省 東海農政局「明治用水の歴史」"
-        },
-        "groundingChunkIndices": [
+          1,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 2719,
-          "endIndex": 2770,
-          "text": "安城市歴史博物館「日本デンマーク」"
+          "startIndex": 1315,
+          "endIndex": 1606,
+          "text": "また、熟練の職人が本体とフタを擦り合わせる「蓋擦り（すりあわせ）」という技法により、隙間なく密閉されるため、最後の一滴（旨みが凝縮したゴールデンドロップ）まで残さず注ぎきれる精密さを持っています"
         },
         "groundingChunkIndices": [
+          1,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 2973,
-          "endIndex": 3185,
-          "text": "**理由：** 自然の原生林ではなく、約380年前の江戸時代初期に、山内にある香積寺（こうじゃくじ）の住職が参道に祈りを込めて手植えしたことが始まりです"
+          "startIndex": 1636,
+          "endIndex": 1850,
+          "text": "「急須でお茶の味が変わるなんて気のせいでは？」と思われがちですが、実際には土の鉄分と茶葉の成分による**化学反応**という明確な科学的根拠があります"
+        },
+        "groundingChunkIndices": [
+          1,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1883,
+          "endIndex": 2066,
+          "text": "平安時代末期から続く日本六古窯の一つ・常滑焼ですが、この朱泥急須が盛んに作られるようになったのは幕末から明治にかけてのこと"
+        },
+        "groundingChunkIndices": [
+          0,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2069,
+          "endIndex": 2210,
+          "text": "中国・宜興窯（ぎこうよう）の茶器を手本に研究が重ねられ、日本の煎茶文化とともに大ヒットしました"
         },
         "groundingChunkIndices": [
           7,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2069,
+          "endIndex": 2312,
+          "text": "中国・宜興窯（ぎこうよう）の茶器を手本に研究が重ねられ、日本の煎茶文化とともに大ヒットしました（常滑市と中国の宜興市は、この茶器のご縁で友好都市提携を結んでいます"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2350,
+          "endIndex": 2394,
+          "text": "とこなめ陶の森 資料館 展示解説"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2399,
+          "endIndex": 2471,
+          "text": "とこなめ焼協同組合・伝統的工芸品産業振興協会資料"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2476,
+          "endIndex": 2572,
+          "text": "日本茶専門店等による朱泥急須の成分解説（酸化鉄とタンニンの反応）"
+        },
+        "groundingChunkIndices": [
+          1,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2671,
+          "endIndex": 2875,
+          "text": "かつて蚊取り線香は仏壇のお線香と同じ「細い棒状」でしたが、燃焼時間が短く、寝ている間に燃え尽きて蚊に刺されてしまうという弱点がありました"
+        },
+        "groundingChunkIndices": [
           8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3191,
-          "endIndex": 3338,
-          "text": "**具体的な数字や比較：** 現在はイロハカエデやオオモミジなど11種類、約4,000本のもみじが山を彩っています"
+          "startIndex": 2878,
+          "endIndex": 3076,
+          "text": "そこで「長時間持たせるために線香を長くしたいが、場所を取らず、倒れて火事にならないようにする」という工夫から渦巻き型に丸められました"
         },
         "groundingChunkIndices": [
+          8,
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3121,
+          "endIndex": 3260,
+          "text": "明治23年（1890年）に世界で初めて発売された棒状蚊取り線香は、長さ約20cmで燃焼時間は**約40分**でした"
+        },
+        "groundingChunkIndices": [
+          8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3341,
-          "endIndex": 3438,
-          "text": "開祖が植えたとされる巨木のうち、杉の木2本が今も境内に残っています"
+          "startIndex": 3263,
+          "endIndex": 3491,
+          "text": "これを渦巻き型にしたところ、まっすぐに伸ばすと**約75cm**の長さになり、人の睡眠時間に合わせて**約7時間**燃え続けるようになりました（持続時間が10倍以上に向上）"
+        },
+        "groundingChunkIndices": [
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3521,
+          "endIndex": 3683,
+          "text": "この歴史的アイデアをひらめいたのは、KINCHO（大日本除虫菊）創業者の上山英一郎氏ではなく、妻の「ゆき」さんでした"
+        },
+        "groundingChunkIndices": [
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3686,
+          "endIndex": 3878,
+          "text": "ある日、庭（または蔵）で見かけた「とぐろを巻いた蛇」の姿を見て「細長く巻けばいいのでは」と夫に提案した内助の功から生まれています"
         },
         "groundingChunkIndices": [
           10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3444,
-          "endIndex": 3563,
-          "text": "**意外な点：** 飯盛山（いいもりやま）の本来の植生はスギやヒノキ、広葉樹の山でした"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3566,
-          "endIndex": 3842,
-          "text": "お寺の参道だけにあったもみじを山全体へと広げたのは、大正末期から昭和初期にかけて「美しい森林公園を作ろう」と立ち上がった地元の住民、青年団や婦人会などのボランティアによる植樹活動でした"
-        },
-        "groundingChunkIndices": [
-          7,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3848,
-          "endIndex": 3969,
-          "text": "**歴史の裏話：** 「香嵐渓」という風情ある地名がついたのは昭和5年（1930年）のことです"
-        },
-        "groundingChunkIndices": [
-          7,
+          11,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 3972,
-          "endIndex": 4089,
-          "text": "香積寺の「香」と、巴川の清流がもたらす山気・嵐気の「嵐」をとって命名されました"
+          "startIndex": 3911,
+          "endIndex": 4094,
+          "text": "明治28年（1895年）に渦巻き型が考案された当初は機械がなく、職人が木型を使って1本1本手作業で2巻を組み合わせて手巻きしていました"
         },
         "groundingChunkIndices": [
-          7,
-          12
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4119,
-          "endIndex": 4175,
-          "text": "曹洞宗 飯盛山 香積寺「香積寺について」"
+          "startIndex": 4097,
+          "endIndex": 4271,
+          "text": "現在のように平らな板から機械で打ち抜く方式になる大正時代まで、大変な手間をかけて手づくりされていた暮らしの道具でした"
         },
         "groundingChunkIndices": [
-          7
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4180,
-          "endIndex": 4222,
-          "text": "豊田市足助観光協会「香積寺」"
+          "startIndex": 4306,
+          "endIndex": 4424,
+          "text": "大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです。」"
         },
         "groundingChunkIndices": [
-          11
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4227,
-          "endIndex": 4320,
-          "text": "愛知県観光コンベンション推進局（Aichi Now）「香嵐渓もみじまつり」"
+          "startIndex": 4429,
+          "endIndex": 4540,
+          "text": "国立科学博物館「重要科学技術史資料（未来技術遺産）」登録資料（金鳥の渦巻）"
         },
         "groundingChunkIndices": [
-          13
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4523,
-          "endIndex": 4750,
-          "text": "**理由：** 矢作川の川霧が適度な湿度をもたらし、水はけの良い赤土が広がる自然環境が、日光を遮って育てる抹茶の原料「てん茶」の栽培に極めて適していたためです"
+          "startIndex": 4657,
+          "endIndex": 4784,
+          "text": "普通の鉛筆は文字を正確に書くため、親指・人差し指・中指の「3本」の指で固定して持ちます"
         },
         "groundingChunkIndices": [
+          13,
           14,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 4756,
-          "endIndex": 4961,
-          "text": "**具体的な数字や比較：** 西尾市全体で約200ヘクタールある茶園のうち、じつに生産量の「96％以上」が抹茶の原料である「てん茶」で占められています"
+          "startIndex": 4787,
+          "endIndex": 4959,
+          "text": "3の倍数である「六角形」は指の腹が平らな面にぴったり収まり、長時間書いても疲れにくく、机の上でも転がりにくいためです"
         },
         "groundingChunkIndices": [
+          13,
           14,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4964,
-          "endIndex": 5096,
-          "text": "一般的な茶産地は煎茶が主ですが、抹茶の原料にここまで特化している地域は全国唯一とされます"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5099,
-          "endIndex": 5276,
-          "text": "また、「西尾の抹茶」は茶の分野で「抹茶に限定した地域ブランド（地域団体商標）」として全国で初めて特許庁に認定されました"
-        },
-        "groundingChunkIndices": [
-          15,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 5282,
-          "endIndex": 5470,
-          "text": "**意外な点：** 西尾の茶づくりは、明治初期の開墾当初から大衆的なお茶ではなく「玉露」など最初から高級茶の製造を目標にしていました"
+          "startIndex": 4962,
+          "endIndex": 5208,
+          "text": "一方、色鉛筆は絵を描いたり塗ったりする際、ペンの角度を寝かせたりくるくる回したりしながら使うため、指当たりが柔らかくどの角度でも回しやすい「丸軸」に設計されています"
         },
         "groundingChunkIndices": [
+          13,
           14,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5253,
+          "endIndex": 5360,
+          "text": "鉛筆は「3本の指」で支えるため、断面が3の倍数（三角形や六角形）になります"
+        },
+        "groundingChunkIndices": [
+          13,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5363,
+          "endIndex": 5567,
+          "text": "握力が弱い幼児向けの練習鉛筆には太い「三角形」もありますが、一般的な筆記用は転がり防止と持ちやすさのバランスが取れた「六角形」が主流です"
+        },
+        "groundingChunkIndices": [
+          13,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 5473,
-          "endIndex": 5626,
-          "text": "大正時代後期に加工技術の近代化とともに「てん茶」へ完全に舵を切ったという、極めて戦略的な歴史があります"
-        },
-        "groundingChunkIndices": [
-          14,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5632,
-          "endIndex": 5833,
-          "text": "**歴史の裏話：** 寺院での起源は鎌倉時代（1271年に実相寺の聖一国師が種をまいた）に遡りますが、産業として定着させたキーマンはお坊さんでした"
-        },
-        "groundingChunkIndices": [
-          14,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5836,
-          "endIndex": 6072,
-          "text": "明治5年（1872年）、紅樹院（こうじゅいん）の住職・足立順道師が京都の宇治から茶の種と製茶技術を持ち帰り、地域の農家に熱心に栽培を勧めたことが発展の礎となりました"
-        },
-        "groundingChunkIndices": [
-          14,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6102,
-          "endIndex": 6171,
-          "text": "西尾市役所公式ウェブサイト「西尾の抹茶・お茶」"
+          "startIndex": 5570,
+          "endIndex": 5840,
+          "text": "また、色鉛筆の芯は黒鉛筆（黒鉛と粘土を高温で焼成）とは違ってワックスや油脂を含んで柔らかいため、六角形にして偏った圧力がかかるのを防ぎ、円形の均等な木の厚みで保護する役割もあります"
         },
         "groundingChunkIndices": [
           14
@@ -571,9 +525,9 @@
       },
       {
         "segment": {
-          "startIndex": 6176,
-          "endIndex": 6252,
-          "text": "西尾市観光協会「西尾の抹茶 日本有数の生産量を誇る」"
+          "startIndex": 5870,
+          "endIndex": 6137,
+          "text": "同じ「鉛筆」という名称でも、「文字を書く道具（安定した固定が必要）」と「絵を描く道具（自由な動きが必要）」という手の使い方の違いによって、軸の形が論理的に作り分けられている点です"
         },
         "groundingChunkIndices": [
           15
@@ -581,94 +535,63 @@
       },
       {
         "segment": {
-          "startIndex": 6257,
-          "endIndex": 6311,
-          "text": "西尾茶協同組合「西尾の抹茶について」"
+          "startIndex": 6170,
+          "endIndex": 6551,
+          "text": "19世紀半ば、ドイツの鉛筆メーカー「ファーバーカステル社」の4代目ローター・フォン・ファーバーが、筆記具としての握りやすさ、机からの転がり防止、そして板材を切り出す際の木材ロスの少なさを追求して「六角形」の鉛筆を開発し、これが世界標準サイズとして定着しました"
         },
         "groundingChunkIndices": [
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6586,
+          "endIndex": 6668,
+          "text": "一般社団法人 日本筆記具工業会「筆記具の基礎知識：鉛筆」"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6673,
+          "endIndex": 6751,
+          "text": "株式会社トンボ鉛筆公式「Q&A / 鉛筆の軸の形状について」"
+        },
+        "groundingChunkIndices": [
+          13,
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6756,
+          "endIndex": 6844,
+          "text": "三菱鉛筆株式会社公式「えんぴつなんでもQ&A：6角形が多い理由」"
+        },
+        "groundingChunkIndices": [
+          18,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 6514,
-          "endIndex": 6732,
-          "text": "**理由：** コアラが食べるユーカリの葉は極めて栄養価が低く、しかも毒素（タンニンや油分）が含まれているため、消化と解毒に膨大なエネルギーを消費します"
+          "startIndex": 6964,
+          "endIndex": 7126,
+          "text": "郵便ポストが赤くなった最大の理由は、「街角で遠くからでも目立ち、誰でもすぐに見つけられるようにするため」です"
         },
         "groundingChunkIndices": [
-          18,
-          19,
-          20
+          22,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 6735,
-          "endIndex": 6849,
-          "text": "動いて無駄なカロリーを消費しないための「極限の省エネ生活」をしているからです"
-        },
-        "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6855,
-          "endIndex": 6970,
-          "text": "**具体的な数字や比較：** コアラの1日の睡眠・休息時間は「約18〜20時間」に及びます"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6973,
-          "endIndex": 7084,
-          "text": "起きている時間はわずか4〜5時間ほどで、その大半（約3時間）は食事に使われます"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7087,
-          "endIndex": 7233,
-          "text": "体長約70cm前後の小さな体の中に、毒素を腸内細菌で分解するための約2メートルもの長い盲腸を持っています"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7239,
-          "endIndex": 7403,
-          "text": "**意外な点：** 昔は「ユーカリの成分に酔っぱらって眠っている」という俗説がありましたが、科学的に否定されています"
-        },
-        "groundingChunkIndices": [
-          19,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7406,
-          "endIndex": 7604,
-          "text": "また、お尻の部分の毛は他の部位よりも密に生えており、硬い木の枝の股に長時間座り続けても痛くならない天然のクッション仕様になっています"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7610,
-          "endIndex": 7781,
-          "text": "**歴史の裏話：** 日本で初めてコアラが一般公開されたのは1984年秋（東山動植物園、多摩動物公園、平川動物公園）のことです"
+          "startIndex": 7129,
+          "endIndex": 7291,
+          "text": "明治43年（1910年）の逓信省年報にも「公衆ヲシテ認識シ易カラシムルタメ特ニ朱塗トセリ」と公式記録が残されています"
         },
         "groundingChunkIndices": [
           23
@@ -676,40 +599,9 @@
       },
       {
         "segment": {
-          "startIndex": 7784,
-          "endIndex": 7947,
-          "text": "東山動植物園では公開直後から大フィーバーが起き、わずか4か月で100万人以上がコアラ舎を訪れる社会現象となりました"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8090,
-          "endIndex": 8132,
-          "text": "『コアラは眠りのプロ？！』」"
-        },
-        "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8137,
-          "endIndex": 8261,
-          "text": "国立国会図書館 レファレンス協同データベース「どうしてコアラはいつも眠っているのか」"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8266,
-          "endIndex": 8338,
-          "text": "オーストラリア・コアラ基金（AKF）「コアラ豆知識」"
+          "startIndex": 7336,
+          "endIndex": 7467,
+          "text": "明治4年（1871年）に郵便制度が始まった当初、最初のポストは木製無塗装の「書状集め箱」でした"
         },
         "groundingChunkIndices": [
           22
@@ -717,43 +609,106 @@
       },
       {
         "segment": {
-          "startIndex": 8910,
-          "endIndex": 8948,
-          "text": "**② 般若心経を一巻唱える**"
+          "startIndex": 7470,
+          "endIndex": 7625,
+          "text": "翌明治5年（1872年）に全国展開された際には、角材に黒いペンキを塗った「黒塗柱箱（黒ポスト）」が作られました"
         },
         "groundingChunkIndices": [
-          9
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 8998,
-          "endIndex": 9279,
-          "text": "三栄和尚は、かつてこの地を治めた足助氏の菩提を弔い、訪れる人々に喜んでもらえる美しい山にしようと、お経（般若心経）を1回唱え終えるごとに1本ずつ、心を込めて木を植えていったと伝えられています"
+          "startIndex": 7628,
+          "endIndex": 7838,
+          "text": "しかし夜間や悪天候で見分けがつかず、明治34年（1901年）に火事に強い鋳鉄製の「赤い丸型ポスト」が試作・登場し、以降全国へ赤いポストが普及しました"
         },
         "groundingChunkIndices": [
-          7,
-          24,
-          9
+          22,
+          24
         ]
       },
       {
         "segment": {
-          "startIndex": 9282,
-          "endIndex": 9473,
-          "text": "いま私たちが目にする約4,000本の美しい紅葉は、一人の住職の深い祈りと、それを受け継いだ地元の人たちの手で育まれた景色だったんですね"
+          "startIndex": 7868,
+          "endIndex": 8216,
+          "text": "初期の黒いポストは、夜に目立たずゴミ箱と間違えられただけでなく、当時まだ「郵便」という言葉を知らない一部の人が「垂便（たれべん＝大小便）」と読み違え、ポストの中に用を足してしまうという前代未聞のトラブルが実際に起きて問題視されました"
         },
         "groundingChunkIndices": [
-          24,
-          9
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8420,
+          "endIndex": 8716,
+          "text": "安城市の南隣にある西尾市（特産の西尾の抹茶で有名）の井桁屋公園などには、名産をPRするために塗られた「抹茶色（深い緑色）の丸型ポスト」が現役で活躍しており、赤色以外の珍しいポストとして親しまれています"
+        },
+        "groundingChunkIndices": [
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8751,
+          "endIndex": 8866,
+          "text": "郵政博物館「郵便ポストの移り変わり 〜日本最初のポストから現在のポストまで〜」"
+        },
+        "groundingChunkIndices": [
+          22,
+          28
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8871,
+          "endIndex": 8977,
+          "text": "郵政博物館 研究紀要 第7号（2016年）「最初の公式鋳鉄製赤色円筒形郵便柱箱」"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9657,
+          "endIndex": 9716,
+          "text": "**② 蔵の中でとぐろを巻いていた「ヘビ」**"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9926,
+          "endIndex": 10037,
+          "text": "細長くして巻けば場所も取らないし、朝まで燃え続ける！』とひらめいたそうです"
+        },
+        "groundingChunkIndices": [
+          9,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10040,
+          "endIndex": 10102,
+          "text": "一本伸ばすとなんと約75センチもあるんですよ"
+        },
+        "groundingChunkIndices": [
+          8
         ]
       }
     ],
     "webSearchQueries": [
-      "東山動植物園 コアラ 睡眠時間 ユーカリ なぜ",
-      "香嵐渓 もみじ 歴史 三栄和尚 豊田市",
-      "安城市 日本のデンマーク 由来 農林水産省",
-      "西尾 抹茶 歴史 由来 西尾市 特徴"
+      "鉛筆 六角形 色鉛筆 丸 理由 日本筆記具工業会 トンボ鉛筆",
+      "常滑焼 急須 まろやか 理由 酸化鉄",
+      "蚊取り線香 渦巻き 理由 金鳥 歴史",
+      "郵便ポスト なぜ赤い 最初 白 郵政博物館"
     ]
   }
 }
