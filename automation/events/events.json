@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T08:40:48.116+09:00",
+  "updated_at": "2026-10-17T08:34:43.262+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
@@ -10,7 +10,7 @@
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-10-16",
+      "start_date": "2026-10-17",
       "end_date": "2026-10-31",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
