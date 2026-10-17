@@ -1,39 +1,41 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "懐かしい暮らし・心が和む話",
-  "characters": 2118,
-  "estimated_minutes": 6.4,
-  "saturday_story": "story-01",
+  "theme": "季節・趣味・ゆったりした話題",
+  "characters": 2203,
+  "estimated_minutes": 6.7,
+  "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "飛騨のお守り「さるぼぼ」に目や鼻、口が一切描かれていない理由はどれでしょうか。１番、昔は絵の具が高価だったから。２番、持ち主の感情を映す心の鏡にするため。３番、顔を描くと本物の猿が怒って山から来るから。",
-    "answer": "正解は２番、心の鏡にするためでした！嬉しい時は笑顔に、悲しい時は寄り添って見えるんだって。３番の猿が怒って畑を荒らしに来るって、どんな激怒猿やさ！お母さんの愛情がたっぷり詰まった優しいお守りやね。",
+    "question": "朴葉味噌で有名なホオノキ。実はその木材もある道具に欠かせない材料でした。柔らかくて刃を傷めない性質から作られていたものは？1番、お寺の鐘の撞木。2番、日本刀の鞘。3番、みおん特製しゃもじ。",
+    "answer": "正解は2番、日本刀の鞘でした！ホオノキは狂いが少なく、刃にやさしい木として鞘の内側などに重宝されたんだって。みおんのしゃもじは木製じゃないやさ！…って使い方合っとる？",
     "source_ids": [
-      2
+      2,
+      3
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyuuobVmWqn_IgimVgwvsU6IxVgZuX78JM7GmhOfpEJfsGqHD_3UF54S6ioBmTj6i1juaxifX18pNz36NWxeEFfMOslYlRrpzWxasy11YXrHtZw5zIGLJx"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMGUnI68Cqdru7-pGXGaW9qUufuJr1ypHvJZEfyrkl1wGIOPmHJodlAztuOCAE6rVNrGgzkhybTeXG87ocUoN6KpReE-Gsi-PR4EJfi_kdJQG43-sVLYM1rEH0HvzralBhfVuzZ0YJtp-9qbmoFhPwWeyXXdJaWoTJg==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk9oYDkeWkhxeSHt_nvIwsbe1WOQgivcoFf1mI2aJtcPwrsrpj0TF4FeHx82glxPXl_hLRhPHiJ8Oec8suFHJXiyFbISTUL9u_pLX3Zj3L-jJzimONTaZYfhrWN3dNgfiEJA=="
     ]
   },
   "izumi": {
-    "text": "みおんの神岡ディープ！今日は地下深くで起きた宇宙の奇跡のお話やさ。神岡鉱山の地下千メートルには東京大学宇宙線研究所の観測装置があって、初代のカミオカンデは千九百八十三年に動き始めて千九百九十六年まで観測しとったんだよね。タンクの中には純水が三千トン、光をとらえる光電子増倍管が千本も並んどったの！地下千メートルの真っ暗闇に三千トンもの水って、みおんなら怖くて地上へ逃げ出しちゃうよ。…あ、こわいって飛騨弁の面倒じゃなくて標準語の恐怖ね！そんな初代の装置が、千九百八十七年二月二十三日にとんでもない大快挙を成し遂げたの！大マゼラン星雲で起きた星の大爆発、超新星爆発から飛んできたニュートリノを、世界で初めて神岡の地下でとらえたんだよ！えっ、ちょっと待って、宇宙の星がドカーンと大爆発した瞬間を地球の裏側の地下で世界一早くキャッチしたって、うそでしょ！？聞いてないんだけど！今なら即座にＳＮＳのトレンド世界一位を独占して大炎上、じゃなくて大バズりする歴史的大事件やさね。星の最後の叫びを山奥の地下深くで静かに受け止めたなんて、ロマンチックすぎて鳥肌が立っちゃう！この成果などで小柴昌俊さんが二千二年にノーベル物理学賞を受賞されたんだよ。宇宙の星のドラマを神岡の地下が見届けたなんて、世界中に胸を張って自慢したくなるよね！",
+    "text": "さあ、やってまいりました！「みおんの神岡ディープ」の時間やさ！\n今日は神岡の中心地、船津の歴史にググッと迫ってみまい！\n神岡といえば鉱山の町だけど、江戸時代は幕府の直轄地だったんだって！国の直営オフィスがある超エリートエリアみたいなもんやろー！\nしかも中心の船津は、飛騨街道の宿場町としてめちゃくちゃにぎわっていたらしいの！街道を旅する人たちが次から次へとやってきて、宿場に泊まってひと休みしていったんだね。今なら旅行サイトで「街道沿いの大人気スポット！泊まるなら船津！」って口コミで星五つが並んで、予約が全然取れん状態やさ！みおんもタイムマシンがあったら案内係をやりたかったな…って、江戸時代に電子機器を持ち込んだら大騒ぎになっちゃうか！\nその前をさかのぼると、神岡は戦国時代に江馬氏の城下町で、そのあと金森氏の領地になって鉱山開発が進められた歴史もあるんだよね。でも江戸時代の船津は、通り道としてたくさんの人が行き交う華やかなにぎわいを見せていたんだから本当にすごい！\n普段歩いている船津の通りも、江戸時代は旅人たちで大にぎわいだったと思うと、神岡の歴史の深さにちょっと胸を張りたくなっちゃうよね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-1987",
-      "hook": "1987年、大マゼラン星雲の星の爆発から来た粒子を、世界で初めて神岡の地下でキャッチした話"
+      "id": "mine-funatsu",
+      "hook": "宿場町・船津のにぎわい。江戸時代の神岡は通り道の人気スポット"
     }
   },
   "local": {
-    "text": "明日十月十八日に、江馬館で「飛騨神岡高校茶道部が秋の茶会」が開かれるよ！秋の深まりを感じる歴史情緒あふれる江馬館で、地元神岡の高校生のみなさんが心を込めて点ててくれる温かいお茶をいただけるなんて、とっても風情があって心が和みそうやさね。生徒さんたちの日頃のお稽古の成果を味わいに、ぜひみんなでお茶を飲みに行かまい！秋の素敵な思い出を作ってね。",
+    "text": "今日、10月18日の日曜日は、江馬館で飛騨神岡高校茶道部による「秋の茶会」が開かれるそうだよ！高校生のみなさんが開く秋のお茶会、風情があって素敵やさね。今日のお出かけ先を探しとる人は、江馬館へゆったり出かけてみまい！",
     "source_ids": [
-      26
+      27
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/site/bunka/87803.html"
@@ -41,267 +43,255 @@
   },
   "segments": [
     {
-      "topic": "なぜ神岡の古い家には台所に蛇口が２つあるのか？",
-      "text": "そういえば、水といえば神岡の暮らしでも面白い光景があるよね。神岡の古いお家にお邪魔すると、台所の流しに蛇口がなぜか二本並んどるおうちがあるの、知っとる？えっ、お湯と水で二つって普通やろーって？違うの！どっちの蛇口からも冷たい水が出るんだよ！えっ、ちょっと待って、同じ水が二股に分かれとるだけ！？…って、そんな無駄な工事するわけないやさ！実はこれ、一本は「市の上水道」で、もう一本は大洞山などの豊かな山から引いた「山水や湧水」なんだって！昔、公的な上水道が整備される前、集落ごとに水道組合を組織して山水や湧水をパイプで各家庭まで引いて生活しとったの。その後、近代的な上水道が開通したあとも、清らかで美味しい山水を野菜洗いなんかにそのまま使い続けたから、今でも二本並んどるんだって。なんという贅沢な二刀流やさね！神岡の町を潤す大洞山の湧水群は岐阜県名水五十選にも選ばれていて、水温は一年中およそ十一から十四度とほぼ一定なの。だから夏の厳しい暑さではキリッと冷たくて、真冬は外の空気より温かく感じるんだよ。まさに天然のエアコン水やさ！町内にある牛ヶ口水屋なんて、水が引かれてから約三百年も一度も枯れずにこんこんと湧き続けとるんだって。天声人語で有名な名誉町民の荒垣秀雄さんも、二十四時間流れっぱなしの世界中で一番うまい水って大絶賛しとったらしいよ。蛇口をひねれば極上の名水が出るなんて、家族や職場のみんなに思わず自慢したくなっちゃうよね！",
+      "topic": "最高ランクの官位をもらった木？一位一刀彫とイチイの伝説",
+      "text": "秋の休日にぴったりの木の話をひとつ！\n岐阜県の木って「イチイ」っていう針葉樹なんだけど、なんで「一位」なんて名前がついとるか知っとる？\n実は昔、飛騨の山から切り出した材で、貴族や天皇が手に持つ細長い板、あの「笏」を作って天皇に献上したんだって。そしたら他の材より飛び抜けて素晴らしかったから、当時の最高ランクの官位「正一位」をもらったっていう言い伝えがあるらしいの！えっ、木が官位をもらったの！？人間でも出世するの大変なのに、木がいきなりトップ当選ってどういうこと！？今なら会社の表彰で、新入社員を差し置いて観葉植物が年間MVP獲るようなもんやろー！\nしかもこのイチイ、幹の直径が約30センチに育つまでに100年近くもかかるんだって！だから木目がめちゃくちゃ緻密なの。伝統工芸の「一位一刀彫」では、樹齢400年から500年の貴重な銘木が使われることもあるらしいよ。\nちなみに「一刀彫」って名前だから1本のノミだけで彫ると思われがちだけど、実際は何十種類ものノミや小刀を使い分けるんだって！全然一刀じゃないやさ！外側の白い部分と内側の赤い部分のグラデーションを活かして、色を塗らずに仕上げるのが特徴なんだとか。明日、誰かに「イチイの木は人間より偉い官位を持っとるんやよ」って自慢したくなっちゃうね！",
       "source_ids": [
-        4
+        9,
+        10,
+        12
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkdXgD20sBrrPLulj1zf-4di8P_ETIJeZSVJTTfO9oYHW8ZC_Am-vmL-r_MNk5__CISlLxB92C3jy_8chVn3SaxwOKxHbSbJk1qGQN9c2Tx-Z_ELdUFQY3xkC4sqN7Qg=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zboXeEDGQSqDb0dW2Hp2ba4HQTqq0g-1Kc9VdruM2OnWUOwjM77CFvXmSmBvJVj86PvGz33m_RsMk2k_oeL1W1rOvjpIfc6T-0bojK3bjiEr1wHGG-yh7g==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0HP3cPk7t6XMRgZboL8usONTxiyI8xs1XX0bF4WHGOCUdzkBIgaUab4t0K_gGmyavmeaPCSnpOm1-aeTF6RURkbeDv2nL5DedlyHwAZNfEcIGgFqWiBYLVDIqUPB_7gWA3RPeNQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IQkIdQ9jMTj69WQxphDrO6uyGGKik0TDmJibsnAZhcs4nox9CpmfWiuJ8Z4httFrcgkIYFJP8CKrsrCUlfPGvq2gVObkTrJIqxPAjkE5eLcqyq2ygsI5UzNmhG-Bx_qJRq7zQjRgcqU="
+      ]
+    },
+    {
+      "topic": "「薪にもならん」から世界へ！ブナから生まれた飛騨の家具の奇跡",
+      "text": "木の話が出たついでに、私たちが座る家具のすごい話も紹介しちゃうね！\n世界に誇る「飛騨の家具」だけど、実は約100年前、「薪にもならん」って山で見捨てられていた木から始まったって聞いてびっくりしちゃった！\nその木というのが「ブナ」。漢字で書くと木偏に無いと書いて「橅」。木ですらないって言われるくらい役立たず扱いされていたらしいの。水分が多くて反りやすいから放置されてたんだけど、捨てるのは本当におとましい、もったいない話やさ！\nところが大正9年、高山の上三之町の味噌屋さんの店先で、旅人と店主が「ブナも工夫次第で立派な椅子になる」って世間話をしたのが大逆転の始まり！なんとブナには、高温の蒸気で蒸すと驚くほどきれいに曲がるっていう隠れた特技があったんだって！\nこれに目をつけた有志が集まって、資本金3万円、社員たった6人の町工場からスタートしたの。椅子なんて見たこともなかった職人たちが、ドイツ発祥の曲木技術と飛騨の匠の手仕事で見事な椅子を作り上げちゃったんだよね！\n今や高山市は面積の約93パーセントが森林で、全国上位の家具産地！ただの立ち話から世界的なブランドが生まれるなんて驚きやろー！職場の椅子を見る目が、明日からちょっと変わりそうやさ！",
+      "source_ids": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIe5tI-6X_IVDEhE7OVOPvBqTLtvFYHwIHMcOmomycJX_xshP2UKah8DUynHL5nPGJT9AamucNlMCpeqQ3NuMSGqB20WvQ2z1dtUI-O_5MzGY9mmfl0xPgFjHMWY=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYJ-d4A1uTdPsmfkAItLuN7OJJm_hoiZWq-G445hEBIx_uFsbKJsZqzJAz2GFmj_TkxuLweVcferxdGDJeMQfp7oiCZ2ZUuU-vk7oNzcPFFpCQh_GZzPxFZ_tw-MB5-sFv87ZiVZC8aIwJrlUblmBkgJEedETk0vUX7ZGIXoKZv282jy4im_Jmot8pQNcy6WEUYKKZ_rWZ0Hjo5kpsq-urEfIKURY-5KMvX4N-wLDjRIccy1lQ1gE=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bIwxSpAqFAStfEENGvuCkLlAxS7gnIx4xkd4-i7ahx7LsUKgku29p3LE7YpxfH_xV6v-aXJ5LFaLHWLT22bqxHjSIheEURyd5Q7YKdtLIqplyLXpveKpvirpoEmKlW7ODF2S-bqEa46K5MjSd_1q8ZG3y5-hpz0AH7zzxel_9T9vMxWmqkbQmnc6vlrVQPF4b3UBgFSznZ9_",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyGSN7GrBmIPuCiG-ma_y-E38QIhnqOJRQKRP2fs0WtnN5uK00X2ghjSZBN2bLA7LGDrz_lGUV95Ebd-5WbveuuhEgcQbhvk9q92V9Qwin4ixsZ41la7L1r9XoafpQDsVRKI2Qmzp48uuqN_k0Rd2HFjIBao6qBYtPEeYIDhWJB8tHBsO"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、地域の人々が懐かしさを感じ、思わず誰かに話したくなる「昔の暮らしと心が和む知恵」についての調査メモを作成しました。\n\n---\n\n# 飛騨・神岡の「懐かしい暮らし・心が和む話」調査メモ\n\n---\n\n### 1. 【神岡町】なぜ神岡の古い家には、台所に蛇口が「2つ」あるのか？\n\n* **理由**: \n  町営・市営の近代的な上水道が整備される前、神岡の住民たちは集落ごとに「水道組合」を組織し、大洞山（おおぼらやま）などの豊かな山水や湧水をパイプで各家庭まで引いて生活していました。その後、公的な上水道が開通した後も、清らかな山水・湧水を野菜洗いなどに使い続けたため、現在でも「山水（湧水）」と「市の上水道」の2本の蛇口が台所に並んでいる家庭が存在します。\n* **具体的な数字や比較**: \n  神岡の町を潤す大洞山の湧水群（船津大洞湧水群）は「岐阜県名水50選」に選定されており、水温は年間を通じて地下水特有の「約11〜14℃」とほぼ一定です。そのため、夏の厳しい暑さのなかでは冷たく感じられ、真冬には外気温より温かく感じられます。\n* **意外な点**: \n  町内にある「牛ヶ口水屋」のように、水が引かれてから約300年間一度も枯れずにこんこんと湧き続けている共同水屋があります。晩秋（11月の霜が降りる頃）になると、冬に向けた漬物作りのために各家庭から集まったお母さんたちが水屋で大根やかぶらを洗い、山と積み上げる光景が見られ、地域の温かい社交場として機能してきました。\n* **歴史の裏話**: \n  神岡町出身で、朝日新聞の一面コラム「天声人語」を長年担当した名誉町民・荒垣秀雄氏もこの水に格別の愛着を寄せていました。生家の水道について「台所と洗面所の水道の水は昼夜を分かたず二十四時間流れっ放し……世界中で一番うまい水だ」とその豊かな恵みを称賛したエピソードが水屋の掲示板にも残されています。\n\n---\n\n### 2. 【神岡町・山之村】砂糖もみりんも使わないのに、なぜ「寒干し大根」は甘いのか？\n\n* **理由**: \n  大根を茹でてから寒空の下に干すことで、夜間の極度の冷え込みによって水分が「凍結」し、日中の日差しで「解凍」される現象を約1か月間繰り返します。この昼夜の激しい寒暖差により、大根自身のデンプンが糖へと変化し、天然の旨みと強い甘みがぎゅっと凝縮されるためです。\n* **具体的な数字や比較**: \n  舞台となる神岡町の山之村地区は、標高約850〜1,000mの高地に位置し、厳冬期には気温が「マイナス20℃」に達し、積雪が「2m」を超える豪雪地帯です。かつて冬の間は集落が雪に閉ざされ自給自足が必須だったことから、この過酷な寒さを逆手に取った知恵として育まれました。その伝統的製法と品質が認められ、2017年には農林水産省の「地理的表示（GI）保護制度」に登録されたほか、2015年ミラノ国際博覧会の日本館でも日本の伝統食文化として紹介されました。\n* **意外な点**: \n  かつて地元では、このような厳しい冬の暮らしを飛騨弁で「おぞい（不便で嫌な）土地」と感じ、外部の人に村の出身であることを誇らしく語れなかった時代がありました。しかし、地域の女性たち（すずしろグループ）が「百年以上続くお母さんの味を途絶えさせたくない」と立ち上がり、厳しい寒さという弱点を唯一無二の魅力に変えて全国区の特産品へと育て上げました。\n* **歴史の裏話**: \n  山之村は通称であり、地図を開いても正式な行政地名としては載っていない「天空の里（7つの集落の総称）」です。自然を力尽くで克服するのではなく、厳しい気候のサイクルをそのまま暮らしの道具として受け入れてきた先人のしなやかさが詰まっています。\n\n---\n\n### 3. 【飛騨地域】なぜ飛騨のお守り「さるぼぼ」には目も鼻も口もないのか？\n\n* **理由**: \n  さるぼぼに決まった表情を描かないのは、持ち主の感情を受け止める「心の映し鏡」としての役割を持っているためです。自分が嬉しいときには一緒に笑っているように見え、悲しいときや辛いときには優しく寄り添って悲しんでくれているように見えるよう、あえて顔が描かれていません。また、子どもが自分の気持ちを投影して想像力を広げて遊べるようにという親心も込められています。\n* **具体的な数字や比較**: \n  その原型は、約1200年前の奈良・平安時代に貴族の産屋に飾られた厄除け・安産祈願の人形「這子（ほうこ）」や「天児（あまがつ）」に遡ると伝わります。飛騨弁で赤ん坊を「ぼぼ」と呼び、「猿の赤ん坊」に似ていることからこの名がつきました。\n* **意外な点**: \n  今でこそ愛らしい民芸品として定着していますが、全国的な知名度を得る前は、観光客から「全身が赤くて顔がないから怖い」「不気味だ」と敬遠されていた時期がありました。赤い布が使われるようになったのは江戸時代、当時恐れられていた天然痘（疱瘡）を払う魔除けの色と信じられていたことに由来します。\n* **歴史の裏話**: \n  「さる」の響きには「災いや病が去る（サル）」という意味が重なり、音読みの「猿（えん）」には「良縁」「夫婦円満（円）」の願いが込められています。昔の飛騨のおばあちゃんやお母さんが、雪深い冬の間に着物の端切れを集め、子や孫の無病息災と幸せを願って一針一針手縫いでこしらえた家庭の愛情の結晶です。\n\n---\n\n### 4. 【飛騨地域（古川）】風が吹いていないのに、なぜ伝統の「和ろうそく」の炎はゆらゆら揺れるのか？\n\n* **理由**: \n  和ろうそくの「芯」の独特な中空構造に理由があります。和紙を巻いた棒の周りにイグサの髄（燈心）を巻き付け、真綿で留めて作るため、芯の内部がストローのような空洞になっています。火を灯すと、この空洞から下部の空気が炎へと吸い上げられる「煙突効果」が生まれるため、風のない室内でも炎が上下に呼吸するように大きくゆらめきます。\n* **具体的な数字や比較**: \n  隣町の飛騨古川にある「三嶋和ろうそく店」は240年以上の歴史を誇ります。手作りの和ろうそく店は全国でも20数軒ほどしか残っておらず、木臼で練った蝋を手作業で幾層にも塗り重ねる「生掛け（きがけ）」の全工程を守り続けているのは全国でも極めて貴重です。石油系原料（パラフィン）を使う西洋ろうそくと異なり、ハゼの実から絞る100％植物性の木蝋（JAPAN WAX）が用いられています。\n* **意外な点**: \n  和ろうそくは植物性原料と中空の芯のおかげで完全に燃焼しやすく、油煙（スス）がほとんど出ず、蝋が外へ垂れ落ちにくいという特徴があります。そのため、貴重な仏具や仏壇、寺院の内装を黒く汚さない灯りとして雪国の暮らしで重宝されてきました。\n* **歴史の裏話**: \n  静かな部屋で風もないのに炎が優しくゆらぐ姿を見て、飛騨の人々は昔から「仏様やご先祖様が喜んで微笑んでいる」「笑ってくれている」と言い習わしてきました。ただ明かりを採るだけでなく、目に見えない先祖と心を通わせる和やかなひとときをつくり出していた生活道具です。\n\n---\n\n## 【ラジオ用 3択クイズ案】\n\n**コーナー名案**: 「なるほど！ひだ・神岡の暮らし発見クイズ」\n\n* **問題**: \n  飛騨のお土産やお守りとしておなじみの「さるぼぼ」。赤い頭巾に赤い体ですが、目や鼻、口が一切描かれていません。これには昔の人の温かい想いが込められているのですが、それは次のうちどれでしょう？\n  * **1番**: 昔は絵の具が高価で手に入らなかったから\n  * **2番**: 持ち主が嬉しいときは笑顔に、悲しいときは寄り添って見える「心の鏡」にするため\n  * **3番**: 顔を描くと、山から本物のサルが怒って畑を荒らしに来ると信じられていたから\n\n* **正解**: **2番**\n\n* **解説トークの要点**:\n  「正解は2番です！さるぼぼに顔がないのは、持ち主の気持ちをそっと映し出すためと言われています。楽しいときは一緒に笑い、つらいときは一緒に悲しんでくれる、優しいお守りなんですね。病気や災いが『去る』、そして『良縁（えん）』に恵まれますようにと、お母さんやおばあちゃんが端切れで手作りしたのが始まりでした。」",
+  "research": "岐阜県飛騨市神岡町周辺のコミュニティラジオ向けに、秋の深まりを感じるこの時期（10月中旬）にぴったりの「季節・趣味・暮らしのゆったりした話題」を4件まとめました。秋の食卓や散歩の合間に、思わず家族に話したくなるような雑学です。\n\n---\n\n### 1. なぜ「朴葉味噌」には朴の木の葉を使うのか？\n**〜お皿でもアルミホイルでもなく、山奥の大きな落ち葉が選ばれたワケ〜**\n\n* **理由：**\n  朴（ホオノキ）の葉は、日本に自生する樹木の中で最大級の大きさを誇り、厚手で火に強く、食材を乗せて焼いても簡単には燃え抜けない性質を持っています。さらに、葉そのものに爽やかな独特の芳香があり、包んだり焼いたりした食材に上品な風味を移してくれるためです。\n* **具体的な数字や比較：**\n  林野庁や森林総合研究所の資料によると、ホオノキの葉は長さが20〜40cm、幅も10〜25cmに達し、大人の顔よりも大きく育ちます。木自体の高さも20〜30メートルほどに達する高木です。\n* **意外な点（木材の用途）：**\n  飛騨では「葉」ばかりが注目されがちですが、ホオノキは「木材」としても極めて優秀です。木肌が緻密で狂いが少なく、刃先を傷めない（刃にやさしい）性質があることから、古くから「日本刀の鞘（さや）」や下駄の替え歯、版木、彫刻材などに重宝されてきました。\n* **ちょっとした歴史の裏話：**\n  ホオノキの「ホオ」という名は、古来その大きな葉で食べ物を包んだことから「包（ほう）」に由来するという説が有力です。また、樹皮は「厚朴（こうぼく）」と呼ばれ、古くは平安時代の医書『医心方』にも登場し、現在も日本薬局方に収載される重要な生薬原料として飛騨などの山岳地帯で採集されてきた歴史があります。\n\n---\n\n### 2. 岐阜県の木「イチイ」と一位一刀彫――なぜ木の名前に「一位」と階級がついているのか？\n**〜木目の美しさが認められて、最高ランクの官位をもらった木の伝説〜**\n\n* **理由：**\n  飛騨の伝統工芸「一位一刀彫」の材料であり、岐阜県の県木でもある「イチイ」。この名は、かつて飛騨の山から切り出した材で朝廷の儀礼用具である「笏（しゃく）」を作り天皇に献上した際、他の材より際立って優れていたことから、当時の最高位である官位「正一位（しょういちい）」を賜ったという言い伝えに由来しています。\n* **具体的な数字や比較：**\n  イチイは非常に成長がゆっくりな針葉樹で、幹の直径（胸高直径）が約30cmに育つまでに100年近くかかると言われています。そのため木目が極めて緻密です。一位一刀彫の作品には、樹齢400年〜500年を経た貴重な飛騨の銘木が使われることもあります。\n* **意外な点（一刀彫の誤解）：**\n  「一刀彫（いっとうぼり）」という名前から「1本のノミだけで彫り上げる」と誤解されがちですが、実際には職人が何十種類ものノミや小刀を使い分けて彫ります。外側の白っぽい部分（白太）と内側の赤みのある部分（赤太）の天然の2色のグラデーションを活かし、絵の具や塗料による着色を一切行わずに鋭い刃痕を残して仕上げるのが最大の特徴です。\n* **ちょっとした歴史の裏話：**\n  一位一刀彫の歴史は江戸時代末期、高山出身の根付（ねつけ）彫刻師・松田亮長（まつだ すけなが）が、着色せずイチイの素朴な美しさを活かした蛙や亀などの小さな根付を彫り始めたことから本格的に始まりました。\n\n---\n\n### 3. 世界に誇る「飛騨の家具」――実は「薪にもならん」と見捨てられた木から始まった？\n**〜木偏に無と書く「ブナ」を大化けさせた、大正時代の街角の雑談〜**\n\n* **理由：**\n  飛騨の木工家具の歴史は、今から約100年前、飛騨の山々にうっそうと生い茂っていた「ブナ」の有効活用から始まりました。ブナは水分が多く乾燥させると反りや狂いが出やすいため、当時は「木に非（あ）ず（橅）」と書かれるほど役立たずの木とみなされ、山に放置されていました。\n* **具体的な数字や比較：**\n  飛騨産業の前身である中央木工株式会社が設立されたのは大正9年（1920年）。資本金3万円、社員わずか6人という小さな町工場の試みでした。現在、高山市は市町村面積の約93%を森林が占め（森林率日本一クラスの広大な市）、家具製造業の出荷額でも全国上位の家具産地となっています。\n* **意外な点（ブナの変身）：**\n  家具用材としては見向きもされなかったブナですが、実は「高温の蒸気で蒸すと、驚くほどきれいに曲がる（曲木に適している）」という隠れた性質を持っていました。これに目をつけたことで、ドイツ発祥の曲木技術と「飛騨の匠」の卓越した手仕事が融合し、美しい曲線を描く椅子へと生まれ変わったのです。\n* **ちょっとした歴史の裏話：**\n  この一大産業のきっかけは、高山の上三之町にあった味噌屋の店先でした。大正9年、店を訪れた旅人（県外で曲木技術を学んだ職人兄弟）と味噌屋の店主が「ブナの木だって、工夫次第で立派な椅子になる」と雑談を交わしたことから、地元の有志が集まり、椅子など見たこともなかった職人たちが手探りで会社を立ち上げました。\n\n---\n\n### 4. 秋の味覚「甘柿の王様」富有柿――その生まれ故郷は岐阜県だった！\n**〜「富有」はお金持ちの意味ではなく、天下を治めるという壮大な願い〜**\n\n* **理由：**\n  全国のスーパーや果物屋に並ぶ「富有柿（ふゆうがき）」は、明治時代に岐阜県旧本巣郡（現在の瑞穂市居倉）で誕生し、全国へ広まった岐阜県発祥の完全甘柿です。\n* **具体的な数字や比較：**\n  日本に存在する柿の品種は約1000種におよびますが、富有柿はその中で国内栽培面積・生産量の第1位を誇る圧倒的な「柿の王様」です。一般的な果実は230〜280g程度、糖度は16〜19度と非常に甘く、岐阜県で袋掛け栽培された最高級ブランド「果宝柿」では350g以上、糖度18度以上の厳しい基準が設けられています。\n* **意外な点（名前の由来）：**\n  「富有（ふゆう）」と聞くと「お金持ちになる（富み有る）」という縁起担ぎのように思えますが、実は中国の古典『礼記（らいき）』にある「富有四海之内（四海の内を豊かに有す＝天下を治める）」という言葉から採られたものです。この柿が日本全国津々浦々に広まるように、という壮大な願いが込められています。\n* **ちょっとした歴史の裏話：**\n  富有柿の生みの親である福嶌才治（ふくしま さいじ）氏は、地元にあった「居倉御所」という甘柿の枝を接ぎ木し、品種改良に心血を注ぎました。完全甘柿は寒さに敏感で、年平均気温が11.5度以上ないと自然に渋が抜けきらない性質があります。岐阜の平野部の絶妙な気候と福嶌氏の熱意が重なって、奇跡の甘柿が完成しました。\n\n---\n\n### 番組用 3択クイズコーナー（話題1より）\n\n**【問題】**\n飛騨の秋の味覚「朴葉味噌」でおなじみのホオノキ。葉っぱは大きくて火に強いことで有名ですが、実は「ホオノキの木材」も、ある昔ながらの道具に欠かせない材料として重宝されてきました。木が軟らかく均一で、刃を傷めない性質から使われてきたものは次のうちどれでしょう？\n\n1. **お寺や神社の「大きな鐘の撞木（しゅもく）」**\n2. **武士が腰に差した「日本刀の鞘（さや）」**\n3. **川下りで使う「舟のオール（櫂）」**\n\n---\n\n**【正解】**\n**2番の「日本刀の鞘（さや）」**\n\n**【解説トーク用メモ】**\nホオノキの木材は、軽くて狂いが少なく、適度な柔らかさを持っています。固い木だと大切な刀の刃を傷つけてしまいますが、ホオノキは「刃にやさしい木」として、古くから日本刀の鞘の内側や本体の材に一番適していると重宝されてきました。下駄の歯や版画の版木などにも使われており、葉っぱだけでなく木そのものも日本の暮らしを支えてきた万能の木です。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22%E5%AF%92%E5%B9%B2%E3%81%97%E5%A4%A7%E6%A0%B9%22+%E5%B1%B1%E4%B9%8B%E6%9D%91+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E4%BC%9D%E7%B5%B1+%E5%AF%92%E6%9A%96%E5%B7%AE&client=app-vertex-grounding&safesearch=active\">&quot;寒干し大根&quot; 山之村 飛騨市 伝統 寒暖差</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1+%E6%B0%B4%E5%B1%8B+%E5%85%B1%E5%90%8C%E4%BA%95%E6%88%B8+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E6%9A%AE%E3%82%89%E3%81%97&client=app-vertex-grounding&safesearch=active\">神岡 水屋 共同井戸 飛騨市 暮らし</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E3%81%95%E3%82%8B%E3%81%BC%E3%81%BC+%E7%94%B1%E6%9D%A5+%E9%A1%94%E3%81%8C%E3%81%AA%E3%81%84+%E7%90%86%E7%94%B1+%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">飛騨 さるぼぼ 由来 顔がない 理由 博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E5%92%8C%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F+%E4%B8%89%E5%B6%8B%E5%92%8C%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F+%E4%BC%9D%E7%B5%B1+%E8%8A%AF&client=app-vertex-grounding&safesearch=active\">飛騨 和ろうそく 三嶋和ろうそく 伝統 芯</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AF%8C%E6%9C%89%E6%9F%BF+%E7%99%BA%E7%A5%A5+%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%91%9E%E7%A9%82%E5%B8%82+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">富有柿 発祥 岐阜県 瑞穂市 特徴</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E3%81%AE%E5%AE%B6%E5%85%B7+%E6%9B%B2%E6%9C%A8+%E9%A3%9B%E9%A8%A8%E7%94%A3%E6%A5%AD+%E3%83%96%E3%83%8A+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">飛騨の家具 曲木 飛騨産業 ブナ 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9C%B4%E8%91%89+%E6%9C%B4%E3%81%AE%E6%9C%A8+%E7%89%B9%E5%BE%B4+%E5%A4%A7%E3%81%8D%E3%81%95+%E8%91%89+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E6%9E%97%E9%87%8E%E5%BA%81&client=app-vertex-grounding&safesearch=active\">朴葉 朴の木 特徴 大きさ 葉 森林総合研究所 林野庁</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%80%E4%BD%8D%E4%B8%80%E5%88%80%E5%BD%AB+%E3%82%A4%E3%83%81%E3%82%A4+%E4%BB%81%E5%BE%B3%E5%A4%A9%E7%9A%87+%E7%AC%8F+%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">一位一刀彫 イチイ 仁徳天皇 笏 岐阜県 由来</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyuuobVmWqn_IgimVgwvsU6IxVgZuX78JM7GmhOfpEJfsGqHD_3UF54S6ioBmTj6i1juaxifX18pNz36NWxeEFfMOslYlRrpzWxasy11YXrHtZw5zIGLJx",
-          "title": "hida-kankou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMGUnI68Cqdru7-pGXGaW9qUufuJr1ypHvJZEfyrkl1wGIOPmHJodlAztuOCAE6rVNrGgzkhybTeXG87ocUoN6KpReE-Gsi-PR4EJfi_kdJQG43-sVLYM1rEH0HvzralBhfVuzZ0YJtp-9qbmoFhPwWeyXXdJaWoTJg==",
+          "title": "forest-akita.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_GSxjoxXUbDNaVgKGqmoCyUYnHmY6PjNviwNu-MWBT6noUAaUBzX0bp0aK9Foa65vbauYW5HcjJ2AhFgnm2QT79nZW2rwH0yNWVhHZwi_w_K7SaubnnXKSHbyR6i7pmeo",
-          "title": "jafnavi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk9oYDkeWkhxeSHt_nvIwsbe1WOQgivcoFf1mI2aJtcPwrsrpj0TF4FeHx82glxPXl_hLRhPHiJ8Oec8suFHJXiyFbISTUL9u_pLX3Zj3L-jJzimONTaZYfhrWN3dNgfiEJA==",
+          "title": "discoverjapan-web.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkdXgD20sBrrPLulj1zf-4di8P_ETIJeZSVJTTfO9oYHW8ZC_Am-vmL-r_MNk5__CISlLxB92C3jy_8chVn3SaxwOKxHbSbJk1qGQN9c2Tx-Z_ELdUFQY3xkC4sqN7Qg==",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbu0HzqWHKdO2PgrxH3Kq-NnPhgm1nR0izEpTcgAxVp8xtFrWbvNoNH8vFBA4KyMiQ8WfTm59es2BeqGq85_MAfhdFRemKl1OpVtmLlV5KtxrufW0FOg5_gbF0BEdwO4isWiUxREhHKL8=",
+          "title": "mie.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKEqcWypwJ7gTQz9umwFtZt2491sMIIXCpJVZaR6t-gPJRXCcLcwEk7qfGQ56FuwK4XWmuxXzK505JGHs-u4PgSBsBjgKVf8EUkuy9IRhFZcUN5B2PfwqPYqWD3n4XD1vT7XjMZCOTsylDA6fWBYE=",
-          "title": "takayama-gh.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjld3bLB6_zsxsy7Gw3gvd-fPEFHtQazVZrEH-7sTiHESBwUCXfKz-lCw7rkJoShVNVMHn3krr1yT-16xch2HLxAaAroSco2keRDBPYrKHuOHi710xrEfLiA1ixSYmoevdyp2gKvp-3WlYlBBwb-IUNG_Xc-7XakzP",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5cuZA8YulKIited_q1vGgmYc0Zd744C5tOjHqaL3pSz9qsBmBkSDUDMCv83SSaU92OZsTlcN1Wr_3sF8a10z8_psTaNAxiPdAvXhOX4ew3Fv7XviRX3bRd61w",
-          "title": "hida-kankou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYFirdS-3MyUc1gIPcXr_-uXnrv3KP4lywn5jLnQd2PPKDvNbkU9gLh6AhzK8Yw4C45WEXgXEb8oeGr1vzAd4lgF2kySOqqUS9AHubkQMKhPWdCFJ4LB-2DA9bQb7wQcv-K4-VKgU-TNl9xNwcrKyPjYgYyXideii3JOw2ppPMUcHyWQ==",
+          "title": "hro.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYsmiiKfaihMLakOXhZBPD8MCkg8TSQJ6TDPzRpCgc1NLBJrzrOiMvFEPUJRU5Y382btgkpqC0FduNV7AqLmMquMucej_PYPKl5cYvWwCe9sgTiBbzGDN9Duq8lavA0ZM39xe04eE2YX0a7RWtj4JiPU0tza0x",
-          "title": "hidasuke.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJHHkwfLh0-WW0vkX1ZiU3rK-SKeRTqc74TLvtkT5LVcJLgLGFiZgT4BEasodykEeJZQ7xqR1RuMrV9bUfBVXt-4eWf2rhewZJGiOt4a2U0v1Taw362iZkSGAVhM_cYBL0mHxG2rV2J3MU15ffp5w=",
+          "title": "eisai.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEonDgc97nkv3Jv26cmSxiexmaSum9QmLrE8cGHYePU7X0JoepmMb1dndgrK4StcUX4WnJuF8eNQ6hGXdzDgYR5da49luagHk_6v65qrenWSIJdA==",
-          "title": "kurhaus.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHezMm0MZLcN7qcTKCc0kFngUe8_lY_Ii3jIul8hO3thUmDSO8io2UR1vJVzHDeMpZmftyxqgzPBwpWWoSDPO44szurnNBeAg_PceFucnSwGwrA0IyeNbe0HoVd0InWtoJ9uct8PnUjRqE8PwUnhTy-HD1_yTIRvEweIjM8aWQIuYuW5Nb3d0x4AA==",
+          "title": "takayama.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKurP-x1frKizwq8uWP6Sei-8duLM7yb9xOopwC2RcDD7GgG90WxZHI1lB7jGuwuF2lp_ejpO9piH2JYkAfELwTXY9KiJTHxbAVW9gp8UEXFTzxZAiw99WRxJUNfl9DgEv0WAt8AqEuSc=",
-          "title": "takayama-gh.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zboXeEDGQSqDb0dW2Hp2ba4HQTqq0g-1Kc9VdruM2OnWUOwjM77CFvXmSmBvJVj86PvGz33m_RsMk2k_oeL1W1rOvjpIfc6T-0bojK3bjiEr1wHGG-yh7g==",
+          "title": "gifunoki.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnNaY7s0v7WOsruNHQpabQHyQFJtdvCtXetpAH52epvvx93VNtOYWoT7EgAlgpQmf1Rffy0u__kwT80WeDBcpwEdx-_3txENMWzAc8b_57PQOjXCJ4j04KAfcZyh9f7N1jATKled5IuKC2P7Qq7QCho1VW",
-          "title": "hidasuke.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0HP3cPk7t6XMRgZboL8usONTxiyI8xs1XX0bF4WHGOCUdzkBIgaUab4t0K_gGmyavmeaPCSnpOm1-aeTF6RURkbeDv2nL5DedlyHwAZNfEcIGgFqWiBYLVDIqUPB_7gWA3RPeNQ==",
+          "title": "hidatakayama.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2cE45pAEKC3G2yN6HHU5juif_8eUaCJ9tFNVIufbrMJiBmxvAvG7bfsGfGCGNtS_e6E4cHP82eJCU5poHbFroHzqO4FTegCZaDVNEX910tlo4JEp5GuZlNrMiEP-BTofz9Q==",
-          "title": "wixsite.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoOj1wFvqU_8ChwDay3rm0XlVThR4lwyWPW3dPp8LJFRaHLGe-kCvZiS4OgLlrMzQBdMWWg8iquZ76NGFUWIS2kkOk3WAeFNXJPX1WwebXaphaKFF0IEQefiCkkXs=",
-          "title": "instagram.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMS6y-Fpfu93si_VpQ58UCfXuRpQMz42S2kM9_6xW2kPy-1zCvPecuaIfcHWcwm3dcevK_p3-eBjhTEAy6vhKfXG-9UEqLWf_zhbNCQ5y5bHJPOpIsmX-I0QjfiRMqGss1oev9",
-          "title": "azusaya.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4QyUkZ86PtXXg9_fg1JEzDfT0PUZ_mGUE7nJsEFmW9G0DtyrTLAH08pw1s9-LlKvotvJNtEptGBWhhVwB3qZeqd6WQswGDG5ctgYfppcZ0DbL5Y20UeZB3WkiMAS8QdwhN9b79nE=",
-          "title": "fc2.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDyNojg4j4PjNpnrCDnA5TteQVbi2CyO0y_RIbT1GsvTB_wNIu3hPzVOlfeWi3ozFGa0VkR3LMMyVRAw511n7KAthdubNnj-rrY94S2Xep_ZJv2qLfXt89_L0DzSLUU6qYuj0=",
-          "title": "madeinlocal.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkuSg7y-4Gr1bg9YFCAroiJ00ex0JSO_mjBFklvz4ORRJaEImCxrz41lBeADhLEQ4NSvDLZhosYvwVrYakpgodG9q5bBh4tvSMtj-TEKLg2-O51gHGBCoDmDJbNltwSsesVRZgNmtJALfa1zwg_AQxtDGLhyY2ZCiFMcpg",
-          "title": "enakawakamiya.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf1AItpYkxMvf6FQP4TrOqximufN7Y_Gxu3wKJHbjkqjxAk4ZXDRMFzooKsVF9KvrN8jA-TUG-QZfvvXnwea6F1MyoCOOfK7_ep6Ln90rXDV8m9yJbtOVXbUXxf7r5Isws-4AMA4jUTamN",
-          "title": "theshop.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbW4Mz8kwvzYOHmzrk0dFylsIimkrHDF8OkNt73wrHceyj6xoW8LLXHjoisBXRXL56-mmyskZAE-Q8Q6o9GS9XvLqyWAmlz7piTP_Y9LQIJFuntaFzAlf0t2s32CJa3JQ=",
-          "title": "machiyado-ichiryu.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRFZm2ntCiUxGXu2avywrvqPtF2YpyOlFo6fIyzm9e6H_5ZEM_KyjWk1UDDZ12wZMqN1JEhlK2P5umS2xL_7oDNeq301TwKQ4Cp8IPk4tsG8LlG5ZuqSQqjgK6",
-          "title": "hida-kankou.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV4NGXY5GcpYaF1WE07XlO5RgRa4Ptg1Y1zaKSAPsAqHhaYdYZlR8vKQ4n8jeRVuIjBFWPXzNhjdp2Kf5_Ic5hcX8OJ_tP4yNAN_WZ5ImgHu6Q4xzQJpANWHfoD-IdC3dLvPzC",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuhNt4dDphGnHk9Hpu5Y_RpfICPRt8_0m9Ta9ArnKvw8V27Rl0CUR8zZXEpu3X9RYO-NsmaK3TjSPAWzuYSiLHuzSE9YYEQ7WyrMmYkqtvFdtasxnqOY4g28_xB3SUt3ph1aQk",
           "title": "hotel-around.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGH7K_1IrMRYiVe4DuBc0_UjmNqSEkkn16iVnKQgJk_eNGw9TZf9hfVH-tAElYoFavJLEw-ujcjr--SiQZMZh4_Li7GZwwiFkN2Hx_HIFgc_kjhN6JV38SYqBdkEOirk6nrlb4qKw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IQkIdQ9jMTj69WQxphDrO6uyGGKik0TDmJibsnAZhcs4nox9CpmfWiuJ8Z4httFrcgkIYFJP8CKrsrCUlfPGvq2gVObkTrJIqxPAjkE5eLcqyq2ygsI5UzNmhG-Bx_qJRq7zQjRgcqU=",
+          "title": "taniguchi-choukoku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIe5tI-6X_IVDEhE7OVOPvBqTLtvFYHwIHMcOmomycJX_xshP2UKah8DUynHL5nPGJT9AamucNlMCpeqQ3NuMSGqB20WvQ2z1dtUI-O_5MzGY9mmfl0xPgFjHMWY=",
+          "title": "hidasangyo.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYJ-d4A1uTdPsmfkAItLuN7OJJm_hoiZWq-G445hEBIx_uFsbKJsZqzJAz2GFmj_TkxuLweVcferxdGDJeMQfp7oiCZ2ZUuU-vk7oNzcPFFpCQh_GZzPxFZ_tw-MB5-sFv87ZiVZC8aIwJrlUblmBkgJEedETk0vUX7ZGIXoKZv282jy4im_Jmot8pQNcy6WEUYKKZ_rWZ0Hjo5kpsq-urEfIKURY-5KMvX4N-wLDjRIccy1lQ1gE=",
+          "title": "gifunoki.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bIwxSpAqFAStfEENGvuCkLlAxS7gnIx4xkd4-i7ahx7LsUKgku29p3LE7YpxfH_xV6v-aXJ5LFaLHWLT22bqxHjSIheEURyd5Q7YKdtLIqplyLXpveKpvirpoEmKlW7ODF2S-bqEa46K5MjSd_1q8ZG3y5-hpz0AH7zzxel_9T9vMxWmqkbQmnc6vlrVQPF4b3UBgFSznZ9_",
+          "title": "hida-center.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyGSN7GrBmIPuCiG-ma_y-E38QIhnqOJRQKRP2fs0WtnN5uK00X2ghjSZBN2bLA7LGDrz_lGUV95Ebd-5WbveuuhEgcQbhvk9q92V9Qwin4ixsZ41la7L1r9XoafpQDsVRKI2Qmzp48uuqN_k0Rd2HFjIBao6qBYtPEeYIDhWJB8tHBsO",
+          "title": "hidanokagu.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8To8IoNsO6j2m73CsfeF-6oPo-FW7jSNHfKcE4xg7pW3uAE4L3tjndZ2Bw4YwSU4QSKmdHGx0M-MxAqRQGKpIZITRq2yNh2UES-0KVnLOoum42HEozwyOlCjxf2-N",
+          "title": "lab-livi.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshs-EsVL5V7P24xeKZshIHrHj7BaV1LbQaASRbJOmNA-iDA7y0jbGXgLXuoRebIjwx6n5SlhCgC9FGUBTbBAB1Dh_jrNDMOkMWBeulUUfJkJwdKbXakc=",
+          "title": "maruito.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbHLG423p7GbpAvhqUgs-kBuegti6XfNoL220dqsavXua3qKhAH16y2HVVgSH6eayp4IAYxwO3cpyazvTpHsxBHZPICXY5cyJfoAq_bATCVvZ6uEGsrygd27U3u1YxlrU9tfOIUz0=",
           "title": "kankou-gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4HdTkHNCJdBtiPsmbARGpsCy06tp1cbUtyIcIQDqJSh2sMNcj05GA_wblTWLV4wVRGr2MXqks_YAJ7Wi_8Ya6zuqKpSBhTTttsvQowvvTK_YFIt6DbtbdJbfj5VYBaxc=",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlDVfnnjBfVrqqA0LhSjg-WSR1Hlg5cc2J4xHJwCUpx8fMpLoA6t9AHO55RAP-EsrOF3E5q5_UxBfMvJlMEUCVDFfjl2953S0rAquwuuqSh62OYEKFucJ70GlbN6kxWxY=",
+          "title": "gifu.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvD9WtSaAd2_zx0fdVUQKboNPdH0_Mxv_pbQzOVors17K9HZmxHZkcfRHjeowud6J28OH3XTBWyB_iJeyZ3NuC2JgKF3wlQCjcoNWITxkhWIxyPYrcfR3BstpEPBLtu7EscGtE",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoYXDb8nTz4Nx4l7689Mg81J18SkMLsxbUP1HSBam1fzIa0cyTI8x0emrDZ705jIi0AGJNqGdXP54r-9g9azcTziZeVO4-PrapYY8Yiz_2r_dQpqNpaqmVhQ==",
+          "title": "nishigakinouen.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAajCjmW7QBF0v9b-KkHxAiy7X6DRA2OgJenoyeq22o-ruR-afrJlU-bcYwXbCrRpwqC83OelvXYmD_LKvN7ypVbbwlpkyze9_vL6sNCjFTAtZkfz2bQVtz-_b0P0urwOg",
+          "title": "gifu-np.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_i63fJBDxGBKUv6x6UKAkZcUSaqe9VNKoF9ReryW3aZAO53aZpTovraDDwgVUVPKM66fr7x-sehyJcAJ-tZiKB8oPuSKnhw8PbYG1fdDuNZojwBatfg==",
+          "title": "hanafru.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_i4mtdGTq_7QHIbavGQ-HPbykDgjkWygTHN_GglF_LyUcDb6XQc5hBEpesOd26jyde0iOUOU_dyhx5nPjOuYGFcjCuz1Vbb49k-Z2PAB8M2n5oVw=",
+          "title": "a-kaki.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 436,
-          "endIndex": 700,
-          "text": "町営・市営の近代的な上水道が整備される前、神岡の住民たちは集落ごとに「水道組合」を組織し、大洞山（おおぼらやま）などの豊かな山水や湧水をパイプで各家庭まで引いて生活していました"
+          "startIndex": 534,
+          "endIndex": 747,
+          "text": "朴（ホオノキ）の葉は、日本に自生する樹木の中で最大級の大きさを誇り、厚手で火に強く、食材を乗せて焼いても簡単には燃え抜けない性質を持っています"
         },
         "groundingChunkIndices": [
           0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 703,
-          "endIndex": 959,
-          "text": "その後、公的な上水道が開通した後も、清らかな山水・湧水を野菜洗いなどに使い続けたため、現在でも「山水（湧水）」と「市の上水道」の2本の蛇口が台所に並んでいる家庭が存在します"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1001,
-          "endIndex": 1211,
-          "text": "神岡の町を潤す大洞山の湧水群（船津大洞湧水群）は「岐阜県名水50選」に選定されており、水温は年間を通じて地下水特有の「約11〜14℃」とほぼ一定です"
-        },
-        "groundingChunkIndices": [
-          2,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1214,
-          "endIndex": 1343,
-          "text": "そのため、夏の厳しい暑さのなかでは冷たく感じられ、真冬には外気温より温かく感じられます"
-        },
-        "groundingChunkIndices": [
+          1,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1370,
-          "endIndex": 1541,
-          "text": "町内にある「牛ヶ口水屋」のように、水が引かれてから約300年間一度も枯れずにこんこんと湧き続けている共同水屋があります"
+          "startIndex": 750,
+          "endIndex": 906,
+          "text": "さらに、葉そのものに爽やかな独特の芳香があり、包んだり焼いたりした食材に上品な風味を移してくれるためです"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 949,
+          "endIndex": 1117,
+          "text": "林野庁や森林総合研究所の資料によると、ホオノキの葉は長さが20〜40cm、幅も10〜25cmに達し、大人の顔よりも大きく育ちます"
         },
         "groundingChunkIndices": [
           3,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1120,
+          "endIndex": 1190,
+          "text": "木自体の高さも20〜30メートルほどに達する高木です"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1365,
+          "endIndex": 1602,
+          "text": "木肌が緻密で狂いが少なく、刃先を傷めない（刃にやさしい）性質があることから、古くから「日本刀の鞘（さや）」や下駄の替え歯、版木、彫刻材などに重宝されてきました"
+        },
+        "groundingChunkIndices": [
+          1,
+          2,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1544,
-          "endIndex": 1825,
-          "text": "晩秋（11月の霜が降りる頃）になると、冬に向けた漬物作りのために各家庭から集まったお母さんたちが水屋で大根やかぶらを洗い、山と積み上げる光景が見られ、地域の温かい社交場として機能してきました"
+          "startIndex": 1651,
+          "endIndex": 1819,
+          "text": "ホオノキの「ホオ」という名は、古来その大きな葉で食べ物を包んだことから「包（ほう）」に由来するという説が有力です"
         },
         "groundingChunkIndices": [
-          2
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1855,
-          "endIndex": 2029,
-          "text": "神岡町出身で、朝日新聞の一面コラム「天声人語」を長年担当した名誉町民・荒垣秀雄氏もこの水に格別の愛着を寄せていました"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2032,
-          "endIndex": 2293,
-          "text": "生家の水道について「台所と洗面所の水道の水は昼夜を分かたず二十四時間流れっ放し……世界中で一番うまい水だ」とその豊かな恵みを称賛したエピソードが水屋の掲示板にも残されています"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2443,
-          "endIndex": 2651,
-          "text": "大根を茹でてから寒空の下に干すことで、夜間の極度の冷え込みによって水分が「凍結」し、日中の日差しで「解凍」される現象を約1か月間繰り返します"
-        },
-        "groundingChunkIndices": [
-          5,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2654,
-          "endIndex": 2822,
-          "text": "この昼夜の激しい寒暖差により、大根自身のデンプンが糖へと変化し、天然の旨みと強い甘みがぎゅっと凝縮されるためです"
-        },
-        "groundingChunkIndices": [
-          7,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2864,
-          "endIndex": 3063,
-          "text": "舞台となる神岡町の山之村地区は、標高約850〜1,000mの高地に位置し、厳冬期には気温が「マイナス20℃」に達し、積雪が「2m」を超える豪雪地帯です"
+          "startIndex": 1822,
+          "endIndex": 2092,
+          "text": "また、樹皮は「厚朴（こうぼく）」と呼ばれ、古くは平安時代の医書『医心方』にも登場し、現在も日本薬局方に収載される重要な生薬原料として飛騨などの山岳地帯で採集されてきた歴史があります"
         },
         "groundingChunkIndices": [
           5
@@ -309,61 +299,32 @@
       },
       {
         "segment": {
-          "startIndex": 3066,
-          "endIndex": 3234,
-          "text": "かつて冬の間は集落が雪に閉ざされ自給自足が必須だったことから、この過酷な寒さを逆手に取った知恵として育まれました"
+          "startIndex": 2353,
+          "endIndex": 2461,
+          "text": "飛騨の伝統工芸「一位一刀彫」の材料であり、岐阜県の県木でもある「イチイ」"
         },
         "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3237,
-          "endIndex": 3487,
-          "text": "その伝統的製法と品質が認められ、2017年には農林水産省の「地理的表示（GI）保護制度」に登録されたほか、2015年ミラノ国際博覧会の日本館でも日本の伝統食文化として紹介されました"
-        },
-        "groundingChunkIndices": [
-          7,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3514,
-          "endIndex": 3745,
-          "text": "かつて地元では、このような厳しい冬の暮らしを飛騨弁で「おぞい（不便で嫌な）土地」と感じ、外部の人に村の出身であることを誇らしく語れなかった時代がありました"
-        },
-        "groundingChunkIndices": [
+          6,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3748,
-          "endIndex": 4021,
-          "text": "しかし、地域の女性たち（すずしろグループ）が「百年以上続くお母さんの味を途絶えさせたくない」と立ち上がり、厳しい寒さという弱点を唯一無二の魅力に変えて全国区の特産品へと育て上げました"
+          "startIndex": 2464,
+          "endIndex": 2803,
+          "text": "この名は、かつて飛騨の山から切り出した材で朝廷の儀礼用具である「笏（しゃく）」を作り天皇に献上した際、他の材より際立って優れていたことから、当時の最高位である官位「正一位（しょういちい）」を賜ったという言い伝えに由来しています"
         },
         "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4051,
-          "endIndex": 4205,
-          "text": "山之村は通称であり、地図を開いても正式な行政地名としては載っていない「天空の里（7つの集落の総称）」です"
-        },
-        "groundingChunkIndices": [
+          6,
           7,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 4208,
-          "endIndex": 4400,
-          "text": "自然を力尽くで克服するのではなく、厳しい気候のサイクルをそのまま暮らしの道具として受け入れてきた先人のしなやかさが詰まっています"
+          "startIndex": 2846,
+          "endIndex": 3009,
+          "text": "イチイは非常に成長がゆっくりな針葉樹で、幹の直径（胸高直径）が約30cmに育つまでに100年近くかかると言われています"
         },
         "groundingChunkIndices": [
           7
@@ -371,250 +332,277 @@
       },
       {
         "segment": {
-          "startIndex": 4535,
-          "endIndex": 4697,
-          "text": "さるぼぼに決まった表情を描かないのは、持ち主の感情を受け止める「心の映し鏡」としての役割を持っているためです"
+          "startIndex": 3057,
+          "endIndex": 3180,
+          "text": "一位一刀彫の作品には、樹齢400年〜500年を経た貴重な飛騨の銘木が使われることもあります"
         },
         "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4700,
-          "endIndex": 4925,
-          "text": "自分が嬉しいときには一緒に笑っているように見え、悲しいときや辛いときには優しく寄り添って悲しんでくれているように見えるよう、あえて顔が描かれていません"
-        },
-        "groundingChunkIndices": [
-          9,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4928,
-          "endIndex": 5063,
-          "text": "また、子どもが自分の気持ちを投影して想像力を広げて遊べるようにという親心も込められています"
-        },
-        "groundingChunkIndices": [
-          12,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5105,
-          "endIndex": 5313,
-          "text": "その原型は、約1200年前の奈良・平安時代に貴族の産屋に飾られた厄除け・安産祈願の人形「這子（ほうこ）」や「天児（あまがつ）」に遡ると伝わります"
-        },
-        "groundingChunkIndices": [
-          13,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 5316,
-          "endIndex": 5439,
-          "text": "飛騨弁で赤ん坊を「ぼぼ」と呼び、「猿の赤ん坊」に似ていることからこの名がつきました"
+          "startIndex": 3232,
+          "endIndex": 3452,
+          "text": "「一刀彫（いっとうぼり）」という名前から「1本のノミだけで彫り上げる」と誤解されがちですが、実際には職人が何十種類ものノミや小刀を使い分けて彫ります"
+        },
+        "groundingChunkIndices": [
+          10,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3455,
+          "endIndex": 3711,
+          "text": "外側の白っぽい部分（白太）と内側の赤みのある部分（赤太）の天然の2色のグラデーションを活かし、絵の具や塗料による着色を一切行わずに鋭い刃痕を残して仕上げるのが最大の特徴です"
+        },
+        "groundingChunkIndices": [
+          6,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3760,
+          "endIndex": 4052,
+          "text": "一位一刀彫の歴史は江戸時代末期、高山出身の根付（ねつけ）彫刻師・松田亮長（まつだ すけなが）が、着色せずイチイの素朴な美しさを活かした蛙や亀などの小さな根付を彫り始めたことから本格的に始まりました"
+        },
+        "groundingChunkIndices": [
+          6,
+          10,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4304,
+          "endIndex": 4469,
+          "text": "飛騨の木工家具の歴史は、今から約100年前、飛騨の山々にうっそうと生い茂っていた「ブナ」の有効活用から始まりました"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4472,
+          "endIndex": 4688,
+          "text": "ブナは水分が多く乾燥させると反りや狂いが出やすいため、当時は「木に非（あ）ず（橅）」と書かれるほど役立たずの木とみなされ、山に放置されていました"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4731,
+          "endIndex": 4832,
+          "text": "飛騨産業の前身である中央木工株式会社が設立されたのは大正9年（1920年）"
+        },
+        "groundingChunkIndices": [
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4835,
+          "endIndex": 4918,
+          "text": "資本金3万円、社員わずか6人という小さな町工場の試みでした"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4921,
+          "endIndex": 5116,
+          "text": "現在、高山市は市町村面積の約93%を森林が占め（森林率日本一クラスの広大な市）、家具製造業の出荷額でも全国上位の家具産地となっています"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5165,
+          "endIndex": 5390,
+          "text": "家具用材としては見向きもされなかったブナですが、実は「高温の蒸気で蒸すと、驚くほどきれいに曲がる（曲木に適している）」という隠れた性質を持っていました"
         },
         "groundingChunkIndices": [
           14,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5393,
+          "endIndex": 5585,
+          "text": "これに目をつけたことで、ドイツ発祥の曲木技術と「飛騨の匠」の卓越した手仕事が融合し、美しい曲線を描く椅子へと生まれ変わったのです"
+        },
+        "groundingChunkIndices": [
+          11,
+          13,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5634,
+          "endIndex": 5733,
+          "text": "この一大産業のきっかけは、高山の上三之町にあった味噌屋の店先でした"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5736,
+          "endIndex": 6079,
+          "text": "大正9年、店を訪れた旅人（県外で曲木技術を学んだ職人兄弟）と味噌屋の店主が「ブナの木だって、工夫次第で立派な椅子になる」と雑談を交わしたことから、地元の有志が集まり、椅子など見たこともなかった職人たちが手探りで会社を立ち上げました"
+        },
+        "groundingChunkIndices": [
+          12,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 5466,
-          "endIndex": 5703,
-          "text": "今でこそ愛らしい民芸品として定着していますが、全国的な知名度を得る前は、観光客から「全身が赤くて顔がないから怖い」「不気味だ」と敬遠されていた時期がありました"
+          "startIndex": 6313,
+          "endIndex": 6535,
+          "text": "全国のスーパーや果物屋に並ぶ「富有柿（ふゆうがき）」は、明治時代に岐阜県旧本巣郡（現在の瑞穂市居倉）で誕生し、全国へ広まった岐阜県発祥の完全甘柿です"
         },
         "groundingChunkIndices": [
-          9
+          16,
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 5706,
-          "endIndex": 5889,
-          "text": "赤い布が使われるようになったのは江戸時代、当時恐れられていた天然痘（疱瘡）を払う魔除けの色と信じられていたことに由来します"
+          "startIndex": 6578,
+          "endIndex": 6757,
+          "text": "日本に存在する柿の品種は約1000種におよびますが、富有柿はその中で国内栽培面積・生産量の第1位を誇る圧倒的な「柿の王様」です"
         },
         "groundingChunkIndices": [
-          9
+          16,
+          19,
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 5919,
-          "endIndex": 6129,
-          "text": "「さる」の響きには「災いや病が去る（サル）」という意味が重なり、音読みの「猿（えん）」には「良縁」「夫婦円満（円）」の願いが込められています"
+          "startIndex": 6760,
+          "endIndex": 6993,
+          "text": "一般的な果実は230〜280g程度、糖度は16〜19度と非常に甘く、岐阜県で袋掛け栽培された最高級ブランド「果宝柿」では350g以上、糖度18度以上の厳しい基準が設けられています"
         },
         "groundingChunkIndices": [
-          14,
-          9
+          18,
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 6132,
-          "endIndex": 6351,
-          "text": "昔の飛騨のおばあちゃんやお母さんが、雪深い冬の間に着物の端切れを集め、子や孫の無病息災と幸せを願って一針一針手縫いでこしらえた家庭の愛情の結晶です"
+          "startIndex": 7042,
+          "endIndex": 7360,
+          "text": "「富有（ふゆう）」と聞くと「お金持ちになる（富み有る）」という縁起担ぎのように思えますが、実は中国の古典『礼記（らいき）』にある「富有四海之内（四海の内を豊かに有す＝天下を治める）」という言葉から採られたものです"
         },
         "groundingChunkIndices": [
-          14,
-          13,
+          16,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7363,
+          "endIndex": 7474,
+          "text": "この柿が日本全国津々浦々に広まるように、という壮大な願いが込められています"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7523,
+          "endIndex": 7719,
+          "text": "富有柿の生みの親である福嶌才治（ふくしま さいじ）氏は、地元にあった「居倉御所」という甘柿の枝を接ぎ木し、品種改良に心血を注ぎました"
+        },
+        "groundingChunkIndices": [
+          16,
+          17,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7722,
+          "endIndex": 7852,
+          "text": "完全甘柿は寒さに敏感で、年平均気温が11.5度以上ないと自然に渋が抜けきらない性質があります"
+        },
+        "groundingChunkIndices": [
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 6525,
-          "endIndex": 6600,
-          "text": "和ろうそくの「芯」の独特な中空構造に理由があります"
+          "startIndex": 7855,
+          "endIndex": 7966,
+          "text": "岐阜の平野部の絶妙な気候と福嶌氏の熱意が重なって、奇跡の甘柿が完成しました"
         },
         "groundingChunkIndices": [
-          17,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6603,
-          "endIndex": 6780,
-          "text": "和紙を巻いた棒の周りにイグサの髄（燈心）を巻き付け、真綿で留めて作るため、芯の内部がストローのような空洞になっています"
-        },
-        "groundingChunkIndices": [
-          17,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6783,
-          "endIndex": 6996,
-          "text": "火を灯すと、この空洞から下部の空気が炎へと吸い上げられる「煙突効果」が生まれるため、風のない室内でも炎が上下に呼吸するように大きくゆらめきます"
-        },
-        "groundingChunkIndices": [
-          17,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7038,
-          "endIndex": 7137,
-          "text": "隣町の飛騨古川にある「三嶋和ろうそく店」は240年以上の歴史を誇ります"
-        },
-        "groundingChunkIndices": [
+          16,
           18,
-          19
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 7140,
-          "endIndex": 7394,
-          "text": "手作りの和ろうそく店は全国でも20数軒ほどしか残っておらず、木臼で練った蝋を手作業で幾層にも塗り重ねる「生掛け（きがけ）」の全工程を守り続けているのは全国でも極めて貴重です"
+          "startIndex": 8735,
+          "endIndex": 8834,
+          "text": "ホオノキの木材は、軽くて狂いが少なく、適度な柔らかさを持っています"
         },
         "groundingChunkIndices": [
-          20,
-          17
+          1,
+          2,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 7397,
-          "endIndex": 7565,
-          "text": "石油系原料（パラフィン）を使う西洋ろうそくと異なり、ハゼの実から絞る100％植物性の木蝋（JAPAN WAX）が用いられています"
+          "startIndex": 8837,
+          "endIndex": 9065,
+          "text": "固い木だと大切な刀の刃を傷つけてしまいますが、ホオノキは「刃にやさしい木」として、古くから日本刀の鞘の内側や本体の材に一番適していると重宝されてきました"
         },
         "groundingChunkIndices": [
-          18,
-          21
+          1,
+          2,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 7592,
-          "endIndex": 7790,
-          "text": "和ろうそくは植物性原料と中空の芯のおかげで完全に燃焼しやすく、油煙（スス）がほとんど出ず、蝋が外へ垂れ落ちにくいという特徴があります"
+          "startIndex": 9068,
+          "endIndex": 9227,
+          "text": "下駄の歯や版画の版木などにも使われており、葉っぱだけでなく木そのものも日本の暮らしを支えてきた万能の木です"
         },
         "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7793,
-          "endIndex": 7934,
-          "text": "そのため、貴重な仏具や仏壇、寺院の内装を黒く汚さない灯りとして雪国の暮らしで重宝されてきました"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7964,
-          "endIndex": 8186,
-          "text": "静かな部屋で風もないのに炎が優しくゆらぐ姿を見て、飛騨の人々は昔から「仏様やご先祖様が喜んで微笑んでいる」「笑ってくれている」と言い習わしてきました"
-        },
-        "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8189,
-          "endIndex": 8345,
-          "text": "ただ明かりを採るだけでなく、目に見えない先祖と心を通わせる和やかなひとときをつくり出していた生活道具です"
-        },
-        "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9192,
-          "endIndex": 9303,
-          "text": "さるぼぼに顔がないのは、持ち主の気持ちをそっと映し出すためと言われています"
-        },
-        "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9306,
-          "endIndex": 9426,
-          "text": "楽しいときは一緒に笑い、つらいときは一緒に悲しんでくれる、優しいお守りなんですね"
-        },
-        "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9429,
-          "endIndex": 9615,
-          "text": "病気や災いが『去る』、そして『良縁（えん）』に恵まれますようにと、お母さんやおばあちゃんが端切れで手作りしたのが始まりでした"
-        },
-        "groundingChunkIndices": [
-          14,
-          13
+          1,
+          4,
+          5
         ]
       }
     ],
     "webSearchQueries": [
-      "\"寒干し大根\" 山之村 飛騨市 伝統 寒暖差",
-      "神岡 水屋 共同井戸 飛騨市 暮らし",
-      "飛騨 さるぼぼ 由来 顔がない 理由 博物館",
-      "飛騨 和ろうそく 三嶋和ろうそく 伝統 芯"
+      "富有柿 発祥 岐阜県 瑞穂市 特徴",
+      "飛騨の家具 曲木 飛騨産業 ブナ 歴史",
+      "朴葉 朴の木 特徴 大きさ 葉 森林総合研究所 林野庁",
+      "一位一刀彫 イチイ 仁徳天皇 笏 岐阜県 由来"
     ]
   }
 }
