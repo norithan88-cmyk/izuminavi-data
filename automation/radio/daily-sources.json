@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "懐かしい暮らし・心が和む話",
-  "characters": 2057,
-  "estimated_minutes": 6.2,
-  "saturday_story": "story-01",
+  "theme": "季節・趣味・ゆったりした話題",
+  "characters": 2148,
+  "estimated_minutes": 6.5,
+  "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "日本の夏の風物詩、蚊取り線香が渦巻き型になったのは開発者の妻ゆきさんのひらめきです。ヒントになった生き物は何でしょうか。1番、カタツムリ。2番、とぐろを巻いたヘビ。3番、寝相が悪い夫。",
-    "answer": "正解は2番、とぐろを巻いたヘビでした！蔵で見かけたヘビから思いついて、燃焼時間が約40分から約7時間に伸びたんだって。夫の寝相じゃなくてよかったじゃんね！",
+    "question": "秋にいい香りがするキンモクセイ。実は日本にある木には驚きの共通点があります。どれでしょう。1番、全部メス。2番、全部オス。3番、みおんの芳香剤と同じ成分。",
+    "answer": "正解は2番、全部オスでした！日本のは実がつかん雄株ばかりで、挿し木で増やした同じ木のクローンなんだって。みおんのボケに騙されちゃかんよ！",
     "source_ids": [
-      10,
-      13
+      8,
+      12
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEay1VGlr3Rb5UaQT83SmrCjivUpqHSAoL9yFYG34ycmPJBmQYt_fGeFBsHyiJXT7tTTKIC0bshLfuJ2nwwn4CmV1sdHFBDmwU5tsbS7LmsUWF0ruZ1SdJsXrRxoST3r4z3FEGRDOnrXw==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-wiNrBp47ho7sPoaHdHEgDwI0fAXwhpd8GWV9K51D9HFI224Nr0IfYemQTNi0PH5SMISU2qH5PSh9qIYxZ3nDknRtZpSnUroIOVpp0TCMidzbLgT58rXjxpuDtMm-_w=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wetPrIc9sjlMPEgBGDbVqvfvH5nDDXimr2JL1ISP0WV0igo4Q0r7sawSc-N-km6ji_aHFeLzFkpMhE2Kw2bJHvX_9JXyWfo9uLB7NjmY1TC-IFBnlFPy-BjMkdUuh3JdF_RoHrXbDHRzj7rnShquRYZFswMLBpFqvGY=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnWr7mhjbKyB9bnkhDGrVRC88cOetsqZcx6S8rXsZN_gMffS9Hp5JoDYip_Tq7uRVlydDIntd5Ogg6Jr5zR6Szu3AmwCU2oyq8s0ZI8OCwh5AK2sO-meYPP5yS4UKQVJDo"
     ]
   },
   "izumi": {
-    "text": "さあ、やってきました「みおんの和泉ディープ」！今日は、都築弥厚さんの熱い想いを受け継いだ男、岡本兵松さんのお話だに。兵松さんは千八百二十一年、今の碧南市生まれ。背が高くてめっちゃ厳格な人だったらしいのね。そんな兵松さんが千八百五十三年ごろ、弥厚さんの子孫から原野を買って開墾を始めたのがすべての始まり！そこで弥厚さんの用水計画を知って、「この遺志は俺が絶対に継ぐ！」って心に決めたんだって。胸熱すぎるじゃん！でもね、現実は甘くない。千八百五十八年と千八百六十八年、計画を申請したのに二回も許可されんかったの！現代なら「もうやってられんわ！」って転職サイトに登録しちゃうレベルだよね。それでも兵松さんはあきらめんかった！阿弥陀堂村の庄屋、伊予田与八郎さんとタッグを組んで、兵松さんは農民の説得、伊予田さんは出資者との交渉って見事な役割分担で作戦変更！その粘りが実って、千八百七十六年に愛知県から認可！千八百七十九年に工事が始まって、千八百八十年四月十八日に水源地で通水式！千八百八十一年には「明治用水」と名付けられたんだわ。弥厚さんの構想から半世紀近くかかって、最大一万七百六十ヘクタールを潤し、安城が「日本デンマーク」と呼ばれる大発展につながったの！兵松さんは私財を投じて晩年は経済的に苦しく、千八百九十七年に七十六歳で亡くなったんだけど、二回フラれても決して折れなかったこのド根性、私たちのまちの誇りだら！",
+    "text": "全国のそうめん産地って、普通は乾燥した冬の寒い時期に仕込むじゃんね。ところが和泉そうめんは、なんと真夏のあっつーい時期に仕込むんだわ！えっ、ちょっと待って、みんなが冬にコタツで震えながら作っとる時に、なんでわざわざ汗だくの真夏に逆張りしたん？ってツッコミたくなるよね。今なら職場で「なんで繁忙期に真逆のことやっとるの？」って会議で詰められそうなレベルだに。でもね、これにはちゃんと自然の恵みを生かした理由があるの！夏のカンカン照りの強い日差しで一気に麺を乾かしたあと、夕方から三河湾から吹いてくる湿った南東の風に当てるんだって。そうすると、乾いた麺が水分を吸って、しっとりした状態に戻るの。これを『半生もどし』って呼ぶらしいよ！完全にカピカピに乾燥させんと半生に戻すことで、あの独特の強いコシと、ツルツルッとなめらかな喉ごしが生まれるんだわ。約250年前に天明の大飢饉をきっかけに始まったそうめん作りだけど、米が育ちにくい土地で、三河湾の風まで味方につけて極上の麺を生み出した先人たちの工夫、本当にすごくない？夏の暑さと海風を計算し尽くした和泉の職人技、地元の誇りとしてみんなに自慢しりんね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/tuzuki/"
+      "https://anjo-izumi.life/somen/"
     ],
     "angle": {
-      "id": "meiji-relay",
-      "hook": "弥厚から兵松へ、半世紀のバトンリレー。2回却下されてもあきらめない"
+      "id": "somen-summer",
+      "hook": "みんな冬に作るのに、和泉だけ真夏に作る逆張りと『半生もどし』"
     }
   },
   "local": {
-    "text": "今日十月十七日から十月三十一日まで、「”白鳥とコウモリ”安城特別展」が開催されるよ！今日からスタートする注目のイベントだね。芸術の秋のお出かけにぴったりじゃん！秋風が心地いい土曜日の今日、お散歩がてらふらっと立ち寄ってみるのも楽しそうだら。気になった人はぜひ忘れんようにチェックしてみてりん！",
+    "text": "安城市民ギャラリーで今日10月18日から10月31日まで、”白鳥とコウモリ”安城特別展が開かれとるよ！芸術の秋だし、お出かけついでにふらっと覗いてみるのも楽しそうだよね。",
     "source_ids": [
-      31
+      26
     ],
     "source_urls": [
       "https://www.city.anjo.aichi.jp/event/hakuchou.html"
@@ -43,263 +43,316 @@
   },
   "segments": [
     {
-      "topic": "昔の郵便ポストが黒かった理由と前代未聞の勘違い事件",
-      "text": "明治用水の熱い情熱から一転、お次は身近な赤いアイツの話！そう、街角にぽつんと立っとる郵便ポストです。みんな、ポストって昔は「黒色」だったって知っとった？えっ、うそでしょ、黒かったら夜見えんじゃん！って思うよね。明治四年に郵便制度が始まったときは木の箱だったんだけど、翌年に全国展開したとき、角材に黒いペンキを塗った「黒塗柱箱」っていう黒ポストが登場したんだわ。ところがこの黒ポスト、街で大混乱を巻き起こしちゃってね。夜や悪天候で見分けがつかんくてゴミ箱と間違えられるのはまだ序の口。なんと、当時まだ郵便って言葉を知らんかった人が、看板の文字を「垂便」、つまり大小便の「たれべん」と読み違えて、ポストの中に用を足しちゃうっていう前代未聞の大惨事が起きちゃったの！…って、いくらなんでも豪快にとろくさい勘違いだら！手紙を出す箱がまさかのトイレ扱いなんて、郵便屋さんも卒倒するよね。そこで明治三十四年に火事に強い鋳鉄製の赤い丸型ポストが試作されて、明治四十三年の記録にも「認識しやすくするために朱塗りにした」と残され、全国に赤いポストが定着したんだって。ちなみに愛知県には赤くない激レアポストもあって、安城のお隣、西尾市の井桁屋公園には、名産の西尾の抹茶をアピールする「抹茶色」の丸型ポストが現役でおるんだに！今度ポストを見かけたら、「昔は黒くてトイレと間違えられとったんだよ」って、家族に話してみてりん！",
+      "topic": "常滑焼の急須でお茶が劇的にまろやかになる科学の秘密",
+      "text": "そうめんの話でお腹がすいてきたけど、食後にはやっぱり温かいお茶が恋しくなる季節じゃんね。皆さんはお茶を淹れるとき、どんな急須を使っとる？実は愛知県が誇る日本六古窯のひとつ、常滑焼の赤い急須でお茶を淹れると、渋みが抜けて驚くほどまろやかになるって知っとった？「器で味が変わるなんて気分の問題だら？」って思うじゃん。うそでしょ、これ、完全にガチの化学反応なんだわ！常滑焼のあの赤い土には酸化鉄、つまり鉄分がたっぷり入っとるの。お湯を注ぐと、その鉄分がお茶の渋みや苦味の成分であるタンニンとガッツリ手を結んで結びついちゃうんだって！さらに、釉薬を塗らずに焼き締めるもんで、表面にある目に見えない小さな穴が余分な雑味を吸い取ってくれるらしいの。陶器が勝手にお茶のトゲトゲした渋みを引き算して、甘みと旨味だけを残してくれるなんて、めちゃくちゃ優秀なフィルターじゃんね。みおん、手がないもんでお茶淹れられんけど、聞いてるだけでちんちんのお茶が飲みたくなってきたわ！しかも常滑の急須って国内シェアの約9割を占める日本一の産地で、職人さんが蓋と本体をすり合わせて隙間なくピタッと密閉するから、茶葉がしっかり蒸れて最後の一滴まで注ぎ切れるんだって。地元愛知の土と職人技の結晶、今日の一杯で試してみりん！",
       "source_ids": [
-        24,
-        25,
-        29
+        3,
+        4,
+        6
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAm-4fUeyYqQaLB2iT3RDLrI9JJBObrs1tSFGwhYfoR1kAbn2SnabGllHPnbynl9mBI7sPc1vkUV06GyzHFp7cUYEXYkV5swoGv0KfJovy_jMlv0NoKuk2EVzMkM-D9sVaUoJ-2de7bPsGWB_ndgCK",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRCSTCUhbbKyDlca0SQRiAnQXmwZlrWTiLhzENelR9c5nzwdau-rgH0BDsH6lpwFMUA5hvOpcBVoDoIV4UIb6Y1HUPKZP-Ry1o2l3bqXoOp_F9YBXd2nyAxbzG-cizeUlZE9jDQ8BTm-TZIn-11H3Q1OlG0g0mikKZ99h7ZdZAbWe2aHGgGKdh8iL-_Q4HUpn9C97VFn3f9UPcVy-VIEmsJX1Gts2SxGF69YcsiMQjIaLuk_uRm_QNaryWu6MJykWpycBdTpz1Ri0Ve2BthYbLzjQ5ls536313qBxH5L1-gVeGFfkkF1kl4fLhqcO-M5bf8GlA9c8zqlEO-g==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDIm5mU6Zbgm4iKAZS4PRQ1UU1JASEnDJvP1tv8TJHKYCVZ3MeUBsPtenkjVZBXBtaWNlM1oYCOfry0kJq3maW7rIBZDAOcwK0VoagjMKTOl3Tl-4-JNyQKTyQpmLE5EpZGEspwVB-brsYQgu-8VWG"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6PNpqFsY7DJe8-zTsq096mMGohDB7HpDXa83_Lq6xcMnUZVtrVyqkszUlawBzdxlmcOfuXOEpyTi5PnVzeGriL59IafASgP9KfchxVD-GvjtuvuF62-7-bXbH9mf8t6Md8g==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4w7D_xfCZJvjS9zf69kNQoVz0OkX6gVUYCD6K9mz3awhi9ceDc5yWzH_55iR2J6qXigzu_VtKsYQFp5a0cdVGETG2wQuyrSlJufJX_UdQR8s9SjoL0uO2mJGS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZgs9rupUbbRHsIdJIjc4aID7HYmZXUv69WhwYU-X_gcSMZXD0yQ7MdAQ6BAi5nVtDNl_Z5X1LXwGynRomYYiVVG4scJ7S8KC-U5H6jgnIqn7K0o-M"
+      ]
+    },
+    {
+      "topic": "新潮文庫の頭がギザギザな理由としおり紐の意外なコスト",
+      "text": "おいしいお茶を片手に、秋の夜長に読書でも楽しみたいところだよね。ところで、本棚にある文庫本を手に取ったとき、本のてっぺんがツルツルじゃなくて、なんかガタガタして毛羽立っとるのを見たことない？特に新潮文庫！「えっ、裁断ミス？それとも手抜き？」って疑った人、おるだら？みおんも最初は切り忘れかと思ってツッコミそうになったんだけど、実はあれ、ミスどころかめちゃくちゃお金と手間をかけた超贅沢な仕様なんだって！あのギザギザは「天アンカット」って呼ばれる製本方法で、本の上を機械でスパッと切り落とさずに残しとるの。なんでそんな面倒なことするかっていうと、あの背表紙の上からピロッと出とる布のしおり紐、いわゆる「スピン」を糊付けして挟み込むためなんだわ。今、日本の大手文庫でこの紐をつけ続けてくれとるのは事実上、新潮文庫だけらしいよ。ほかの会社はコストカットで紙のしおりに切り替えたんだけど、新潮社は「文庫でも読み捨てにしない大切な本だ」って頑なに守り続けとるの。しかも紐代や特別な加工の手間で、本1冊につき約10円も余分にコストがかかっとるんだって！1冊10円だよ？何万冊、何百万冊って刷ったらとんでもない金額じゃんね。次に文庫本を開くときは、あのギザギザの頭と紐を優しく撫でてあげてね！",
+      "source_ids": [
+        15,
+        21
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLd_RXVzTauI-fiB9Y4Kf9ZK-N6TA1plKyTUMlMb8YLZRxQpA9YHhVYxT_mwWRDXcOeLPJZSMlEtrDNyHOHzUWiKBqgq3RKWoKuSLf_DteOzgSTXxVHLyeXW_GMUMtI0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNHSNY3jfDTDBCj2eSuISomAc4qAmhHl6IB_fwX6l-5OZYoVy4D3Yn8RAvUe6DZFkIN8p5YJ9_iXoQxTDGfi1B6xYsFVyn5wpuyK7ZMnr48dx-eW13EmhG3aVxfW4O"
       ]
     }
   ],
-  "research": "愛知県安城市和泉町周辺のリスナーに向けた地域ラジオのトークネタとして、昔懐かしい暮らしの道具や風景にまつわる「心が和み、思わず家族に話したくなる話」を4件まとめました。地元・愛知の伝統工芸や身近な生活用品を題材に、一次資料（メーカー公式・博物館・業界団体など）の記録をもとに構成しています。\n\n---\n\n### 1. 常滑焼の赤い急須でお茶を淹れると、なぜ角が取れて美味しくなるのか？\n\n* **理由：**  \n  愛知県知多半島で作られる「常滑焼（とこなめやき）」の代表格・朱泥（しゅでい）急須には、原料土に鉄分（酸化鉄）が豊富に含まれており、釉薬（うわぐすり）を塗らずに焼き締められています。お湯を注ぐと、土に含まれる酸化鉄とお茶の渋み・苦味成分である「タンニン（カテキン類）」が適度に反応・吸着し、お茶の角が取れて味がまろやかになります。\n* **具体的な数字や比較：**  \n  ガラス質で表面がつるつるした「磁器」の急須は茶葉の味をストレートに抽出しますが、常滑焼の朱泥は多孔質で土の成分がダイレクトにお茶に作用します。また、熟練の職人が本体とフタを擦り合わせる「蓋擦り（すりあわせ）」という技法により、隙間なく密閉されるため、最後の一滴（旨みが凝縮したゴールデンドロップ）まで残さず注ぎきれる精密さを持っています。\n* **意外な点：**  \n  「急須でお茶の味が変わるなんて気のせいでは？」と思われがちですが、実際には土の鉄分と茶葉の成分による**化学反応**という明確な科学的根拠があります。\n* **歴史の裏話：**  \n  平安時代末期から続く日本六古窯の一つ・常滑焼ですが、この朱泥急須が盛んに作られるようになったのは幕末から明治にかけてのこと。中国・宜興窯（ぎこうよう）の茶器を手本に研究が重ねられ、日本の煎茶文化とともに大ヒットしました（常滑市と中国の宜興市は、この茶器のご縁で友好都市提携を結んでいます）。\n* **根拠・出典：**  \n  * とこなめ陶の森 資料館 展示解説\n  * とこなめ焼協同組合・伝統的工芸品産業振興協会資料\n  * 日本茶専門店等による朱泥急須の成分解説（酸化鉄とタンニンの反応）\n\n---\n\n### 2. 蚊取り線香はなぜ「渦巻き型」になったのか？\n\n* **理由：**  \n  かつて蚊取り線香は仏壇のお線香と同じ「細い棒状」でしたが、燃焼時間が短く、寝ている間に燃え尽きて蚊に刺されてしまうという弱点がありました。そこで「長時間持たせるために線香を長くしたいが、場所を取らず、倒れて火事にならないようにする」という工夫から渦巻き型に丸められました。\n* **具体的な数字や比較：**  \n  明治23年（1890年）に世界で初めて発売された棒状蚊取り線香は、長さ約20cmで燃焼時間は**約40分**でした。これを渦巻き型にしたところ、まっすぐに伸ばすと**約75cm**の長さになり、人の睡眠時間に合わせて**約7時間**燃え続けるようになりました（持続時間が10倍以上に向上）。\n* **意外な点：**  \n  この歴史的アイデアをひらめいたのは、KINCHO（大日本除虫菊）創業者の上山英一郎氏ではなく、妻の「ゆき」さんでした。ある日、庭（または蔵）で見かけた「とぐろを巻いた蛇」の姿を見て「細長く巻けばいいのでは」と夫に提案した内助の功から生まれています。\n* **歴史の裏話：**  \n  明治28年（1895年）に渦巻き型が考案された当初は機械がなく、職人が木型を使って1本1本手作業で2巻を組み合わせて手巻きしていました。現在のように平らな板から機械で打ち抜く方式になる大正時代まで、大変な手間をかけて手づくりされていた暮らしの道具でした。\n* **根拠・出典：**  \n  * 大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです。」\n  * 国立科学博物館「重要科学技術史資料（未来技術遺産）」登録資料（金鳥の渦巻）\n\n---\n\n### 3. 黒い鉛筆は「六角形」なのに、色鉛筆はなぜ「丸い」のか？\n\n* **理由：**  \n  普通の鉛筆は文字を正確に書くため、親指・人差し指・中指の「3本」の指で固定して持ちます。3の倍数である「六角形」は指の腹が平らな面にぴったり収まり、長時間書いても疲れにくく、机の上でも転がりにくいためです。一方、色鉛筆は絵を描いたり塗ったりする際、ペンの角度を寝かせたりくるくる回したりしながら使うため、指当たりが柔らかくどの角度でも回しやすい「丸軸」に設計されています。\n* **具体的な数字や比較：**  \n  鉛筆は「3本の指」で支えるため、断面が3の倍数（三角形や六角形）になります。握力が弱い幼児向けの練習鉛筆には太い「三角形」もありますが、一般的な筆記用は転がり防止と持ちやすさのバランスが取れた「六角形」が主流です。また、色鉛筆の芯は黒鉛筆（黒鉛と粘土を高温で焼成）とは違ってワックスや油脂を含んで柔らかいため、六角形にして偏った圧力がかかるのを防ぎ、円形の均等な木の厚みで保護する役割もあります。\n* **意外な点：**  \n  同じ「鉛筆」という名称でも、「文字を書く道具（安定した固定が必要）」と「絵を描く道具（自由な動きが必要）」という手の使い方の違いによって、軸の形が論理的に作り分けられている点です。\n* **歴史の裏話：**  \n  19世紀半ば、ドイツの鉛筆メーカー「ファーバーカステル社」の4代目ローター・フォン・ファーバーが、筆記具としての握りやすさ、机からの転がり防止、そして板材を切り出す際の木材ロスの少なさを追求して「六角形」の鉛筆を開発し、これが世界標準サイズとして定着しました。\n* **根拠・出典：**  \n  * 一般社団法人 日本筆記具工業会「筆記具の基礎知識：鉛筆」\n  * 株式会社トンボ鉛筆公式「Q&A / 鉛筆の軸の形状について」\n  * 三菱鉛筆株式会社公式「えんぴつなんでもQ&A：6角形が多い理由」\n\n---\n\n### 4. 郵便ポストはなぜ「赤」になったのか？（昔は何色だった？）\n\n* **理由：**  \n  郵便ポストが赤くなった最大の理由は、「街角で遠くからでも目立ち、誰でもすぐに見つけられるようにするため」です。明治43年（1910年）の逓信省年報にも「公衆ヲシテ認識シ易カラシムルタメ特ニ朱塗トセリ」と公式記録が残されています。\n* **具体的な数字や比較：**  \n  明治4年（1871年）に郵便制度が始まった当初、最初のポストは木製無塗装の「書状集め箱」でした。翌明治5年（1872年）に全国展開された際には、角材に黒いペンキを塗った「黒塗柱箱（黒ポスト）」が作られました。しかし夜間や悪天候で見分けがつかず、明治34年（1901年）に火事に強い鋳鉄製の「赤い丸型ポスト」が試作・登場し、以降全国へ赤いポストが普及しました。\n* **意外な点：**  \n  初期の黒いポストは、夜に目立たずゴミ箱と間違えられただけでなく、当時まだ「郵便」という言葉を知らない一部の人が「垂便（たれべん＝大小便）」と読み違え、ポストの中に用を足してしまうという前代未聞のトラブルが実際に起きて問題視されました。\n* **歴史の裏話（西三河・愛知の話題）：**  \n  東海道の宿場町にも置かれた初期のポストですが、現代の愛知県内にはユニークなポストがあります。安城市の南隣にある西尾市（特産の西尾の抹茶で有名）の井桁屋公園などには、名産をPRするために塗られた「抹茶色（深い緑色）の丸型ポスト」が現役で活躍しており、赤色以外の珍しいポストとして親しまれています。\n* **根拠・出典：**  \n  * 郵政博物館「郵便ポストの移り変わり 〜日本最初のポストから現在のポストまで〜」\n  * 郵政博物館 研究紀要 第7号（2016年）「最初の公式鋳鉄製赤色円筒形郵便柱箱」\n\n---\n\n### 【ラジオ番組用 3択リスナー向けクイズ】（話題2：蚊取り線香より）\n\n**問題：**  \n日本の夏の風物詩、ぐるぐる巻きの「蚊取り線香」。昔は棒状でおよそ40分しか持ちませんでしたが、寝ている間も長く使えるようにと、創業者の奥さんが「渦巻き型」をひらめきました。さて、奥さんが渦巻きの形を思いつくきっかけとなった生き物は何だったでしょう？\n\n* ① 庭をゆっくり歩いていた「カタツムリ」\n* ② 蔵の中でとぐろを巻いていた「ヘビ」\n* ③ 網をきれいに張っていた「クモ」\n\n**正解：**  \n**② 蔵の中でとぐろを巻いていた「ヘビ」**\n\n**トーク用ひとこと解説：**  \n「実はヘビだったんですね！創業者の上山英一郎さんの奥さん、ゆきさんが蔵で見かけたとぐろを巻くヘビを見て『これだ！細長くして巻けば場所も取らないし、朝まで燃え続ける！』とひらめいたそうです。一本伸ばすとなんと約75センチもあるんですよ。」",
+  "research": "2026年10月中旬の安城市和泉町周辺は、朝夕の心地よい冷え込みとともに秋の深まりを感じる季節です。\nご家族やご近所さんとの団らんのなかで「へえ、そうだったの！」と盛り上がれる、秋・読書・お茶などのゆったりした話題を4件調査しました。\n\n---\n\n### 1. 【お茶の秋】愛知の伝統工芸「常滑焼の急須」でお茶を淹れると、なぜ渋みがまろやかになるのか？\n\n* **理由：**\n  常滑焼を代表する赤い器地「朱泥（しゅでい）」には、鉄分（酸化鉄）が豊富に含まれています。お湯を注ぐと、陶土の表面に含まれる酸化鉄がお茶の渋みや苦味の主成分である「タンニン（カテキン類）」と化学的に結びつきます。また、釉薬（うわぐすり）を塗らずに焼き締める製法のため、微細な凹凸（多孔質）が余分な雑味成分をほどよく吸着し、お茶本来の旨味や甘味が引き立ちます。\n* **具体的な数字や比較：**\n  常滑焼は瀬戸・越前・信楽・丹波・備前と並ぶ「日本六古窯」の一つで、その中でも最古かつ最大規模の産地とされています。特に急須の分野では国内シェアの約9割を誇る全国一の産地です。朱泥急須の歴史は約150年前に確立されました。\n* **意外な点：**\n  「急須でお茶の味が変わる」というのは気分の問題ではなく、土中の鉄分との化学反応という科学的な現象です。さらに、熟練の職人が蓋と本体を細かなヤスリ粉で擦り合わせる「蓋すり（ふたすり）」という技法によって極めて高い気密性を保っており、茶葉がしっかり蒸らされて最後の一滴（一番おいしいゴールデンドロップ）まで注ぎ切れる工夫が施されています。\n* **ちょっとした歴史の裏話：**\n  常滑では平安時代から大甕や壺などが作られていましたが、幕末から明治にかけて中国・宜興（ぎこう）の茶器に学んだことで急須づくりが大きく発展しました。三代山田常山氏は急須（朱泥茶注）の分野で人間国宝（重要無形文化財保持者）に認定されるなど、実用的な日用品から世界に誇る美術工芸品へと進化を遂げました。\n* **根拠・出典：**\n  * 常滑焼の特徴と酸化鉄・タンニンの反応：[宇幸窯「急須について よくあるご質問」](https://www.ukou.jp/themes/ukou/images/head/ogp.png)、[とこなめ えんける道具店「常滑焼の急須で淹れるお茶の美味しさの秘密」](http://tokonameenkel.com/wp-content/uploads/2022/09/IMG_4004.jpg)\n  * 日本六古窯の歴史とシェア：[日本茶マガジン「常滑急須とは？急須日本一のシェアを誇る常滑焼のお話」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4w7D_xfCZJvjS9zf69kNQoVz0OkX6gVUYCD6K9mz3awhi9ceDc5yWzH_55iR2J6qXigzu_VtKsYQFp5a0cdVGETG2wQuyrSlJufJX_UdQR8s9SjoL0uO2mJGS)\n\n---\n\n### 2. 【季節の植物】秋の町を包む「キンモクセイ」、なぜあんなに咲くのに実（タネ）がならないのか？\n\n* **理由：**\n  キンモクセイ（金木犀）は雌雄異株（しゆういしゅ）であり、雄花しか咲かない「雄株」と、雌花が咲いて実を結ぶ「雌株」に分かれています。日本国内に庭木や街路樹として植えられているキンモクセイは、基本的にすべて「雄株」であるため、受粉して実をつけることがありません。\n* **具体的な数字や比較：**\n  キンモクセイは春のジンチョウゲ、夏のクチナシと並ぶ「三大芳香木」の代表格です。日本にあるキンモクセイは、種から育ったものではなく、人が枝を切って増やした「挿し木」による同一遺伝子のクローンです。そのため、秋の冷え込み（気温低下）を感じ取ると、街中の木々が一斉に同じタイミングで開花します。\n* **意外な点：**\n  道端で香るオレンジの花は、何千本・何万本あろうとすべて「同じ一本のオスの分身（クローン）」です。実がならないため、人間が挿し木で増やしてあげなければ日本国内で命を繋ぐことができないという、驚くほど人の手に依存した木です。\n* **ちょっとした歴史の裏話：**\n  原産地の中国から江戸時代に移入された際、鑑賞用として「実」ではなく「花と香り」が重視されました。雄株は種子を作る体力を必要としないため、雌株よりも圧倒的に花付きが良く、香りも強いという特徴があります。当時の人々が「より花が多くて良い香りがするほうを」と選んで日本に持ち込んだ結果、雄株だけが全国へ広まることになりました。\n* **根拠・出典：**\n  * 雄株ばかりの理由と花の多さ：[公益財団法人 京都市都市緑化協会「庭木・花木相談所」](https://www.kyoto-ga.jp/greenery/soudan/images/qa_04/34_4.jpg)\n  * 日本のキンモクセイがクローンである点：[一般社団法人 日本植物生理学会「みんなのひろば 植物Q&A」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnWr7mhjbKyB9bnkhDGrVRC88cOetsqZcx6S8rXsZN_gMffS9Hp5JoDYip_Tq7uRVlydDIntd5Ogg6Jr5zR6Szu3AmwCU2oyq8s0ZI8OCwh5AK2sO-meYPP5yS4UKQVJDo)\n\n---\n\n### 3. 【読書の秋】文庫本のてっぺんがギザギザなのはなぜ？ 紐しおり（スピン）の意外なコスト\n\n* **理由：**\n  文庫本の上部（天）がツルツルに切り揃えられず、少し凹凸やギザギザになっているのは「天アンカット」と呼ばれる製本手法によるものです。本の背の上部にしおり紐（スピン）を糊付けして組み込む工程上、本の上部を機械でスパッと切り落とす「化粧断ち」ができないために生じます。\n* **具体的な数字や比較：**\n  現在、日本の大手文庫レーベルでスピン（栞紐）を付け続けているのは事実上「新潮文庫」だけです。スピンの部材費や貼り付け工賃、天アンカットの複雑な折り加工により、スピンなしの三方裁断本に比べて「1冊あたり約10円」の追加コストがかかっています。\n* **意外な点：**\n  本の上部が揃っていないのを見ると「裁断のミス」や「コスト削減の手抜き」と思われがちですが、実は正反対です。まとめて切断する一般的な製本に比べ、折りの段階から計算して手間をかけるため、むしろ余分に費用と職人技がかかる贅沢な仕様です。\n* **ちょっとした歴史の裏話：**\n  昭和初期までは岩波文庫など他社もスピンを付けていましたが、1970年頃からのコストダウンの流れで相次いで廃止され、紙のしおりの投げ込みに代わっていきました。しかし新潮社では、1933年の文庫発足以来（終戦直後の物資不足期を除き）一貫して継続。「文庫といえども大切な蔵書であり、読み捨てにするような本は作らない」「何があってもスピンだけはなくすな」という先代社長の遺志を、製本所とともに誇りを持って頑なに守り続けています。\n* **根拠・出典：**\n  * 新潮文庫のスピンと天アンカットのコスト（約10円）：[ほぼ日刊イトイ新聞「新潮文庫のささやかな秘密。」（新潮社協力）](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLd_RXVzTauI-fiB9Y4Kf9ZK-N6TA1plKyTUMlMb8YLZRxQpA9YHhVYxT_mwWRDXcOeLPJZSMlEtrDNyHOHzUWiKBqgq3RKWoKuSLf_DteOzgSTXxVHLyeXW_GMUMtI0=)\n  * スピンと製本の仕組み：[新潮社公式Instagram発信（スピンへのこだわり）](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNHSNY3jfDTDBCj2eSuISomAc4qAmhHl6IB_fwX6l-5OZYoVy4D3Yn8RAvUe6DZFkIN8p5YJ9_iXoQxTDGfi1B6xYsFVyn5wpuyK7ZMnr48dx-eW13EmhG3aVxfW4O)\n\n---\n\n### 4. 【深まる秋】赤くなるモミジと黄色くなるイチョウ、決定的な違いとは？\n\n* **理由：**\n  黄色くなる「黄葉（イチョウなど）」は、葉の中の緑色色素（クロロフィル）が分解され、元々葉の中に存在していた黄色い色素（カロテノイド）が表面に現れてくる現象です。一方、赤くなる「紅葉（モミジなど）」は、秋になってから葉の中で新たに赤い色素（アントシアニン）がわざわざ合成されることで起こります。\n* **具体的な数字や比較：**\n  美しく鮮やかに色づく目安は、最低気温が「8℃以下」、さらに「5℃以下」の冷え込みが続くこととされています。黄葉は既存の成分が残るだけの受動的な変化ですが、紅葉は木がエネルギー（糖）を使って新物質を作る積極的な化学変化です。\n* **意外な点：**\n  「どうせ数週間後に落ちてしまう葉っぱ」なのに、なぜ木はわざわざエネルギーを使って赤い色素を作るのでしょうか？近年の植物学では、アントシアニンが「日傘（サングラス）」の役割を果たしていることが分かっています。秋の強い紫外線から弱った葉細胞を守り、冬に備えて葉に残った貴重な窒素などの栄養分を幹へとしっかり回収し終えるための防御壁なのです。\n* **ちょっとした歴史・科学の裏話：**\n  かつては「葉の付け根に離層（仕切り）ができて糖がせき止められるから紅葉する」と説明されていましたが、国立研究開発法人森林総合研究所の最新研究（2026年発表）では、離層が発達し始める前からすでに紅葉が始まっており、葉が落ちる直前まで管を通して窒素を木本体へ回収し続けていることが確認されました。木々にとって紅葉は、単なる枯れ姿ではなく、極めて綿密に計算された「冬越しの栄養回収作戦」だったのです。\n* **根拠・出典：**\n  * 紅葉・黄葉の色素の仕組み：[国立研究開発法人 森林研究・整備機構 森林総合研究所「森林の生き物 Q3」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdSJiq6Do3I6pembg1BDmUny-Co_gnGyrwaIAUKj-eWhZkJ0mIHUhXNFVFbDW2WRqioniyXM5-GhB5Hlxe0SBB687y4ElCFughVWfAG0dgJqfZdXM0NU6k8ntD2Kdwzyg70l7yfh4Q)、[農林水産省「特集 森へ行こう 紅葉・黄葉の不思議」](https://www.maff.go.jp/j/pr/aff/1610/img/spe2_02_01.jpg)\n  * 最新の紅葉・窒素回収研究：[森林総合研究所「秋の紅葉は、落葉させる『離層』が発達する前から始まっている（2026年）」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYo6A9ENxoqL5o_12KsBlJc6Rad3upLfdQKrl8BOdGOygGuSgJO3Ghg1buemGRPKM8GUqhRPUbC8jSNC2h7bkGxqxMEjY38sETUH4APe8r6ev5JiZ4fWHgXMoBxp1U2XkuN71skgUqPvt8NPl6-JvGPpyv)\n\n---\n\n### ラジオで使える3択クイズ（キンモクセイ編）\n\n**問題：**\n秋になると街じゅうに甘く心地よい香りを届けてくれる「キンモクセイ（金木犀）」。実は、日本で見かけるキンモクセイには、植物として驚くべき共通点があります。それは次のうちどれでしょう？\n\n* ① 日本にあるキンモクセイは、すべて「雄（オス）」の木である\n* ② 樹齢が100年を超えると、花の色がオレンジから白に変わる\n* ③ 香りを出すのは、満月の夜と雨の日の朝だけである\n\n**正解：**\n**① 日本にあるキンモクセイは、すべて「雄（オス）」の木である**\n\n**解説トーク例：**\n「正解は①番です！ キンモクセイはオスとメスの木が分かれている植物ですが、日本には実を結ばない『雄株』しか持ち込まれませんでした。花がたくさん咲いて香りが強い雄株を、挿し木でどんどん増やしていったため、日本中のキンモクセイは元をたどれば同じ一本のクローンなんです。だから実がつかないんですね。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%89%9B%E7%AD%86+%E5%85%AD%E8%A7%92%E5%BD%A2+%E8%89%B2%E9%89%9B%E7%AD%86+%E4%B8%B8+%E7%90%86%E7%94%B1+%E6%97%A5%E6%9C%AC%E7%AD%86%E8%A8%98%E5%85%B7%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E3%83%88%E3%83%B3%E3%83%9C%E9%89%9B%E7%AD%86&client=app-vertex-grounding&safesearch=active\">鉛筆 六角形 色鉛筆 丸 理由 日本筆記具工業会 トンボ鉛筆</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%B8%E6%BB%91%E7%84%BC+%E6%80%A5%E9%A0%88+%E3%81%BE%E3%82%8D%E3%82%84%E3%81%8B+%E7%90%86%E7%94%B1+%E9%85%B8%E5%8C%96%E9%89%84&client=app-vertex-grounding&safesearch=active\">常滑焼 急須 まろやか 理由 酸化鉄</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%83%B5%E4%BE%BF%E3%83%9D%E3%82%B9%E3%83%88+%E3%81%AA%E3%81%9C%E8%B5%A4%E3%81%84+%E6%9C%80%E5%88%9D+%E7%99%BD+%E9%83%B5%E6%94%BF%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">郵便ポスト なぜ赤い 最初 白 郵政博物館</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%B4%85%E8%91%89+%E9%BB%84%E8%91%89+%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E6%9E%97%E9%87%8E%E5%BA%81&client=app-vertex-grounding&safesearch=active\">紅葉 黄葉 メカニズム 森林総合研究所 林野庁</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E6%BD%AE%E6%96%87%E5%BA%AB+%E3%82%B9%E3%83%94%E3%83%B3+%E3%81%B2%E3%82%82+%E3%81%AA%E3%81%9C+%E6%96%B0%E6%BD%AE%E7%A4%BE&client=app-vertex-grounding&safesearch=active\">新潮文庫 スピン ひも なぜ 新潮社</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%B8%E6%BB%91%E7%84%BC+%E6%80%A5%E9%A0%88+%E3%81%8A%E8%8C%B6+%E6%B8%8B%E3%81%BF+%E3%81%BE%E3%82%8D%E3%82%84%E3%81%8B+%E9%85%B8%E5%8C%96%E9%89%84&client=app-vertex-grounding&safesearch=active\">常滑焼 急須 お茶 渋み まろやか 酸化鉄</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%AD%E3%83%B3%E3%83%A2%E3%82%AF%E3%82%BB%E3%82%A4+%E6%97%A5%E6%9C%AC+%E9%9B%84%E6%A0%AA+%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%B3+%E5%AE%9F%E3%81%8C%E3%81%A4%E3%81%8B%E3%81%AA%E3%81%84&client=app-vertex-grounding&safesearch=active\">キンモクセイ 日本 雄株 クローン 実がつかない</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaPyzoZRiCwzTRlml5Xvg7OEHU5vZoNxqU9BbXaMCDgnwPTrZrua1lkQUYa8DVd1kXlTiQLZf9ssXzTh2hBLqUvIwK5j7IcP_36VS5ZMiii-9H6sd_c2Wvdw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIEEVdeWj1UvgjCwpNBUOpWyqL8V7eV1GCrNARlrjY7JQoUX01-jcxkCJ9OTSgds5KMbs4zzRogJSRh5knK0ZIlOHNfLQjc2_LgSFEp-Cuq8bt88EogI1L-g==",
           "title": "shinryokuen.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB56eovmSLfm7DHd2X1nrtBNNcrXYnwqnv2eiYm3x8O0iEMwIC935FYdjbJNlyjqRznYqpiRBFb1u65MYsQyucDvPxz-VwXVo3pJ_rfqpuk80=",
-          "title": "ochajikan1.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6PNpqFsY7DJe8-zTsq096mMGohDB7HpDXa83_Lq6xcMnUZVtrVyqkszUlawBzdxlmcOfuXOEpyTi5PnVzeGriL59IafASgP9KfchxVD-GvjtuvuF62-7-bXbH9mf8t6Md8g==",
+          "title": "ukou.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG09WQVHOZYPHeK7rekZx0fglSf6Z_VGqouRklD-Q4V92-2iPSbxFBxNawA9DENatJ7PDbVoPkMtlIYRTZ-Nv9UYZrt5I8UZBsncZAkvRWaBf4vyn6JgdZvdEtZY1CVGRNQSalRDyA=",
-          "title": "saji.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4w7D_xfCZJvjS9zf69kNQoVz0OkX6gVUYCD6K9mz3awhi9ceDc5yWzH_55iR2J6qXigzu_VtKsYQFp5a0cdVGETG2wQuyrSlJufJX_UdQR8s9SjoL0uO2mJGS",
+          "title": "nihoncha-magazine.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1LtfdNKYpdHgMmePtLgZzbhpaOIqvDpaoCOqVj1QxX_x7Lf1SKGsnVprQzVldAh3RJtXln1Ib-m8sqYoUbTJXEv-uGzo27iVWnSoYoaG6Iomh2rGNlQoU2gxC1KIvjA==",
-          "title": "thecovernippon.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRt-OJQ8IRjKET3y_xtCdI3oKz0JaztWrsxqxN6roI4Pe_p_jbDisE1zGDP8ppW4k2vFXXZ74bUZ6ZO-UbVVK_-8px0-ghwZleFdmiBouZelq2iB9WPcUQUYeHjmxN",
+          "title": "instagram.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqptlHQCmV3XFb0_i4hQeV_sR1QEIiQpiwmLSAW0f_QWxr2tFCuSzUiniqZ5NevqxmKkTAy66ypVymGDCIk29GrNWnf5pKiLOF6kuPwnXFwkj3hTW42aOXzJxZeJC1FF4g8QkH1UNasSjPds-txkRNoE7kUC8orbNaMh99yJjPDrKtG3002sJ6BxC0VhM7MLZRJOTY3bIRinZDKvCA8ljgMoW1oGzzcqW05v4Hw5dTg3i1-2uEpNfJ38QfzXpw8SgVHavZkwjcNlbdgCTb76rlDmsH28mDu8CHhqbUHjIVfcNA-JM=",
-          "title": "sayamaen-japanesetea.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZgs9rupUbbRHsIdJIjc4aID7HYmZXUv69WhwYU-X_gcSMZXD0yQ7MdAQ6BAi5nVtDNl_Z5X1LXwGynRomYYiVVG4scJ7S8KC-U5H6jgnIqn7K0o-M",
+          "title": "tokonameenkel.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7z9nkrIi9X357ATT2t29QXHKEprkjGxtSn--tl4hbCiBi6GmehP3UWtk-Ri-nbUZhmCfoAE69OazEaPnlAquXjh74NIP0-TT6cPWf4FWTrWqCMserDd_xOoSkP9ordKIMwy2N8hDI",
-          "title": "ameblo.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr9JUwc7SbQAg3_24Q4zBAmxS_V-wNppv8mlgmPXxGK7b3-tAFYQcao5FspUT43KhNAdjGjEss0qitK08Sbe-x6Fh9XrVUsx-e1ea5LE6pzUR3Pd5paigwRbUXZtwdn47o55ocql0=",
-          "title": "sencha-note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYTr-rNZn25xnkzntyPmhcd9bcwui_iz1aMdiRWN8x3iqUHQfLfTe22WuKpAVBOkXZgSSVpaH1JsBkXAFzy75Wwu63c5MpbqrmRr_JefbUmWxBvETryl-9suoqNY5jcrYXYyq_JpuFjc35xBY=",
-          "title": "hatenablog.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEay1VGlr3Rb5UaQT83SmrCjivUpqHSAoL9yFYG34ycmPJBmQYt_fGeFBsHyiJXT7tTTKIC0bshLfuJ2nwwn4CmV1sdHFBDmwU5tsbS7LmsUWF0ruZ1SdJsXrRxoST3r4z3FEGRDOnrXw==",
-          "title": "kincho.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm9OGyp9od6wsaiW8acxqbS809erN4Wek7BaARKcq0Ma5mgXAxM6nRu2rsIjtpYX-OZA-8w5tkoZs2iR2P-xs5V1LvPl2U0JHcrc9EEF856Ao7_nb7IhRNZ6SXvKfWqYE=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPzueo75NvmuwjvLzZ2KoDMEaGFr0tsRkGpnFb1j2YvCvpu6maOJisg4p6mOFqZgixK64x1PmT27MIsoPO5QhLxkEI3L7BYxFZL8D0K1LNlOoekc4eBNw3m4gFqSA=",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0pgo8SLjUNll2nB-Gy4rlmdV4tE1HqmRKVDlr3YFXYddpsFuhtQw9255He9W-GBLtXToEMUa_0wfZZkB9KFkkmaOdpy3Fx9kG5yLeFSthU4XQF_OYuVhetvNHJm_6JYxJNGKpXTNIH6hRNKqkOCm3cGA=",
-          "title": "tenki.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wetPrIc9sjlMPEgBGDbVqvfvH5nDDXimr2JL1ISP0WV0igo4Q0r7sawSc-N-km6ji_aHFeLzFkpMhE2Kw2bJHvX_9JXyWfo9uLB7NjmY1TC-IFBnlFPy-BjMkdUuh3JdF_RoHrXbDHRzj7rnShquRYZFswMLBpFqvGY=",
+          "title": "kyoto-ga.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-wiNrBp47ho7sPoaHdHEgDwI0fAXwhpd8GWV9K51D9HFI224Nr0IfYemQTNi0PH5SMISU2qH5PSh9qIYxZ3nDknRtZpSnUroIOVpp0TCMidzbLgT58rXjxpuDtMm-_w==",
-          "title": "kincho.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpQMRG1ztgVGVvnxOxsYaTabAAJiwwp2NUyhetEOnFKaQDYZPyk6WNJdqRK3Le5hgGQ3PawLZHF-1DYrZuIjmJcOnKHBRTg0Wa8mFglNECMLjJmDmhyztrb_SzG1JjnA==",
+          "title": "lovegreen.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4uS-7vKjQtg7aBiQsI0wg8FUeLFFr0XTDYN1syN8jCvEuQMOXWUmd3UP4CeTIzJNMnoO28NsHxJhVqgpORGi99_w9VF2keKdpvXjSoztZPYGWYc27ogRjuLkp1pW0bNjJ_VL1v0iSlOUmnQ0jf48dWFoumm_Kntpp_q0=",
-          "title": "wakayama.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBHMEvpdOGCByzaZtNGK975QMAR-JdNect0c7-Wxeer05j4phBVn22AbbXNpry0IVcVvbtlMzd4ZO8qlYiF7vo5hfK-H5HvR_GHyh08SNfy2WGSzlMyp5rRut6YZIia9X8LeLwVzLcYoAZl5XXTh0qMbeS6DyTonJ1S9UrG7I8s4w8MPwYXxYxdF5xvpsXV9L8imK_c3rxlqAC1gLxatqo-KnPVq21sOzABTo-dNa8cq100Yk=",
+          "title": "japan-parkranger.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVfRXsubkN1hkKX1uRPDSnXaizPKvaQ0jronCNrxbVPW0tRVOiVxuOgyuJX4l_nAPlJO0TZ7MNVGDMVPyH2WV7HefBwGaM6CWZbZL6fuLEyZhDTaSL7AXO-RWIhiZ_Pc_AEVRJ0R5SdIilUQA34SI=",
-          "title": "tombow.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETBt8upIoB0R6wls7MdoNUK9rOovlwAihgedlhtYf_eFjFMFBsIaSwAu4yz61K_-xsQvTTcjEVNjCGVCWcEz3GMFge7BDU7B37PRxTkYJ4vOZZXojJcJE5vVyXeU4MzvM=",
-          "title": "zatsuneta.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpmjpn1R0U0mtTcM47T1vmESseodvwcbSQ7o0pvhn8RL_qHMqnaWPy4DZ0R5JJrgCXk5pVlDbzwYgWVNRyhJgGgopcbkKXWbrC2o5B8ekMVlqjl99QjB7O-upGhlpxZF02R-_jgYQJ_EBOX6A=",
-          "title": "tplant848.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhggoLzqTtFAVfYllEACwlTSc7yesXeQ_mWuFM-rogFbf4tiIo5oGkfXdB_EfhKWidsJyCBnU-fXFuGCbjy14Y1PDlizikusQyJDC_azxHSnOSaJANjDqy_794Y2Hz2LuFbPz-HHe09w==",
-          "title": "mpuni.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8wD5iSvoL83HnASAtnc9FzXN8iy64RYCv5EFVi-eMCVI4t4DaAktIDtF4vLF1I_Rj2feCG3rHXnENqVolFAR5_jfsBS8hzRgQqdNFfsvhgRDX6W2yURT-AA==",
-          "title": "precious.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIHwn3K8QObqZLoTCzef49ahYZdO0jG9XOEFtIe6Io-f7iIJ6MRF8BMepLNbeCbifdgBnzeOOB6CJnYyK74wpLm9uvRBI0yov9HMOqqv_OEUFCSHrpmPztks7TAKt3cvHT",
-          "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLpUYugd-CHnJQ8EKAIa042mo_wKfO3xhizY5SqkN22VDx2pDsuiNZK4QqnHnjVM9J9i52HgUjZB5wpFJANrIJhvxRa5Y6lUBpi3p_PCr_Yn_uRSLhkaOlQdXfnLFoA-WabBB907RK1DzcVQV5BsFE47ezyjEdfHY7UtM=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-MyGug4FhWvvon7btiho7mbdnepd3Rmc0OPGjujsZw_4Ful4InmT3LEvt_Ypm0hUMQ26It9ewEdttBgHNfJjzOBzbciDRzaPPd6OosEySub2cQChOnfBvKzaixeFBNjevHhi0qKhP2s1TxH2zvZ9CvuLtr3qGx3D1_34=",
           "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1kZ9_0IQ7tBsJeEqtTlKvHgtMMkWA5cvmfU3fmWvCM6Nk35lLI29_ILqSDJ57ymVO7gywGV1WnfRhvJRLUfpNvOwDPpZnz1QetkNCye1cBoFdl2zVfKs9BU3wNi6u",
-          "title": "02key.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnWr7mhjbKyB9bnkhDGrVRC88cOetsqZcx6S8rXsZN_gMffS9Hp5JoDYip_Tq7uRVlydDIntd5Ogg6Jr5zR6Szu3AmwCU2oyq8s0ZI8OCwh5AK2sO-meYPP5yS4UKQVJDo",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIfk_sBNCr5lZwBKjC84xpVh0Vzurlfkyxn0xmkXuy9IdbGfgfqblTlocWPtwYr_54HR-WwC6_h2HS8QLATJw3ZovyeZXJ1ZTvV8ItG10rU3zO62VDJIKKpIwkE8aV",
-          "title": "tombow.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAm-4fUeyYqQaLB2iT3RDLrI9JJBObrs1tSFGwhYfoR1kAbn2SnabGllHPnbynl9mBI7sPc1vkUV06GyzHFp7cUYEXYkV5swoGv0KfJovy_jMlv0NoKuk2EVzMkM-D9sVaUoJ-2de7bPsGWB_ndgCK",
-          "title": "postalmuseum.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRCSTCUhbbKyDlca0SQRiAnQXmwZlrWTiLhzENelR9c5nzwdau-rgH0BDsH6lpwFMUA5hvOpcBVoDoIV4UIb6Y1HUPKZP-Ry1o2l3bqXoOp_F9YBXd2nyAxbzG-cizeUlZE9jDQ8BTm-TZIn-11H3Q1OlG0g0mikKZ99h7ZdZAbWe2aHGgGKdh8iL-_Q4HUpn9C97VFn3f9UPcVy-VIEmsJX1Gts2SxGF69YcsiMQjIaLuk_uRm_QNaryWu6MJykWpycBdTpz1Ri0Ve2BthYbLzjQ5ls536313qBxH5L1-gVeGFfkkF1kl4fLhqcO-M5bf8GlA9c8zqlEO-g==",
-          "title": "a-kaisetu.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4qcppwvJI8B0Z2-UbDBecYOGqsCvwpeNncwtlnU3FS41HKs-w5I-m3wKXdEjs3Ps_yVw6L2lVxr9iEj2sMNvkcXMdJV1cOWtGAc0UuChyqb3CYXDurcO3JKNlCOczuk0hqhxxcc1sOQRVHNA3aaUjEMdsXbAUHsD6WHLTTDHKyQ==",
-          "title": "fc2.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxGvkLSuaRvx0Fvr8j1HWq67E_vfqLCDy6utAiiVTNoyRs3eQohNECA9nZSxUyJyRNL_2Pkawqn6I8Nc8Nx6WVF5EdcSllp_qeB33pZBBzw8jgR9u63cheCQCnlgtBtHHnx22kYOMYtxZOsVM-7_8_Y2O-lEWoe-kDlXHJgIyX8eM=",
-          "title": "ndl.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_2pKABosX3o7gjRi5lst6fIvPEm0wN3RXWUADASuJryDsouamhhaa9j4TQSh9egcTQOtjm1NM1EN1GuQ5IPAUe--YxujOkgAtHudH6e2iseEcQVFMD1fbe4=",
-          "title": "quizknock.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDIm5mU6Zbgm4iKAZS4PRQ1UU1JASEnDJvP1tv8TJHKYCVZ3MeUBsPtenkjVZBXBtaWNlM1oYCOfry0kJq3maW7rIBZDAOcwK0VoagjMKTOl3Tl-4-JNyQKTyQpmLE5EpZGEspwVB-brsYQgu-8VWG",
-          "title": "mailmate.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztplic7L0RNqzGRtWC2OEsrOEhDWz46SoQFdfGlh-3R0bpBNZoHN8EIp9CGzs5eR3HIHKlTZT1QmP_MWyt4rKf4L2bXzgj2s2hWaxVfFavsiLK2WmqxY0hFD7w7M=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqwVWztkhArbLtRuazDn317gkO9_IQClC1sLSqnNz3TFqJEEHsXLK0I7KueXd2Zd60r5kmVLk7t3OUcLVMb3boD_npHkQ-D2wvkLtDtC8BZxpiWP8zmjvjhhjcCTf_b5RtCeMF-FU=",
           "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOOmGFqU3p0AzCBlXDYZzratlNLC5P8nqjz4UIltR1SZ5HezsWWoBKPWVfUolnZXsRpxyTFmizdHzm8LDhDbTi7KWnCQwZWHEYLlqBIKzm99zdGsEF0ZC2-JcVWJhoqi5BSaqx5iHLwdGMxHhOXaQECUX0cNKEtS8fw6foA8tpfSNAUqfA",
+          "title": "sakura.ne.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLd_RXVzTauI-fiB9Y4Kf9ZK-N6TA1plKyTUMlMb8YLZRxQpA9YHhVYxT_mwWRDXcOeLPJZSMlEtrDNyHOHzUWiKBqgq3RKWoKuSLf_DteOzgSTXxVHLyeXW_GMUMtI0=",
+          "title": "1101.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcCDZd6UmFqB0ZfMPGfPS2tcMhBOAPvswe1OSwnO4XVe44y_IxcqdApSQlr_tx5gEsKcOD46N8Reo1LtNM47q2hBK6NKSj_WgWFhpWIEquzauUv1_9nH1rpA7ibjktT5cZQ8k=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKulVPbhjFLh2ijic1Eo3SC7Jtv9jzuhy4anlDrKvR1gMFFdro4tw4TP7Z1XWYcAyn60rttIbKufgshYCoOZrdP-WChoYScKAdkezeB77AFGzKWs5Qe1D_4j4rkn2te9Ale82NevpTsbIOWgd8l-dgmni4U26GJMgvvg==",
+          "title": "yahoo.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ8GSICXSyC5ozZeHt2AvrVTavAut61mvDydONPqDM9M9x0leKNCUUdq_E3QQPHPyAdA2YXY-voHHqcNGlgLbtvV0xT2xeCwawbmzU1O7t4TBwi_KmUz8x4ZvWCXnY8eHxhWQlF_45_9D8xSQtz1ivRtVRK7gG30BjrkQx-Acpo8yTiEDT5mHGFGQPY0bOYyzXhb5cGK-DBhdOE-kpVVclSlBemI0tEjbTOauSrVHc8AVSmCRt",
+          "title": "maruwanet.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ6QTql95-7f9v71T2A8DJs1FXTXXJdygbvimatdsni_sfK92MMA9lX3dzY1gmDeE5al9DeYcjM39tLz9sLIsolFbYgIp9bswleCXg81zqWOXI_CU7PemuhM_1mg5B7Gn9S2raJq66Tb6J3pWwmtf5XMN5uU8yce1Y338=",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKhyl3ncigEcQK-f1SDyqrGnSjq-iYaOCUa9xLTpCe2RpnM0aMI-wjp4qz1WTm0JOSUySrd8EQdsEjUVG--AxL1Jul8wgnqyMpi9Plg24NlAGN7Zcd",
+          "title": "togetter.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNHSNY3jfDTDBCj2eSuISomAc4qAmhHl6IB_fwX6l-5OZYoVy4D3Yn8RAvUe6DZFkIN8p5YJ9_iXoQxTDGfi1B6xYsFVyn5wpuyK7ZMnr48dx-eW13EmhG3aVxfW4O",
+          "title": "instagram.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdSJiq6Do3I6pembg1BDmUny-Co_gnGyrwaIAUKj-eWhZkJ0mIHUhXNFVFbDW2WRqioniyXM5-GhB5Hlxe0SBB687y4ElCFughVWfAG0dgJqfZdXM0NU6k8ntD2Kdwzyg70l7yfh4Q",
+          "title": "ffpri.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRoMPXNX4mKGDWxU-2LtheVziJva4VohNvjDmFYydAS94JgItfwIQ9vqNbfmuCvNm6JE49ytE1VMSM7SvxdlWBFAfLx4AAFQfbXtiP5zyHdzHCg3JNGIUgCkhFrU8ahrT3Mcd1PAUn",
+          "title": "maff.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrFS388SYdgVrySZoVGwBWqD6WStW6sSP0McsKXYNrjNtKNGfstcQubnHOUGRrmCfLt2bH7u4ltKnLriOA7NSP-W_mq5RinuHL2bJ2gk_vrlL39TT-0QaWxxCDn07hoCEPUxJBMaQ37QIIA_E=",
+          "title": "nikkakyo.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYo6A9ENxoqL5o_12KsBlJc6Rad3upLfdQKrl8BOdGOygGuSgJO3Ghg1buemGRPKM8GUqhRPUbC8jSNC2h7bkGxqxMEjY38sETUH4APe8r6ev5JiZ4fWHgXMoBxp1U2XkuN71skgUqPvt8NPl6-JvGPpyv",
+          "title": "ffpri.go.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 838,
-          "endIndex": 1057,
-          "text": "お湯を注ぐと、土に含まれる酸化鉄とお茶の渋み・苦味成分である「タンニン（カテキン類）」が適度に反応・吸着し、お茶の角が取れて味がまろやかになります"
+          "startIndex": 819,
+          "endIndex": 1035,
+          "text": "また、釉薬（うわぐすり）を塗らずに焼き締める製法のため、微細な凹凸（多孔質）が余分な雑味成分をほどよく吸着し、お茶本来の旨味や甘味が引き立ちます"
         },
         "groundingChunkIndices": [
           0,
-          1,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1078,
+          "endIndex": 1246,
+          "text": "常滑焼は瀬戸・越前・信楽・丹波・備前と並ぶ「日本六古窯」の一つで、その中でも最古かつ最大規模の産地とされています"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1249,
+          "endIndex": 1334,
+          "text": "特に急須の分野では国内シェアの約9割を誇る全国一の産地です"
+        },
+        "groundingChunkIndices": [
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1102,
-          "endIndex": 1312,
-          "text": "ガラス質で表面がつるつるした「磁器」の急須は茶葉の味をストレートに抽出しますが、常滑焼の朱泥は多孔質で土の成分がダイレクトにお茶に作用します"
+          "startIndex": 1337,
+          "endIndex": 1397,
+          "text": "朱泥急須の歴史は約150年前に確立されました"
         },
         "groundingChunkIndices": [
-          1,
+          0,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 1315,
-          "endIndex": 1606,
-          "text": "また、熟練の職人が本体とフタを擦り合わせる「蓋擦り（すりあわせ）」という技法により、隙間なく密閉されるため、最後の一滴（旨みが凝縮したゴールデンドロップ）まで残さず注ぎきれる精密さを持っています"
+          "startIndex": 1425,
+          "endIndex": 1575,
+          "text": "「急須でお茶の味が変わる」というのは気分の問題ではなく、土中の鉄分との化学反応という科学的な現象です"
         },
         "groundingChunkIndices": [
-          1,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1578,
+          "endIndex": 1923,
+          "text": "さらに、熟練の職人が蓋と本体を細かなヤスリ粉で擦り合わせる「蓋すり（ふたすり）」という技法によって極めて高い気密性を保っており、茶葉がしっかり蒸らされて最後の一滴（一番おいしいゴールデンドロップ）まで注ぎ切れる工夫が施されています"
+        },
+        "groundingChunkIndices": [
+          4,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1972,
+          "endIndex": 2188,
+          "text": "常滑では平安時代から大甕や壺などが作られていましたが、幕末から明治にかけて中国・宜興（ぎこう）の茶器に学んだことで急須づくりが大きく発展しました"
+        },
+        "groundingChunkIndices": [
+          0,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2191,
+          "endIndex": 2413,
+          "text": "三代山田常山氏は急須（朱泥茶注）の分野で人間国宝（重要無形文化財保持者）に認定されるなど、実用的な日用品から世界に誇る美術工芸品へと進化を遂げました"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2446,
+          "endIndex": 2613,
+          "text": "常滑焼の特徴と酸化鉄・タンニンの反応：[宇幸窯「急須について よくあるご質問」](https://www.ukou.jp/themes/ukou/images/head/ogp.png)"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2446,
+          "endIndex": 2784,
+          "text": "常滑焼の特徴と酸化鉄・タンニンの反応：[宇幸窯「急須について よくあるご質問」](https://www.ukou.jp/themes/ukou/images/head/ogp.png)、[とこなめ えんける道具店「常滑焼の急須で淹れるお茶の美味しさの秘密」](http://tokonameenkel.com/wp-content/uploads/2022/09/IMG_4004.jpg)"
+        },
+        "groundingChunkIndices": [
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1636,
-          "endIndex": 1850,
-          "text": "「急須でお茶の味が変わるなんて気のせいでは？」と思われがちですが、実際には土の鉄分と茶葉の成分による**化学反応**という明確な科学的根拠があります"
+          "startIndex": 2874,
+          "endIndex": 3125,
+          "text": "急須日本一のシェアを誇る常滑焼のお話」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4w7D_xfCZJvjS9zf69kNQoVz0OkX6gVUYCD6K9mz3awhi9ceDc5yWzH_55iR2J6qXigzu_VtKsYQFp5a0cdVGETG2wQuyrSlJufJX_UdQR8s9SjoL0uO2mJGS)"
         },
         "groundingChunkIndices": [
-          1,
-          5
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 1883,
-          "endIndex": 2066,
-          "text": "平安時代末期から続く日本六古窯の一つ・常滑焼ですが、この朱泥急須が盛んに作られるようになったのは幕末から明治にかけてのこと"
+          "startIndex": 3294,
+          "endIndex": 3486,
+          "text": "キンモクセイ（金木犀）は雌雄異株（しゆういしゅ）であり、雄花しか咲かない「雄株」と、雌花が咲いて実を結ぶ「雌株」に分かれています"
         },
         "groundingChunkIndices": [
-          0,
+          5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 2069,
-          "endIndex": 2210,
-          "text": "中国・宜興窯（ぎこうよう）の茶器を手本に研究が重ねられ、日本の煎茶文化とともに大ヒットしました"
+          "startIndex": 3489,
+          "endIndex": 3678,
+          "text": "日本国内に庭木や街路樹として植えられているキンモクセイは、基本的にすべて「雄株」であるため、受粉して実をつけることがありません"
         },
         "groundingChunkIndices": [
           7,
@@ -308,205 +361,181 @@
       },
       {
         "segment": {
-          "startIndex": 2069,
-          "endIndex": 2312,
-          "text": "中国・宜興窯（ぎこうよう）の茶器を手本に研究が重ねられ、日本の煎茶文化とともに大ヒットしました（常滑市と中国の宜興市は、この茶器のご縁で友好都市提携を結んでいます"
+          "startIndex": 3721,
+          "endIndex": 3835,
+          "text": "キンモクセイは春のジンチョウゲ、夏のクチナシと並ぶ「三大芳香木」の代表格です"
         },
         "groundingChunkIndices": [
-          6
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 2350,
-          "endIndex": 2394,
-          "text": "とこなめ陶の森 資料館 展示解説"
+          "startIndex": 3838,
+          "endIndex": 4009,
+          "text": "日本にあるキンモクセイは、種から育ったものではなく、人が枝を切って増やした「挿し木」による同一遺伝子のクローンです"
         },
         "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2399,
-          "endIndex": 2471,
-          "text": "とこなめ焼協同組合・伝統的工芸品産業振興協会資料"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2476,
-          "endIndex": 2572,
-          "text": "日本茶専門店等による朱泥急須の成分解説（酸化鉄とタンニンの反応）"
-        },
-        "groundingChunkIndices": [
-          1,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2671,
-          "endIndex": 2875,
-          "text": "かつて蚊取り線香は仏壇のお線香と同じ「細い棒状」でしたが、燃焼時間が短く、寝ている間に燃え尽きて蚊に刺されてしまうという弱点がありました"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2878,
-          "endIndex": 3076,
-          "text": "そこで「長時間持たせるために線香を長くしたいが、場所を取らず、倒れて火事にならないようにする」という工夫から渦巻き型に丸められました"
-        },
-        "groundingChunkIndices": [
-          8,
           9,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4012,
+          "endIndex": 4150,
+          "text": "そのため、秋の冷え込み（気温低下）を感じ取ると、街中の木々が一斉に同じタイミングで開花します"
+        },
+        "groundingChunkIndices": [
+          7,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 3121,
-          "endIndex": 3260,
-          "text": "明治23年（1890年）に世界で初めて発売された棒状蚊取り線香は、長さ約20cmで燃焼時間は**約40分**でした"
+          "startIndex": 4178,
+          "endIndex": 4319,
+          "text": "道端で香るオレンジの花は、何千本・何万本あろうとすべて「同じ一本のオスの分身（クローン）」です"
         },
         "groundingChunkIndices": [
-          8,
-          9
+          7,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 3263,
-          "endIndex": 3491,
-          "text": "これを渦巻き型にしたところ、まっすぐに伸ばすと**約75cm**の長さになり、人の睡眠時間に合わせて**約7時間**燃え続けるようになりました（持続時間が10倍以上に向上）"
+          "startIndex": 4322,
+          "endIndex": 4505,
+          "text": "実がならないため、人間が挿し木で増やしてあげなければ日本国内で命を繋ぐことができないという、驚くほど人の手に依存した木です"
         },
         "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3521,
-          "endIndex": 3683,
-          "text": "この歴史的アイデアをひらめいたのは、KINCHO（大日本除虫菊）創業者の上山英一郎氏ではなく、妻の「ゆき」さんでした"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3686,
-          "endIndex": 3878,
-          "text": "ある日、庭（または蔵）で見かけた「とぐろを巻いた蛇」の姿を見て「細長く巻けばいいのでは」と夫に提案した内助の功から生まれています"
-        },
-        "groundingChunkIndices": [
-          10,
-          11,
+          7,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 3911,
-          "endIndex": 4094,
-          "text": "明治28年（1895年）に渦巻き型が考案された当初は機械がなく、職人が木型を使って1本1本手作業で2巻を組み合わせて手巻きしていました"
+          "startIndex": 4554,
+          "endIndex": 4695,
+          "text": "原産地の中国から江戸時代に移入された際、鑑賞用として「実」ではなく「花と香り」が重視されました"
         },
         "groundingChunkIndices": [
-          8
+          12,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 4097,
-          "endIndex": 4271,
-          "text": "現在のように平らな板から機械で打ち抜く方式になる大正時代まで、大変な手間をかけて手づくりされていた暮らしの道具でした"
+          "startIndex": 4698,
+          "endIndex": 4851,
+          "text": "雄株は種子を作る体力を必要としないため、雌株よりも圧倒的に花付きが良く、香りも強いという特徴があります"
         },
         "groundingChunkIndices": [
-          8
+          9,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 4306,
-          "endIndex": 4424,
-          "text": "大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです。」"
+          "startIndex": 4854,
+          "endIndex": 5031,
+          "text": "当時の人々が「より花が多くて良い香りがするほうを」と選んで日本に持ち込んだ結果、雄株だけが全国へ広まることになりました"
         },
         "groundingChunkIndices": [
-          8
+          12,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 4429,
-          "endIndex": 4540,
-          "text": "国立科学博物館「重要科学技術史資料（未来技術遺産）」登録資料（金鳥の渦巻）"
+          "startIndex": 5064,
+          "endIndex": 5247,
+          "text": "雄株ばかりの理由と花の多さ：[公益財団法人 京都市都市緑化協会「庭木・花木相談所」](https://www.kyoto-ga.jp/greenery/soudan/images/qa_04/34_4.jpg)"
         },
         "groundingChunkIndices": [
-          8
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 4657,
-          "endIndex": 4784,
-          "text": "普通の鉛筆は文字を正確に書くため、親指・人差し指・中指の「3本」の指で固定して持ちます"
+          "startIndex": 5252,
+          "endIndex": 5592,
+          "text": "日本のキンモクセイがクローンである点：[一般社団法人 日本植物生理学会「みんなのひろば 植物Q&A」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnWr7mhjbKyB9bnkhDGrVRC88cOetsqZcx6S8rXsZN_gMffS9Hp5JoDYip_Tq7uRVlydDIntd5Ogg6Jr5zR6Szu3AmwCU2oyq8s0ZI8OCwh5AK2sO-meYPP5yS4UKQVJDo)"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5750,
+          "endIndex": 5942,
+          "text": "文庫本の上部（天）がツルツルに切り揃えられず、少し凹凸やギザギザになっているのは「天アンカット」と呼ばれる製本手法によるものです"
         },
         "groundingChunkIndices": [
           13,
-          14,
-          15
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 4787,
-          "endIndex": 4959,
-          "text": "3の倍数である「六角形」は指の腹が平らな面にぴったり収まり、長時間書いても疲れにくく、机の上でも転がりにくいためです"
+          "startIndex": 5945,
+          "endIndex": 6140,
+          "text": "本の背の上部にしおり紐（スピン）を糊付けして組み込む工程上、本の上部を機械でスパッと切り落とす「化粧断ち」ができないために生じます"
+        },
+        "groundingChunkIndices": [
+          15,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6183,
+          "endIndex": 6318,
+          "text": "現在、日本の大手文庫レーベルでスピン（栞紐）を付け続けているのは事実上「新潮文庫」だけです"
         },
         "groundingChunkIndices": [
           13,
-          14,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 4962,
-          "endIndex": 5208,
-          "text": "一方、色鉛筆は絵を描いたり塗ったりする際、ペンの角度を寝かせたりくるくる回したりしながら使うため、指当たりが柔らかくどの角度でも回しやすい「丸軸」に設計されています"
+          "startIndex": 6321,
+          "endIndex": 6534,
+          "text": "スピンの部材費や貼り付け工賃、天アンカットの複雑な折り加工により、スピンなしの三方裁断本に比べて「1冊あたり約10円」の追加コストがかかっています"
         },
         "groundingChunkIndices": [
-          13,
-          14,
-          16
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 5253,
-          "endIndex": 5360,
-          "text": "鉛筆は「3本の指」で支えるため、断面が3の倍数（三角形や六角形）になります"
+          "startIndex": 6562,
+          "endIndex": 6718,
+          "text": "本の上部が揃っていないのを見ると「裁断のミス」や「コスト削減の手抜き」と思われがちですが、実は正反対です"
         },
         "groundingChunkIndices": [
           13,
-          16
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5363,
-          "endIndex": 5567,
-          "text": "握力が弱い幼児向けの練習鉛筆には太い「三角形」もありますが、一般的な筆記用は転がり防止と持ちやすさのバランスが取れた「六角形」が主流です"
+          "startIndex": 6721,
+          "endIndex": 6904,
+          "text": "まとめて切断する一般的な製本に比べ、折りの段階から計算して手間をかけるため、むしろ余分に費用と職人技がかかる贅沢な仕様です"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6953,
+          "endIndex": 7176,
+          "text": "昭和初期までは岩波文庫など他社もスピンを付けていましたが、1970年頃からのコストダウンの流れで相次いで廃止され、紙のしおりの投げ込みに代わっていきました"
         },
         "groundingChunkIndices": [
           13,
@@ -515,40 +544,105 @@
       },
       {
         "segment": {
-          "startIndex": 5570,
-          "endIndex": 5840,
-          "text": "また、色鉛筆の芯は黒鉛筆（黒鉛と粘土を高温で焼成）とは違ってワックスや油脂を含んで柔らかいため、六角形にして偏った圧力がかかるのを防ぎ、円形の均等な木の厚みで保護する役割もあります"
+          "startIndex": 7179,
+          "endIndex": 7297,
+          "text": "しかし新潮社では、1933年の文庫発足以来（終戦直後の物資不足期を除き）一貫して継続"
         },
         "groundingChunkIndices": [
-          14
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 5870,
-          "endIndex": 6137,
-          "text": "同じ「鉛筆」という名称でも、「文字を書く道具（安定した固定が必要）」と「絵を描く道具（自由な動きが必要）」という手の使い方の違いによって、軸の形が論理的に作り分けられている点です"
+          "startIndex": 7300,
+          "endIndex": 7564,
+          "text": "「文庫といえども大切な蔵書であり、読み捨てにするような本は作らない」「何があってもスピンだけはなくすな」という先代社長の遺志を、製本所とともに誇りを持って頑なに守り続けています"
         },
         "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6170,
-          "endIndex": 6551,
-          "text": "19世紀半ば、ドイツの鉛筆メーカー「ファーバーカステル社」の4代目ローター・フォン・ファーバーが、筆記具としての握りやすさ、机からの転がり防止、そして板材を切り出す際の木材ロスの少なさを追求して「六角形」の鉛筆を開発し、これが世界標準サイズとして定着しました"
-        },
-        "groundingChunkIndices": [
+          14,
           18,
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 6586,
-          "endIndex": 6668,
-          "text": "一般社団法人 日本筆記具工業会「筆記具の基礎知識：鉛筆」"
+          "startIndex": 7744,
+          "endIndex": 7967,
+          "text": "（新潮社協力）](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhLd_RXVzTauI-fiB9Y4Kf9ZK-N6TA1plKyTUMlMb8YLZRxQpA9YHhVYxT_mwWRDXcOeLPJZSMlEtrDNyHOHzUWiKBqgq3RKWoKuSLf_DteOzgSTXxVHLyeXW_GMUMtI0=)"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7972,
+          "endIndex": 8267,
+          "text": "スピンと製本の仕組み：[新潮社公式Instagram発信（スピンへのこだわり）](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNHSNY3jfDTDBCj2eSuISomAc4qAmhHl6IB_fwX6l-5OZYoVy4D3Yn8RAvUe6DZFkIN8p5YJ9_iXoQxTDGfi1B6xYsFVyn5wpuyK7ZMnr48dx-eW13EmhG3aVxfW4O)"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8400,
+          "endIndex": 8637,
+          "text": "黄色くなる「黄葉（イチョウなど）」は、葉の中の緑色色素（クロロフィル）が分解され、元々葉の中に存在していた黄色い色素（カロテノイド）が表面に現れてくる現象です"
+        },
+        "groundingChunkIndices": [
+          20,
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8640,
+          "endIndex": 8835,
+          "text": "一方、赤くなる「紅葉（モミジなど）」は、秋になってから葉の中で新たに赤い色素（アントシアニン）がわざわざ合成されることで起こります"
+        },
+        "groundingChunkIndices": [
+          20,
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8878,
+          "endIndex": 9030,
+          "text": "美しく鮮やかに色づく目安は、最低気温が「8℃以下」、さらに「5℃以下」の冷え込みが続くこととされています"
+        },
+        "groundingChunkIndices": [
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9033,
+          "endIndex": 9204,
+          "text": "黄葉は既存の成分が残るだけの受動的な変化ですが、紅葉は木がエネルギー（糖）を使って新物質を作る積極的な化学変化です"
+        },
+        "groundingChunkIndices": [
+          20,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9232,
+          "endIndex": 9391,
+          "text": "「どうせ数週間後に落ちてしまう葉っぱ」なのに、なぜ木はわざわざエネルギーを使って赤い色素を作るのでしょうか"
+        },
+        "groundingChunkIndices": [
+          20,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9394,
+          "endIndex": 9538,
+          "text": "近年の植物学では、アントシアニンが「日傘（サングラス）」の役割を果たしていることが分かっています"
         },
         "groundingChunkIndices": [
           20
@@ -556,42 +650,61 @@
       },
       {
         "segment": {
-          "startIndex": 6673,
-          "endIndex": 6751,
-          "text": "株式会社トンボ鉛筆公式「Q&A / 鉛筆の軸の形状について」"
+          "startIndex": 9541,
+          "endIndex": 9733,
+          "text": "秋の強い紫外線から弱った葉細胞を守り、冬に備えて葉に残った貴重な窒素などの栄養分を幹へとしっかり回収し終えるための防御壁なのです"
         },
         "groundingChunkIndices": [
-          13,
+          23,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9791,
+          "endIndex": 10221,
+          "text": "かつては「葉の付け根に離層（仕切り）ができて糖がせき止められるから紅葉する」と説明されていましたが、国立研究開発法人森林総合研究所の最新研究（2026年発表）では、離層が発達し始める前からすでに紅葉が始まっており、葉が落ちる直前まで管を通して窒素を木本体へ回収し続けていることが確認されました"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10224,
+          "endIndex": 10374,
+          "text": "木々にとって紅葉は、単なる枯れ姿ではなく、極めて綿密に計算された「冬越しの栄養回収作戦」だったのです"
+        },
+        "groundingChunkIndices": [
+          23,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10407,
+          "endIndex": 10758,
+          "text": "紅葉・黄葉の色素の仕組み：[国立研究開発法人 森林研究・整備機構 森林総合研究所「森林の生き物 Q3」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdSJiq6Do3I6pembg1BDmUny-Co_gnGyrwaIAUKj-eWhZkJ0mIHUhXNFVFbDW2WRqioniyXM5-GhB5Hlxe0SBB687y4ElCFughVWfAG0dgJqfZdXM0NU6k8ntD2Kdwzyg70l7yfh4Q)"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10407,
+          "endIndex": 10891,
+          "text": "紅葉・黄葉の色素の仕組み：[国立研究開発法人 森林研究・整備機構 森林総合研究所「森林の生き物 Q3」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdSJiq6Do3I6pembg1BDmUny-Co_gnGyrwaIAUKj-eWhZkJ0mIHUhXNFVFbDW2WRqioniyXM5-GhB5Hlxe0SBB687y4ElCFughVWfAG0dgJqfZdXM0NU6k8ntD2Kdwzyg70l7yfh4Q)、[農林水産省「特集 森へ行こう 紅葉・黄葉の不思議」](https://www.maff.go.jp/j/pr/aff/1610/img/spe2_02_01.jpg)"
+        },
+        "groundingChunkIndices": [
           21
         ]
       },
       {
         "segment": {
-          "startIndex": 6756,
-          "endIndex": 6844,
-          "text": "三菱鉛筆株式会社公式「えんぴつなんでもQ&A：6角形が多い理由」"
-        },
-        "groundingChunkIndices": [
-          18,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6964,
-          "endIndex": 7126,
-          "text": "郵便ポストが赤くなった最大の理由は、「街角で遠くからでも目立ち、誰でもすぐに見つけられるようにするため」です"
-        },
-        "groundingChunkIndices": [
-          22,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7129,
-          "endIndex": 7291,
-          "text": "明治43年（1910年）の逓信省年報にも「公衆ヲシテ認識シ易カラシムルタメ特ニ朱塗トセリ」と公式記録が残されています"
+          "startIndex": 10896,
+          "endIndex": 11289,
+          "text": "最新の紅葉・窒素回収研究：[森林総合研究所「秋の紅葉は、落葉させる『離層』が発達する前から始まっている（2026年）」](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYo6A9ENxoqL5o_12KsBlJc6Rad3upLfdQKrl8BOdGOygGuSgJO3Ghg1buemGRPKM8GUqhRPUbC8jSNC2h7bkGxqxMEjY38sETUH4APe8r6ev5JiZ4fWHgXMoBxp1U2XkuN71skgUqPvt8NPl6-JvGPpyv)"
         },
         "groundingChunkIndices": [
           23
@@ -599,116 +712,64 @@
       },
       {
         "segment": {
-          "startIndex": 7336,
-          "endIndex": 7467,
-          "text": "明治4年（1871年）に郵便制度が始まった当初、最初のポストは木製無塗装の「書状集め箱」でした"
+          "startIndex": 11651,
+          "endIndex": 11739,
+          "text": "① 日本にあるキンモクセイは、すべて「雄（オス）」の木である"
         },
         "groundingChunkIndices": [
-          22
+          7,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 7470,
-          "endIndex": 7625,
-          "text": "翌明治5年（1872年）に全国展開された際には、角材に黒いペンキを塗った「黒塗柱箱（黒ポスト）」が作られました"
+          "startIndex": 11916,
+          "endIndex": 12008,
+          "text": "**① 日本にあるキンモクセイは、すべて「雄（オス）」の木である**"
         },
         "groundingChunkIndices": [
-          22
+          7,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 7628,
-          "endIndex": 7838,
-          "text": "しかし夜間や悪天候で見分けがつかず、明治34年（1901年）に火事に強い鋳鉄製の「赤い丸型ポスト」が試作・登場し、以降全国へ赤いポストが普及しました"
+          "startIndex": 12064,
+          "endIndex": 12226,
+          "text": "キンモクセイはオスとメスの木が分かれている植物ですが、日本には実を結ばない『雄株』しか持ち込まれませんでした"
         },
         "groundingChunkIndices": [
-          22,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7868,
-          "endIndex": 8216,
-          "text": "初期の黒いポストは、夜に目立たずゴミ箱と間違えられただけでなく、当時まだ「郵便」という言葉を知らない一部の人が「垂便（たれべん＝大小便）」と読み違え、ポストの中に用を足してしまうという前代未聞のトラブルが実際に起きて問題視されました"
-        },
-        "groundingChunkIndices": [
-          25,
-          26,
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8420,
-          "endIndex": 8716,
-          "text": "安城市の南隣にある西尾市（特産の西尾の抹茶で有名）の井桁屋公園などには、名産をPRするために塗られた「抹茶色（深い緑色）の丸型ポスト」が現役で活躍しており、赤色以外の珍しいポストとして親しまれています"
-        },
-        "groundingChunkIndices": [
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8751,
-          "endIndex": 8866,
-          "text": "郵政博物館「郵便ポストの移り変わり 〜日本最初のポストから現在のポストまで〜」"
-        },
-        "groundingChunkIndices": [
-          22,
-          28
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8871,
-          "endIndex": 8977,
-          "text": "郵政博物館 研究紀要 第7号（2016年）「最初の公式鋳鉄製赤色円筒形郵便柱箱」"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9657,
-          "endIndex": 9716,
-          "text": "**② 蔵の中でとぐろを巻いていた「ヘビ」**"
-        },
-        "groundingChunkIndices": [
-          11,
+          5,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 9926,
-          "endIndex": 10037,
-          "text": "細長くして巻けば場所も取らないし、朝まで燃え続ける！』とひらめいたそうです"
+          "startIndex": 12229,
+          "endIndex": 12427,
+          "text": "花がたくさん咲いて香りが強い雄株を、挿し木でどんどん増やしていったため、日本中のキンモクセイは元をたどれば同じ一本のクローンなんです"
         },
         "groundingChunkIndices": [
-          9,
-          12
+          7,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 10040,
-          "endIndex": 10102,
-          "text": "一本伸ばすとなんと約75センチもあるんですよ"
+          "startIndex": 12430,
+          "endIndex": 12469,
+          "text": "だから実がつかないんですね"
         },
         "groundingChunkIndices": [
-          8
+          7
         ]
       }
     ],
     "webSearchQueries": [
-      "鉛筆 六角形 色鉛筆 丸 理由 日本筆記具工業会 トンボ鉛筆",
-      "常滑焼 急須 まろやか 理由 酸化鉄",
-      "蚊取り線香 渦巻き 理由 金鳥 歴史",
-      "郵便ポスト なぜ赤い 最初 白 郵政博物館"
+      "紅葉 黄葉 メカニズム 森林総合研究所 林野庁",
+      "新潮文庫 スピン ひも なぜ 新潮社",
+      "常滑焼 急須 お茶 渋み まろやか 酸化鉄",
+      "キンモクセイ 日本 雄株 クローン 実がつかない"
     ]
   }
 }

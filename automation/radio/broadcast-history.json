@@ -73,5 +73,17 @@
     "izumi_angle": "meiji-relay",
     "saturday_story": "story-01",
     "listener_notes": []
+  },
+  {
+    "date": "2026-10-18",
+    "topics": [
+      "常滑焼の急須でお茶が劇的にまろやかになる科学の秘密",
+      "新潮文庫の頭がギザギザな理由としおり紐の意外なコスト"
+    ],
+    "opening": "秋風を感じて入れた温かいお茶、急須ひとつで味が激変するって言われたら信じる？",
+    "quiz": "秋にいい香りがするキンモクセイ。実は日本にある木には驚きの共通点があります。どれでしょう。1番、全部メス。2番、全部オス。3番、みおんの芳香剤と同じ成分。",
+    "izumi_angle": "somen-summer",
+    "saturday_story": null,
+    "listener_notes": []
   }
 ]
