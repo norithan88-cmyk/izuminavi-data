@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:07:07.866Z",
+  "updated_at": "2026-10-18T23:10:53.826Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -15,6 +15,30 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-10-18T06:26:02+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "文化センターご利用案内",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/kouminkan/bunkacenter/bunkacenter-riyouannai.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-17T15:07:19+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "行事・イベント",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-r4gyouji.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-17T12:21:05+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和8年度公民館講座",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/r8sakuraikouminkankouza.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-17T12:03:13+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -79,14 +103,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-10-16T11:24:41+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "令和8年度公民館講座",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/r8sakuraikouminkankouza.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-16T10:55:05+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -311,22 +327,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-10-14T10:25:38+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "部活動の段階的な地域展開に伴う地域スポーツ団体の紹介",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/chiikisportsdantai.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-10-14T09:41:22+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "各団体からのお知らせ",
-      "url": "https://www.city.anjo.aichi.jp/manabu/gakko/chiikitenkai.html",
-      "summary": "安城市の中学生を受け入れているスポーツ・文化活動団体の、入会募集などのお知らせを掲載しています。",
-      "category": "学び",
-      "published_at": "2026-10-13T19:56:02+09:00",
       "source": "安城市公式サイト"
     }
   ]

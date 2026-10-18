@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T08:07:04.986+09:00",
+  "updated_at": "2026-10-19T08:10:51.973+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
@@ -10,16 +10,8 @@
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-10-18",
+      "start_date": "2026-10-19",
       "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "令和8年度安城市総合防災訓練",
-      "url": "https://www.city.anjo.aichi.jp/event/202610sougobosaikunren.html",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
@@ -60,6 +52,14 @@
       "url": "https://www.city.anjo.aichi.jp/event/sankaku/2026gekkan.html",
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "安祥ふれあいレクリエーション",
+      "url": "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-07",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
