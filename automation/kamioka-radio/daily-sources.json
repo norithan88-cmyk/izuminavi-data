@@ -1,241 +1,279 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2203,
-  "estimated_minutes": 6.7,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2179,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "朴葉味噌で有名なホオノキ。実はその木材もある道具に欠かせない材料でした。柔らかくて刃を傷めない性質から作られていたものは？1番、お寺の鐘の撞木。2番、日本刀の鞘。3番、みおん特製しゃもじ。",
-    "answer": "正解は2番、日本刀の鞘でした！ホオノキは狂いが少なく、刃にやさしい木として鞘の内側などに重宝されたんだって。みおんのしゃもじは木製じゃないやさ！…って使い方合っとる？",
+    "question": "飛騨の赤かぶ漬けは塩だけで漬けるのに、なぜ中まで赤く染まるでしょうか。1番、天日干しで日焼けしたから。2番、乳酸菌の酸に皮の色素が反応したから。3番、みおんが夜中に赤い絵の具を塗りよるから。",
+    "answer": "正解は2番、乳酸菌の酸に皮の色素が反応したからでした！皮のアントシアニンが発酵の酸で赤く発色して染みるんやさ。3番のみおんは絵の具なんて塗っとらんし、そもそも夜も寝とらんやさ！",
     "source_ids": [
-      2,
-      3
+      19,
+      20,
+      24
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMGUnI68Cqdru7-pGXGaW9qUufuJr1ypHvJZEfyrkl1wGIOPmHJodlAztuOCAE6rVNrGgzkhybTeXG87ocUoN6KpReE-Gsi-PR4EJfi_kdJQG43-sVLYM1rEH0HvzralBhfVuzZ0YJtp-9qbmoFhPwWeyXXdJaWoTJg==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk9oYDkeWkhxeSHt_nvIwsbe1WOQgivcoFf1mI2aJtcPwrsrpj0TF4FeHx82glxPXl_hLRhPHiJ8Oec8suFHJXiyFbISTUL9u_pLX3Zj3L-jJzimONTaZYfhrWN3dNgfiEJA=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIp5cizuLZcG_xSdcUVtMrnucvASObeBrd21feZAeacYEmF5Nx9Iu8lCT_kuIEfsczJl-k6tob9ArQy0XSBG2JouljTyUGAPEra3MuxoNsc7OlBb-o0pesNQaIlf2bCwsFa6yBGE2ol2Ug5Mp17l1RjkxScBahQkaSzDaazvVhfN7ISmvmQD3YnJK",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECkE1RvQHDTkTZSEFD38FAHpykKnqz2YEaaGJBM5YP5qxRiUU8K4nAnTkdVJUAF_e60A6Z0jh26eXmKPBCKYOeSmKPTGxqs11wFIkM8nb_VkfYmoy5LRSFtKZ1MTjEtntEz0TgBOEkeMxWk-TZh5QuZcjxeikGISr41LyFs_8nxDhjMbfZthEO894=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLLDQfRdP18Vuhkw4LAKdDTPYCEaQwCNDiIzEqTMAWiLBVuL4Km47YZM-4pgC7DKrGm2gyfk-OCSk9xURrGPCXbSFRrjzmrUkIGpUQhkaYqdVECue5fP26bHG"
     ]
   },
   "izumi": {
-    "text": "さあ、やってまいりました！「みおんの神岡ディープ」の時間やさ！\n今日は神岡の中心地、船津の歴史にググッと迫ってみまい！\n神岡といえば鉱山の町だけど、江戸時代は幕府の直轄地だったんだって！国の直営オフィスがある超エリートエリアみたいなもんやろー！\nしかも中心の船津は、飛騨街道の宿場町としてめちゃくちゃにぎわっていたらしいの！街道を旅する人たちが次から次へとやってきて、宿場に泊まってひと休みしていったんだね。今なら旅行サイトで「街道沿いの大人気スポット！泊まるなら船津！」って口コミで星五つが並んで、予約が全然取れん状態やさ！みおんもタイムマシンがあったら案内係をやりたかったな…って、江戸時代に電子機器を持ち込んだら大騒ぎになっちゃうか！\nその前をさかのぼると、神岡は戦国時代に江馬氏の城下町で、そのあと金森氏の領地になって鉱山開発が進められた歴史もあるんだよね。でも江戸時代の船津は、通り道としてたくさんの人が行き交う華やかなにぎわいを見せていたんだから本当にすごい！\n普段歩いている船津の通りも、江戸時代は旅人たちで大にぎわいだったと思うと、神岡の歴史の深さにちょっと胸を張りたくなっちゃうよね！",
+    "text": "月曜の朝から線路の上を自転車で爆走したくなっとるみおんです！神岡の代名詞といえば、レールマウンテンバイクのガッタンゴーやさね。神岡鉄道は1984年10月1日に国鉄神岡線を引き継いで開業して、2006年12月1日に猪谷から奥飛騨温泉口までが廃止になったんやけど、翌年の2007年に地元の有志が線路を自転車で走る活動を始めたんやさ。きっかけがサイパン島で線路を自転車で走るツアーの体験だったっていうから驚きやろー！廃線になった翌年に南の島のアクティビティを山奥の線路に持ち込むなんて、今なら行動力ありすぎてバズるどころの騒ぎじゃないやさ。2011年からはNPO法人神岡・町づくりネットワークが運営しとるんやけど、まちなかコースは奥飛騨温泉口駅から神岡鉱山前駅までの往復5.8キロを40分から50分ほどかけて走るコース。神岡第1トンネルや第2トンネル、神岡橋梁を通るんやさ！普段は入れない真っ暗なトンネルをくぐり抜けて、高い鉄橋をガッタンゴットン渡る非日常感、たまらんやろー！2018年には旧漆山駅から二ツ屋トンネルまでの往復6.6キロの渓谷コースも増えて、今の自転車はすべて電動アシスト付き。神岡が誇るこの大冒険、全国に自慢したくなるやさね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡"
+      "https://tabi-mag.jp/gi0335/"
     ],
     "angle": {
-      "id": "mine-funatsu",
-      "hook": "宿場町・船津のにぎわい。江戸時代の神岡は通り道の人気スポット"
+      "id": "gt-tunnel",
+      "hook": "線路の上をガッタンゴットン。トンネルと鉄橋を自転車で渡る非日常"
     }
   },
   "local": {
-    "text": "今日、10月18日の日曜日は、江馬館で飛騨神岡高校茶道部による「秋の茶会」が開かれるそうだよ！高校生のみなさんが開く秋のお茶会、風情があって素敵やさね。今日のお出かけ先を探しとる人は、江馬館へゆったり出かけてみまい！",
+    "text": "10月24日に、神岡商工会議所でフリーマーケットのカミフリが開催されるんやさ！おうちで眠っとった日用品や掘り出し物に出会えるチャンスやね。不用品を譲り合うのも身近な工夫やさ。今週末の土曜日は、家族みんなで会場へ宝探しに行かまい！",
     "source_ids": [
-      27
+      35
     ],
     "source_urls": [
-      "https://www.city.hida.gifu.jp/site/bunka/87803.html"
+      "https://www.city.hida.gifu.jp/site/koho/88027.html"
     ]
   },
   "segments": [
     {
-      "topic": "最高ランクの官位をもらった木？一位一刀彫とイチイの伝説",
-      "text": "秋の休日にぴったりの木の話をひとつ！\n岐阜県の木って「イチイ」っていう針葉樹なんだけど、なんで「一位」なんて名前がついとるか知っとる？\n実は昔、飛騨の山から切り出した材で、貴族や天皇が手に持つ細長い板、あの「笏」を作って天皇に献上したんだって。そしたら他の材より飛び抜けて素晴らしかったから、当時の最高ランクの官位「正一位」をもらったっていう言い伝えがあるらしいの！えっ、木が官位をもらったの！？人間でも出世するの大変なのに、木がいきなりトップ当選ってどういうこと！？今なら会社の表彰で、新入社員を差し置いて観葉植物が年間MVP獲るようなもんやろー！\nしかもこのイチイ、幹の直径が約30センチに育つまでに100年近くもかかるんだって！だから木目がめちゃくちゃ緻密なの。伝統工芸の「一位一刀彫」では、樹齢400年から500年の貴重な銘木が使われることもあるらしいよ。\nちなみに「一刀彫」って名前だから1本のノミだけで彫ると思われがちだけど、実際は何十種類ものノミや小刀を使い分けるんだって！全然一刀じゃないやさ！外側の白い部分と内側の赤い部分のグラデーションを活かして、色を塗らずに仕上げるのが特徴なんだとか。明日、誰かに「イチイの木は人間より偉い官位を持っとるんやよ」って自慢したくなっちゃうね！",
+      "topic": "食品値上げラッシュを撃退！冷蔵庫と冷凍庫の「真逆」な詰め方",
+      "text": "えっ、ちょっと待って！10月に入って食品の値上げが多すぎやしませんか！？主要食品メーカー195社だけで3,153品目も値上げって聞いてないんだけど！平均値上げ率10％で、調味料や飲料も上がっとるからまとめ買いで乗り切りたいところやさね。でも、安売りで買い込んだ食材を冷蔵庫にギッチギチに詰め込むのは、おとましい、もったいないことになりかねんのやさ！実は冷蔵室と冷凍室、省エネになる詰め方の正解が完全に正反対なんやよ。冷蔵室は冷気を循環させて冷やすから、すき間がないと冷えなくて余計な電気を食っちゃう。資源エネルギー庁の試算だと、冷蔵室を詰め込んだ状態から半分、7割以下を目安に減らすだけで、年間で電気約43.84キロワット時の省エネ、約1,360円の節約になるんやさ！設定温度を強から中に下げるだけでも年間約1,910円浮くらしいよ。ところが冷凍室は逆で、凍った食品同士がお互いを保冷剤みたいに冷やし合うから、すき間なく8割から9割ギッチギチに詰めるのが正解！空間があると、扉を開けた瞬間に暖かい空気が入って電力を浪費しちゃうんやさ。「冷蔵庫はスッカスカ、冷凍庫はギッチギチ」。これ、今日からすぐできる節約技として家族に自慢してみてな！",
       "source_ids": [
+        2,
+        4,
         9,
-        10,
-        12
+        10
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zboXeEDGQSqDb0dW2Hp2ba4HQTqq0g-1Kc9VdruM2OnWUOwjM77CFvXmSmBvJVj86PvGz33m_RsMk2k_oeL1W1rOvjpIfc6T-0bojK3bjiEr1wHGG-yh7g==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0HP3cPk7t6XMRgZboL8usONTxiyI8xs1XX0bF4WHGOCUdzkBIgaUab4t0K_gGmyavmeaPCSnpOm1-aeTF6RURkbeDv2nL5DedlyHwAZNfEcIGgFqWiBYLVDIqUPB_7gWA3RPeNQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IQkIdQ9jMTj69WQxphDrO6uyGGKik0TDmJibsnAZhcs4nox9CpmfWiuJ8Z4httFrcgkIYFJP8CKrsrCUlfPGvq2gVObkTrJIqxPAjkE5eLcqyq2ygsI5UzNmhG-Bx_qJRq7zQjRgcqU="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHKshFmCUEGwWLCO-jf1kxeuoeYcCC48jJfwke7rtcBMUX1bMe7Lh-D59B6JbReLyecRid1RN01x7Ef7CW9IMHV_kTXvlBVketCK5pvzzIECuOl-0K2cbthi3FaP46Q_VnQyCiUNXbQQ-DnOOuze24efUWykk362oOGXxo56c4sC-yQbHcOg4Thlhb96bmRmj_WITgrkmkmWQ-xfJUyRm1ng1MBW9SE8Z2axFvLtr6V15E6erSk_7ZvrQ4JvD5C_RBfBAWQVRUFo3QygcJuqiXCKENm93_1gY9aJNAcTWSl_IONBqqrqrLq2Zlqi1M7FAIE9pGI_1PXdlf2foI-QeAv_b69M6hzp8Vhd34W2zSG9jxK-9jRwfs2mM6NHlJEL23JcHFFUI9",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6drWjlhTcIVbvw58_BNjfKvGfaHBsFEIXAuARlQg5RZpQDngAjtVcGuk73StDxXND7r5QDrC_jpWPyAxaXuLJ4gWhQDZoncQpJh-Hie5UWf4up2Ymfb3zRDy8k-bpAKmA1NN29Wr03Lz_CLVTBS-jXcs840G9CdQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnUMUWLBw402n0QNPYB2I3-wqBxRFRVO7egNZU79ACOtZ9qU8vcuNHUpnaZ1HZ8x-EA81FklaV90NQ9kEHgxmDino_xBvzD1jJo4fbPWMqGheFw3dKHUlxM0p9nIZjVY7P1qbYfpza6VOYmX61Y5kScI9PczDHxpUjESjnllyv2td6wMJMAl6tY3kQ4DsmmjMCFVqQ7X1b8UNSlw3vz3INL-Q",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkf8FYc4PvlnMJKoECeUBRIiaWCZTkn1A5Lk6yV4CHV3dafeCmTG5Nd0Xdd7-wNaOklg-pw4Ncqbc_PEgy4IiqnTwa4VbYsJbSpPxIoLmC__m9gFdBh6hDYeiXm5YDZX5aw2dmOFJ7F4oA_aOgq8l6kFu30De5ryNZ_2OseaROSYJXAdWFkix-ZOhLMF3TbECur4="
       ]
     },
     {
-      "topic": "「薪にもならん」から世界へ！ブナから生まれた飛騨の家具の奇跡",
-      "text": "木の話が出たついでに、私たちが座る家具のすごい話も紹介しちゃうね！\n世界に誇る「飛騨の家具」だけど、実は約100年前、「薪にもならん」って山で見捨てられていた木から始まったって聞いてびっくりしちゃった！\nその木というのが「ブナ」。漢字で書くと木偏に無いと書いて「橅」。木ですらないって言われるくらい役立たず扱いされていたらしいの。水分が多くて反りやすいから放置されてたんだけど、捨てるのは本当におとましい、もったいない話やさ！\nところが大正9年、高山の上三之町の味噌屋さんの店先で、旅人と店主が「ブナも工夫次第で立派な椅子になる」って世間話をしたのが大逆転の始まり！なんとブナには、高温の蒸気で蒸すと驚くほどきれいに曲がるっていう隠れた特技があったんだって！\nこれに目をつけた有志が集まって、資本金3万円、社員たった6人の町工場からスタートしたの。椅子なんて見たこともなかった職人たちが、ドイツ発祥の曲木技術と飛騨の匠の手仕事で見事な椅子を作り上げちゃったんだよね！\n今や高山市は面積の約93パーセントが森林で、全国上位の家具産地！ただの立ち話から世界的なブランドが生まれるなんて驚きやろー！職場の椅子を見る目が、明日からちょっと変わりそうやさ！",
+      "topic": "なぜ朴葉味噌は燃えない？カサカサの枯れ葉が直火に耐える謎",
+      "text": "そういえば、食材の知恵といえば飛騨の定番料理、朴葉味噌もすごいんやさ。でも、データを調べていてみおん、思わず二度見しちゃったんやけど…あのカサカサに乾いた朴葉、なんで直火の上で味噌をジュージュー焼いとるのに燃え尽きないんけな！？紙なら一瞬で燃えカスやろー！枯れ葉を火に乗せるなんてだちかん、危なっかしいわ…ってツッコミ入れたくなったんやけど、ちゃんと科学の理由があったんやさ。ホオノキの葉っぱは長さ20から40センチ、幅10から25センチもあって日本の落葉樹で最大級！葉自体が分厚くて油分や水を通しにくい強靭な性質を持っとるんやけど、一番の秘密は「味噌の水分」なんやさ。火で炙られると味噌や具材の水分が蒸発するんやけど、そのときに熱をグングン奪う「潜熱冷却」っていう現象が起きるんやよ。水分が蒸発しとる間は葉の温度が100度付近に保たれるから、葉っぱが燃え出す発火点の250度から300度まで絶対に上がらんのやさ！立ち上る水蒸気が見えないシールドになって火から葉を守っとるってわけ。昔の人は冬に凍りついた味噌を朴葉に乗せて囲炉裏で温める中で、この大自然のハイテクを暮らしに取り入れとったんやね。枯れ葉一枚をフライパンにしちゃう飛騨の先人の知恵、今夜の食卓でドヤ顔で話してみてな！",
       "source_ids": [
-        13,
-        14,
         15,
-        16
+        16,
+        19
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIe5tI-6X_IVDEhE7OVOPvBqTLtvFYHwIHMcOmomycJX_xshP2UKah8DUynHL5nPGJT9AamucNlMCpeqQ3NuMSGqB20WvQ2z1dtUI-O_5MzGY9mmfl0xPgFjHMWY=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYJ-d4A1uTdPsmfkAItLuN7OJJm_hoiZWq-G445hEBIx_uFsbKJsZqzJAz2GFmj_TkxuLweVcferxdGDJeMQfp7oiCZ2ZUuU-vk7oNzcPFFpCQh_GZzPxFZ_tw-MB5-sFv87ZiVZC8aIwJrlUblmBkgJEedETk0vUX7ZGIXoKZv282jy4im_Jmot8pQNcy6WEUYKKZ_rWZ0Hjo5kpsq-urEfIKURY-5KMvX4N-wLDjRIccy1lQ1gE=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bIwxSpAqFAStfEENGvuCkLlAxS7gnIx4xkd4-i7ahx7LsUKgku29p3LE7YpxfH_xV6v-aXJ5LFaLHWLT22bqxHjSIheEURyd5Q7YKdtLIqplyLXpveKpvirpoEmKlW7ODF2S-bqEa46K5MjSd_1q8ZG3y5-hpz0AH7zzxel_9T9vMxWmqkbQmnc6vlrVQPF4b3UBgFSznZ9_",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyGSN7GrBmIPuCiG-ma_y-E38QIhnqOJRQKRP2fs0WtnN5uK00X2ghjSZBN2bLA7LGDrz_lGUV95Ebd-5WbveuuhEgcQbhvk9q92V9Qwin4ixsZ41la7L1r9XoafpQDsVRKI2Qmzp48uuqN_k0Rd2HFjIBao6qBYtPEeYIDhWJB8tHBsO"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0Ibrl0tOxNlS3DWd8KwnvqkAlGmTkHhVFIXvtmE7gQewRsFvPP0VLPx45ECFlrpypM3aJymbVWEXX6n39ItVM1CP-oOKxAYJq4Y6iiWQFljLRsa7O4vAAiSjHcE0Ww7hTg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSj0kBjnniUFMPCeolXR8yQC6UZ0Yg1NjNuaObAUoPn64vLalI2ksq53pxrSJuNV3qJXyAuEYqLFceOZwWCfBooBpF9XSH0zk0tjvp9B8DM6DUzkLWSyc1btKZibx",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIp5cizuLZcG_xSdcUVtMrnucvASObeBrd21feZAeacYEmF5Nx9Iu8lCT_kuIEfsczJl-k6tob9ArQy0XSBG2JouljTyUGAPEra3MuxoNsc7OlBb-o0pesNQaIlf2bCwsFa6yBGE2ol2Ug5Mp17l1RjkxScBahQkaSzDaazvVhfN7ISmvmQD3YnJK"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町周辺のコミュニティラジオ向けに、秋の深まりを感じるこの時期（10月中旬）にぴったりの「季節・趣味・暮らしのゆったりした話題」を4件まとめました。秋の食卓や散歩の合間に、思わず家族に話したくなるような雑学です。\n\n---\n\n### 1. なぜ「朴葉味噌」には朴の木の葉を使うのか？\n**〜お皿でもアルミホイルでもなく、山奥の大きな落ち葉が選ばれたワケ〜**\n\n* **理由：**\n  朴（ホオノキ）の葉は、日本に自生する樹木の中で最大級の大きさを誇り、厚手で火に強く、食材を乗せて焼いても簡単には燃え抜けない性質を持っています。さらに、葉そのものに爽やかな独特の芳香があり、包んだり焼いたりした食材に上品な風味を移してくれるためです。\n* **具体的な数字や比較：**\n  林野庁や森林総合研究所の資料によると、ホオノキの葉は長さが20〜40cm、幅も10〜25cmに達し、大人の顔よりも大きく育ちます。木自体の高さも20〜30メートルほどに達する高木です。\n* **意外な点（木材の用途）：**\n  飛騨では「葉」ばかりが注目されがちですが、ホオノキは「木材」としても極めて優秀です。木肌が緻密で狂いが少なく、刃先を傷めない（刃にやさしい）性質があることから、古くから「日本刀の鞘（さや）」や下駄の替え歯、版木、彫刻材などに重宝されてきました。\n* **ちょっとした歴史の裏話：**\n  ホオノキの「ホオ」という名は、古来その大きな葉で食べ物を包んだことから「包（ほう）」に由来するという説が有力です。また、樹皮は「厚朴（こうぼく）」と呼ばれ、古くは平安時代の医書『医心方』にも登場し、現在も日本薬局方に収載される重要な生薬原料として飛騨などの山岳地帯で採集されてきた歴史があります。\n\n---\n\n### 2. 岐阜県の木「イチイ」と一位一刀彫――なぜ木の名前に「一位」と階級がついているのか？\n**〜木目の美しさが認められて、最高ランクの官位をもらった木の伝説〜**\n\n* **理由：**\n  飛騨の伝統工芸「一位一刀彫」の材料であり、岐阜県の県木でもある「イチイ」。この名は、かつて飛騨の山から切り出した材で朝廷の儀礼用具である「笏（しゃく）」を作り天皇に献上した際、他の材より際立って優れていたことから、当時の最高位である官位「正一位（しょういちい）」を賜ったという言い伝えに由来しています。\n* **具体的な数字や比較：**\n  イチイは非常に成長がゆっくりな針葉樹で、幹の直径（胸高直径）が約30cmに育つまでに100年近くかかると言われています。そのため木目が極めて緻密です。一位一刀彫の作品には、樹齢400年〜500年を経た貴重な飛騨の銘木が使われることもあります。\n* **意外な点（一刀彫の誤解）：**\n  「一刀彫（いっとうぼり）」という名前から「1本のノミだけで彫り上げる」と誤解されがちですが、実際には職人が何十種類ものノミや小刀を使い分けて彫ります。外側の白っぽい部分（白太）と内側の赤みのある部分（赤太）の天然の2色のグラデーションを活かし、絵の具や塗料による着色を一切行わずに鋭い刃痕を残して仕上げるのが最大の特徴です。\n* **ちょっとした歴史の裏話：**\n  一位一刀彫の歴史は江戸時代末期、高山出身の根付（ねつけ）彫刻師・松田亮長（まつだ すけなが）が、着色せずイチイの素朴な美しさを活かした蛙や亀などの小さな根付を彫り始めたことから本格的に始まりました。\n\n---\n\n### 3. 世界に誇る「飛騨の家具」――実は「薪にもならん」と見捨てられた木から始まった？\n**〜木偏に無と書く「ブナ」を大化けさせた、大正時代の街角の雑談〜**\n\n* **理由：**\n  飛騨の木工家具の歴史は、今から約100年前、飛騨の山々にうっそうと生い茂っていた「ブナ」の有効活用から始まりました。ブナは水分が多く乾燥させると反りや狂いが出やすいため、当時は「木に非（あ）ず（橅）」と書かれるほど役立たずの木とみなされ、山に放置されていました。\n* **具体的な数字や比較：**\n  飛騨産業の前身である中央木工株式会社が設立されたのは大正9年（1920年）。資本金3万円、社員わずか6人という小さな町工場の試みでした。現在、高山市は市町村面積の約93%を森林が占め（森林率日本一クラスの広大な市）、家具製造業の出荷額でも全国上位の家具産地となっています。\n* **意外な点（ブナの変身）：**\n  家具用材としては見向きもされなかったブナですが、実は「高温の蒸気で蒸すと、驚くほどきれいに曲がる（曲木に適している）」という隠れた性質を持っていました。これに目をつけたことで、ドイツ発祥の曲木技術と「飛騨の匠」の卓越した手仕事が融合し、美しい曲線を描く椅子へと生まれ変わったのです。\n* **ちょっとした歴史の裏話：**\n  この一大産業のきっかけは、高山の上三之町にあった味噌屋の店先でした。大正9年、店を訪れた旅人（県外で曲木技術を学んだ職人兄弟）と味噌屋の店主が「ブナの木だって、工夫次第で立派な椅子になる」と雑談を交わしたことから、地元の有志が集まり、椅子など見たこともなかった職人たちが手探りで会社を立ち上げました。\n\n---\n\n### 4. 秋の味覚「甘柿の王様」富有柿――その生まれ故郷は岐阜県だった！\n**〜「富有」はお金持ちの意味ではなく、天下を治めるという壮大な願い〜**\n\n* **理由：**\n  全国のスーパーや果物屋に並ぶ「富有柿（ふゆうがき）」は、明治時代に岐阜県旧本巣郡（現在の瑞穂市居倉）で誕生し、全国へ広まった岐阜県発祥の完全甘柿です。\n* **具体的な数字や比較：**\n  日本に存在する柿の品種は約1000種におよびますが、富有柿はその中で国内栽培面積・生産量の第1位を誇る圧倒的な「柿の王様」です。一般的な果実は230〜280g程度、糖度は16〜19度と非常に甘く、岐阜県で袋掛け栽培された最高級ブランド「果宝柿」では350g以上、糖度18度以上の厳しい基準が設けられています。\n* **意外な点（名前の由来）：**\n  「富有（ふゆう）」と聞くと「お金持ちになる（富み有る）」という縁起担ぎのように思えますが、実は中国の古典『礼記（らいき）』にある「富有四海之内（四海の内を豊かに有す＝天下を治める）」という言葉から採られたものです。この柿が日本全国津々浦々に広まるように、という壮大な願いが込められています。\n* **ちょっとした歴史の裏話：**\n  富有柿の生みの親である福嶌才治（ふくしま さいじ）氏は、地元にあった「居倉御所」という甘柿の枝を接ぎ木し、品種改良に心血を注ぎました。完全甘柿は寒さに敏感で、年平均気温が11.5度以上ないと自然に渋が抜けきらない性質があります。岐阜の平野部の絶妙な気候と福嶌氏の熱意が重なって、奇跡の甘柿が完成しました。\n\n---\n\n### 番組用 3択クイズコーナー（話題1より）\n\n**【問題】**\n飛騨の秋の味覚「朴葉味噌」でおなじみのホオノキ。葉っぱは大きくて火に強いことで有名ですが、実は「ホオノキの木材」も、ある昔ながらの道具に欠かせない材料として重宝されてきました。木が軟らかく均一で、刃を傷めない性質から使われてきたものは次のうちどれでしょう？\n\n1. **お寺や神社の「大きな鐘の撞木（しゅもく）」**\n2. **武士が腰に差した「日本刀の鞘（さや）」**\n3. **川下りで使う「舟のオール（櫂）」**\n\n---\n\n**【正解】**\n**2番の「日本刀の鞘（さや）」**\n\n**【解説トーク用メモ】**\nホオノキの木材は、軽くて狂いが少なく、適度な柔らかさを持っています。固い木だと大切な刀の刃を傷つけてしまいますが、ホオノキは「刃にやさしい木」として、古くから日本刀の鞘の内側や本体の材に一番適していると重宝されてきました。下駄の歯や版画の版木などにも使われており、葉っぱだけでなく木そのものも日本の暮らしを支えてきた万能の木です。",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ番組用に、リスナーが思わず家庭で話したくなる「暮らしの知恵・身近な工夫」に関する調査メモを作成しました。\n\n---\n\n# ラジオ制作用リサーチメモ：暮らしの知恵・身近な工夫\n\n---\n\n## 【1件目・家計の日】10月の食品値上げラッシュと、冷蔵室・冷凍室で「逆」になる詰め方の知恵\n\n### 疑問\n「秋の値上げラッシュを乗り切るため、食材をまとめ買いして保存したいけれど、冷蔵庫はどう使うのが一番電気代の節約になるの？」\n\n### 理由\n冷蔵室と冷凍室では、冷やす仕組みが異なります。冷蔵室は「冷気を循環させて」全体を冷やすため隙間が必要です。一方、冷凍室は凍った食品自体が保冷剤の役目を果たし、食品同士がお互いを冷やし合うため、隙間がない方が冷気が逃げにくくなります。\n\n### 具体的な数字や比較\n* **10月の食品値上げ動向**：帝国データバンクの「価格改定動向調査」によると、主要食品メーカー195社の飲食料品値上げは合計**3,153品目**（平均値上げ率10％）に上ります。3,000品目超えは9月（4,965品目）に続き2カ月連続です。分野別では「酒類・飲料」が1,399品目で最多、次いで「調味料」が820品目、「加工食品」が668品目となっています。背景には中東情勢を受けた原油・ナフサ高、物流費や人件費の高騰、円安の影響があります。\n* **家計の節約効果**：経済産業省 資源エネルギー庁の試算によると、冷蔵室の食品を詰め込んだ状態から**半分（7割以下を目安）**に減らすだけで、年間で電気約43.84kWhの省エネ（**約1,360円の節約**）になります。さらに設定温度を「強」から「中」に下げることで年間約61.72kWh（**約1,910円の節約**）となります。\n\n### 意外な点\n一般社団法人日本冷凍食品協会や消費者庁も発信している通り、「冷蔵庫はスカスカ（7割以下）、冷凍庫はぎゅうぎゅう（8〜9割）」と**詰め方の正解が正反対**である点です。冷凍庫は空きスペースが多いと扉を開けた際に一気に温かい空気が入り込んで電力を消費するため、凍った食材をすき間なく詰める方が節電につながります。\n\n### 歴史の裏話\n昭和30年代に「三種の神器」として電気冷蔵庫が普及し始めた当初は、冷気をファンで循環させる機能はなく、庫内の金属冷却器から自然に対流させる直冷式でした。当時は冷気を通す隙間を空けることが今以上に必須で、主婦雑誌などでも「詰め込み厳禁」が徹底して啓発されていました。\n\n> **出典・根拠資料**：\n> * 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日公表）\n> * 経済産業省 資源エネルギー庁『家庭向け省エネ関連情報 無理のない省エネ節約（キッチン）』\n> * 消費者庁『グリーン志向消費：冷蔵庫を整理する』\n> * 一般社団法人日本冷凍食品協会『節電につながる冷凍庫内の冷凍食品の詰め方について』\n\n---\n\n## 【2件目・飛騨の知恵】なぜ朴葉味噌は「枯れ葉」なのに火の上で燃えないのか？\n\n### 疑問\n「神岡や飛騨の定番料理『朴葉味噌』。カサカサに乾いた落ち葉の上に味噌をのせて直火で焼くのに、なぜ葉っぱは燃え尽きないの？」\n\n### 理由\nホオノキ（朴の木）の葉自体に厚みがあり繊維が強靭で比較的耐火性があることに加え、**「味噌や具材の水分」が蒸発する際の潜熱冷却**が働くためです。水分が蒸発する間は温度が100℃付近に保たれるため、下から火で炙られても葉が発火点（通常250〜300℃以上）まで上がらず、立ち上る水蒸気がシールドとなって燃焼を防いでいます。\n\n### 具体的な数字や比較\nホオノキの葉は日本の落葉樹の中で最大級の大きさを誇り、長さ**20〜40cm**、幅**10〜25cm**にも達します。葉が厚く、油分や水を通しにくい性質があり、枯れて乾燥しても破れにくい強靭さを持っています。\n\n### 意外な点\n朴葉味噌の葉は、単に「お皿や網の代わり」として便利なだけでなく、熱せられることで葉に含まれる特有の芳香成分が味噌に移り、豊かな風味を生み出します。またホオノキの葉には優れた抗菌・殺菌作用があるため、加熱調理だけでなく、朴葉寿司や朴葉餅のように食品を長持ちさせる包み材としても古くから活用されてきました。\n\n### 歴史の裏話\n朴葉と日本人の歴史は極めて古く、6世紀の「王塚古墳」（福岡県）の玄室から出土した杯にもホオノキの葉が敷かれていたことが判明しています。また『万葉集』巻十六には、僧恵行が大伴家持に朴葉に盛った食べ物を贈った歌（「わが背子が捧げて持てるほほがしは…」）が収められています。冬の寒さが厳しい飛騨地方では、冬場に凍りついた味噌や漬物を朴葉にのせて囲炉裏で温めて食べた生活の知恵が「朴葉味噌」の起源とされています。\n\n> **出典・根拠資料**：\n> * 農林水産省『うちの郷土料理：朴葉味噌 岐阜県』\n> * 岐阜県林政部「ぎふの木ネット」『郷土料理「朴」の葉の話』\n> * Discover Japan『葉の爽やかな香りが食欲をそそる「ホオノキ」《暮らしの中にある木の図鑑》』\n\n---\n\n## 【3件目・飛騨の知恵／クイズ対象】赤かぶ漬けは、なぜ酢も着色料も使わないのに中まで真っ赤に染まるのか？\n\n### 疑問\n「赤かぶの実は、切ると中は真っ白。甘酢や着色料を加えず塩だけで漬ける昔ながらの飛騨の赤かぶ漬けは、なぜ芯まで鮮やかな紅色に染まるの？」\n\n### 理由\n赤かぶの表皮に含まれる天然色素**「アントシアニン」**が、塩漬けの過程で生まれる**「植物性乳酸菌の酸」**に反応して鮮やかな赤色へ変化し、塩分で組織が緩んだ白い果肉へと染み込んでいくためです（理科の実験で使われるリトマス試験紙と同じ酸アルカリ反応の原理）。\n\n### 具体的な数字や比較\n飛騨の赤かぶ漬けに使われる伝統野菜「飛騨紅かぶ」は、**10月〜12月上旬**に収穫されます。一般的な浅漬けは調味酢で短時間で酸味をつけますが、伝統的な製法では塩水に漬けて約**2カ月間**じっくりと低温発酵させ、乳酸菌の酸味と旨味を引き出します。\n\n### 意外な点\n「赤い漬物＝梅酢や赤しそ、食紅で色をつけている」と思われがちですが、本来の赤かぶ漬けの鮮やかなピンク色は、皮自身の色素と微生物（乳酸菌）の共同作業によって自発的に発色した完全な自然の色です。\n\n### 歴史の裏話\n飛騨紅かぶは、大正7年（1918年）に現在の高山市丹生川町（旧丹生川村）で栽培されていた赤紫色の「八賀（はちが）かぶ」の中から、農家が偶然発見した**1株の鮮紅色の突然変異株**を選抜・育成して広まったものです。かつて山に囲まれ塩が貴重だった飛騨地域において、塩の使用量を抑えつつ長期保存するために編み出された乳酸発酵の知恵が受け継がれています。\n\n---\n\n### 【番組用3択クイズ】\n* **問題**：飛騨の伝統的な「赤かぶ漬け」は、切ると中が真っ白なかぶを塩だけで漬け込みます。では、着色料や酢を一切使わないのに、全体が鮮やかな紅色に染まるのはなぜでしょう？\n  * ① かぶを天日干しして、紫外線で日焼けさせたから\n  * ② 発酵で生まれた「乳酸菌の酸」に皮の色素が反応したから\n  * ③ 赤い色を出すために、小豆や唐辛子を一緒に漬け込んでいるから\n* **正解**：**② 発酵で生まれた「乳酸菌の酸」に皮の色素が反応したから**\n* **解説トークの要点**：皮に含まれる紫色の色素「アントシアニン」は酸性に触れると鮮やかな赤色に変わる性質があります。塩漬けによって自然に増殖した乳酸菌が酸を作り出すことで、皮の色素が美しい赤に発色し、白い実全体を染め上げていきます。\n\n> **出典・根拠資料**：\n> * 農林水産省『にっぽん伝統食図鑑：岐阜県 赤かぶ漬け』\n> * 農林水産省『うちの郷土料理：赤かぶ漬け 岐阜県』\n> * 岐阜県庁『岐阜の極み：飛騨紅かぶ』\n\n---\n\n## 【4件目・暮らしの工夫】タオルのゴワゴワを治す「干す前のひと手間」と柔軟剤の意外な落とし穴\n\n### 疑問\n「お気に入りのタオルが洗うたびにゴワゴワになってしまう…。柔軟剤をたっぷり使っているのになぜ？」\n\n### 理由\n洗濯機の脱水にかけると、強い遠心力で生地表面のループ状の繊維（パイル）が押し潰され、寝た状態のまま乾燥して硬化してしまうためです。また、柔軟剤は繊維の表面を油分でコーティングして滑りをよくするものなので、過度に使用すると繊維が油膜で覆われ、タオル本来の「吸水性」を著しく損ねてしまいます。\n\n### 具体的な数字や比較\n今治タオル工業組合や各タオルメーカーによると、干す前にタオルの端を両手で持ち、上下に勢いよくバサバサと**「10回〜20回（最低でも3〜5回）」振る**のが効果的です。この動作で空気が送り込まれて寝ていたパイルが一本一本立ち上がり、乾いたときのふんわり感と厚みが格段に向上します。\n\n### 意外な点\n「ふわふわに仕上げるなら柔軟剤」と考えがちですが、今治タオルの公式ガイドラインでは**「普段の洗濯では柔軟剤を使わないこと」**が推奨されています。使い続けると吸水性が落ちるだけでなく、パイル抜けや毛羽落ちの原因にもなるため、「数カ月使って少し硬くなってきたと感じたときにだけ、少量を使う」のがプロの知恵です。\n\n### 歴史の裏話\nタオルの起源は19世紀中頃、オスマン帝国（現在のトルコ）の宮廷用織物「ブルサ織り」とされています。日本には明治5（1872）年にイギリスから綿タオルが初めて輸入されましたが、当時はそのあまりの柔らかさと肌触りの良さから、体を拭く布ではなく**「首に巻くおしゃれな襟巻き（防寒マフラー）」**として紳士たちの間で大流行しました。\n\n> **出典・根拠資料**：\n> * 今治タオル公式『快適にタオルを使い続けるために（お手入れ方法）』\n> * 株式会社ハートウエル『ポイントは5つ！タオルメーカーが薦めるタオルのお手入れ方法』\n> * IKEUCHI ORGANIC『タオルソムリエに聞く、“タオルを長持ち”させる方法』",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AF%8C%E6%9C%89%E6%9F%BF+%E7%99%BA%E7%A5%A5+%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%91%9E%E7%A9%82%E5%B8%82+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">富有柿 発祥 岐阜県 瑞穂市 特徴</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E3%81%AE%E5%AE%B6%E5%85%B7+%E6%9B%B2%E6%9C%A8+%E9%A3%9B%E9%A8%A8%E7%94%A3%E6%A5%AD+%E3%83%96%E3%83%8A+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">飛騨の家具 曲木 飛騨産業 ブナ 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9C%B4%E8%91%89+%E6%9C%B4%E3%81%AE%E6%9C%A8+%E7%89%B9%E5%BE%B4+%E5%A4%A7%E3%81%8D%E3%81%95+%E8%91%89+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E6%9E%97%E9%87%8E%E5%BA%81&client=app-vertex-grounding&safesearch=active\">朴葉 朴の木 特徴 大きさ 葉 森林総合研究所 林野庁</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%80%E4%BD%8D%E4%B8%80%E5%88%80%E5%BD%AB+%E3%82%A4%E3%83%81%E3%82%A4+%E4%BB%81%E5%BE%B3%E5%A4%A9%E7%9A%87+%E7%AC%8F+%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">一位一刀彫 イチイ 仁徳天皇 笏 岐阜県 由来</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E8%B5%A4%E3%81%8B%E3%81%B6%E6%BC%AC%E3%81%91+%E4%B9%B3%E9%85%B8%E7%99%BA%E9%85%B5+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E9%AE%AE%E3%82%84%E3%81%8B+%E8%B5%A4&client=app-vertex-grounding&safesearch=active\">飛騨 赤かぶ漬け 乳酸発酵 アントシアニン 鮮やか 赤</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9B%E3%82%AA%E3%83%8E%E3%82%AD+%E6%9C%B4%E8%91%89+%E6%9C%B4%E8%91%89%E5%91%B3%E5%99%8C+%E5%B2%90%E9%98%9C%E7%9C%8C+%E8%80%90%E7%81%AB%E6%80%A7+%E6%80%A7%E8%B3%AA&client=app-vertex-grounding&safesearch=active\">ホオノキ 朴葉 朴葉味噌 岐阜県 耐火性 性質</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B3%87%E6%BA%90%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%BA%81+%E7%9C%81%E3%82%A8%E3%83%8D+%E5%86%B7%E8%94%B5%E5%BA%AB+%E5%86%B7%E5%87%8D%E5%BA%AB+%E8%A9%B0%E3%82%81%E6%96%B9&client=app-vertex-grounding&safesearch=active\">資源エネルギー庁 省エネ 冷蔵庫 冷凍庫 詰め方</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E5%80%A4%E4%B8%8A%E3%81%92+10%E6%9C%88+%E5%93%81%E7%9B%AE%E6%95%B0&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品値上げ 10月 品目数</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%82%AA%E3%83%AB+%E5%B9%B2%E3%81%99%E5%89%8D%E3%81%AB%E6%8C%AF%E3%82%8B+%E3%83%91%E3%82%A4%E3%83%AB+%E6%9F%94%E8%BB%9F%E5%89%A4+%E4%BB%8A%E6%B2%BB%E3%82%BF%E3%82%AA%E3%83%AB&client=app-vertex-grounding&safesearch=active\">タオル 干す前に振る パイル 柔軟剤 今治タオル</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElMGUnI68Cqdru7-pGXGaW9qUufuJr1ypHvJZEfyrkl1wGIOPmHJodlAztuOCAE6rVNrGgzkhybTeXG87ocUoN6KpReE-Gsi-PR4EJfi_kdJQG43-sVLYM1rEH0HvzralBhfVuzZ0YJtp-9qbmoFhPwWeyXXdJaWoTJg==",
-          "title": "forest-akita.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHKshFmCUEGwWLCO-jf1kxeuoeYcCC48jJfwke7rtcBMUX1bMe7Lh-D59B6JbReLyecRid1RN01x7Ef7CW9IMHV_kTXvlBVketCK5pvzzIECuOl-0K2cbthi3FaP46Q_VnQyCiUNXbQQ-DnOOuze24efUWykk362oOGXxo56c4sC-yQbHcOg4Thlhb96bmRmj_WITgrkmkmWQ-xfJUyRm1ng1MBW9SE8Z2axFvLtr6V15E6erSk_7ZvrQ4JvD5C_RBfBAWQVRUFo3QygcJuqiXCKENm93_1gY9aJNAcTWSl_IONBqqrqrLq2Zlqi1M7FAIE9pGI_1PXdlf2foI-QeAv_b69M6hzp8Vhd34W2zSG9jxK-9jRwfs2mM6NHlJEL23JcHFFUI9",
+          "title": "reishokukyo.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk9oYDkeWkhxeSHt_nvIwsbe1WOQgivcoFf1mI2aJtcPwrsrpj0TF4FeHx82glxPXl_hLRhPHiJ8Oec8suFHJXiyFbISTUL9u_pLX3Zj3L-jJzimONTaZYfhrWN3dNgfiEJA==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC9mMFM1c7vgiFL0d5wsYuKDHf568TzQwWFJ0lmkExHmCCubMkUrNaRFODQKLowFPIBxEihDZIRMcRJJX_U_ms3BZKUKuWzxb4hE-bsW_g9yBDfWEuVxBrYSvc13WgSvmpFg==",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6drWjlhTcIVbvw58_BNjfKvGfaHBsFEIXAuARlQg5RZpQDngAjtVcGuk73StDxXND7r5QDrC_jpWPyAxaXuLJ4gWhQDZoncQpJh-Hie5UWf4up2Ymfb3zRDy8k-bpAKmA1NN29Wr03Lz_CLVTBS-jXcs840G9CdQ=",
+          "title": "tdb.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe8fcrEzqfd5KbxhVYIyr8Qmvd5RD5Fg_LYVIDizfMXnoabPuOFkQ6onRrTOjM2HRPrjQelvU9-5WKSWgUZOQ7emZl_COnZ2BuGkRr32O5m3E6h3OmiJpwyWXKpj9ATR4HeBD4m4dWXjbpwn3jGejHR7hlmd5xIbxMPzuJGPANByouTRs3qNAGMP25LChVIhqakwFLMputaIJ00vJ9ifMDuKheC-AQwV0pP3ZKPQ1rxg1dx9yOkfvVheUDnPF_E7_5tjOAszLmyQanuLz42aCFltvDG6AB2LXx9xuVpyct8VR7pFMFxJXnukUSMl57x7NMbE0XdbizOK69djpE9Sax_By7QzXPsMIQ0OzRpE4e-06bzHwu19wgn0Wh-SCWQJm3N8xt",
+          "title": "tdb.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0sKm4P74H_n_L3TQwqZGAnPV-cQLWwZHxhHdE7ifh1he_dR7sdx36NNKfMLoLsYxKQ3O-1UuXY3CatcKbTmox2m1K5GrlNtJL6ES45sbN9FnlzQtZrw5VaN8N",
+          "title": "officenomikata.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlL9HDv3NfpiiZLGUd1LHhpFTnofbK22xs9bLQND1MR_yVYP7TjyJfnLQ6lyFMbG6QRroyPvx_jRWXwSkqy_l-8gIO7EwuELYegctOTmjsO6OTbUcM6hnbcOCKOBjgrOLhTVGOxQAIQ8_iZY4lfUYEz0trQg==",
+          "title": "mediadogs.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLVIHmdLE7lBEQPh0VnY5IC677BDRAGsJnQJFu6hok_MPx-WwfTm8PqLraylPEkOHk2xBTb4fkkwMscr2OVSEoTnfrwek6mhgEAO5TmrZE7aRRfUheJH_pkXPgyPybhA==",
+          "title": "kankokeizai.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnUMUWLBw402n0QNPYB2I3-wqBxRFRVO7egNZU79ACOtZ9qU8vcuNHUpnaZ1HZ8x-EA81FklaV90NQ9kEHgxmDino_xBvzD1jJo4fbPWMqGheFw3dKHUlxM0p9nIZjVY7P1qbYfpza6VOYmX61Y5kScI9PczDHxpUjESjnllyv2td6wMJMAl6tY3kQ4DsmmjMCFVqQ7X1b8UNSlw3vz3INL-Q",
+          "title": "caa.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkf8FYc4PvlnMJKoECeUBRIiaWCZTkn1A5Lk6yV4CHV3dafeCmTG5Nd0Xdd7-wNaOklg-pw4Ncqbc_PEgy4IiqnTwa4VbYsJbSpPxIoLmC__m9gFdBh6hDYeiXm5YDZX5aw2dmOFJ7F4oA_aOgq8l6kFu30De5ryNZ_2OseaROSYJXAdWFkix-ZOhLMF3TbECur4=",
+          "title": "meti.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3CcJwhKUwiDj4zETJ9328LBQLjhoLIORChEFe9fsrzx_UKmqTqRoBK47yC3HrF9mRDYVUGmQWRWaUL2GRGDaWE1CiecahJIjuC50Zl7rThxpvlnd7v_iG8PM=",
+          "title": "limo.media"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMO9q4zW5zQiW_ZXdOlKO2YzU4-CdIxUXvtXQcydQP__nh7TWGC2FYAJPywcYNjJHBVAiSbFVw9Dzwwgg8MJc1IuCFnyq5a5hFr5YxYRMaMxj0q5uHljQMUubXBEqW",
+          "title": "instagram.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpF03psMDhbvF8QhFoablFTrSJ0hqtvZs_qeaO5jPkRqrPYzcxoYE-3A_Tnr_rJh2D0AQ8QPcAp0tBlejTYItkLtbIucYsqcDpF3SvBfcYJUNC0wKdfHzBVrSe2xyu7zjqBjkL_xUYbg_5XzlOydb582_xDkA_QeNiWQ==",
+          "title": "yahoo.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrxdscQ_VNbL8LGGu1MjWvlnFls-JZfg-dKrqchOguDz0v42NmyQ1JzFlCswk7Ogt_DlS8weWtNBfVJr0R7NgI9LrvH02iIoS3BjUArLXNWu3c0dYiS3ji2-1VulzcdJOWmreq0zA=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0Ibrl0tOxNlS3DWd8KwnvqkAlGmTkHhVFIXvtmE7gQewRsFvPP0VLPx45ECFlrpypM3aJymbVWEXX6n39ItVM1CP-oOKxAYJq4Y6iiWQFljLRsa7O4vAAiSjHcE0Ww7hTg==",
           "title": "discoverjapan-web.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbu0HzqWHKdO2PgrxH3Kq-NnPhgm1nR0izEpTcgAxVp8xtFrWbvNoNH8vFBA4KyMiQ8WfTm59es2BeqGq85_MAfhdFRemKl1OpVtmLlV5KtxrufW0FOg5_gbF0BEdwO4isWiUxREhHKL8=",
-          "title": "mie.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSj0kBjnniUFMPCeolXR8yQC6UZ0Yg1NjNuaObAUoPn64vLalI2ksq53pxrSJuNV3qJXyAuEYqLFceOZwWCfBooBpF9XSH0zk0tjvp9B8DM6DUzkLWSyc1btKZibx",
+          "title": "gifunoki.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjld3bLB6_zsxsy7Gw3gvd-fPEFHtQazVZrEH-7sTiHESBwUCXfKz-lCw7rkJoShVNVMHn3krr1yT-16xch2HLxAaAroSco2keRDBPYrKHuOHi710xrEfLiA1ixSYmoevdyp2gKvp-3WlYlBBwb-IUNG_Xc-7XakzP",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKdPQWKGZ-hr-5DD8rl0PMao7C54LQo0ck6lnX4xyDBqorH4uC_8w4q10-POmMSi7t3LpHPRRQ_Ocv0KCaLZRIVbqMmwwSqTsdYI7nDTA35v9Fimf7yFIp7Aw9uL1q08mrlBaFLVSMt63bGegeNjF53_HWQgEthNiaqx9NxpOEE2FLreg=",
+          "title": "alinamin-kenko.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH5iZWsTD69DSH_NnVJNetGmqKGDoopEDNakdPmIezORPRrqWBzvYxuVDIBJl04RBkynyp44WFT-ZTzfVm-CK_VEl0VpWGjJU7K4Vdvp4bMHh3-rqz-q6Y0wV45c5LBZV7ZAwM5o3OurEhIWM_8t27",
+          "title": "kurumatabi.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIp5cizuLZcG_xSdcUVtMrnucvASObeBrd21feZAeacYEmF5Nx9Iu8lCT_kuIEfsczJl-k6tob9ArQy0XSBG2JouljTyUGAPEra3MuxoNsc7OlBb-o0pesNQaIlf2bCwsFa6yBGE2ol2Ug5Mp17l1RjkxScBahQkaSzDaazvVhfN7ISmvmQD3YnJK",
           "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYFirdS-3MyUc1gIPcXr_-uXnrv3KP4lywn5jLnQd2PPKDvNbkU9gLh6AhzK8Yw4C45WEXgXEb8oeGr1vzAd4lgF2kySOqqUS9AHubkQMKhPWdCFJ4LB-2DA9bQb7wQcv-K4-VKgU-TNl9xNwcrKyPjYgYyXideii3JOw2ppPMUcHyWQ==",
-          "title": "hro.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECkE1RvQHDTkTZSEFD38FAHpykKnqz2YEaaGJBM5YP5qxRiUU8K4nAnTkdVJUAF_e60A6Z0jh26eXmKPBCKYOeSmKPTGxqs11wFIkM8nb_VkfYmoy5LRSFtKZ1MTjEtntEz0TgBOEkeMxWk-TZh5QuZcjxeikGISr41LyFs_8nxDhjMbfZthEO894=",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJHHkwfLh0-WW0vkX1ZiU3rK-SKeRTqc74TLvtkT5LVcJLgLGFiZgT4BEasodykEeJZQ7xqR1RuMrV9bUfBVXt-4eWf2rhewZJGiOt4a2U0v1Taw362iZkSGAVhM_cYBL0mHxG2rV2J3MU15ffp5w=",
-          "title": "eisai.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwDjYt1G_GlCjIKTMV-VX3j9a9VKvhbkMJ74t9RwrqoZHyhZkyDPKDclz2rW5Kk9X3wlX9X10KITu00TPmDH7IAwIIZUBpvV9bug7L4r28SiIL8J1IxQg607LxvUf_yUxHGkYa6CIOHs=",
+          "title": "mytabi.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHezMm0MZLcN7qcTKCc0kFngUe8_lY_Ii3jIul8hO3thUmDSO8io2UR1vJVzHDeMpZmftyxqgzPBwpWWoSDPO44szurnNBeAg_PceFucnSwGwrA0IyeNbe0HoVd0InWtoJ9uct8PnUjRqE8PwUnhTy-HD1_yTIRvEweIjM8aWQIuYuW5Nb3d0x4AA==",
-          "title": "takayama.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc6lXlhWttTsVn3W19QuUvXpJoSWBEvzbmX5_8kDPAJnyfzBahDDEwSubMd4JizI0lHcBzPqpOyxkDFFySI_3tm2CPaT1P_aRvUEfUCTpMiTZPVEpOhf0aAnzBOmnEUMYVJD1QP2gpH19q56mDWCvLfE1xWG0Gy00glKKzKgXHIeirk1-C0D_tLWpn",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7zboXeEDGQSqDb0dW2Hp2ba4HQTqq0g-1Kc9VdruM2OnWUOwjM77CFvXmSmBvJVj86PvGz33m_RsMk2k_oeL1W1rOvjpIfc6T-0bojK3bjiEr1wHGG-yh7g==",
-          "title": "gifunoki.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Vf4dZJDZ7Sw-AzBmF3imnftokf6KMceRDv-4gfNtSuPOhMuqWxd0QDzIxhB3nucPbxI3KgLgAv2tn5lniaWY3af1akMmXKWbZDWylfZDhHRXYzmybupg-RU=",
+          "title": "yoshima.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0HP3cPk7t6XMRgZboL8usONTxiyI8xs1XX0bF4WHGOCUdzkBIgaUab4t0K_gGmyavmeaPCSnpOm1-aeTF6RURkbeDv2nL5DedlyHwAZNfEcIGgFqWiBYLVDIqUPB_7gWA3RPeNQ==",
-          "title": "hidatakayama.ne.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLLDQfRdP18Vuhkw4LAKdDTPYCEaQwCNDiIzEqTMAWiLBVuL4Km47YZM-4pgC7DKrGm2gyfk-OCSk9xURrGPCXbSFRrjzmrUkIGpUQhkaYqdVECue5fP26bHG",
+          "title": "gifu-kiwami.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuhNt4dDphGnHk9Hpu5Y_RpfICPRt8_0m9Ta9ArnKvw8V27Rl0CUR8zZXEpu3X9RYO-NsmaK3TjSPAWzuYSiLHuzSE9YYEQ7WyrMmYkqtvFdtasxnqOY4g28_xB3SUt3ph1aQk",
-          "title": "hotel-around.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLzvpMg-sTydf_riT8k7O6tLEt7EDLYkARsR2sSNWX2DrakAoGz3R6o0LEiJlpkpC9akLdKbZf5D6T6UfAaEmkCCvIOGiLu1xJGCySqjgUOT_f02Ye4Js1craw9JO9vGmiZ9x_dM27VmVfduAzb63CtzVmD9eN",
+          "title": "imabari-kinsei.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-IQkIdQ9jMTj69WQxphDrO6uyGGKik0TDmJibsnAZhcs4nox9CpmfWiuJ8Z4httFrcgkIYFJP8CKrsrCUlfPGvq2gVObkTrJIqxPAjkE5eLcqyq2ygsI5UzNmhG-Bx_qJRq7zQjRgcqU=",
-          "title": "taniguchi-choukoku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT_1i3U_x4Yhjwfh6z4-wZWiYFD2Lgrzst2NaDuhvPEvBeTJhU_qOhVJkrtBKBpM_pBxEvm-2MZBKggrESLPY1vkjT4Of3H8FTg8xe8J4IFblM3miCmBdV-g==",
+          "title": "hiorie.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZIe5tI-6X_IVDEhE7OVOPvBqTLtvFYHwIHMcOmomycJX_xshP2UKah8DUynHL5nPGJT9AamucNlMCpeqQ3NuMSGqB20WvQ2z1dtUI-O_5MzGY9mmfl0xPgFjHMWY=",
-          "title": "hidasangyo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz1XPNPe_4Z-jZvspz3uI3-LDUPFRNhCnaydmVDM34ZlLNAAt18dYqEevT65VxMqYALPVIIOaQSNL5rAWHHthwS4hK_JcdDI_buH76F4rQ3xUY8CDXBbBvz-mLpH41d1BzgXgq5CdHrjV0rf9bb-A=",
+          "title": "imabari-towel.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYJ-d4A1uTdPsmfkAItLuN7OJJm_hoiZWq-G445hEBIx_uFsbKJsZqzJAz2GFmj_TkxuLweVcferxdGDJeMQfp7oiCZ2ZUuU-vk7oNzcPFFpCQh_GZzPxFZ_tw-MB5-sFv87ZiVZC8aIwJrlUblmBkgJEedETk0vUX7ZGIXoKZv282jy4im_Jmot8pQNcy6WEUYKKZ_rWZ0Hjo5kpsq-urEfIKURY-5KMvX4N-wLDjRIccy1lQ1gE=",
-          "title": "gifunoki.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbJfbeg3Mj_x0qZcNSgUn-2nwdXY1T8GN4U0xbUy8p4wiNsBp54MWeKM6U-1ev5NoYOHjCRCtfMc3dOpQurSXJ9-qBSwuSjtR-lNyIZcGQ4eGoEhWzl3rJUPjnEBIY_PCE3KJ6jVk_ew==",
+          "title": "grapee.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-bIwxSpAqFAStfEENGvuCkLlAxS7gnIx4xkd4-i7ahx7LsUKgku29p3LE7YpxfH_xV6v-aXJ5LFaLHWLT22bqxHjSIheEURyd5Q7YKdtLIqplyLXpveKpvirpoEmKlW7ODF2S-bqEa46K5MjSd_1q8ZG3y5-hpz0AH7zzxel_9T9vMxWmqkbQmnc6vlrVQPF4b3UBgFSznZ9_",
-          "title": "hida-center.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJp_pTZ1EieMMW8FoQUw9-TXiWwhiUEYO1rD3z8ISvaSj135cpBxKriEP7_jWY0UaUqxreveliY1gIyjoXHDtkQna2rG8V6AixbGAAi6J6fjEgpMWffew=",
+          "title": "hartwell.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeyGSN7GrBmIPuCiG-ma_y-E38QIhnqOJRQKRP2fs0WtnN5uK00X2ghjSZBN2bLA7LGDrz_lGUV95Ebd-5WbveuuhEgcQbhvk9q92V9Qwin4ixsZ41la7L1r9XoafpQDsVRKI2Qmzp48uuqN_k0Rd2HFjIBao6qBYtPEeYIDhWJB8tHBsO",
-          "title": "hidanokagu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWs5Q1l_ReFzk0h2gbYaBb54tMXMgfX-59nwq36RhwW1eBYC3exeaqU8R5aS8RTJ3xvSko3IUCho_g4MH_mYwUyojrA-GoZ7QY_YAqvtRPQhvv9qzcIHkooLPM017nCQ==",
+          "title": "tennenseikatsu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8To8IoNsO6j2m73CsfeF-6oPo-FW7jSNHfKcE4xg7pW3uAE4L3tjndZ2Bw4YwSU4QSKmdHGx0M-MxAqRQGKpIZITRq2yNh2UES-0KVnLOoum42HEozwyOlCjxf2-N",
-          "title": "lab-livi.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtXiA_yU3bW-G-YdKYpjhOpsCotTQoeN5ExsJYacfW13bLJlQixQoJct3vAYwMRbWt4k-jpIpfyXcQE43fVjaLrCTbmhFaANL3oKODfAM7yXYW0mEHf_ePzvNyNCkKbJql6gTkkexVX1C-jI1Yhp0uvvqDIR7kgVoGvo=",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshs-EsVL5V7P24xeKZshIHrHj7BaV1LbQaASRbJOmNA-iDA7y0jbGXgLXuoRebIjwx6n5SlhCgC9FGUBTbBAB1Dh_jrNDMOkMWBeulUUfJkJwdKbXakc=",
-          "title": "maruito.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbHLG423p7GbpAvhqUgs-kBuegti6XfNoL220dqsavXua3qKhAH16y2HVVgSH6eayp4IAYxwO3cpyazvTpHsxBHZPICXY5cyJfoAq_bATCVvZ6uEGsrygd27U3u1YxlrU9tfOIUz0=",
-          "title": "kankou-gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlDVfnnjBfVrqqA0LhSjg-WSR1Hlg5cc2J4xHJwCUpx8fMpLoA6t9AHO55RAP-EsrOF3E5q5_UxBfMvJlMEUCVDFfjl2953S0rAquwuuqSh62OYEKFucJ70GlbN6kxWxY=",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoYXDb8nTz4Nx4l7689Mg81J18SkMLsxbUP1HSBam1fzIa0cyTI8x0emrDZ705jIi0AGJNqGdXP54r-9g9azcTziZeVO4-PrapYY8Yiz_2r_dQpqNpaqmVhQ==",
-          "title": "nishigakinouen.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAajCjmW7QBF0v9b-KkHxAiy7X6DRA2OgJenoyeq22o-ruR-afrJlU-bcYwXbCrRpwqC83OelvXYmD_LKvN7ypVbbwlpkyze9_vL6sNCjFTAtZkfz2bQVtz-_b0P0urwOg",
-          "title": "gifu-np.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_i63fJBDxGBKUv6x6UKAkZcUSaqe9VNKoF9ReryW3aZAO53aZpTovraDDwgVUVPKM66fr7x-sehyJcAJ-tZiKB8oPuSKnhw8PbYG1fdDuNZojwBatfg==",
-          "title": "hanafru.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_i4mtdGTq_7QHIbavGQ-HPbykDgjkWygTHN_GglF_LyUcDb6XQc5hBEpesOd26jyde0iOUOU_dyhx5nPjOuYGFcjCuz1Vbb49k-Z2PAB8M2n5oVw=",
-          "title": "a-kaki.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQlQ-CPLkSX-zz_809lZ79bQiuJW7G_lpy5zhQnittFAcZCURfZdpgYkBXaObEmXO5V2rUsv1_3uVJzNBLHdyuIewCIp73fWnGL0DXhTk3IOUuNfU=",
+          "title": "i-ori.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 534,
-          "endIndex": 747,
-          "text": "朴（ホオノキ）の葉は、日本に自生する樹木の中で最大級の大きさを誇り、厚手で火に強く、食材を乗せて焼いても簡単には燃え抜けない性質を持っています"
-        },
-        "groundingChunkIndices": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 750,
-          "endIndex": 906,
-          "text": "さらに、葉そのものに爽やかな独特の芳香があり、包んだり焼いたりした食材に上品な風味を移してくれるためです"
+          "startIndex": 792,
+          "endIndex": 978,
+          "text": "一方、冷凍室は凍った食品自体が保冷剤の役目を果たし、食品同士がお互いを冷やし合うため、隙間がない方が冷気が逃げにくくなります"
         },
         "groundingChunkIndices": [
           0,
@@ -244,54 +282,30 @@
       },
       {
         "segment": {
-          "startIndex": 949,
-          "endIndex": 1117,
-          "text": "林野庁や森林総合研究所の資料によると、ホオノキの葉は長さが20〜40cm、幅も10〜25cmに達し、大人の顔よりも大きく育ちます"
+          "startIndex": 1017,
+          "endIndex": 1247,
+          "text": "**10月の食品値上げ動向**：帝国データバンクの「価格改定動向調査」によると、主要食品メーカー195社の飲食料品値上げは合計**3,153品目**（平均値上げ率10％）に上ります"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1250,
+          "endIndex": 1319,
+          "text": "3,000品目超えは9月（4,965品目）に続き2カ月連続です"
         },
         "groundingChunkIndices": [
           3,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1120,
-          "endIndex": 1190,
-          "text": "木自体の高さも20〜30メートルほどに達する高木です"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1365,
-          "endIndex": 1602,
-          "text": "木肌が緻密で狂いが少なく、刃先を傷めない（刃にやさしい）性質があることから、古くから「日本刀の鞘（さや）」や下駄の替え歯、版木、彫刻材などに重宝されてきました"
-        },
-        "groundingChunkIndices": [
-          1,
-          2,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1651,
-          "endIndex": 1819,
-          "text": "ホオノキの「ホオ」という名は、古来その大きな葉で食べ物を包んだことから「包（ほう）」に由来するという説が有力です"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1822,
-          "endIndex": 2092,
-          "text": "また、樹皮は「厚朴（こうぼく）」と呼ばれ、古くは平安時代の医書『医心方』にも登場し、現在も日本薬局方に収載される重要な生薬原料として飛騨などの山岳地帯で採集されてきた歴史があります"
+          "startIndex": 1322,
+          "endIndex": 1474,
+          "text": "分野別では「酒類・飲料」が1,399品目で最多、次いで「調味料」が820品目、「加工食品」が668品目となっています"
         },
         "groundingChunkIndices": [
           5
@@ -299,32 +313,86 @@
       },
       {
         "segment": {
-          "startIndex": 2353,
-          "endIndex": 2461,
-          "text": "飛騨の伝統工芸「一位一刀彫」の材料であり、岐阜県の県木でもある「イチイ」"
+          "startIndex": 1477,
+          "endIndex": 1600,
+          "text": "背景には中東情勢を受けた原油・ナフサ高、物流費や人件費の高騰、円安の影響があります"
         },
         "groundingChunkIndices": [
-          6,
-          7
+          3,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 2464,
-          "endIndex": 2803,
-          "text": "この名は、かつて飛騨の山から切り出した材で朝廷の儀礼用具である「笏（しゃく）」を作り天皇に献上した際、他の材より際立って優れていたことから、当時の最高位である官位「正一位（しょういちい）」を賜ったという言い伝えに由来しています"
+          "startIndex": 1606,
+          "endIndex": 1888,
+          "text": "**家計の節約効果**：経済産業省 資源エネルギー庁の試算によると、冷蔵室の食品を詰め込んだ状態から**半分（7割以下を目安）**に減らすだけで、年間で電気約43.84kWhの省エネ（**約1,360円の節約**）になります"
         },
         "groundingChunkIndices": [
-          6,
           7,
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1891,
+          "endIndex": 2022,
+          "text": "さらに設定温度を「強」から「中」に下げることで年間約61.72kWh（**約1,910円の節約**）となります"
+        },
+        "groundingChunkIndices": [
+          10,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 2846,
-          "endIndex": 3009,
-          "text": "イチイは非常に成長がゆっくりな針葉樹で、幹の直径（胸高直径）が約30cmに育つまでに100年近くかかると言われています"
+          "startIndex": 2044,
+          "endIndex": 2279,
+          "text": "一般社団法人日本冷凍食品協会や消費者庁も発信している通り、「冷蔵庫はスカスカ（7割以下）、冷凍庫はぎゅうぎゅう（8〜9割）」と**詰め方の正解が正反対**である点です"
+        },
+        "groundingChunkIndices": [
+          0,
+          10,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2282,
+          "endIndex": 2492,
+          "text": "冷凍庫は空きスペースが多いと扉を開けた際に一気に温かい空気が入り込んで電力を消費するため、凍った食材をすき間なく詰める方が節電につながります"
+        },
+        "groundingChunkIndices": [
+          0,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2944,
+          "endIndex": 3069,
+          "text": "* 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日公表）"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3072,
+          "endIndex": 3202,
+          "text": "* 経済産業省 資源エネルギー庁『家庭向け省エネ関連情報 無理のない省エネ節約（キッチン）』"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3205,
+          "endIndex": 3276,
+          "text": "* 消費者庁『グリーン志向消費：冷蔵庫を整理する』"
         },
         "groundingChunkIndices": [
           7
@@ -332,53 +400,19 @@
       },
       {
         "segment": {
-          "startIndex": 3057,
-          "endIndex": 3180,
-          "text": "一位一刀彫の作品には、樹齢400年〜500年を経た貴重な飛騨の銘木が使われることもあります"
+          "startIndex": 3279,
+          "endIndex": 3401,
+          "text": "* 一般社団法人日本冷凍食品協会『節電につながる冷凍庫内の冷凍食品の詰め方について』"
         },
         "groundingChunkIndices": [
-          9
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 3232,
-          "endIndex": 3452,
-          "text": "「一刀彫（いっとうぼり）」という名前から「1本のノミだけで彫り上げる」と誤解されがちですが、実際には職人が何十種類ものノミや小刀を使い分けて彫ります"
-        },
-        "groundingChunkIndices": [
-          10,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3455,
-          "endIndex": 3711,
-          "text": "外側の白っぽい部分（白太）と内側の赤みのある部分（赤太）の天然の2色のグラデーションを活かし、絵の具や塗料による着色を一切行わずに鋭い刃痕を残して仕上げるのが最大の特徴です"
-        },
-        "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3760,
-          "endIndex": 4052,
-          "text": "一位一刀彫の歴史は江戸時代末期、高山出身の根付（ねつけ）彫刻師・松田亮長（まつだ すけなが）が、着色せずイチイの素朴な美しさを活かした蛙や亀などの小さな根付を彫り始めたことから本格的に始まりました"
-        },
-        "groundingChunkIndices": [
-          6,
-          10,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4304,
-          "endIndex": 4469,
-          "text": "飛騨の木工家具の歴史は、今から約100年前、飛騨の山々にうっそうと生い茂っていた「ブナ」の有効活用から始まりました"
+          "startIndex": 3729,
+          "endIndex": 3937,
+          "text": "ホオノキ（朴の木）の葉自体に厚みがあり繊維が強靭で比較的耐火性があることに加え、**「味噌や具材の水分」が蒸発する際の潜熱冷却**が働くためです"
         },
         "groundingChunkIndices": [
           11,
@@ -387,31 +421,9 @@
       },
       {
         "segment": {
-          "startIndex": 4472,
-          "endIndex": 4688,
-          "text": "ブナは水分が多く乾燥させると反りや狂いが出やすいため、当時は「木に非（あ）ず（橅）」と書かれるほど役立たずの木とみなされ、山に放置されていました"
-        },
-        "groundingChunkIndices": [
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4731,
-          "endIndex": 4832,
-          "text": "飛騨産業の前身である中央木工株式会社が設立されたのは大正9年（1920年）"
-        },
-        "groundingChunkIndices": [
-          11,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4835,
-          "endIndex": 4918,
-          "text": "資本金3万円、社員わずか6人という小さな町工場の試みでした"
+          "startIndex": 3940,
+          "endIndex": 4183,
+          "text": "水分が蒸発する間は温度が100℃付近に保たれるため、下から火で炙られても葉が発火点（通常250〜300℃以上）まで上がらず、立ち上る水蒸気がシールドとなって燃焼を防いでいます"
         },
         "groundingChunkIndices": [
           11
@@ -419,19 +431,19 @@
       },
       {
         "segment": {
-          "startIndex": 4921,
-          "endIndex": 5116,
-          "text": "現在、高山市は市町村面積の約93%を森林が占め（森林率日本一クラスの広大な市）、家具製造業の出荷額でも全国上位の家具産地となっています"
+          "startIndex": 4220,
+          "endIndex": 4357,
+          "text": "ホオノキの葉は日本の落葉樹の中で最大級の大きさを誇り、長さ**20〜40cm**、幅**10〜25cm**にも達します"
         },
         "groundingChunkIndices": [
-          12
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 5165,
-          "endIndex": 5390,
-          "text": "家具用材としては見向きもされなかったブナですが、実は「高温の蒸気で蒸すと、驚くほどきれいに曲がる（曲木に適している）」という隠れた性質を持っていました"
+          "startIndex": 4360,
+          "endIndex": 4492,
+          "text": "葉が厚く、油分や水を通しにくい性質があり、枯れて乾燥しても破れにくい強靭さを持っています"
         },
         "groundingChunkIndices": [
           14,
@@ -440,21 +452,32 @@
       },
       {
         "segment": {
-          "startIndex": 5393,
-          "endIndex": 5585,
-          "text": "これに目をつけたことで、ドイツ発祥の曲木技術と「飛騨の匠」の卓越した手仕事が融合し、美しい曲線を描く椅子へと生まれ変わったのです"
+          "startIndex": 4514,
+          "endIndex": 4730,
+          "text": "朴葉味噌の葉は、単に「お皿や網の代わり」として便利なだけでなく、熱せられることで葉に含まれる特有の芳香成分が味噌に移り、豊かな風味を生み出します"
         },
         "groundingChunkIndices": [
-          11,
-          13,
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4733,
+          "endIndex": 4964,
+          "text": "またホオノキの葉には優れた抗菌・殺菌作用があるため、加熱調理だけでなく、朴葉寿司や朴葉餅のように食品を長持ちさせる包み材としても古くから活用されてきました"
+        },
+        "groundingChunkIndices": [
+          14,
+          15,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 5634,
-          "endIndex": 5733,
-          "text": "この一大産業のきっかけは、高山の上三之町にあった味噌屋の店先でした"
+          "startIndex": 4989,
+          "endIndex": 5185,
+          "text": "朴葉と日本人の歴史は極めて古く、6世紀の「王塚古墳」（福岡県）の玄室から出土した杯にもホオノキの葉が敷かれていたことが判明しています"
         },
         "groundingChunkIndices": [
           12
@@ -462,44 +485,138 @@
       },
       {
         "segment": {
-          "startIndex": 5736,
-          "endIndex": 6079,
-          "text": "大正9年、店を訪れた旅人（県外で曲木技術を学んだ職人兄弟）と味噌屋の店主が「ブナの木だって、工夫次第で立派な椅子になる」と雑談を交わしたことから、地元の有志が集まり、椅子など見たこともなかった職人たちが手探りで会社を立ち上げました"
+          "startIndex": 5188,
+          "endIndex": 5386,
+          "text": "また『万葉集』巻十六には、僧恵行が大伴家持に朴葉に盛った食べ物を贈った歌（「わが背子が捧げて持てるほほがしは…」）が収められています"
         },
         "groundingChunkIndices": [
-          12,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 6313,
-          "endIndex": 6535,
-          "text": "全国のスーパーや果物屋に並ぶ「富有柿（ふゆうがき）」は、明治時代に岐阜県旧本巣郡（現在の瑞穂市居倉）で誕生し、全国へ広まった岐阜県発祥の完全甘柿です"
+          "startIndex": 5389,
+          "endIndex": 5590,
+          "text": "冬の寒さが厳しい飛騨地方では、冬場に凍りついた味噌や漬物を朴葉にのせて囲炉裏で温めて食べた生活の知恵が「朴葉味噌」の起源とされています"
         },
         "groundingChunkIndices": [
-          16,
           17,
-          18
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 6578,
-          "endIndex": 6757,
-          "text": "日本に存在する柿の品種は約1000種におよびますが、富有柿はその中で国内栽培面積・生産量の第1位を誇る圧倒的な「柿の王様」です"
+          "startIndex": 5628,
+          "endIndex": 5697,
+          "text": "* 農林水産省『うちの郷土料理：朴葉味噌 岐阜県』"
         },
         "groundingChunkIndices": [
-          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5700,
+          "endIndex": 5786,
+          "text": "* 岐阜県林政部「ぎふの木ネット」『郷土料理「朴」の葉の話』"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5789,
+          "endIndex": 5916,
+          "text": "* Discover Japan『葉の爽やかな香りが食欲をそそる「ホオノキ」《暮らしの中にある木の図鑑》』"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6304,
+          "endIndex": 6675,
+          "text": "赤かぶの表皮に含まれる天然色素**「アントシアニン」**が、塩漬けの過程で生まれる**「植物性乳酸菌の酸」**に反応して鮮やかな赤色へ変化し、塩分で組織が緩んだ白い果肉へと染み込んでいくためです（理科の実験で使われるリトマス試験紙と同じ酸アルカリ反応の原理）"
+        },
+        "groundingChunkIndices": [
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6712,
+          "endIndex": 6834,
+          "text": "飛騨の赤かぶ漬けに使われる伝統野菜「飛騨紅かぶ」は、**10月〜12月上旬**に収穫されます"
+        },
+        "groundingChunkIndices": [
+          18,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6837,
+          "endIndex": 7055,
+          "text": "一般的な浅漬けは調味酢で短時間で酸味をつけますが、伝統的な製法では塩水に漬けて約**2カ月間**じっくりと低温発酵させ、乳酸菌の酸味と旨味を引き出します"
+        },
+        "groundingChunkIndices": [
           19,
           20
         ]
       },
       {
         "segment": {
-          "startIndex": 6760,
-          "endIndex": 6993,
-          "text": "一般的な果実は230〜280g程度、糖度は16〜19度と非常に甘く、岐阜県で袋掛け栽培された最高級ブランド「果宝柿」では350g以上、糖度18度以上の厳しい基準が設けられています"
+          "startIndex": 7077,
+          "endIndex": 7359,
+          "text": "「赤い漬物＝梅酢や赤しそ、食紅で色をつけている」と思われがちですが、本来の赤かぶ漬けの鮮やかなピンク色は、皮自身の色素と微生物（乳酸菌）の共同作業によって自発的に発色した完全な自然の色です"
+        },
+        "groundingChunkIndices": [
+          18,
+          21,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7384,
+          "endIndex": 7679,
+          "text": "飛騨紅かぶは、大正7年（1918年）に現在の高山市丹生川町（旧丹生川村）で栽培されていた赤紫色の「八賀（はちが）かぶ」の中から、農家が偶然発見した**1株の鮮紅色の突然変異株**を選抜・育成して広まったものです"
+        },
+        "groundingChunkIndices": [
+          22,
+          19,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7682,
+          "endIndex": 7880,
+          "text": "かつて山に囲まれ塩が貴重だった飛騨地域において、塩の使用量を抑えつつ長期保存するために編み出された乳酸発酵の知恵が受け継がれています"
+        },
+        "groundingChunkIndices": [
+          19,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8436,
+          "endIndex": 8535,
+          "text": "**正解**：**② 発酵で生まれた「乳酸菌の酸」に皮の色素が反応したから**"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8538,
+          "endIndex": 8704,
+          "text": "**解説トークの要点**：皮に含まれる紫色の色素「アントシアニン」は酸性に触れると鮮やかな赤色に変わる性質があります"
         },
         "groundingChunkIndices": [
           18,
@@ -508,101 +625,151 @@
       },
       {
         "segment": {
-          "startIndex": 7042,
-          "endIndex": 7360,
-          "text": "「富有（ふゆう）」と聞くと「お金持ちになる（富み有る）」という縁起担ぎのように思えますが、実は中国の古典『礼記（らいき）』にある「富有四海之内（四海の内を豊かに有す＝天下を治める）」という言葉から採られたものです"
+          "startIndex": 8707,
+          "endIndex": 8878,
+          "text": "塩漬けによって自然に増殖した乳酸菌が酸を作り出すことで、皮の色素が美しい赤に発色し、白い実全体を染め上げていきます"
         },
         "groundingChunkIndices": [
-          16,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7363,
-          "endIndex": 7474,
-          "text": "この柿が日本全国津々浦々に広まるように、という壮大な願いが込められています"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7523,
-          "endIndex": 7719,
-          "text": "富有柿の生みの親である福嶌才治（ふくしま さいじ）氏は、地元にあった「居倉御所」という甘柿の枝を接ぎ木し、品種改良に心血を注ぎました"
-        },
-        "groundingChunkIndices": [
-          16,
-          17,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7722,
-          "endIndex": 7852,
-          "text": "完全甘柿は寒さに敏感で、年平均気温が11.5度以上ないと自然に渋が抜けきらない性質があります"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7855,
-          "endIndex": 7966,
-          "text": "岐阜の平野部の絶妙な気候と福嶌氏の熱意が重なって、奇跡の甘柿が完成しました"
-        },
-        "groundingChunkIndices": [
-          16,
           18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8916,
+          "endIndex": 8994,
+          "text": "* 農林水産省『にっぽん伝統食図鑑：岐阜県 赤かぶ漬け』"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8997,
+          "endIndex": 9069,
+          "text": "* 農林水産省『うちの郷土料理：赤かぶ漬け 岐阜県』"
+        },
+        "groundingChunkIndices": [
           20
         ]
       },
       {
         "segment": {
-          "startIndex": 8735,
-          "endIndex": 8834,
-          "text": "ホオノキの木材は、軽くて狂いが少なく、適度な柔らかさを持っています"
+          "startIndex": 9072,
+          "endIndex": 9125,
+          "text": "* 岐阜県庁『岐阜の極み：飛騨紅かぶ』"
         },
         "groundingChunkIndices": [
-          1,
-          2,
-          4
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 8837,
-          "endIndex": 9065,
-          "text": "固い木だと大切な刀の刃を傷つけてしまいますが、ホオノキは「刃にやさしい木」として、古くから日本刀の鞘の内側や本体の材に一番適していると重宝されてきました"
+          "startIndex": 9438,
+          "endIndex": 9630,
+          "text": "洗濯機の脱水にかけると、強い遠心力で生地表面のループ状の繊維（パイル）が押し潰され、寝た状態のまま乾燥して硬化してしまうためです"
         },
         "groundingChunkIndices": [
-          1,
-          2,
-          4
+          23,
+          24
         ]
       },
       {
         "segment": {
-          "startIndex": 9068,
-          "endIndex": 9227,
-          "text": "下駄の歯や版画の版木などにも使われており、葉っぱだけでなく木そのものも日本の暮らしを支えてきた万能の木です"
+          "startIndex": 9633,
+          "endIndex": 9867,
+          "text": "また、柔軟剤は繊維の表面を油分でコーティングして滑りをよくするものなので、過度に使用すると繊維が油膜で覆われ、タオル本来の「吸水性」を著しく損ねてしまいます"
         },
         "groundingChunkIndices": [
-          1,
-          4,
-          5
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9904,
+          "endIndex": 10133,
+          "text": "今治タオル工業組合や各タオルメーカーによると、干す前にタオルの端を両手で持ち、上下に勢いよくバサバサと**「10回〜20回（最低でも3〜5回）」振る**のが効果的です"
+        },
+        "groundingChunkIndices": [
+          24,
+          28,
+          29
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10136,
+          "endIndex": 10301,
+          "text": "この動作で空気が送り込まれて寝ていたパイルが一本一本立ち上がり、乾いたときのふんわり感と厚みが格段に向上します"
+        },
+        "groundingChunkIndices": [
+          25,
+          23,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10323,
+          "endIndex": 10534,
+          "text": "「ふわふわに仕上げるなら柔軟剤」と考えがちですが、今治タオルの公式ガイドラインでは**「普段の洗濯では柔軟剤を使わないこと」**が推奨されています"
+        },
+        "groundingChunkIndices": [
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10537,
+          "endIndex": 10777,
+          "text": "使い続けると吸水性が落ちるだけでなく、パイル抜けや毛羽落ちの原因にもなるため、「数カ月使って少し硬くなってきたと感じたときにだけ、少量を使う」のがプロの知恵です"
+        },
+        "groundingChunkIndices": [
+          25,
+          30,
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11304,
+          "endIndex": 11402,
+          "text": "* 今治タオル公式『快適にタオルを使い続けるために（お手入れ方法）』"
+        },
+        "groundingChunkIndices": [
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11462,
+          "endIndex": 11528,
+          "text": "タオルメーカーが薦めるタオルのお手入れ方法』"
+        },
+        "groundingChunkIndices": [
+          27
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11531,
+          "endIndex": 11629,
+          "text": "* IKEUCHI ORGANIC『タオルソムリエに聞く、“タオルを長持ち”させる方法』"
+        },
+        "groundingChunkIndices": [
+          28
         ]
       }
     ],
     "webSearchQueries": [
-      "富有柿 発祥 岐阜県 瑞穂市 特徴",
-      "飛騨の家具 曲木 飛騨産業 ブナ 歴史",
-      "朴葉 朴の木 特徴 大きさ 葉 森林総合研究所 林野庁",
-      "一位一刀彫 イチイ 仁徳天皇 笏 岐阜県 由来"
+      "飛騨 赤かぶ漬け 乳酸発酵 アントシアニン 鮮やか 赤",
+      "ホオノキ 朴葉 朴葉味噌 岐阜県 耐火性 性質",
+      "資源エネルギー庁 省エネ 冷蔵庫 冷凍庫 詰め方",
+      "帝国データバンク 食品値上げ 10月 品目数",
+      "タオル 干す前に振る パイル 柔軟剤 今治タオル"
     ]
   }
 }
