@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T23:10:53.826Z",
+  "updated_at": "2026-10-20T00:19:03.391Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,70 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "サルやイノシシやシカに出会った時の注意事項",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/pet/hikitorijyouto/doubutuaigo/monkey.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T15:11:33+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "キャッシュレス決済",
+      "url": "https://www.city.anjo.aichi.jp/shisei/degital/cashless.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-19T13:53:18+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "あんくるバス",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/bus.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T12:56:44+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "プロポーザルの中止について",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/ankurubus/puropozaru.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T12:46:58+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "安城市観光案内所「ＫＥＹＰＯＲＴ（キーポート）」",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/keyport.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T12:00:12+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "子どもインフルエンザ予防接種",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/yobosessyu/kodomoinfluenza.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T11:37:04+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "あんじょう協働リビングラボ",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/siminkatudo/sankatokyodou/machidukuribito/r8livinglab.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T10:40:30+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "見つかるつながる(公開用）",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/koureisya/documents/documents/yukuefumei.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-19T10:30:43+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "本日開催！令和8年度安城市総合防災訓練について",
       "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/shitorikumi/kunren.html",
@@ -42,19 +106,27 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "要介護認定・要支援認定申請後の進捗状況の確認",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/youkaigoyoushienjoukyou.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-16T18:10:04+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公園リニューアル整備",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/koen/koenrenewal.html",
+      "summary": "",
+      "category": "文化・スポーツ",
+      "published_at": "2026-10-16T17:30:10+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "安城市保育士等人材バンク",
       "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoikuen/anjohoikuzinnzaibank.html",
       "summary": "",
       "category": "くらし",
       "published_at": "2026-10-16T16:38:48+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "サルやイノシシやシカに出会った時の注意事項",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/pet/hikitorijyouto/doubutuaigo/monkey.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-16T16:22:14+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -71,6 +143,14 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-10-16T15:58:37+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "不動産・空き家相談(無料)",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/sumai/hudosan-akiyasoudan.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-10-16T15:45:01+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -106,6 +186,14 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "見つかるつながるネットワーク",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/qr.html",
+      "summary": "このQRコードを身につけた高齢者が困っていたら連絡をお願いします。",
+      "category": "くらし",
+      "published_at": "2026-10-16T10:44:51+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "都市計画図等の販売",
       "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/toshikeikaku/hanbai.html",
       "summary": "",
@@ -130,19 +218,27 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "ワンストップ特例制度について",
+      "url": "https://www.city.anjo.aichi.jp/shisei/hurusato/furusatoonestop.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-10-16T08:56:20+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "令和8年度安城市中学生新人体育大会の実施について",
+      "url": "https://www.city.anjo.aichi.jp/manabu/gakko/chugakusei-taikai.html",
+      "summary": "例年、中学校単位で出場していた市内大会について、開催情報等を掲載しています。",
+      "category": "学び",
+      "published_at": "2026-10-15T21:58:29+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "公民館だより",
       "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkan2t.html",
       "summary": "",
       "category": "市政",
       "published_at": "2026-10-15T20:36:20+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "認定こども園",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/hoiku/ninteikodomoen.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-15T19:09:18+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -170,14 +266,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "障害者の福祉",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/shogai/index.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-15T16:15:24+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "安城市総合運動公園（タコ公園）タコとクジラの塗り直しについて",
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/koen/takokujira.html",
       "summary": "",
@@ -194,35 +282,11 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "モビリティマネジメント～「かしこい」バスの使い方～",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/ankurubus/mobilitymanagement.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-15T14:01:23+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "榎前一般廃棄物最終処分場の維持管理に関すること",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/gomi/enokimae.html",
-      "summary": "榎前一般廃棄物最終処分場の維持管理に関する記録",
-      "category": "くらし",
-      "published_at": "2026-10-15T13:23:59+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "12月分体育施設抽選会及び一般受付について",
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/tyusenkai-ipanuketuke1.html",
       "summary": "",
       "category": "文化・スポーツ",
       "published_at": "2026-10-15T11:45:53+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "休日夜間急病診療所（内科・小児科、歯科）",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/kenko/kyukyu/kyujitsushika.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-15T11:17:59+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -263,70 +327,6 @@
       "summary": "",
       "category": "文化・スポーツ",
       "published_at": "2026-10-15T09:58:32+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "市営住宅",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/sumai/shieijyutaku/index.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-14T17:19:03+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "自主グループ",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/shorin-kominkan4.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-14T17:12:13+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "アーバンスポーツ施設整備ワークショップを開催します！",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/urbansportsworkshop.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-10-14T17:07:18+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "保険・年金",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/hokennenkin/index.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-14T16:31:12+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "条例及び規則",
-      "url": "https://www.city.anjo.aichi.jp/shisei/denshikeijijyo/jyoreioyobikisokunokohubun.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-14T15:25:55+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "10月16日（金曜日）午後8時～午後9時の一部時間帯でホームページへの接続ができなくなります",
-      "url": "https://www.city.anjo.aichi.jp/shisei/jouhou-hassin/maintenance/261016.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-14T14:47:01+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "不動産・空き家相談(無料)",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/sumai/hudosan-akiyasoudan.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-14T11:53:22+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "行事・イベント",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/sakurai-kominkan7.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-14T10:25:38+09:00",
       "source": "安城市公式サイト"
     }
   ]
