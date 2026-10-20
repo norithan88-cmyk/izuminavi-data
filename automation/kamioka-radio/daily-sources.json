@@ -1,43 +1,41 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "暮らしの知恵・身近な工夫",
-  "characters": 2179,
+  "theme": "食べ物・台所の雑学",
+  "characters": 2191,
   "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "飛騨の赤かぶ漬けは塩だけで漬けるのに、なぜ中まで赤く染まるでしょうか。1番、天日干しで日焼けしたから。2番、乳酸菌の酸に皮の色素が反応したから。3番、みおんが夜中に赤い絵の具を塗りよるから。",
-    "answer": "正解は2番、乳酸菌の酸に皮の色素が反応したからでした！皮のアントシアニンが発酵の酸で赤く発色して染みるんやさ。3番のみおんは絵の具なんて塗っとらんし、そもそも夜も寝とらんやさ！",
+    "question": "飛騨のみたらし団子が甘くないのはなぜでしょうか。1番、冬は砂糖が凍るから。2番、甘い餡かけの方が大正時代の新作で古い形が残ったから。3番、団子自身が甘えるのをやめたから。",
+    "answer": "正解は2番！実は全国の甘辛い餡かけ団子の方が大正時代に京都で生まれた新作で、飛騨にはそれ以前の香ばしい醤油焼きの原型が残っとるんやさ！団子も私も甘やかされたいよね！",
     "source_ids": [
-      19,
-      20,
-      24
+      16,
+      19
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIp5cizuLZcG_xSdcUVtMrnucvASObeBrd21feZAeacYEmF5Nx9Iu8lCT_kuIEfsczJl-k6tob9ArQy0XSBG2JouljTyUGAPEra3MuxoNsc7OlBb-o0pesNQaIlf2bCwsFa6yBGE2ol2Ug5Mp17l1RjkxScBahQkaSzDaazvVhfN7ISmvmQD3YnJK",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECkE1RvQHDTkTZSEFD38FAHpykKnqz2YEaaGJBM5YP5qxRiUU8K4nAnTkdVJUAF_e60A6Z0jh26eXmKPBCKYOeSmKPTGxqs11wFIkM8nb_VkfYmoy5LRSFtKZ1MTjEtntEz0TgBOEkeMxWk-TZh5QuZcjxeikGISr41LyFs_8nxDhjMbfZthEO894=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLLDQfRdP18Vuhkw4LAKdDTPYCEaQwCNDiIzEqTMAWiLBVuL4Km47YZM-4pgC7DKrGm2gyfk-OCSk9xURrGPCXbSFRrjzmrUkIGpUQhkaYqdVECue5fP26bHG"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwRv2MlXDeXCupC9Y8NvnZ5fKvDlemq2CFxp8N5STzdrvKS4PPG98A_U_IehVEw396qXFuUJfD2Fgifm4L34ClZl_iv-TX5X_SC1zo9ZresqR4PL6tYEuHnFy1-Q=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG6vxtYU4y6jt8pbTlwIWB4m_uy1T1KRNVLJ3F0D5XKdSsNh5Yglj-wPSYlYfZNDuOhgL1mCPAweivoTjPp-ZcJhkQqrLDA2EcMtQnLXapdt7Wk_n6XsMfN1FtIA=="
     ]
   },
   "izumi": {
-    "text": "月曜の朝から線路の上を自転車で爆走したくなっとるみおんです！神岡の代名詞といえば、レールマウンテンバイクのガッタンゴーやさね。神岡鉄道は1984年10月1日に国鉄神岡線を引き継いで開業して、2006年12月1日に猪谷から奥飛騨温泉口までが廃止になったんやけど、翌年の2007年に地元の有志が線路を自転車で走る活動を始めたんやさ。きっかけがサイパン島で線路を自転車で走るツアーの体験だったっていうから驚きやろー！廃線になった翌年に南の島のアクティビティを山奥の線路に持ち込むなんて、今なら行動力ありすぎてバズるどころの騒ぎじゃないやさ。2011年からはNPO法人神岡・町づくりネットワークが運営しとるんやけど、まちなかコースは奥飛騨温泉口駅から神岡鉱山前駅までの往復5.8キロを40分から50分ほどかけて走るコース。神岡第1トンネルや第2トンネル、神岡橋梁を通るんやさ！普段は入れない真っ暗なトンネルをくぐり抜けて、高い鉄橋をガッタンゴットン渡る非日常感、たまらんやろー！2018年には旧漆山駅から二ツ屋トンネルまでの往復6.6キロの渓谷コースも増えて、今の自転車はすべて電動アシスト付き。神岡が誇るこの大冒険、全国に自慢したくなるやさね！",
+    "text": "神岡鉱山の地下千メートルにある東京大学宇宙線研究所の観測装置、カミオカンデ。ここ、とんでもない偉業を連発しとるんやさ！初代カミオカンデは千九百八十三年から千九百九十六年まで観測して、純水三千トンに光電子増倍管千本という規模でした。そして千九百八十七年二月二十三日、大マゼラン星雲の超新星爆発から飛んできたニュートリノを世界で初めてキャッチ！このものすごい成果で、小柴昌俊さんが二千二年にノーベル物理学賞を受賞しました。星の爆発を地下の暗闇で待つなんて、今なら気の長い話ってＳＮＳでバズりそうやろー！さらに千九百九十六年四月にはスーパーカミオカンデが始動。純水五万トン、光電子増倍管は約一万三千本とカミオカンデの約十六倍にパワーアップ！千九百九十八年に大気ニュートリノの観測からニュートリノ振動を発見して、当時の所長だった梶田隆章さんが二千十五年にノーベル物理学賞を受賞！小さな山の町からノーベル賞が二回も出とるなんて、すごすぎて笑っちゃうよね。二千二十年からはレアアースの一種を入れて新発見を狙っとるし、次は純水二十六万トン、光電子増倍管四万本のハイパーカミオカンデが二千年代後半の実験開始を目指す国際プロジェクトとして進行中！神岡の地下、世界の物理学を背負いすぎやさ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://tabi-mag.jp/gi0335/"
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
     ],
     "angle": {
-      "id": "gt-tunnel",
-      "hook": "線路の上をガッタンゴットン。トンネルと鉄橋を自転車で渡る非日常"
+      "id": "kk-nobel",
+      "hook": "小さな山の町から、ノーベル賞が2回。小柴さんと梶田さんの話"
     }
   },
   "local": {
-    "text": "10月24日に、神岡商工会議所でフリーマーケットのカミフリが開催されるんやさ！おうちで眠っとった日用品や掘り出し物に出会えるチャンスやね。不用品を譲り合うのも身近な工夫やさ。今週末の土曜日は、家族みんなで会場へ宝探しに行かまい！",
+    "text": "十月二十四日の土曜日に、神岡商工会議所でフリーマーケットの「カミフリ」が開催されるんやって！掘り出し物や思わぬお宝に出会えるチャンスかも。お散歩がてら覗いてみまい！",
     "source_ids": [
-      35
+      30
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/site/koho/88027.html"
@@ -45,235 +43,213 @@
   },
   "segments": [
     {
-      "topic": "食品値上げラッシュを撃退！冷蔵庫と冷凍庫の「真逆」な詰め方",
-      "text": "えっ、ちょっと待って！10月に入って食品の値上げが多すぎやしませんか！？主要食品メーカー195社だけで3,153品目も値上げって聞いてないんだけど！平均値上げ率10％で、調味料や飲料も上がっとるからまとめ買いで乗り切りたいところやさね。でも、安売りで買い込んだ食材を冷蔵庫にギッチギチに詰め込むのは、おとましい、もったいないことになりかねんのやさ！実は冷蔵室と冷凍室、省エネになる詰め方の正解が完全に正反対なんやよ。冷蔵室は冷気を循環させて冷やすから、すき間がないと冷えなくて余計な電気を食っちゃう。資源エネルギー庁の試算だと、冷蔵室を詰め込んだ状態から半分、7割以下を目安に減らすだけで、年間で電気約43.84キロワット時の省エネ、約1,360円の節約になるんやさ！設定温度を強から中に下げるだけでも年間約1,910円浮くらしいよ。ところが冷凍室は逆で、凍った食品同士がお互いを保冷剤みたいに冷やし合うから、すき間なく8割から9割ギッチギチに詰めるのが正解！空間があると、扉を開けた瞬間に暖かい空気が入って電力を浪費しちゃうんやさ。「冷蔵庫はスッカスカ、冷凍庫はギッチギチ」。これ、今日からすぐできる節約技として家族に自慢してみてな！",
+      "topic": "海なし県岐阜が全国シェア8割！細寒天日本一のミステリー",
+      "text": "台所にある寒天、あれの原料って海藻の天草やんね？海で採れるやつ！なのに、海がない岐阜県が、和菓子に使われる「細寒天」の全国シェア約八割を誇る日本一の産地なんやって！えっ、ちょっと待って、海がないのに海産物で日本一ってどういうこと！？って、みおん手がないから寒天棒も持てんのやけど！実は細寒天作りには、天草を煮溶かしたところてんを外に干して「凍らせて、溶かして、乾燥させる」っていう過酷な作業が必要なんです。そこで白羽の矢が立ったのが岐阜県の恵那市山岡町！ここは標高が高くて盆地だから、冬は昼間に十度くらいまで上がって氷が溶け、明け方には氷点下十度から十五度近くまでガッツリ冷え込んでカチコチに凍る！しかも雨や雪が少なくてカラッカラに乾燥しとる。つまり、大自然がまるごと超巨大なフリーズドライ工場になっとるわけやさ！寒天の始まりは江戸時代前期、京都の美濃屋太郎左衛門さんが、冬の夜に外へ放置したところてんの食べ残しが凍って乾いとるのを見つけた偶然の産物らしいよ。食べ残しをほったらかして大発見って、お母さんに怒られるどころか歴史的大ファインプレーやん！昼はポカポカ、夜は極寒っていう山里の気候をフル活用した知恵。今夜のお味噌汁に寒天を入れるときは、山岡の冷え込みに感謝して食べまい！",
       "source_ids": [
         2,
+        3,
         4,
-        9,
-        10
+        8
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHKshFmCUEGwWLCO-jf1kxeuoeYcCC48jJfwke7rtcBMUX1bMe7Lh-D59B6JbReLyecRid1RN01x7Ef7CW9IMHV_kTXvlBVketCK5pvzzIECuOl-0K2cbthi3FaP46Q_VnQyCiUNXbQQ-DnOOuze24efUWykk362oOGXxo56c4sC-yQbHcOg4Thlhb96bmRmj_WITgrkmkmWQ-xfJUyRm1ng1MBW9SE8Z2axFvLtr6V15E6erSk_7ZvrQ4JvD5C_RBfBAWQVRUFo3QygcJuqiXCKENm93_1gY9aJNAcTWSl_IONBqqrqrLq2Zlqi1M7FAIE9pGI_1PXdlf2foI-QeAv_b69M6hzp8Vhd34W2zSG9jxK-9jRwfs2mM6NHlJEL23JcHFFUI9",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6drWjlhTcIVbvw58_BNjfKvGfaHBsFEIXAuARlQg5RZpQDngAjtVcGuk73StDxXND7r5QDrC_jpWPyAxaXuLJ4gWhQDZoncQpJh-Hie5UWf4up2Ymfb3zRDy8k-bpAKmA1NN29Wr03Lz_CLVTBS-jXcs840G9CdQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnUMUWLBw402n0QNPYB2I3-wqBxRFRVO7egNZU79ACOtZ9qU8vcuNHUpnaZ1HZ8x-EA81FklaV90NQ9kEHgxmDino_xBvzD1jJo4fbPWMqGheFw3dKHUlxM0p9nIZjVY7P1qbYfpza6VOYmX61Y5kScI9PczDHxpUjESjnllyv2td6wMJMAl6tY3kQ4DsmmjMCFVqQ7X1b8UNSlw3vz3INL-Q",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkf8FYc4PvlnMJKoECeUBRIiaWCZTkn1A5Lk6yV4CHV3dafeCmTG5Nd0Xdd7-wNaOklg-pw4Ncqbc_PEgy4IiqnTwa4VbYsJbSpPxIoLmC__m9gFdBh6hDYeiXm5YDZX5aw2dmOFJ7F4oA_aOgq8l6kFu30De5ryNZ_2OseaROSYJXAdWFkix-ZOhLMF3TbECur4="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuNE6srFMH5rkUd7wZtx08bzgWlBOVvd8aL6KilnCnbVK0iTT4lrxpZLkrsGvaCX3IEXxVUOi8d1BMZg7xqeb-kgol8Iczc68jzeRxzIhH0jGVqiMgeMGiLtSZJfP3TBYZzaHKuLmw-eZAYszUYjjJR-lm5O29KwpDUB_-Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDZ3OdxNdOy3cZEf3Tug4cned4mv1jIJfeM84OB-Hfx7hA2ryJ1GZEVLqC960czvEWNPoL50UEb5iiFl9fKuVX55w_Of8vRMsjcbSPwSO4V7GauIQKgG4WXKhNn_xMnplUgA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNloFVqblqmFDQUoTUWFSkjm65YwFW0CxSGhIpw2A7s1plCk_38Mq9OZPcDr828TEq4v_eAAU73Fg7exJEqUVzJY1HNk4RNKBeenSCOo7MW6QGoy8JBF_fb36MzR3fEqwpPJ84tdS1cDwQoK63LnvL7W9i0Q038mj4-yHWtcqVH-Ea3KkETBiFyoalY1sRNPAfR34dSPA=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-kuSKkRWDV1sSm_TQVHoR_Lfm0zr31XDHNf2fy2ucgzxkaHVCZcTsc_43ggEoZ_K4czJhmepfLdCCHKtwKwMZNKQvYbKf7OtPjp9ncmMdUSjO7nrcztjh"
       ]
     },
     {
-      "topic": "なぜ朴葉味噌は燃えない？カサカサの枯れ葉が直火に耐える謎",
-      "text": "そういえば、食材の知恵といえば飛騨の定番料理、朴葉味噌もすごいんやさ。でも、データを調べていてみおん、思わず二度見しちゃったんやけど…あのカサカサに乾いた朴葉、なんで直火の上で味噌をジュージュー焼いとるのに燃え尽きないんけな！？紙なら一瞬で燃えカスやろー！枯れ葉を火に乗せるなんてだちかん、危なっかしいわ…ってツッコミ入れたくなったんやけど、ちゃんと科学の理由があったんやさ。ホオノキの葉っぱは長さ20から40センチ、幅10から25センチもあって日本の落葉樹で最大級！葉自体が分厚くて油分や水を通しにくい強靭な性質を持っとるんやけど、一番の秘密は「味噌の水分」なんやさ。火で炙られると味噌や具材の水分が蒸発するんやけど、そのときに熱をグングン奪う「潜熱冷却」っていう現象が起きるんやよ。水分が蒸発しとる間は葉の温度が100度付近に保たれるから、葉っぱが燃え出す発火点の250度から300度まで絶対に上がらんのやさ！立ち上る水蒸気が見えないシールドになって火から葉を守っとるってわけ。昔の人は冬に凍りついた味噌を朴葉に乗せて囲炉裏で温める中で、この大自然のハイテクを暮らしに取り入れとったんやね。枯れ葉一枚をフライパンにしちゃう飛騨の先人の知恵、今夜の食卓でドヤ顔で話してみてな！",
+      "topic": "着色料ゼロ！飛騨の赤かぶ漬けが中まで真っ赤に染まる科学マジック",
+      "text": "そういえば、食卓の真っ赤な名脇役、赤かぶ漬け！あの鮮やかなルビー色、見るからに美味しそうやけど、着色料もお酢も使わんと、塩で漬けただけで中まで赤く染まっとるって知っとった？うそでしょ、包丁で切った生の飛騨紅かぶって、皮だけ赤紫色で中は大根みたいに真っ白やさ！なのに漬物にすると芯まで真っ赤！これ、実は樽の中で起きとる化学マジックなんやさ。皮に含まれとるアントシアニンっていう色素は、酸性に傾くとパッと鮮やかな紅色に変わる性質があります。樽の中に塩を入れて漬け込むと、植物性の乳酸菌たちが糖分をモリモリ食べて、せっせと乳酸という酸を作り出すの。その酸に触れた色素が真っ赤に変身して、じわじわと白い果肉の奥深くまで染み渡っていくんだって！約二か月かけて乳酸菌がじっくり酸を生み出すから、あんなに綺麗に染まるんやさね。雑菌が増えたら酸が足りんで綺麗に赤くならんらしくて、乳酸菌の職人技に脱帽やわ。昔の飛騨は雪深い山奥で、富山湾から運ばれる塩がめちゃくちゃ貴重やったから、塩をケチりつつ冬を越すために乳酸菌の酸で保存する技を受け継いできたんやって。先人の知恵とおとましい精神の結晶やさ！…おとましい、もったいないって意味やけど、使い方合っとる？今夜赤かぶ漬けを見たら、樽の中の乳酸菌に拍手を送ってあげてね！",
       "source_ids": [
-        15,
-        16,
-        19
+        9,
+        12
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0Ibrl0tOxNlS3DWd8KwnvqkAlGmTkHhVFIXvtmE7gQewRsFvPP0VLPx45ECFlrpypM3aJymbVWEXX6n39ItVM1CP-oOKxAYJq4Y6iiWQFljLRsa7O4vAAiSjHcE0Ww7hTg==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSj0kBjnniUFMPCeolXR8yQC6UZ0Yg1NjNuaObAUoPn64vLalI2ksq53pxrSJuNV3qJXyAuEYqLFceOZwWCfBooBpF9XSH0zk0tjvp9B8DM6DUzkLWSyc1btKZibx",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIp5cizuLZcG_xSdcUVtMrnucvASObeBrd21feZAeacYEmF5Nx9Iu8lCT_kuIEfsczJl-k6tob9ArQy0XSBG2JouljTyUGAPEra3MuxoNsc7OlBb-o0pesNQaIlf2bCwsFa6yBGE2ol2Ug5Mp17l1RjkxScBahQkaSzDaazvVhfN7ISmvmQD3YnJK"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYQUJ4aq5cxPkxdNzvN2TosPVejBDobTTsdAwWyGLBa4ALpHqDA-kR1Q9S1VZqDWEiVoEM4R1iq1BDHgu8Ys3VR_wjs3VABzI2hDrC80rCSd-LfjOqW3hxA67HFwN1dNjh2dkAj3VCLP_hKKZbczhYewXFQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvOnOOL_SEso0_NiLuse9dKv_Mo9ogX2CZNvxenFxaZE6ofB5DDzVChhLoMgn5FBbMoP6nEwdnkcjK_GqTUqXuKURBu3hke9rC0Tk0zuho8GQSF5rWfdiw2ciWJRstiIaOnutVVj51Cg7Kb72vw_pbV3BoIHUgu9JJOo3gDoEgAoXHzRpKYMm7zO7"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ番組用に、リスナーが思わず家庭で話したくなる「暮らしの知恵・身近な工夫」に関する調査メモを作成しました。\n\n---\n\n# ラジオ制作用リサーチメモ：暮らしの知恵・身近な工夫\n\n---\n\n## 【1件目・家計の日】10月の食品値上げラッシュと、冷蔵室・冷凍室で「逆」になる詰め方の知恵\n\n### 疑問\n「秋の値上げラッシュを乗り切るため、食材をまとめ買いして保存したいけれど、冷蔵庫はどう使うのが一番電気代の節約になるの？」\n\n### 理由\n冷蔵室と冷凍室では、冷やす仕組みが異なります。冷蔵室は「冷気を循環させて」全体を冷やすため隙間が必要です。一方、冷凍室は凍った食品自体が保冷剤の役目を果たし、食品同士がお互いを冷やし合うため、隙間がない方が冷気が逃げにくくなります。\n\n### 具体的な数字や比較\n* **10月の食品値上げ動向**：帝国データバンクの「価格改定動向調査」によると、主要食品メーカー195社の飲食料品値上げは合計**3,153品目**（平均値上げ率10％）に上ります。3,000品目超えは9月（4,965品目）に続き2カ月連続です。分野別では「酒類・飲料」が1,399品目で最多、次いで「調味料」が820品目、「加工食品」が668品目となっています。背景には中東情勢を受けた原油・ナフサ高、物流費や人件費の高騰、円安の影響があります。\n* **家計の節約効果**：経済産業省 資源エネルギー庁の試算によると、冷蔵室の食品を詰め込んだ状態から**半分（7割以下を目安）**に減らすだけで、年間で電気約43.84kWhの省エネ（**約1,360円の節約**）になります。さらに設定温度を「強」から「中」に下げることで年間約61.72kWh（**約1,910円の節約**）となります。\n\n### 意外な点\n一般社団法人日本冷凍食品協会や消費者庁も発信している通り、「冷蔵庫はスカスカ（7割以下）、冷凍庫はぎゅうぎゅう（8〜9割）」と**詰め方の正解が正反対**である点です。冷凍庫は空きスペースが多いと扉を開けた際に一気に温かい空気が入り込んで電力を消費するため、凍った食材をすき間なく詰める方が節電につながります。\n\n### 歴史の裏話\n昭和30年代に「三種の神器」として電気冷蔵庫が普及し始めた当初は、冷気をファンで循環させる機能はなく、庫内の金属冷却器から自然に対流させる直冷式でした。当時は冷気を通す隙間を空けることが今以上に必須で、主婦雑誌などでも「詰め込み厳禁」が徹底して啓発されていました。\n\n> **出典・根拠資料**：\n> * 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日公表）\n> * 経済産業省 資源エネルギー庁『家庭向け省エネ関連情報 無理のない省エネ節約（キッチン）』\n> * 消費者庁『グリーン志向消費：冷蔵庫を整理する』\n> * 一般社団法人日本冷凍食品協会『節電につながる冷凍庫内の冷凍食品の詰め方について』\n\n---\n\n## 【2件目・飛騨の知恵】なぜ朴葉味噌は「枯れ葉」なのに火の上で燃えないのか？\n\n### 疑問\n「神岡や飛騨の定番料理『朴葉味噌』。カサカサに乾いた落ち葉の上に味噌をのせて直火で焼くのに、なぜ葉っぱは燃え尽きないの？」\n\n### 理由\nホオノキ（朴の木）の葉自体に厚みがあり繊維が強靭で比較的耐火性があることに加え、**「味噌や具材の水分」が蒸発する際の潜熱冷却**が働くためです。水分が蒸発する間は温度が100℃付近に保たれるため、下から火で炙られても葉が発火点（通常250〜300℃以上）まで上がらず、立ち上る水蒸気がシールドとなって燃焼を防いでいます。\n\n### 具体的な数字や比較\nホオノキの葉は日本の落葉樹の中で最大級の大きさを誇り、長さ**20〜40cm**、幅**10〜25cm**にも達します。葉が厚く、油分や水を通しにくい性質があり、枯れて乾燥しても破れにくい強靭さを持っています。\n\n### 意外な点\n朴葉味噌の葉は、単に「お皿や網の代わり」として便利なだけでなく、熱せられることで葉に含まれる特有の芳香成分が味噌に移り、豊かな風味を生み出します。またホオノキの葉には優れた抗菌・殺菌作用があるため、加熱調理だけでなく、朴葉寿司や朴葉餅のように食品を長持ちさせる包み材としても古くから活用されてきました。\n\n### 歴史の裏話\n朴葉と日本人の歴史は極めて古く、6世紀の「王塚古墳」（福岡県）の玄室から出土した杯にもホオノキの葉が敷かれていたことが判明しています。また『万葉集』巻十六には、僧恵行が大伴家持に朴葉に盛った食べ物を贈った歌（「わが背子が捧げて持てるほほがしは…」）が収められています。冬の寒さが厳しい飛騨地方では、冬場に凍りついた味噌や漬物を朴葉にのせて囲炉裏で温めて食べた生活の知恵が「朴葉味噌」の起源とされています。\n\n> **出典・根拠資料**：\n> * 農林水産省『うちの郷土料理：朴葉味噌 岐阜県』\n> * 岐阜県林政部「ぎふの木ネット」『郷土料理「朴」の葉の話』\n> * Discover Japan『葉の爽やかな香りが食欲をそそる「ホオノキ」《暮らしの中にある木の図鑑》』\n\n---\n\n## 【3件目・飛騨の知恵／クイズ対象】赤かぶ漬けは、なぜ酢も着色料も使わないのに中まで真っ赤に染まるのか？\n\n### 疑問\n「赤かぶの実は、切ると中は真っ白。甘酢や着色料を加えず塩だけで漬ける昔ながらの飛騨の赤かぶ漬けは、なぜ芯まで鮮やかな紅色に染まるの？」\n\n### 理由\n赤かぶの表皮に含まれる天然色素**「アントシアニン」**が、塩漬けの過程で生まれる**「植物性乳酸菌の酸」**に反応して鮮やかな赤色へ変化し、塩分で組織が緩んだ白い果肉へと染み込んでいくためです（理科の実験で使われるリトマス試験紙と同じ酸アルカリ反応の原理）。\n\n### 具体的な数字や比較\n飛騨の赤かぶ漬けに使われる伝統野菜「飛騨紅かぶ」は、**10月〜12月上旬**に収穫されます。一般的な浅漬けは調味酢で短時間で酸味をつけますが、伝統的な製法では塩水に漬けて約**2カ月間**じっくりと低温発酵させ、乳酸菌の酸味と旨味を引き出します。\n\n### 意外な点\n「赤い漬物＝梅酢や赤しそ、食紅で色をつけている」と思われがちですが、本来の赤かぶ漬けの鮮やかなピンク色は、皮自身の色素と微生物（乳酸菌）の共同作業によって自発的に発色した完全な自然の色です。\n\n### 歴史の裏話\n飛騨紅かぶは、大正7年（1918年）に現在の高山市丹生川町（旧丹生川村）で栽培されていた赤紫色の「八賀（はちが）かぶ」の中から、農家が偶然発見した**1株の鮮紅色の突然変異株**を選抜・育成して広まったものです。かつて山に囲まれ塩が貴重だった飛騨地域において、塩の使用量を抑えつつ長期保存するために編み出された乳酸発酵の知恵が受け継がれています。\n\n---\n\n### 【番組用3択クイズ】\n* **問題**：飛騨の伝統的な「赤かぶ漬け」は、切ると中が真っ白なかぶを塩だけで漬け込みます。では、着色料や酢を一切使わないのに、全体が鮮やかな紅色に染まるのはなぜでしょう？\n  * ① かぶを天日干しして、紫外線で日焼けさせたから\n  * ② 発酵で生まれた「乳酸菌の酸」に皮の色素が反応したから\n  * ③ 赤い色を出すために、小豆や唐辛子を一緒に漬け込んでいるから\n* **正解**：**② 発酵で生まれた「乳酸菌の酸」に皮の色素が反応したから**\n* **解説トークの要点**：皮に含まれる紫色の色素「アントシアニン」は酸性に触れると鮮やかな赤色に変わる性質があります。塩漬けによって自然に増殖した乳酸菌が酸を作り出すことで、皮の色素が美しい赤に発色し、白い実全体を染め上げていきます。\n\n> **出典・根拠資料**：\n> * 農林水産省『にっぽん伝統食図鑑：岐阜県 赤かぶ漬け』\n> * 農林水産省『うちの郷土料理：赤かぶ漬け 岐阜県』\n> * 岐阜県庁『岐阜の極み：飛騨紅かぶ』\n\n---\n\n## 【4件目・暮らしの工夫】タオルのゴワゴワを治す「干す前のひと手間」と柔軟剤の意外な落とし穴\n\n### 疑問\n「お気に入りのタオルが洗うたびにゴワゴワになってしまう…。柔軟剤をたっぷり使っているのになぜ？」\n\n### 理由\n洗濯機の脱水にかけると、強い遠心力で生地表面のループ状の繊維（パイル）が押し潰され、寝た状態のまま乾燥して硬化してしまうためです。また、柔軟剤は繊維の表面を油分でコーティングして滑りをよくするものなので、過度に使用すると繊維が油膜で覆われ、タオル本来の「吸水性」を著しく損ねてしまいます。\n\n### 具体的な数字や比較\n今治タオル工業組合や各タオルメーカーによると、干す前にタオルの端を両手で持ち、上下に勢いよくバサバサと**「10回〜20回（最低でも3〜5回）」振る**のが効果的です。この動作で空気が送り込まれて寝ていたパイルが一本一本立ち上がり、乾いたときのふんわり感と厚みが格段に向上します。\n\n### 意外な点\n「ふわふわに仕上げるなら柔軟剤」と考えがちですが、今治タオルの公式ガイドラインでは**「普段の洗濯では柔軟剤を使わないこと」**が推奨されています。使い続けると吸水性が落ちるだけでなく、パイル抜けや毛羽落ちの原因にもなるため、「数カ月使って少し硬くなってきたと感じたときにだけ、少量を使う」のがプロの知恵です。\n\n### 歴史の裏話\nタオルの起源は19世紀中頃、オスマン帝国（現在のトルコ）の宮廷用織物「ブルサ織り」とされています。日本には明治5（1872）年にイギリスから綿タオルが初めて輸入されましたが、当時はそのあまりの柔らかさと肌触りの良さから、体を拭く布ではなく**「首に巻くおしゃれな襟巻き（防寒マフラー）」**として紳士たちの間で大流行しました。\n\n> **出典・根拠資料**：\n> * 今治タオル公式『快適にタオルを使い続けるために（お手入れ方法）』\n> * 株式会社ハートウエル『ポイントは5つ！タオルメーカーが薦めるタオルのお手入れ方法』\n> * IKEUCHI ORGANIC『タオルソムリエに聞く、“タオルを長持ち”させる方法』",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、地元の食卓や身近な台所にまつわる「食べ物・台所の雑学」の調査メモを作成しました。神岡・飛騨地方や岐阜県にゆかりのある話題を中心に、一次資料・公的情報等をもとにまとめています。\n\n---\n\n### 調査メモ：食べ物・台所の雑学（4選）\n\n---\n\n#### 1. 海のない岐阜県が、全国シェア8割を誇る「細寒天」の日本一なのはなぜ？\n\n* **理由**  \n  寒天は海藻の「天草（てんぐさ）」を煮溶かしたところてんを、屋外で「凍結」と「乾燥」を繰り返して作られます。良質な細寒天を作るには、「昼は暖かく天気が良くて氷が溶け、夜から明け方は氷点下にしっかり冷え込んで凍る」という大きな寒暖差と、雪や雨が少ない乾燥した冬の気候が欠かせません。岐阜県恵那市山岡町は、標高が高く盆地特有の内陸気候であるため、寒天作りに理想的な気象条件を備えています。\n* **具体的な数字や比較**  \n  岐阜県（山岡町を中心とする地域）は、和菓子店などで使われる「細寒天（糸寒天）」の国内生産シェアの約80％を占める日本一の産地です。冬場の山岡町は、日中の気温が約10℃まで上がるのに対し、明け方には氷点下10℃〜15℃近くまで冷え込みます。また、角寒天（長野県が主産地）に比べて保水性・凝固強度が高く、高級羊羹などのプロの現場で重宝されています。\n* **意外な点**  \n  「海のない山里」で、海藻を原料とする海産加工品が日本一のシェアを誇っている点です。冬の田んぼが広がる内陸の山中に、白く輝く寒天がずらりと並ぶ天日干し（ロジ干し）の風景が広がります。\n* **歴史の裏話**  \n  寒天そのものの誕生は江戸時代前期（1650年代後半）、京都・伏見の旅館「美濃屋」の主人・美濃屋太郎左衛門が、冬の夜に屋外へ放置してしまった「ところてんの食べ残し」が偶然凍結乾燥していたことを発見したのが始まりと伝えられています。岐阜県には昭和初期に冬場の農家の副業として技術が導入され、地域の気候風土に見事に合致したことから一大産地へ発展しました。  \n  *【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）、恵那市観光協会「山岡細寒天」、山サ寒天産業公式資料*\n\n---\n\n#### 2. 飛騨名物「赤かぶ漬け」は、着色料ゼロなのになぜ中まで真っ赤に染まるのか？\n\n* **理由**  \n  生の飛騨紅かぶは、表面の皮だけが鮮やかな赤紫色で、包丁で切ると中は大根のように真っ白です。赤かぶの皮には「アントシアニン」という水溶性の植物色素が含まれています。樽に塩漬けして発酵が進むと、植物性乳酸菌が糖分を分解して「乳酸（酸）」を作り出します。アントシアニンは酸性に傾くと鮮やかな紅色に発色する性質があり、溶け出した赤い色素が白い果肉の内部へ徐々に浸透していくため、芯まで真っ赤に染まります。\n* **具体的な数字や比較**  \n  原料となる「飛騨紅かぶ（ひだべにかぶ）」は、大正7年（1918年）に高山市（旧上宝村などの八賀かぶ）の中から発見された突然変異株を選抜・固定した飛騨特有の伝統野菜です。11月頃の初冬に収穫・塩漬けされ、約2か月かけて乳酸菌がじっくり酸を生み出すことで鮮やかに熟成します。\n* **意外な点**  \n  酢や人工着色料を一切使わず、野菜と塩だけで漬けているにもかかわらず、自然の乳酸菌の力だけで鮮やかなルビー色に染め上がります。雑菌が繁殖してしまうと乳酸が十分に生成されず、綺麗な赤色になりません。\n* **歴史の裏話**  \n  かつて雪深く内陸に位置する飛騨地域では、富山湾などから歩荷（ぼっか）によって運ばれる塩は非常に貴重な品でした。そのため、塩の使用量を極力抑えつつ越冬用の保存食にする知恵として、寒冷下で乳酸菌の酸を利用して保存性を高める伝統の漬け込み技法が江戸時代から受け継がれてきました。  \n  *【根拠資料】農林水産省「うちの郷土料理：赤かぶ漬け（岐阜県）」、フジクリーン工業「水の話：発酵と微生物」*\n\n---\n\n#### 3. 飛騨高山・神岡の「みたらし団子」は、なぜ全国と違って甘くないのか？\n\n* **理由**  \n  全国的に親しまれている「みたらし団子」は、醤油・砂糖・葛粉を合わせた甘辛いトロトロの餡（葛餡）がたっぷりかかっています。しかし、飛騨地方のみたらし団子（地元では「みだらしだんご」と濁る）は、生醤油ダレを塗り、香ばしく直火で焼き上げるだけの素朴な醤油味です。飛騨の団子が甘くないのは、全国で主流の「甘辛いみたらし団子」が登場する前、生醤油のつけ焼きだった時代の“古来の製法”がそのまま現代まで守り継がれているためです。\n* **具体的な数字や比較**  \n  一般のみたらし団子は「串に団子が4個〜5個刺さり、甘い餡が絡んでいる」のに対し、飛騨の団子は「1串に5玉」刺され、甘みは米自体の甘みのみ、タレは醤油単体（または醤油をベースにした香ばしいタレ）を二度焼きして焦げ目を楽しみます。おやつというよりは、間食や軽食に近い位置づけです。\n* **意外な点**  \n  全国で見かける「甘辛いトロトロ餡のみたらし団子」の方が、実は大正時代に京都の甘味処「加茂みたらし茶屋」が砂糖醤油の餡を考案して全国に広まった“新しい改良型”です。飛騨の甘くないみたらし団子こそが、原初のスタイルを留めているといえます。\n* **歴史の裏話**  \n  みたらし団子のルーツは、平安時代から続く京都・下鴨神社の「御手洗（みたらし）祭」で氏子が神前に供えた厄除けの団子です。後醍醐天皇が境内の御手洗池で水をすくった際、最初にポコンと1つ、間を置いて4つの泡が浮き出た様子を団子に見立てたという伝承があります。京都から飛騨へと文化が伝わった時期が大正の餡かけブーム以前だったこと、また山里の気候風土に醤油の香ばしい焼き団子が定着したことなどが、甘くない団子が残り続けた理由とされています。  \n  *【根拠資料】小学館『日本一の団子』（サライ編集部編）引用解説資料、下鴨神社由緒関連資料*\n\n---\n\n#### 4. こんにゃくはなぜプルプルに固まるのか？（なぜ「灰汁」を入れるのか？）\n\n* **理由**  \n  こんにゃく芋に含まれる主要成分は「グルコマンナン（こんにゃくマンナン）」という水溶性の食物繊維です。グルコマンナンは水を含むと強力に粘り気を出しますが、そのまま冷やしてもゼリーのように固まることはありません。ここに草木を燃やした灰の上澄み液（灰汁）や水酸化カルシウムなどの「アルカリ性水溶液」を加えて加熱すると、グルコマンナン分子の一部（アセチル基）が外れる化学反応（脱アセチル化）が起きます。すると分子同士が複雑に架橋して網目構造を作り、抱え込んだ大量の水分を逃さない不可逆的な弾力ゲル（熱を加えても二度と溶けないプルプルの状態）に固まります。\n* **具体的な数字や比較**  \n  出来上がった板こんにゃくの成分の約97％は「水分」で、固形分（食物繊維など）はわずか約3％に過ぎません。凝固剤として使う水酸化カルシウムの量は、生芋の重さに対してわずか0.5％〜1％程度で固まります。生芋500gがあれば、板こんにゃくが約5〜6枚作れます。\n* **意外な点**  \n  生のこんにゃく芋には針状結晶の「シュウ酸カルシウム」が多く含まれており、少しかじっただけで口や喉が激しくチクチク痛んで腫れ上がるため、絶対に生では食べられません。昔の人は「強烈なエグ味（アク）を持つ植物を、草木灰の灰汁（アク）で煮ることで、毒抜きと凝固を同時に成し遂げる」という離れ業を編み出しました。\n* **歴史の裏話**  \n  平安時代中期の辞書『倭名類聚抄（わみょうるいじゅしょう）』（930年代）には、すでに「蒟蒻、其の根は白く、灰汁をもって煮れば、すなわち凝成す」と記されており、1000年以上前から灰汁で固める手法が確立していました。なお、生の芋は非常に腐りやすいため、江戸時代の安永5年（1776年）に常陸国の中島藤右衛門が芋を薄切りにして乾燥・粉末化する「精粉（せいこ）」の製法を発明するまでは、秋の収穫時期にしか食べられない季節限定の食べ物でした。  \n  *【根拠資料】一般財団法人日本こんにゃく協会「こんにゃく一口知識・作り方」、日本植物生理学会「みんなのひろば」*\n\n---\n\n### 番組用 3択クイズ案（「みたらし団子」より）\n\n**【問題】**  \n全国的には「甘辛いトロトロのタレ」が定番のみたらし団子ですが、飛騨地方では甘くない「香ばしい生醤油味」が定番です。では、なぜ飛騨のみたらし団子は甘くないのでしょうか？\n\n* **A：飛騨の寒冷地では、冬に砂糖が凍って固まってしまうから**\n* **B：甘辛いみたらし団子の方が大正時代に京都で生まれた“新作”で、飛騨にはそれ以前の古い原型がそのまま残ったから**\n* **C：江戸時代に飛騨を治めた代官が、贅沢を取り締まるために「甘味禁止令」を出したから**\n\n**【正解】**  \n**B：甘辛いみたらし団子の方が大正時代に京都で生まれた“新作”で、飛騨にはそれ以前の古い原型がそのまま残ったから**\n\n**【解説の一言】**  \n「実は全国でおなじみの甘い餡かけ団子は、大正時代に京都の茶屋が考案して大ヒットした比較的新しいスタイルなんです。それ以前の本来のみたらし団子は生醤油のつけ焼きで、飛騨地方にはその昔ながらの姿が大切に受け継がれています。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E8%B5%A4%E3%81%8B%E3%81%B6%E6%BC%AC%E3%81%91+%E4%B9%B3%E9%85%B8%E7%99%BA%E9%85%B5+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E9%AE%AE%E3%82%84%E3%81%8B+%E8%B5%A4&client=app-vertex-grounding&safesearch=active\">飛騨 赤かぶ漬け 乳酸発酵 アントシアニン 鮮やか 赤</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9B%E3%82%AA%E3%83%8E%E3%82%AD+%E6%9C%B4%E8%91%89+%E6%9C%B4%E8%91%89%E5%91%B3%E5%99%8C+%E5%B2%90%E9%98%9C%E7%9C%8C+%E8%80%90%E7%81%AB%E6%80%A7+%E6%80%A7%E8%B3%AA&client=app-vertex-grounding&safesearch=active\">ホオノキ 朴葉 朴葉味噌 岐阜県 耐火性 性質</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B3%87%E6%BA%90%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%BA%81+%E7%9C%81%E3%82%A8%E3%83%8D+%E5%86%B7%E8%94%B5%E5%BA%AB+%E5%86%B7%E5%87%8D%E5%BA%AB+%E8%A9%B0%E3%82%81%E6%96%B9&client=app-vertex-grounding&safesearch=active\">資源エネルギー庁 省エネ 冷蔵庫 冷凍庫 詰め方</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E5%80%A4%E4%B8%8A%E3%81%92+10%E6%9C%88+%E5%93%81%E7%9B%AE%E6%95%B0&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品値上げ 10月 品目数</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%82%AA%E3%83%AB+%E5%B9%B2%E3%81%99%E5%89%8D%E3%81%AB%E6%8C%AF%E3%82%8B+%E3%83%91%E3%82%A4%E3%83%AB+%E6%9F%94%E8%BB%9F%E5%89%A4+%E4%BB%8A%E6%B2%BB%E3%82%BF%E3%82%AA%E3%83%AB&client=app-vertex-grounding&safesearch=active\">タオル 干す前に振る パイル 柔軟剤 今治タオル</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F+%E7%81%B0%E6%B1%81+%E5%9B%BA%E3%81%BE%E3%82%8B+%E7%90%86%E7%94%B1+%E5%85%A8%E5%9B%BD%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A&client=app-vertex-grounding&safesearch=active\">こんにゃく 灰汁 固まる 理由 全国こんにゃく協同組合連合会</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1+%E3%81%BF%E3%81%9F%E3%82%89%E3%81%97%E5%9B%A3%E5%AD%90+%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84+%E7%90%86%E7%94%B1+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">飛騨高山 みたらし団子 甘くない 理由 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%B4%B0%E5%AF%92%E5%A4%A9+%E7%94%9F%E7%94%A3+%E6%97%A5%E6%9C%AC%E4%B8%80+%E7%90%86%E7%94%B1+%E5%B1%B1%E5%B2%A1%E7%94%BA&client=app-vertex-grounding&safesearch=active\">岐阜県 細寒天 生産 日本一 理由 山岡町</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E8%B5%A4%E3%81%8B%E3%81%B6+%E6%BC%AC%E7%89%A9+%E8%B5%A4%E3%81%8F%E3%81%AA%E3%82%8B+%E7%90%86%E7%94%B1+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E5%B2%90%E9%98%9C%E7%9C%8C&client=app-vertex-grounding&safesearch=active\">飛騨 赤かぶ 漬物 赤くなる 理由 アントシアニン 岐阜県</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHKshFmCUEGwWLCO-jf1kxeuoeYcCC48jJfwke7rtcBMUX1bMe7Lh-D59B6JbReLyecRid1RN01x7Ef7CW9IMHV_kTXvlBVketCK5pvzzIECuOl-0K2cbthi3FaP46Q_VnQyCiUNXbQQ-DnOOuze24efUWykk362oOGXxo56c4sC-yQbHcOg4Thlhb96bmRmj_WITgrkmkmWQ-xfJUyRm1ng1MBW9SE8Z2axFvLtr6V15E6erSk_7ZvrQ4JvD5C_RBfBAWQVRUFo3QygcJuqiXCKENm93_1gY9aJNAcTWSl_IONBqqrqrLq2Zlqi1M7FAIE9pGI_1PXdlf2foI-QeAv_b69M6hzp8Vhd34W2zSG9jxK-9jRwfs2mM6NHlJEL23JcHFFUI9",
-          "title": "reishokukyo.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuNE6srFMH5rkUd7wZtx08bzgWlBOVvd8aL6KilnCnbVK0iTT4lrxpZLkrsGvaCX3IEXxVUOi8d1BMZg7xqeb-kgol8Iczc68jzeRxzIhH0jGVqiMgeMGiLtSZJfP3TBYZzaHKuLmw-eZAYszUYjjJR-lm5O29KwpDUB_-Q==",
+          "title": "chuden.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC9mMFM1c7vgiFL0d5wsYuKDHf568TzQwWFJ0lmkExHmCCubMkUrNaRFODQKLowFPIBxEihDZIRMcRJJX_U_ms3BZKUKuWzxb4hE-bsW_g9yBDfWEuVxBrYSvc13WgSvmpFg==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDZ3OdxNdOy3cZEf3Tug4cned4mv1jIJfeM84OB-Hfx7hA2ryJ1GZEVLqC960czvEWNPoL50UEb5iiFl9fKuVX55w_Of8vRMsjcbSPwSO4V7GauIQKgG4WXKhNn_xMnplUgA==",
+          "title": "kankou-ena.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6drWjlhTcIVbvw58_BNjfKvGfaHBsFEIXAuARlQg5RZpQDngAjtVcGuk73StDxXND7r5QDrC_jpWPyAxaXuLJ4gWhQDZoncQpJh-Hie5UWf4up2Ymfb3zRDy8k-bpAKmA1NN29Wr03Lz_CLVTBS-jXcs840G9CdQ=",
-          "title": "tdb.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNloFVqblqmFDQUoTUWFSkjm65YwFW0CxSGhIpw2A7s1plCk_38Mq9OZPcDr828TEq4v_eAAU73Fg7exJEqUVzJY1HNk4RNKBeenSCOo7MW6QGoy8JBF_fb36MzR3fEqwpPJ84tdS1cDwQoK63LnvL7W9i0Q038mj4-yHWtcqVH-Ea3KkETBiFyoalY1sRNPAfR34dSPA=",
+          "title": "syouhyou-touroku.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe8fcrEzqfd5KbxhVYIyr8Qmvd5RD5Fg_LYVIDizfMXnoabPuOFkQ6onRrTOjM2HRPrjQelvU9-5WKSWgUZOQ7emZl_COnZ2BuGkRr32O5m3E6h3OmiJpwyWXKpj9ATR4HeBD4m4dWXjbpwn3jGejHR7hlmd5xIbxMPzuJGPANByouTRs3qNAGMP25LChVIhqakwFLMputaIJ00vJ9ifMDuKheC-AQwV0pP3ZKPQ1rxg1dx9yOkfvVheUDnPF_E7_5tjOAszLmyQanuLz42aCFltvDG6AB2LXx9xuVpyct8VR7pFMFxJXnukUSMl57x7NMbE0XdbizOK69djpE9Sax_By7QzXPsMIQ0OzRpE4e-06bzHwu19wgn0Wh-SCWQJm3N8xt",
-          "title": "tdb.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS8Y7GR9CrG3gjW2WV4wku0bO4qTxzZbt4Z6xnw21cQFo7zCuklLCH8MNC4N4U9BVZU17z4f2HhdXcerxBKx-o8b_EsEwwZjj5xQs9lb9Df0BUkwMC35eeNjTw9s6e9bTWYfMILHuASEbo",
+          "title": "intojapanwaraku.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0sKm4P74H_n_L3TQwqZGAnPV-cQLWwZHxhHdE7ifh1he_dR7sdx36NNKfMLoLsYxKQ3O-1UuXY3CatcKbTmox2m1K5GrlNtJL6ES45sbN9FnlzQtZrw5VaN8N",
-          "title": "officenomikata.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Qa4q86EZgEQKlhlFahKJafV-NDh8C3CepCN6TPa5dZN6lNYf0j8QW9ks1W0lkjwFQJ5FJqdp0-WqCnbjGRgm-04zOaCtNiZp0B5md5XPtvCpN4zU3mNQk6ryf6crregVY59vU_AeiYTdrVjN",
+          "title": "gyosei.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlL9HDv3NfpiiZLGUd1LHhpFTnofbK22xs9bLQND1MR_yVYP7TjyJfnLQ6lyFMbG6QRroyPvx_jRWXwSkqy_l-8gIO7EwuELYegctOTmjsO6OTbUcM6hnbcOCKOBjgrOLhTVGOxQAIQ8_iZY4lfUYEz0trQg==",
-          "title": "mediadogs.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhp1cyB0nrgSbMB3c_meldohB23KVj2yVirNOGFceILIUPWxaSVX39ktPMAFvWC7Jk7ZTMuZDVkZ2aC3iX9EUzsm0gy0WWgj5JlUdymx3DXzUKnd-ZmR6rzGdkuQMdvS3P",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLVIHmdLE7lBEQPh0VnY5IC677BDRAGsJnQJFu6hok_MPx-WwfTm8PqLraylPEkOHk2xBTb4fkkwMscr2OVSEoTnfrwek6mhgEAO5TmrZE7aRRfUheJH_pkXPgyPybhA==",
-          "title": "kankokeizai.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-kuSKkRWDV1sSm_TQVHoR_Lfm0zr31XDHNf2fy2ucgzxkaHVCZcTsc_43ggEoZ_K4czJhmepfLdCCHKtwKwMZNKQvYbKf7OtPjp9ncmMdUSjO7nrcztjh",
+          "title": "yamasa-kanten.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOnUMUWLBw402n0QNPYB2I3-wqBxRFRVO7egNZU79ACOtZ9qU8vcuNHUpnaZ1HZ8x-EA81FklaV90NQ9kEHgxmDino_xBvzD1jJo4fbPWMqGheFw3dKHUlxM0p9nIZjVY7P1qbYfpza6VOYmX61Y5kScI9PczDHxpUjESjnllyv2td6wMJMAl6tY3kQ4DsmmjMCFVqQ7X1b8UNSlw3vz3INL-Q",
-          "title": "caa.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYQUJ4aq5cxPkxdNzvN2TosPVejBDobTTsdAwWyGLBa4ALpHqDA-kR1Q9S1VZqDWEiVoEM4R1iq1BDHgu8Ys3VR_wjs3VABzI2hDrC80rCSd-LfjOqW3hxA67HFwN1dNjh2dkAj3VCLP_hKKZbczhYewXFQ==",
+          "title": "fujiclean.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkf8FYc4PvlnMJKoECeUBRIiaWCZTkn1A5Lk6yV4CHV3dafeCmTG5Nd0Xdd7-wNaOklg-pw4Ncqbc_PEgy4IiqnTwa4VbYsJbSpPxIoLmC__m9gFdBh6hDYeiXm5YDZX5aw2dmOFJ7F4oA_aOgq8l6kFu30De5ryNZ_2OseaROSYJXAdWFkix-ZOhLMF3TbECur4=",
-          "title": "meti.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAYi_GmO_3DbzDUYXA25aiudvxViAN72s-EjwfNse7lBi1o55P0bVYRKyXS9eP5UkeHnYmGPk3zHFPDcTre0sUZax1vvil_n1ozK_dxDce4ss_3rxdjTdYt-8xWiw=",
+          "title": "kantoko.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3CcJwhKUwiDj4zETJ9328LBQLjhoLIORChEFe9fsrzx_UKmqTqRoBK47yC3HrF9mRDYVUGmQWRWaUL2GRGDaWE1CiecahJIjuC50Zl7rThxpvlnd7v_iG8PM=",
-          "title": "limo.media"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHo4KEKAEthMUpXy_lnJuCkXt7YQuBpWedw8Rr7OPmxtI4wQBVCzHgyFDb8iQRLZUImbnJM07Z9HGQYsJ9n0h-T6eV-fCsAU2nRU9fmnOW8cl95nWEYz_ejFO7TK-iZw==",
+          "title": "kameya-foods.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMO9q4zW5zQiW_ZXdOlKO2YzU4-CdIxUXvtXQcydQP__nh7TWGC2FYAJPywcYNjJHBVAiSbFVw9Dzwwgg8MJc1IuCFnyq5a5hFr5YxYRMaMxj0q5uHljQMUubXBEqW",
-          "title": "instagram.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpF03psMDhbvF8QhFoablFTrSJ0hqtvZs_qeaO5jPkRqrPYzcxoYE-3A_Tnr_rJh2D0AQ8QPcAp0tBlejTYItkLtbIucYsqcDpF3SvBfcYJUNC0wKdfHzBVrSe2xyu7zjqBjkL_xUYbg_5XzlOydb582_xDkA_QeNiWQ==",
-          "title": "yahoo.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrxdscQ_VNbL8LGGu1MjWvlnFls-JZfg-dKrqchOguDz0v42NmyQ1JzFlCswk7Ogt_DlS8weWtNBfVJr0R7NgI9LrvH02iIoS3BjUArLXNWu3c0dYiS3ji2-1VulzcdJOWmreq0zA=",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA0Ibrl0tOxNlS3DWd8KwnvqkAlGmTkHhVFIXvtmE7gQewRsFvPP0VLPx45ECFlrpypM3aJymbVWEXX6n39ItVM1CP-oOKxAYJq4Y6iiWQFljLRsa7O4vAAiSjHcE0Ww7hTg==",
-          "title": "discoverjapan-web.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZSj0kBjnniUFMPCeolXR8yQC6UZ0Yg1NjNuaObAUoPn64vLalI2ksq53pxrSJuNV3qJXyAuEYqLFceOZwWCfBooBpF9XSH0zk0tjvp9B8DM6DUzkLWSyc1btKZibx",
-          "title": "gifunoki.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKdPQWKGZ-hr-5DD8rl0PMao7C54LQo0ck6lnX4xyDBqorH4uC_8w4q10-POmMSi7t3LpHPRRQ_Ocv0KCaLZRIVbqMmwwSqTsdYI7nDTA35v9Fimf7yFIp7Aw9uL1q08mrlBaFLVSMt63bGegeNjF53_HWQgEthNiaqx9NxpOEE2FLreg=",
-          "title": "alinamin-kenko.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH5iZWsTD69DSH_NnVJNetGmqKGDoopEDNakdPmIezORPRrqWBzvYxuVDIBJl04RBkynyp44WFT-ZTzfVm-CK_VEl0VpWGjJU7K4Vdvp4bMHh3-rqz-q6Y0wV45c5LBZV7ZAwM5o3OurEhIWM_8t27",
-          "title": "kurumatabi.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFIp5cizuLZcG_xSdcUVtMrnucvASObeBrd21feZAeacYEmF5Nx9Iu8lCT_kuIEfsczJl-k6tob9ArQy0XSBG2JouljTyUGAPEra3MuxoNsc7OlBb-o0pesNQaIlf2bCwsFa6yBGE2ol2Ug5Mp17l1RjkxScBahQkaSzDaazvVhfN7ISmvmQD3YnJK",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvOnOOL_SEso0_NiLuse9dKv_Mo9ogX2CZNvxenFxaZE6ofB5DDzVChhLoMgn5FBbMoP6nEwdnkcjK_GqTUqXuKURBu3hke9rC0Tk0zuho8GQSF5rWfdiw2ciWJRstiIaOnutVVj51Cg7Kb72vw_pbV3BoIHUgu9JJOo3gDoEgAoXHzRpKYMm7zO7",
           "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECkE1RvQHDTkTZSEFD38FAHpykKnqz2YEaaGJBM5YP5qxRiUU8K4nAnTkdVJUAF_e60A6Z0jh26eXmKPBCKYOeSmKPTGxqs11wFIkM8nb_VkfYmoy5LRSFtKZ1MTjEtntEz0TgBOEkeMxWk-TZh5QuZcjxeikGISr41LyFs_8nxDhjMbfZthEO894=",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1XACpDwDIJqUOBUiT5smJRAKvoTLeuMtIHZFzKGhLDI6HftlBaZkniKyYIhH4k5CmfqUWaTKK3Vcg65yi3cHA-sz0WIVIPxVizgaTjRo1YaTpCJ5OL48Mq2mohUT9hetDjpl6KFE3BDF0je16Isg=",
+          "title": "tobaya.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDwDjYt1G_GlCjIKTMV-VX3j9a9VKvhbkMJ74t9RwrqoZHyhZkyDPKDclz2rW5Kk9X3wlX9X10KITu00TPmDH7IAwIIZUBpvV9bug7L4r28SiIL8J1IxQg607LxvUf_yUxHGkYa6CIOHs=",
-          "title": "mytabi.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGc6lXlhWttTsVn3W19QuUvXpJoSWBEvzbmX5_8kDPAJnyfzBahDDEwSubMd4JizI0lHcBzPqpOyxkDFFySI_3tm2CPaT1P_aRvUEfUCTpMiTZPVEpOhf0aAnzBOmnEUMYVJD1QP2gpH19q56mDWCvLfE1xWG0Gy00glKKzKgXHIeirk1-C0D_tLWpn",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Vf4dZJDZ7Sw-AzBmF3imnftokf6KMceRDv-4gfNtSuPOhMuqWxd0QDzIxhB3nucPbxI3KgLgAv2tn5lniaWY3af1akMmXKWbZDWylfZDhHRXYzmybupg-RU=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-vYRlZQjoWLASlDD9efaMhyXig4SgiHzp-NunHKzC65I3QZwVpNZ5GBHeFCN_Zu8kMKV__6D-Gm1J2az3UXwvHmzsHA8NufBSltwNm0gPwYRMnuJSxiTyVC4=",
           "title": "yoshima.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErLLDQfRdP18Vuhkw4LAKdDTPYCEaQwCNDiIzEqTMAWiLBVuL4Km47YZM-4pgC7DKrGm2gyfk-OCSk9xURrGPCXbSFRrjzmrUkIGpUQhkaYqdVECue5fP26bHG",
-          "title": "gifu-kiwami.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq1mM32yeuR1Jhn4LQepNlX151JDrmqXOmtVNnC3UWyffR2c9J24MMuAQo7vl5Wm5wBQDg8yeQX82YdEfdEcIwX5Upi6K00OHdoPk593lZVeqJ0BlAXU2hGBwc9TE9",
+          "title": "menma825.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLzvpMg-sTydf_riT8k7O6tLEt7EDLYkARsR2sSNWX2DrakAoGz3R6o0LEiJlpkpC9akLdKbZf5D6T6UfAaEmkCCvIOGiLu1xJGCySqjgUOT_f02Ye4Js1craw9JO9vGmiZ9x_dM27VmVfduAzb63CtzVmD9eN",
-          "title": "imabari-kinsei.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwRv2MlXDeXCupC9Y8NvnZ5fKvDlemq2CFxp8N5STzdrvKS4PPG98A_U_IehVEw396qXFuUJfD2Fgifm4L34ClZl_iv-TX5X_SC1zo9ZresqR4PL6tYEuHnFy1-Q=",
+          "title": "japaaan.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT_1i3U_x4Yhjwfh6z4-wZWiYFD2Lgrzst2NaDuhvPEvBeTJhU_qOhVJkrtBKBpM_pBxEvm-2MZBKggrESLPY1vkjT4Of3H8FTg8xe8J4IFblM3miCmBdV-g==",
-          "title": "hiorie.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECFmN55-7A2Hu67r0txDpCGExTdwBlBYIhDiuLJRTLRrHrloyBreNkIW10mmnyHxxpl7gKJqNEULIk1S-Pch_jXdjKiBVosHM06ySGMZeEd_6FV8oYtmFJdEJqsGJP--SRcQrL",
+          "title": "hotel-around.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz1XPNPe_4Z-jZvspz3uI3-LDUPFRNhCnaydmVDM34ZlLNAAt18dYqEevT65VxMqYALPVIIOaQSNL5rAWHHthwS4hK_JcdDI_buH76F4rQ3xUY8CDXBbBvz-mLpH41d1BzgXgq5CdHrjV0rf9bb-A=",
-          "title": "imabari-towel.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw_Q3EL7bjFxKyVvzt78IsR-xSf7CfUnzWX6kaPUOrdvDvXPPH9cc6UiQziTzlSyKEgCaMvJb8QVTBjmGJKs7Zqmtl6o4aXu4CFNC2BKKSWYfu8mTY4HVXE2U7fLBj-l1jn38WiusK0m4vIdyQ",
+          "title": "takayama-gh.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbJfbeg3Mj_x0qZcNSgUn-2nwdXY1T8GN4U0xbUy8p4wiNsBp54MWeKM6U-1ev5NoYOHjCRCtfMc3dOpQurSXJ9-qBSwuSjtR-lNyIZcGQ4eGoEhWzl3rJUPjnEBIY_PCE3KJ6jVk_ew==",
-          "title": "grapee.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG6vxtYU4y6jt8pbTlwIWB4m_uy1T1KRNVLJ3F0D5XKdSsNh5Yglj-wPSYlYfZNDuOhgL1mCPAweivoTjPp-ZcJhkQqrLDA2EcMtQnLXapdt7Wk_n6XsMfN1FtIA==",
+          "title": "mitarashi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJp_pTZ1EieMMW8FoQUw9-TXiWwhiUEYO1rD3z8ISvaSj135cpBxKriEP7_jWY0UaUqxreveliY1gIyjoXHDtkQna2rG8V6AixbGAAi6J6fjEgpMWffew=",
-          "title": "hartwell.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF017UKm-1yO7l8NvyXm30i_Xk1hWlJRqAsRRP4FjjH1Xfoc-HqzaMa4V9yzxx8LvYcRS1_BftnTuZ83MuN3eDYJlzwur9gd3Gpc2YpsQueC6yvxBB0N-oQR7nVCjosekiHhaXisA==",
+          "title": "koikef.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWs5Q1l_ReFzk0h2gbYaBb54tMXMgfX-59nwq36RhwW1eBYC3exeaqU8R5aS8RTJ3xvSko3IUCho_g4MH_mYwUyojrA-GoZ7QY_YAqvtRPQhvv9qzcIHkooLPM017nCQ==",
-          "title": "tennenseikatsu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF97HaohuzctqkIMa4j9gxU2TYkR595ih8vGtLcolThD9pv2yUcHqb_KWn2OCRDRp5mJK35X5mFx7DLN8U1UL0ipXl2u9IA-G7g9TszaviYI5vuTWy5vho3Ni3kOVfvAtgpoj4=",
+          "title": "gooudango.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtXiA_yU3bW-G-YdKYpjhOpsCotTQoeN5ExsJYacfW13bLJlQixQoJct3vAYwMRbWt4k-jpIpfyXcQE43fVjaLrCTbmhFaANL3oKODfAM7yXYW0mEHf_ePzvNyNCkKbJql6gTkkexVX1C-jI1Yhp0uvvqDIR7kgVoGvo=",
-          "title": "yahoo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaFd97MkQWEEqoeeW_z5wVcmQUv_Of3viO-LYaM4jl-eiYvDFuMJAnJZ2hNW1JRFDEF7E2OV-8nqD7FyzwO2mmpp5QaHUHaXfuHRuuu6W4jd-5ddVj-PTG",
+          "title": "raku-uru.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQlQ-CPLkSX-zz_809lZ79bQiuJW7G_lpy5zhQnittFAcZCURfZdpgYkBXaObEmXO5V2rUsv1_3uVJzNBLHdyuIewCIp73fWnGL0DXhTk3IOUuNfU=",
-          "title": "i-ori.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwW5eZWlKXfnmmX17tgMeC_H4uVEjH13OYLum4pU5DzDDx9sb_OFkS15ekzvpTHek-DvSlF6yj5rGw8JBnpg2P99i0GQIoGIIHJJ9JHJuCy77RRJc4vHWuXVzG",
+          "title": "konnyaku.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs5JKtaFuHwsAq_nQnI8C4aUR4kB4iErB4ZFy3AibxtrrT1-SQbfPebE7uuJzes5pojJbWBPky-V95i631UlPWKJWvWK4L8-ytRyJ6eZiG4HUIIZrk2rG_cf1he1n2WhaSzvUs",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsfBpLRnINEQt2n-JkeLO1qWwXbShz6T7SosBRkj3qrAcVpsK2bm7AmgWLdJJfy4B_iovMOVYpeYdyCWRRtGZdrcZBnY9jw8-EEJAaqKDX5xK0ouyc5x_Qi_1DvKVV7ngC02n8bbbRiRk=",
+          "title": "jspp.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9neZAHRPw5XZ1ObifyGzFwU2yQefU-VQzM2E-WGBA9fDVoEmIg91Uce5LIrMetKp4hGW3EkGy6KX7k7L8VuAbVjb6e49NNBALimnSqVCsIhC62xZ9vuo=",
+          "title": "ibinosato.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw7A_cgoNjItif8-rn0xMN3jKlHi5uOUmG5YiBHe61l_PI1cP8xBBY_QiamIwBrTQf51EhsmAb1tlBULLRsxnc8EIdAnTLrm3xWc7lQVD5Q5FzdWNyyya8i4tK",
+          "title": "konnyaku.or.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 792,
-          "endIndex": 978,
-          "text": "一方、冷凍室は凍った食品自体が保冷剤の役目を果たし、食品同士がお互いを冷やし合うため、隙間がない方が冷気が逃げにくくなります"
+          "startIndex": 515,
+          "endIndex": 671,
+          "text": "寒天は海藻の「天草（てんぐさ）」を煮溶かしたところてんを、屋外で「凍結」と「乾燥」を繰り返して作られます"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 674,
+          "endIndex": 929,
+          "text": "良質な細寒天を作るには、「昼は暖かく天気が良くて氷が溶け、夜から明け方は氷点下にしっかり冷え込んで凍る」という大きな寒暖差と、雪や雨が少ない乾燥した冬の気候が欠かせません"
         },
         "groundingChunkIndices": [
           0,
@@ -282,19 +258,42 @@
       },
       {
         "segment": {
-          "startIndex": 1017,
-          "endIndex": 1247,
-          "text": "**10月の食品値上げ動向**：帝国データバンクの「価格改定動向調査」によると、主要食品メーカー195社の飲食料品値上げは合計**3,153品目**（平均値上げ率10％）に上ります"
+          "startIndex": 932,
+          "endIndex": 1085,
+          "text": "岐阜県恵那市山岡町は、標高が高く盆地特有の内陸気候であるため、寒天作りに理想的な気象条件を備えています"
         },
         "groundingChunkIndices": [
-          2
+          2,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1250,
-          "endIndex": 1319,
-          "text": "3,000品目超えは9月（4,965品目）に続き2カ月連続です"
+          "startIndex": 1127,
+          "endIndex": 1315,
+          "text": "岐阜県（山岡町を中心とする地域）は、和菓子店などで使われる「細寒天（糸寒天）」の国内生産シェアの約80％を占める日本一の産地です"
+        },
+        "groundingChunkIndices": [
+          3,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1318,
+          "endIndex": 1465,
+          "text": "冬場の山岡町は、日中の気温が約10℃まで上がるのに対し、明け方には氷点下10℃〜15℃近くまで冷え込みます"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1468,
+          "endIndex": 1624,
+          "text": "また、角寒天（長野県が主産地）に比べて保水性・凝固強度が高く、高級羊羹などのプロの現場で重宝されています"
         },
         "groundingChunkIndices": [
           3,
@@ -303,106 +302,52 @@
       },
       {
         "segment": {
-          "startIndex": 1322,
-          "endIndex": 1474,
-          "text": "分野別では「酒類・飲料」が1,399品目で最多、次いで「調味料」が820品目、「加工食品」が668品目となっています"
+          "startIndex": 1651,
+          "endIndex": 1771,
+          "text": "「海のない山里」で、海藻を原料とする海産加工品が日本一のシェアを誇っている点です"
         },
         "groundingChunkIndices": [
+          2,
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 1477,
-          "endIndex": 1600,
-          "text": "背景には中東情勢を受けた原油・ナフサ高、物流費や人件費の高騰、円安の影響があります"
+          "startIndex": 1774,
+          "endIndex": 1918,
+          "text": "冬の田んぼが広がる内陸の山中に、白く輝く寒天がずらりと並ぶ天日干し（ロジ干し）の風景が広がります"
         },
         "groundingChunkIndices": [
-          3,
-          6
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1606,
-          "endIndex": 1888,
-          "text": "**家計の節約効果**：経済産業省 資源エネルギー庁の試算によると、冷蔵室の食品を詰め込んだ状態から**半分（7割以下を目安）**に減らすだけで、年間で電気約43.84kWhの省エネ（**約1,360円の節約**）になります"
-        },
-        "groundingChunkIndices": [
-          7,
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1891,
-          "endIndex": 2022,
-          "text": "さらに設定温度を「強」から「中」に下げることで年間約61.72kWh（**約1,910円の節約**）となります"
-        },
-        "groundingChunkIndices": [
-          10,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2044,
+          "startIndex": 1948,
           "endIndex": 2279,
-          "text": "一般社団法人日本冷凍食品協会や消費者庁も発信している通り、「冷蔵庫はスカスカ（7割以下）、冷凍庫はぎゅうぎゅう（8〜9割）」と**詰め方の正解が正反対**である点です"
+          "text": "寒天そのものの誕生は江戸時代前期（1650年代後半）、京都・伏見の旅館「美濃屋」の主人・美濃屋太郎左衛門が、冬の夜に屋外へ放置してしまった「ところてんの食べ残し」が偶然凍結乾燥していたことを発見したのが始まりと伝えられています"
         },
         "groundingChunkIndices": [
-          0,
-          10,
-          7
+          6,
+          0
         ]
       },
       {
         "segment": {
           "startIndex": 2282,
-          "endIndex": 2492,
-          "text": "冷凍庫は空きスペースが多いと扉を開けた際に一気に温かい空気が入り込んで電力を消費するため、凍った食材をすき間なく詰める方が節電につながります"
+          "endIndex": 2459,
+          "text": "岐阜県には昭和初期に冬場の農家の副業として技術が導入され、地域の気候風土に見事に合致したことから一大産地へ発展しました"
         },
         "groundingChunkIndices": [
-          0,
-          10
+          2,
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2944,
-          "endIndex": 3069,
-          "text": "* 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日公表）"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3072,
-          "endIndex": 3202,
-          "text": "* 経済産業省 資源エネルギー庁『家庭向け省エネ関連情報 無理のない省エネ節約（キッチン）』"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3205,
-          "endIndex": 3276,
-          "text": "* 消費者庁『グリーン志向消費：冷蔵庫を整理する』"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3279,
-          "endIndex": 3401,
-          "text": "* 一般社団法人日本冷凍食品協会『節電につながる冷凍庫内の冷凍食品の詰め方について』"
+          "startIndex": 2467,
+          "endIndex": 2552,
+          "text": "*【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）"
         },
         "groundingChunkIndices": [
           0
@@ -410,115 +355,191 @@
       },
       {
         "segment": {
-          "startIndex": 3729,
-          "endIndex": 3937,
-          "text": "ホオノキ（朴の木）の葉自体に厚みがあり繊維が強靭で比較的耐火性があることに加え、**「味噌や具材の水分」が蒸発する際の潜熱冷却**が働くためです"
+          "startIndex": 2467,
+          "endIndex": 2597,
+          "text": "*【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）、恵那市観光協会「山岡細寒天」"
         },
         "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2467,
+          "endIndex": 2630,
+          "text": "*【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）、恵那市観光協会「山岡細寒天」、山サ寒天産業公式資料"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2773,
+          "endIndex": 2905,
+          "text": "生の飛騨紅かぶは、表面の皮だけが鮮やかな赤紫色で、包丁で切ると中は大根のように真っ白です"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2908,
+          "endIndex": 3013,
+          "text": "赤かぶの皮には「アントシアニン」という水溶性の植物色素が含まれています"
+        },
+        "groundingChunkIndices": [
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3016,
+          "endIndex": 3142,
+          "text": "樽に塩漬けして発酵が進むと、植物性乳酸菌が糖分を分解して「乳酸（酸）」を作り出します"
+        },
+        "groundingChunkIndices": [
+          10,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3145,
+          "endIndex": 3364,
+          "text": "アントシアニンは酸性に傾くと鮮やかな紅色に発色する性質があり、溶け出した赤い色素が白い果肉の内部へ徐々に浸透していくため、芯まで真っ赤に染まります"
+        },
+        "groundingChunkIndices": [
+          10,
           11,
-          12
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3940,
-          "endIndex": 4183,
-          "text": "水分が蒸発する間は温度が100℃付近に保たれるため、下から火で炙られても葉が発火点（通常250〜300℃以上）まで上がらず、立ち上る水蒸気がシールドとなって燃焼を防いでいます"
+          "startIndex": 3406,
+          "endIndex": 3645,
+          "text": "原料となる「飛騨紅かぶ（ひだべにかぶ）」は、大正7年（1918年）に高山市（旧上宝村などの八賀かぶ）の中から発見された突然変異株を選抜・固定した飛騨特有の伝統野菜です"
         },
         "groundingChunkIndices": [
-          11
+          12,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4220,
-          "endIndex": 4357,
-          "text": "ホオノキの葉は日本の落葉樹の中で最大級の大きさを誇り、長さ**20〜40cm**、幅**10〜25cm**にも達します"
+          "startIndex": 3648,
+          "endIndex": 3792,
+          "text": "11月頃の初冬に収穫・塩漬けされ、約2か月かけて乳酸菌がじっくり酸を生み出すことで鮮やかに熟成します"
         },
         "groundingChunkIndices": [
-          13
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4360,
-          "endIndex": 4492,
-          "text": "葉が厚く、油分や水を通しにくい性質があり、枯れて乾燥しても破れにくい強靭さを持っています"
+          "startIndex": 3819,
+          "endIndex": 4002,
+          "text": "酢や人工着色料を一切使わず、野菜と塩だけで漬けているにもかかわらず、自然の乳酸菌の力だけで鮮やかなルビー色に染め上がります"
         },
         "groundingChunkIndices": [
-          14,
-          12
+          10,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 4514,
-          "endIndex": 4730,
-          "text": "朴葉味噌の葉は、単に「お皿や網の代わり」として便利なだけでなく、熱せられることで葉に含まれる特有の芳香成分が味噌に移り、豊かな風味を生み出します"
+          "startIndex": 4005,
+          "endIndex": 4107,
+          "text": "雑菌が繁殖してしまうと乳酸が十分に生成されず、綺麗な赤色になりません"
         },
         "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4302,
+          "endIndex": 4542,
+          "text": "そのため、塩の使用量を極力抑えつつ越冬用の保存食にする知恵として、寒冷下で乳酸菌の酸を利用して保存性を高める伝統の漬け込み技法が江戸時代から受け継がれてきました"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4550,
+          "endIndex": 4644,
+          "text": "*【根拠資料】農林水産省「うちの郷土料理：赤かぶ漬け（岐阜県）」"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4550,
+          "endIndex": 4707,
+          "text": "*【根拠資料】農林水産省「うちの郷土料理：赤かぶ漬け（岐阜県）」、フジクリーン工業「水の話：発酵と微生物」"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4841,
+          "endIndex": 5018,
+          "text": "全国的に親しまれている「みたらし団子」は、醤油・砂糖・葛粉を合わせた甘辛いトロトロの餡（葛餡）がたっぷりかかっています"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5021,
+          "endIndex": 5222,
+          "text": "しかし、飛騨地方のみたらし団子（地元では「みだらしだんご」と濁る）は、生醤油ダレを塗り、香ばしく直火で焼き上げるだけの素朴な醤油味です"
+        },
+        "groundingChunkIndices": [
+          13,
           15,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 4733,
-          "endIndex": 4964,
-          "text": "またホオノキの葉には優れた抗菌・殺菌作用があるため、加熱調理だけでなく、朴葉寿司や朴葉餅のように食品を長持ちさせる包み材としても古くから活用されてきました"
+          "startIndex": 5225,
+          "endIndex": 5462,
+          "text": "飛騨の団子が甘くないのは、全国で主流の「甘辛いみたらし団子」が登場する前、生醤油のつけ焼きだった時代の“古来の製法”がそのまま現代まで守り継がれているためです"
         },
         "groundingChunkIndices": [
-          14,
-          15,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4989,
-          "endIndex": 5185,
-          "text": "朴葉と日本人の歴史は極めて古く、6世紀の「王塚古墳」（福岡県）の玄室から出土した杯にもホオノキの葉が敷かれていたことが判明しています"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5188,
-          "endIndex": 5386,
-          "text": "また『万葉集』巻十六には、僧恵行が大伴家持に朴葉に盛った食べ物を贈った歌（「わが背子が捧げて持てるほほがしは…」）が収められています"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5389,
-          "endIndex": 5590,
-          "text": "冬の寒さが厳しい飛騨地方では、冬場に凍りついた味噌や漬物を朴葉にのせて囲炉裏で温めて食べた生活の知恵が「朴葉味噌」の起源とされています"
-        },
-        "groundingChunkIndices": [
-          17,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5628,
-          "endIndex": 5697,
-          "text": "* 農林水産省『うちの郷土料理：朴葉味噌 岐阜県』"
-        },
-        "groundingChunkIndices": [
+          13,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 5700,
-          "endIndex": 5786,
-          "text": "* 岐阜県林政部「ぎふの木ネット」『郷土料理「朴」の葉の話』"
+          "startIndex": 5504,
+          "endIndex": 5832,
+          "text": "一般のみたらし団子は「串に団子が4個〜5個刺さり、甘い餡が絡んでいる」のに対し、飛騨の団子は「1串に5玉」刺され、甘みは米自体の甘みのみ、タレは醤油単体（または醤油をベースにした香ばしいタレ）を二度焼きして焦げ目を楽しみます"
+        },
+        "groundingChunkIndices": [
+          17,
+          18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5835,
+          "endIndex": 5907,
+          "text": "おやつというよりは、間食や軽食に近い位置づけです"
         },
         "groundingChunkIndices": [
           14
@@ -526,250 +547,248 @@
       },
       {
         "segment": {
-          "startIndex": 5789,
-          "endIndex": 5916,
-          "text": "* Discover Japan『葉の爽やかな香りが食欲をそそる「ホオノキ」《暮らしの中にある木の図鑑》』"
+          "startIndex": 5934,
+          "endIndex": 6174,
+          "text": "全国で見かける「甘辛いトロトロ餡のみたらし団子」の方が、実は大正時代に京都の甘味処「加茂みたらし茶屋」が砂糖醤油の餡を考案して全国に広まった“新しい改良型”です"
         },
         "groundingChunkIndices": [
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6304,
-          "endIndex": 6675,
-          "text": "赤かぶの表皮に含まれる天然色素**「アントシアニン」**が、塩漬けの過程で生まれる**「植物性乳酸菌の酸」**に反応して鮮やかな赤色へ変化し、塩分で組織が緩んだ白い果肉へと染み込んでいくためです（理科の実験で使われるリトマス試験紙と同じ酸アルカリ反応の原理）"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6712,
-          "endIndex": 6834,
-          "text": "飛騨の赤かぶ漬けに使われる伝統野菜「飛騨紅かぶ」は、**10月〜12月上旬**に収穫されます"
-        },
-        "groundingChunkIndices": [
-          18,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6837,
-          "endIndex": 7055,
-          "text": "一般的な浅漬けは調味酢で短時間で酸味をつけますが、伝統的な製法では塩水に漬けて約**2カ月間**じっくりと低温発酵させ、乳酸菌の酸味と旨味を引き出します"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7077,
-          "endIndex": 7359,
-          "text": "「赤い漬物＝梅酢や赤しそ、食紅で色をつけている」と思われがちですが、本来の赤かぶ漬けの鮮やかなピンク色は、皮自身の色素と微生物（乳酸菌）の共同作業によって自発的に発色した完全な自然の色です"
-        },
-        "groundingChunkIndices": [
-          18,
-          21,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7384,
-          "endIndex": 7679,
-          "text": "飛騨紅かぶは、大正7年（1918年）に現在の高山市丹生川町（旧丹生川村）で栽培されていた赤紫色の「八賀（はちが）かぶ」の中から、農家が偶然発見した**1株の鮮紅色の突然変異株**を選抜・育成して広まったものです"
-        },
-        "groundingChunkIndices": [
-          22,
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7682,
-          "endIndex": 7880,
-          "text": "かつて山に囲まれ塩が貴重だった飛騨地域において、塩の使用量を抑えつつ長期保存するために編み出された乳酸発酵の知恵が受け継がれています"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8436,
-          "endIndex": 8535,
-          "text": "**正解**：**② 発酵で生まれた「乳酸菌の酸」に皮の色素が反応したから**"
-        },
-        "groundingChunkIndices": [
+          17,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 8538,
-          "endIndex": 8704,
-          "text": "**解説トークの要点**：皮に含まれる紫色の色素「アントシアニン」は酸性に触れると鮮やかな赤色に変わる性質があります"
+          "startIndex": 6177,
+          "endIndex": 6282,
+          "text": "飛騨の甘くないみたらし団子こそが、原初のスタイルを留めているといえます"
         },
         "groundingChunkIndices": [
-          18,
+          13,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6312,
+          "endIndex": 6486,
+          "text": "みたらし団子のルーツは、平安時代から続く京都・下鴨神社の「御手洗（みたらし）祭」で氏子が神前に供えた厄除けの団子です"
+        },
+        "groundingChunkIndices": [
+          13,
+          17,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6489,
+          "endIndex": 6683,
+          "text": "後醍醐天皇が境内の御手洗池で水をすくった際、最初にポコンと1つ、間を置いて4つの泡が浮き出た様子を団子に見立てたという伝承があります"
+        },
+        "groundingChunkIndices": [
+          17,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6686,
+          "endIndex": 6950,
+          "text": "京都から飛騨へと文化が伝わった時期が大正の餡かけブーム以前だったこと、また山里の気候風土に醤油の香ばしい焼き団子が定着したことなどが、甘くない団子が残り続けた理由とされています"
+        },
+        "groundingChunkIndices": [
+          13,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6958,
+          "endIndex": 7055,
+          "text": "*【根拠資料】小学館『日本一の団子』（サライ編集部編）引用解説資料"
+        },
+        "groundingChunkIndices": [
+          17,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6958,
+          "endIndex": 7088,
+          "text": "*【根拠資料】小学館『日本一の団子』（サライ編集部編）引用解説資料、下鴨神社由緒関連資料"
+        },
+        "groundingChunkIndices": [
+          17,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7225,
+          "endIndex": 7372,
+          "text": "こんにゃく芋に含まれる主要成分は「グルコマンナン（こんにゃくマンナン）」という水溶性の食物繊維です"
+        },
+        "groundingChunkIndices": [
           21
         ]
       },
       {
         "segment": {
-          "startIndex": 8707,
-          "endIndex": 8878,
-          "text": "塩漬けによって自然に増殖した乳酸菌が酸を作り出すことで、皮の色素が美しい赤に発色し、白い実全体を染め上げていきます"
+          "startIndex": 7375,
+          "endIndex": 7534,
+          "text": "グルコマンナンは水を含むと強力に粘り気を出しますが、そのまま冷やしてもゼリーのように固まることはありません"
         },
         "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8916,
-          "endIndex": 8994,
-          "text": "* 農林水産省『にっぽん伝統食図鑑：岐阜県 赤かぶ漬け』"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8997,
-          "endIndex": 9069,
-          "text": "* 農林水産省『うちの郷土料理：赤かぶ漬け 岐阜県』"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9072,
-          "endIndex": 9125,
-          "text": "* 岐阜県庁『岐阜の極み：飛騨紅かぶ』"
-        },
-        "groundingChunkIndices": [
+          21,
           22
         ]
       },
       {
         "segment": {
-          "startIndex": 9438,
-          "endIndex": 9630,
-          "text": "洗濯機の脱水にかけると、強い遠心力で生地表面のループ状の繊維（パイル）が押し潰され、寝た状態のまま乾燥して硬化してしまうためです"
+          "startIndex": 7537,
+          "endIndex": 7813,
+          "text": "ここに草木を燃やした灰の上澄み液（灰汁）や水酸化カルシウムなどの「アルカリ性水溶液」を加えて加熱すると、グルコマンナン分子の一部（アセチル基）が外れる化学反応（脱アセチル化）が起きます"
         },
         "groundingChunkIndices": [
+          21,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7816,
+          "endIndex": 8041,
+          "text": "すると分子同士が複雑に架橋して網目構造を作り、抱え込んだ大量の水分を逃さない不可逆的な弾力ゲル（熱を加えても二度と溶けないプルプルの状態）に固まります"
+        },
+        "groundingChunkIndices": [
+          21,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8233,
+          "endIndex": 8366,
+          "text": "凝固剤として使う水酸化カルシウムの量は、生芋の重さに対してわずか0.5％〜1％程度で固まります"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8369,
+          "endIndex": 8438,
+          "text": "生芋500gがあれば、板こんにゃくが約5〜6枚作れます"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8465,
+          "endIndex": 8705,
+          "text": "生のこんにゃく芋には針状結晶の「シュウ酸カルシウム」が多く含まれており、少しかじっただけで口や喉が激しくチクチク痛んで腫れ上がるため、絶対に生では食べられません"
+        },
+        "groundingChunkIndices": [
+          21,
           23,
           24
         ]
       },
       {
         "segment": {
-          "startIndex": 9633,
-          "endIndex": 9867,
-          "text": "また、柔軟剤は繊維の表面を油分でコーティングして滑りをよくするものなので、過度に使用すると繊維が油膜で覆われ、タオル本来の「吸水性」を著しく損ねてしまいます"
+          "startIndex": 8708,
+          "endIndex": 8915,
+          "text": "昔の人は「強烈なエグ味（アク）を持つ植物を、草木灰の灰汁（アク）で煮ることで、毒抜きと凝固を同時に成し遂げる」という離れ業を編み出しました"
         },
         "groundingChunkIndices": [
-          25,
-          26,
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9904,
-          "endIndex": 10133,
-          "text": "今治タオル工業組合や各タオルメーカーによると、干す前にタオルの端を両手で持ち、上下に勢いよくバサバサと**「10回〜20回（最低でも3〜5回）」振る**のが効果的です"
-        },
-        "groundingChunkIndices": [
-          24,
-          28,
-          29
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10136,
-          "endIndex": 10301,
-          "text": "この動作で空気が送り込まれて寝ていたパイルが一本一本立ち上がり、乾いたときのふんわり感と厚みが格段に向上します"
-        },
-        "groundingChunkIndices": [
-          25,
-          23,
+          21,
           24
         ]
       },
       {
         "segment": {
-          "startIndex": 10323,
-          "endIndex": 10534,
-          "text": "「ふわふわに仕上げるなら柔軟剤」と考えがちですが、今治タオルの公式ガイドラインでは**「普段の洗濯では柔軟剤を使わないこと」**が推奨されています"
+          "startIndex": 8945,
+          "endIndex": 9249,
+          "text": "平安時代中期の辞書『倭名類聚抄（わみょうるいじゅしょう）』（930年代）には、すでに「蒟蒻、其の根は白く、灰汁をもって煮れば、すなわち凝成す」と記されており、1000年以上前から灰汁で固める手法が確立していました"
         },
         "groundingChunkIndices": [
-          25
+          24
         ]
       },
       {
         "segment": {
-          "startIndex": 10537,
-          "endIndex": 10777,
-          "text": "使い続けると吸水性が落ちるだけでなく、パイル抜けや毛羽落ちの原因にもなるため、「数カ月使って少し硬くなってきたと感じたときにだけ、少量を使う」のがプロの知恵です"
+          "startIndex": 9252,
+          "endIndex": 9569,
+          "text": "なお、生の芋は非常に腐りやすいため、江戸時代の安永5年（1776年）に常陸国の中島藤右衛門が芋を薄切りにして乾燥・粉末化する「精粉（せいこ）」の製法を発明するまでは、秋の収穫時期にしか食べられない季節限定の食べ物でした"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9577,
+          "endIndex": 9686,
+          "text": "*【根拠資料】一般財団法人日本こんにゃく協会「こんにゃく一口知識・作り方」"
         },
         "groundingChunkIndices": [
           25,
-          30,
-          26
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 11304,
-          "endIndex": 11402,
-          "text": "* 今治タオル公式『快適にタオルを使い続けるために（お手入れ方法）』"
+          "startIndex": 9577,
+          "endIndex": 9740,
+          "text": "*【根拠資料】一般財団法人日本こんにゃく協会「こんにゃく一口知識・作り方」、日本植物生理学会「みんなのひろば」"
         },
         "groundingChunkIndices": [
-          25
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 11462,
-          "endIndex": 11528,
-          "text": "タオルメーカーが薦めるタオルのお手入れ方法』"
+          "startIndex": 10493,
+          "endIndex": 10660,
+          "text": "**B：甘辛いみたらし団子の方が大正時代に京都で生まれた“新作”で、飛騨にはそれ以前の古い原型がそのまま残ったから**"
         },
         "groundingChunkIndices": [
-          27
+          13,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 11531,
-          "endIndex": 11629,
-          "text": "* IKEUCHI ORGANIC『タオルソムリエに聞く、“タオルを長持ち”させる方法』"
+          "startIndex": 10690,
+          "endIndex": 10855,
+          "text": "「実は全国でおなじみの甘い餡かけ団子は、大正時代に京都の茶屋が考案して大ヒットした比較的新しいスタイルなんです"
         },
         "groundingChunkIndices": [
-          28
+          17,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10858,
+          "endIndex": 11014,
+          "text": "それ以前の本来のみたらし団子は生醤油のつけ焼きで、飛騨地方にはその昔ながらの姿が大切に受け継がれています"
+        },
+        "groundingChunkIndices": [
+          13,
+          17
         ]
       }
     ],
     "webSearchQueries": [
-      "飛騨 赤かぶ漬け 乳酸発酵 アントシアニン 鮮やか 赤",
-      "ホオノキ 朴葉 朴葉味噌 岐阜県 耐火性 性質",
-      "資源エネルギー庁 省エネ 冷蔵庫 冷凍庫 詰め方",
-      "帝国データバンク 食品値上げ 10月 品目数",
-      "タオル 干す前に振る パイル 柔軟剤 今治タオル"
+      "こんにゃく 灰汁 固まる 理由 全国こんにゃく協同組合連合会",
+      "飛騨高山 みたらし団子 甘くない 理由 歴史",
+      "岐阜県 細寒天 生産 日本一 理由 山岡町",
+      "飛騨 赤かぶ 漬物 赤くなる 理由 アントシアニン 岐阜県"
     ]
   }
 }
