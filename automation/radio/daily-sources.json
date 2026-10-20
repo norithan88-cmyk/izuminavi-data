@@ -1,310 +1,235 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2281,
-  "estimated_minutes": 6.9,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2149,
+  "estimated_minutes": 6.5,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "碧南発祥の伝統調味料「本みりん」は、江戸時代にどう使われていたでしょうか。1番、髪を固める整髪料。2番、お祝いで飲む高級なお酒。3番、和泉の田んぼの肥料。",
-    "answer": "正解は2番、高級なお酒でした！アルコール分約14度、糖度40％以上もあって、当時は女性やお酒に弱い人が楽しむ甘い贅沢酒だったんだって。田んぼにまいたら怒られるだに！",
+    "question": "安城七夕まつりで1本の竹に吊るした短冊の数がギネス記録になった時、会期中に認定されなかった理由は？1番、審査員が数え切れなかった。2番、竹が折れた。3番、短冊の字が達筆すぎた。",
+    "answer": "正解は1番、審査員が数え切れなかったでした！1万3809枚もあって確認が12月までかかったんだって。願いごと多すぎて審査員さんパンクしとるじゃんね！",
     "source_ids": [
       2,
-      5,
-      6
+      3,
+      5
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-bupJNCLN8Bu3E1t0hGUbEDPnOhnzGgOQjV1O1shCYULr5pKDcFDs92e9YH1VMLZ0jrzqOuvsStEqEv-cgiMz_28VT3cja6sBL3RvQmhBwequPUO",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERMe3NbNYjNw8-fJRW-3ym2E_WNRHonoQdbmfzw5BA3XwQeshkpQx--LPDhZlQ-shDsr5ZelF4C8sleWYUmy3pKvEhtekSTGrGBdWyIYsDNrqY",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYOhLXvSMvdllJoCNMkyGqMpD4dbxOczgFLfYxF3ll_hcstGYNxnKpDNKhO0P_zp8zJhCBOc_4s-69BSYTsYxXYJOy15dK1nwW_U7MrI5e5cBN3QW0HlFpClpsu0tgsuhEALqYPLw="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmQMac0WhGGnLur1ktbNR46_PIQBWEBadR5oW9hmPaT3Nrn0wDrGE0wpZuCMDzEbKjO4C7L1X0aOPLH96fTxBdgraiU3hmD-DKDjSEuz_O8F2T5pj6YjrXunhlRS2voIF8Kk6YDiVAw7k=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6_Vq02RRhJ_jmfhRCuRmbCfnk6FZbEsRixtm5-26zqC6Cpl73dUgTfST7x9yLKovC02ZA_7cbFTmBtHGEKaZP-kC7c_jB5D_Hd_Hi5ltZPcPxoGNf3fSL1k5MPaVEDiCnLGGao5BE910=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOfq4tS2W11HZFYH0EmJD93yaDCnnYiRY4vlJzRo_EmdOC3pulbAZx8OalhDK2CTAbX7wtYUavOy3-qR72M8bXSAV-r4BOImSZzNa0WAp98vg1DRF1ysL68h-3ADtXTw7TuJViAvX9vnE="
     ]
   },
   "izumi": {
-    "text": "さあ、やってきました「みおんの和泉ディープ」！今日は和泉町が生んだスーパースター、石川丈山の大胆すぎるキャリアチェンジに迫っちゃいます！丈山って代々徳川家に仕える武士の家に生まれて、16歳で家康のそばに仕え、18歳で関ヶ原の戦いにも出たバリバリのエリート武士だったんだよね。ところが33歳の大坂夏の陣で、家康が絶対にダメって言ってた先陣争いをして敵将を討ち取っちゃったの！一番乗りで大手柄のはずが、まさかの軍令違反でお説教。ほうびもゼロ！普通なら落ち込んで引きこもるところだけど、丈山は「責任取って武士やめます！」ってあっさり浪人になっちゃった。今なら大企業を突然辞めてフリーランスになるようなものじゃんね！そこから35歳で朱子学を学び、大名からのスカウトも自分の志に合わんと断り続け、母への孝行で広島に13年勤めたあと、59歳で京都に詩仙堂を建てちゃう。そこから約30年、漢詩を作って、隷書という珍しい文字で書道を極め、庭を造り、ついには「煎茶の祖」と呼ばれるお茶のレジェンドにまで登りつめたの！武士から学者、詩人、書家、庭師、お茶の名人って、肩書きが多すぎでしょ！90歳まで生きて第二、第三の人生を楽しみ尽くした丈山。こんなかっこいい大先輩が地元におるなんて、めっちゃ誇らしいじゃんね！",
+    "text": "水不足の荒野を豊かな大地に変えようとした、和泉の偉人・都築弥厚さんのお話だに！弥厚さんは1765年にここ和泉村で生まれた豪農で地主さん。酒造業も営んで代官職も務めた大金持ちだったんだけど、当時の碧海台地は酸性の粘土質で水はけが悪くて、慢性的な水不足と水争いでみんな苦しんどったのね。そこで弥厚さん、矢作川から約30キロの水路を引いて約6,000ヘクタールを潤すっていう、途方もない大用水の計画を思いついちゃった！1822年、高棚村の和算家・石川喜平さんと測量を始めたんだけど、水害を心配する農民たちから妨害の嵐！今なら反対派にSNSで突撃されとるレベルじゃんね。でも弥厚さんは諦めずに、人目を避けて夜に提灯や松明の明かりで測量して、綿やそばの種をまいて芽が出た跡を目印にしたんだって。忍者か！ってツッコミたくなる執念だよね。5年がかりの1826年に測量を終えて翌年に幕府へ願書を出し、1833年に一部が許可されたんだけど、なんとその同じ年に69歳で病気で亡くなっちゃったの。しかも私財を全部つぎ込んで、残った借金はなんと2万5千両！自分の財産を投げ打って未来のために命を燃やした弥厚さん。この情熱、和泉の誇りとして自慢したくなっちゃうじゃんね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/jyozan/"
+      "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "jozan-career",
-      "hook": "武士から学者・詩人・書家・庭師・お茶の人へ。人生の大胆な転職"
+      "id": "yakou-debt",
+      "hook": "借金2万5千両。夢にすべてを賭けた和泉の大地主"
     }
   },
   "local": {
-    "text": "「白鳥とコウモリ」安城特別展が、今日10月20日から10月31日まで開催されるよ！芸術の秋にぴったりの展示じゃんね。気になる人はぜひチェックしてみてりん！",
+    "text": "10月24日の土曜日に、桜井こどもハッピーハロウィン祭が開催されるよ！秋といえばハロウィンの季節じゃんね。近所のお友達や家族みんなで秋の楽しい思い出を作りに、お出かけの予定に入れてみりん！週末のワクワクが今から待ち遠しいね。",
     "source_ids": [
-      25
+      21
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/hakuchou.html"
+      "https://www.city.anjo.aichi.jp/event/happyharowin/2026sakuraikouharowin.html"
     ]
   },
   "segments": [
     {
-      "topic": "タマネギを切るとなぜ涙が出る？発見の裏にあったカレーの失敗",
-      "text": "お台所で夕飯の支度をしとるとき、タマネギをトントン刻んで急にボロボロ涙が出てきたこと、誰でも一度はあるよね！まるで大失恋でもしたかのように号泣しちゃって、みおんなんて目がないのに涙が出そうになるもん…って、AIだから涙腺ついとらんわ！でもね、ちょっと待って。実は切る前のタマネギの中には、涙を出させる成分なんて1ミリも入ってないって知っとった？うそでしょって思うじゃん！タマネギは敵に食べられないための化学兵器を持っとって、細胞が包丁で傷つけられた瞬間、別々の部屋にいた成分と酵素が混ざり合って、目をとんでもなく刺激する気体がその場で急ピッチで作られるんだって！しかもこの仕組み、日本の食品メーカーが解き明かしたんだに。ハウス食品の研究チームが、レトルトカレーの開発中に「タマネギとニンニクを炒めると、なぜかペーストが緑色に変色しちゃう！」っていう現場のトラブルを調べていたのね。その原因を突き止める途中で、なんと涙を出させる専門の未知の酵素を偶然見つけちゃった！この発見は世界的科学誌のネイチャーに掲載されて、2013年には人々を笑わせ考えさせるイグ・ノーベル賞まで受賞したんだって。カレーの失敗から世界的大発見が生まれるなんて、台所のドラマすごすぎだら！今夜タマネギを切るときは、ぜひ家族に「これ今、化学兵器と戦っとる最中だでね」って自慢してみてりん！",
+      "topic": "日本の屋根の過半数は西三河産？三州瓦が日本一のシェアを誇る理由",
+      "text": "弥厚さんの用水路もすごかったけど、水がないなら別のことで天下を取っちゃえ！って歴史もあるんだに。西三河の海沿い、高浜や碧南のあたりを走ると、瓦屋さんの看板や窯元をやたら見かけるじゃんね。実は屋根に載っとる瓦、日本全国の約60から70パーセントがこの三州瓦なんだって！えっ、過半数どころか日本の屋根のほとんどが西三河産！？って、みおん驚きすぎてアンテナがピーンと立っちゃったわ！なんでこんなに盛んになったかというと、昔はこのあたりの沿岸台地って水が乏しくて、お米作りに向いてなかったのね。そこで農閑期に良質な粘土を使って瓦を作り始めたのがきっかけなんだわ。高浜市の神社には、享保8年、1723年の銘が入った瓦の狛犬があるくらい、300年以上前からプロが集まっとったらしいよ。そして大ブレイクのきっかけを作ったのが、あの江戸町奉行の大岡越前守！江戸の町で火事が頻発するもんで、燃えにくい瓦屋根を使ってみりん！って解禁・推奨したんだって。そこで矢作川や衣浦湾の水運を活かして大量の三州瓦を江戸へ運んだら、飛ぶように売れて日本一の産地になったんだとか。水不足のピンチをチャンスに変えて江戸を火事から救った三州瓦、おうちの屋根を見上げるたびに誰かに話したくなるじゃんね。",
       "source_ids": [
-        13,
-        15,
-        17
+        7,
+        8,
+        10,
+        12
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJXX7oLW6PF8MSm-oDYrmXjYad9tn86EFXg20AFkeKv2BrXdlkK__WVzWqghyYmMUOWHNd-hDUwNgX-q0YKVBHlDJWJS5K0craFFa5cBqWwO15PR1FyU9zJ768bavPWRk3vHwqM29-ZDmvQwOyvuRXbYjSAjuNcTUuEdLivgS4oAvEoetvySXHRMqy6A657HeGwST1-STle7m1jqPWlMeJLseJeDzAh_OYPBUGKhoCLX3ZFDceaIEs0m1Acakpd3cgm3rNmO-h0HVhgfOv_dE=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2RyDS4dd-NZ7QNDf5rwMD0CWjzIxPtTK7QZj6WrlsWTuqSLqLBQACxW8_i7AgNZ4FfPVlglLp2Knd16Vuya9i4tddLIUdivPQw8ii1fnDegmqVpQRm2jcndGI3cy6q4mdcI0JkXnfmQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2iWNE3MVOPlcxHOCkEDynRrhwjDAskiLslZC8Idt4AJjdt0_1W9dt3_tpRCLs_AxtTQ70z-xkedomjqRu_iMjAvSOXKCVmBqoB9sTFF2o5NgZSvniDE879j09cQAQf-TvAcHP0Om0KpUS9bvX0pHsQsvl2oAkYIE8Ye8="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIz1tdALGRJpC22YAy77ftmHvU5oaAp-w-KV-4Akp3HXbqW3a5TrDTS3KN8bvygZ1SrikuBaCWocpLvZFYNZJozq4418MSGrC3f55I0JHabeBzoFrTXKKz6IvXmQNu2CW1aad0aQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdp-wQkrq10hD8sFmnYJBtoJM056399uJopHKo6trRpklj2kgHfBMRzpnxqUYuCb1Q-RXos3y9WiBF_pXkPYhYwVSwm1Xtjp43qPMf7oHTOnYT9k8PbDGhU4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqD962NLh97n40p15ma10K3hRCEEY7E3p9qomA4wbXxE7qjrhH7LjA99cS181_jGtkPYyu-5y63YUd7WV3QIO8utHPjNI5P32Qgy3lF-NP1ZXaLuyIgz9_JOGLa8ZUMJL9r9Cs_uzCQR_eFQuKkt_GZQ7vK_wb5gS3mt5jwaSQXEMFA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaP2HVdjbqf8-qwwysoTnJ76n63BhHMn0mFLPlyvOlTRM-Azfix4F10Q6ZEjpodBTCv95duoE5upZwlRVxqqAM-0rJRHzhRk_nDryZ2scGCYhxqrQmYudwh3BDQBt1Xd2CvmKPoMDQSbO3IcWYsmfAefqMjJaxjx-1wg5qrtw"
       ]
     },
     {
-      "topic": "電子レンジが温まる秘密とポケットのチョコ大惨事事件",
-      "text": "台所の話が出たついでに、毎日本当にお世話になっとる電子レンジの秘密もいっちゃおう！冷めたおかずを入れてボタンをピッと押すだけで、なんで火もないのに中身だけちんちんに熱くなるのん？って不思議に思ったことない？電子レンジはマイクロ波っていう電波を当てて、食べ物の中に含まれる水分子を1秒間に何十億回も激しく震わせとるんだって。手のひらを高速でこすり合わせると摩擦で熱くなるじゃん？あれを食材の中で一斉に起こしとるわけ。だから電波が素通りする陶器のお皿自体は温まらんのに、中身だけが猛烈に発熱するんだよね。このハイテクな機械、実はとんでもないおとぼけハプニングから生まれたの！第二次世界大戦中、アメリカの技術者パーシー・スペンサーさんが軍用レーダーの実験をしとったとき、ふと作業着のポケットに手を入れたら、入れたはずのチョコレートが熱もないのにドロドロに溶けとったんだって！「えっ、ちょっと待って、体温で溶けたわけじゃないぞ？」って怪しんだ彼が、トウモロコシの粒をレーダーの前に置いたら、ポンポン弾けてポップコーンになっちゃった！そこから世界初の電子レンジが生まれたんだけど、1947年に発売された最初のやつは高さが約2メートル、重さがなんと約340キロ！超巨大な冷蔵庫サイズで、お値段も超高額だったんだに。ポケットのチョコを溶かしたドジから生まれた今の便利さ、温めボタンを押すたびに感謝したくなっちゃうじゃんね！",
+      "topic": "新幹線三河安城駅の在来線連絡通路が約150メートルも離れている理由",
+      "text": "屋根の上の秘密の次は、毎日使う駅のミステリーにいってみりん！東海道新幹線の三河安城駅って、在来線に乗り換えようとすると改札を出て、果てしなく長い連絡通路を歩かされるじゃん？線路は交差しとるのに、なんで真上に駅を造らんかったのん？って不思議に思ったこと、絶対あるよね。あの連絡通路、新幹線の改札から在来線まで約150メートルも離れとって、途中に休憩用のベンチまで置かれとるんだわ！駅の中でプチマラソンでもさせる気！？ってツッコミ入れたくなるけど、実はこれ、どうしようもない大人の事情があったんだって。1988年に駅ができる時、線路が交差する真下には、セロテープで有名なニチバン安城工場などの大工場がバリバリ稼働しとったの！工場を移転させるなんて極めて困難だし、新幹線のまっすぐな線路を曲げるわけにもいかんかったんだに。そこで交差点から約300メートル東にずらして駅を造った結果、あの長〜い通路が誕生したんだって。工場で働く人と日本の大動脈を守るためにあの通路が生まれたと思うと、乗り換えで歩く時間もちょっと愛おしく思えてこん？明日から三河安城で乗り換える時は、ニチバンさんのテープに感謝しながら歩いてみてね。",
       "source_ids": [
-        21,
-        23
+        17,
+        18,
+        19
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEpfAqe0WsDEYSMXdtyBFhrz8q9KsUiyiAs4p68xgpvASIMpPhmiKV_BVasZvIegwsmPiDO3lc6jWDQmZqpEnUIRPsBTkqU5P3TFWcboNeVHnWyuCssNGIdYs9dWyimNAl6SsjJSli7-qRrw=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWo1wZhtNnK5RwBAH9twWkEv_lsXFOhiHsqe_reYdMcRsSRy8DuEznhrcnTAyea2vrkywYFsxax0OYeIhgbgs37rUJKLzUmc-uaOPbICqiYkDfIibld4hFBqMBkzbF8xZQth8RdbYrGg--Fw=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrBrygPi6nvv58PmieuUF34rVuzVVI5eyelBqUJChIZFUzR0mNt1jIU2Xf44YtTqB5k_Cg6Jg-kFOzU4AC_F1nEjGUkL_7DdTLB5C-3WAsLZjV3bUWL9T6-b9AbnE72U-lCVKqaHhd1mOB8sNPvDpCKHvqDHBe197ndu8SDXg=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqQec5oDcnXtXuZZnFtWTn_mDe8NyTwFIAag01DA2sX5ocys95XyK1u4-5tNJTxoMK72viMrY1T8RbPzCAx5zHC8vSp14mWSXvud9gUvRlobh49D0BAFQqaAUxgQDTp0AK0h4VE5WKUjwHvksR41NP_nx9voVbFENzVEulrCaKrCM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8FNJO4kPI9Nm5cpHZ-34fe6gg7QusfCksr-mqCQ952PksSwmF4FswfIrX46KCC-qt2ccmigX_zuDnWc_K4UaNAAwb_80AbXe-zfU8IY10HgzyXLNJmrLFAX8sTlUaAuo_TQyMrZHhy0sbHCHx"
       ]
     }
   ],
-  "research": "愛知県安城市和泉町および西三河エリアの地域ラジオ放送向けに、リスナーが思わず食卓や家族との団らんで話したくなる「食べ物・台所の雑学」について、公的機関や研究機関、メーカーなどの一次資料をもとにまとめた調査メモです。\n\n---\n\n# 食べ物・台所の雑学 調査メモ（4件）\n\n---\n\n### 1. 【西三河の誇り】「本みりん」はもともと調味料ではなく、甘い「飲むお酒」だった？\n\n* **理由：**\n  本みりんは、蒸したもち米と米麹、本格焼酎を合わせ、長期間じっくり熟成させて作られます。麹菌の酵素がもち米のでんぷんをブドウ糖やオリゴ糖へと分解するため、砂糖を加えなくても非常に濃厚な甘みとコクが生まれます。江戸時代、酒の醸造技術や甘味料が貴重だった時代には、この自然な甘みを生かした「甘口の高級酒」として親しまれていました。\n* **具体的な数字や比較：**\n  現在のみりん風調味料（アルコール分1％未満）とは異なり、伝統的な「本みりん」は**アルコール分約14度**（一般的な清酒と同程度）を含み、**糖度は40％以上**にも達します。酒税法上も現在なお「酒類（混成酒類）」に区分されています。\n* **意外な点：**\n  煮物や照り焼きといった「家庭料理の調味料」として全国的に普及したのは近代（明治末〜昭和）になってからで、江戸時代初期から戦前までは、主に女性や下戸（お酒に弱い人）が正月のお屠蘇（とそ）や祝いの席で嗜む高級な贅沢酒でした。現代でも本みりんはそのまま飲酒用として楽しむことができます。\n* **歴史の裏話（安城・西三河のつながり）：**\n  安城市のお隣である碧南市は、三河みりん発祥の地として知られます。安永元年（1772年）、廻船問屋を営んでいた石川八郎右衛門信敦（九重味淋の創始者）が三河でみりん造りを始めました。三河地方は温暖な気候、矢作川の良質な水、良質な米が揃っており、碧南から船で江戸へ送られたみりんは蕎麦屋や鰻屋の秘伝ダレとして絶賛され、全国にその名を轟かせました。\n* **出典・根拠：**\n  * 九重味淋株式会社 公式サイト「沿革」「みりんの歴史」\n  * 碧南市観光協会「九重みりん時代館」資料\n\n---\n\n### 2. 【食材の不思議】イチゴの赤くて甘い部分は「果実」ではない？\n\n* **理由：**\n  私たちが普段「実」だと思って美味しく食べている赤くて甘い部分は、雌しべの根元にある「子房（しぼう）」が肥大化したものではなく、花の土台である**「花托（かたく／花床）」**が受粉後に大きく膨らんだものです。植物学上、子房以外の部分が大きくなった実を「偽果（ぎか）」と呼びます。\n* **具体的な数字や比較：**\n  イチゴの表面に散らばっている小さな粒々（通称「ゴマのような粒」）こそが、正真正銘の「果実（痩果＝そうか）」です。1粒のイチゴには、この果実が**およそ200個〜300個**も集まっており、全体として「集合果」を形成しています。本当の「種」は、表面の粒々の中に1つずつ包まれています。\n* **意外な点：**\n  「イチゴのつぶつぶ＝種」と思われがちですが、つぶつぶ自体が果実であり、赤くて美味しい部分は単なる「花座（茎の先端）」です。また、園芸学や農林水産省の作物統計上の区分では、木になるものが果物、草になるものは野菜とされるため、イチゴは「野菜（果実的野菜）」に分類されます。\n* **歴史の裏話：**\n  日本に現在のようなオランダイチゴが持ち込まれたのは江戸時代末期（1830年代）で、当初は食べるためではなく観賞用の植物として親しまれていました。本格的な営利栽培が始まったのは明治末期（1900年頃）になってからのことです。\n* **出典・根拠：**\n  * 農林水産省 広報誌「いちごのあれこれ豆知識」\n  * 国立国会図書館 レファレンス協同データベース「イチゴの食用部位の構造」\n\n---\n\n### 3. 【台所の科学】タマネギを切るとなぜ涙が出る？ 発見の裏に「カレーの失敗」\n\n* **理由：**\n  タマネギの細胞が包丁で傷つけられると、細胞内に分かれて存在していた前駆体成分と酵素（アリイナーゼ、および催涙因子合成酵素＝LFS）が混ざり合います。これにより、空気中に気化しやすい催涙成分（*syn*-プロパンチアール-*S*-オキシド）が瞬間的に作られ、目の角膜を刺激して神経反射で涙が分泌されます。\n* **具体的な数字や比較：**\n  以前は「タマネギの香りと涙の成分は同じ1つの酵素反応で作られる」というのが定説でした。しかし日本の研究者が世界で初めて「涙の原因物質だけを専門に作る未知の酵素」を特定し、2002年に世界的科学誌『Nature』に論文が掲載されました。さらにこの発見により、研究チームは**2013年にイグ・ノーベル賞（化学賞）**を受賞しています。\n* **意外な点：**\n  切る前のタマネギの中には、涙を出させる催涙物質そのものは**一切含まれていません**。植物自身が外敵（昆虫や動物）に食べられたときに身を守る化学兵器のような仕組みで、細胞が壊れた瞬間に初めて生合成されます。\n* **歴史の裏話：**\n  この大発見のきっかけは、ハウス食品がレトルトカレーの開発中、**「タマネギとニンニクを炒めると、なぜかペーストが緑色に変色してしまう」という製造現場のトラブル**を解明しようとしたことでした。変色の原因酵素を調べる過程で、通説とは異なる「涙の酵素」の存在を偶然見つけ出しました。\n* **出典・根拠：**\n  * ハウス食品グループ本社「タマネギの催涙成分に関する研究」\n  * 日本植物生理学会「みんなのひろば：玉ねぎの催涙成分について」\n  * かずさDNA研究所「涙のでないタマネギ（NL52）」\n\n---\n\n### 4. 【家電の裏技・歴史】電子レンジが温まる秘密は「ポケットのチョコ」の偶然から？\n\n* **理由：**\n  電子レンジは、内部の「マグネトロン」という真空管から出るマイクロ波（電磁波）を利用します。マイクロ波が食品に照射されると、食材に含まれる水分子が1秒間に数十億回も激しく振動し、水分子同士の「摩擦熱」によって食材自体が内側から発熱して温まります。\n* **具体的な数字や比較：**\n  1947年にアメリカのレイセオン社が発売した世界初の業務用電子レンジ「レーダーレンジ」は、現在のコンパクトな卓上レンジとは似ても似つかず、**高さ約1.8m〜2m、重さ約340kg**という巨大な冷蔵庫サイズで、価格も数千ドルと超高額でした。\n* **意外な点：**\n  電子レンジは火や熱風で外から温めるヒーターではないため、電波を通す素材（陶器や耐熱ガラスなど）そのものは温まりません（温まった食品からの伝導熱で器が熱くなることはあります）。\n* **歴史の裏話：**\n  発明者はアメリカのレーダー技術者、パーシー・スペンサー。第二次世界大戦中、軍用レーダーの実験中に、ふと**作業着のポケットに入れていたチョコレート（お菓子）が熱もないのにドロドロに溶けていること**に気づきました。疑問に思った彼がトウモロコシの粒をマグネトロンの前に置いたところ、ポンポンと弾けてポップコーンになったことから、電波による調理器の開発が始まりました。\n* **出典・根拠：**\n  * 一般社団法人 日本電機工業会（JEMA）「電子レンジの仕組み」\n  * アメリカ物理学会（APS）「This Month in Physics History: Percy Spencer and the Microwave Oven」\n\n---\n\n# リスナー向け 3択クイズ（地域色：西三河・碧南のみりん編）\n\n放送内でパーソナリティがそのまま出題できるリスナー参加型クイズです。\n\n* **問題：**\n  「安城市のお隣・碧南市が全国に誇る伝統調味料『本みりん』。江戸時代には、今とはまったく違う意外な用途で親しまれていました。当時の人々は、みりんをどのように使っていたでしょうか？」\n  * **1番：** 髪型をピシッと固める「整髪料（ヘアワックス）」\n  * **2番：** お正月や祝いの席で楽しむ甘い「高級なお酒」\n  * **3番：** 切り傷や虫刺されを治す「消毒用の塗り薬」\n\n* **正解：** **2番「甘い高級なお酒」**\n* **解説トークのポイント：**\n  「正解は2番の『お酒』でした！ 本みりんはアルコール度数が約14度もあり、もち米から引き出された濃厚な甘みがあるため、江戸時代は女性やお酒に弱い人が楽しむ高級な甘口リキュールとして飲まれていたんです。料理の定番調味料になったのは実は近代以降。お隣・碧南の醸造元（九重味淋など）が誇る三河みりんは、まさにこの豊かな甘みを生かした伝統の逸品なんですね。」",
+  "research": "愛知県安城市和泉町の地域ラジオ番組向けに、放送ですぐに活用できる「地元の歴史・まちの発見」の調査メモを作成しました。家族や近所の方に思わず「へえ、そうだったのか！」と話したくなるエピソードを西三河地域（安城市・高浜市・西尾市）から4件厳選しています。\n\n---\n\n# 【ラジオ放送用 調査メモ】地元の歴史・まちの発見（西三河編）\n\n---\n\n### 第1件：安城七夕まつりが持っている「世界一のギネス記録」とは？\n\n* **疑問（トークの切り口）：**\n  「日本三大七夕まつりの一つ」として親しまれている安城七夕まつり。実は竹飾りの美しさだけでなく、「世界一」のギネス世界記録を持っていることを知っていますか？\n* **理由：**\n  安城七夕まつりは「願いごと、日本一。」をコンセプトに掲げており、その象徴として「一本の竹に吊るされた短冊の数」で世界一を目指す挑戦を行ったためです。\n* **具体的な数字や比較：**\n  認定された短冊の数は**13,809枚**。重なり合わないよう緻密に吊るした巨大な一本の竹を「10分間垂直に自立させる」という厳格なギネス公式ルールをクリアし、「竹にかけられた最も多い短冊の数（Most tanabata wish cards on a bamboo）」として世界記録に認定されました。\n* **意外な点・歴史の裏話：**\n  挑戦が行われたのは夏の七夕まつり（2013年8月）でしたが、集まった短冊が膨大すぎて、公式認定員が会期中に全ての確認を終えることができず、判定は一旦持ち越しとなりました。厳密な枚数確認と再審査を経て、正式に世界記録に認定されたのはなんと冬の**12月23日**。安城の夏の願いが、真冬のクリスマス直前に世界一の栄冠へと結実しました。\n* **根拠・出典：**\n  安城市公式ウェブサイト「安城の願いごとが世界一に（2013年12月25日掲載）」、安城青年会議所 記録資料。\n\n---\n\n### 第2件：日本の屋根の過半数は西三河産？「三州瓦」が日本一のシェアを誇る理由\n\n* **疑問（トークの切り口）：**\n  高浜市や碧南市など西三河の海沿いを走ると瓦の看板や窯元をよく見かけます。なぜこの地域が日本一の瓦の生産地になったのでしょうか？\n* **理由：**\n  良質な粘土層、海運に優れた立地、そして大消費地・江戸での防災政策が合致したためです。\n* **具体的な数字や比較：**\n  三州瓦は、島根の石州瓦、兵庫の淡路瓦と並ぶ「日本三大瓦」の一つですが、現在の全国シェアは**約60〜70％**と群を抜いて日本一です。高浜市春日神社の「瓦焼狛犬」に「享保八年（1723年）三州高浜村瓦屋甚六」の銘があり、300年以上前から専門業者が集積していたことが分かっています。\n* **意外な点・歴史の裏話：**\n  もともと三州（西三河）の沿岸台地は農業用水に乏しく稲作に不向きだったため、農閑期の貴重な産業として瓦作りが育ちました。飛躍のきっかけとなった大恩人は、江戸町奉行の**大岡越前守（大岡忠相）**です。当時、江戸で頻発する大火を防ぐため享保の改革で「町家の瓦葺き」が解禁・推奨され、矢作川や衣浦湾の水運を活かして大量の三州瓦が船で江戸へ運ばれ、一大ブランドを築きました。\n* **根拠・出典：**\n  高浜市やきものの里 かわら美術館「三州瓦と高浜いま・むかし」、愛知県陶器瓦工業組合「三州で瓦が造られるようになったのはいつ？」、愛知県経済産業局「三州瓦について」。\n\n---\n\n### 第3件：「西尾の抹茶」は、あるお寺のお坊さんの開墾から始まった？\n\n* **疑問（トークの切り口）：**\n  和菓子や洋菓子、アイスなど全国で引っ張りだこの「西尾の抹茶」。実は、ある一人のお寺の住職が境内を耕したことから本格的な産業になったのをご存じですか？\n* **理由：**\n  明治維新後の激動期、地域産業の復興を志した寺の住職が宇治から茶の種と製茶技術を持ち込み、農家に広めたためです。\n* **具体的な数字や比較：**\n  西尾市のお茶生産は、その**96％以上**が抹茶の原料となる「てん茶」で占められており、全国でも極めて珍しい「抹茶特化型の産地」です。特許庁の地域団体商標（地域ブランド）でも、茶の分野で「抹茶」に限定した登録は西尾が全国第1号でした。\n* **意外な点・歴史の裏話：**\n  西尾茶のルーツ自体は鎌倉時代に遡りますが、近代産業として開拓した「茶祖」は、西尾市上町にある浄土宗寺院「紅樹院（こうじゅいん）」の第34世住職・**足立順道（あだち じゅんどう）師**です。明治5年（1872年）、順道師は京都・宇治から茶の種を持ち帰り、自ら境内の荒れ地を開墾して茶園を開きました。明治12年には知多から茶師を招いて製茶を本格化させ、周辺農家へ栽培を広めました。紅樹院の本堂前には今もその「西尾茶の原樹」が大切に守られており、毎年12月には出来栄えを順道師に報告する「茶祖奉告祭」が行われています。\n* **根拠・出典：**\n  西尾市観光協会「紅樹院」「西尾の抹茶」公式解説、西尾茶協同組合「西尾の抹茶について」。\n\n---\n\n### 第4件：新幹線「三河安城駅」、在来線と約150mも離れて連絡通路が長い理由は？\n\n* **疑問（トークの切り口）：**\n  東海道新幹線の三河安城駅で在来線（東海道本線）に乗り換えようとすると、一度改札を出て長い連絡通路を歩くことになります。「なぜ線路が交差する真上に駅を造らなかったの？」と思ったことはありませんか？\n* **理由：**\n  新幹線と東海道本線が交差する地点にはすでに大規模な民間工場が稼働しており、用地買収や移転が難しかったこと、また新幹線の線形（直線性）を最優先させたためです。\n* **具体的な数字や比較：**\n  新幹線と在来線が立体交差する地点から、駅は約300m東側にずれて建設されました。その結果、新幹線改札口と在来線改札口は約**150メートル**離れており、両者を結ぶ長い屋根付き連絡通路（自由通路）には途中に休憩用のベンチが設置されているほどです。\n* **意外な点・歴史の裏話：**\n  三河安城駅は1988年（昭和63年）に開業した地元請願駅ですが、交差点の直上付近にはセロテープ等で有名な「ニチバン安城工場」などの敷地が広がっていました。稼働中の大工場を移転させることは極めて困難だったため、交差部から離れた位置にそれぞれホームを置き、長い連絡通路で結ぶ現在の独特なレイアウトが誕生しました。\n* **根拠・出典：**\n  JR東海 鉄道施設記録（三河安城駅構造）、安城市史編さん資料・駅新設経緯。\n\n---\n\n## 【番組用 3択クイズコーナー案】（第1件：安城七夕まつりより）\n\n**【問題】**\n安城七夕まつりは、2013年に「一本の竹に吊るされた短冊の数」で13,809枚を達成し、見事ギネス世界記録に認定されました。しかし、夏の七夕まつり開催中には認定証がもらえませんでした。その意外な理由とは何だったでしょうか？\n\n* **1番：** 枚数が多すぎて、審査員が祭り期間中に数え切れなかったから\n* **2番：** 前日の夕立の雨風で、短冊をつけた竹が折れてしまったから\n* **3番：** 願いごとの文字が達筆すぎて、審査員が読めなかったから\n\n---\n\n**【正解】**\n**1番：枚数が多すぎて、審査員が祭り期間中に数え切れなかったから**\n\n**【解説トーク用メモ】**\n挑戦した短冊の数が1万枚以上とあまりに膨大だったため、会場に来ていたギネス公式認定員が会期中にすべての短冊の厳密な審査・計数を終えることができず、判定は一度「お預け」になりました。\nその後、1枚ずつ正確な確認が行われ、正式に世界記録に認定されたのは約4か月後の**12月23日（真冬のクリスマス前）**でした。「夏の願いごとが、冬に世界一になった」という、安城らしい心温まる裏話です。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E3%81%84%E3%81%A1%E3%81%94+%E8%B5%A4%E3%81%84%E9%83%A8%E5%88%86+%E5%81%BD%E6%9E%9C+%E6%9E%9C%E5%AE%9F+%E7%B2%92&client=app-vertex-grounding&safesearch=active\">農林水産省 いちご 赤い部分 偽果 果実 粒</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B9%9D%E9%87%8D%E5%91%B3%E9%86%82+%E6%9C%AC%E3%81%BF%E3%82%8A%E3%82%93+%E6%AD%B4%E5%8F%B2+%E9%A3%B2%E3%82%80%E3%81%8A%E9%85%92+%E7%A2%A7%E5%8D%97&client=app-vertex-grounding&safesearch=active\">九重味醂 本みりん 歴史 飲むお酒 碧南</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%8F%E3%82%A6%E3%82%B9%E9%A3%9F%E5%93%81+%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE+%E6%B6%99+%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E+%E5%82%AC%E6%B6%99%E6%88%90%E5%88%86&client=app-vertex-grounding&safesearch=active\">ハウス食品 タマネギ 涙 イグノーベル賞 催涙成分</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9B%BB%E5%AD%90%E3%83%AC%E3%83%B3%E3%82%B8+%E9%96%8B%E7%99%BA+%E6%AD%B4%E5%8F%B2+%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88+%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88+%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC+%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B5%E3%83%BC&client=app-vertex-grounding&safesearch=active\">電子レンジ 開発 歴史 ポケット チョコレート レーダー スペンサー</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E5%AE%89%E5%9F%8E%E9%A7%85+%E3%81%AA%E3%81%9C+%E9%80%A3%E7%B5%A1%E9%80%9A%E8%B7%AF+%E9%9B%A2%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B&client=app-vertex-grounding&safesearch=active\">三河安城駅 なぜ 連絡通路 離れている</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E5%B7%9E%E7%93%A6+%E3%81%AA%E3%81%9C+%E8%A5%BF%E4%B8%89%E6%B2%B3+%E3%82%B7%E3%82%A7%E3%82%A2+%E6%AD%B4%E5%8F%B2+%E9%AB%98%E6%B5%9C%E5%B8%82&client=app-vertex-grounding&safesearch=active\">三州瓦 なぜ 西三河 シェア 歴史 高浜市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E7%9F%AD%E5%86%8A+%E3%82%AE%E3%83%8D%E3%82%B9%E8%A8%98%E9%8C%B2+%E5%AE%89%E5%9F%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 短冊 ギネス記録 安城市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%A5%BF%E5%B0%BE+%E6%8A%B9%E8%8C%B6+%E7%B4%85%E6%A8%B9%E9%99%A2+%E6%AD%B4%E5%8F%B2+%E8%A5%BF%E5%B0%BE%E5%B8%82&client=app-vertex-grounding&safesearch=active\">西尾 抹茶 紅樹院 歴史 西尾市</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-bupJNCLN8Bu3E1t0hGUbEDPnOhnzGgOQjV1O1shCYULr5pKDcFDs92e9YH1VMLZ0jrzqOuvsStEqEv-cgiMz_28VT3cja6sBL3RvQmhBwequPUO",
-          "title": "hakko-umami.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmQMac0WhGGnLur1ktbNR46_PIQBWEBadR5oW9hmPaT3Nrn0wDrGE0wpZuCMDzEbKjO4C7L1X0aOPLH96fTxBdgraiU3hmD-DKDjSEuz_O8F2T5pj6YjrXunhlRS2voIF8Kk6YDiVAw7k=",
+          "title": "japaneserecords.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbeKSHby0ogp9qHh2p6GzbsDTpL47YfDcppOWpDEmrCm7UCPTWLaLIBGD7-kmV5pvy0XDaH-h47xnHIohqSvt_1k9AUSdhUqVncWvEyAvBx4NyZOczFI4fxnzpChB61QXDcShWl94wcbKMHx-LU8ZacNxzicDyfO4eswE=",
-          "title": "rakuten.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6_Vq02RRhJ_jmfhRCuRmbCfnk6FZbEsRixtm5-26zqC6Cpl73dUgTfST7x9yLKovC02ZA_7cbFTmBtHGEKaZP-kC7c_jB5D_Hd_Hi5ltZPcPxoGNf3fSL1k5MPaVEDiCnLGGao5BE910=",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiK8TnnycmopraeXKkFPPwTeYM-DPX2lMlN9TakfT7ohSWbBGIDCuSc96MMNZdep41hYbA7I1NaiHKEMWnScHwxTixXGeopki3fiZQUTe-aXzaYw2SYduzYAVGxg==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIY_pRRJxgJBbMoqiMfSSKDWKzd0WOAZv6o8GnnY92ao5GYNoAtosY4d8rQr_vT4QCLh6916B5AddVGC0yZQg9mpB-Wn_PPxcE6hND3GYX",
+          "title": "anjou-maturi.info"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERMe3NbNYjNw8-fJRW-3ym2E_WNRHonoQdbmfzw5BA3XwQeshkpQx--LPDhZlQ-shDsr5ZelF4C8sleWYUmy3pKvEhtekSTGrGBdWyIYsDNrqY",
-          "title": "kokonoe.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOfq4tS2W11HZFYH0EmJD93yaDCnnYiRY4vlJzRo_EmdOC3pulbAZx8OalhDK2CTAbX7wtYUavOy3-qR72M8bXSAV-r4BOImSZzNa0WAp98vg1DRF1ysL68h-3ADtXTw7TuJViAvX9vnE=",
+          "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYOhLXvSMvdllJoCNMkyGqMpD4dbxOczgFLfYxF3ll_hcstGYNxnKpDNKhO0P_zp8zJhCBOc_4s-69BSYTsYxXYJOy15dK1nwW_U7MrI5e5cBN3QW0HlFpClpsu0tgsuhEALqYPLw=",
-          "title": "hekinan-kanko.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5tjfc_qAEVM5d1aBKva_2I_EO3EUtPPdJFjl6x2wYfL-ewNH0M6EeECEWc7zclACG3zvjDCjuxlAKuqjwmjeN3Oa01UozA3RZqHgSh4EPOth74besPTjQWMLmWC3xZ4071txfOkw=",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcCraRfz85MPnnOYk6cCcP13noIeRBmztN5s494kgFR5qsUua6TOW5hjnfaj--PirilmRNMWvhcebpHyDOr4IYUC2V-WUn_gbJ5gwTfOElXFFGOgyYBdKplx9qSWwrvHDz3qbhJ1H8EuTVc6aXkg==",
-          "title": "hanamarumama.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEssivUaiwgLJeQO_BkchAUy4fOua8dfLJMBUJxQ9u1W42LpJ9lJumwwvvsAxUw2-vd50WnnloQR-sNv6OlRb4TxEsSB0CalRykOGlJQKNKmN_GNcnqYx-XFaiH2ECYbZxc4kKh_vaqUUQBaPfID7sSqn0-E463kp1tpV6XtdtMXiKaW8VZHYXds6SaQkzV_abe_lh6cCsFTPPotKISbryXcs7zg_Qd1dPnAtmKnijY0mvm6S0kkkFy5Dc9brz5ofcTHSLgujHFdLUPDhBih3DfzO9KYk_k7u56Hi-DpUGP8pQC93CYNf0J8flwDbzfxaKjWy7Mfow9j8Aylj5Iky9T-G25IyY0nn-oYTsk2pC15eLhS5gBoqYsnb86PxVu8aLP-zJouDndEHbZ9ha3pLcm023MsA2xUYxRgX5dM376ih6rwIAQNkA9rvuV2q7xLPfbw7boszo5xdcjWo4EicVD1r6Xl_jKDG6YZ2oda9d0xZFH9tWS4jaTLZiEr6FmsFVc8FkqPv6ehi1eEsA3UJR0zub66w==",
-          "title": "ndl.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJb_OT9FLDhL-ZV-n_6dc1ZYbZQfFasSppAityKcwGMtB5xwxtgMbwTJeBRbErW1-FZmANADhJ1qERCo8dEtlxqvqRqHnk6UFjLRyWcc6kWFYa2dJWYcKyxLCJ1RYX9KHAUzontJ-k-ts=",
-          "title": "kankitsukeip.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7D16qtxu1fFuVwdFlY-t_3opsAi6NxoC2FXRK_7f69Ie43XHRC1SOIUEjFPY3o_Scx7Rx1_VpOW2Tq6CFBRzDiWDRgP9EltBmeQvTIDJ8qijwEaqPYvZA_YqKT0hIHTcA1fjf2no1iJ5I6obKgQ==",
-          "title": "tabechoku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqtPm2rBGPq0esp4tqaGhuetA7i8o7iN1IhBxRFMbrQ1OkB21al6Fl8TdYmFASbD2TVIvaZUKX6KS1XSVvv1YpFuG0Y8dNHLPYx4eKxoqrSsqKvhwH6kgV",
-          "title": "hint-pot.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJXX7oLW6PF8MSm-oDYrmXjYad9tn86EFXg20AFkeKv2BrXdlkK__WVzWqghyYmMUOWHNd-hDUwNgX-q0YKVBHlDJWJS5K0craFFa5cBqWwO15PR1FyU9zJ768bavPWRk3vHwqM29-ZDmvQwOyvuRXbYjSAjuNcTUuEdLivgS4oAvEoetvySXHRMqy6A657HeGwST1-STle7m1jqPWlMeJLseJeDzAh_OYPBUGKhoCLX3ZFDceaIEs0m1Acakpd3cgm3rNmO-h0HVhgfOv_dE=",
-          "title": "kazusa.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWn76L4H4kEQLFIYcgmYM6KNDIBGET7OzdaKqP6lcVB_wZa9V0eHsUQPaIfUf9y09wUkVwH_n25M2ZPTQJENQhcCxVdK7MEQVTRlMENTRbsnhzu7C95tatufH_k3dwWM_wbowfK3QOsoQcYx6KYAfsyZirgK5_sJw2IEQLL_T3xDLz_30V1lKVQKcdXPBiL11Ubp8QyltOFRIVrGX8sPfk573B7g==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENuS-NK5TAIYNabqYzU2Vi7FoLDR1UhKUeCM3IF6PsSnYr9HC4lckLGwyo_Os-qD4nFqkN8XExLBDc06S3_G7B7cXLzcom5hHY7C1x_6kwoN2ENYtvBuqniLNNXwYCeOv1_z9n7lbFj5ojgrps5NG0iMOvM1qkwmURW0huqyun49ZdDXkU4TtGzdndqejnuBM4bN8=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2RyDS4dd-NZ7QNDf5rwMD0CWjzIxPtTK7QZj6WrlsWTuqSLqLBQACxW8_i7AgNZ4FfPVlglLp2Knd16Vuya9i4tddLIUdivPQw8ii1fnDegmqVpQRm2jcndGI3cy6q4mdcI0JkXnfmQ==",
-          "title": "jspp.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIz1tdALGRJpC22YAy77ftmHvU5oaAp-w-KV-4Akp3HXbqW3a5TrDTS3KN8bvygZ1SrikuBaCWocpLvZFYNZJozq4418MSGrC3f55I0JHabeBzoFrTXKKz6IvXmQNu2CW1aad0aQ==",
+          "title": "kawara.gr.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7SJRGHMH5apoq6FY5Ekbu_D81thbWc0PzPHJbFWGoLyqSwh9Wq48K0GG2Xd8WZHJPx1iaf5nTXlfNSxsyWmCknwir4qsOXuPJhZ7marPJRgxCU6KdCC-ac1Qt8j6V7eorsWAcDksnqJY=",
-          "title": "chem-station.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdp-wQkrq10hD8sFmnYJBtoJM056399uJopHKo6trRpklj2kgHfBMRzpnxqUYuCb1Q-RXos3y9WiBF_pXkPYhYwVSwm1Xtjp43qPMf7oHTOnYT9k8PbDGhU4=",
+          "title": "e-yanet.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2iWNE3MVOPlcxHOCkEDynRrhwjDAskiLslZC8Idt4AJjdt0_1W9dt3_tpRCLs_AxtTQ70z-xkedomjqRu_iMjAvSOXKCVmBqoB9sTFF2o5NgZSvniDE879j09cQAQf-TvAcHP0Om0KpUS9bvX0pHsQsvl2oAkYIE8Ye8=",
-          "title": "housefoods-group.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhHwm8noQpuKSLha2QrKNfwkOaC-83HvKmYjOflmMs-z0Kq5EzgB8DbnrTNrjhiqmzQmDGPVdUGMwkp-F-lHawV-gGrrC5XobnfOBWGgF_fRPVRn-k_1c9nhzaTwkL1gK_MICnDTLExk3Zn9eFEqCPokFe8VHF-g==",
+          "title": "aichi-pref-library.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErGUN3205yC_5TWQvVd1_lkz6zc1rle1PwVZ8f0U4RaYyuapi0UNOsjH_Hi2u0Jm95JSBrVXokKDunQ3TUerie9CxNB0Xy_calp0DpLbS44HsHLdekzuO_8wmxaeZ9N_EdBLHbaW9Pa5ky0bi0QbsIvFLyOZ3hLhpQeRwflVnlT78=",
-          "title": "withnews.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqD962NLh97n40p15ma10K3hRCEEY7E3p9qomA4wbXxE7qjrhH7LjA99cS181_jGtkPYyu-5y63YUd7WV3QIO8utHPjNI5P32Qgy3lF-NP1ZXaLuyIgz9_JOGLa8ZUMJL9r9Cs_uzCQR_eFQuKkt_GZQ7vK_wb5gS3mt5jwaSQXEMFA==",
+          "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdHRwznl09Xrm0SxLbICvOsoUBGLS5jKxKeA11fzq03NM6pmtWlxGR6gS8nQLJPm2-Gfkwg9_Xm4fW3N7BWnzU1zYYzwgX9CTiBsMzqzg4e_m-vQhdaMFFCI7prFPACOsVWfw8-HZph75X5DOScFCc5VPJvZ72itJ7zCdtr1mgaj9tYjfBpdIH68lE10U3uk_X5P9PggU3SIEo8n6g--eKyH6T0YTGON_e-ruOIg==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHHJN72TvI1rC-bsJ8B_6V7iQj6mP0VzNqEqGc3BQ7l4e61rNdBiXtEeKFW3FE-Qf3LAngKO9cteJJgxE8ZDfSLnK1dZYSq41L54T68SsrpMKJELpJPvpkQPzeGtq2z3_B8NfFz8A72Jb6OiPDZbiAkeDUC2mVmtQ=",
+          "title": "yanekabehome.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaP2HVdjbqf8-qwwysoTnJ76n63BhHMn0mFLPlyvOlTRM-Azfix4F10Q6ZEjpodBTCv95duoE5upZwlRVxqqAM-0rJRHzhRk_nDryZ2scGCYhxqrQmYudwh3BDQBt1Xd2CvmKPoMDQSbO3IcWYsmfAefqMjJaxjx-1wg5qrtw",
+          "title": "takahama-kawara-museum.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe0bStqBCJRzCGlAbF39ArkW6q1C8nI2vmH97KF5mcPj4syrQ8baIPohxIqSgZvYb_nk-w4ZWvT5ew4ihw6cVrQJbs235VDzjEDc-KX1A8j24dpcWhukeUUQYYxXhv9lny",
+          "title": "nishiokanko.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZDudUcEpdXMIDO2RwHaG6Lzmq68irplleJ5I-pD1jVSyVWT89MBYsgczt0dAJrH8QfJFkyuZ7wjO9SMVa4xc1M4YRUXPgOYHVw9njghiPhcX8edxfQGnEKbyMDbtLErc=",
+          "title": "mytabi.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhaIxEk8OhJI2JHn4ZyGudYc8iPp482PVrNdTR6oTd8dQ6RKSzkwPyvVCVk8weARG9YRQOzs00bdIS4PzPzo00PAI52CmTBtqT--Er3iKfaITcdjdnwBe5Fr0qLT-0SXMK0Q==",
+          "title": "nishiokanko.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbDSeIfqKeOzcjxY-IGOFGO-KZbwW6S2k9xd54UJaeDOSZmf_r7fhE5KYs-AjnhpQXt6nOnn0HBZ0z_C5h5Gug1dBtdjdg5V8WML3LxiV_J8Hjfx2v0fT",
+          "title": "nishiomatcha.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrBrygPi6nvv58PmieuUF34rVuzVVI5eyelBqUJChIZFUzR0mNt1jIU2Xf44YtTqB5k_Cg6Jg-kFOzU4AC_F1nEjGUkL_7DdTLB5C-3WAsLZjV3bUWL9T6-b9AbnE72U-lCVKqaHhd1mOB8sNPvDpCKHvqDHBe197ndu8SDXg=",
+          "title": "tetsudou-kyukyoku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqQec5oDcnXtXuZZnFtWTn_mDe8NyTwFIAag01DA2sX5ocys95XyK1u4-5tNJTxoMK72viMrY1T8RbPzCAx5zHC8vSp14mWSXvud9gUvRlobh49D0BAFQqaAUxgQDTp0AK0h4VE5WKUjwHvksR41NP_nx9voVbFENzVEulrCaKrCM=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZ7b-f_U1wqY_C_R3qTzyvz8Pp2YuvpEMMkoyy3I2-ihVPnpVluR5rqRhGlUgBdHxAeXCK7r4jCm-2Sr2guHws3UB6lnjI-XsUvHgWu55kARlmqCr2MqUJBE3cLmNsT3rhF4Vu-yITYjpYWw1M62Hf2mW0ie2booQz4vxW",
-          "title": "deepthought.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqEpfAqe0WsDEYSMXdtyBFhrz8q9KsUiyiAs4p68xgpvASIMpPhmiKV_BVasZvIegwsmPiDO3lc6jWDQmZqpEnUIRPsBTkqU5P3TFWcboNeVHnWyuCssNGIdYs9dWyimNAl6SsjJSli7-qRrw=",
-          "title": "haradaeigo.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvOpQ8fkZ74U3kLqQ2-6QZBXkqYhtNZzJuUMUO2rjI-xlE8wrrzTVDA9GAFOQo9gSrt7_ut9XWLrnz5kofOMe5JzwMtu2SVhsfMktRkRDzUT8ft9RkhNkE1Vt14C_i_FdpfN93",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWo1wZhtNnK5RwBAH9twWkEv_lsXFOhiHsqe_reYdMcRsSRy8DuEznhrcnTAyea2vrkywYFsxax0OYeIhgbgs37rUJKLzUmc-uaOPbICqiYkDfIibld4hFBqMBkzbF8xZQth8RdbYrGg--Fw==",
-          "title": "jema-net.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkvbbvooOqUDo29ZCpSTIbhlISGvcuC32M7uCGIRqF8LumQFtA0ckRGf2MPxkq2pO9or35quvgAOWqD_L9BL0Zf06Vl8sUiuY5rpkb3shFd7FILHzkJM1watG0LoXN",
-          "title": "listen.style"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8FNJO4kPI9Nm5cpHZ-34fe6gg7QusfCksr-mqCQ952PksSwmF4FswfIrX46KCC-qt2ccmigX_zuDnWc_K4UaNAAwb_80AbXe-zfU8IY10HgzyXLNJmrLFAX8sTlUaAuo_TQyMrZHhy0sbHCHx",
+          "title": "hatenablog.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 660,
-          "endIndex": 837,
-          "text": "麹菌の酵素がもち米のでんぷんをブドウ糖やオリゴ糖へと分解するため、砂糖を加えなくても非常に濃厚な甘みとコクが生まれます"
+          "startIndex": 926,
+          "endIndex": 1088,
+          "text": "をコンセプトに掲げており、その象徴として「一本の竹に吊るされた短冊の数」で世界一を目指す挑戦を行ったためです"
         },
         "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 840,
-          "endIndex": 1014,
-          "text": "江戸時代、酒の醸造技術や甘味料が貴重だった時代には、この自然な甘みを生かした「甘口の高級酒」として親しまれていました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1057,
-          "endIndex": 1292,
-          "text": "現在のみりん風調味料（アルコール分1％未満）とは異なり、伝統的な「本みりん」は**アルコール分約14度**（一般的な清酒と同程度）を含み、**糖度は40％以上**にも達します"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1737,
-          "endIndex": 1824,
-          "text": "現代でも本みりんはそのまま飲酒用として楽しむことができます"
-        },
-        "groundingChunkIndices": [
+          0,
+          1,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1894,
-          "endIndex": 1987,
-          "text": "安城市のお隣である碧南市は、三河みりん発祥の地として知られます"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1990,
-          "endIndex": 2150,
-          "text": "安永元年（1772年）、廻船問屋を営んでいた石川八郎右衛門信敦（九重味淋の創始者）が三河でみりん造りを始めました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2153,
-          "endIndex": 2393,
-          "text": "三河地方は温暖な気候、矢作川の良質な水、良質な米が揃っており、碧南から船で江戸へ送られたみりんは蕎麦屋や鰻屋の秘伝ダレとして絶賛され、全国にその名を轟かせました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2426,
-          "endIndex": 2502,
-          "text": "九重味淋株式会社 公式サイト「沿革」「みりんの歴史」"
+          "startIndex": 1131,
+          "endIndex": 1174,
+          "text": "認定された短冊の数は**13,809枚**"
         },
         "groundingChunkIndices": [
           3,
-          0,
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2507,
-          "endIndex": 2564,
-          "text": "碧南市観光協会「九重みりん時代館」資料"
+          "startIndex": 1177,
+          "endIndex": 1485,
+          "text": "重なり合わないよう緻密に吊るした巨大な一本の竹を「10分間垂直に自立させる」という厳格なギネス公式ルールをクリアし、「竹にかけられた最も多い短冊の数（Most tanabata wish cards on a bamboo）」として世界記録に認定されました"
+        },
+        "groundingChunkIndices": [
+          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1531,
+          "endIndex": 1773,
+          "text": "挑戦が行われたのは夏の七夕まつり（2013年8月）でしたが、集まった短冊が膨大すぎて、公式認定員が会期中に全ての確認を終えることができず、判定は一旦持ち越しとなりました"
         },
         "groundingChunkIndices": [
           4
@@ -312,112 +237,74 @@
       },
       {
         "segment": {
-          "startIndex": 2685,
-          "endIndex": 2983,
-          "text": "私たちが普段「実」だと思って美味しく食べている赤くて甘い部分は、雌しべの根元にある「子房（しぼう）」が肥大化したものではなく、花の土台である**「花托（かたく／花床）」**が受粉後に大きく膨らんだものです"
+          "startIndex": 1776,
+          "endIndex": 1895,
+          "text": "厳密な枚数確認と再審査を経て、正式に世界記録に認定されたのはなんと冬の**12月23日**"
         },
         "groundingChunkIndices": [
-          5,
-          6,
-          7
+          3,
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2986,
-          "endIndex": 3088,
-          "text": "植物学上、子房以外の部分が大きくなった実を「偽果（ぎか）」と呼びます"
+          "startIndex": 1898,
+          "endIndex": 2000,
+          "text": "安城の夏の願いが、真冬のクリスマス直前に世界一の栄冠へと結実しました"
         },
         "groundingChunkIndices": [
-          5,
-          6,
-          8
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 3131,
-          "endIndex": 3296,
-          "text": "イチゴの表面に散らばっている小さな粒々（通称「ゴマのような粒」）こそが、正真正銘の「果実（痩果＝そうか）」です"
+          "startIndex": 2031,
+          "endIndex": 2135,
+          "text": "安城市公式ウェブサイト「安城の願いごとが世界一に（2013年12月25日掲載）」"
         },
         "groundingChunkIndices": [
-          5,
-          9,
-          7
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 3299,
-          "endIndex": 3445,
-          "text": "1粒のイチゴには、この果実が**およそ200個〜300個**も集まっており、全体として「集合果」を形成しています"
+          "startIndex": 2031,
+          "endIndex": 2172,
+          "text": "安城市公式ウェブサイト「安城の願いごとが世界一に（2013年12月25日掲載）」、安城青年会議所 記録資料"
         },
         "groundingChunkIndices": [
-          5,
-          9,
-          10
+          3,
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 3448,
-          "endIndex": 3527,
-          "text": "本当の「種」は、表面の粒々の中に1つずつ包まれています"
+          "startIndex": 2550,
+          "endIndex": 2673,
+          "text": "良質な粘土層、海運に優れた立地、そして大消費地・江戸での防災政策が合致したためです"
         },
         "groundingChunkIndices": [
           5,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2716,
+          "endIndex": 2898,
+          "text": "三州瓦は、島根の石州瓦、兵庫の淡路瓦と並ぶ「日本三大瓦」の一つですが、現在の全国シェアは**約60〜70％**と群を抜いて日本一です"
+        },
+        "groundingChunkIndices": [
+          7,
+          8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3555,
-          "endIndex": 3735,
-          "text": "「イチゴのつぶつぶ＝種」と思われがちですが、つぶつぶ自体が果実であり、赤くて美味しい部分は単なる「花座（茎の先端）」です"
-        },
-        "groundingChunkIndices": [
-          5,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3738,
-          "endIndex": 3954,
-          "text": "また、園芸学や農林水産省の作物統計上の区分では、木になるものが果物、草になるものは野菜とされるため、イチゴは「野菜（果実的野菜）」に分類されます"
-        },
-        "groundingChunkIndices": [
-          5,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3985,
-          "endIndex": 4190,
-          "text": "日本に現在のようなオランダイチゴが持ち込まれたのは江戸時代末期（1830年代）で、当初は食べるためではなく観賞用の植物として親しまれていました"
-        },
-        "groundingChunkIndices": [
-          5,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4193,
-          "endIndex": 4299,
-          "text": "本格的な営利栽培が始まったのは明治末期（1900年頃）になってからのことです"
-        },
-        "groundingChunkIndices": [
-          5,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4332,
-          "endIndex": 4396,
-          "text": "農林水産省 広報誌「いちごのあれこれ豆知識」"
+          "startIndex": 2901,
+          "endIndex": 3106,
+          "text": "高浜市春日神社の「瓦焼狛犬」に「享保八年（1723年）三州高浜村瓦屋甚六」の銘があり、300年以上前から専門業者が集積していたことが分かっています"
         },
         "groundingChunkIndices": [
           5
@@ -425,19 +312,60 @@
       },
       {
         "segment": {
-          "startIndex": 4401,
-          "endIndex": 4504,
-          "text": "国立国会図書館 レファレンス協同データベース「イチゴの食用部位の構造」"
+          "startIndex": 3152,
+          "endIndex": 3326,
+          "text": "もともと三州（西三河）の沿岸台地は農業用水に乏しく稲作に不向きだったため、農閑期の貴重な産業として瓦作りが育ちました"
         },
         "groundingChunkIndices": [
-          7
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 4644,
-          "endIndex": 4857,
-          "text": "タマネギの細胞が包丁で傷つけられると、細胞内に分かれて存在していた前駆体成分と酵素（アリイナーゼ、および催涙因子合成酵素＝LFS）が混ざり合います"
+          "startIndex": 3441,
+          "endIndex": 3690,
+          "text": "当時、江戸で頻発する大火を防ぐため享保の改革で「町家の瓦葺き」が解禁・推奨され、矢作川や衣浦湾の水運を活かして大量の三州瓦が船で江戸へ運ばれ、一大ブランドを築きました"
+        },
+        "groundingChunkIndices": [
+          5,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3721,
+          "endIndex": 3809,
+          "text": "高浜市やきものの里 かわら美術館「三州瓦と高浜いま・むかし」"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3721,
+          "endIndex": 3908,
+          "text": "高浜市やきものの里 かわら美術館「三州瓦と高浜いま・むかし」、愛知県陶器瓦工業組合「三州で瓦が造られるようになったのはいつ？」"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3911,
+          "endIndex": 3962,
+          "text": "愛知県経済産業局「三州瓦について」"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4358,
+          "endIndex": 4520,
+          "text": "明治維新後の激動期、地域産業の復興を志した寺の住職が宇治から茶の種と製茶技術を持ち込み、農家に広めたためです"
         },
         "groundingChunkIndices": [
           11,
@@ -447,21 +375,84 @@
       },
       {
         "segment": {
-          "startIndex": 4860,
-          "endIndex": 5066,
-          "text": "これにより、空気中に気化しやすい催涙成分（*syn*-プロパンチアール-*S*-オキシド）が瞬間的に作られ、目の角膜を刺激して神経反射で涙が分泌されます"
+          "startIndex": 4563,
+          "endIndex": 4749,
+          "text": "西尾市のお茶生産は、その**96％以上**が抹茶の原料となる「てん茶」で占められており、全国でも極めて珍しい「抹茶特化型の産地」です"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4752,
+          "endIndex": 4897,
+          "text": "特許庁の地域団体商標（地域ブランド）でも、茶の分野で「抹茶」に限定した登録は西尾が全国第1号でした"
         },
         "groundingChunkIndices": [
           14,
-          12,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 5109,
-          "endIndex": 5233,
-          "text": "以前は「タマネギの香りと涙の成分は同じ1つの酵素反応で作られる」というのが定説でした"
+          "startIndex": 4943,
+          "endIndex": 5211,
+          "text": "西尾茶のルーツ自体は鎌倉時代に遡りますが、近代産業として開拓した「茶祖」は、西尾市上町にある浄土宗寺院「紅樹院（こうじゅいん）」の第34世住職・**足立順道（あだち じゅんどう）師**です"
+        },
+        "groundingChunkIndices": [
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5214,
+          "endIndex": 5363,
+          "text": "明治5年（1872年）、順道師は京都・宇治から茶の種を持ち帰り、自ら境内の荒れ地を開墾して茶園を開きました"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5366,
+          "endIndex": 5479,
+          "text": "明治12年には知多から茶師を招いて製茶を本格化させ、周辺農家へ栽培を広めました"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5482,
+          "endIndex": 5679,
+          "text": "紅樹院の本堂前には今もその「西尾茶の原樹」が大切に守られており、毎年12月には出来栄えを順道師に報告する「茶祖奉告祭」が行われています"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5710,
+          "endIndex": 5779,
+          "text": "西尾市観光協会「紅樹院」「西尾の抹茶」公式解説"
+        },
+        "groundingChunkIndices": [
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5710,
+          "endIndex": 5836,
+          "text": "西尾市観光協会「紅樹院」「西尾の抹茶」公式解説、西尾茶協同組合「西尾の抹茶について」"
         },
         "groundingChunkIndices": [
           14
@@ -469,31 +460,19 @@
       },
       {
         "segment": {
-          "startIndex": 5236,
-          "endIndex": 5435,
-          "text": "しかし日本の研究者が世界で初めて「涙の原因物質だけを専門に作る未知の酵素」を特定し、2002年に世界的科学誌『Nature』に論文が掲載されました"
+          "startIndex": 6314,
+          "endIndex": 6545,
+          "text": "新幹線と東海道本線が交差する地点にはすでに大規模な民間工場が稼働しており、用地買収や移転が難しかったこと、また新幹線の線形（直線性）を最優先させたためです"
         },
         "groundingChunkIndices": [
-          11,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 5438,
-          "endIndex": 5566,
-          "text": "さらにこの発見により、研究チームは**2013年にイグ・ノーベル賞（化学賞）**を受賞しています"
-        },
-        "groundingChunkIndices": [
-          11,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5594,
-          "endIndex": 5712,
-          "text": "切る前のタマネギの中には、涙を出させる催涙物質そのものは**一切含まれていません**"
+          "startIndex": 6588,
+          "endIndex": 6697,
+          "text": "新幹線と在来線が立体交差する地点から、駅は約300m東側にずれて建設されました"
         },
         "groundingChunkIndices": [
           16
@@ -501,184 +480,126 @@
       },
       {
         "segment": {
-          "startIndex": 5715,
-          "endIndex": 5892,
-          "text": "植物自身が外敵（昆虫や動物）に食べられたときに身を守る化学兵器のような仕組みで、細胞が壊れた瞬間に初めて生合成されます"
+          "startIndex": 6700,
+          "endIndex": 6932,
+          "text": "その結果、新幹線改札口と在来線改札口は約**150メートル**離れており、両者を結ぶ長い屋根付き連絡通路（自由通路）には途中に休憩用のベンチが設置されているほどです"
         },
         "groundingChunkIndices": [
-          13,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5923,
-          "endIndex": 6200,
-          "text": "この大発見のきっかけは、ハウス食品がレトルトカレーの開発中、**「タマネギとニンニクを炒めると、なぜかペーストが緑色に変色してしまう」という製造現場のトラブル**を解明しようとしたことでした"
-        },
-        "groundingChunkIndices": [
-          11,
+          16,
           15,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6978,
+          "endIndex": 7194,
+          "text": "三河安城駅は1988年（昭和63年）に開業した地元請願駅ですが、交差点の直上付近にはセロテープ等で有名な「ニチバン安城工場」などの敷地が広がっていました"
+        },
+        "groundingChunkIndices": [
+          16,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7197,
+          "endIndex": 7425,
+          "text": "稼働中の大工場を移転させることは極めて困難だったため、交差部から離れた位置にそれぞれホームを置き、長い連絡通路で結ぶ現在の独特なレイアウトが誕生しました"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7456,
+          "endIndex": 7510,
+          "text": "JR東海 鉄道施設記録（三河安城駅構造）"
+        },
+        "groundingChunkIndices": [
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 6203,
-          "endIndex": 6329,
-          "text": "変色の原因酵素を調べる過程で、通説とは異なる「涙の酵素」の存在を偶然見つけ出しました"
+          "startIndex": 7456,
+          "endIndex": 7558,
+          "text": "JR東海 鉄道施設記録（三河安城駅構造）、安城市史編さん資料・駅新設経緯"
         },
         "groundingChunkIndices": [
-          11,
+          16,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 6362,
-          "endIndex": 6446,
-          "text": "ハウス食品グループ本社「タマネギの催涙成分に関する研究」"
+          "startIndex": 7677,
+          "endIndex": 7840,
+          "text": "安城七夕まつりは、2013年に「一本の竹に吊るされた短冊の数」で13,809枚を達成し、見事ギネス世界記録に認定されました"
         },
         "groundingChunkIndices": [
-          15
+          3,
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 6451,
-          "endIndex": 6541,
-          "text": "日本植物生理学会「みんなのひろば：玉ねぎの催涙成分について」"
+          "startIndex": 7843,
+          "endIndex": 7930,
+          "text": "しかし、夏の七夕まつり開催中には認定証がもらえませんでした"
         },
         "groundingChunkIndices": [
-          13
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 6546,
-          "endIndex": 6610,
-          "text": "かずさDNA研究所「涙のでないタマネギ（NL52）」"
+          "startIndex": 8303,
+          "endIndex": 8398,
+          "text": "**1番：枚数が多すぎて、審査員が祭り期間中に数え切れなかったから**"
         },
         "groundingChunkIndices": [
-          11
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 6758,
-          "endIndex": 6890,
-          "text": "電子レンジは、内部の「マグネトロン」という真空管から出るマイクロ波（電磁波）を利用します"
+          "startIndex": 8435,
+          "endIndex": 8700,
+          "text": "挑戦した短冊の数が1万枚以上とあまりに膨大だったため、会場に来ていたギネス公式認定員が会期中にすべての短冊の厳密な審査・計数を終えることができず、判定は一度「お預け」になりました"
         },
         "groundingChunkIndices": [
-          17,
-          18,
-          19
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 7162,
-          "endIndex": 7484,
-          "text": "1947年にアメリカのレイセオン社が発売した世界初の業務用電子レンジ「レーダーレンジ」は、現在のコンパクトな卓上レンジとは似ても似つかず、**高さ約1.8m〜2m、重さ約340kg**という巨大な冷蔵庫サイズで、価格も数千ドルと超高額でした"
+          "startIndex": 8704,
+          "endIndex": 8873,
+          "text": "その後、1枚ずつ正確な確認が行われ、正式に世界記録に認定されたのは約4か月後の**12月23日（真冬のクリスマス前）**でした"
         },
         "groundingChunkIndices": [
-          17,
-          20
+          3,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 7801,
-          "endIndex": 7882,
-          "text": "発明者はアメリカのレーダー技術者、パーシー・スペンサー"
+          "startIndex": 8876,
+          "endIndex": 8984,
+          "text": "「夏の願いごとが、冬に世界一になった」という、安城らしい心温まる裏話です"
         },
         "groundingChunkIndices": [
-          17,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7885,
-          "endIndex": 8111,
-          "text": "第二次世界大戦中、軍用レーダーの実験中に、ふと**作業着のポケットに入れていたチョコレート（お菓子）が熱もないのにドロドロに溶けていること**に気づきました"
-        },
-        "groundingChunkIndices": [
-          21,
-          18,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8114,
-          "endIndex": 8336,
-          "text": "疑問に思った彼がトウモロコシの粒をマグネトロンの前に置いたところ、ポンポンと弾けてポップコーンになったことから、電波による調理器の開発が始まりました"
-        },
-        "groundingChunkIndices": [
-          20,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8369,
-          "endIndex": 8452,
-          "text": "一般社団法人 日本電機工業会（JEMA）「電子レンジの仕組み」"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8457,
-          "endIndex": 8563,
-          "text": "アメリカ物理学会（APS）「This Month in Physics History: Percy Spencer and the Microwave Oven」"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9293,
-          "endIndex": 9342,
-          "text": "**正解：** **2番「甘い高級なお酒」**"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9429,
-          "endIndex": 9674,
-          "text": "本みりんはアルコール度数が約14度もあり、もち米から引き出された濃厚な甘みがあるため、江戸時代は女性やお酒に弱い人が楽しむ高級な甘口リキュールとして飲まれていたんです"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9740,
-          "endIndex": 9896,
-          "text": "お隣・碧南の醸造元（九重味淋など）が誇る三河みりんは、まさにこの豊かな甘みを生かした伝統の逸品なんですね"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
+          3
         ]
       }
     ],
     "webSearchQueries": [
-      "農林水産省 いちご 赤い部分 偽果 果実 粒",
-      "九重味醂 本みりん 歴史 飲むお酒 碧南",
-      "ハウス食品 タマネギ 涙 イグノーベル賞 催涙成分",
-      "電子レンジ 開発 歴史 ポケット チョコレート レーダー スペンサー"
+      "三河安城駅 なぜ 連絡通路 離れている",
+      "三州瓦 なぜ 西三河 シェア 歴史 高浜市",
+      "安城七夕まつり 短冊 ギネス記録 安城市",
+      "西尾 抹茶 紅樹院 歴史 西尾市"
     ]
   }
 }
