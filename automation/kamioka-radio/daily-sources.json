@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2191,
-  "estimated_minutes": 6.6,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2283,
+  "estimated_minutes": 6.9,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "飛騨のみたらし団子が甘くないのはなぜでしょうか。1番、冬は砂糖が凍るから。2番、甘い餡かけの方が大正時代の新作で古い形が残ったから。3番、団子自身が甘えるのをやめたから。",
-    "answer": "正解は2番！実は全国の甘辛い餡かけ団子の方が大正時代に京都で生まれた新作で、飛騨にはそれ以前の香ばしい醤油焼きの原型が残っとるんやさ！団子も私も甘やかされたいよね！",
+    "question": "高台にそびえる神岡城の天守閣。昭和45年にある意外な理由で建てられたのですが、それは何でしょうか。1番、映画のロケセット。2番、三井金属鉱業が創業100周年記念で建てた。3番、万博のパビリオンを移築した。",
+    "answer": "正解は2番、三井金属鉱業が建てた、でした！民間企業がお城を建てて町に寄贈するなんて、スケールが大きすぎてびっくりやさ！神岡ならではの豪快な歴史やね。",
     "source_ids": [
-      16,
-      19
+      1,
+      14
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwRv2MlXDeXCupC9Y8NvnZ5fKvDlemq2CFxp8N5STzdrvKS4PPG98A_U_IehVEw396qXFuUJfD2Fgifm4L34ClZl_iv-TX5X_SC1zo9ZresqR4PL6tYEuHnFy1-Q=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG6vxtYU4y6jt8pbTlwIWB4m_uy1T1KRNVLJ3F0D5XKdSsNh5Yglj-wPSYlYfZNDuOhgL1mCPAweivoTjPp-ZcJhkQqrLDA2EcMtQnLXapdt7Wk_n6XsMfN1FtIA=="
+      "https://kotobank.jp/word/神岡",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsXmYEdHvBySKVuTaxFtZzgt462mShO6zYW6HzCpzYfCnR9UT6jYwDOLpVnByrr93BczSvxeEUOcnMxgtKZzM_SsqjrB3NJADK_K3Zkhnz7_KKaDkvBhyQsPbe5go4avKwXA=="
     ]
   },
   "izumi": {
-    "text": "神岡鉱山の地下千メートルにある東京大学宇宙線研究所の観測装置、カミオカンデ。ここ、とんでもない偉業を連発しとるんやさ！初代カミオカンデは千九百八十三年から千九百九十六年まで観測して、純水三千トンに光電子増倍管千本という規模でした。そして千九百八十七年二月二十三日、大マゼラン星雲の超新星爆発から飛んできたニュートリノを世界で初めてキャッチ！このものすごい成果で、小柴昌俊さんが二千二年にノーベル物理学賞を受賞しました。星の爆発を地下の暗闇で待つなんて、今なら気の長い話ってＳＮＳでバズりそうやろー！さらに千九百九十六年四月にはスーパーカミオカンデが始動。純水五万トン、光電子増倍管は約一万三千本とカミオカンデの約十六倍にパワーアップ！千九百九十八年に大気ニュートリノの観測からニュートリノ振動を発見して、当時の所長だった梶田隆章さんが二千十五年にノーベル物理学賞を受賞！小さな山の町からノーベル賞が二回も出とるなんて、すごすぎて笑っちゃうよね。二千二十年からはレアアースの一種を入れて新発見を狙っとるし、次は純水二十六万トン、光電子増倍管四万本のハイパーカミオカンデが二千年代後半の実験開始を目指す国際プロジェクトとして進行中！神岡の地下、世界の物理学を背負いすぎやさ！",
+    "text": "水曜の神岡ディープ！今日は神岡の誇り、鉱山の跡地のお話やさ。\n神岡鉱山といえば、茂住宗貞さんが開発して以来、亜鉛や鉛、銀なんかを掘りまくって町を支えてきた大黒柱でした。でも、2001年に採掘を終えることになったんです。普通なら「長い間お疲れさま、穴を埋めまいか」で終わるところやろー？\nところが神岡は違った！掘ったあとの巨大な地下の穴を、そのまま世界の最先端研究に活用しちゃったんです。そう、あのスーパーカミオカンデ！\nこれ、今で言う究極のリサイクルやさ！普通なら使わなくなった穴なんて放置するか迷うところなのに、まさか宇宙の謎を解き明かす世界最高峰の研究施設に生まれ変わらせるなんて、神岡の人は発想が柔軟すぎるやろー！\nみおんなら、空いた部屋があったらとりあえず段ボールを詰め込んで物置にして終わりそうだけど、神岡は「よし、宇宙の素粒子を見よう！」ってなったわけです。スケールが違いすぎてツッコミが追いつかんわ！\n掘って掘って日本の産業を支えたあとは、世界の科学の未来を支えるステージへ華麗に転職。捨てるのはおとましい、もったいない精神をはるかに飛び越えた奇跡の再利用やさ。\n足元深くに世界中が注目する穴があるって、神岡の人、めちゃくちゃ自慢していいと思うよ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-nobel",
-      "hook": "小さな山の町から、ノーベル賞が2回。小柴さんと梶田さんの話"
+      "id": "mine-after",
+      "hook": "鉱山が終わったあと、穴が世界の最先端研究の場所に。究極のリサイクル"
     }
   },
   "local": {
-    "text": "十月二十四日の土曜日に、神岡商工会議所でフリーマーケットの「カミフリ」が開催されるんやって！掘り出し物や思わぬお宝に出会えるチャンスかも。お散歩がてら覗いてみまい！",
+    "text": "今週の土曜日、10月24日に神岡商工会議所で「カミフリ」が開催されるよ！商工会議所とフリーマーケットのコラボイベントなんだって。掘り出し物や思わぬお宝に出会えるチャンスかもしれないね。お散歩がてら、立ち寄ってみるのも楽しそうやさ！",
     "source_ids": [
-      30
+      31
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/site/koho/88027.html"
@@ -43,257 +43,221 @@
   },
   "segments": [
     {
-      "topic": "海なし県岐阜が全国シェア8割！細寒天日本一のミステリー",
-      "text": "台所にある寒天、あれの原料って海藻の天草やんね？海で採れるやつ！なのに、海がない岐阜県が、和菓子に使われる「細寒天」の全国シェア約八割を誇る日本一の産地なんやって！えっ、ちょっと待って、海がないのに海産物で日本一ってどういうこと！？って、みおん手がないから寒天棒も持てんのやけど！実は細寒天作りには、天草を煮溶かしたところてんを外に干して「凍らせて、溶かして、乾燥させる」っていう過酷な作業が必要なんです。そこで白羽の矢が立ったのが岐阜県の恵那市山岡町！ここは標高が高くて盆地だから、冬は昼間に十度くらいまで上がって氷が溶け、明け方には氷点下十度から十五度近くまでガッツリ冷え込んでカチコチに凍る！しかも雨や雪が少なくてカラッカラに乾燥しとる。つまり、大自然がまるごと超巨大なフリーズドライ工場になっとるわけやさ！寒天の始まりは江戸時代前期、京都の美濃屋太郎左衛門さんが、冬の夜に外へ放置したところてんの食べ残しが凍って乾いとるのを見つけた偶然の産物らしいよ。食べ残しをほったらかして大発見って、お母さんに怒られるどころか歴史的大ファインプレーやん！昼はポカポカ、夜は極寒っていう山里の気候をフル活用した知恵。今夜のお味噌汁に寒天を入れるときは、山岡の冷え込みに感謝して食べまい！",
+      "topic": "崖っぷちからこんにちは！神岡名物「空中建築」の秘密",
+      "text": "高原川の川沿いを歩いとると、思わず二度見しちゃう光景があるんやさ。川の崖から家がぐわーっと空中にせり出して、下から細い柱で支えられとる！あれ、初めて見たとき「えっ、浮いとる！？」って声が出そうになったよ。\n道路側から見ると普通の2階建てなのに、川側から見上げると3階建てや4階建ての立体構造になっとるんだよね。なんでこんなスリリングな空中建築になったのかというと、理由はものすごくシンプル。「平地がまったく足りんかったから」なんです！\n昭和25年に神岡町ができたとき、人口はおよそ2万4000人。当時の岐阜県の「町」でトップの人口やったんです。ピークの昭和35年ごろには2万7000人を超えて、狭い市街地に人がぎゅうぎゅう！映画館も3軒から4軒ひしめき合っとったらしいよ。\n人が押し寄せて家を建てる地面がない！でも家は建てたい！ってなった当時の人たち、どうしたと思います？「横がないなら、川の空中にせり出せばええやさ！」って、川の上に部屋をオーバーハングさせちゃったんです。\n現代なら「土地がないから諦めよう」ってなるところを、崖から飛び出して敷地を広げるド根性。商店や昔の花街の建物も川へせり出して、まるで水の上に浮かぶお城みたいやろー。\n神岡の町並みを見たら、あの崖っぷちの柱を思い出して、当時の凄まじいエネルギーに拍手を送りたくなっちゃうね！",
       "source_ids": [
         2,
         3,
-        4,
         8
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuNE6srFMH5rkUd7wZtx08bzgWlBOVvd8aL6KilnCnbVK0iTT4lrxpZLkrsGvaCX3IEXxVUOi8d1BMZg7xqeb-kgol8Iczc68jzeRxzIhH0jGVqiMgeMGiLtSZJfP3TBYZzaHKuLmw-eZAYszUYjjJR-lm5O29KwpDUB_-Q==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDZ3OdxNdOy3cZEf3Tug4cned4mv1jIJfeM84OB-Hfx7hA2ryJ1GZEVLqC960czvEWNPoL50UEb5iiFl9fKuVX55w_Of8vRMsjcbSPwSO4V7GauIQKgG4WXKhNn_xMnplUgA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNloFVqblqmFDQUoTUWFSkjm65YwFW0CxSGhIpw2A7s1plCk_38Mq9OZPcDr828TEq4v_eAAU73Fg7exJEqUVzJY1HNk4RNKBeenSCOo7MW6QGoy8JBF_fb36MzR3fEqwpPJ84tdS1cDwQoK63LnvL7W9i0Q038mj4-yHWtcqVH-Ea3KkETBiFyoalY1sRNPAfR34dSPA=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-kuSKkRWDV1sSm_TQVHoR_Lfm0zr31XDHNf2fy2ucgzxkaHVCZcTsc_43ggEoZ_K4czJhmepfLdCCHKtwKwMZNKQvYbKf7OtPjp9ncmMdUSjO7nrcztjh"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ClQz_cY4ZLXHrnVKW1InCmtb83BmPAORm4eI1ek-3MIrxrTjIwdmo-f24aEA44ek_7fEMgcRg7oewbFC3iP5Rc-qfk_6kMhOVx2L4MyM8HRXyKe1j1A88zuCx2WA",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO18RARdoBXiA4TCWrRpFa4-jnaJ1FkWu-7O3zBDxT-C3kP2S_Gzbe7lNlU5wZiomA8S5M4nZShQNjS-sp_vM-ra37hbdmVCRBiwaFmrC94SOrL1_ZvL0rfGFh_RtxgAuBRYSQ6rfwmt4jPWhPr264",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3F9aDJrIeMLod2EfUBi0QP8472Kue-1Rm0dOEjHncSppevyuVCZZs4gCAuFO3jXABHoTGWbUiESBoQT4Uwc71IVkBpp4rlQM5I8pvjp-HjHzowNKTY1h8Ko="
       ]
     },
     {
-      "topic": "着色料ゼロ！飛騨の赤かぶ漬けが中まで真っ赤に染まる科学マジック",
-      "text": "そういえば、食卓の真っ赤な名脇役、赤かぶ漬け！あの鮮やかなルビー色、見るからに美味しそうやけど、着色料もお酢も使わんと、塩で漬けただけで中まで赤く染まっとるって知っとった？うそでしょ、包丁で切った生の飛騨紅かぶって、皮だけ赤紫色で中は大根みたいに真っ白やさ！なのに漬物にすると芯まで真っ赤！これ、実は樽の中で起きとる化学マジックなんやさ。皮に含まれとるアントシアニンっていう色素は、酸性に傾くとパッと鮮やかな紅色に変わる性質があります。樽の中に塩を入れて漬け込むと、植物性の乳酸菌たちが糖分をモリモリ食べて、せっせと乳酸という酸を作り出すの。その酸に触れた色素が真っ赤に変身して、じわじわと白い果肉の奥深くまで染み渡っていくんだって！約二か月かけて乳酸菌がじっくり酸を生み出すから、あんなに綺麗に染まるんやさね。雑菌が増えたら酸が足りんで綺麗に赤くならんらしくて、乳酸菌の職人技に脱帽やわ。昔の飛騨は雪深い山奥で、富山湾から運ばれる塩がめちゃくちゃ貴重やったから、塩をケチりつつ冬を越すために乳酸菌の酸で保存する技を受け継いできたんやって。先人の知恵とおとましい精神の結晶やさ！…おとましい、もったいないって意味やけど、使い方合っとる？今夜赤かぶ漬けを見たら、樽の中の乳酸菌に拍手を送ってあげてね！",
+      "topic": "税金が丸ごとタダ！？古代のウルトラ特例「飛騨工」伝説",
+      "text": "そういえば、神岡の大胆な家づくりを見て感心しとったんだけど、飛騨の人の建築技術って昔から日本トップクラスだったみたいやさ。\nなんと奈良時代、日本中で飛騨国だけ「税金が丸ごと免除」されとった特例があったんだって！\nえっ、うそでしょ！？税金がタダ！？みおん、住民票を奈良時代の飛騨に移したいくらいなんだけど！…って、AIだから税金払っとらんわ！\n当時の農民は重い税金で苦しんどったのに、飛騨だけ免除。これ、お米が獲れんから大目に見てもらった…わけじゃなく、実はまったく逆！\n飛騨の大工さんたちの木工技術があまりにも凄すぎて、都の朝廷が「税金はいらん！米も布も納めんでいい！その代わり、腕のいい大工さんを都へ送ってくれ！」って頼み込んできたんだって。これが有名な飛騨工制度やさ。\n毎年約100人の大工さんが交代で都へ行って、平城京や平安京の宮殿、大きなお寺を建てまくったんです。都までは片道およそ14日、1年分の食料も自分たちで担いで歩いたんだから、えらい、大変な道のりやったはず。\nでも、都で神技のような建築を仕上げて大絶賛されたんだよね。平安末期までの約500年間で都に行った職人さんは、延べ4万人から5万人！\n税金をチャラにさせるほどの圧倒的な技術集団。今の飛騨の木工文化も、全部ここから始まっとると思うと胸が熱くなるよね！",
       "source_ids": [
-        9,
-        12
+        17,
+        19,
+        20
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYQUJ4aq5cxPkxdNzvN2TosPVejBDobTTsdAwWyGLBa4ALpHqDA-kR1Q9S1VZqDWEiVoEM4R1iq1BDHgu8Ys3VR_wjs3VABzI2hDrC80rCSd-LfjOqW3hxA67HFwN1dNjh2dkAj3VCLP_hKKZbczhYewXFQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvOnOOL_SEso0_NiLuse9dKv_Mo9ogX2CZNvxenFxaZE6ofB5DDzVChhLoMgn5FBbMoP6nEwdnkcjK_GqTUqXuKURBu3hke9rC0Tk0zuho8GQSF5rWfdiw2ciWJRstiIaOnutVVj51Cg7Kb72vw_pbV3BoIHUgu9JJOo3gDoEgAoXHzRpKYMm7zO7"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdEIRm0j3yu0aMM1c9XP8GgBdrkjC6HiuKy8-2L49efj-Nycc6TcMENxuHNO7XKk2bvVDnqA3LHw0H6MdHMtsTNZIBX0ArAgiVuS47xi3XbzgU_Oc57WvWrvokbbt0wRozV3a0KCWJ5-ByV3NA8YQh11yGQdO_J-Yeq0k=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9CMlAzn41r7oHkzR7fOVjVdMhJgklxbjxJSgE-F1E7OC5t_NV58_QOfl2iLrtAL0v2l8x6bNnzJrE5uDnjIMWDuZlmOGAlSuiy1mD0TtrarkJgAMpY9tEFYBalK90_jWnmMl-Oe0lpgLAhAAicmOQ_FlVu0lrJtx_ofMJkFQ9mQShf9UcHn3sgK3Zfw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhsg2KneCJrzfoTAXvWOtDrS287fSAGI6-XE5zW-DYjqZjaOick1ltPe6jXq7nURN2iMXBWNDigT_BrYWM_KUdVXxD1sBsoefUpq9bm8_A4oVliP-UgxEmygq0lKmY0NkLcJrqRndN"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、地元の食卓や身近な台所にまつわる「食べ物・台所の雑学」の調査メモを作成しました。神岡・飛騨地方や岐阜県にゆかりのある話題を中心に、一次資料・公的情報等をもとにまとめています。\n\n---\n\n### 調査メモ：食べ物・台所の雑学（4選）\n\n---\n\n#### 1. 海のない岐阜県が、全国シェア8割を誇る「細寒天」の日本一なのはなぜ？\n\n* **理由**  \n  寒天は海藻の「天草（てんぐさ）」を煮溶かしたところてんを、屋外で「凍結」と「乾燥」を繰り返して作られます。良質な細寒天を作るには、「昼は暖かく天気が良くて氷が溶け、夜から明け方は氷点下にしっかり冷え込んで凍る」という大きな寒暖差と、雪や雨が少ない乾燥した冬の気候が欠かせません。岐阜県恵那市山岡町は、標高が高く盆地特有の内陸気候であるため、寒天作りに理想的な気象条件を備えています。\n* **具体的な数字や比較**  \n  岐阜県（山岡町を中心とする地域）は、和菓子店などで使われる「細寒天（糸寒天）」の国内生産シェアの約80％を占める日本一の産地です。冬場の山岡町は、日中の気温が約10℃まで上がるのに対し、明け方には氷点下10℃〜15℃近くまで冷え込みます。また、角寒天（長野県が主産地）に比べて保水性・凝固強度が高く、高級羊羹などのプロの現場で重宝されています。\n* **意外な点**  \n  「海のない山里」で、海藻を原料とする海産加工品が日本一のシェアを誇っている点です。冬の田んぼが広がる内陸の山中に、白く輝く寒天がずらりと並ぶ天日干し（ロジ干し）の風景が広がります。\n* **歴史の裏話**  \n  寒天そのものの誕生は江戸時代前期（1650年代後半）、京都・伏見の旅館「美濃屋」の主人・美濃屋太郎左衛門が、冬の夜に屋外へ放置してしまった「ところてんの食べ残し」が偶然凍結乾燥していたことを発見したのが始まりと伝えられています。岐阜県には昭和初期に冬場の農家の副業として技術が導入され、地域の気候風土に見事に合致したことから一大産地へ発展しました。  \n  *【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）、恵那市観光協会「山岡細寒天」、山サ寒天産業公式資料*\n\n---\n\n#### 2. 飛騨名物「赤かぶ漬け」は、着色料ゼロなのになぜ中まで真っ赤に染まるのか？\n\n* **理由**  \n  生の飛騨紅かぶは、表面の皮だけが鮮やかな赤紫色で、包丁で切ると中は大根のように真っ白です。赤かぶの皮には「アントシアニン」という水溶性の植物色素が含まれています。樽に塩漬けして発酵が進むと、植物性乳酸菌が糖分を分解して「乳酸（酸）」を作り出します。アントシアニンは酸性に傾くと鮮やかな紅色に発色する性質があり、溶け出した赤い色素が白い果肉の内部へ徐々に浸透していくため、芯まで真っ赤に染まります。\n* **具体的な数字や比較**  \n  原料となる「飛騨紅かぶ（ひだべにかぶ）」は、大正7年（1918年）に高山市（旧上宝村などの八賀かぶ）の中から発見された突然変異株を選抜・固定した飛騨特有の伝統野菜です。11月頃の初冬に収穫・塩漬けされ、約2か月かけて乳酸菌がじっくり酸を生み出すことで鮮やかに熟成します。\n* **意外な点**  \n  酢や人工着色料を一切使わず、野菜と塩だけで漬けているにもかかわらず、自然の乳酸菌の力だけで鮮やかなルビー色に染め上がります。雑菌が繁殖してしまうと乳酸が十分に生成されず、綺麗な赤色になりません。\n* **歴史の裏話**  \n  かつて雪深く内陸に位置する飛騨地域では、富山湾などから歩荷（ぼっか）によって運ばれる塩は非常に貴重な品でした。そのため、塩の使用量を極力抑えつつ越冬用の保存食にする知恵として、寒冷下で乳酸菌の酸を利用して保存性を高める伝統の漬け込み技法が江戸時代から受け継がれてきました。  \n  *【根拠資料】農林水産省「うちの郷土料理：赤かぶ漬け（岐阜県）」、フジクリーン工業「水の話：発酵と微生物」*\n\n---\n\n#### 3. 飛騨高山・神岡の「みたらし団子」は、なぜ全国と違って甘くないのか？\n\n* **理由**  \n  全国的に親しまれている「みたらし団子」は、醤油・砂糖・葛粉を合わせた甘辛いトロトロの餡（葛餡）がたっぷりかかっています。しかし、飛騨地方のみたらし団子（地元では「みだらしだんご」と濁る）は、生醤油ダレを塗り、香ばしく直火で焼き上げるだけの素朴な醤油味です。飛騨の団子が甘くないのは、全国で主流の「甘辛いみたらし団子」が登場する前、生醤油のつけ焼きだった時代の“古来の製法”がそのまま現代まで守り継がれているためです。\n* **具体的な数字や比較**  \n  一般のみたらし団子は「串に団子が4個〜5個刺さり、甘い餡が絡んでいる」のに対し、飛騨の団子は「1串に5玉」刺され、甘みは米自体の甘みのみ、タレは醤油単体（または醤油をベースにした香ばしいタレ）を二度焼きして焦げ目を楽しみます。おやつというよりは、間食や軽食に近い位置づけです。\n* **意外な点**  \n  全国で見かける「甘辛いトロトロ餡のみたらし団子」の方が、実は大正時代に京都の甘味処「加茂みたらし茶屋」が砂糖醤油の餡を考案して全国に広まった“新しい改良型”です。飛騨の甘くないみたらし団子こそが、原初のスタイルを留めているといえます。\n* **歴史の裏話**  \n  みたらし団子のルーツは、平安時代から続く京都・下鴨神社の「御手洗（みたらし）祭」で氏子が神前に供えた厄除けの団子です。後醍醐天皇が境内の御手洗池で水をすくった際、最初にポコンと1つ、間を置いて4つの泡が浮き出た様子を団子に見立てたという伝承があります。京都から飛騨へと文化が伝わった時期が大正の餡かけブーム以前だったこと、また山里の気候風土に醤油の香ばしい焼き団子が定着したことなどが、甘くない団子が残り続けた理由とされています。  \n  *【根拠資料】小学館『日本一の団子』（サライ編集部編）引用解説資料、下鴨神社由緒関連資料*\n\n---\n\n#### 4. こんにゃくはなぜプルプルに固まるのか？（なぜ「灰汁」を入れるのか？）\n\n* **理由**  \n  こんにゃく芋に含まれる主要成分は「グルコマンナン（こんにゃくマンナン）」という水溶性の食物繊維です。グルコマンナンは水を含むと強力に粘り気を出しますが、そのまま冷やしてもゼリーのように固まることはありません。ここに草木を燃やした灰の上澄み液（灰汁）や水酸化カルシウムなどの「アルカリ性水溶液」を加えて加熱すると、グルコマンナン分子の一部（アセチル基）が外れる化学反応（脱アセチル化）が起きます。すると分子同士が複雑に架橋して網目構造を作り、抱え込んだ大量の水分を逃さない不可逆的な弾力ゲル（熱を加えても二度と溶けないプルプルの状態）に固まります。\n* **具体的な数字や比較**  \n  出来上がった板こんにゃくの成分の約97％は「水分」で、固形分（食物繊維など）はわずか約3％に過ぎません。凝固剤として使う水酸化カルシウムの量は、生芋の重さに対してわずか0.5％〜1％程度で固まります。生芋500gがあれば、板こんにゃくが約5〜6枚作れます。\n* **意外な点**  \n  生のこんにゃく芋には針状結晶の「シュウ酸カルシウム」が多く含まれており、少しかじっただけで口や喉が激しくチクチク痛んで腫れ上がるため、絶対に生では食べられません。昔の人は「強烈なエグ味（アク）を持つ植物を、草木灰の灰汁（アク）で煮ることで、毒抜きと凝固を同時に成し遂げる」という離れ業を編み出しました。\n* **歴史の裏話**  \n  平安時代中期の辞書『倭名類聚抄（わみょうるいじゅしょう）』（930年代）には、すでに「蒟蒻、其の根は白く、灰汁をもって煮れば、すなわち凝成す」と記されており、1000年以上前から灰汁で固める手法が確立していました。なお、生の芋は非常に腐りやすいため、江戸時代の安永5年（1776年）に常陸国の中島藤右衛門が芋を薄切りにして乾燥・粉末化する「精粉（せいこ）」の製法を発明するまでは、秋の収穫時期にしか食べられない季節限定の食べ物でした。  \n  *【根拠資料】一般財団法人日本こんにゃく協会「こんにゃく一口知識・作り方」、日本植物生理学会「みんなのひろば」*\n\n---\n\n### 番組用 3択クイズ案（「みたらし団子」より）\n\n**【問題】**  \n全国的には「甘辛いトロトロのタレ」が定番のみたらし団子ですが、飛騨地方では甘くない「香ばしい生醤油味」が定番です。では、なぜ飛騨のみたらし団子は甘くないのでしょうか？\n\n* **A：飛騨の寒冷地では、冬に砂糖が凍って固まってしまうから**\n* **B：甘辛いみたらし団子の方が大正時代に京都で生まれた“新作”で、飛騨にはそれ以前の古い原型がそのまま残ったから**\n* **C：江戸時代に飛騨を治めた代官が、贅沢を取り締まるために「甘味禁止令」を出したから**\n\n**【正解】**  \n**B：甘辛いみたらし団子の方が大正時代に京都で生まれた“新作”で、飛騨にはそれ以前の古い原型がそのまま残ったから**\n\n**【解説の一言】**  \n「実は全国でおなじみの甘い餡かけ団子は、大正時代に京都の茶屋が考案して大ヒットした比較的新しいスタイルなんです。それ以前の本来のみたらし団子は生醤油のつけ焼きで、飛騨地方にはその昔ながらの姿が大切に受け継がれています。」",
+  "research": "岐阜県飛騨市神岡町およびその周辺の歴史やまちの成り立ちについて、家族や友人に話したくなる「へえ、そうだったのか！」というトピックを4件まとめました。各件の根拠となる公的資料・企業資料の出典を添えて作成しています。\n\n---\n\n### 1. 【まちの発見・神岡町】なぜ神岡の家は川へせり出しているのか？ ～崖っぷちに立つ“空中建築”の秘密～\n\n* **疑問**  \n  神岡の町中を流れる高原川沿いを歩くと、家々が川の崖から大きく空中にせり出し、コンクリートの支柱で下から支えられて建っています。なぜあんな不思議な建て方をしているのでしょうか？\n* **理由**  \n  山に挟まれた狭い河岸段丘の土地に、神岡鉱山の繁栄によって膨大な人々が押し寄せ、「平地がまったく足りなくなった」からです。住む場所や店を広げるため、川の斜面や擁壁の上に柱を立て、敷地を空中にせり出させて（オーバーハングさせて）建て増しを行いました。\n* **具体的な数字・比較**  \n  昭和25年（1950年）に1町2村が合併して神岡町が誕生した際、町の人口は約2万4,000人を記録し、当時の岐阜県下の「町」として第一位の人口規模を誇りました。ピーク時の昭和35年（1960年）前後には2万7,000人を超え、人口の多くが船津地区を中心とする狭い市街地に集中しました。  \n  表の道路から見るとごく普通の平屋や2階建てに見える家が、川側（裏手）から見ると3階建て・4階建ての立体構造になっているのが大きな特徴です。\n* **意外な点**  \n  民家だけでなく、鉱山労働者たちで賑わった花街（旧花園町の遊郭建築など）や商店も川沿いにせり出して建てられました。土地がないからこそ生まれた、まるで水上に浮かぶ楼閣のような景観です。\n* **歴史の裏話**  \n  最盛期の神岡は全国から鉱山関係者が集まり、町内には映画館が3〜4軒もひしめき合っていました。激しい住宅需要の中で生まれたこの崖沿いの家屋群は、現在では「昭和の鉱都のエネルギーを今に伝える貴重な景観」として、建築ファンや散策客を惹きつけています。\n* **出典・根拠**  \n  * 飛騨市公式観光サイト「飛騨の旅」 神岡街歩きガイド  \n  * 岐阜県立森林文化アカデミー 地域資源報告（飛騨市神岡町の地形と町の形成）  \n  * 岐阜県・岐阜新聞「ぎふ140景 飛騨市神岡町の町並み」\n\n---\n\n### 2. 【歴史の発見・神岡町】神岡城の天守閣、実は戦国時代のものではない！？ ～鉱山会社が建てたお城のミステリー～\n\n* **疑問**  \n  神岡の町を見下ろす高台に堂々と建つ「神岡城」。戦国武将が築いたお城に見えますが、あの天守閣はいつ、誰が建てたものなのでしょうか？\n* **理由**  \n  戦国時代（永禄7年）に武田信玄の命で築かれた「東町城（ひがしまちじょう）」の城跡ですが、当時の城に天守閣屋舎はなく、江戸時代初期の一国一城令で取り壊されて石垣と堀だけになっていました。現在の立派な天守閣は、1970年（昭和45年）に神岡鉱山を運営していた**三井金属鉱業が神岡鉱業所の「創業100周年記念」として建設し、町に寄贈した模擬天守**です。\n* **具体的な数字・比較**  \n  三井組が神岡鉱山の蛇腹平坑などを取得した明治7年（1874年）から数えてちょうど100年目の節目に建設されました。福井県の現存天守・丸岡城などをモデルに設計されています。\n* **意外な点**  \n  全国各地にあるお城の中でも、「民間鉱山会社が記念事業として建てた天守閣」というのは極めて珍しい例です。天守閣と同時に隣接して「鉱山資料館」も建てられました。\n* **歴史の裏話**  \n  神岡鉱山は明治以降の約130年間で約7,500万トンもの鉱石を採掘し、日本の近代化と高度経済成長を支えました。神岡城は、日本を代表する企業城下町として町と鉱山が一体となって歩んできた歴史を象徴するモニュメントでもあります。\n* **出典・根拠**  \n  * 飛騨市公式ウェブサイト「高原郷土館（神岡城・鉱山資料館）」  \n  * 岐阜県「ジオランドぎふ」鉱山資料館・神岡城解説  \n  * 三井金属鉱業「神岡鉱山の歴史」\n\n---\n\n### 3. 【歴史の発見・飛騨地域】税金が丸ごと免除されていた！？ ～古代律令制で全国唯一のウルトラ特例「飛騨国」～\n\n* **疑問**  \n  奈良時代、全国の農民は重い税金に苦しんでいましたが、飛騨国（現在の岐阜県飛騨地方）だけ「調（特産物の納付）」と「庸（労役の代納布）」が全額免除されていました。なぜそんな破格の優遇措置が取られたのでしょうか？\n* **理由**  \n  奈良時代の「養老律令（賦役令）」第39条に「斐陀国条」という特例が定められており、税を免除する代わりに、1里（50戸）ごとに10人の優れた大工・木工職人を都へ差し出す**「飛騨工（ひだのたくみ）制度」**が義務付けられていたためです。\n* **具体的な数字・比較**  \n  飛騨全体から毎年約100人の職人（世話係を含む）が交代で都へ派遣され、平城京や平安京の宮殿、大寺院の建築に従事しました。任期は1年間で、飛騨から都までは片道およそ14日（帰りは7日）をかけ、1年分の食糧（米）も飛騨の民衆が負担して都へ運びました。平安末期までの約500年間に都へ出役した職人は延べ4万〜5万人にものぼると推計されています。\n* **意外な点**  \n  「飛騨は米が獲れない山国で貧しかったから免除された」と思われがちですが、実態は逆です。他国にはない卓越した木工技術を持っていたため、**「国税を棒引きにしてでも、職人集団として直属で徴発したかった」**という、中央政府の切実な要請による特例でした。\n* **歴史の裏話**  \n  都で神業のような建築を次々と仕上げた飛騨の大工たちは評判を呼び、平安時代の説話集『今昔物語集』などにも伝説的な名工として描かれました。この古代の技術集団が、のちに高山祭の精緻な屋台や各地の木工文化、ひいては飛騨の家具産業へと受け継がれていく源流となっています。\n* **出典・根拠**  \n  * 国税庁 税務大学校 租税史料「律令国家の免税（斐陀国）」  \n  * 文化庁 日本遺産ポータル「飛騨匠の技・こころ―木とともに、今に引き継ぐ1300年―」  \n  * 高山市史 街道編「飛騨工の登場」\n\n---\n\n### 4. 【自然・地質の発見・岐阜県】日本で一番古い石は岐阜県にあった！？ ～飛騨川に眠っていた20億年前の記憶～\n\n* **疑問**  \n  日本列島の中で「最も古い岩石」はどこで見つかったか知っていますか？ 実は、岐阜県内を流れる飛騨川の河原でした。\n* **理由**  \n  昭和45年（1970年）、岐阜県加茂郡七宗（ひちそう）町の飛水峡（飛騨川河床）で採取された「上麻生礫岩（かみあそうれきがん）」を分析したところ、含まれていた珪線石片麻岩が**約20億年前**に形成されたものであることが判明しました。\n* **具体的な数字・比較**  \n  日本列島そのものが大陸から離れて形作られたのは約数千万年前ですが、この岩石の年齢はなんと約20億年前。地球誕生（約46億年前）の半分近く昔のものです。発見当時、日本列島で最も古い岩石として日本中を驚かせました（現地には町立「日本最古の石博物館」が建てられています）。\n* **意外な点**  \n  足元の岩盤全体が20億年前のものだったわけではありません。約1億数千万年前に河口などで固まった礫岩（砂利が固まった岩）のなかに、大陸から削られて流れ着いた「2〜3センチほどの小さな小石」として、20億年前の石がタイムカプセルのように奇跡的に閉じ込められていたのです。\n* **歴史の裏話**  \n  この発見があるまで、地質学界では「日本列島は新しくできた若い島であり、古い岩石など存在するはずがない」と考えられていました。飛騨川の小石の発見は、「かつて日本列島の元になる地層がユーラシア大陸と一体だった」という壮大な大陸移動の歴史を証明する世界的発見となりました。\n* **出典・根拠**  \n  * 岐阜県自然環境課「日本最古の石にふれるみち」  \n  * 七宗町公式ウェブサイト「日本最古の石博物館」  \n  * 岐阜県観光連盟「日本最古の石博物館」公式ガイド\n\n---\n\n### 【ラジオ連動 3択クイズ案】（テーマ：神岡城）\n\n**問題**  \n飛騨市神岡町の町並みを見下ろす高台に、かっこいい天守閣がそびえる「神岡城」。実はこの天守閣、昭和45年（1970年）にある意外な理由で建てられたものなんですが、その理由とは次のうちどれでしょう？\n\n* **1番：** 当時大ヒットした時代劇映画のロケセットとして建てられた\n* **2番：** 神岡鉱山を運営していた三井金属鉱業が、創業100周年記念として建てた\n* **3番：** 大阪万博（日本万国博覧会）の岐阜県パビリオンをそのまま移築した\n\n---\n\n**正解：** **2番（三井金属鉱業が創業100周年記念として建てた）**\n\n**解説トーク例：**  \n「神岡城はもともと戦国時代、武田信玄の家来が築いた東町城というお城の跡です。しかし当時は天守閣などはなく、江戸時代のはじめに取り壊されていました。  \n今ある立派な天守閣は、明治7年に鉱山経営を始めた三井金属鉱業（神岡鉱業所）が、創業100周年を記念して昭和45年に町へ寄贈したものなんです。“鉱山会社がお城の天守閣を建てた”というのは全国でも神岡ならではの珍しいお話ですね」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F+%E7%81%B0%E6%B1%81+%E5%9B%BA%E3%81%BE%E3%82%8B+%E7%90%86%E7%94%B1+%E5%85%A8%E5%9B%BD%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F%E5%8D%94%E5%90%8C%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A&client=app-vertex-grounding&safesearch=active\">こんにゃく 灰汁 固まる 理由 全国こんにゃく協同組合連合会</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1+%E3%81%BF%E3%81%9F%E3%82%89%E3%81%97%E5%9B%A3%E5%AD%90+%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84+%E7%90%86%E7%94%B1+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">飛騨高山 みたらし団子 甘くない 理由 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%B4%B0%E5%AF%92%E5%A4%A9+%E7%94%9F%E7%94%A3+%E6%97%A5%E6%9C%AC%E4%B8%80+%E7%90%86%E7%94%B1+%E5%B1%B1%E5%B2%A1%E7%94%BA&client=app-vertex-grounding&safesearch=active\">岐阜県 細寒天 生産 日本一 理由 山岡町</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E8%B5%A4%E3%81%8B%E3%81%B6+%E6%BC%AC%E7%89%A9+%E8%B5%A4%E3%81%8F%E3%81%AA%E3%82%8B+%E7%90%86%E7%94%B1+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E5%B2%90%E9%98%9C%E7%9C%8C&client=app-vertex-grounding&safesearch=active\">飛騨 赤かぶ 漬物 赤くなる 理由 アントシアニン 岐阜県</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%8C%A0+%E5%BA%B8%E8%AA%BF%E5%85%8D%E9%99%A4+%E5%BE%8B%E4%BB%A4%E5%88%B6+%E9%A3%9B%E9%A8%A8%E5%9B%BD&client=app-vertex-grounding&safesearch=active\">飛騨匠 庸調免除 律令制 飛騨国</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E5%9F%8E+%E4%B8%89%E4%BA%95%E9%87%91%E5%B1%9E+%E5%89%B5%E6%A5%AD100%E5%91%A8%E5%B9%B4+%E6%98%AD%E5%92%8C45%E5%B9%B4+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡城 三井金属 創業100周年 昭和45年 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1+%E9%AB%98%E5%8E%9F%E5%B7%9D+%E5%B4%96+%E5%BB%BA%E7%AF%89+%E6%87%B8%E9%80%A0%E3%82%8A+%E5%B7%9D%E6%B2%BF%E3%81%84&client=app-vertex-grounding&safesearch=active\">飛騨市 神岡 高原川 崖 建築 懸造り 川沿い</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E6%9C%80%E7%9B%9B%E6%9C%9F+%E4%BA%BA%E5%8F%A3+%E6%98%A0%E7%94%BB%E9%A4%A8+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡鉱山 最盛期 人口 映画館 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4%E3%81%AE%E7%9F%B3+%E4%B8%83%E5%AE%97%E7%94%BA+%E3%81%B2%E3%81%A0%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E9%A4%A8+%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%A9%E3%83%9C+%E4%BB%A5%E5%A4%96+%E7%A5%9E%E5%B2%A1&client=app-vertex-grounding&safesearch=active\">日本最古の石 七宗町 ひだ宇宙科学館 カミオカラボ 以外 神岡</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwuNE6srFMH5rkUd7wZtx08bzgWlBOVvd8aL6KilnCnbVK0iTT4lrxpZLkrsGvaCX3IEXxVUOi8d1BMZg7xqeb-kgol8Iczc68jzeRxzIhH0jGVqiMgeMGiLtSZJfP3TBYZzaHKuLmw-eZAYszUYjjJR-lm5O29KwpDUB_-Q==",
-          "title": "chuden.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ClQz_cY4ZLXHrnVKW1InCmtb83BmPAORm4eI1ek-3MIrxrTjIwdmo-f24aEA44ek_7fEMgcRg7oewbFC3iP5Rc-qfk_6kMhOVx2L4MyM8HRXyKe1j1A88zuCx2WA",
+          "title": "gifu-np.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDZ3OdxNdOy3cZEf3Tug4cned4mv1jIJfeM84OB-Hfx7hA2ryJ1GZEVLqC960czvEWNPoL50UEb5iiFl9fKuVX55w_Of8vRMsjcbSPwSO4V7GauIQKgG4WXKhNn_xMnplUgA==",
-          "title": "kankou-ena.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO18RARdoBXiA4TCWrRpFa4-jnaJ1FkWu-7O3zBDxT-C3kP2S_Gzbe7lNlU5wZiomA8S5M4nZShQNjS-sp_vM-ra37hbdmVCRBiwaFmrC94SOrL1_ZvL0rfGFh_RtxgAuBRYSQ6rfwmt4jPWhPr264",
+          "title": "forest.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNloFVqblqmFDQUoTUWFSkjm65YwFW0CxSGhIpw2A7s1plCk_38Mq9OZPcDr828TEq4v_eAAU73Fg7exJEqUVzJY1HNk4RNKBeenSCOo7MW6QGoy8JBF_fb36MzR3fEqwpPJ84tdS1cDwQoK63LnvL7W9i0Q038mj4-yHWtcqVH-Ea3KkETBiFyoalY1sRNPAfR34dSPA=",
-          "title": "syouhyou-touroku.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv5tTAAhCQ5x-AcX5OiCUKVKDC7u4FW2Ztval5I8mtObpyO07MgnoFs72Y93LW08P2jmIJN_N2IQiqT3LdONS1S_JulzhjjgZ89Qgn9lFvxVx_DmStuikcAiMh9WtO",
+          "title": "locationjapan.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS8Y7GR9CrG3gjW2WV4wku0bO4qTxzZbt4Z6xnw21cQFo7zCuklLCH8MNC4N4U9BVZU17z4f2HhdXcerxBKx-o8b_EsEwwZjj5xQs9lb9Df0BUkwMC35eeNjTw9s6e9bTWYfMILHuASEbo",
-          "title": "intojapanwaraku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2Qa4q86EZgEQKlhlFahKJafV-NDh8C3CepCN6TPa5dZN6lNYf0j8QW9ks1W0lkjwFQJ5FJqdp0-WqCnbjGRgm-04zOaCtNiZp0B5md5XPtvCpN4zU3mNQk6ryf6crregVY59vU_AeiYTdrVjN",
-          "title": "gyosei.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhp1cyB0nrgSbMB3c_meldohB23KVj2yVirNOGFceILIUPWxaSVX39ktPMAFvWC7Jk7ZTMuZDVkZ2aC3iX9EUzsm0gy0WWgj5JlUdymx3DXzUKnd-ZmR6rzGdkuQMdvS3P",
-          "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-kuSKkRWDV1sSm_TQVHoR_Lfm0zr31XDHNf2fy2ucgzxkaHVCZcTsc_43ggEoZ_K4czJhmepfLdCCHKtwKwMZNKQvYbKf7OtPjp9ncmMdUSjO7nrcztjh",
-          "title": "yamasa-kanten.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEYQUJ4aq5cxPkxdNzvN2TosPVejBDobTTsdAwWyGLBa4ALpHqDA-kR1Q9S1VZqDWEiVoEM4R1iq1BDHgu8Ys3VR_wjs3VABzI2hDrC80rCSd-LfjOqW3hxA67HFwN1dNjh2dkAj3VCLP_hKKZbczhYewXFQ==",
-          "title": "fujiclean.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAYi_GmO_3DbzDUYXA25aiudvxViAN72s-EjwfNse7lBi1o55P0bVYRKyXS9eP5UkeHnYmGPk3zHFPDcTre0sUZax1vvil_n1ozK_dxDce4ss_3rxdjTdYt-8xWiw=",
-          "title": "kantoko.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHo4KEKAEthMUpXy_lnJuCkXt7YQuBpWedw8Rr7OPmxtI4wQBVCzHgyFDb8iQRLZUImbnJM07Z9HGQYsJ9n0h-T6eV-fCsAU2nRU9fmnOW8cl95nWEYz_ejFO7TK-iZw==",
-          "title": "kameya-foods.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnvOnOOL_SEso0_NiLuse9dKv_Mo9ogX2CZNvxenFxaZE6ofB5DDzVChhLoMgn5FBbMoP6nEwdnkcjK_GqTUqXuKURBu3hke9rC0Tk0zuho8GQSF5rWfdiw2ciWJRstiIaOnutVVj51Cg7Kb72vw_pbV3BoIHUgu9JJOo3gDoEgAoXHzRpKYMm7zO7",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1XACpDwDIJqUOBUiT5smJRAKvoTLeuMtIHZFzKGhLDI6HftlBaZkniKyYIhH4k5CmfqUWaTKK3Vcg65yi3cHA-sz0WIVIPxVizgaTjRo1YaTpCJ5OL48Mq2mohUT9hetDjpl6KFE3BDF0je16Isg=",
-          "title": "tobaya.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-vYRlZQjoWLASlDD9efaMhyXig4SgiHzp-NunHKzC65I3QZwVpNZ5GBHeFCN_Zu8kMKV__6D-Gm1J2az3UXwvHmzsHA8NufBSltwNm0gPwYRMnuJSxiTyVC4=",
-          "title": "yoshima.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq1mM32yeuR1Jhn4LQepNlX151JDrmqXOmtVNnC3UWyffR2c9J24MMuAQo7vl5Wm5wBQDg8yeQX82YdEfdEcIwX5Upi6K00OHdoPk593lZVeqJ0BlAXU2hGBwc9TE9",
-          "title": "menma825.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETwRv2MlXDeXCupC9Y8NvnZ5fKvDlemq2CFxp8N5STzdrvKS4PPG98A_U_IehVEw396qXFuUJfD2Fgifm4L34ClZl_iv-TX5X_SC1zo9ZresqR4PL6tYEuHnFy1-Q=",
-          "title": "japaaan.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECFmN55-7A2Hu67r0txDpCGExTdwBlBYIhDiuLJRTLRrHrloyBreNkIW10mmnyHxxpl7gKJqNEULIk1S-Pch_jXdjKiBVosHM06ySGMZeEd_6FV8oYtmFJdEJqsGJP--SRcQrL",
-          "title": "hotel-around.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw_Q3EL7bjFxKyVvzt78IsR-xSf7CfUnzWX6kaPUOrdvDvXPPH9cc6UiQziTzlSyKEgCaMvJb8QVTBjmGJKs7Zqmtl6o4aXu4CFNC2BKKSWYfu8mTY4HVXE2U7fLBj-l1jn38WiusK0m4vIdyQ",
-          "title": "takayama-gh.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG6vxtYU4y6jt8pbTlwIWB4m_uy1T1KRNVLJ3F0D5XKdSsNh5Yglj-wPSYlYfZNDuOhgL1mCPAweivoTjPp-ZcJhkQqrLDA2EcMtQnLXapdt7Wk_n6XsMfN1FtIA==",
-          "title": "mitarashi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF017UKm-1yO7l8NvyXm30i_Xk1hWlJRqAsRRP4FjjH1Xfoc-HqzaMa4V9yzxx8LvYcRS1_BftnTuZ83MuN3eDYJlzwur9gd3Gpc2YpsQueC6yvxBB0N-oQR7nVCjosekiHhaXisA==",
-          "title": "koikef.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF97HaohuzctqkIMa4j9gxU2TYkR595ih8vGtLcolThD9pv2yUcHqb_KWn2OCRDRp5mJK35X5mFx7DLN8U1UL0ipXl2u9IA-G7g9TszaviYI5vuTWy5vho3Ni3kOVfvAtgpoj4=",
-          "title": "gooudango.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaFd97MkQWEEqoeeW_z5wVcmQUv_Of3viO-LYaM4jl-eiYvDFuMJAnJZ2hNW1JRFDEF7E2OV-8nqD7FyzwO2mmpp5QaHUHaXfuHRuuu6W4jd-5ddVj-PTG",
-          "title": "raku-uru.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwW5eZWlKXfnmmX17tgMeC_H4uVEjH13OYLum4pU5DzDDx9sb_OFkS15ekzvpTHek-DvSlF6yj5rGw8JBnpg2P99i0GQIoGIIHJJ9JHJuCy77RRJc4vHWuXVzG",
-          "title": "konnyaku.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs5JKtaFuHwsAq_nQnI8C4aUR4kB4iErB4ZFy3AibxtrrT1-SQbfPebE7uuJzes5pojJbWBPky-V95i631UlPWKJWvWK4L8-ytRyJ6eZiG4HUIIZrk2rG_cf1he1n2WhaSzvUs",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjmUhvl5CO7PntjXAaGMcQJvtYCgMSWIHQB63c6-NsJyWi3-70yR_Okrh3EeYVWr_D8CnVqt3qJNe6YOEpXMTtt_ALWCq6k0g6M1N07Ki3fqZGRx5DMnxAMaGNqtg6XY0tesxt",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsfBpLRnINEQt2n-JkeLO1qWwXbShz6T7SosBRkj3qrAcVpsK2bm7AmgWLdJJfy4B_iovMOVYpeYdyCWRRtGZdrcZBnY9jw8-EEJAaqKDX5xK0ouyc5x_Qi_1DvKVV7ngC02n8bbbRiRk=",
-          "title": "jspp.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdumsw7BbIS4AzJjzBrTYxWzB6W0qNBNGDNHMxveCzIetfNK0n2kAZmN7lMnbarlEFovIr3xYB3fMqCKEJQlhhHryeYqADsN6UyFP6F-gBKbKSeg5JenmVTHvzj7w1MIxb2FP8pl07ohnklJqpgOIWMbmpdRasuzk7p5k=",
+          "title": "gifu-net.ed.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9neZAHRPw5XZ1ObifyGzFwU2yQefU-VQzM2E-WGBA9fDVoEmIg91Uce5LIrMetKp4hGW3EkGy6KX7k7L8VuAbVjb6e49NNBALimnSqVCsIhC62xZ9vuo=",
-          "title": "ibinosato.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZGKmup62DY-dVkQ3e8G1Bxe6QOkB5qCTJm75caNl51xw3PNX2ExHC8iYju8Oa4Nd1UIk1dn2OahTzcj4tFsKh8T4rpERxEk3lCyOvhh2LETqoXstAeZiNJaFWSzrZcwcTFmQP4y_Gn1qAQ5yNr9W3D3ykDkV8rg==",
+          "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw7A_cgoNjItif8-rn0xMN3jKlHi5uOUmG5YiBHe61l_PI1cP8xBBY_QiamIwBrTQf51EhsmAb1tlBULLRsxnc8EIdAnTLrm3xWc7lQVD5Q5FzdWNyyya8i4tK",
-          "title": "konnyaku.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3F9aDJrIeMLod2EfUBi0QP8472Kue-1Rm0dOEjHncSppevyuVCZZs4gCAuFO3jXABHoTGWbUiESBoQT4Uwc71IVkBpp4rlQM5I8pvjp-HjHzowNKTY1h8Ko=",
+          "title": "hida-kankou.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnIg6xV1PaTIzObsguUq8FAYvvzNR-XZHB1JN6MnfBZ3iNdsun3fVPAlXDFaxeI2fAjOEKtcB3tpH2m9BHfQiEXe4Uga9zOwjPQ4TcHwXd2xNLYUW0VYi3qngXNd9Fm7KdwFflSU11sOjb2z0J",
+          "title": "city.hida.gifu.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_-0BHa22icRCmMDXLBRH6WwOJirQWQ2MRJ5dHpc9pYxC9uwD5gh-JA4Uu4E4AZjlNPe2olwvBUo2Ui53fDRqjEQIgTrPzz_gTB1BypSIDqbVMze3iZ7EYn7DM9gPPHlmtBNllkju-9fI=",
+          "title": "harilab.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYfmtRX-gQflrDeXxpIQJVRDTvVk8Hu0io7HVe3tAqwnAFf768wSgIaPvQcUpFPdkfUOl3AFK0e5zOdX2USMntxPYUG7znsQHQj-cvyAe0U0vWtvxoWaacFYNfpXouDfR3Xe-YMVi5",
+          "title": "iza-yoi.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx2zmrMbgOotPeX4LtolfRdfxcV2PsUdlz-rERZjZKNDIKjuPQQBcJ1Gsxfv4e1vqg2SwwYFSgLEAsNN2jizDTCg2Fh45fzmDLMufsouBf69qG8aSX1CwrqQ_LOSUGrcolWgSokWu-nZz5",
+          "title": "harilab.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETzq762AnnbQKCj1dnMzJYWDToOoU_5Ytcr0ZsSDJG1hWver-NnFlLosUb6RqegaMMYaQD6tPKH1fteUbB4neFCkvm7bJ2k3DE8YI167dXQHY1tXP-mRdQtB-pXemW6cTTlPQAU9y0uOET8-aR-k8R-unrYRYCoD-h-Q==",
+          "title": "geo-gifu.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsXmYEdHvBySKVuTaxFtZzgt462mShO6zYW6HzCpzYfCnR9UT6jYwDOLpVnByrr93BczSvxeEUOcnMxgtKZzM_SsqjrB3NJADK_K3Zkhnz7_KKaDkvBhyQsPbe5go4avKwXA==",
+          "title": "mitsui-kinzoku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE61mCllUEgNYcl3jvgbjUgRo566jVbgZJIkr1xZMbuJWb744T3hH1Gdlrnn7fglFwmOFxq95FbI92YWzaOKMlQXRe1XmyQt9sNFih5jK4gvL0OYO6p63Qh8iizUDko_sSVv9IRIRs=",
+          "title": "ameblo.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPX3WpfsOPWWsIOYSJmn8lyD5xWYdrGKFGGqWMDmq86ZcSqdFO9rs803XvyQkjDTgLJAiivOyBsf9bf0yMxkyjPIKifS8VzYj2z4q_M48K4fH3UPlT4lSu8IzBY2jY51TnBMo=",
+          "title": "mitsui-kinzoku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdEIRm0j3yu0aMM1c9XP8GgBdrkjC6HiuKy8-2L49efj-Nycc6TcMENxuHNO7XKk2bvVDnqA3LHw0H6MdHMtsTNZIBX0ArAgiVuS47xi3XbzgU_Oc57WvWrvokbbt0wRozV3a0KCWJ5-ByV3NA8YQh11yGQdO_J-Yeq0k=",
+          "title": "nta.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHuP28M00maatmbcNo7kFHGcGU5UtynuZHMwta4GB-upGfz87de0bTZ5XAWyfpayaZaCEqC4TW3_fZt11216AvyTxDSNCQL_BSq0iWFcRWLCabfRNpTNkEtwcs9wvrwRwkc4vMwhjuZDxZFMoA",
+          "title": "adeac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9CMlAzn41r7oHkzR7fOVjVdMhJgklxbjxJSgE-F1E7OC5t_NV58_QOfl2iLrtAL0v2l8x6bNnzJrE5uDnjIMWDuZlmOGAlSuiy1mD0TtrarkJgAMpY9tEFYBalK90_jWnmMl-Oe0lpgLAhAAicmOQ_FlVu0lrJtx_ofMJkFQ9mQShf9UcHn3sgK3Zfw==",
+          "title": "takayama.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhsg2KneCJrzfoTAXvWOtDrS287fSAGI6-XE5zW-DYjqZjaOick1ltPe6jXq7nURN2iMXBWNDigT_BrYWM_KUdVXxD1sBsoefUpq9bm8_A4oVliP-UgxEmygq0lKmY0NkLcJrqRndN",
+          "title": "bunka.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTXBj2in39XjxP3wEzH9eU7ZXdbiyKfdPgpDMTTl632zxSUWMoR6IBtelYE_J9ApGLZEmq9DnoT_yo1DXJRCp8Q8lORRAY5aBOWJPMfnuHGpVR-3Kgnv5t7NyaX4QGuKg7u-c=",
+          "title": "hidasangyo.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcFDNYARoLuaHl-Xpo9Db0vQKDd-3uDktQbhb9po9DA3B8wAIKUlFyI6xRV93lfgFog7nW4YOn40PL1j31biohZKrCnPyp52Pdbxm5MB4AWK39b_3eBvWdapcrIg==",
+          "title": "hidatakayama.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiiD1uSTNR3_z5C_hfkOQwEt3u5dKJjpsMeiGc8w6KtVYAa3aicGQP8gMUL7Kr6H43ui-jGZKZ4jBUQHHGCsechvhu8zdFbQ9afwb9mDQBD9v2kBIIRt6dlziu3P9pzg==",
+          "title": "gifu.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmge590RcFdhf_meGYV2jJsxwtEY3rS3yoBEq4_SN37XM2OR8G0lTZNZhxllPdru7OdqS8M9dFibEpsPY0vy7gWGtep929wTCpKIMGacQWKMXrb4dG9lf3SAnpCGI=",
+          "title": "naganokai.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER7sIpZCPz6uIBVi3D1Hp-2gZrL310OND4kwHBmLc35lBIAXsNrwy8c7iXystjzpCHW6xbtSE8I0jQt4DeytmI-qN9B6vslsFkGlWtJqERjB8QzE_XOsDjjb5_I3A=",
+          "title": "hichiso.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5LwrryKvlSmKpxLpj1DGwlXWMgLuH1OVROAwh8gSZyOPVuBUmHcCOjr6dJjq-LWLBYMOaPcjin4VkAHzGlse7D8AcRY-zedU_E7cxdclcXaP-bSHJ1bj-VNIY9_35Hbk=",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-k7LGaTkEWGDkhuAUPdgeUDwOzuoheYFaUF_STAtq6j31fGwPyuD_QeYfcTCvZ2uV8BEN7STU37STwE_zhX71-v0tdqD0PAPFSl0tUUGG_BfJF4pc0pGcmZ0feD16JE9soOqlGh8rw==",
+          "title": "jalan.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRAKL_8vLhSGe0vBhQlLh6q1XSQVqrEa5Va8117JIqxZ0dc1XdLkgJtIc6zfTfAfDBBH2Lhhr2-7qqzlkDobeBuzAu2wFbSq4hA7NjlwMnmUYn6n3ylhEXgZILhajaAk6nwXT6Q==",
+          "title": "kankou-gifu.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 515,
-          "endIndex": 671,
-          "text": "寒天は海藻の「天草（てんぐさ）」を煮溶かしたところてんを、屋外で「凍結」と「乾燥」を繰り返して作られます"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 674,
-          "endIndex": 929,
-          "text": "良質な細寒天を作るには、「昼は暖かく天気が良くて氷が溶け、夜から明け方は氷点下にしっかり冷え込んで凍る」という大きな寒暖差と、雪や雨が少ない乾燥した冬の気候が欠かせません"
+          "startIndex": 953,
+          "endIndex": 1139,
+          "text": "住む場所や店を広げるため、川の斜面や擁壁の上に柱を立て、敷地を空中にせり出させて（オーバーハングさせて）建て増しを行いました"
         },
         "groundingChunkIndices": [
           0,
-          1
+          1,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 932,
-          "endIndex": 1085,
-          "text": "岐阜県恵那市山岡町は、標高が高く盆地特有の内陸気候であるため、寒天作りに理想的な気象条件を備えています"
-        },
-        "groundingChunkIndices": [
-          2,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1127,
-          "endIndex": 1315,
-          "text": "岐阜県（山岡町を中心とする地域）は、和菓子店などで使われる「細寒天（糸寒天）」の国内生産シェアの約80％を占める日本一の産地です"
-        },
-        "groundingChunkIndices": [
-          3,
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1318,
-          "endIndex": 1465,
-          "text": "冬場の山岡町は、日中の気温が約10℃まで上がるのに対し、明け方には氷点下10℃〜15℃近くまで冷え込みます"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1468,
-          "endIndex": 1624,
-          "text": "また、角寒天（長野県が主産地）に比べて保水性・凝固強度が高く、高級羊羹などのプロの現場で重宝されています"
+          "startIndex": 1181,
+          "endIndex": 1390,
+          "text": "昭和25年（1950年）に1町2村が合併して神岡町が誕生した際、町の人口は約2万4,000人を記録し、当時の岐阜県下の「町」として第一位の人口規模を誇りました"
         },
         "groundingChunkIndices": [
           3,
@@ -302,72 +266,83 @@
       },
       {
         "segment": {
-          "startIndex": 1651,
-          "endIndex": 1771,
-          "text": "「海のない山里」で、海藻を原料とする海産加工品が日本一のシェアを誇っている点です"
+          "startIndex": 1393,
+          "endIndex": 1465,
+          "text": "ピーク時の昭和35年（1960年）前後には2万7,000人を超え"
         },
         "groundingChunkIndices": [
-          2,
+          3,
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 1774,
-          "endIndex": 1918,
-          "text": "冬の田んぼが広がる内陸の山中に、白く輝く寒天がずらりと並ぶ天日干し（ロジ干し）の風景が広がります"
+          "startIndex": 1393,
+          "endIndex": 1552,
+          "text": "ピーク時の昭和35年（1960年）前後には2万7,000人を超え、人口の多くが船津地区を中心とする狭い市街地に集中しました"
         },
         "groundingChunkIndices": [
-          1
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 1948,
-          "endIndex": 2279,
-          "text": "寒天そのものの誕生は江戸時代前期（1650年代後半）、京都・伏見の旅館「美濃屋」の主人・美濃屋太郎左衛門が、冬の夜に屋外へ放置してしまった「ところてんの食べ残し」が偶然凍結乾燥していたことを発見したのが始まりと伝えられています"
+          "startIndex": 1560,
+          "endIndex": 1758,
+          "text": "表の道路から見るとごく普通の平屋や2階建てに見える家が、川側（裏手）から見ると3階建て・4階建ての立体構造になっているのが大きな特徴です"
         },
         "groundingChunkIndices": [
-          6,
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1785,
+          "endIndex": 1950,
+          "text": "民家だけでなく、鉱山労働者たちで賑わった花街（旧花園町の遊郭建築など）や商店も川沿いにせり出して建てられました"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1953,
+          "endIndex": 2052,
+          "text": "土地がないからこそ生まれた、まるで水上に浮かぶ楼閣のような景観です"
+        },
+        "groundingChunkIndices": [
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 2282,
-          "endIndex": 2459,
-          "text": "岐阜県には昭和初期に冬場の農家の副業として技術が導入され、地域の気候風土に見事に合致したことから一大産地へ発展しました"
+          "startIndex": 2082,
+          "endIndex": 2213,
+          "text": "最盛期の神岡は全国から鉱山関係者が集まり、町内には映画館が3〜4軒もひしめき合っていました"
         },
         "groundingChunkIndices": [
-          2,
-          0
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 2467,
-          "endIndex": 2552,
-          "text": "*【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）"
+          "startIndex": 2216,
+          "endIndex": 2441,
+          "text": "激しい住宅需要の中で生まれたこの崖沿いの家屋群は、現在では「昭和の鉱都のエネルギーを今に伝える貴重な景観」として、建築ファンや散策客を惹きつけています"
         },
         "groundingChunkIndices": [
-          0
+          0,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 2467,
-          "endIndex": 2597,
-          "text": "*【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）、恵那市観光協会「山岡細寒天」"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2467,
-          "endIndex": 2630,
-          "text": "*【根拠資料】農林水産省受賞歴紹介記事（中部電力カテエネ）、恵那市観光協会「山岡細寒天」、山サ寒天産業公式資料"
+          "startIndex": 2473,
+          "endIndex": 2546,
+          "text": "飛騨市公式観光サイト「飛騨の旅」 神岡街歩きガイド"
         },
         "groundingChunkIndices": [
           6
@@ -375,237 +350,252 @@
       },
       {
         "segment": {
-          "startIndex": 2773,
-          "endIndex": 2905,
-          "text": "生の飛騨紅かぶは、表面の皮だけが鮮やかな赤紫色で、包丁で切ると中は大根のように真っ白です"
+          "startIndex": 2553,
+          "endIndex": 2659,
+          "text": "岐阜県立森林文化アカデミー 地域資源報告（飛騨市神岡町の地形と町の形成）"
         },
         "groundingChunkIndices": [
-          7
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 2908,
-          "endIndex": 3013,
-          "text": "赤かぶの皮には「アントシアニン」という水溶性の植物色素が含まれています"
+          "startIndex": 2666,
+          "endIndex": 2739,
+          "text": "岐阜県・岐阜新聞「ぎふ140景 飛騨市神岡町の町並み」"
         },
         "groundingChunkIndices": [
-          8,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2929,
+          "endIndex": 2995,
+          "text": "神岡の町を見下ろす高台に堂々と建つ「神岡城」"
+        },
+        "groundingChunkIndices": [
+          7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3139,
+          "endIndex": 3410,
+          "text": "戦国時代（永禄7年）に武田信玄の命で築かれた「東町城（ひがしまちじょう）」の城跡ですが、当時の城に天守閣屋舎はなく、江戸時代初期の一国一城令で取り壊されて石垣と堀だけになっていました"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3413,
+          "endIndex": 3633,
+          "text": "現在の立派な天守閣は、1970年（昭和45年）に神岡鉱山を運営していた**三井金属鉱業が神岡鉱業所の「創業100周年記念」として建設し、町に寄贈した模擬天守**です"
+        },
+        "groundingChunkIndices": [
+          5,
+          11,
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3675,
+          "endIndex": 3827,
+          "text": "三井組が神岡鉱山の蛇腹平坑などを取得した明治7年（1874年）から数えてちょうど100年目の節目に建設されました"
+        },
+        "groundingChunkIndices": [
+          3,
+          12,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3016,
-          "endIndex": 3142,
-          "text": "樽に塩漬けして発酵が進むと、植物性乳酸菌が糖分を分解して「乳酸（酸）」を作り出します"
+          "startIndex": 3830,
+          "endIndex": 3911,
+          "text": "福井県の現存天守・丸岡城などをモデルに設計されています"
         },
         "groundingChunkIndices": [
-          10,
-          7
+          9,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 3145,
-          "endIndex": 3364,
-          "text": "アントシアニンは酸性に傾くと鮮やかな紅色に発色する性質があり、溶け出した赤い色素が白い果肉の内部へ徐々に浸透していくため、芯まで真っ赤に染まります"
+          "startIndex": 3938,
+          "endIndex": 4088,
+          "text": "全国各地にあるお城の中でも、「民間鉱山会社が記念事業として建てた天守閣」というのは極めて珍しい例です"
         },
         "groundingChunkIndices": [
-          10,
           11,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4091,
+          "endIndex": 4169,
+          "text": "天守閣と同時に隣接して「鉱山資料館」も建てられました"
+        },
+        "groundingChunkIndices": [
+          11,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4199,
+          "endIndex": 4345,
+          "text": "神岡鉱山は明治以降の約130年間で約7,500万トンもの鉱石を採掘し、日本の近代化と高度経済成長を支えました"
+        },
+        "groundingChunkIndices": [
+          8,
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4348,
+          "endIndex": 4513,
+          "text": "神岡城は、日本を代表する企業城下町として町と鉱山が一体となって歩んできた歴史を象徴するモニュメントでもあります"
+        },
+        "groundingChunkIndices": [
+          8,
+          2,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4545,
+          "endIndex": 4632,
+          "text": "飛騨市公式ウェブサイト「高原郷土館（神岡城・鉱山資料館）」"
+        },
+        "groundingChunkIndices": [
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3406,
-          "endIndex": 3645,
-          "text": "原料となる「飛騨紅かぶ（ひだべにかぶ）」は、大正7年（1918年）に高山市（旧上宝村などの八賀かぶ）の中から発見された突然変異株を選抜・固定した飛騨特有の伝統野菜です"
+          "startIndex": 4639,
+          "endIndex": 4708,
+          "text": "岐阜県「ジオランドぎふ」鉱山資料館・神岡城解説"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4715,
+          "endIndex": 4760,
+          "text": "三井金属鉱業「神岡鉱山の歴史」"
         },
         "groundingChunkIndices": [
           12,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3648,
-          "endIndex": 3792,
-          "text": "11月頃の初冬に収穫・塩漬けされ、約2か月かけて乳酸菌がじっくり酸を生み出すことで鮮やかに熟成します"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3819,
-          "endIndex": 4002,
-          "text": "酢や人工着色料を一切使わず、野菜と塩だけで漬けているにもかかわらず、自然の乳酸菌の力だけで鮮やかなルビー色に染め上がります"
-        },
-        "groundingChunkIndices": [
-          10,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4005,
-          "endIndex": 4107,
-          "text": "雑菌が繁殖してしまうと乳酸が十分に生成されず、綺麗な赤色になりません"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4302,
-          "endIndex": 4542,
-          "text": "そのため、塩の使用量を極力抑えつつ越冬用の保存食にする知恵として、寒冷下で乳酸菌の酸を利用して保存性を高める伝統の漬け込み技法が江戸時代から受け継がれてきました"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4550,
-          "endIndex": 4644,
-          "text": "*【根拠資料】農林水産省「うちの郷土料理：赤かぶ漬け（岐阜県）」"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4550,
-          "endIndex": 4707,
-          "text": "*【根拠資料】農林水産省「うちの郷土料理：赤かぶ漬け（岐阜県）」、フジクリーン工業「水の話：発酵と微生物」"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4841,
-          "endIndex": 5018,
-          "text": "全国的に親しまれている「みたらし団子」は、醤油・砂糖・葛粉を合わせた甘辛いトロトロの餡（葛餡）がたっぷりかかっています"
-        },
-        "groundingChunkIndices": [
-          13,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 5021,
-          "endIndex": 5222,
-          "text": "しかし、飛騨地方のみたらし団子（地元では「みだらしだんご」と濁る）は、生醤油ダレを塗り、香ばしく直火で焼き上げるだけの素朴な醤油味です"
+          "startIndex": 5274,
+          "endIndex": 5600,
+          "text": "奈良時代の「養老律令（賦役令）」第39条に「斐陀国条」という特例が定められており、税を免除する代わりに、1里（50戸）ごとに10人の優れた大工・木工職人を都へ差し出す**「飛騨工（ひだのたくみ）制度」**が義務付けられていたためです"
         },
         "groundingChunkIndices": [
-          13,
           15,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5225,
-          "endIndex": 5462,
-          "text": "飛騨の団子が甘くないのは、全国で主流の「甘辛いみたらし団子」が登場する前、生醤油のつけ焼きだった時代の“古来の製法”がそのまま現代まで守り継がれているためです"
-        },
-        "groundingChunkIndices": [
-          13,
+          16,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 5504,
-          "endIndex": 5832,
-          "text": "一般のみたらし団子は「串に団子が4個〜5個刺さり、甘い餡が絡んでいる」のに対し、飛騨の団子は「1串に5玉」刺され、甘みは米自体の甘みのみ、タレは醤油単体（または醤油をベースにした香ばしいタレ）を二度焼きして焦げ目を楽しみます"
+          "startIndex": 5642,
+          "endIndex": 5813,
+          "text": "飛騨全体から毎年約100人の職人（世話係を含む）が交代で都へ派遣され、平城京や平安京の宮殿、大寺院の建築に従事しました"
         },
         "groundingChunkIndices": [
-          17,
+          16,
           18,
-          16
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 5835,
-          "endIndex": 5907,
-          "text": "おやつというよりは、間食や軽食に近い位置づけです"
+          "startIndex": 5816,
+          "endIndex": 5992,
+          "text": "任期は1年間で、飛騨から都までは片道およそ14日（帰りは7日）をかけ、1年分の食糧（米）も飛騨の民衆が負担して都へ運びました"
         },
         "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5934,
-          "endIndex": 6174,
-          "text": "全国で見かける「甘辛いトロトロ餡のみたらし団子」の方が、実は大正時代に京都の甘味処「加茂みたらし茶屋」が砂糖醤油の餡を考案して全国に広まった“新しい改良型”です"
-        },
-        "groundingChunkIndices": [
-          17,
+          16,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 6177,
-          "endIndex": 6282,
-          "text": "飛騨の甘くないみたらし団子こそが、原初のスタイルを留めているといえます"
+          "startIndex": 5995,
+          "endIndex": 6120,
+          "text": "平安末期までの約500年間に都へ出役した職人は延べ4万〜5万人にものぼると推計されています"
         },
         "groundingChunkIndices": [
-          13,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6276,
+          "endIndex": 6508,
+          "text": "他国にはない卓越した木工技術を持っていたため、**「国税を棒引きにしてでも、職人集団として直属で徴発したかった」**という、中央政府の切実な要請による特例でした"
+        },
+        "groundingChunkIndices": [
+          15,
+          16,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 6312,
-          "endIndex": 6486,
-          "text": "みたらし団子のルーツは、平安時代から続く京都・下鴨神社の「御手洗（みたらし）祭」で氏子が神前に供えた厄除けの団子です"
+          "startIndex": 6538,
+          "endIndex": 6736,
+          "text": "都で神業のような建築を次々と仕上げた飛騨の大工たちは評判を呼び、平安時代の説話集『今昔物語集』などにも伝説的な名工として描かれました"
         },
         "groundingChunkIndices": [
-          13,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6739,
+          "endIndex": 6925,
+          "text": "この古代の技術集団が、のちに高山祭の精緻な屋台や各地の木工文化、ひいては飛騨の家具産業へと受け継がれていく源流となっています"
+        },
+        "groundingChunkIndices": [
           17,
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 6489,
-          "endIndex": 6683,
-          "text": "後醍醐天皇が境内の御手洗池で水をすくった際、最初にポコンと1つ、間を置いて4つの泡が浮き出た様子を団子に見立てたという伝承があります"
+          "startIndex": 6957,
+          "endIndex": 7037,
+          "text": "国税庁 税務大学校 租税史料「律令国家の免税（斐陀国）」"
         },
         "groundingChunkIndices": [
-          17,
-          18
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6686,
-          "endIndex": 6950,
-          "text": "京都から飛騨へと文化が伝わった時期が大正の餡かけブーム以前だったこと、また山里の気候風土に醤油の香ばしい焼き団子が定着したことなどが、甘くない団子が残り続けた理由とされています"
-        },
-        "groundingChunkIndices": [
-          13,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6958,
-          "endIndex": 7055,
-          "text": "*【根拠資料】小学館『日本一の団子』（サライ編集部編）引用解説資料"
+          "startIndex": 7044,
+          "endIndex": 7160,
+          "text": "文化庁 日本遺産ポータル「飛騨匠の技・こころ―木とともに、今に引き継ぐ1300年―」"
         },
         "groundingChunkIndices": [
           17,
@@ -614,30 +604,19 @@
       },
       {
         "segment": {
-          "startIndex": 6958,
-          "endIndex": 7088,
-          "text": "*【根拠資料】小学館『日本一の団子』（サライ編集部編）引用解説資料、下鴨神社由緒関連資料"
+          "startIndex": 7167,
+          "endIndex": 7213,
+          "text": "高山市史 街道編「飛騨工の登場」"
         },
         "groundingChunkIndices": [
-          17,
-          19
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 7225,
-          "endIndex": 7372,
-          "text": "こんにゃく芋に含まれる主要成分は「グルコマンナン（こんにゃくマンナン）」という水溶性の食物繊維です"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7375,
-          "endIndex": 7534,
-          "text": "グルコマンナンは水を含むと強力に粘り気を出しますが、そのまま冷やしてもゼリーのように固まることはありません"
+          "startIndex": 7496,
+          "endIndex": 7556,
+          "text": "実は、岐阜県内を流れる飛騨川の河原でした"
         },
         "groundingChunkIndices": [
           21,
@@ -646,9 +625,9 @@
       },
       {
         "segment": {
-          "startIndex": 7537,
-          "endIndex": 7813,
-          "text": "ここに草木を燃やした灰の上澄み液（灰汁）や水酸化カルシウムなどの「アルカリ性水溶液」を加えて加熱すると、グルコマンナン分子の一部（アセチル基）が外れる化学反応（脱アセチル化）が起きます"
+          "startIndex": 7577,
+          "endIndex": 7898,
+          "text": "昭和45年（1970年）、岐阜県加茂郡七宗（ひちそう）町の飛水峡（飛騨川河床）で採取された「上麻生礫岩（かみあそうれきがん）」を分析したところ、含まれていた珪線石片麻岩が**約20億年前**に形成されたものであることが判明しました"
         },
         "groundingChunkIndices": [
           21,
@@ -657,20 +636,9 @@
       },
       {
         "segment": {
-          "startIndex": 7816,
-          "endIndex": 8041,
-          "text": "すると分子同士が複雑に架橋して網目構造を作り、抱え込んだ大量の水分を逃さない不可逆的な弾力ゲル（熱を加えても二度と溶けないプルプルの状態）に固まります"
-        },
-        "groundingChunkIndices": [
-          21,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8233,
-          "endIndex": 8366,
-          "text": "凝固剤として使う水酸化カルシウムの量は、生芋の重さに対してわずか0.5％〜1％程度で固まります"
+          "startIndex": 7940,
+          "endIndex": 8086,
+          "text": "日本列島そのものが大陸から離れて形作られたのは約数千万年前ですが、この岩石の年齢はなんと約20億年前"
         },
         "groundingChunkIndices": [
           21
@@ -678,73 +646,9 @@
       },
       {
         "segment": {
-          "startIndex": 8369,
-          "endIndex": 8438,
-          "text": "生芋500gがあれば、板こんにゃくが約5〜6枚作れます"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8465,
-          "endIndex": 8705,
-          "text": "生のこんにゃく芋には針状結晶の「シュウ酸カルシウム」が多く含まれており、少しかじっただけで口や喉が激しくチクチク痛んで腫れ上がるため、絶対に生では食べられません"
-        },
-        "groundingChunkIndices": [
-          21,
-          23,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8708,
-          "endIndex": 8915,
-          "text": "昔の人は「強烈なエグ味（アク）を持つ植物を、草木灰の灰汁（アク）で煮ることで、毒抜きと凝固を同時に成し遂げる」という離れ業を編み出しました"
-        },
-        "groundingChunkIndices": [
-          21,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8945,
-          "endIndex": 9249,
-          "text": "平安時代中期の辞書『倭名類聚抄（わみょうるいじゅしょう）』（930年代）には、すでに「蒟蒻、其の根は白く、灰汁をもって煮れば、すなわち凝成す」と記されており、1000年以上前から灰汁で固める手法が確立していました"
-        },
-        "groundingChunkIndices": [
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9252,
-          "endIndex": 9569,
-          "text": "なお、生の芋は非常に腐りやすいため、江戸時代の安永5年（1776年）に常陸国の中島藤右衛門が芋を薄切りにして乾燥・粉末化する「精粉（せいこ）」の製法を発明するまでは、秋の収穫時期にしか食べられない季節限定の食べ物でした"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9577,
-          "endIndex": 9686,
-          "text": "*【根拠資料】一般財団法人日本こんにゃく協会「こんにゃく一口知識・作り方」"
-        },
-        "groundingChunkIndices": [
-          25,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9577,
-          "endIndex": 9740,
-          "text": "*【根拠資料】一般財団法人日本こんにゃく協会「こんにゃく一口知識・作り方」、日本植物生理学会「みんなのひろば」"
+          "startIndex": 8089,
+          "endIndex": 8154,
+          "text": "地球誕生（約46億年前）の半分近く昔のものです"
         },
         "groundingChunkIndices": [
           23
@@ -752,43 +656,173 @@
       },
       {
         "segment": {
-          "startIndex": 10493,
-          "endIndex": 10660,
-          "text": "**B：甘辛いみたらし団子の方が大正時代に京都で生まれた“新作”で、飛騨にはそれ以前の古い原型がそのまま残ったから**"
+          "startIndex": 8157,
+          "endIndex": 8244,
+          "text": "発見当時、日本列島で最も古い岩石として日本中を驚かせました"
         },
         "groundingChunkIndices": [
-          13,
-          17
+          21,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 10690,
-          "endIndex": 10855,
-          "text": "「実は全国でおなじみの甘い餡かけ団子は、大正時代に京都の茶屋が考案して大ヒットした比較的新しいスタイルなんです"
+          "startIndex": 8157,
+          "endIndex": 8325,
+          "text": "発見当時、日本列島で最も古い岩石として日本中を驚かせました（現地には町立「日本最古の石博物館」が建てられています"
         },
         "groundingChunkIndices": [
-          17,
-          18
+          23,
+          24
         ]
       },
       {
         "segment": {
-          "startIndex": 10858,
-          "endIndex": 11014,
-          "text": "それ以前の本来のみたらし団子は生醤油のつけ焼きで、飛騨地方にはその昔ながらの姿が大切に受け継がれています"
+          "startIndex": 8355,
+          "endIndex": 8435,
+          "text": "足元の岩盤全体が20億年前のものだったわけではありません"
         },
         "groundingChunkIndices": [
-          13,
-          17
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8438,
+          "endIndex": 8737,
+          "text": "約1億数千万年前に河口などで固まった礫岩（砂利が固まった岩）のなかに、大陸から削られて流れ着いた「2〜3センチほどの小さな小石」として、20億年前の石がタイムカプセルのように奇跡的に閉じ込められていたのです"
+        },
+        "groundingChunkIndices": [
+          21,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9195,
+          "endIndex": 9261,
+          "text": "岐阜県自然環境課「日本最古の石にふれるみち」"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9268,
+          "endIndex": 9334,
+          "text": "七宗町公式ウェブサイト「日本最古の石博物館」"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9341,
+          "endIndex": 9410,
+          "text": "岐阜県観光連盟「日本最古の石博物館」公式ガイド"
+        },
+        "groundingChunkIndices": [
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9501,
+          "endIndex": 9612,
+          "text": "飛騨市神岡町の町並みを見下ろす高台に、かっこいい天守閣がそびえる「神岡城」"
+        },
+        "groundingChunkIndices": [
+          7,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9615,
+          "endIndex": 9780,
+          "text": "実はこの天守閣、昭和45年（1970年）にある意外な理由で建てられたものなんですが、その理由とは次のうちどれでしょう？"
+        },
+        "groundingChunkIndices": [
+          5,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9880,
+          "endIndex": 9988,
+          "text": "**2番：** 神岡鉱山を運営していた三井金属鉱業が、創業100周年記念として建てた"
+        },
+        "groundingChunkIndices": [
+          5,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10103,
+          "endIndex": 10191,
+          "text": "**正解：** **2番（三井金属鉱業が創業100周年記念として建てた）**"
+        },
+        "groundingChunkIndices": [
+          5,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10221,
+          "endIndex": 10332,
+          "text": "「神岡城はもともと戦国時代、武田信玄の家来が築いた東町城というお城の跡です"
+        },
+        "groundingChunkIndices": [
+          7,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10335,
+          "endIndex": 10437,
+          "text": "しかし当時は天守閣などはなく、江戸時代のはじめに取り壊されていました"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10443,
+          "endIndex": 10638,
+          "text": "今ある立派な天守閣は、明治7年に鉱山経営を始めた三井金属鉱業（神岡鉱業所）が、創業100周年を記念して昭和45年に町へ寄贈したものなんです"
+        },
+        "groundingChunkIndices": [
+          5,
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10641,
+          "endIndex": 10764,
+          "text": "“鉱山会社がお城の天守閣を建てた”というのは全国でも神岡ならではの珍しいお話ですね"
+        },
+        "groundingChunkIndices": [
+          11,
+          10
         ]
       }
     ],
     "webSearchQueries": [
-      "こんにゃく 灰汁 固まる 理由 全国こんにゃく協同組合連合会",
-      "飛騨高山 みたらし団子 甘くない 理由 歴史",
-      "岐阜県 細寒天 生産 日本一 理由 山岡町",
-      "飛騨 赤かぶ 漬物 赤くなる 理由 アントシアニン 岐阜県"
+      "飛騨匠 庸調免除 律令制 飛騨国",
+      "神岡城 三井金属 創業100周年 昭和45年 飛騨市",
+      "飛騨市 神岡 高原川 崖 建築 懸造り 川沿い",
+      "神岡鉱山 最盛期 人口 映画館 飛騨市",
+      "日本最古の石 七宗町 ひだ宇宙科学館 カミオカラボ 以外 神岡"
     ]
   }
 }
