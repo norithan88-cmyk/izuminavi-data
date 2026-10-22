@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2283,
-  "estimated_minutes": 6.9,
+  "theme": "科学・自然のなぜ",
+  "characters": 2187,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "高台にそびえる神岡城の天守閣。昭和45年にある意外な理由で建てられたのですが、それは何でしょうか。1番、映画のロケセット。2番、三井金属鉱業が創業100周年記念で建てた。3番、万博のパビリオンを移築した。",
-    "answer": "正解は2番、三井金属鉱業が建てた、でした！民間企業がお城を建てて町に寄贈するなんて、スケールが大きすぎてびっくりやさ！神岡ならではの豪快な歴史やね。",
+    "question": "神岡町の地下にある大型重力波望遠鏡ＫＡＧＲＡで、レーザーを反射する鏡に使われている特別な宝石はどれでしょうか。１番、ダイヤモンド。２番、サファイア。３番、みおんのへそくり。",
+    "answer": "正解は２番、サファイアでした！マイナス２５３度まで冷やすと熱を逃がして揺れが止まるんだって。３番のみおんのへそくりは、そもそも存在しとらんやさ！",
     "source_ids": [
-      1,
-      14
+      15,
+      16
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsXmYEdHvBySKVuTaxFtZzgt462mShO6zYW6HzCpzYfCnR9UT6jYwDOLpVnByrr93BczSvxeEUOcnMxgtKZzM_SsqjrB3NJADK_K3Zkhnz7_KKaDkvBhyQsPbe5go4avKwXA=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL1BUGdctJM0kHTqfzW_DzayiSTlqtoYHjLVwdWC6PKgfDZrbA7EearXYedn9aAujAixY0ehwmeu3mtD6STFOsY3UsUHx6tQUxFwVUW1g1cOQhEc58QSwoaAbenWOx5SqT",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEkXz5sl4GYKWTprW4PEX6mDaHsCLDLqecuToMZcPFotdt2JLKdPDV1j9n3xFz_yiCZd5Vsg_7hYb_HmgARnZEdnYJ4qliOxq4BHCsdrZlPdWkymPdTBXZ0JCtp8xYgY="
     ]
   },
   "izumi": {
-    "text": "水曜の神岡ディープ！今日は神岡の誇り、鉱山の跡地のお話やさ。\n神岡鉱山といえば、茂住宗貞さんが開発して以来、亜鉛や鉛、銀なんかを掘りまくって町を支えてきた大黒柱でした。でも、2001年に採掘を終えることになったんです。普通なら「長い間お疲れさま、穴を埋めまいか」で終わるところやろー？\nところが神岡は違った！掘ったあとの巨大な地下の穴を、そのまま世界の最先端研究に活用しちゃったんです。そう、あのスーパーカミオカンデ！\nこれ、今で言う究極のリサイクルやさ！普通なら使わなくなった穴なんて放置するか迷うところなのに、まさか宇宙の謎を解き明かす世界最高峰の研究施設に生まれ変わらせるなんて、神岡の人は発想が柔軟すぎるやろー！\nみおんなら、空いた部屋があったらとりあえず段ボールを詰め込んで物置にして終わりそうだけど、神岡は「よし、宇宙の素粒子を見よう！」ってなったわけです。スケールが違いすぎてツッコミが追いつかんわ！\n掘って掘って日本の産業を支えたあとは、世界の科学の未来を支えるステージへ華麗に転職。捨てるのはおとましい、もったいない精神をはるかに飛び越えた奇跡の再利用やさ。\n足元深くに世界中が注目する穴があるって、神岡の人、めちゃくちゃ自慢していいと思うよ！",
+    "text": "みおんの神岡ディープ！今日は神岡名物、レールマウンテンバイク ガッタンゴーのお話やさ！神岡鉄道が２００６年１２月１日に廃止されたあと、２００７年に地元の有志の皆さんが、廃線の線路を自転車で走るこの取り組みを始めたんだよね。きっかけがサイパン島で線路の上を自転車で走るツアーの体験だったっていうのも、今なら「行動力ありすぎ！」ってネットでバズりそうな展開やろー！２０１１年からはＮＰＯ法人「神岡・町づくりネットワーク」が運営しとるんだけど、２０１８年には旧漆山駅から二ツ屋トンネルまでの往復６・６キロを走る「渓谷コース」が仲間入りしたんだよね。この渓谷コース、１１月初めには見事な紅葉が楽しめるんだって！でもさ、往復６・６キロって聞いて「太ももパンパンでえらいことにならん？」って心配になった人、おらん？…えらい、つまり疲れるんじゃないかってことね！大丈夫、今の自転車はすべて電動アシスト付き！体力に自信がなくてもスイスイ紅葉の絶景を楽しめるよ。みおんも乗りたいけど、足がペダルに届かん…って、ＡＩだから実体がないんだったわ！水曜日はお休みだけど祝日や８月は営業しとるよ。紅葉の渓谷を自転車で駆け抜けるなんて、神岡の人が全国に自慢できるアトラクションやさね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡"
+      "https://tabi-mag.jp/gi0335/"
     ],
     "angle": {
-      "id": "mine-after",
-      "hook": "鉱山が終わったあと、穴が世界の最先端研究の場所に。究極のリサイクル"
+      "id": "gt-autumn",
+      "hook": "渓谷コースの紅葉。電動アシストだから体力に自信がなくても大丈夫"
     }
   },
   "local": {
-    "text": "今週の土曜日、10月24日に神岡商工会議所で「カミフリ」が開催されるよ！商工会議所とフリーマーケットのコラボイベントなんだって。掘り出し物や思わぬお宝に出会えるチャンスかもしれないね。お散歩がてら、立ち寄ってみるのも楽しそうやさ！",
+    "text": "今週末の１０月２４日土曜日に、「カミフリ」が開催されるよ！神岡商工会議所とフリーマーケットがコラボしたイベントなんだって。掘り出し物や思わぬお宝に出会えるチャンスかもしれないよね。週末のお出かけの予定にチェックしてみてはいかがでしょうか！",
     "source_ids": [
-      31
+      19
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/site/koho/88027.html"
@@ -43,221 +43,220 @@
   },
   "segments": [
     {
-      "topic": "崖っぷちからこんにちは！神岡名物「空中建築」の秘密",
-      "text": "高原川の川沿いを歩いとると、思わず二度見しちゃう光景があるんやさ。川の崖から家がぐわーっと空中にせり出して、下から細い柱で支えられとる！あれ、初めて見たとき「えっ、浮いとる！？」って声が出そうになったよ。\n道路側から見ると普通の2階建てなのに、川側から見上げると3階建てや4階建ての立体構造になっとるんだよね。なんでこんなスリリングな空中建築になったのかというと、理由はものすごくシンプル。「平地がまったく足りんかったから」なんです！\n昭和25年に神岡町ができたとき、人口はおよそ2万4000人。当時の岐阜県の「町」でトップの人口やったんです。ピークの昭和35年ごろには2万7000人を超えて、狭い市街地に人がぎゅうぎゅう！映画館も3軒から4軒ひしめき合っとったらしいよ。\n人が押し寄せて家を建てる地面がない！でも家は建てたい！ってなった当時の人たち、どうしたと思います？「横がないなら、川の空中にせり出せばええやさ！」って、川の上に部屋をオーバーハングさせちゃったんです。\n現代なら「土地がないから諦めよう」ってなるところを、崖から飛び出して敷地を広げるド根性。商店や昔の花街の建物も川へせり出して、まるで水の上に浮かぶお城みたいやろー。\n神岡の町並みを見たら、あの崖っぷちの柱を思い出して、当時の凄まじいエネルギーに拍手を送りたくなっちゃうね！",
+      "topic": "北アルプスは今でも日本一のスピードで成長中！？",
+      "text": "神岡から見える北アルプス、毎日堂々とそびえ立ってかっこいいよね。でも山って大昔にできて、あとは静かに座っとるだけだと思ってない？実は北アルプス、今この瞬間も日本一の猛スピードで背が伸びとる真っ最中なんだって！えっ、山が成長期なんけな！？国土地理院の観測データによると、北アルプスは今でも年間およそ３ミリから５ミリ、１００年で約３０センチから５０センチも隆起しとるんだよ！地質学の世界では、わずか１００万年ほどで３千メートル級に化けた猛烈なスピードで、地球上でもトップクラスの急成長なんだって。２００万年から３００万年前は、平らな丘や浅い海に近かったらしいよ。あんなに険しいのに、地球の歴史から見たら「生まれたての赤ちゃん山脈」だったなんて、うそでしょ！？なんでそんなに伸びるのかというと、東西から押されとるだけじゃなく、北アルプスの真下に巨大な高温のマグマだまりがあるからなんだって。温められた地殻が軽くなって、お風呂のおもちゃみたいにプカーッと浮力で下から突き上げられとるらしいよ。１００年で５０センチ伸びるなら、何万年後には空に届いちゃうんじゃない…って、そこまでは無理か！明日の朝、北アルプスを見上げたら「今日も背伸びしとるなー」って家族に教えてあげまい！",
       "source_ids": [
-        2,
-        3,
-        8
+        7,
+        8,
+        9
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ClQz_cY4ZLXHrnVKW1InCmtb83BmPAORm4eI1ek-3MIrxrTjIwdmo-f24aEA44ek_7fEMgcRg7oewbFC3iP5Rc-qfk_6kMhOVx2L4MyM8HRXyKe1j1A88zuCx2WA",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO18RARdoBXiA4TCWrRpFa4-jnaJ1FkWu-7O3zBDxT-C3kP2S_Gzbe7lNlU5wZiomA8S5M4nZShQNjS-sp_vM-ra37hbdmVCRBiwaFmrC94SOrL1_ZvL0rfGFh_RtxgAuBRYSQ6rfwmt4jPWhPr264",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3F9aDJrIeMLod2EfUBi0QP8472Kue-1Rm0dOEjHncSppevyuVCZZs4gCAuFO3jXABHoTGWbUiESBoQT4Uwc71IVkBpp4rlQM5I8pvjp-HjHzowNKTY1h8Ko="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-5M_7qmFLCn2Uv5MtVX6U8aCeDsKtBt0Aty1pDVZN_yOlQEI3DkNzYVvv8HAbo9z8ub_EMsl3WEygDHsXfySSOYBBVG3Nk-nPvWK-y0dRCipSWmafDvqkoZ48rwBB8wsbQ9EaYcJulH9MB0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgy6OsD_UvHY6Q3vPTk49xohmjVXxpxxcg3kXlPRvkPghgkq-FddhF61DKwwh-Y8GIiCZrJr-dX5xHNdsiRf-5MWeW1uQuBEAhYSUR1AcXqXQKOYEEX3Ig1u4lwAAbfRMdhAC8p9APQw74Ek45945G-bZ3V9y27lNDVPJc5bD0psmbx2qEb0d0Cw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoYKV3dbVc3CeHB8M7rNQUNT2--Zoe9MCePX0MDGt8nAZXX6yxxkEsb-PPGJAFQDxNFNi7qQ8T1V1vuiU3yef7wHJ4ar6R41Osks8CC4MlxzEreCjnUt8Ewz0mXVYaAFmb2nzwLkBPBJ5Fcj_9kwf39M4y7fT0_1cwky9App1sZK4l03IavJWsLmPJQJ5T9Bjx--JN0Q=="
       ]
     },
     {
-      "topic": "税金が丸ごとタダ！？古代のウルトラ特例「飛騨工」伝説",
-      "text": "そういえば、神岡の大胆な家づくりを見て感心しとったんだけど、飛騨の人の建築技術って昔から日本トップクラスだったみたいやさ。\nなんと奈良時代、日本中で飛騨国だけ「税金が丸ごと免除」されとった特例があったんだって！\nえっ、うそでしょ！？税金がタダ！？みおん、住民票を奈良時代の飛騨に移したいくらいなんだけど！…って、AIだから税金払っとらんわ！\n当時の農民は重い税金で苦しんどったのに、飛騨だけ免除。これ、お米が獲れんから大目に見てもらった…わけじゃなく、実はまったく逆！\n飛騨の大工さんたちの木工技術があまりにも凄すぎて、都の朝廷が「税金はいらん！米も布も納めんでいい！その代わり、腕のいい大工さんを都へ送ってくれ！」って頼み込んできたんだって。これが有名な飛騨工制度やさ。\n毎年約100人の大工さんが交代で都へ行って、平城京や平安京の宮殿、大きなお寺を建てまくったんです。都までは片道およそ14日、1年分の食料も自分たちで担いで歩いたんだから、えらい、大変な道のりやったはず。\nでも、都で神技のような建築を仕上げて大絶賛されたんだよね。平安末期までの約500年間で都に行った職人さんは、延べ4万人から5万人！\n税金をチャラにさせるほどの圧倒的な技術集団。今の飛騨の木工文化も、全部ここから始まっとると思うと胸が熱くなるよね！",
+      "topic": "イワナとヤマメの棲み分けミステリー！実は敗走劇だった？",
+      "text": "そういえば、山があれば谷を流れる川にも面白い自然のドラマがあるんだよね。神岡や飛騨の川で釣りをする人なら、「上流にはイワナ、少し下流にはヤマメ」っておなじみやろー？なんであいつら、きれいに住む場所を分けとるか知っとる？お互い「ここからはウチのシマや！」って看板立てて話し合っとる…わけないよね！実はこれ、夏の水温「約１５度」を境目にした壮絶な生存競争の結果なんだって！夏の最高水温が１５度を下回る冷たい最上流はイワナの天下。でも１５度を超えて水が温かくなると、ヤマメの泳ぐスピードやエサを捕まえる反射神経が急激に勝るんだよ。そうなるとイワナはエサ取り合戦でボロ負け！下流から追い出されちゃうんだって。つまり、イワナは「冷たい源流が大好きだから」住んどるんじゃなくて、ヤマメとのバトルに負けて、寒さに耐えられる最上流へ逃げ延びただけらしいよ！あんなにかっこいい顔しとるのに、まさかの敗走劇だったなんて聞いてないんだけど！でも、川沿いの木陰が水温を最大２・８度も下げてイワナを守っとるっていうから、自然ってよくできとるよね。今度イワナを食べるときは、「厳しい競争を生き延びてくれてありがとう…」って感謝しながら噛みしめまい！",
       "source_ids": [
-        17,
-        19,
-        20
+        11,
+        13,
+        14
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdEIRm0j3yu0aMM1c9XP8GgBdrkjC6HiuKy8-2L49efj-Nycc6TcMENxuHNO7XKk2bvVDnqA3LHw0H6MdHMtsTNZIBX0ArAgiVuS47xi3XbzgU_Oc57WvWrvokbbt0wRozV3a0KCWJ5-ByV3NA8YQh11yGQdO_J-Yeq0k=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9CMlAzn41r7oHkzR7fOVjVdMhJgklxbjxJSgE-F1E7OC5t_NV58_QOfl2iLrtAL0v2l8x6bNnzJrE5uDnjIMWDuZlmOGAlSuiy1mD0TtrarkJgAMpY9tEFYBalK90_jWnmMl-Oe0lpgLAhAAicmOQ_FlVu0lrJtx_ofMJkFQ9mQShf9UcHn3sgK3Zfw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhsg2KneCJrzfoTAXvWOtDrS287fSAGI6-XE5zW-DYjqZjaOick1ltPe6jXq7nURN2iMXBWNDigT_BrYWM_KUdVXxD1sBsoefUpq9bm8_A4oVliP-UgxEmygq0lKmY0NkLcJrqRndN"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHowOi_OlNEdGb578sk9q0lXoxxRq-B3OW0lKPByapmpw4ZR_CGlGjcSlIVA2nWEQu6f3amgqlRIRsYtTp7AWP26eEs-Q1eRQCZiul8NI5E5cMvXOeQoJ5mz_OAZr8N5ZpyKWLe0Y4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiSejcQGlDfnq5Er-sGZ22vBtmiHAqs7xtfsZJsYSrEiKJVWmiGLAMj-tc1pruoEVUpVNFgMX0AJnQd-qG2R2IJMNmQ7NKliSWu_RE8sJLYAVqxvWsPzDGqeZ75QrIUzQkRq4PFXpR2XX72tLTzBegUeqbpbmaf9thzw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxBJKeJrSK43UhKVodGONv8mLlOGDxW_z2nFjAbMJ_Fyyy01yE65pG_cIVbpaHUSl2L7uxXAtLmSGtTWnW5z52HEwxQOPNzwdT1OqH60wie_ZyzUSZnyxbWMKEIask-MU="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町およびその周辺の歴史やまちの成り立ちについて、家族や友人に話したくなる「へえ、そうだったのか！」というトピックを4件まとめました。各件の根拠となる公的資料・企業資料の出典を添えて作成しています。\n\n---\n\n### 1. 【まちの発見・神岡町】なぜ神岡の家は川へせり出しているのか？ ～崖っぷちに立つ“空中建築”の秘密～\n\n* **疑問**  \n  神岡の町中を流れる高原川沿いを歩くと、家々が川の崖から大きく空中にせり出し、コンクリートの支柱で下から支えられて建っています。なぜあんな不思議な建て方をしているのでしょうか？\n* **理由**  \n  山に挟まれた狭い河岸段丘の土地に、神岡鉱山の繁栄によって膨大な人々が押し寄せ、「平地がまったく足りなくなった」からです。住む場所や店を広げるため、川の斜面や擁壁の上に柱を立て、敷地を空中にせり出させて（オーバーハングさせて）建て増しを行いました。\n* **具体的な数字・比較**  \n  昭和25年（1950年）に1町2村が合併して神岡町が誕生した際、町の人口は約2万4,000人を記録し、当時の岐阜県下の「町」として第一位の人口規模を誇りました。ピーク時の昭和35年（1960年）前後には2万7,000人を超え、人口の多くが船津地区を中心とする狭い市街地に集中しました。  \n  表の道路から見るとごく普通の平屋や2階建てに見える家が、川側（裏手）から見ると3階建て・4階建ての立体構造になっているのが大きな特徴です。\n* **意外な点**  \n  民家だけでなく、鉱山労働者たちで賑わった花街（旧花園町の遊郭建築など）や商店も川沿いにせり出して建てられました。土地がないからこそ生まれた、まるで水上に浮かぶ楼閣のような景観です。\n* **歴史の裏話**  \n  最盛期の神岡は全国から鉱山関係者が集まり、町内には映画館が3〜4軒もひしめき合っていました。激しい住宅需要の中で生まれたこの崖沿いの家屋群は、現在では「昭和の鉱都のエネルギーを今に伝える貴重な景観」として、建築ファンや散策客を惹きつけています。\n* **出典・根拠**  \n  * 飛騨市公式観光サイト「飛騨の旅」 神岡街歩きガイド  \n  * 岐阜県立森林文化アカデミー 地域資源報告（飛騨市神岡町の地形と町の形成）  \n  * 岐阜県・岐阜新聞「ぎふ140景 飛騨市神岡町の町並み」\n\n---\n\n### 2. 【歴史の発見・神岡町】神岡城の天守閣、実は戦国時代のものではない！？ ～鉱山会社が建てたお城のミステリー～\n\n* **疑問**  \n  神岡の町を見下ろす高台に堂々と建つ「神岡城」。戦国武将が築いたお城に見えますが、あの天守閣はいつ、誰が建てたものなのでしょうか？\n* **理由**  \n  戦国時代（永禄7年）に武田信玄の命で築かれた「東町城（ひがしまちじょう）」の城跡ですが、当時の城に天守閣屋舎はなく、江戸時代初期の一国一城令で取り壊されて石垣と堀だけになっていました。現在の立派な天守閣は、1970年（昭和45年）に神岡鉱山を運営していた**三井金属鉱業が神岡鉱業所の「創業100周年記念」として建設し、町に寄贈した模擬天守**です。\n* **具体的な数字・比較**  \n  三井組が神岡鉱山の蛇腹平坑などを取得した明治7年（1874年）から数えてちょうど100年目の節目に建設されました。福井県の現存天守・丸岡城などをモデルに設計されています。\n* **意外な点**  \n  全国各地にあるお城の中でも、「民間鉱山会社が記念事業として建てた天守閣」というのは極めて珍しい例です。天守閣と同時に隣接して「鉱山資料館」も建てられました。\n* **歴史の裏話**  \n  神岡鉱山は明治以降の約130年間で約7,500万トンもの鉱石を採掘し、日本の近代化と高度経済成長を支えました。神岡城は、日本を代表する企業城下町として町と鉱山が一体となって歩んできた歴史を象徴するモニュメントでもあります。\n* **出典・根拠**  \n  * 飛騨市公式ウェブサイト「高原郷土館（神岡城・鉱山資料館）」  \n  * 岐阜県「ジオランドぎふ」鉱山資料館・神岡城解説  \n  * 三井金属鉱業「神岡鉱山の歴史」\n\n---\n\n### 3. 【歴史の発見・飛騨地域】税金が丸ごと免除されていた！？ ～古代律令制で全国唯一のウルトラ特例「飛騨国」～\n\n* **疑問**  \n  奈良時代、全国の農民は重い税金に苦しんでいましたが、飛騨国（現在の岐阜県飛騨地方）だけ「調（特産物の納付）」と「庸（労役の代納布）」が全額免除されていました。なぜそんな破格の優遇措置が取られたのでしょうか？\n* **理由**  \n  奈良時代の「養老律令（賦役令）」第39条に「斐陀国条」という特例が定められており、税を免除する代わりに、1里（50戸）ごとに10人の優れた大工・木工職人を都へ差し出す**「飛騨工（ひだのたくみ）制度」**が義務付けられていたためです。\n* **具体的な数字・比較**  \n  飛騨全体から毎年約100人の職人（世話係を含む）が交代で都へ派遣され、平城京や平安京の宮殿、大寺院の建築に従事しました。任期は1年間で、飛騨から都までは片道およそ14日（帰りは7日）をかけ、1年分の食糧（米）も飛騨の民衆が負担して都へ運びました。平安末期までの約500年間に都へ出役した職人は延べ4万〜5万人にものぼると推計されています。\n* **意外な点**  \n  「飛騨は米が獲れない山国で貧しかったから免除された」と思われがちですが、実態は逆です。他国にはない卓越した木工技術を持っていたため、**「国税を棒引きにしてでも、職人集団として直属で徴発したかった」**という、中央政府の切実な要請による特例でした。\n* **歴史の裏話**  \n  都で神業のような建築を次々と仕上げた飛騨の大工たちは評判を呼び、平安時代の説話集『今昔物語集』などにも伝説的な名工として描かれました。この古代の技術集団が、のちに高山祭の精緻な屋台や各地の木工文化、ひいては飛騨の家具産業へと受け継がれていく源流となっています。\n* **出典・根拠**  \n  * 国税庁 税務大学校 租税史料「律令国家の免税（斐陀国）」  \n  * 文化庁 日本遺産ポータル「飛騨匠の技・こころ―木とともに、今に引き継ぐ1300年―」  \n  * 高山市史 街道編「飛騨工の登場」\n\n---\n\n### 4. 【自然・地質の発見・岐阜県】日本で一番古い石は岐阜県にあった！？ ～飛騨川に眠っていた20億年前の記憶～\n\n* **疑問**  \n  日本列島の中で「最も古い岩石」はどこで見つかったか知っていますか？ 実は、岐阜県内を流れる飛騨川の河原でした。\n* **理由**  \n  昭和45年（1970年）、岐阜県加茂郡七宗（ひちそう）町の飛水峡（飛騨川河床）で採取された「上麻生礫岩（かみあそうれきがん）」を分析したところ、含まれていた珪線石片麻岩が**約20億年前**に形成されたものであることが判明しました。\n* **具体的な数字・比較**  \n  日本列島そのものが大陸から離れて形作られたのは約数千万年前ですが、この岩石の年齢はなんと約20億年前。地球誕生（約46億年前）の半分近く昔のものです。発見当時、日本列島で最も古い岩石として日本中を驚かせました（現地には町立「日本最古の石博物館」が建てられています）。\n* **意外な点**  \n  足元の岩盤全体が20億年前のものだったわけではありません。約1億数千万年前に河口などで固まった礫岩（砂利が固まった岩）のなかに、大陸から削られて流れ着いた「2〜3センチほどの小さな小石」として、20億年前の石がタイムカプセルのように奇跡的に閉じ込められていたのです。\n* **歴史の裏話**  \n  この発見があるまで、地質学界では「日本列島は新しくできた若い島であり、古い岩石など存在するはずがない」と考えられていました。飛騨川の小石の発見は、「かつて日本列島の元になる地層がユーラシア大陸と一体だった」という壮大な大陸移動の歴史を証明する世界的発見となりました。\n* **出典・根拠**  \n  * 岐阜県自然環境課「日本最古の石にふれるみち」  \n  * 七宗町公式ウェブサイト「日本最古の石博物館」  \n  * 岐阜県観光連盟「日本最古の石博物館」公式ガイド\n\n---\n\n### 【ラジオ連動 3択クイズ案】（テーマ：神岡城）\n\n**問題**  \n飛騨市神岡町の町並みを見下ろす高台に、かっこいい天守閣がそびえる「神岡城」。実はこの天守閣、昭和45年（1970年）にある意外な理由で建てられたものなんですが、その理由とは次のうちどれでしょう？\n\n* **1番：** 当時大ヒットした時代劇映画のロケセットとして建てられた\n* **2番：** 神岡鉱山を運営していた三井金属鉱業が、創業100周年記念として建てた\n* **3番：** 大阪万博（日本万国博覧会）の岐阜県パビリオンをそのまま移築した\n\n---\n\n**正解：** **2番（三井金属鉱業が創業100周年記念として建てた）**\n\n**解説トーク例：**  \n「神岡城はもともと戦国時代、武田信玄の家来が築いた東町城というお城の跡です。しかし当時は天守閣などはなく、江戸時代のはじめに取り壊されていました。  \n今ある立派な天守閣は、明治7年に鉱山経営を始めた三井金属鉱業（神岡鉱業所）が、創業100周年を記念して昭和45年に町へ寄贈したものなんです。“鉱山会社がお城の天守閣を建てた”というのは全国でも神岡ならではの珍しいお話ですね」",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、「科学・自然のなぜ」をテーマにした調査メモを作成しました。身近な自然環境や神岡・飛騨地域の地質・研究施設に焦点を当て、家族にシェアしたくなる驚きの事実を公的機関や大学・研究機関の資料をベースにまとめています。\n\n---\n\n# 「科学・自然のなぜ」ラジオ用リサーチメモ（4選）\n\n---\n\n### テーマ1：なぜ神岡の地名がついた世界で唯一の鉱物があるのか？（新鉱物「神岡鉱」の謎）\n\n* **疑問の概要**  \n  「神岡」という町の名前がそのまま正式な国際名称として登録されている鉱物があるのをご存じですか？ 世界で神岡鉱山からしか見つかっていない希少な鉱物「神岡鉱（カミオカアイト）」の正体に迫ります。\n* **理由（メカニズム）**  \n  神岡鉱山は地下深くから上昇した高温のマグマと、周囲の石灰岩が熱水反応を起こしてできた日本最大級の「接触交代鉱床（スカルン鉱床）」です。この極めて特殊な高温・高圧の熱水環境において、モリブデンと鉄が極めて珍しい比率で結晶化したことで、未知の鉱物が形成されました。\n* **具体的な数字・比較**  \n  世界で認定されている鉱物は約6,000種類ありますが、日本で初めて発見された「日本産新鉱物」は約150種ほどしかありません。神岡鉱の化学組成は「$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$（鉄とモリブデンの酸化鉱物）」で、六方晶系という六角柱状の微細な結晶構造を持ちます。\n* **意外な点**  \n  神岡鉱山といえば「日本一の亜鉛と鉛の鉱山」として教科書にも載るほど有名ですが、神岡鉱には亜鉛も鉛も一切含まれておらず、「鉄とモリブデン」という全く別の金属の組み合わせからできています。\n* **歴史の裏話**  \n  1975年、通商産業省工業技術院地質調査所（現在の産業技術総合研究所）の鉱床学者・佐々木昭氏らが神岡鉱山栃洞坑（とちぼらこう）で採取。分析と検証に10年の歳月を費やし、1985年に国際鉱物学連合（IMA）へ論文が発表され、正式に「Kamiokite（神岡鉱）」と承認されました。\n* **根拠・出典**  \n  * 産業技術総合研究所 地質標本館『鉱物標本 / 神岡鉱（Kamiokite）』  \n  * Sasaki, A., Yui, S. and Yamaguchi, M. (1985): *Kamiokite, a new mineral.* Mineral. Jour., 12, 393-399.\n\n---\n\n### テーマ2：なぜ飛騨山脈（北アルプス）は今でも日本一のスピードで背が高くなっているのか？\n\n* **疑問の概要**  \n  神岡の町からも望める雄大な北アルプス。何百万年も昔に出来上がった静かな山に見えますが、実は現在進行形で「日本一の猛スピード」で隆起し続けています。\n* **理由（メカニズム）**  \n  日本列島が東西からプレートの強い力で押し縮められていることに加え、北アルプスの直下には巨大な高温の「マグマだまり（高温流体）」が存在します。熱せられた地殻が軽くなって浮力を持ち、下から押し上げられることで、世界的にも異例の急激な隆起が引き起こされています。\n* **具体的な数字・比較**  \n  国土地理院が穂高岳の一等三角点などでGNSS（衛星測位）観測を行った結果、北アルプスは現在でも**「年間約3〜5ミリ（100年で約30〜50センチ）」**という驚異的な速度で隆起しています。地質学的には「わずか100万年ほどで3,000メートル級の山脈に化けた」計算になり、地球上でもトップクラスの成長スピードです。\n* **意外な点**  \n  あんなに険しく聳え立っている山々ですが、地質学的な時間スケールで見ると「ごく最近できた赤ちゃん山脈」です。およそ200万〜300万年前、現在の北アルプス周辺はほとんど平坦な丘陵や浅い海に近い地形でした。\n* **歴史の裏話**  \n  かつては「プレートがぶつかってシワが寄っただけ」と考えられていましたが、京都大学や産業技術総合研究所などの近年の合同研究により、地下のマグマ活動が地殻を局所的に押し上げているという「マグマ駆動説」が裏付けられました。\n* **根拠・出典**  \n  * 国土地理院時報 124集『北アルプス穂高連峰の隆起に関する測地学的検証 ～一等三角点穂高岳でのGNSS観測～』（西村卓也ほか）  \n  * 産業技術総合研究所・地質調査総合センター『日本の地形千景：奥穂高岳と涸沢カール』  \n  * 京都大学 プレスリリース『日本アルプスはなぜこれほど速く隆起したのか ―マグマ活動が山脈形成を促進する新たな仕組みを解明―』\n\n---\n\n### テーマ3：なぜ飛騨の清流では「イワナ」と「ヤマメ」が上下にきれいに住み分けるのか？\n\n* **疑問の概要**  \n  飛騨の川で釣りをする人にはおなじみですが、山奥の最上流にはイワナ、少し下るとヤマメ（アマゴ）が釣れます。なぜ混ざらずにきっちりエリアが分かれるのでしょうか？\n* **理由（メカニズム）**  \n  決定的な理由は「水温による運動能力の逆転」です。イワナは極めて冷たい水に適応していますが、水温が上がるとヤマメのほうが泳ぐスピードや餌を捕まえる反射神経が圧倒的に勝ります。そのため、少しでも温かい下流ではイワナが餌の争奪戦に負けて追い出され、結果としてヤマメが暮らせない冷たい最上流にだけイワナが生き残るからです。\n* **具体的な数字・比較**  \n  生態学・水産研究の境界線は夏の水温**「約15℃」**です。夏場の最高水温が15℃を下回る最上流域はイワナの天下、15℃を超える下流域はヤマメの天下となります。水産研究・教育機構の森林調査によると、川辺の木々（渓畔林）が木陰を作るだけで夏の水温が**最大2.8℃**抑制され、イワナの生息密度が2倍に維持されることが分かっています。\n* **意外な点**  \n  「イワナは山奥の源流が大好きで、自ら好んで上流に住んでいる」と思われがちですが、実は下流でのヤマメとの生存競争に敗れた結果、寒さに耐えられる最上流部へ逃げ延びたという「競争回避（消極的適応）」の側面があります。\n* **歴史の裏話**  \n  この現象に世界で初めて着目し、日本の生態学のマイルストーンとなったのが、京都大学の生態学者・今西錦司氏が1951年に提唱した「すみわけ理論（棲み分け説）」です。日本の渓流魚の研究から生まれた世界的な生物学理論でした。\n* **根拠・出典**  \n  * 国立研究開発法人 水産研究・教育機構『イワナの生息環境と渓畔林の関係』  \n  * 日本生態学会『イワナとヤマメの棲み分け理論の再考』（森田健太郎・佐橋玄記・坪井潤一）\n\n---\n\n### テーマ4：なぜ神岡の重力波望遠鏡KAGRAは鏡を「マイナス253度」まで凍らせるのか？\n\n* **疑問の概要**  \n  神岡町の地下深くにある大型重力波望遠鏡「KAGRA（かぐら）」。宇宙の彼方から来る重力波を捉えるため、レーザーを反射する鏡をカチコチに冷やしています。なぜわざわざ極低温にする必要があるのでしょうか？\n* **理由（メカニズム）**  \n  宇宙の時空の歪みを捉えるには、鏡の表面の揺れを限界までゼロに近づける必要があります。常温の物質は、目に見えなくても分子や原子が微小にブルブルと震えており（熱雑音）、これが邪魔をして宇宙からの極微小なシグナルがかき消されてしまいます。熱振動を力ずくで止めるため、絶対零度近くまで冷却しています。\n* **具体的な数字・比較**  \n  冷却温度は**「マイナス253℃（絶対温度20ケルビン）」**。KAGRAが捉えようとしている空間の伸縮は、「地球と太陽の距離（約1億5,000万キロ）に対して、**水素原子1個分（約100億分の1メートル）**動いたかどうか」という途方もない精度です。\n* **意外な点**  \n  鏡の素材に使われているのは普通のガラスや金属ではなく、宝石として知られる**「サファイア（大型人工サファイア単結晶）」**です。サファイアはマイナス250度付近まで冷やすと、熱を逃がす効率（熱伝導率）が金属の銅並みに跳ね上がり、かつレーザー光を当てても形が歪みにくいという、物理学的に奇跡的な性質を持っているためです。\n* **歴史の裏話**  \n  先行するアメリカの重力波望遠鏡「LIGO（ライゴ）」やヨーロッパの「Virgo（バーゴ）」は地上にあり常温の鏡を使用しています。これに対し、「地下の硬い岩盤で揺れを防ぎ、鏡をサファイアにして極低温に冷やす」という手法は、神岡のKAGRAが世界で初めて実用化した世界最先端のアプローチです。\n* **根拠・出典**  \n  * 東京大学宇宙線研究所（ICRR）重力波観測研究施設『大型低温重力波望遠鏡 KAGRAの概要・特徴』  \n  * 大学共同利用機関法人 自然科学研究機構 国立天文台『重力波プロジェクト推進室：KAGRAの特徴』\n\n---\n\n# リスナー参加型！家族で話したくなる3択クイズ\n\n**【テーマ4・KAGRAから出題】**\n\n* **問題**  \n  「飛騨市神岡町の地下にある巨大な重力波望遠鏡『KAGRA（かぐら）』。宇宙から届くかすかな信号を反射してキャッチするため、鏡には“ある特別な宝石”が使われています。次のうち、実際に使われている宝石はどれでしょう？」  \n  * **第1問：ダイヤモンド**  \n  * **第2問：サファイア**  \n  * **第3問：ルビー**\n\n* **正解**  \n  **第2問：サファイア**\n\n* **ラジオ用トーク・解説**  \n  「正解はなんと『サファイア』なんです！ KAGRAでは、直径22センチ・重さ23キロという特大の人工サファイアの結晶をピカピカに磨いて鏡にしています。サファイアはマイナス253度という超極低温に冷やすと、熱をものすごくスムーズに逃がし、原子の震えがピタッと止まるという、科学者にとって夢のような性質を持っています。世界屈指の最新物理学は、神岡の地下で宝石の力を借りて宇宙の謎を解き明かそうとしているんですね！」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%8C%A0+%E5%BA%B8%E8%AA%BF%E5%85%8D%E9%99%A4+%E5%BE%8B%E4%BB%A4%E5%88%B6+%E9%A3%9B%E9%A8%A8%E5%9B%BD&client=app-vertex-grounding&safesearch=active\">飛騨匠 庸調免除 律令制 飛騨国</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E5%9F%8E+%E4%B8%89%E4%BA%95%E9%87%91%E5%B1%9E+%E5%89%B5%E6%A5%AD100%E5%91%A8%E5%B9%B4+%E6%98%AD%E5%92%8C45%E5%B9%B4+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡城 三井金属 創業100周年 昭和45年 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1+%E9%AB%98%E5%8E%9F%E5%B7%9D+%E5%B4%96+%E5%BB%BA%E7%AF%89+%E6%87%B8%E9%80%A0%E3%82%8A+%E5%B7%9D%E6%B2%BF%E3%81%84&client=app-vertex-grounding&safesearch=active\">飛騨市 神岡 高原川 崖 建築 懸造り 川沿い</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E6%9C%80%E7%9B%9B%E6%9C%9F+%E4%BA%BA%E5%8F%A3+%E6%98%A0%E7%94%BB%E9%A4%A8+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡鉱山 最盛期 人口 映画館 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4%E3%81%AE%E7%9F%B3+%E4%B8%83%E5%AE%97%E7%94%BA+%E3%81%B2%E3%81%A0%E5%AE%87%E5%AE%99%E7%A7%91%E5%AD%A6%E9%A4%A8+%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%A9%E3%83%9C+%E4%BB%A5%E5%A4%96+%E7%A5%9E%E5%B2%A1&client=app-vertex-grounding&safesearch=active\">日本最古の石 七宗町 ひだ宇宙科学館 カミオカラボ 以外 神岡</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A4%E3%83%AF%E3%83%8A+%E3%83%A4%E3%83%9E%E3%83%A1+%E6%A3%B2%E3%81%BF%E5%88%86%E3%81%91+%E6%B0%B4%E6%B8%A9+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+OR+%E6%B0%B4%E7%94%A3%E7%A0%94%E7%A9%B6%E3%83%BB%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B&client=app-vertex-grounding&safesearch=active\">イワナ ヤマメ 棲み分け 水温 森林総合研究所 OR 水産研究・教育機構</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E7%9F%B3+Kamiokite+%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8+%E5%9C%B0%E8%B3%AA%E8%AA%BF%E6%9F%BB%E6%89%80&client=app-vertex-grounding&safesearch=active\">神岡石 Kamiokite 国立科学博物館 地質調査所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%8C%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9+%E9%A3%9B%E9%A8%A8%E5%B1%B1%E8%84%88+%E9%9A%86%E8%B5%B7%E9%80%9F%E5%BA%A6+%E5%B9%B4%E9%96%93+%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+OR+%E5%9C%B0%E8%B3%AA%E8%AA%BF%E6%9F%BB%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&client=app-vertex-grounding&safesearch=active\">北アルプス 飛騨山脈 隆起速度 年間 産業技術総合研究所 OR 地質調査総合センター</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=KAGRA+%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2+%E9%8F%A1+%E6%A5%B5%E4%BD%8E%E6%B8%A9+20K+%E7%86%B1%E9%9B%91%E9%9F%B3+%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AE%87%E5%AE%99%E7%B7%9A%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">KAGRA サファイア 鏡 極低温 20K 熱雑音 東京大学宇宙線研究所</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ClQz_cY4ZLXHrnVKW1InCmtb83BmPAORm4eI1ek-3MIrxrTjIwdmo-f24aEA44ek_7fEMgcRg7oewbFC3iP5Rc-qfk_6kMhOVx2L4MyM8HRXyKe1j1A88zuCx2WA",
-          "title": "gifu-np.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO18RARdoBXiA4TCWrRpFa4-jnaJ1FkWu-7O3zBDxT-C3kP2S_Gzbe7lNlU5wZiomA8S5M4nZShQNjS-sp_vM-ra37hbdmVCRBiwaFmrC94SOrL1_ZvL0rfGFh_RtxgAuBRYSQ6rfwmt4jPWhPr264",
-          "title": "forest.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv5tTAAhCQ5x-AcX5OiCUKVKDC7u4FW2Ztval5I8mtObpyO07MgnoFs72Y93LW08P2jmIJN_N2IQiqT3LdONS1S_JulzhjjgZ89Qgn9lFvxVx_DmStuikcAiMh9WtO",
-          "title": "locationjapan.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjmUhvl5CO7PntjXAaGMcQJvtYCgMSWIHQB63c6-NsJyWi3-70yR_Okrh3EeYVWr_D8CnVqt3qJNe6YOEpXMTtt_ALWCq6k0g6M1N07Ki3fqZGRx5DMnxAMaGNqtg6XY0tesxt",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdumsw7BbIS4AzJjzBrTYxWzB6W0qNBNGDNHMxveCzIetfNK0n2kAZmN7lMnbarlEFovIr3xYB3fMqCKEJQlhhHryeYqADsN6UyFP6F-gBKbKSeg5JenmVTHvzj7w1MIxb2FP8pl07ohnklJqpgOIWMbmpdRasuzk7p5k=",
-          "title": "gifu-net.ed.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZGKmup62DY-dVkQ3e8G1Bxe6QOkB5qCTJm75caNl51xw3PNX2ExHC8iYju8Oa4Nd1UIk1dn2OahTzcj4tFsKh8T4rpERxEk3lCyOvhh2LETqoXstAeZiNJaFWSzrZcwcTFmQP4y_Gn1qAQ5yNr9W3D3ykDkV8rg==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0yI4UfxwM7iMdsSQxoOTPLBNuDJb5oD4HlMmS7ogaTABl4O3dmUbFoXzWid-i2L1MAQCEops49RjCEzobJ52QHeDnGAqJVBF2inYAQkolCYCakLGgObgT0g4K6QhlO63JuLtM13XsG68sjL2-Gp0=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3F9aDJrIeMLod2EfUBi0QP8472Kue-1Rm0dOEjHncSppevyuVCZZs4gCAuFO3jXABHoTGWbUiESBoQT4Uwc71IVkBpp4rlQM5I8pvjp-HjHzowNKTY1h8Ko=",
-          "title": "hida-kankou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1hUxbTF5GA9H1VimdxYZNXUqN7w3ctpGLxCtuOUBzE8E_5I4HZRFAp1RzXQ0ghzh2Gxs1hymBOiSjQ6tsiZODt8Xk7WFvpS1uLuPHucgmCNsNLqCVgSvwLpuce_90uOEJTvGTdBGvXQ==",
+          "title": "gsj.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnIg6xV1PaTIzObsguUq8FAYvvzNR-XZHB1JN6MnfBZ3iNdsun3fVPAlXDFaxeI2fAjOEKtcB3tpH2m9BHfQiEXe4Uga9zOwjPQ4TcHwXd2xNLYUW0VYi3qngXNd9Fm7KdwFflSU11sOjb2z0J",
-          "title": "city.hida.gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgosgn_izkLZsfGsCBOylUKTcWAPoMMxZcZpWSx2sDJpBZSTcO8KlZE6MKJWMYd1CPehuIzBRMRj3AIttI048pPXQuDN_a06VNC8K330cGAsBizFUbqYRRx_18Bau-9aMEAJU=",
+          "title": "u-tokyo.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_-0BHa22icRCmMDXLBRH6WwOJirQWQ2MRJ5dHpc9pYxC9uwD5gh-JA4Uu4E4AZjlNPe2olwvBUo2Ui53fDRqjEQIgTrPzz_gTB1BypSIDqbVMze3iZ7EYn7DM9gPPHlmtBNllkju-9fI=",
-          "title": "harilab.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX4c-50jyKK4hl5ba65n_o8yClntJ2J0gohTj4FUZYldMqk0rqwZ9VXdObvwtHqM-nfT8_N6ZNYgRvhTcm3vurfDA41to-VFXEl-0OV9W5wew07p8BXXYFYs2b-7zoXtak7jz5CVXl-ZRl4huriH2g2ZOvRFl8ir0U93w=",
+          "title": "smallworld.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYfmtRX-gQflrDeXxpIQJVRDTvVk8Hu0io7HVe3tAqwnAFf768wSgIaPvQcUpFPdkfUOl3AFK0e5zOdX2USMntxPYUG7znsQHQj-cvyAe0U0vWtvxoWaacFYNfpXouDfR3Xe-YMVi5",
-          "title": "iza-yoi.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETAUYek9Q_N6D0vylbdCx6BH9WXyjZyim4NE7ARf36Z0TAtAtJ5sLensvt07YhHnR9c--uzuPswGL9iS4KmRrf1A34YoX7NP_wLfEJJXCs6-kMJG1gujGpmNUm84zGJVLjmhEEdqKZbOCbpm-q2aM=",
+          "title": "jaea.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx2zmrMbgOotPeX4LtolfRdfxcV2PsUdlz-rERZjZKNDIKjuPQQBcJ1Gsxfv4e1vqg2SwwYFSgLEAsNN2jizDTCg2Fh45fzmDLMufsouBf69qG8aSX1CwrqQ_LOSUGrcolWgSokWu-nZz5",
-          "title": "harilab.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-5M_7qmFLCn2Uv5MtVX6U8aCeDsKtBt0Aty1pDVZN_yOlQEI3DkNzYVvv8HAbo9z8ub_EMsl3WEygDHsXfySSOYBBVG3Nk-nPvWK-y0dRCipSWmafDvqkoZ48rwBB8wsbQ9EaYcJulH9MB0=",
+          "title": "web-gis.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETzq762AnnbQKCj1dnMzJYWDToOoU_5Ytcr0ZsSDJG1hWver-NnFlLosUb6RqegaMMYaQD6tPKH1fteUbB4neFCkvm7bJ2k3DE8YI167dXQHY1tXP-mRdQtB-pXemW6cTTlPQAU9y0uOET8-aR-k8R-unrYRYCoD-h-Q==",
-          "title": "geo-gifu.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgy6OsD_UvHY6Q3vPTk49xohmjVXxpxxcg3kXlPRvkPghgkq-FddhF61DKwwh-Y8GIiCZrJr-dX5xHNdsiRf-5MWeW1uQuBEAhYSUR1AcXqXQKOYEEX3Ig1u4lwAAbfRMdhAC8p9APQw74Ek45945G-bZ3V9y27lNDVPJc5bD0psmbx2qEb0d0Cw==",
+          "title": "jst.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsXmYEdHvBySKVuTaxFtZzgt462mShO6zYW6HzCpzYfCnR9UT6jYwDOLpVnByrr93BczSvxeEUOcnMxgtKZzM_SsqjrB3NJADK_K3Zkhnz7_KKaDkvBhyQsPbe5go4avKwXA==",
-          "title": "mitsui-kinzoku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoYKV3dbVc3CeHB8M7rNQUNT2--Zoe9MCePX0MDGt8nAZXX6yxxkEsb-PPGJAFQDxNFNi7qQ8T1V1vuiU3yef7wHJ4ar6R41Osks8CC4MlxzEreCjnUt8Ewz0mXVYaAFmb2nzwLkBPBJ5Fcj_9kwf39M4y7fT0_1cwky9App1sZK4l03IavJWsLmPJQJ5T9Bjx--JN0Q==",
+          "title": "aist.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE61mCllUEgNYcl3jvgbjUgRo566jVbgZJIkr1xZMbuJWb744T3hH1Gdlrnn7fglFwmOFxq95FbI92YWzaOKMlQXRe1XmyQt9sNFih5jK4gvL0OYO6p63Qh8iizUDko_sSVv9IRIRs=",
-          "title": "ameblo.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPX3WpfsOPWWsIOYSJmn8lyD5xWYdrGKFGGqWMDmq86ZcSqdFO9rs803XvyQkjDTgLJAiivOyBsf9bf0yMxkyjPIKifS8VzYj2z4q_M48K4fH3UPlT4lSu8IzBY2jY51TnBMo=",
-          "title": "mitsui-kinzoku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdEIRm0j3yu0aMM1c9XP8GgBdrkjC6HiuKy8-2L49efj-Nycc6TcMENxuHNO7XKk2bvVDnqA3LHw0H6MdHMtsTNZIBX0ArAgiVuS47xi3XbzgU_Oc57WvWrvokbbt0wRozV3a0KCWJ5-ByV3NA8YQh11yGQdO_J-Yeq0k=",
-          "title": "nta.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHuP28M00maatmbcNo7kFHGcGU5UtynuZHMwta4GB-upGfz87de0bTZ5XAWyfpayaZaCEqC4TW3_fZt11216AvyTxDSNCQL_BSq0iWFcRWLCabfRNpTNkEtwcs9wvrwRwkc4vMwhjuZDxZFMoA",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwPiZqBk36ibuFvuX9f5-V7-7Il4weUquGl_pJQFT-7ecYkSzz59zDse9r1QiPjCnE5kIGOQHUI6m8JQN3x38Jv4k8Rd1WxPnS4Qc8zYjaQExtoJ018SCxa5cqH8WWQ8U3Brwol9rs93-n5VOT",
           "title": "adeac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9CMlAzn41r7oHkzR7fOVjVdMhJgklxbjxJSgE-F1E7OC5t_NV58_QOfl2iLrtAL0v2l8x6bNnzJrE5uDnjIMWDuZlmOGAlSuiy1mD0TtrarkJgAMpY9tEFYBalK90_jWnmMl-Oe0lpgLAhAAicmOQ_FlVu0lrJtx_ofMJkFQ9mQShf9UcHn3sgK3Zfw==",
-          "title": "takayama.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHowOi_OlNEdGb578sk9q0lXoxxRq-B3OW0lKPByapmpw4ZR_CGlGjcSlIVA2nWEQu6f3amgqlRIRsYtTp7AWP26eEs-Q1eRQCZiul8NI5E5cMvXOeQoJ5mz_OAZr8N5ZpyKWLe0Y4=",
+          "title": "esj.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhsg2KneCJrzfoTAXvWOtDrS287fSAGI6-XE5zW-DYjqZjaOick1ltPe6jXq7nURN2iMXBWNDigT_BrYWM_KUdVXxD1sBsoefUpq9bm8_A4oVliP-UgxEmygq0lKmY0NkLcJrqRndN",
-          "title": "bunka.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7FuLsOjXU1Y0A7zryq-zjt6jI_0FGJJQxEixa_6D3YO4Lph4gaWdOlyIGbX3FN4zopTV_6Q7VMsvsk3AQMzqpKKbdpaE-jPbr6u3xiWi_-AYhAmGdyO7Z3ViY2RxOC9cswQsr4EJHdWUhQtVi45xDeY8ChdLO622vPihYHo527QWW7-DxYo8Rdwlerbj9vtei9RCn83AlgpsaX7gjNm7pQJfU1yQVgTz_pz9b",
+          "title": "google.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTXBj2in39XjxP3wEzH9eU7ZXdbiyKfdPgpDMTTl632zxSUWMoR6IBtelYE_J9ApGLZEmq9DnoT_yo1DXJRCp8Q8lORRAY5aBOWJPMfnuHGpVR-3Kgnv5t7NyaX4QGuKg7u-c=",
-          "title": "hidasangyo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiSejcQGlDfnq5Er-sGZ22vBtmiHAqs7xtfsZJsYSrEiKJVWmiGLAMj-tc1pruoEVUpVNFgMX0AJnQd-qG2R2IJMNmQ7NKliSWu_RE8sJLYAVqxvWsPzDGqeZ75QrIUzQkRq4PFXpR2XX72tLTzBegUeqbpbmaf9thzw==",
+          "title": "fra.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcFDNYARoLuaHl-Xpo9Db0vQKDd-3uDktQbhb9po9DA3B8wAIKUlFyI6xRV93lfgFog7nW4YOn40PL1j31biohZKrCnPyp52Pdbxm5MB4AWK39b_3eBvWdapcrIg==",
-          "title": "hidatakayama.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxBJKeJrSK43UhKVodGONv8mLlOGDxW_z2nFjAbMJ_Fyyy01yE65pG_cIVbpaHUSl2L7uxXAtLmSGtTWnW5z52HEwxQOPNzwdT1OqH60wie_ZyzUSZnyxbWMKEIask-MU=",
+          "title": "salmoneel.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiiD1uSTNR3_z5C_hfkOQwEt3u5dKJjpsMeiGc8w6KtVYAa3aicGQP8gMUL7Kr6H43ui-jGZKZ4jBUQHHGCsechvhu8zdFbQ9afwb9mDQBD9v2kBIIRt6dlziu3P9pzg==",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL1BUGdctJM0kHTqfzW_DzayiSTlqtoYHjLVwdWC6PKgfDZrbA7EearXYedn9aAujAixY0ehwmeu3mtD6STFOsY3UsUHx6tQUxFwVUW1g1cOQhEc58QSwoaAbenWOx5SqT",
+          "title": "u-tokyo.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmge590RcFdhf_meGYV2jJsxwtEY3rS3yoBEq4_SN37XM2OR8G0lTZNZhxllPdru7OdqS8M9dFibEpsPY0vy7gWGtep929wTCpKIMGacQWKMXrb4dG9lf3SAnpCGI=",
-          "title": "naganokai.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER7sIpZCPz6uIBVi3D1Hp-2gZrL310OND4kwHBmLc35lBIAXsNrwy8c7iXystjzpCHW6xbtSE8I0jQt4DeytmI-qN9B6vslsFkGlWtJqERjB8QzE_XOsDjjb5_I3A=",
-          "title": "hichiso.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5LwrryKvlSmKpxLpj1DGwlXWMgLuH1OVROAwh8gSZyOPVuBUmHcCOjr6dJjq-LWLBYMOaPcjin4VkAHzGlse7D8AcRY-zedU_E7cxdclcXaP-bSHJ1bj-VNIY9_35Hbk=",
-          "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-k7LGaTkEWGDkhuAUPdgeUDwOzuoheYFaUF_STAtq6j31fGwPyuD_QeYfcTCvZ2uV8BEN7STU37STwE_zhX71-v0tdqD0PAPFSl0tUUGG_BfJF4pc0pGcmZ0feD16JE9soOqlGh8rw==",
-          "title": "jalan.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRAKL_8vLhSGe0vBhQlLh6q1XSQVqrEa5Va8117JIqxZ0dc1XdLkgJtIc6zfTfAfDBBH2Lhhr2-7qqzlkDobeBuzAu2wFbSq4hA7NjlwMnmUYn6n3ylhEXgZILhajaAk6nwXT6Q==",
-          "title": "kankou-gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEkXz5sl4GYKWTprW4PEX6mDaHsCLDLqecuToMZcPFotdt2JLKdPDV1j9n3xFz_yiCZd5Vsg_7hYb_HmgARnZEdnYJ4qliOxq4BHCsdrZlPdWkymPdTBXZ0JCtp8xYgY=",
+          "title": "nao.ac.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 953,
-          "endIndex": 1139,
-          "text": "住む場所や店を広げるため、川の斜面や擁壁の上に柱を立て、敷地を空中にせり出させて（オーバーハングさせて）建て増しを行いました"
+          "startIndex": 1140,
+          "endIndex": 1326,
+          "text": "この極めて特殊な高温・高圧の熱水環境において、モリブデンと鉄が極めて珍しい比率で結晶化したことで、未知の鉱物が形成されました"
         },
         "groundingChunkIndices": [
           0,
-          1,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1368,
+          "endIndex": 1535,
+          "text": "世界で認定されている鉱物は約6,000種類ありますが、日本で初めて発見された「日本産新鉱物」は約150種ほどしかありません"
+        },
+        "groundingChunkIndices": [
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1181,
-          "endIndex": 1390,
-          "text": "昭和25年（1950年）に1町2村が合併して神岡町が誕生した際、町の人口は約2万4,000人を記録し、当時の岐阜県下の「町」として第一位の人口規模を誇りました"
+          "startIndex": 1538,
+          "endIndex": 1723,
+          "text": "神岡鉱の化学組成は「$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$（鉄とモリブデンの酸化鉱物）」で、六方晶系という六角柱状の微細な結晶構造を持ちます"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1750,
+          "endIndex": 2023,
+          "text": "神岡鉱山といえば「日本一の亜鉛と鉛の鉱山」として教科書にも載るほど有名ですが、神岡鉱には亜鉛も鉛も一切含まれておらず、「鉄とモリブデン」という全く別の金属の組み合わせからできています"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2053,
+          "endIndex": 2243,
+          "text": "1975年、通商産業省工業技術院地質調査所（現在の産業技術総合研究所）の鉱床学者・佐々木昭氏らが神岡鉱山栃洞坑（とちぼらこう）で採取"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2246,
+          "endIndex": 2423,
+          "text": "分析と検証に10年の歳月を費やし、1985年に国際鉱物学連合（IMA）へ論文が発表され、正式に「Kamiokite（神岡鉱）」と承認されました"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2455,
+          "endIndex": 2543,
+          "text": "産業技術総合研究所 地質標本館『鉱物標本 / 神岡鉱（Kamiokite）』"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2633,
+          "endIndex": 2651,
+          "text": "Jour., 12, 393-399"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3286,
+          "endIndex": 3457,
+          "text": "熱せられた地殻が軽くなって浮力を持ち、下から押し上げられることで、世界的にも異例の急激な隆起が引き起こされています"
         },
         "groundingChunkIndices": [
           3,
@@ -266,83 +265,31 @@
       },
       {
         "segment": {
-          "startIndex": 1393,
-          "endIndex": 1465,
-          "text": "ピーク時の昭和35年（1960年）前後には2万7,000人を超え"
+          "startIndex": 3499,
+          "endIndex": 3747,
+          "text": "国土地理院が穂高岳の一等三角点などでGNSS（衛星測位）観測を行った結果、北アルプスは現在でも**「年間約3〜5ミリ（100年で約30〜50センチ）」**という驚異的な速度で隆起しています"
+        },
+        "groundingChunkIndices": [
+          5,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4265,
+          "endIndex": 4586,
+          "text": "かつては「プレートがぶつかってシワが寄っただけ」と考えられていましたが、京都大学や産業技術総合研究所などの近年の合同研究により、地下のマグマ活動が地殻を局所的に押し上げているという「マグマ駆動説」が裏付けられました"
         },
         "groundingChunkIndices": [
           3,
-          5
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 1393,
-          "endIndex": 1552,
-          "text": "ピーク時の昭和35年（1960年）前後には2万7,000人を超え、人口の多くが船津地区を中心とする狭い市街地に集中しました"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1560,
-          "endIndex": 1758,
-          "text": "表の道路から見るとごく普通の平屋や2階建てに見える家が、川側（裏手）から見ると3階建て・4階建ての立体構造になっているのが大きな特徴です"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1785,
-          "endIndex": 1950,
-          "text": "民家だけでなく、鉱山労働者たちで賑わった花街（旧花園町の遊郭建築など）や商店も川沿いにせり出して建てられました"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1953,
-          "endIndex": 2052,
-          "text": "土地がないからこそ生まれた、まるで水上に浮かぶ楼閣のような景観です"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2082,
-          "endIndex": 2213,
-          "text": "最盛期の神岡は全国から鉱山関係者が集まり、町内には映画館が3〜4軒もひしめき合っていました"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2216,
-          "endIndex": 2441,
-          "text": "激しい住宅需要の中で生まれたこの崖沿いの家屋群は、現在では「昭和の鉱都のエネルギーを今に伝える貴重な景観」として、建築ファンや散策客を惹きつけています"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2473,
-          "endIndex": 2546,
-          "text": "飛騨市公式観光サイト「飛騨の旅」 神岡街歩きガイド"
+          "startIndex": 4618,
+          "endIndex": 4789,
+          "text": "国土地理院時報 124集『北アルプス穂高連峰の隆起に関する測地学的検証 ～一等三角点穂高岳でのGNSS観測～』（西村卓也ほか）"
         },
         "groundingChunkIndices": [
           6
@@ -350,40 +297,40 @@
       },
       {
         "segment": {
-          "startIndex": 2553,
-          "endIndex": 2659,
-          "text": "岐阜県立森林文化アカデミー 地域資源報告（飛騨市神岡町の地形と町の形成）"
+          "startIndex": 4796,
+          "endIndex": 4916,
+          "text": "産業技術総合研究所・地質調査総合センター『日本の地形千景：奥穂高岳と涸沢カール』"
         },
         "groundingChunkIndices": [
-          1
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 2666,
-          "endIndex": 2739,
-          "text": "岐阜県・岐阜新聞「ぎふ140景 飛騨市神岡町の町並み」"
+          "startIndex": 4923,
+          "endIndex": 5105,
+          "text": "京都大学 プレスリリース『日本アルプスはなぜこれほど速く隆起したのか ―マグマ活動が山脈形成を促進する新たな仕組みを解明―』"
         },
         "groundingChunkIndices": [
-          0
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 2929,
-          "endIndex": 2995,
-          "text": "神岡の町を見下ろす高台に堂々と建つ「神岡城」"
+          "startIndex": 5796,
+          "endIndex": 6006,
+          "text": "そのため、少しでも温かい下流ではイワナが餌の争奪戦に負けて追い出され、結果としてヤマメが暮らせない冷たい最上流にだけイワナが生き残るからです"
         },
         "groundingChunkIndices": [
-          7,
-          8
+          8,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 3139,
-          "endIndex": 3410,
-          "text": "戦国時代（永禄7年）に武田信玄の命で築かれた「東町城（ひがしまちじょう）」の城跡ですが、当時の城に天守閣屋舎はなく、江戸時代初期の一国一城令で取り壊されて石垣と堀だけになっていました"
+          "startIndex": 6048,
+          "endIndex": 6123,
+          "text": "生態学・水産研究の境界線は夏の水温**「約15℃」**です"
         },
         "groundingChunkIndices": [
           9,
@@ -392,101 +339,62 @@
       },
       {
         "segment": {
-          "startIndex": 3413,
-          "endIndex": 3633,
-          "text": "現在の立派な天守閣は、1970年（昭和45年）に神岡鉱山を運営していた**三井金属鉱業が神岡鉱業所の「創業100周年記念」として建設し、町に寄贈した模擬天守**です"
+          "startIndex": 6126,
+          "endIndex": 6265,
+          "text": "夏場の最高水温が15℃を下回る最上流域はイワナの天下、15℃を超える下流域はヤマメの天下となります"
         },
         "groundingChunkIndices": [
-          5,
-          11,
           9,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 3675,
-          "endIndex": 3827,
-          "text": "三井組が神岡鉱山の蛇腹平坑などを取得した明治7年（1874年）から数えてちょうど100年目の節目に建設されました"
+          "startIndex": 6268,
+          "endIndex": 6507,
+          "text": "水産研究・教育機構の森林調査によると、川辺の木々（渓畔林）が木陰を作るだけで夏の水温が**最大2.8℃**抑制され、イワナの生息密度が2倍に維持されることが分かっています"
         },
         "groundingChunkIndices": [
-          3,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6534,
+          "endIndex": 6846,
+          "text": "「イワナは山奥の源流が大好きで、自ら好んで上流に住んでいる」と思われがちですが、実は下流でのヤマメとの生存競争に敗れた結果、寒さに耐えられる最上流部へ逃げ延びたという「競争回避（消極的適応）」の側面があります"
+        },
+        "groundingChunkIndices": [
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6876,
+          "endIndex": 7105,
+          "text": "この現象に世界で初めて着目し、日本の生態学のマイルストーンとなったのが、京都大学の生態学者・今西錦司氏が1951年に提唱した「すみわけ理論（棲み分け説）」です"
+        },
+        "groundingChunkIndices": [
           12,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3830,
-          "endIndex": 3911,
-          "text": "福井県の現存天守・丸岡城などをモデルに設計されています"
+          "startIndex": 7108,
+          "endIndex": 7189,
+          "text": "日本の渓流魚の研究から生まれた世界的な生物学理論でした"
         },
         "groundingChunkIndices": [
-          9,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3938,
-          "endIndex": 4088,
-          "text": "全国各地にあるお城の中でも、「民間鉱山会社が記念事業として建てた天守閣」というのは極めて珍しい例です"
-        },
-        "groundingChunkIndices": [
-          11,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4091,
-          "endIndex": 4169,
-          "text": "天守閣と同時に隣接して「鉱山資料館」も建てられました"
-        },
-        "groundingChunkIndices": [
-          11,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4199,
-          "endIndex": 4345,
-          "text": "神岡鉱山は明治以降の約130年間で約7,500万トンもの鉱石を採掘し、日本の近代化と高度経済成長を支えました"
-        },
-        "groundingChunkIndices": [
-          8,
-          11,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 4348,
-          "endIndex": 4513,
-          "text": "神岡城は、日本を代表する企業城下町として町と鉱山が一体となって歩んできた歴史を象徴するモニュメントでもあります"
-        },
-        "groundingChunkIndices": [
-          8,
-          2,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4545,
-          "endIndex": 4632,
-          "text": "飛騨市公式ウェブサイト「高原郷土館（神岡城・鉱山資料館）」"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4639,
-          "endIndex": 4708,
-          "text": "岐阜県「ジオランドぎふ」鉱山資料館・神岡城解説"
+          "startIndex": 7221,
+          "endIndex": 7324,
+          "text": "国立研究開発法人 水産研究・教育機構『イワナの生息環境と渓畔林の関係』"
         },
         "groundingChunkIndices": [
           11
@@ -494,335 +402,104 @@
       },
       {
         "segment": {
-          "startIndex": 4715,
-          "endIndex": 4760,
-          "text": "三井金属鉱業「神岡鉱山の歴史」"
+          "startIndex": 7331,
+          "endIndex": 7457,
+          "text": "日本生態学会『イワナとヤマメの棲み分け理論の再考』（森田健太郎・佐橋玄記・坪井潤一）"
         },
         "groundingChunkIndices": [
-          12,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5274,
-          "endIndex": 5600,
-          "text": "奈良時代の「養老律令（賦役令）」第39条に「斐陀国条」という特例が定められており、税を免除する代わりに、1里（50戸）ごとに10人の優れた大工・木工職人を都へ差し出す**「飛騨工（ひだのたくみ）制度」**が義務付けられていたためです"
-        },
-        "groundingChunkIndices": [
-          15,
-          16,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5642,
-          "endIndex": 5813,
-          "text": "飛騨全体から毎年約100人の職人（世話係を含む）が交代で都へ派遣され、平城京や平安京の宮殿、大寺院の建築に従事しました"
-        },
-        "groundingChunkIndices": [
-          16,
-          18,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5816,
-          "endIndex": 5992,
-          "text": "任期は1年間で、飛騨から都までは片道およそ14日（帰りは7日）をかけ、1年分の食糧（米）も飛騨の民衆が負担して都へ運びました"
-        },
-        "groundingChunkIndices": [
-          16,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5995,
-          "endIndex": 6120,
-          "text": "平安末期までの約500年間に都へ出役した職人は延べ4万〜5万人にものぼると推計されています"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6276,
-          "endIndex": 6508,
-          "text": "他国にはない卓越した木工技術を持っていたため、**「国税を棒引きにしてでも、職人集団として直属で徴発したかった」**という、中央政府の切実な要請による特例でした"
-        },
-        "groundingChunkIndices": [
-          15,
-          16,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6538,
-          "endIndex": 6736,
-          "text": "都で神業のような建築を次々と仕上げた飛騨の大工たちは評判を呼び、平安時代の説話集『今昔物語集』などにも伝説的な名工として描かれました"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6739,
-          "endIndex": 6925,
-          "text": "この古代の技術集団が、のちに高山祭の精緻な屋台や各地の木工文化、ひいては飛騨の家具産業へと受け継がれていく源流となっています"
-        },
-        "groundingChunkIndices": [
-          17,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6957,
-          "endIndex": 7037,
-          "text": "国税庁 税務大学校 租税史料「律令国家の免税（斐陀国）」"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7044,
-          "endIndex": 7160,
-          "text": "文化庁 日本遺産ポータル「飛騨匠の技・こころ―木とともに、今に引き継ぐ1300年―」"
-        },
-        "groundingChunkIndices": [
-          17,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7167,
-          "endIndex": 7213,
-          "text": "高山市史 街道編「飛騨工の登場」"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7496,
-          "endIndex": 7556,
-          "text": "実は、岐阜県内を流れる飛騨川の河原でした"
-        },
-        "groundingChunkIndices": [
-          21,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7577,
-          "endIndex": 7898,
-          "text": "昭和45年（1970年）、岐阜県加茂郡七宗（ひちそう）町の飛水峡（飛騨川河床）で採取された「上麻生礫岩（かみあそうれきがん）」を分析したところ、含まれていた珪線石片麻岩が**約20億年前**に形成されたものであることが判明しました"
-        },
-        "groundingChunkIndices": [
-          21,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7940,
-          "endIndex": 8086,
-          "text": "日本列島そのものが大陸から離れて形作られたのは約数千万年前ですが、この岩石の年齢はなんと約20億年前"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8089,
-          "endIndex": 8154,
-          "text": "地球誕生（約46億年前）の半分近く昔のものです"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8157,
-          "endIndex": 8244,
-          "text": "発見当時、日本列島で最も古い岩石として日本中を驚かせました"
-        },
-        "groundingChunkIndices": [
-          21,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8157,
-          "endIndex": 8325,
-          "text": "発見当時、日本列島で最も古い岩石として日本中を驚かせました（現地には町立「日本最古の石博物館」が建てられています"
-        },
-        "groundingChunkIndices": [
-          23,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8355,
-          "endIndex": 8435,
-          "text": "足元の岩盤全体が20億年前のものだったわけではありません"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8438,
-          "endIndex": 8737,
-          "text": "約1億数千万年前に河口などで固まった礫岩（砂利が固まった岩）のなかに、大陸から削られて流れ着いた「2〜3センチほどの小さな小石」として、20億年前の石がタイムカプセルのように奇跡的に閉じ込められていたのです"
-        },
-        "groundingChunkIndices": [
-          21,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9195,
-          "endIndex": 9261,
-          "text": "岐阜県自然環境課「日本最古の石にふれるみち」"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9268,
-          "endIndex": 9334,
-          "text": "七宗町公式ウェブサイト「日本最古の石博物館」"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9341,
-          "endIndex": 9410,
-          "text": "岐阜県観光連盟「日本最古の石博物館」公式ガイド"
-        },
-        "groundingChunkIndices": [
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9501,
-          "endIndex": 9612,
-          "text": "飛騨市神岡町の町並みを見下ろす高台に、かっこいい天守閣がそびえる「神岡城」"
-        },
-        "groundingChunkIndices": [
-          7,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 9615,
-          "endIndex": 9780,
-          "text": "実はこの天守閣、昭和45年（1970年）にある意外な理由で建てられたものなんですが、その理由とは次のうちどれでしょう？"
+          "startIndex": 8281,
+          "endIndex": 8368,
+          "text": "熱振動を力ずくで止めるため、絶対零度近くまで冷却しています"
         },
         "groundingChunkIndices": [
-          5,
-          10
+          13,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 9880,
-          "endIndex": 9988,
-          "text": "**2番：** 神岡鉱山を運営していた三井金属鉱業が、創業100周年記念として建てた"
+          "startIndex": 8410,
+          "endIndex": 8485,
+          "text": "冷却温度は**「マイナス253℃（絶対温度20ケルビン）」**"
         },
         "groundingChunkIndices": [
-          5,
-          10
+          13,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 10103,
-          "endIndex": 10191,
-          "text": "**正解：** **2番（三井金属鉱業が創業100周年記念として建てた）**"
+          "startIndex": 8757,
+          "endIndex": 8938,
+          "text": "鏡の素材に使われているのは普通のガラスや金属ではなく、宝石として知られる**「サファイア（大型人工サファイア単結晶）」**です"
         },
         "groundingChunkIndices": [
-          5,
-          10
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 10221,
-          "endIndex": 10332,
-          "text": "「神岡城はもともと戦国時代、武田信玄の家来が築いた東町城というお城の跡です"
+          "startIndex": 8941,
+          "endIndex": 9217,
+          "text": "サファイアはマイナス250度付近まで冷やすと、熱を逃がす効率（熱伝導率）が金属の銅並みに跳ね上がり、かつレーザー光を当てても形が歪みにくいという、物理学的に奇跡的な性質を持っているためです"
         },
         "groundingChunkIndices": [
-          7,
-          10
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 10335,
-          "endIndex": 10437,
-          "text": "しかし当時は天守閣などはなく、江戸時代のはじめに取り壊されていました"
+          "startIndex": 9247,
+          "endIndex": 9418,
+          "text": "先行するアメリカの重力波望遠鏡「LIGO（ライゴ）」やヨーロッパの「Virgo（バーゴ）」は地上にあり常温の鏡を使用しています"
         },
         "groundingChunkIndices": [
-          9,
-          10
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 10443,
-          "endIndex": 10638,
-          "text": "今ある立派な天守閣は、明治7年に鉱山経営を始めた三井金属鉱業（神岡鉱業所）が、創業100周年を記念して昭和45年に町へ寄贈したものなんです"
+          "startIndex": 9421,
+          "endIndex": 9648,
+          "text": "これに対し、「地下の硬い岩盤で揺れを防ぎ、鏡をサファイアにして極低温に冷やす」という手法は、神岡のKAGRAが世界で初めて実用化した世界最先端のアプローチです"
         },
         "groundingChunkIndices": [
-          5,
-          9,
-          10
+          13,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 10641,
-          "endIndex": 10764,
-          "text": "“鉱山会社がお城の天守閣を建てた”というのは全国でも神岡ならではの珍しいお話ですね"
+          "startIndex": 9680,
+          "endIndex": 9807,
+          "text": "東京大学宇宙線研究所（ICRR）重力波観測研究施設『大型低温重力波望遠鏡 KAGRAの概要・特徴』"
         },
         "groundingChunkIndices": [
-          11,
-          10
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9814,
+          "endIndex": 9944,
+          "text": "大学共同利用機関法人 自然科学研究機構 国立天文台『重力波プロジェクト推進室：KAGRAの特徴』"
+        },
+        "groundingChunkIndices": [
+          14
         ]
       }
     ],
     "webSearchQueries": [
-      "飛騨匠 庸調免除 律令制 飛騨国",
-      "神岡城 三井金属 創業100周年 昭和45年 飛騨市",
-      "飛騨市 神岡 高原川 崖 建築 懸造り 川沿い",
-      "神岡鉱山 最盛期 人口 映画館 飛騨市",
-      "日本最古の石 七宗町 ひだ宇宙科学館 カミオカラボ 以外 神岡"
+      "イワナ ヤマメ 棲み分け 水温 森林総合研究所 OR 水産研究・教育機構",
+      "神岡石 Kamiokite 国立科学博物館 地質調査所",
+      "北アルプス 飛騨山脈 隆起速度 年間 産業技術総合研究所 OR 地質調査総合センター",
+      "KAGRA サファイア 鏡 極低温 20K 熱雑音 東京大学宇宙線研究所"
     ]
   }
 }
