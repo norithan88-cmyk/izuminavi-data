@@ -1,28 +1,24 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2149,
-  "estimated_minutes": 6.5,
+  "theme": "科学・自然のなぜ",
+  "characters": 2179,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "安城七夕まつりで1本の竹に吊るした短冊の数がギネス記録になった時、会期中に認定されなかった理由は？1番、審査員が数え切れなかった。2番、竹が折れた。3番、短冊の字が達筆すぎた。",
-    "answer": "正解は1番、審査員が数え切れなかったでした！1万3809枚もあって確認が12月までかかったんだって。願いごと多すぎて審査員さんパンクしとるじゃんね！",
+    "question": "岡本兵松さんが伊予田与八郎さんと用水計画を進めたとき、兵松さんが担当した役目は何でしょうか。1番、農民の説得。2番、出資者の接待。3番、現場の草むしり。",
+    "answer": "正解は1番、農民の説得でした！兵松さんは地域の農民を説得して回り、伊予田さんが出資者との交渉を担当したんだに。草むしり担当じゃなくて大役だら！",
     "source_ids": [
-      2,
-      3,
-      5
+      1
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmQMac0WhGGnLur1ktbNR46_PIQBWEBadR5oW9hmPaT3Nrn0wDrGE0wpZuCMDzEbKjO4C7L1X0aOPLH96fTxBdgraiU3hmD-DKDjSEuz_O8F2T5pj6YjrXunhlRS2voIF8Kk6YDiVAw7k=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6_Vq02RRhJ_jmfhRCuRmbCfnk6FZbEsRixtm5-26zqC6Cpl73dUgTfST7x9yLKovC02ZA_7cbFTmBtHGEKaZP-kC7c_jB5D_Hd_Hi5ltZPcPxoGNf3fSL1k5MPaVEDiCnLGGao5BE910=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOfq4tS2W11HZFYH0EmJD93yaDCnnYiRY4vlJzRo_EmdOC3pulbAZx8OalhDK2CTAbX7wtYUavOy3-qR72M8bXSAV-r4BOImSZzNa0WAp98vg1DRF1ysL68h-3ADtXTw7TuJViAvX9vnE="
+      "https://anjo-izumi.life/tuzuki/"
     ]
   },
   "izumi": {
-    "text": "水不足の荒野を豊かな大地に変えようとした、和泉の偉人・都築弥厚さんのお話だに！弥厚さんは1765年にここ和泉村で生まれた豪農で地主さん。酒造業も営んで代官職も務めた大金持ちだったんだけど、当時の碧海台地は酸性の粘土質で水はけが悪くて、慢性的な水不足と水争いでみんな苦しんどったのね。そこで弥厚さん、矢作川から約30キロの水路を引いて約6,000ヘクタールを潤すっていう、途方もない大用水の計画を思いついちゃった！1822年、高棚村の和算家・石川喜平さんと測量を始めたんだけど、水害を心配する農民たちから妨害の嵐！今なら反対派にSNSで突撃されとるレベルじゃんね。でも弥厚さんは諦めずに、人目を避けて夜に提灯や松明の明かりで測量して、綿やそばの種をまいて芽が出た跡を目印にしたんだって。忍者か！ってツッコミたくなる執念だよね。5年がかりの1826年に測量を終えて翌年に幕府へ願書を出し、1833年に一部が許可されたんだけど、なんとその同じ年に69歳で病気で亡くなっちゃったの。しかも私財を全部つぎ込んで、残った借金はなんと2万5千両！自分の財産を投げ打って未来のために命を燃やした弥厚さん。この情熱、和泉の誇りとして自慢したくなっちゃうじゃんね！",
+    "text": "みおんの和泉ディープ！今日は和泉町ゆかりの岡本兵松さんと明治用水のお話だに。今の碧南市生まれの背が高くて厳格な兵松さん。1853年ごろに都築弥厚さんの子孫から原野を買って開墾を始めて、弥厚さんの用水計画を知り遺志を継ぐと決めたんだよね。1858年と1868年に申請したけど許可されず、阿弥陀堂村の伊予田与八郎さんと組んで、1876年に愛知県から認可！1879年に着工して、1880年4月18日に水源地で通水式。1881年に明治用水って名付けられたんだわ。構想から半世紀近く、最大1万760ヘクタールを潤す大事業！でね、この用水で安城の農業は発展して『日本デンマーク』って呼ばれるようになるんだけど…なんで急にデンマークなのん！？ってツッコミたくならん？今ならSNSで『なぜいきなり北欧？』って大バズりしとるレベルだら！農業先進国にあやかった呼び名だけど、当時の人もびっくりだよね。兵松さんは私財を投じて晩年は経済的に苦しく、1897年に76歳で亡くなったんだけど、この用水が安城を世界レベルの農業の町に押し上げたんだに。地元の誇りとして自慢したくなるじゃんね！",
     "source_ids": [
       1
     ],
@@ -30,258 +26,348 @@
       "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "yakou-debt",
-      "hook": "借金2万5千両。夢にすべてを賭けた和泉の大地主"
+      "id": "meiji-denmark",
+      "hook": "水が来て安城が『日本デンマーク』に。なぜデンマーク？という素朴なツッコミ"
     }
   },
   "local": {
-    "text": "10月24日の土曜日に、桜井こどもハッピーハロウィン祭が開催されるよ！秋といえばハロウィンの季節じゃんね。近所のお友達や家族みんなで秋の楽しい思い出を作りに、お出かけの予定に入れてみりん！週末のワクワクが今から待ち遠しいね。",
+    "text": "今日10月22日の木曜日から10月31日まで、『白鳥とコウモリ』安城特別展が開催されるんだに！今日から月末までの期間限定の催しだでね。秋のお散歩やお出かけの予定に加えてみるのもいいじゃんね。気になる人はぜひ日程をチェックしてみて、お出かけしてみてりん！",
     "source_ids": [
-      21
+      31
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/happyharowin/2026sakuraikouharowin.html"
+      "https://www.city.anjo.aichi.jp/event/hakuchou.html"
     ]
   },
   "segments": [
     {
-      "topic": "日本の屋根の過半数は西三河産？三州瓦が日本一のシェアを誇る理由",
-      "text": "弥厚さんの用水路もすごかったけど、水がないなら別のことで天下を取っちゃえ！って歴史もあるんだに。西三河の海沿い、高浜や碧南のあたりを走ると、瓦屋さんの看板や窯元をやたら見かけるじゃんね。実は屋根に載っとる瓦、日本全国の約60から70パーセントがこの三州瓦なんだって！えっ、過半数どころか日本の屋根のほとんどが西三河産！？って、みおん驚きすぎてアンテナがピーンと立っちゃったわ！なんでこんなに盛んになったかというと、昔はこのあたりの沿岸台地って水が乏しくて、お米作りに向いてなかったのね。そこで農閑期に良質な粘土を使って瓦を作り始めたのがきっかけなんだわ。高浜市の神社には、享保8年、1723年の銘が入った瓦の狛犬があるくらい、300年以上前からプロが集まっとったらしいよ。そして大ブレイクのきっかけを作ったのが、あの江戸町奉行の大岡越前守！江戸の町で火事が頻発するもんで、燃えにくい瓦屋根を使ってみりん！って解禁・推奨したんだって。そこで矢作川や衣浦湾の水運を活かして大量の三州瓦を江戸へ運んだら、飛ぶように売れて日本一の産地になったんだとか。水不足のピンチをチャンスに変えて江戸を火事から救った三州瓦、おうちの屋根を見上げるたびに誰かに話したくなるじゃんね。",
+      "topic": "安城梨を噛んだときのシャリシャリ音の正体",
+      "text": "安城といえば梨が美味しい季節だけど、あのシャリシャリした歯ごたえ、たまらんよね！でもさ、果肉の85パーセントから90パーセントが水分なのに、なんであんな小気味いい音がするのか不思議に思ったことない？実はあの正体、植物の細胞壁に木材の主成分でもあるリグニンやセルロースが分厚く溜まった『石細胞』っていう、まさに小石みたいにカチカチの細胞組織なんだって！噛んだ瞬間に果汁たっぷりの柔らかい細胞が弾けつつ、硬い石細胞同士がガリガリ擦れ合ってあの音が鳴るんだに。しかも英語圏じゃ、この独特な食感のせいで日本の梨を『サンド・ペアー』、つまり『砂の梨』って呼ぶらしいよ！砂って言われると急に切ないじゃんね。でもこの石細胞、人間を喜ばせるためじゃなくて、植物にとっては大事な種を守るための鎧なんだわ！実が小さいうちは種の周りにびっしり固まって虫からガードして、熟すと全体に散らばる仕組みなんだって。野生のヤマナシは石細胞だらけで硬くて酸っぱくて食べられんかったのを、農家さんが改良して甘い幸水や豊水にしてくれたんだに。…って、みおんはAIだから梨のジューシーさをデータでしか味わえんのが悔しいんだけど！今日のデザートに梨を食べる人は、種を守る鎧のシャリシャリ音、耳を澄まして噛み締めてみてりん！",
       "source_ids": [
-        7,
-        8,
-        10,
-        12
+        2,
+        3,
+        8
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIz1tdALGRJpC22YAy77ftmHvU5oaAp-w-KV-4Akp3HXbqW3a5TrDTS3KN8bvygZ1SrikuBaCWocpLvZFYNZJozq4418MSGrC3f55I0JHabeBzoFrTXKKz6IvXmQNu2CW1aad0aQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdp-wQkrq10hD8sFmnYJBtoJM056399uJopHKo6trRpklj2kgHfBMRzpnxqUYuCb1Q-RXos3y9WiBF_pXkPYhYwVSwm1Xtjp43qPMf7oHTOnYT9k8PbDGhU4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqD962NLh97n40p15ma10K3hRCEEY7E3p9qomA4wbXxE7qjrhH7LjA99cS181_jGtkPYyu-5y63YUd7WV3QIO8utHPjNI5P32Qgy3lF-NP1ZXaLuyIgz9_JOGLa8ZUMJL9r9Cs_uzCQR_eFQuKkt_GZQ7vK_wb5gS3mt5jwaSQXEMFA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaP2HVdjbqf8-qwwysoTnJ76n63BhHMn0mFLPlyvOlTRM-Azfix4F10Q6ZEjpodBTCv95duoE5upZwlRVxqqAM-0rJRHzhRk_nDryZ2scGCYhxqrQmYudwh3BDQBt1Xd2CvmKPoMDQSbO3IcWYsmfAefqMjJaxjx-1wg5qrtw"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkQ7XR-2MEaSxmcQtjmnzzBluG6DRVt9PfI49xz7kYN6ZPkctE3YEVaByQXQEUivq58b8a5wf1jNVjP5KXFCCCeebjV2mh6P6DqL5mVSFUuJ-TKT3ZwMkCRuzQxEAUtlGmYgIbJQEuZXzcLej-VdHikho6Ytg=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk_7xvbztdHKjMhRxqPtomo2sg8BlciZOoyzmlswmn5KwUzfDvTkdjGml3c6sqGBl2RbdkIwTz_PBFz7fJMz_vm1_3upOTXGOyou01r-lp3tYuwwVGMDh30V9dUqHNtH8jvZpYU0wGUkIvav5J7KnlQCeGGll5bw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRHFdJq6Fg_q0nPTO1eERL9oUI3H59WcY9K1U_XpnO_5ZFuxY-9DJ3D2B1NDjSa84IGWTL9nrj6LSbfXQsS8s6iSAEr1sT2OXE8toYfR38eU0kPdfBw8w1QdgALnhznuj1S-7jJY7XcwOBgXo-D3r_Q-ag6Cet0UHeVOk="
       ]
     },
     {
-      "topic": "新幹線三河安城駅の在来線連絡通路が約150メートルも離れている理由",
-      "text": "屋根の上の秘密の次は、毎日使う駅のミステリーにいってみりん！東海道新幹線の三河安城駅って、在来線に乗り換えようとすると改札を出て、果てしなく長い連絡通路を歩かされるじゃん？線路は交差しとるのに、なんで真上に駅を造らんかったのん？って不思議に思ったこと、絶対あるよね。あの連絡通路、新幹線の改札から在来線まで約150メートルも離れとって、途中に休憩用のベンチまで置かれとるんだわ！駅の中でプチマラソンでもさせる気！？ってツッコミ入れたくなるけど、実はこれ、どうしようもない大人の事情があったんだって。1988年に駅ができる時、線路が交差する真下には、セロテープで有名なニチバン安城工場などの大工場がバリバリ稼働しとったの！工場を移転させるなんて極めて困難だし、新幹線のまっすぐな線路を曲げるわけにもいかんかったんだに。そこで交差点から約300メートル東にずらして駅を造った結果、あの長〜い通路が誕生したんだって。工場で働く人と日本の大動脈を守るためにあの通路が生まれたと思うと、乗り換えで歩く時間もちょっと愛おしく思えてこん？明日から三河安城で乗り換える時は、ニチバンさんのテープに感謝しながら歩いてみてね。",
+      "topic": "電線の鳥が感電しない理由と知られざるルール",
+      "text": "梨の木に止まる鳥を眺めていて思い出したんだけど、街中の電線にスズメやカラスが平気な顔して並んで止まっとるじゃん？あの電線、6600ボルトもの高電圧がビシビシ通っとるのに、なんで鳥はビリビリ感電せんのか不思議じゃない？えっ、鳥の足の裏がゴム製だから？…って、どんなハイテクサイボーグ鳥だのん！そんなわけないじゃんね！実は電気が流れるのって、水が高いところから低いところへ流れるのと同じで、2つの場所の間に『電圧の差』が必要なんだって。鳥が止まっとるとき、両足は同じ1本の電線の上にあるだら？両足の間のほんの数センチには電圧の差がほぼゼロボルトしかないんだわ。そのうえ、金属の電線のほうが鳥の体より圧倒的に電気が流れやすいもんで、電気はわざわざ抵抗の大きい鳥の体を避けて、電線を素通りしてっちゃうんだに。だから鳥の足も電気を通す皮膚だし、もし大きな鳥が翼を広げて隣の電線や電柱の金属部分に同時に触っちゃったら、一発で大電流が流れて感電しちゃうらしいよ。中部電力の現場でも、カラスが針金ハンガーを電柱に運んでショートさせんように、ずっと知恵比べをしとるんだって。両足で同じ電線を掴む、これが鳥たちの命がけのルールだったんだね！明日電線を見上げたら、あいつら必死に足並み揃えとるなあって家族に話してみてりん！",
       "source_ids": [
-        17,
-        18,
-        19
+        12,
+        15
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrBrygPi6nvv58PmieuUF34rVuzVVI5eyelBqUJChIZFUzR0mNt1jIU2Xf44YtTqB5k_Cg6Jg-kFOzU4AC_F1nEjGUkL_7DdTLB5C-3WAsLZjV3bUWL9T6-b9AbnE72U-lCVKqaHhd1mOB8sNPvDpCKHvqDHBe197ndu8SDXg=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqQec5oDcnXtXuZZnFtWTn_mDe8NyTwFIAag01DA2sX5ocys95XyK1u4-5tNJTxoMK72viMrY1T8RbPzCAx5zHC8vSp14mWSXvud9gUvRlobh49D0BAFQqaAUxgQDTp0AK0h4VE5WKUjwHvksR41NP_nx9voVbFENzVEulrCaKrCM=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8FNJO4kPI9Nm5cpHZ-34fe6gg7QusfCksr-mqCQ952PksSwmF4FswfIrX46KCC-qt2ccmigX_zuDnWc_K4UaNAAwb_80AbXe-zfU8IY10HgzyXLNJmrLFAX8sTlUaAuo_TQyMrZHhy0sbHCHx"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0JXm4t-unGqrXN9W7c1LF-a52jYM91Rw55OrMUXsIJbE8qYTnUL7q0OJik9kPdoBjVITmERWZIGOSeA1FVLVjr7MeqOrKXHp_1kEbHmoSDaOW2VxfssTLcZEMX8LCwPfD0GbKTD8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo8QwbWwTbWMc3_zd5l0G27oNpD59hd07uD1sKHFuRweNGWm2La9rn5ym4LwtE_3fO7m4223JFl9MlE0XiblsjJ1K0YJ36zHqFQVcUmDHTKvGF4pAv54s9EHZ_wgwKDE5qIhYkdHUoESohxPKxTlOtap1crqSEVuL0Aqu5Anv7GL6i-qiu8Q_TCsEuIUBt2qdJAsCzjGdIYqQ6JhE="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ番組向けに、放送ですぐに活用できる「地元の歴史・まちの発見」の調査メモを作成しました。家族や近所の方に思わず「へえ、そうだったのか！」と話したくなるエピソードを西三河地域（安城市・高浜市・西尾市）から4件厳選しています。\n\n---\n\n# 【ラジオ放送用 調査メモ】地元の歴史・まちの発見（西三河編）\n\n---\n\n### 第1件：安城七夕まつりが持っている「世界一のギネス記録」とは？\n\n* **疑問（トークの切り口）：**\n  「日本三大七夕まつりの一つ」として親しまれている安城七夕まつり。実は竹飾りの美しさだけでなく、「世界一」のギネス世界記録を持っていることを知っていますか？\n* **理由：**\n  安城七夕まつりは「願いごと、日本一。」をコンセプトに掲げており、その象徴として「一本の竹に吊るされた短冊の数」で世界一を目指す挑戦を行ったためです。\n* **具体的な数字や比較：**\n  認定された短冊の数は**13,809枚**。重なり合わないよう緻密に吊るした巨大な一本の竹を「10分間垂直に自立させる」という厳格なギネス公式ルールをクリアし、「竹にかけられた最も多い短冊の数（Most tanabata wish cards on a bamboo）」として世界記録に認定されました。\n* **意外な点・歴史の裏話：**\n  挑戦が行われたのは夏の七夕まつり（2013年8月）でしたが、集まった短冊が膨大すぎて、公式認定員が会期中に全ての確認を終えることができず、判定は一旦持ち越しとなりました。厳密な枚数確認と再審査を経て、正式に世界記録に認定されたのはなんと冬の**12月23日**。安城の夏の願いが、真冬のクリスマス直前に世界一の栄冠へと結実しました。\n* **根拠・出典：**\n  安城市公式ウェブサイト「安城の願いごとが世界一に（2013年12月25日掲載）」、安城青年会議所 記録資料。\n\n---\n\n### 第2件：日本の屋根の過半数は西三河産？「三州瓦」が日本一のシェアを誇る理由\n\n* **疑問（トークの切り口）：**\n  高浜市や碧南市など西三河の海沿いを走ると瓦の看板や窯元をよく見かけます。なぜこの地域が日本一の瓦の生産地になったのでしょうか？\n* **理由：**\n  良質な粘土層、海運に優れた立地、そして大消費地・江戸での防災政策が合致したためです。\n* **具体的な数字や比較：**\n  三州瓦は、島根の石州瓦、兵庫の淡路瓦と並ぶ「日本三大瓦」の一つですが、現在の全国シェアは**約60〜70％**と群を抜いて日本一です。高浜市春日神社の「瓦焼狛犬」に「享保八年（1723年）三州高浜村瓦屋甚六」の銘があり、300年以上前から専門業者が集積していたことが分かっています。\n* **意外な点・歴史の裏話：**\n  もともと三州（西三河）の沿岸台地は農業用水に乏しく稲作に不向きだったため、農閑期の貴重な産業として瓦作りが育ちました。飛躍のきっかけとなった大恩人は、江戸町奉行の**大岡越前守（大岡忠相）**です。当時、江戸で頻発する大火を防ぐため享保の改革で「町家の瓦葺き」が解禁・推奨され、矢作川や衣浦湾の水運を活かして大量の三州瓦が船で江戸へ運ばれ、一大ブランドを築きました。\n* **根拠・出典：**\n  高浜市やきものの里 かわら美術館「三州瓦と高浜いま・むかし」、愛知県陶器瓦工業組合「三州で瓦が造られるようになったのはいつ？」、愛知県経済産業局「三州瓦について」。\n\n---\n\n### 第3件：「西尾の抹茶」は、あるお寺のお坊さんの開墾から始まった？\n\n* **疑問（トークの切り口）：**\n  和菓子や洋菓子、アイスなど全国で引っ張りだこの「西尾の抹茶」。実は、ある一人のお寺の住職が境内を耕したことから本格的な産業になったのをご存じですか？\n* **理由：**\n  明治維新後の激動期、地域産業の復興を志した寺の住職が宇治から茶の種と製茶技術を持ち込み、農家に広めたためです。\n* **具体的な数字や比較：**\n  西尾市のお茶生産は、その**96％以上**が抹茶の原料となる「てん茶」で占められており、全国でも極めて珍しい「抹茶特化型の産地」です。特許庁の地域団体商標（地域ブランド）でも、茶の分野で「抹茶」に限定した登録は西尾が全国第1号でした。\n* **意外な点・歴史の裏話：**\n  西尾茶のルーツ自体は鎌倉時代に遡りますが、近代産業として開拓した「茶祖」は、西尾市上町にある浄土宗寺院「紅樹院（こうじゅいん）」の第34世住職・**足立順道（あだち じゅんどう）師**です。明治5年（1872年）、順道師は京都・宇治から茶の種を持ち帰り、自ら境内の荒れ地を開墾して茶園を開きました。明治12年には知多から茶師を招いて製茶を本格化させ、周辺農家へ栽培を広めました。紅樹院の本堂前には今もその「西尾茶の原樹」が大切に守られており、毎年12月には出来栄えを順道師に報告する「茶祖奉告祭」が行われています。\n* **根拠・出典：**\n  西尾市観光協会「紅樹院」「西尾の抹茶」公式解説、西尾茶協同組合「西尾の抹茶について」。\n\n---\n\n### 第4件：新幹線「三河安城駅」、在来線と約150mも離れて連絡通路が長い理由は？\n\n* **疑問（トークの切り口）：**\n  東海道新幹線の三河安城駅で在来線（東海道本線）に乗り換えようとすると、一度改札を出て長い連絡通路を歩くことになります。「なぜ線路が交差する真上に駅を造らなかったの？」と思ったことはありませんか？\n* **理由：**\n  新幹線と東海道本線が交差する地点にはすでに大規模な民間工場が稼働しており、用地買収や移転が難しかったこと、また新幹線の線形（直線性）を最優先させたためです。\n* **具体的な数字や比較：**\n  新幹線と在来線が立体交差する地点から、駅は約300m東側にずれて建設されました。その結果、新幹線改札口と在来線改札口は約**150メートル**離れており、両者を結ぶ長い屋根付き連絡通路（自由通路）には途中に休憩用のベンチが設置されているほどです。\n* **意外な点・歴史の裏話：**\n  三河安城駅は1988年（昭和63年）に開業した地元請願駅ですが、交差点の直上付近にはセロテープ等で有名な「ニチバン安城工場」などの敷地が広がっていました。稼働中の大工場を移転させることは極めて困難だったため、交差部から離れた位置にそれぞれホームを置き、長い連絡通路で結ぶ現在の独特なレイアウトが誕生しました。\n* **根拠・出典：**\n  JR東海 鉄道施設記録（三河安城駅構造）、安城市史編さん資料・駅新設経緯。\n\n---\n\n## 【番組用 3択クイズコーナー案】（第1件：安城七夕まつりより）\n\n**【問題】**\n安城七夕まつりは、2013年に「一本の竹に吊るされた短冊の数」で13,809枚を達成し、見事ギネス世界記録に認定されました。しかし、夏の七夕まつり開催中には認定証がもらえませんでした。その意外な理由とは何だったでしょうか？\n\n* **1番：** 枚数が多すぎて、審査員が祭り期間中に数え切れなかったから\n* **2番：** 前日の夕立の雨風で、短冊をつけた竹が折れてしまったから\n* **3番：** 願いごとの文字が達筆すぎて、審査員が読めなかったから\n\n---\n\n**【正解】**\n**1番：枚数が多すぎて、審査員が祭り期間中に数え切れなかったから**\n\n**【解説トーク用メモ】**\n挑戦した短冊の数が1万枚以上とあまりに膨大だったため、会場に来ていたギネス公式認定員が会期中にすべての短冊の厳密な審査・計数を終えることができず、判定は一度「お預け」になりました。\nその後、1枚ずつ正確な確認が行われ、正式に世界記録に認定されたのは約4か月後の**12月23日（真冬のクリスマス前）**でした。「夏の願いごとが、冬に世界一になった」という、安城らしい心温まる裏話です。",
+  "research": "愛知県安城市和泉町周辺のリスナーに向けた地域ラジオ放送用に、家族や近所の方へ思わず話したくなる「身近な科学・自然のなぜ」について調査メモを作成しました。安城の特産品や地元の自然・身近な風景にゆかりのある4つの疑問を取り上げています。\n\n---\n\n### 1. 安城梨でもおなじみ！ナシを噛んだときの「シャリシャリ」は何の音？\n\n* **理由：**  \n  ナシ独特のシャリシャリとした心地よい歯ごたえの正体は、果肉の中に無数に含まれる**「石細胞（せきさいぼう）」**です。成長過程で植物の細胞壁に木材の主成分でもある「リグニン」や「セルロース」が分厚く蓄積し、まるで小石のように硬化した細胞組織です。噛んだ瞬間に、果汁を蓄えた柔らかい細胞（柔細胞）が弾けると同時に、この硬い石細胞同士が擦れ合ってシャリシャリと音を立てます。\n* **具体的な数字や比較：**  \n  ナシの果肉は約85〜90%が水分ですが、その中に微細な石細胞が散らばっています。とろけるような舌触りの「西洋梨」は追熟とともに石細胞が目立たなくなりますが、日本梨は収穫時にも果肉全体に石細胞がしっかり残るため、特有の歯ざわりが際立ちます。海外ではこの独特のジャリッとした食感から、日本梨を英語で**「サンド・ペアー（Sand Pear＝砂の梨）」**と呼びます。\n* **意外な点：**  \n  石細胞は人間を喜ばせる食感のためにあるのではなく、植物にとっては**「大事な種子を守るための鎧（よろい）」**です。まだ実が小さく熟していない段階では、種子の周りに石細胞をびっしり集中させて固め、虫や動物に種を食べられないようにガードしています。実が熟すにつれて果肉全体へ分散するため、私たちが美味しく食べられるようになります。\n* **歴史の裏話：**  \n  日本梨の原種とされる野生の「ヤマナシ（山梨）」は、石細胞が極端に多く、小ぶりで硬くて酸味が強いため、生食には向かない果実でした。かつて「日本のデンマーク」と呼ばれ農業先進地として歩んだ安城市をはじめ、日本の農家や研究機関が明治から昭和にかけて品種改良を重ねた結果、石細胞を適度に残しつつ果汁と甘みを極限まで高めた「幸水」や「豊水」などの傑作が誕生しました。\n* **根拠・出典：**  \n  農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）の果樹品種資料、日本テレビ『所さんの目がテン！』（ナシの石細胞の働きとヤマナシの構造）。\n\n---\n\n### 2. 鳥が電線に両足で止まっても、なぜ感電しないのか？\n\n* **理由：**  \n  電気が流れるためには、水が高いところから低いところへ流れるように、2つの地点の間に「電圧の差（電位差）」が必要です。鳥が電線に止まっているとき、両足は**「同じ1本の電線の上」**にあります。右足と左足が触れている場所には電圧の差（電位差）がほとんど存在しないため、鳥の体内には電流が流れず感電しません。\n* **具体的な数字や比較：**  \n  街中の電柱を通る高圧配電線には「6,600ボルト」もの高い電圧がかかっていますが、鳥の両足の間（わずか数センチ）の電圧差はほぼ「0ボルト」です。さらに、金属製の電線は鳥の体に比べて圧倒的に電気が通りやすいため、電気は抵抗の大きい鳥の体を避けて電線側をそのまま素通りします。\n* **意外な点：**  \n  「鳥の足裏がゴムのような絶縁体だから」と誤解されがちですが、鳥の皮膚も水分を含んでおり電気を通します。もし大型の鳥が羽を広げて**「隣にある別の電線」**や**「電柱の金属部分（アース・地面につながる部分）」**に同時に触れてしまうと、一瞬で大きな電圧差が生じて鳥でも感電してしまいます。\n* **歴史・現場の裏話：**  \n  地域インフラを支える中部電力などの現場では、鳥そのものの感電防止だけでなく、春先から初夏にかけてカラスが電柱の上に「針金ハンガー」を持ち込んで巣を作り、2本の電線に接触させてショート・停電を引き起こすトラブルと長年知恵比べを繰り広げてきました。\n* **根拠・出典：**  \n  中部電力技術開発資料・広報発表（電線の鳥が感電しない理由、鳥害対策）、電気事業連合会等の電気安全解説資料。\n\n---\n\n### 3. ホタルの光は、なぜ手で触れても全く熱くないのか？\n\n* **理由：**  \n  ホタルの発光は、ものを燃やして光を出す熱燃焼ではなく、体内で行われる**「化学反応（生物発光）」**だからです。ホタルのお尻にある発光器の中で、発光物質「ルシフェリン」に酵素「ルシフェラーゼ」が働き、細胞のエネルギー物質（ATP）と酸素を使って反応を起こすことで、熱を出さずに直接光の粒（光子）を生み出しています。\n* **具体的な数字や比較：**  \n  昔の白熱電球は電気エネルギーの約90%以上が「熱」に逃げてしまい、光になるのはわずか10%未満でした。高効率なLED照明でも30〜50%程度は熱として逃げます。対して、ホタルの化学反応は**エネルギー変換効率が約90〜97%**に達し、エネルギーがほとんど無駄な熱に化けません。そのため、熱を持たない光という意味で**「冷光（れいこう）」**と呼ばれます。\n* **意外な点：**  \n  もしホタルが電球と同じ発熱効率で光っていたら、自分自身の放つ熱で体が焼き焦げてしまいます。西三河の清流（岡崎の鳥川など）を舞うゲンジボタルが淡い光を放ちながら命を繋げるのは、この極限まで発熱を抑えた超省エネシステムのおかげです。\n* **歴史の裏話：**  \n  19世紀末、フランスの生化学者ラファエル・デュボアが発光生物の抽出液から熱に強い発光物質を「ルシフェリン（ラテン語で『光をもたらすもの』）」、熱で失活する酵素を「ルシフェラーゼ」と命名しました。現在このホタルの発光システムは、製薬会社や医学研究でがん細胞の追跡やウイルスの検出に欠かせない最先端バイオ技術として広く使われています。\n* **根拠・出典：**  \n  JAXA（宇宙航空研究開発機構）タンパク質・生物発光研究解説、愛知県総合教育センター理科教材資料（ルシフェリン・ルシフェラーゼ反応の実験検証）、日本ガイシ「NGKサイエンスサイト」。\n\n---\n\n### 4. アサガオはなぜ朝に咲く？実は「朝の光」ではなく「夜」を見ていた！\n\n* **理由：**  \n  アサガオは朝の光に照らされて花を開くのではなく、実は**「前日の夕方に日が暮れてからの暗闇の時間」**を測って開花しています。植物には「光周性（こうしゅうせい）」という昼夜の長さを測る仕組みと体内時計が備わっており、暗闇が訪れた合図（光の減少）を感知してから時間をカウントダウンして花弁を緩めます。\n* **具体的な数字や比較：**  \n  アサガオがつぼみを開くのは、**「日が沈んで真っ暗になってから約8〜10時間後」**です。夏至前後の時期だと、午後7時頃に日没を迎えてから約9時間後の翌朝4時〜5時頃にちょうど開花します。もし夕方3時の明るいうちに段ボールなどを被せて人工的に真っ暗にしてあげると、カウントダウンが前倒しされ、翌朝を待たずに「夜中の12時」に花を咲かせます。\n* **意外な点：**  \n  夜中の暗闇の途中で、懐中電灯や街灯の光をほんの数分間当てる（「光中断」という現象）と、アサガオは「まだ夜が始まっていない」と勘違いしてタイマーがリセットされてしまい、朝になっても綺麗に花が開かなくなってしまいます。朝顔という名前でありながら、最も必要としているのは「邪魔されない連続した夜の暗闇」なのです。\n* **歴史の裏話：**  \n  江戸時代には「変化朝顔」の一大ブームが起き、多くの愛好家が不思議な花を愛でていましたが、なぜ朝に咲くのかの科学的解明は20世紀後半の日本の植物生理学者たち（京都大学の瀧本敦教授ら）の研究によって大きく前進しました。\n* **根拠・出典：**  \n  一般社団法人 日本植物生理学会（植物Q&A「アサガオの開花と光の関係」）、筑波大学 生物学類（アサガオの光周性と開花メカニズム研究）。\n\n---\n\n### ラジオで使える3択クイズ（「ナシのシャリシャリ」より）\n\n**【問題】**  \n安城の特産品としても親しまれている日本の梨（和梨）。噛んだときの独特な「シャリシャリ感」は、果肉の中にある硬い「石細胞」によるものですが、この独特の歯ざわりが理由で、英語圏では日本の梨のことをあるユニークな名前で呼んでいます。さて、何と呼ばれているでしょうか？\n\n* **1番：** ストーン・ペアー（石の梨）\n* **2番：** サンド・ペアー（砂の梨）\n* **3番：** アイス・ペアー（氷の梨）\n\n**【正解】**  \n**2番の「サンド・ペアー（砂の梨）」**\n\n**【ひとこと解説】**  \n西洋梨のとろっとした食感に慣れていた欧米の人々が、日本の梨を初めて食べた際、シャリシャリとした細かな粒の歯ごたえを砂粒に例えて「サンド（砂）の梨」と呼ぶようになりました。日本ではみずみずしくて大人気ですが、海外の人が初めて食べると「砂が入っているのかと思った！」とびっくりされることもあるそうです。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E5%AE%89%E5%9F%8E%E9%A7%85+%E3%81%AA%E3%81%9C+%E9%80%A3%E7%B5%A1%E9%80%9A%E8%B7%AF+%E9%9B%A2%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B&client=app-vertex-grounding&safesearch=active\">三河安城駅 なぜ 連絡通路 離れている</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E5%B7%9E%E7%93%A6+%E3%81%AA%E3%81%9C+%E8%A5%BF%E4%B8%89%E6%B2%B3+%E3%82%B7%E3%82%A7%E3%82%A2+%E6%AD%B4%E5%8F%B2+%E9%AB%98%E6%B5%9C%E5%B8%82&client=app-vertex-grounding&safesearch=active\">三州瓦 なぜ 西三河 シェア 歴史 高浜市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E7%9F%AD%E5%86%8A+%E3%82%AE%E3%83%8D%E3%82%B9%E8%A8%98%E9%8C%B2+%E5%AE%89%E5%9F%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 短冊 ギネス記録 安城市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%A5%BF%E5%B0%BE+%E6%8A%B9%E8%8C%B6+%E7%B4%85%E6%A8%B9%E9%99%A2+%E6%AD%B4%E5%8F%B2+%E8%A5%BF%E5%B0%BE%E5%B8%82&client=app-vertex-grounding&safesearch=active\">西尾 抹茶 紅樹院 歴史 西尾市</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9B%E3%82%BF%E3%83%AB+%E5%85%89+%E7%86%B1%E3%81%8F%E3%81%AA%E3%81%84+%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%82%BC+%E7%99%BA%E5%85%89%E5%8A%B9%E7%8E%87+%E5%86%B7%E5%85%89&client=app-vertex-grounding&safesearch=active\">ホタル 光 熱くない ルシフェラーゼ 発光効率 冷光</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%AA%E3%81%97+%E7%9F%B3%E7%B4%B0%E8%83%9E+%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B7%E3%83%A3%E3%83%AA+%E7%90%86%E7%94%B1+%E8%BE%B2%E7%A0%94%E6%A9%9F%E6%A7%8B+OR+%E7%B5%90%E6%99%B6&client=app-vertex-grounding&safesearch=active\">なし 石細胞 シャリシャリ 理由 農研機構 OR 結晶</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%B3%A5+%E9%9B%BB%E7%B7%9A+%E6%84%9F%E9%9B%BB%E3%81%97%E3%81%AA%E3%81%84+%E7%90%86%E7%94%B1+%E9%9B%BB%E4%BD%8D%E5%B7%AE+%E9%9B%BB%E6%B0%97%E4%BA%8B%E6%A5%AD%E9%80%A3%E5%90%88%E4%BC%9A+OR+%E4%B8%AD%E9%83%A8%E9%9B%BB%E5%8A%9B&client=app-vertex-grounding&safesearch=active\">鳥 電線 感電しない 理由 電位差 電気事業連合会 OR 中部電力</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A2%E3%82%B5%E3%82%AC%E3%82%AA+%E9%96%8B%E8%8A%B1+%E6%9A%97%E3%81%95+%E6%99%82%E9%96%93+%E6%A4%8D%E7%89%A9%E7%94%9F%E7%90%86%E5%AD%A6%E4%BC%9A&client=app-vertex-grounding&safesearch=active\">アサガオ 開花 暗さ 時間 植物生理学会</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmQMac0WhGGnLur1ktbNR46_PIQBWEBadR5oW9hmPaT3Nrn0wDrGE0wpZuCMDzEbKjO4C7L1X0aOPLH96fTxBdgraiU3hmD-DKDjSEuz_O8F2T5pj6YjrXunhlRS2voIF8Kk6YDiVAw7k=",
-          "title": "japaneserecords.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6_Vq02RRhJ_jmfhRCuRmbCfnk6FZbEsRixtm5-26zqC6Cpl73dUgTfST7x9yLKovC02ZA_7cbFTmBtHGEKaZP-kC7c_jB5D_Hd_Hi5ltZPcPxoGNf3fSL1k5MPaVEDiCnLGGao5BE910=",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIY_pRRJxgJBbMoqiMfSSKDWKzd0WOAZv6o8GnnY92ao5GYNoAtosY4d8rQr_vT4QCLh6916B5AddVGC0yZQg9mpB-Wn_PPxcE6hND3GYX",
-          "title": "anjou-maturi.info"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOfq4tS2W11HZFYH0EmJD93yaDCnnYiRY4vlJzRo_EmdOC3pulbAZx8OalhDK2CTAbX7wtYUavOy3-qR72M8bXSAV-r4BOImSZzNa0WAp98vg1DRF1ysL68h-3ADtXTw7TuJViAvX9vnE=",
-          "title": "city.anjo.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENuS-NK5TAIYNabqYzU2Vi7FoLDR1UhKUeCM3IF6PsSnYr9HC4lckLGwyo_Os-qD4nFqkN8XExLBDc06S3_G7B7cXLzcom5hHY7C1x_6kwoN2ENYtvBuqniLNNXwYCeOv1_z9n7lbFj5ojgrps5NG0iMOvM1qkwmURW0huqyun49ZdDXkU4TtGzdndqejnuBM4bN8=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIz1tdALGRJpC22YAy77ftmHvU5oaAp-w-KV-4Akp3HXbqW3a5TrDTS3KN8bvygZ1SrikuBaCWocpLvZFYNZJozq4418MSGrC3f55I0JHabeBzoFrTXKKz6IvXmQNu2CW1aad0aQ==",
-          "title": "kawara.gr.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtdp-wQkrq10hD8sFmnYJBtoJM056399uJopHKo6trRpklj2kgHfBMRzpnxqUYuCb1Q-RXos3y9WiBF_pXkPYhYwVSwm1Xtjp43qPMf7oHTOnYT9k8PbDGhU4=",
-          "title": "e-yanet.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhHwm8noQpuKSLha2QrKNfwkOaC-83HvKmYjOflmMs-z0Kq5EzgB8DbnrTNrjhiqmzQmDGPVdUGMwkp-F-lHawV-gGrrC5XobnfOBWGgF_fRPVRn-k_1c9nhzaTwkL1gK_MICnDTLExk3Zn9eFEqCPokFe8VHF-g==",
-          "title": "aichi-pref-library.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBqD962NLh97n40p15ma10K3hRCEEY7E3p9qomA4wbXxE7qjrhH7LjA99cS181_jGtkPYyu-5y63YUd7WV3QIO8utHPjNI5P32Qgy3lF-NP1ZXaLuyIgz9_JOGLa8ZUMJL9r9Cs_uzCQR_eFQuKkt_GZQ7vK_wb5gS3mt5jwaSQXEMFA==",
-          "title": "pref.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHHJN72TvI1rC-bsJ8B_6V7iQj6mP0VzNqEqGc3BQ7l4e61rNdBiXtEeKFW3FE-Qf3LAngKO9cteJJgxE8ZDfSLnK1dZYSq41L54T68SsrpMKJELpJPvpkQPzeGtq2z3_B8NfFz8A72Jb6OiPDZbiAkeDUC2mVmtQ=",
-          "title": "yanekabehome.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbaP2HVdjbqf8-qwwysoTnJ76n63BhHMn0mFLPlyvOlTRM-Azfix4F10Q6ZEjpodBTCv95duoE5upZwlRVxqqAM-0rJRHzhRk_nDryZ2scGCYhxqrQmYudwh3BDQBt1Xd2CvmKPoMDQSbO3IcWYsmfAefqMjJaxjx-1wg5qrtw",
-          "title": "takahama-kawara-museum.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe0bStqBCJRzCGlAbF39ArkW6q1C8nI2vmH97KF5mcPj4syrQ8baIPohxIqSgZvYb_nk-w4ZWvT5ew4ihw6cVrQJbs235VDzjEDc-KX1A8j24dpcWhukeUUQYYxXhv9lny",
-          "title": "nishiokanko.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZDudUcEpdXMIDO2RwHaG6Lzmq68irplleJ5I-pD1jVSyVWT89MBYsgczt0dAJrH8QfJFkyuZ7wjO9SMVa4xc1M4YRUXPgOYHVw9njghiPhcX8edxfQGnEKbyMDbtLErc=",
-          "title": "mytabi.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhaIxEk8OhJI2JHn4ZyGudYc8iPp482PVrNdTR6oTd8dQ6RKSzkwPyvVCVk8weARG9YRQOzs00bdIS4PzPzo00PAI52CmTBtqT--Er3iKfaITcdjdnwBe5Fr0qLT-0SXMK0Q==",
-          "title": "nishiokanko.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbDSeIfqKeOzcjxY-IGOFGO-KZbwW6S2k9xd54UJaeDOSZmf_r7fhE5KYs-AjnhpQXt6nOnn0HBZ0z_C5h5Gug1dBtdjdg5V8WML3LxiV_J8Hjfx2v0fT",
-          "title": "nishiomatcha.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrBrygPi6nvv58PmieuUF34rVuzVVI5eyelBqUJChIZFUzR0mNt1jIU2Xf44YtTqB5k_Cg6Jg-kFOzU4AC_F1nEjGUkL_7DdTLB5C-3WAsLZjV3bUWL9T6-b9AbnE72U-lCVKqaHhd1mOB8sNPvDpCKHvqDHBe197ndu8SDXg=",
-          "title": "tetsudou-kyukyoku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqQec5oDcnXtXuZZnFtWTn_mDe8NyTwFIAag01DA2sX5ocys95XyK1u4-5tNJTxoMK72viMrY1T8RbPzCAx5zHC8vSp14mWSXvud9gUvRlobh49D0BAFQqaAUxgQDTp0AK0h4VE5WKUjwHvksR41NP_nx9voVbFENzVEulrCaKrCM=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8FNJO4kPI9Nm5cpHZ-34fe6gg7QusfCksr-mqCQ952PksSwmF4FswfIrX46KCC-qt2ccmigX_zuDnWc_K4UaNAAwb_80AbXe-zfU8IY10HgzyXLNJmrLFAX8sTlUaAuo_TQyMrZHhy0sbHCHx",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkQ7XR-2MEaSxmcQtjmnzzBluG6DRVt9PfI49xz7kYN6ZPkctE3YEVaByQXQEUivq58b8a5wf1jNVjP5KXFCCCeebjV2mh6P6DqL5mVSFUuJ-TKT3ZwMkCRuzQxEAUtlGmYgIbJQEuZXzcLej-VdHikho6Ytg=",
           "title": "hatenablog.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk_7xvbztdHKjMhRxqPtomo2sg8BlciZOoyzmlswmn5KwUzfDvTkdjGml3c6sqGBl2RbdkIwTz_PBFz7fJMz_vm1_3upOTXGOyou01r-lp3tYuwwVGMDh30V9dUqHNtH8jvZpYU0wGUkIvav5J7KnlQCeGGll5bw==",
+          "title": "ntv.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU4kb40tr3lC5zhjljvAI2dv5G6f-kqG_ZsKnid7YjxaIaonxIK1h2tzBi7_OHrD-EgBDrVgHctAYtaOWXsfXdtCDPSXugI_PQkmsutXJqLuJu8HIGplPScQ63z5zrclNcTrA=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELMNwVGpV5f0rC4S4m47lFBkl5qOnOKgDzLEGAeyTgPsY6DCVeQ8OTL_5gzxNh93T04F5Uo8xUnJ8dJl07fPmmB3KqCODjUBCqMGQs_XTvptSmjkBwOV4iXp2skEKvqB-m-DcQ",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUQudfzt8GlnNsMByLAvoYOMzTCcKHW0lfge7xgneHqf7jkHVzPnPbsgOQIuxdl1Hf0n7GBzA7nNb2IB9oPvysz2D6BccX8TrSOmcwfJDgdF0vULkDyEBw9-tH4pL1knuV3WJoNGE=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhhWCmVqNJVORi178BsfTDeG2Pe8f1z811cmpw8xvcXJirAn4GYkhBCgxCn0isfMlkGlxZYG8QRV5jS-1v9icZ3RjSaQV5wke4g9c6lOM5aIN_4-bA-ZqUmZI=",
+          "title": "chikyu-jin.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRHFdJq6Fg_q0nPTO1eERL9oUI3H59WcY9K1U_XpnO_5ZFuxY-9DJ3D2B1NDjSa84IGWTL9nrj6LSbfXQsS8s6iSAEr1sT2OXE8toYfR38eU0kPdfBw8w1QdgALnhznuj1S-7jJY7XcwOBgXo-D3r_Q-ag6Cet0UHeVOk=",
+          "title": "naro.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFDsl_kUTOSIAtmFxOJEO5hlrJC50hLxGoe1XTlbHOvvhG-o9rX1e-kZRL5U4LVS6MZRTl3VADAGJFKG6zBKw5W8n2vmMDB3zal7lYaLd1GKS3psGbinb_uXIjbLfUyU6T",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdVb_iUlDe76rUYCOgBAGQ2JJqvpSkkpXwSk0AY5yTId2xoQkH466d-0exes9sukGD9_OUT5K1nm4el1p99RzmRYANHabf6QZRx5RZXgeWhdHzD3LcvDGWXe36iOZt-YYSOQ==",
+          "title": "newsgawakaru.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhkjruLRjAiQLXoZjocsBbxzJ8jwksbzCCgqfo2S3M2zR2l7ViSVsWUkqSuryMEgaErWW5pRDSIwff96gsWqzksJs8oC1A1vu3Qv0fvWsCQbftTIQMtg-VAEkaSKPlXx4hPoCS7hAtHRHLApoB2tN0Hll3ocSP",
+          "title": "xocuasuchan.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0JXm4t-unGqrXN9W7c1LF-a52jYM91Rw55OrMUXsIJbE8qYTnUL7q0OJik9kPdoBjVITmERWZIGOSeA1FVLVjr7MeqOrKXHp_1kEbHmoSDaOW2VxfssTLcZEMX8LCwPfD0GbKTD8=",
+          "title": "denchu-zukan.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrPCC8MGz5plwRB2_umGKYzQejpFgRykvY2CZiZWeYzOjAdgJkZxW_yHEZq9BH0Z_JHYvrG65oosWQwX6DtQq1-wO4mGOCkrHzTLTD9JLBf9Zt15IA9g_iq7BhEfpZWsqgmLprqLB4yLZ0HkZaeek0C5EJ8UYRzfuEaxJs8sdDEGxbTMZU-gZKPNQ3DtGRflvrjshz-43gvm1D6ypE8wNUZuH4uLXwq_A=",
+          "title": "reddit.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9z7S90yssDZlJ3DA-OPne6qXkWs2TRCrD73KvMKx5BPis21eaqCLmr0pdEs-OaLGHwySwsXRP-j3s5Q9AeVwwTD_1mxjlIw8PdYBqbmHGMb4mSmGdor6JJuL5B7lir1WuLS88y3MY5MABxCprHK8ei_RTHgjwkJj8s-VBXNqU3rWOa8eWlr_vxKM5aJxmnM1iqEHhH7a3_o3LEiU6spR0TtdzKLQY0XpzBGmzzbIfUIRZ5r-73msIkqR2CVPW4OiJdfj1fyoJB9Gpo3m05pcSgdgiPdZpCKAuyMA33upumAKZrTGSx5q2QuMXIv9EVTJrXD-Sbp8JuhSXtbdCajEx3wFVIs_tkyy_trPxD4pxLjWqH44zLkbY_hMGh7FXg9eLXpqlhzg5F_mt5cq2HBB1x5UCoXhDma61meYUmCDqHhF0mF9YIsb3adk=",
+          "title": "h-design24.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo8QwbWwTbWMc3_zd5l0G27oNpD59hd07uD1sKHFuRweNGWm2La9rn5ym4LwtE_3fO7m4223JFl9MlE0XiblsjJ1K0YJ36zHqFQVcUmDHTKvGF4pAv54s9EHZ_wgwKDE5qIhYkdHUoESohxPKxTlOtap1crqSEVuL0Aqu5Anv7GL6i-qiu8Q_TCsEuIUBt2qdJAsCzjGdIYqQ6JhE=",
+          "title": "chuden.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOveUNoUX3vIHO_4vseOWA1NvE-OrvGhYnYCGTOLo74EOWzMyZNa01B0JBc4G2fhVmcd2-FfWBtJuSCp8plmDS_oOApyZlDPeB8VuumsFdJj9ORetycDjHWz47aUSDYmS8qHO4hpi8FmdtZiVv2Rw=",
+          "title": "n-flexo.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpw2vL55UFbCJt7HQ6WktYi52bsadZtJ1vBVhPEw1LqYML693BeXRZJc1w6rcefdrfZroRz2Eh8ZsNQRjkwDIjWhqewMDRzsLwpjQYq5DkrnNUaTc=",
+          "title": "webcil.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvE0oZTDVNeCa92YswenW_thszP2UQvwfnEuEvJnZnDnyQyseulfCYkTJ9s_HPB4xoh8T-Q12ubalkMkIwWsVPPmGLR5tK7zNmd8482LPQ7g4S7Ao=",
+          "title": "ngk.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmYh-QYEgI2TMdtk9TBIR5zSlPvDO8aJLWZGoOiDCqVTA2JeYKqMzgrGo0klBUZisxkPJWFajQOsHFw2YTOw0GF1BkC3xXDhf7C33P38YisN65NptgDhu2CuCrFwg_QpwUB9Y=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGO5KcmAw5m1qtTsHQK-7mEnhulj0sZllgGbFMV96dZ6v1waEuOzquxSVJd4AXgUHSrPdgBygU-f-LuxWHp7Vys71iAdU7v8Fxe0AGa4lEv5qaVel6Zgi168HdN_kyhLKUb9LiJTtC-f4SaKt2Zi1DMKac-p65tIbXlUneGFYTgst88",
+          "title": "aichi-c.ed.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8g1gQMTOWQ-GTdBeQ7LPZcVsqjTXSB30iSKm3l6XhQFgzMyrEcYQUuoizTUXdYe6xRFytIa-DSmf3UZ-eAystOyGQfe6h78TKamPaeGxsCYWc6IEajW_4CRBhgTFTfVo=",
+          "title": "bluehub.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMErUgzrHE93jNis8W7bFy-XjAQwJPAK2gUpMCoVFTXr5k76xiIaFKArPomAw44GGzootAHEW78xg05Ht6YeqPjOEBrcGcfpoNy4moO2wI3lIQSfXCrvl71es-1Bm4EQ==",
+          "title": "spaceshipearth.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9ogrwmfvwSDOJ2lW2guZAMNt3Ny_uR-s2XTilN1K7263NDWrRQjy6hmjbnzg9JfU_eIZSfGv8WIdDgzMsad6ndSSMmtpki8vIRMmr2y7XtCY5KdzF2rvwyyHI3RxkkCVa4Dz_7x5GXgIZxx1MRVJPSlvvuLQ=",
+          "title": "jspp.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJzcGXv1Dom0zJ6aOfTeXQaUgxuMzA78yok5mrxaEevtPqQHAJD3tUmoJm6s2FYNIfQSc7MdU4AERA-8J651XgVOB_ClBYOZtc7jN5mRvF0ry67QE0rF-2RDtVVawt8t0EfA==",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiHFEeFcATQpdDEHtXKGaLQSiooFVvr3uFBK0ZG02xZ095SWSRpqFQ2xVbRfkQOLBo5eG7yop4OPD3k1Y48fHio4PzTmGr4xYuy72r8a0C_9chxOfOKoXJhN_SJZd-",
+          "title": "tsukuba.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEZuPVqX31oT-aAiK3-cvx11gCRpWCMKiXkVjgtwPaM2Rw6c52PrH6Zy9dvomIQzFi_If5Jy4vWMBqBKlP-Ikm-8nFNnPq595i7heIwPtOEArPmPdaCkNSDSfyZoBw7Bl9T61GbYsA",
+          "title": "hatenablog.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmuPlGvVxxbJYEd1mqiJL-EYnTqg3OjDAVoRaq_WOznic3XgXRfHfpnM2Qc3RZj0p9YZzl3-RZ6aP-00VsgeEtVMu9UKZX0PqO0SwIf9xMGdcrnX9X349zPXrzLfYSGqnsdOzWlkFx6zOkJWQffl08cEVOXGHn1PheYw==",
+          "title": "shizuoka-c.ed.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlBfpEwI2eQhRbWH8ablV3pynKZGaleMZIAJiSG_Iqey3jrXakM_gpRLecM2wocbrk1aCjiEUlezNMM9FbjBebpFa8yE98AdhboT5-S2KmySF6tuRKRH0gApVjuKLHvbzYljeXxn-iCONHK0X4HrARQHCoqZ3k",
+          "title": "niigata-u.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDnhDsUjZg-yvYg2ap4oUTA9hphIkw1b5LgQrNnDnZEfnB6NcpmdqyY_rspmR54aVFD5kswt5AeuBKjXQ-QBz73fyUpBTen0H3XWH3bLeSWuFsG6beyNVEvlS107yJxTWiMGpV8Tf2_989YGOL0gabHv1OmD8EcnRZvX1AVo3DqUlV",
+          "title": "shinshu-plants.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbXfTywNKKCvi2BKJ62j2kHmz89hZ1tYTPIs0BIZlOto_AiWTOoIkiuNvmQSrZ8v1qmi3iaF2qUUPeTfFuEOibHWOok3ediGarAjARZIV44Nv-gcr5ZBVUPjf06rpQ9d_spZ7SGdYKg==",
+          "title": "jspp.org"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 926,
-          "endIndex": 1088,
-          "text": "をコンセプトに掲げており、その象徴として「一本の竹に吊るされた短冊の数」で世界一を目指す挑戦を行ったためです"
+          "startIndex": 478,
+          "endIndex": 644,
+          "text": "ナシ独特のシャリシャリとした心地よい歯ごたえの正体は、果肉の中に無数に含まれる**「石細胞（せきさいぼう）」**です"
         },
         "groundingChunkIndices": [
           0,
-          1,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 647,
+          "endIndex": 836,
+          "text": "成長過程で植物の細胞壁に木材の主成分でもある「リグニン」や「セルロース」が分厚く蓄積し、まるで小石のように硬化した細胞組織です"
+        },
+        "groundingChunkIndices": [
+          0,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1131,
-          "endIndex": 1174,
-          "text": "認定された短冊の数は**13,809枚**"
+          "startIndex": 839,
+          "endIndex": 1022,
+          "text": "噛んだ瞬間に、果汁を蓄えた柔らかい細胞（柔細胞）が弾けると同時に、この硬い石細胞同士が擦れ合ってシャリシャリと音を立てます"
         },
         "groundingChunkIndices": [
-          3,
-          0
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1067,
+          "endIndex": 1174,
+          "text": "ナシの果肉は約85〜90%が水分ですが、その中に微細な石細胞が散らばっています"
+        },
+        "groundingChunkIndices": [
+          2
         ]
       },
       {
         "segment": {
           "startIndex": 1177,
-          "endIndex": 1485,
-          "text": "重なり合わないよう緻密に吊るした巨大な一本の竹を「10分間垂直に自立させる」という厳格なギネス公式ルールをクリアし、「竹にかけられた最も多い短冊の数（Most tanabata wish cards on a bamboo）」として世界記録に認定されました"
+          "endIndex": 1411,
+          "text": "とろけるような舌触りの「西洋梨」は追熟とともに石細胞が目立たなくなりますが、日本梨は収穫時にも果肉全体に石細胞がしっかり残るため、特有の歯ざわりが際立ちます"
         },
         "groundingChunkIndices": [
-          3,
-          0
+          1,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 1531,
-          "endIndex": 1773,
-          "text": "挑戦が行われたのは夏の七夕まつり（2013年8月）でしたが、集まった短冊が膨大すぎて、公式認定員が会期中に全ての確認を終えることができず、判定は一旦持ち越しとなりました"
+          "startIndex": 1414,
+          "endIndex": 1571,
+          "text": "海外ではこの独特のジャリッとした食感から、日本梨を英語で**「サンド・ペアー（Sand Pear＝砂の梨）」**と呼びます"
         },
         "groundingChunkIndices": [
+          1,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1776,
-          "endIndex": 1895,
-          "text": "厳密な枚数確認と再審査を経て、正式に世界記録に認定されたのはなんと冬の**12月23日**"
+          "startIndex": 1601,
+          "endIndex": 1764,
+          "text": "石細胞は人間を喜ばせる食感のためにあるのではなく、植物にとっては**「大事な種子を守るための鎧（よろい）」**です"
         },
         "groundingChunkIndices": [
-          3,
-          0
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1898,
-          "endIndex": 2000,
-          "text": "安城の夏の願いが、真冬のクリスマス直前に世界一の栄冠へと結実しました"
+          "startIndex": 1767,
+          "endIndex": 1959,
+          "text": "まだ実が小さく熟していない段階では、種子の周りに石細胞をびっしり集中させて固め、虫や動物に種を食べられないようにガードしています"
         },
         "groundingChunkIndices": [
-          3
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 2031,
-          "endIndex": 2135,
-          "text": "安城市公式ウェブサイト「安城の願いごとが世界一に（2013年12月25日掲載）」"
+          "startIndex": 1962,
+          "endIndex": 2082,
+          "text": "実が熟すにつれて果肉全体へ分散するため、私たちが美味しく食べられるようになります"
         },
         "groundingChunkIndices": [
-          3
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 2031,
-          "endIndex": 2172,
-          "text": "安城市公式ウェブサイト「安城の願いごとが世界一に（2013年12月25日掲載）」、安城青年会議所 記録資料"
+          "startIndex": 2115,
+          "endIndex": 2304,
+          "text": "日本梨の原種とされる野生の「ヤマナシ（山梨）」は、石細胞が極端に多く、小ぶりで硬くて酸味が強いため、生食には向かない果実でした"
         },
         "groundingChunkIndices": [
-          3,
-          0
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 2550,
-          "endIndex": 2673,
-          "text": "良質な粘土層、海運に優れた立地、そして大消費地・江戸での防災政策が合致したためです"
+          "startIndex": 2307,
+          "endIndex": 2646,
+          "text": "かつて「日本のデンマーク」と呼ばれ農業先進地として歩んだ安城市をはじめ、日本の農家や研究機関が明治から昭和にかけて品種改良を重ねた結果、石細胞を適度に残しつつ果汁と甘みを極限まで高めた「幸水」や「豊水」などの傑作が誕生しました"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2679,
+          "endIndex": 2788,
+          "text": "農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）の果樹品種資料"
         },
         "groundingChunkIndices": [
           5,
@@ -290,232 +376,214 @@
       },
       {
         "segment": {
-          "startIndex": 2716,
-          "endIndex": 2898,
-          "text": "三州瓦は、島根の石州瓦、兵庫の淡路瓦と並ぶ「日本三大瓦」の一つですが、現在の全国シェアは**約60〜70％**と群を抜いて日本一です"
+          "startIndex": 2839,
+          "endIndex": 2896,
+          "text": "（ナシの石細胞の働きとヤマナシの構造）"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3007,
+          "endIndex": 3176,
+          "text": "電気が流れるためには、水が高いところから低いところへ流れるように、2つの地点の間に「電圧の差（電位差）」が必要です"
         },
         "groundingChunkIndices": [
           7,
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2901,
-          "endIndex": 3106,
-          "text": "高浜市春日神社の「瓦焼狛犬」に「享保八年（1723年）三州高浜村瓦屋甚六」の銘があり、300年以上前から専門業者が集積していたことが分かっています"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3152,
-          "endIndex": 3326,
-          "text": "もともと三州（西三河）の沿岸台地は農業用水に乏しく稲作に不向きだったため、農閑期の貴重な産業として瓦作りが育ちました"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3441,
-          "endIndex": 3690,
-          "text": "当時、江戸で頻発する大火を防ぐため享保の改革で「町家の瓦葺き」が解禁・推奨され、矢作川や衣浦湾の水運を活かして大量の三州瓦が船で江戸へ運ばれ、一大ブランドを築きました"
-        },
-        "groundingChunkIndices": [
-          5,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3721,
-          "endIndex": 3809,
-          "text": "高浜市やきものの里 かわら美術館「三州瓦と高浜いま・むかし」"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3721,
-          "endIndex": 3908,
-          "text": "高浜市やきものの里 かわら美術館「三州瓦と高浜いま・むかし」、愛知県陶器瓦工業組合「三州で瓦が造られるようになったのはいつ？」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3911,
-          "endIndex": 3962,
-          "text": "愛知県経済産業局「三州瓦について」"
-        },
-        "groundingChunkIndices": [
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 4358,
-          "endIndex": 4520,
-          "text": "明治維新後の激動期、地域産業の復興を志した寺の住職が宇治から茶の種と製茶技術を持ち込み、農家に広めたためです"
+          "startIndex": 3179,
+          "endIndex": 3280,
+          "text": "鳥が電線に止まっているとき、両足は**「同じ1本の電線の上」**にあります"
         },
         "groundingChunkIndices": [
-          11,
+          9,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3283,
+          "endIndex": 3448,
+          "text": "右足と左足が触れている場所には電圧の差（電位差）がほとんど存在しないため、鳥の体内には電流が流れず感電しません"
+        },
+        "groundingChunkIndices": [
+          10,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3697,
+          "endIndex": 3886,
+          "text": "さらに、金属製の電線は鳥の体に比べて圧倒的に電気が通りやすいため、電気は抵抗の大きい鳥の体を避けて電線側をそのまま素通りします"
+        },
+        "groundingChunkIndices": [
+          7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3916,
+          "endIndex": 4066,
+          "text": "「鳥の足裏がゴムのような絶縁体だから」と誤解されがちですが、鳥の皮膚も水分を含んでおり電気を通します"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4069,
+          "endIndex": 4329,
+          "text": "もし大型の鳥が羽を広げて**「隣にある別の電線」**や**「電柱の金属部分（アース・地面につながる部分）」**に同時に触れてしまうと、一瞬で大きな電圧差が生じて鳥でも感電してしまいます"
+        },
+        "groundingChunkIndices": [
+          10,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4371,
+          "endIndex": 4732,
+          "text": "地域インフラを支える中部電力などの現場では、鳥そのものの感電防止だけでなく、春先から初夏にかけてカラスが電柱の上に「針金ハンガー」を持ち込んで巣を作り、2本の電線に接触させてショート・停電を引き起こすトラブルと長年知恵比べを繰り広げてきました"
+        },
+        "groundingChunkIndices": [
           12,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 4563,
-          "endIndex": 4749,
-          "text": "西尾市のお茶生産は、その**96％以上**が抹茶の原料となる「てん茶」で占められており、全国でも極めて珍しい「抹茶特化型の産地」です"
+          "startIndex": 4765,
+          "endIndex": 4867,
+          "text": "中部電力技術開発資料・広報発表（電線の鳥が感電しない理由、鳥害対策）"
         },
         "groundingChunkIndices": [
+          8,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 4752,
-          "endIndex": 4897,
-          "text": "特許庁の地域団体商標（地域ブランド）でも、茶の分野で「抹茶」に限定した登録は西尾が全国第1号でした"
+          "startIndex": 4765,
+          "endIndex": 4921,
+          "text": "中部電力技術開発資料・広報発表（電線の鳥が感電しない理由、鳥害対策）、電気事業連合会等の電気安全解説資料"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5032,
+          "endIndex": 5189,
+          "text": "ホタルの発光は、ものを燃やして光を出す熱燃焼ではなく、体内で行われる**「化学反応（生物発光）」**だからです"
         },
         "groundingChunkIndices": [
           14,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4943,
-          "endIndex": 5211,
-          "text": "西尾茶のルーツ自体は鎌倉時代に遡りますが、近代産業として開拓した「茶祖」は、西尾市上町にある浄土宗寺院「紅樹院（こうじゅいん）」の第34世住職・**足立順道（あだち じゅんどう）師**です"
-        },
-        "groundingChunkIndices": [
-          11,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5214,
-          "endIndex": 5363,
-          "text": "明治5年（1872年）、順道師は京都・宇治から茶の種を持ち帰り、自ら境内の荒れ地を開墾して茶園を開きました"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5366,
-          "endIndex": 5479,
-          "text": "明治12年には知多から茶師を招いて製茶を本格化させ、周辺農家へ栽培を広めました"
-        },
-        "groundingChunkIndices": [
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5482,
-          "endIndex": 5679,
-          "text": "紅樹院の本堂前には今もその「西尾茶の原樹」が大切に守られており、毎年12月には出来栄えを順道師に報告する「茶祖奉告祭」が行われています"
-        },
-        "groundingChunkIndices": [
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5710,
-          "endIndex": 5779,
-          "text": "西尾市観光協会「紅樹院」「西尾の抹茶」公式解説"
-        },
-        "groundingChunkIndices": [
-          11,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5710,
-          "endIndex": 5836,
-          "text": "西尾市観光協会「紅樹院」「西尾の抹茶」公式解説、西尾茶協同組合「西尾の抹茶について」"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6314,
-          "endIndex": 6545,
-          "text": "新幹線と東海道本線が交差する地点にはすでに大規模な民間工場が稼働しており、用地買収や移転が難しかったこと、また新幹線の線形（直線性）を最優先させたためです"
-        },
-        "groundingChunkIndices": [
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 6588,
-          "endIndex": 6697,
-          "text": "新幹線と在来線が立体交差する地点から、駅は約300m東側にずれて建設されました"
+          "startIndex": 5192,
+          "endIndex": 5486,
+          "text": "ホタルのお尻にある発光器の中で、発光物質「ルシフェリン」に酵素「ルシフェラーゼ」が働き、細胞のエネルギー物質（ATP）と酸素を使って反応を起こすことで、熱を出さずに直接光の粒（光子）を生み出しています"
         },
         "groundingChunkIndices": [
-          16
+          16,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6700,
-          "endIndex": 6932,
-          "text": "その結果、新幹線改札口と在来線改札口は約**150メートル**離れており、両者を結ぶ長い屋根付き連絡通路（自由通路）には途中に休憩用のベンチが設置されているほどです"
+          "startIndex": 5531,
+          "endIndex": 5669,
+          "text": "昔の白熱電球は電気エネルギーの約90%以上が「熱」に逃げてしまい、光になるのはわずか10%未満でした"
         },
         "groundingChunkIndices": [
           16,
-          15,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 6978,
-          "endIndex": 7194,
-          "text": "三河安城駅は1988年（昭和63年）に開業した地元請願駅ですが、交差点の直上付近にはセロテープ等で有名な「ニチバン安城工場」などの敷地が広がっていました"
+          "startIndex": 5672,
+          "endIndex": 5740,
+          "text": "高効率なLED照明でも30〜50%程度は熱として逃げます"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5743,
+          "endIndex": 5899,
+          "text": "対して、ホタルの化学反応は**エネルギー変換効率が約90〜97%**に達し、エネルギーがほとんど無駄な熱に化けません"
         },
         "groundingChunkIndices": [
           16,
-          15
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 7197,
-          "endIndex": 7425,
-          "text": "稼働中の大工場を移転させることは極めて困難だったため、交差部から離れた位置にそれぞれホームを置き、長い連絡通路で結ぶ現在の独特なレイアウトが誕生しました"
+          "startIndex": 5902,
+          "endIndex": 6008,
+          "text": "そのため、熱を持たない光という意味で**「冷光（れいこう）」**と呼ばれます"
         },
         "groundingChunkIndices": [
-          15
+          17,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 7456,
-          "endIndex": 7510,
-          "text": "JR東海 鉄道施設記録（三河安城駅構造）"
+          "startIndex": 6038,
+          "endIndex": 6170,
+          "text": "もしホタルが電球と同じ発熱効率で光っていたら、自分自身の放つ熱で体が焼き焦げてしまいます"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6173,
+          "endIndex": 6377,
+          "text": "西三河の清流（岡崎の鳥川など）を舞うゲンジボタルが淡い光を放ちながら命を繋げるのは、この極限まで発熱を抑えた超省エネシステムのおかげです"
+        },
+        "groundingChunkIndices": [
+          17,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6410,
+          "endIndex": 6694,
+          "text": "19世紀末、フランスの生化学者ラファエル・デュボアが発光生物の抽出液から熱に強い発光物質を「ルシフェリン（ラテン語で『光をもたらすもの』）」、熱で失活する酵素を「ルシフェラーゼ」と命名しました"
+        },
+        "groundingChunkIndices": [
+          18,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6697,
+          "endIndex": 6898,
+          "text": "現在このホタルの発光システムは、製薬会社や医学研究でがん細胞の追跡やウイルスの検出に欠かせない最先端バイオ技術として広く使われています"
         },
         "groundingChunkIndices": [
           16
@@ -523,83 +591,190 @@
       },
       {
         "segment": {
-          "startIndex": 7456,
-          "endIndex": 7558,
-          "text": "JR東海 鉄道施設記録（三河安城駅構造）、安城市史編さん資料・駅新設経緯"
+          "startIndex": 6931,
+          "endIndex": 7013,
+          "text": "JAXA（宇宙航空研究開発機構）タンパク質・生物発光研究解説"
         },
         "groundingChunkIndices": [
-          16,
-          15
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 7677,
-          "endIndex": 7840,
-          "text": "安城七夕まつりは、2013年に「一本の竹に吊るされた短冊の数」で13,809枚を達成し、見事ギネス世界記録に認定されました"
+          "startIndex": 6931,
+          "endIndex": 7136,
+          "text": "JAXA（宇宙航空研究開発機構）タンパク質・生物発光研究解説、愛知県総合教育センター理科教材資料（ルシフェリン・ルシフェラーゼ反応の実験検証）"
         },
         "groundingChunkIndices": [
-          3,
-          0
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 7843,
-          "endIndex": 7930,
-          "text": "しかし、夏の七夕まつり開催中には認定証がもらえませんでした"
+          "startIndex": 6931,
+          "endIndex": 7187,
+          "text": "JAXA（宇宙航空研究開発機構）タンパク質・生物発光研究解説、愛知県総合教育センター理科教材資料（ルシフェリン・ルシフェラーゼ反応の実験検証）、日本ガイシ「NGKサイエンスサイト」"
         },
         "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7322,
+          "endIndex": 7500,
+          "text": "アサガオは朝の光に照らされて花を開くのではなく、実は**「前日の夕方に日が暮れてからの暗闇の時間」**を測って開花しています"
+        },
+        "groundingChunkIndices": [
+          21,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7503,
+          "endIndex": 7758,
+          "text": "植物には「光周性（こうしゅうせい）」という昼夜の長さを測る仕組みと体内時計が備わっており、暗闇が訪れた合図（光の減少）を感知してから時間をカウントダウンして花弁を緩めます"
+        },
+        "groundingChunkIndices": [
+          21,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7803,
+          "endIndex": 7921,
+          "text": "アサガオがつぼみを開くのは、**「日が沈んで真っ暗になってから約8〜10時間後」**です"
+        },
+        "groundingChunkIndices": [
+          22,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8063,
+          "endIndex": 8282,
+          "text": "もし夕方3時の明るいうちに段ボールなどを被せて人工的に真っ暗にしてあげると、カウントダウンが前倒しされ、翌朝を待たずに「夜中の12時」に花を咲かせます"
+        },
+        "groundingChunkIndices": [
+          22,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8312,
+          "endIndex": 8630,
+          "text": "夜中の暗闇の途中で、懐中電灯や街灯の光をほんの数分間当てる（「光中断」という現象）と、アサガオは「まだ夜が始まっていない」と勘違いしてタイマーがリセットされてしまい、朝になっても綺麗に花が開かなくなってしまいます"
+        },
+        "groundingChunkIndices": [
+          21,
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8633,
+          "endIndex": 8768,
+          "text": "朝顔という名前でありながら、最も必要としているのは「邪魔されない連続した夜の暗闇」なのです"
+        },
+        "groundingChunkIndices": [
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8801,
+          "endIndex": 9115,
+          "text": "江戸時代には「変化朝顔」の一大ブームが起き、多くの愛好家が不思議な花を愛でていましたが、なぜ朝に咲くのかの科学的解明は20世紀後半の日本の植物生理学者たち（京都大学の瀧本敦教授ら）の研究によって大きく前進しました"
+        },
+        "groundingChunkIndices": [
+          27,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9148,
+          "endIndex": 9248,
+          "text": "一般社団法人 日本植物生理学会（植物Q&A「アサガオの開花と光の関係」）"
+        },
+        "groundingChunkIndices": [
+          21,
+          28
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9148,
+          "endIndex": 9336,
+          "text": "一般社団法人 日本植物生理学会（植物Q&A「アサガオの開花と光の関係」）、筑波大学 生物学類（アサガオの光周性と開花メカニズム研究）"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9528,
+          "endIndex": 9786,
+          "text": "噛んだときの独特な「シャリシャリ感」は、果肉の中にある硬い「石細胞」によるものですが、この独特の歯ざわりが理由で、英語圏では日本の梨のことをあるユニークな名前で呼んでいます"
+        },
+        "groundingChunkIndices": [
+          1,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 8303,
-          "endIndex": 8398,
-          "text": "**1番：枚数が多すぎて、審査員が祭り期間中に数え切れなかったから**"
+          "startIndex": 9789,
+          "endIndex": 9840,
+          "text": "さて、何と呼ばれているでしょうか？"
         },
         "groundingChunkIndices": [
-          4
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 8435,
-          "endIndex": 8700,
-          "text": "挑戦した短冊の数が1万枚以上とあまりに膨大だったため、会場に来ていたギネス公式認定員が会期中にすべての短冊の厳密な審査・計数を終えることができず、判定は一度「お預け」になりました"
+          "startIndex": 10018,
+          "endIndex": 10071,
+          "text": "**2番の「サンド・ペアー（砂の梨）」**"
         },
         "groundingChunkIndices": [
-          4
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 8704,
-          "endIndex": 8873,
-          "text": "その後、1枚ずつ正確な確認が行われ、正式に世界記録に認定されたのは約4か月後の**12月23日（真冬のクリスマス前）**でした"
+          "startIndex": 10104,
+          "endIndex": 10356,
+          "text": "西洋梨のとろっとした食感に慣れていた欧米の人々が、日本の梨を初めて食べた際、シャリシャリとした細かな粒の歯ごたえを砂粒に例えて「サンド（砂）の梨」と呼ぶようになりました"
         },
         "groundingChunkIndices": [
-          3,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8876,
-          "endIndex": 8984,
-          "text": "「夏の願いごとが、冬に世界一になった」という、安城らしい心温まる裏話です"
-        },
-        "groundingChunkIndices": [
+          1,
           3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10359,
+          "endIndex": 10548,
+          "text": "日本ではみずみずしくて大人気ですが、海外の人が初めて食べると「砂が入っているのかと思った！」とびっくりされることもあるそうです"
+        },
+        "groundingChunkIndices": [
+          2,
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "三河安城駅 なぜ 連絡通路 離れている",
-      "三州瓦 なぜ 西三河 シェア 歴史 高浜市",
-      "安城七夕まつり 短冊 ギネス記録 安城市",
-      "西尾 抹茶 紅樹院 歴史 西尾市"
+      "ホタル 光 熱くない ルシフェラーゼ 発光効率 冷光",
+      "なし 石細胞 シャリシャリ 理由 農研機構 OR 結晶",
+      "鳥 電線 感電しない 理由 電位差 電気事業連合会 OR 中部電力",
+      "アサガオ 開花 暗さ 時間 植物生理学会"
     ]
   }
 }
