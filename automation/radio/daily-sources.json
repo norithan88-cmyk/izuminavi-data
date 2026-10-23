@@ -1,402 +1,383 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2202,
-  "estimated_minutes": 6.7,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 1962,
+  "estimated_minutes": 5.9,
+  "saturday_story": "story-02",
   "listener_notes": [],
   "quiz": {
-    "question": "名鉄電車の名物ミュージックホーン。1961年の運行初日まで搭載が完全秘密だった理由はどれでしょうか。1番、JRに真似されるのを恐れた。2番、故障が多く鳴るか不安だった。3番、作曲者が恥ずかしがった。",
-    "answer": "正解は2番、故障が多く鳴るか不安だったからでした！当時は最新の電子回路でデリケートすぎて、本番ぶっつけだったんだって！鳴らんかったらどうする気だったん、名鉄さん！",
+    "question": "給食でおなじみのミルメークは愛知県生まれですが、名古屋市の小学校では半世紀以上も出ませんでした。なぜでしょうか。1番、牛乳は白いまま飲む方針と遠慮。2番、子どもが牛乳好きすぎた。3番、ビンの口が狭すぎた。",
+    "answer": "正解は1番！「白いまま飲む」教育方針と、創業者が市役所の知人に利権を疑われんよう配慮したからでした。良いものなら自然と声がかかるはずって待っとった、職人気質と遠慮のすれ違いに心が和むじゃんね！",
     "source_ids": [
-      14,
-      16,
-      19
+      2,
+      3
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxradUSHiQxzpFrLK4T7j9Ron_YaAhZJk-fFo894I1Tfu1_BRGaQPWKW4XxTfBJZJxL-DFvc_ujWSr-CQ8Y6kXRIJ3PxzkBh1c5SNo5GscvMlMntWMNqae9MJ4QCpxwBDghqdKe_Quf0mTCuhl5rFXwICmQ==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhcL7MTqqhlN_AsFDXqpfO99KJfg2O_-FgqiIGRffU1pPBB_82KSik42YAq0bor07ucTC6oqbnWPgdTScKfD3ZqV6h-G5pm0Pn1dDErv4EeNOG10KJcyFGVCOchyewWq3BSUgiZQ==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoxhUH0eUxxag6mahFc1thQXOqpAWKVka7oLtYXnmLoTBlzEjMD2TLwCEFMmkY_zPn-4GCbjFJi_RAFfq2kt7Miqv2HCpF12pKpwI_ZOW8OGj0hVWdh3m0LRJxAnk78bBx1rr9wv1Qx2ZUBHHpJKfXlaQ43C0V"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1B_grRpzbYNftRCidKszXqVxVwQ-D0mfzucyjGW0bjJz0yWm2n171aY0VCAW4qzkIvPAvDCanK68P1EjHeffci64gEanyWWDoLgr1wJBXvnffbV5NGcxaN_S-",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYHG22GVhlAPWdTxESjsVeSgHbrZ3HwVMjavmr5FPhUcCEWZxi5aFppEPJpYkfSN-5dfQo7W71iG6F3DwYxY9lOdBGQyPCymeEE5LBtqlnJeNGfIYM6h5RvrXt6aV2cFh_MoP"
     ]
   },
   "izumi": {
-    "text": "みおんの和泉ディープ！今朝は和泉の手延べそうめんが生まれた、たくましすぎるお話です。約250年の歴史がある和泉そうめんだけど、誕生のきっかけはなんと天明の大飢饉だったんだって！当時、米が育ちにくかった和泉町で、昔の人たちは「米がだめなら小麦でいこうじゃん！」って発想をスパッと切り替えて、そうめん作りを広めたらしいの。普通なら絶望して途方に暮れる大ピンチなのに、現代で言えば会社が傾いた瞬間にまったく別のビジネスを立ち上げて大ヒットさせちゃうようなもんだら！たくましすぎて笑っちゃうよね。しかも和泉そうめんって、2本の竹の棒を使って手作業で3メートル60センチほどまで伸ばす「手延べ長そうめん」で、コシの強さと喉ごしの良さが特徴なんだわ。多くの産地が冬に仕込むのに対して和泉は夏に仕込んで、強い日差しで乾かした後に三河湾の湿った南東の風で半生の状態に戻す「半生もどし」っていう独自の技まで生み出しとるんだに。米が育たん逆境を跳ね返して、こんなツルツルの絶品を作っちゃった和泉のご先祖様、マジでかっこよくない？この粘り強い歴史、みんなも誇らしく自慢しりんね！",
+    "text": "和泉町ゆかりの文人、石川丈山のお話です。丈山は大坂夏の陣で一番乗りをして敵将を討ち取ったものの、軍令違反で武士を辞めたあと、京都で朱子学を学んで学問に打ち込みます。才能あふれる丈山ですから、あちこちの大名家から「うちで働いて！」とスカウトの嵐だったそうなんです。今なら転職サイトで引っ張りだこ状態じゃんね！でも丈山は「自分の志に反する」と、仕官の誘いを全部バッサリ断り続けました。武士のプライド、めちゃくちゃ頑固だよね。ところが、そんなテコでも動かん丈山が、あっさり就職を決めた瞬間があったんです。それが、年老いたお母さんのため！お母さんに親孝行をするためならと、浅野家に仕えて遠い広島でなんと13年間も過ごしたんだって。えっ、ちょっと待って！自分のこだわりはどこ行ったの！？ってツッコミたくなるけど、それだけお母さんが大切だったんだね。「自分の志」よりも「母への親孝行」を優先するなんて、優しすぎて胸がじんとしちゃうだら。お母さんが亡くなったあとは京都へ戻って、59歳で詩仙堂を建てる人生に向かうんだけど、この広島での13年間があるからこそ、丈山の人間味がぐっと伝わってくるよね。頑固だけど家族思い、和泉が誇る最高にかっこいい大先輩です！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "somen-origin",
-      "hook": "天明の大飢饉から生まれた。米がだめなら小麦でいこう、の発想"
+      "id": "jozan-mother",
+      "hook": "仕官の誘いは断り続けたのに、お母さんのためなら広島で13年。親孝行エピソード"
     }
   },
   "local": {
-    "text": "安城市では今日10月23日から31日まで「”白鳥とコウモリ”安城特別展」が開催されるよ。さらに明日24日には「桜井こどもハッピーハロウィン祭」、25日には「作野公民館芸能まつり」もあるんだに！秋の週末、家族のお出かけリストにぜひ入れてみてね！",
+    "text": "今日10月24日から10月31日まで「”白鳥とコウモリ”安城特別展」が開催されるよ。そして今日24日は「桜井こどもハッピーハロウィン祭」もあって、明日25日には「作野公民館芸能まつり」や「川と海のクリーン大作戦」も予定されとるんだって。気になる行事へ出かけて、楽しい週末を過ごしりんね！",
     "source_ids": [
-      21,
-      22,
-      23
+      24,
+      25,
+      26,
+      27
     ],
     "source_urls": [
       "https://www.city.anjo.aichi.jp/event/hakuchou.html",
       "https://www.city.anjo.aichi.jp/event/happyharowin/2026sakuraikouharowin.html",
-      "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html"
+      "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html",
+      "https://www.city.anjo.aichi.jp/event/26kawatouminoclean.html"
     ]
   },
   "segments": [
     {
-      "topic": "刈谷ハイウェイオアシスがテーマパーク級に人を集める驚きの理由",
-      "text": "週末のお出かけといえば、お隣の刈谷ハイウェイオアシス！ドライブのついでに寄る人も多いと思うけど、あそこをただのパーキングエリアだと思っとったら大間違いだに！なんと年間の来場者数は700万人以上！あのディズニーリゾートとUSJに次いで、レジャー施設として全国第3位にランクインしたことがあるんだって！えっ、ちょっと待って、高速の休憩所が世界のテーマパークと肩並べとるの！？なんでそんなに人が集まるかというと、高速道路の上下線と刈谷市の岩ケ池公園を合体させて、一般道からもタダで入れるようにしたからなんだわ。園内のメリーゴーランドは1回50円から100円程度っていう信じられん安さだし、地下1200メートルから湧く天然温泉まであって年間約50万人が利用しとるらしいよ。そして何より外せんのが、総工費およそ4億円をかけた名物のデラックストイレ！ホテルのロビーみたいな絨毯張りの待合ホールやソファーがあって、VIP個室には空中浮遊リモコンまで完備されとるの！開業直後は、あまりの豪華さに待合ホールでお弁当を広げて食べようとしたお客さんがいて、スタッフが慌てて止めたっていう伝説まであるんだって。トイレでピクニックはさすがにアカンでしょ！今度の週末、もし行くならトイレの絨毯を踏みしめてセレブ気分を味わってみりんね！",
+      "topic": "緑色なのにどうして黒板と呼ぶのか？教室の風景に隠された優しさ",
+      "text": "懐かしい学校の思い出つながりで、教室のアレについて！授業中、誰もが毎日見つめとった「黒板」だけどさ、みんな一度は疑問に思ったことない？「これ、どう見ても深緑色じゃん！緑板って言ってみりんよ！」って。…って、みおんは手がないからチョーク持てんのだけどね！実はこれ、明治5年にアメリカから伝わったときの英語「ブラックボード」をそのまま日本語に直訳した名残なんだって。しかも、当時の日本の黒板は、木の板に墨汁や漆を塗っとって、文字通り本当に真っ黒だったらしいの！うそでしょ、昔は名前通りの黒だったんだ！じゃあなんで今の緑色になったかというと、戦後の昭和29年ごろ、子どもたちの目を守るために大進化を遂げたからなんだわ。人間の網膜って、緑色の光に一番敏感に反応する仕組みになっとるんだって。だから緑色にすると、ピントを合わせる目の筋肉の緊張が少なくて済むらしいの。さらに教室の電灯で板が白くテカるのを防いで、白いチョークの粉の文字がくっきり見やすくなるという、超ハイテクな優しさが詰まっとるわけ！板の色は目に優しい緑へとガラリと変わったのに、みんなに親しまれた「黒板」っていう名前だけは、そのまま大事に残り続けたんだねえ。緑なのに黒板って呼び続けるの、なんだか愛着が湧いて心が和むじゃんね。今日はおうちの人に「黒板が緑色なのは、目に優しくするためだったんだに！」って教えてあげりん！",
       "source_ids": [
-        10,
-        11
+        20,
+        22
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpOhH9fPLS7j1TIha8C8o8nGJ3TbXPKdNGaLPIzCQ9ecwHxzyQBZvHTWBpbbgwmyFD5qY2SoLMwIJs1ljeZBO4VWc-IE2doitGeLOGMS0SvKjd3JheWHqbiekvqUWqpmb-DHdXvXw=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM0CSHQrGXLgiRBSyDqIKS65Tp82aO5iO4IVWj5ZH1MjB6-M_CUvfFp7xY9DROJ5lk1TRz8btYblWq3HjJyrmC6KiVPQqFWZW9zdp2_Wr4dx_xyqibd77jCe4nrANqk5WrOM72zXLLKA=="
-      ]
-    },
-    {
-      "topic": "香嵐渓の4000本の紅葉はお坊さんの祈りから始まった奇跡の絶景",
-      "text": "お出かけといえば、これからの季節は紅葉狩りも最高じゃんね！愛知の紅葉スポットといえば豊田市の香嵐渓だけど、あの山一面に広がる約4000本のモミジ、自然に生えたものじゃないって知っとった？実は江戸時代、香積寺の三栄和尚というお坊さんが、お経を1巻唱えるごとに1本ずつ、手作業で植えたのが始まりなんだって！うそでしょ、お経1回につき木を1本！？気が遠くなるような願掛けだよね！しかも、もともとの飯盛山はモミやシラカシが生える緑一色の常緑樹の山で、秋になっても全然赤くならん山だったらしいの。そこに「訪れる人を楽しませたい」って、和尚さんが巴川の参道にせっせとモミジやスギを植え始めたんだわ。およそ400年経った今でも、和尚さんが植えたスギの巨木が参道に2本残っとるんだに！その後、大正から昭和にかけて「和尚さんの志を継ごうじゃん！」って地元の青年団や婦人会のボランティアが山全体に植えまくって、今の約4000本、11種類という大パノラマになったんだって。町じゅうのパワーが結集しとるよね！ちなみに「香嵐渓」って名前がついたのは昭和5年で、お寺の名前の「香」と、川を渡る嵐の気から名付けられたらしいよ。お坊さんの手作業から始まったって知ると見え方が変わるよね。週末のドライブで誰かに話してみてりん！",
-      "source_ids": [
-        2,
-        5,
-        6
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6ehWc-R_LpUe8lM9n4n04juyyC4BUtpoJQ-THzU3YWAUHffd_apw1hKssb3zC75d93hRihdPf54wa-Q3qbeY6FqA0JaqL1E3VCnc6oseZOA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6RRvA5eAGWQjZxuTBJXnTCLhUQ9aEWLLxbBeGEwT9FTYCDbr4PhqMm8xJPqmPGV6H5PQ7UVOSUisJ2mCWhxSYEewQ-4oX31RB9d03fdWMmOFNRSpmgWnY0_o45AUThdTMNQbvkV2crqE-C6_KyX_4w0A=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs8VcKX3WKUumemgxFIs_-JD691IWvwlO0sDgxddPT0mty6Jx6lqUk215mYnmOBI9l5VVu80NXICkwBFh7ocA_pbm9x3kGiea6TLBUIVMV_tOOydSa_IVKYAscGvAo6T2V"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkgD6I9UcE9Uv-KzJX2ZownHhTnPtYe5xpUVWXFMtOWGrHPVngstg_2NcrGVdr4XdqZr_FbuUD5COkAxHJwwXRt0G-eVRFtjLPXHyCmiLS-iTKDWvnV_SB0v9ugPF55EpDLPu_WDeKRE6KXmN1G7Ko2wmyHSx8ivGa7ADdIkUYNw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0rRhcFQ1T1dC4S4p6cODE3EPmB1gCcOml8UVmKp60fVEgjQEIN8p6jjxvWD1DDqw-tHosSH4UuKqEySDdABNjR2UMkZJq4uBDFPlZWfhnt3iZGyliA=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ向けに、秋の週末のお出かけやレジャーの道中に家族で話したくなる「へえ、そうだったのか！」という4つのトピックと、そのうち1件を活用した3択クイズをまとめました。\n\n---\n\n### 1. 【秋の紅葉狩り】香嵐渓の美しい紅葉は、なぜ山ひとつ分（4,000本）も広がっているのか？\n\n* **理由：**\n  自然に自生していたものではなく、江戸時代初期に地元の寺院の和尚が、お経を1巻唱えるごとに1本ずつ手植えした祈りの木々が原点だからです。\n* **具体的な数字や比較：**\n  現在、香嵐渓（飯盛山）にはイロハモミジやオオモミジなど11種類、約**4,000本**のカエデが群生しています。寛永11年（1634年）の最初の植樹から数えて約**400年**の歴史を持ちます。参道には、発端となった和尚が当時植えたとされる杉の巨木が現在も2本残されています。\n* **意外な点：**\n  もともとの飯盛山はモミ、ツガ、シラカシなどが生える常緑樹の山で、秋に山全体が真っ赤に染まる山ではありませんでした。\n* **歴史の裏話：**\n  香積寺（こうじゃくじ）11世の三栄（参栄）和尚が「飯盛山を美しく、訪れる人々に喜んでもらえる場所にしよう」と巴川沿いの参道に楓や杉を植えたのが始まりです。その後、大正末期から昭和にかけて、和尚の志を継いだ地元の青年団や婦人会などの町民ボランティアが山全体へ植樹活動を広げました。ちなみに「香嵐渓」という風流な名前がついたのは昭和5年（1930年）で、香積寺の「香」と、巴川を渡る爽涼な山気（嵐気）の「嵐」をとって命名されました。\n* **出典・根拠：**\n  * 曹洞宗 飯盛山 香積寺「香積寺について」公式解説（開創・寛永11年の三栄本秀和尚によるお手植え、命名の由来）\n  * 豊田市足助観光協会 公式資料（約4,000本・11種類のカエデ、三栄和尚の杉）\n\n---\n\n### 2. 【週末のドライブ】刈谷ハイウェイオアシスは、なぜ「テーマパーク級」の集客を誇るのか？\n\n* **理由：**\n  伊勢湾岸道の上下線PAと刈谷市の都市公園（岩ケ池公園）をシームレスに合体させ、高速利用客だけでなく「一般道側からも自由に遊べる巨大複合交流拠点」として設計されたためです。\n* **具体的な数字や比較：**\n  年間来場者数は**700万人以上**を記録し、綜合ユニコム『レジャーランド＆レクパーク総覧』の集計では、東京ディズニーリゾート、ユニバーサル・スタジオ・ジャパン（USJ）に次ぐ「全国第3位」にランクインした実績を持ちます。園内のアトラクションはメリーゴーランドなどが1回**50円〜100円程度**と格安で、地下**1,200メートル**から湧出する天然温泉「かきつばた」の年間利用者数だけでも約**50万人**にのぼります。\n* **意外な点：**\n  名物となっているのが、総工費約**4億円**をかけてリニューアルされた「デラックストイレ」です。ホテルのような絨毯張りの待合ホールやソファー、ドレッサー付きのVIP個室（空中浮遊リモコン完備）など、高速道路のトイレの概念を覆す空間になっています。\n* **歴史の裏話：**\n  2004年の開業前、「刈谷に人を惹きつける、日本一話題になる名物をつくろう」という逆転の発想から超豪華トイレが企画されました。開業直後はあまりの清潔さと豪華さに驚き、トイレの待合ホールでお弁当を広げて食べようとする利用者が現れ、スタッフが慌てて案内したという逸話が残っています。\n* **出典・根拠：**\n  * 愛知県公式観光ガイド Aichi Now「来場者1億人突破の大人気スポット・刈谷ハイウェイオアシスへ行こう！」（全国3位の入場者数記録）\n  * 刈谷ハイウェイオアシス公式案内、CBCテレビ『太田×石井のデララバ』刈谷ハイウェイオアシス特集（来場者数、地下1,200mの天然温泉、デラックストイレの設備と経緯）\n\n---\n\n### 3. 【海辺のお散歩】蒲郡の竹島は、対岸からわずか400mなのに、なぜ「島丸ごと国の天然記念物」なのか？\n\n* **理由：**\n  陸地から橋を渡って数分で行ける距離にありながら、対岸（クロマツ林）とは全く異なる「暖地性の原生照葉樹林」が島全体に手つかずで残されている特異な生態系を持つためです。\n* **具体的な数字や比較：**\n  本土海岸からの距離はわずか**約400メートル**、島の周囲約**600メートル**、面積約**1.9ヘクタール**という小島です。この限られた面積の中に、タブノキ、モチノキなど**65科238種**もの自生高等植物が確認されており、林床に茂るキノクニスゲは日本における分布北限とされています。\n* **意外な点：**\n  島全体が昭和5年（1930年）に「八百富神社社叢（やおとみじんじゃしゃそう）」として国の天然記念物に指定されました。島自体が丸ごと天然記念物指定を受けている珍しい例です。\n* **歴史の裏話：**\n  海流によって対岸にはない暖地性の種子が漂着しやすい環境に加え、平安時代末期（治承5年・1181年）に藤原俊成が創建した「八百富神社（竹島弁天）」の全山神域とされたことが自然を守りました。古くから島内の木を1本たりとも伐採することが禁忌（タブー）とされ、信仰の力によって人の手による開発から守られた結果、奇跡的な植物相が現代まで残ることになりました。\n* **出典・根拠：**\n  * 八百富神社公式「竹島の自然環境について」（文部省告示第198号の指定理由、対岸から400m、65科238種の高等植物、キノクニスゲ自生北限の記録）\n  * 蒲郡市観光協会「蒲郡・竹島エリア」公式資料\n\n---\n\n### 4. 【名鉄電車のお出かけ】名鉄の「ミュージックホーン」は、なぜ生まれたのか？\n\n* **理由：**\n  観光客を喜ばせる音楽サービスではなく、昭和30年代に多発していた「踏切事故を未然に防ぐ安全装置（補助警報器）」として開発されたためです。\n* **具体的な数字や比較：**\n  1961年（昭和36年）、日本初の2階運転台・前面展望車として登場した名鉄7000系「パノラマカー」に初めて搭載されました。当時、名鉄沿線には遮断機や警報機がない無人の「第4種踏切」が数多く残っており、高速運転を行う上で事故対策が急務でした。\n* **意外な点：**\n  警告音なら通常の空気笛（「ファーン」という高い警笛）で十分なはずですが、踏切の数が多い名鉄では頻繁に鳴らすと沿線住民にとって耐え難い騒音公害になります。そこで「遠くまで届き、人々の耳に不快感を与えず、かつ電車が来たと一瞬で気付かせる音」として、日本初のトランジスタ式電子メロディ警報器が導入されました。\n* **歴史の裏話：**\n  「どけよ どけよ 殺すぞ〜」といったユニークな空耳でも長年親しまれてきたこのメロディですが、現在も中京競馬場で開催される重賞・名鉄杯の発走ファンファーレとして生演奏されるなど、愛知の文化として根付いています。\n* **出典・根拠：**\n  * 名古屋鉄道公式「名鉄ライブラリー：ありがとう パノラマカー」解説\n  * 東海テレビ 報道特集「名鉄パノラマカーで親しまれた『ミュージックホーン』そのルーツと現在」（安全確保・補助警笛としての役割）\n  * CBCラジオ（RadiChubu）鉄道史解説（トランジスタ式電気笛の開発背景）\n\n---\n\n### 【リスナー向け3択クイズ】名鉄ミュージックホーン編\n\n**問題：**\n名鉄電車の代名詞となった軽快な「ミュージックホーン」。実は1961年にパノラマカーがデビュー運行する当日まで、一般には「ミュージックホーンが搭載されていること」は完全秘密にされていました。名鉄が直前まで公表しなかった意外な理由は一体どれでしょう？\n\n* **1番：** ライバルの国鉄（JR）にアイデアを盗まれるのを恐れたから\n* **2番：** 当時は故障が多く、本番の走行中にちゃんと鳴るか保証がなかったから\n* **3番：** 作曲した社員が恥ずかしがり屋で、隠しておいてほしがったから\n\n---\n\n* **正解：** **2番（当時は故障が多く、本番の走行中にちゃんと鳴るか保証がなかったから）**\n* **ラジオ用の一言解説：**\n  当時のミュージックホーンは最先端のトランジスタ回路を使った電子笛だったため非常にデリケートで、試作段階では故障や音飛びが相次いでいました。「鳴らします！」と大々的に宣伝して本番で鳴らなかったら格好がつかないため、運行初日にぶっつけ本番で披露され、沿線で見守っていた鉄道ファンや住民をあっと驚かせたそうです。",
+  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、リスナーが家族との団らんで思わず「へえ、そうだったのか！」と話したくなる、懐かしい暮らしにまつわる疑問と調査メモをまとめました。地元・愛知県や西三河に深くゆかりのある話題を取り入れています。\n\n---\n\n### 1. 【給食の思い出】「ミルメーク」は愛知発祥なのに、なぜ地元・名古屋の給食には出なかったのか？\n\n* **理由：**\n  昭和30年代〜40年代、学校給食の飲み物が「脱脂粉乳」から「瓶牛乳」へと切り替わりました。その際、栃木県の学校給食会から「脱脂粉乳に比べて不足する栄養素（カルシウムやビタミン等）をおいしく補い、子どもたちが牛乳を残さず飲めるようにしてほしい」という依頼を受け、愛知県名古屋市守山区の食品メーカー「大島食品工業」が昭和42年（1967年）に粉末タイプの「コーヒー牛乳の素」として開発・発売しました。\n* **具体的な数字や比較：**\n  発売以降、全国47都道府県の小中学校へ広く普及し、2010年代には年間約1,200万〜1,400万食（市販用を含めると2,000万食以上）を出荷する全国的ロングセラーとなりました。当初は粉末のコーヒー味1種類でしたが、現在では粉末8種類（ココア、いちご、バナナ等）、パック牛乳向け液体タイプ3種類など多彩に進化しています。\n* **意外な点・歴史の裏話：**\n  全国の子どもたちに親しまれた大ヒット商品であり、メーカーのお膝元である愛知県でも多くの市町村で導入されていたにもかかわらず、**本社がある名古屋市の公立小学校では発売から50年以上（半世紀以上）、一度も給食に登場しませんでした**。理由は「牛乳は白いそのままの味で飲むもの」という市の教育方針があったことに加え、創業者・大島氏が市役所の知人に配慮して「売込みに行くと利権を疑われるかもしれない。良い商品なら自然と声がかかるはずだ」とあえて地元へ積極営業をしなかったという、職人気質と遠慮の行き違いがあったためです（2019年末から2020年にかけて試験導入され大きな話題となりました）。\n* **根拠・出典：**\n  * 大島食品工業株式会社 公式Webサイト「ミルメークとは」「ミルメークの歴史」\n  * CBCラジオ『RadiChubu』取材記事「誕生から52年！ミルメークがついにお膝元“名古屋市”でも採用！？」（大島食品工業・取締役インタビュー）\n\n---\n\n### 2. 【西三河のルーツ】日本の木綿の始まりは西三河？「三河木綿」に伝わる1200年前の漂着伝説\n\n* **理由：**\n  日本の暮らしに欠かせない「木綿（コットン）」ですが、日本で初めて綿の種が伝わった地は、現在の愛知県西尾市（旧三河国）とされています。平安時代初期の正史『日本後記』や『類聚国史』に、海を越えて流れ着いた異国の人が綿の種をもたらした記録が残されています。\n* **具体的な数字や比較：**\n  記録は延暦18年（西暦799年）、約1,200年以上も前の出来事です。当時の試植は一度途絶えたものの、室町時代の永正7年（1510年）の文献『永正年中記』には年貢として「三川木綿」を納めた記録があり、文献上国産木綿として日本で最も古い記録の一つとなっています。江戸時代には「三河縞（みかわしま）」と呼ばれる厚手で丈夫な藍染め縦縞の綿布が、農作業着や布団地として全国へ流通しました。\n* **意外な点・歴史の裏話：**\n  西暦799年に小舟で三河湾に漂着したのは「崑崙人（こんろんじん＝天竺・インド方面の人）」と伝えられており、現在も西尾市天竹町には、全国で唯一の「綿の神様」を祀る「天竹（てんじく）神社」が鎮座しています。「天竹」という珍しい地名自体も「天竺（インド）」から渡来した綿の伝来に由来すると伝わっており、昔の三河の人々が海の向こうからの恵みを大切に受け継いできた心が和む歴史です。\n* **根拠・出典：**\n  * 三河織物工業協同組合 公式Webサイト「三河木綿の歴史について」\n  * 西尾市観光協会「天竹神社・棉祖祭」「三河木綿から三河『衣食住』の歴史を知る」\n  * 愛知県 産業振興課「あいちの伝統工芸品：三河木綿・三河縞」\n\n---\n\n### 3. 【夏の風物詩】蚊取り線香はなぜ「渦巻き」？奥さんの一言と「7時間」の知恵\n\n* **理由：**\n  夏の縁側や庭仕事でおなじみの蚊取り線香ですが、明治23年（1890年）に世界で初めて作られた当初は、仏壇の線香と同じ「真っ直ぐな棒状（スティック型）」でした。しかし、棒状だとすぐに燃え尽きてしまい、寝ている間に蚊に刺されてしまうという問題があったため、長時間燃え続ける工夫として「渦巻き型」が考案されました。\n* **具体的な数字や比較：**\n  最初の棒状線香は長さ約20cmで、燃焼時間はわずか約40分でした。これに対し、渦巻き型をまっすぐに引き伸ばすと全長は約75cmにもなり、燃焼時間は大人の平均睡眠時間にちょうど合わせた「約7時間」持続します。\n* **意外な点・歴史の裏話：**\n  この渦巻きの形を発明したのは、創業者（上山英一郎）本人ではなく、妻の「ゆき」さんでした。長持ちさせようと棒を長くすると折れやすく置き場にも困る……と悩んでいた夫に対し、庭でとぐろを巻く蛇を見て「渦巻き型に巻いてみてはどうか」と提案したのがきっかけです。ただし、当時の技術で柔らかい線香を均一に手作業で巻くのは至難の業で、アイデアから商品化まで実に7年もの試行錯誤が費やされました。\n* **根拠・出典：**\n  * KINCHO（大日本除虫菊株式会社）公式Webサイト「害虫コラム：1世紀以上経っても、渦巻きです。」\n  * KINCHO（大日本除虫菊株式会社）会社案内「皆様の暮らしの中にいつも金鳥の渦巻」\n\n---\n\n### 4. 【学校の懐かしい風景】緑色なのにどうして「黒板」と呼ぶのか？\n\n* **理由：**\n  日本の学校教室に普及している黒板の多くは深緑色ですが、名称が「緑板」にならないのは、明治時代初期にアメリカから持ち込まれた器具「blackboard（ブラックボード）」をそのまま日本語に直訳した名残だからです。\n* **具体的な数字や比較：**\n  1872年（明治5年）の学制発布に伴い、お雇い外国人教師らによってアメリカから日本へ黒板が持ち込まれました。明治初期の国産黒板は、木の板に墨汁や漆などを塗った文字通りの「真っ黒な板」でした。現在のような緑色の黒板へと切り替わったのは戦後の昭和29年（1954年）頃のJIS（日本産業規格）改定や合成塗料の普及期以降のことです。\n* **意外な点・歴史の裏話：**\n  黒から緑色へと変わった科学的な理由は「子どもの目の疲れを防ぐため」です。人間の網膜にある光受容体（錐体細胞）は緑色の波長に最も感度が高く、ピントを合わせる筋肉の緊張が少なくて済みます。さらに、木造校舎や電灯の光が反射して白くテカるのを防ぎ、白いチョークの粉の文字をくっきり見せる効果もありました。板の色は目に優しい緑へと進化を遂げましたが、親しまれた「黒板」という名前だけは現在もそのまま残り続けています。\n* **根拠・出典：**\n  * 国立国会図書館「レファレンス協同データベース」（豊中市立図書館照会事例：草土文化『学校のなぞ2』等）\n  * 日本黒板工業会（全国黒板工業連盟）の規格沿革・解説資料\n\n---\n\n### リスナー向け 3択クイズコーナー（話題1より）\n\n**【問題】**\n昭和の給食でおなじみ、牛乳を甘くおいしくする「ミルメーク」は、愛知県名古屋市の食品メーカー（大島食品工業）が昭和42年に開発した大人気商品です。\nしかし、全国の学校で大ヒットしたにもかかわらず、地元である名古屋市の公立小学校では、発売から50年以上もの間、一度も給食に出ませんでした。その意外な理由とは次のうちどれでしょう？\n\n* **1番：** 名古屋市の子どもたちはみんな牛乳が大好きで、味を変える必要が全くなかったから\n* **2番：** 「牛乳は白いまま飲むもの」という教育方針や、地元市役所に気兼ねして営業しなかったから\n* **3番：** 当時の名古屋の給食牛乳瓶の口が小さすぎて、粉末が入らなかったから\n\n---\n\n**【正解】**\n**2番：**「牛乳は白いまま飲むもの」という教育方針や、地元市役所に気兼ねして営業しなかったから\n\n**【解説トーク用メモ】**\n全国47都道府県で広く愛されたミルメークですが、名古屋市には「学校給食の牛乳は白いそのままの味で飲むのが基本」という指導方針がありました。さらに開発者の大島さんも、名古屋市役所に友人が多かったため「売り込みに行くと、知り合いの利権で採用されたと誤解されてしまうかもしれない。良いものなら市から自然に声がかかるはずだ」と遠慮して営業に行かなかったそうです。そんなちょっと不器用で温かいすれ違いから半世紀以上提供されず、2019年末にようやく名古屋市の給食に登場して話題を呼びました。おうちでミルメークを飲むときは、ぜひこの誕生秘話を話してみてくださいね。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%B3%22+%E5%90%8D%E9%89%84+%E8%B8%8F%E5%88%87+%E9%96%8B%E7%99%BA%E7%90%86%E7%94%B1+%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%89%84%E9%81%93&client=app-vertex-grounding&safesearch=active\">&quot;ミュージックホーン&quot; 名鉄 踏切 開発理由 名古屋鉄道</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%88%88%E8%B0%B7%E3%83%8F%E3%82%A4%E3%82%A6%E3%82%A7%E3%82%A4%E3%82%AA%E3%82%A2%E3%82%B7%E3%82%B9+%E5%85%A5%E5%A0%B4%E8%80%85%E6%95%B0+%E3%83%87%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E3%83%88%E3%82%A4%E3%83%AC+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">刈谷ハイウェイオアシス 入場者数 デラックストイレ 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A6%99%E5%B5%90%E6%B8%93+%E3%82%82%E3%81%BF%E3%81%98+%E4%B8%89%E6%A0%84%E5%92%8C%E5%B0%9A+%E8%B1%8A%E7%94%B0%E5%B8%82+%E9%A3%AF%E7%9B%9B%E5%B1%B1+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">香嵐渓 もみじ 三栄和尚 豊田市 飯盛山 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%92%B2%E9%83%A1+%E7%AB%B9%E5%B3%B6+%E5%9B%BD%E3%81%AE%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9+%E6%A4%8D%E7%89%A9%E7%BE%A4%E8%90%BD+%E3%81%AA%E3%81%9C+%E5%AF%BE%E5%B2%B8%E3%81%A8%E9%81%95%E3%81%86&client=app-vertex-grounding&safesearch=active\">蒲郡 竹島 国の天然記念物 植物群落 なぜ 対岸と違う</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%8D%E9%89%84+%E3%83%91%E3%83%8E%E3%83%A9%E3%83%9E%E3%82%AB%E3%83%BC+%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF%E3%83%9B%E3%83%BC%E3%83%B3+%E8%AA%95%E7%94%9F+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">名鉄 パノラマカー ミュージックホーン 誕生 理由</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%BB%92%E6%9D%BF+%E3%81%AA%E3%81%9C%E7%B7%91+%E6%97%A5%E6%9C%AC%E9%BB%92%E6%9D%BF%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E6%AD%B4%E5%8F%B2+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">黒板 なぜ緑 日本黒板工業会 歴史 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+%E5%A4%A7%E6%97%A5%E6%9C%AC%E9%99%A4%E8%99%AB%E8%8F%8A+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 大日本除虫菊 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9F%E3%83%AB%E3%83%A1%E3%83%BC%E3%82%AF+%E5%A4%A7%E5%B3%B6%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD+%E9%96%8B%E7%99%BA+%E6%AD%B4%E5%8F%B2+%E8%AA%95%E7%94%9F&client=app-vertex-grounding&safesearch=active\">ミルメーク 大島食品工業 開発 歴史 誕生</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E6%9C%A8%E7%B6%BF+%E6%AD%B4%E5%8F%B2+%E8%92%B2%E9%83%A1%E5%B8%82+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">三河木綿 歴史 蒲郡市 愛知県 由来</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6ehWc-R_LpUe8lM9n4n04juyyC4BUtpoJQ-THzU3YWAUHffd_apw1hKssb3zC75d93hRihdPf54wa-Q3qbeY6FqA0JaqL1E3VCnc6oseZOA==",
-          "title": "kojakuji.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1B_grRpzbYNftRCidKszXqVxVwQ-D0mfzucyjGW0bjJz0yWm2n171aY0VCAW4qzkIvPAvDCanK68P1EjHeffci64gEanyWWDoLgr1wJBXvnffbV5NGcxaN_S-",
+          "title": "milmake.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVohuVwCt30jVmh4LyRUCVdQciaWTa6sJJf5TRg8OE-YnL1q_3RysRgjAU68lRpjXRLJKM-ErjDJrGKsGb-K9ABF4eOGPA6eAUSA0ze7Mwcy4ux74u-746oEfO8Ats9qq3weXmPRwEur3h9R4VF1mhJTl9A96N3gIKJSQcMsG3mIpYrvCuFfw_kVemgOELLKdixZbUtOkG9-naj_mkscjeLNpt",
-          "title": "jimdofree.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQfxzI8Hk-QFUicyf02pe-j5IM1cJ9qeiHltwtNHXYK7-9HcLBPJvN78VURGPuXOW4WlJME2wINc-OGmcTpSNlahnPtrstssVzxL-J8vnM7aF2V-9pWruA7MioDXyHjAEC5WH03NiYZNg=",
-          "title": "go-centraljapan.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6RRvA5eAGWQjZxuTBJXnTCLhUQ9aEWLLxbBeGEwT9FTYCDbr4PhqMm8xJPqmPGV6H5PQ7UVOSUisJ2mCWhxSYEewQ-4oX31RB9d03fdWMmOFNRSpmgWnY0_o45AUThdTMNQbvkV2crqE-C6_KyX_4w0A=",
-          "title": "tourismtoyota.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs8VcKX3WKUumemgxFIs_-JD691IWvwlO0sDgxddPT0mty6Jx6lqUk215mYnmOBI9l5VVu80NXICkwBFh7ocA_pbm9x3kGiea6TLBUIVMV_tOOydSa_IVKYAscGvAo6T2V",
-          "title": "asuke.info"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKn0-66hp0sOlrRJu7Go4wRG9xdqYRl1ch_zKAB8ZXkEjvoC2bSH3WrzLrzGjgVnRk4xle79dCEgZy95GdYRxkuHX9p-WlkI7akh0oihyOKV4WtyTjiUhJkKx3us89xWOoD-E1-ruS_Y-MqXo1Xo4Xi9GO6L1l1lV4cAHohIOoTi3g0_A55c54CyYjN8-VgexDZA6MoxLmla9tRXeA1cWUvQN72Nih6z_mVxZV2w==",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMRwDNEAg0nWbDDNSGgYLXOk5w95mOOlawW7LGC2GH1ws4T4RYGZQBUatBkMLHxLyxto4seYOXX6yqWHr25uxTTb0jSuvmq_VC-nzmuSaa17tUA1m1WvA-qxpteGP99YbWMrw=",
-          "title": "fc2.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF1drvHewOFdt2CvnqNOhtaRUMDyAK6ZMvLC59brGC7vDZMHSwkVJPU81nk2zKzQUEaEWVmk5GV7Y7ZH2nCEAg0BUHZisWouGYb5HBXnWe1etMpSoynNV2s4bL5-5sYs2J5tCpG42C5C3Nov8MDtVN5srZ8t0=",
-          "title": "hicbc.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpOhH9fPLS7j1TIha8C8o8nGJ3TbXPKdNGaLPIzCQ9ecwHxzyQBZvHTWBpbbgwmyFD5qY2SoLMwIJs1ljeZBO4VWc-IE2doitGeLOGMS0SvKjd3JheWHqbiekvqUWqpmb-DHdXvXw=",
-          "title": "toyokeizai.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM0CSHQrGXLgiRBSyDqIKS65Tp82aO5iO4IVWj5ZH1MjB6-M_CUvfFp7xY9DROJ5lk1TRz8btYblWq3HjJyrmC6KiVPQqFWZW9zdp2_Wr4dx_xyqibd77jCe4nrANqk5WrOM72zXLLKA==",
-          "title": "pref.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLZf8BUAZgBxNziu8m8WXK6Q5wc2nXYxv_Z8iddSM7DK5o2JOYHuoEp6iCjWLidLpVPeIq9Z8tu6viZfUkDwi7U55uka5rdojIfVwcoW_j",
-          "title": "yaotomi.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVf9iiuTRd6KzMquIkBtAl9EteqokxYw33tVYuvYyqAsrInoEfk0qm0ml7iNuqoJq9VffVpN6mc2RjdL5M2fcneGAMKEcXzEmRynI1DbUYsBIskthtGAV35cbE",
-          "title": "gamagori.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVf9iiuTRd6KzMquIkBtAl9EteqokxYw33tVYuvYyqAsrInoEfk0qm0ml7iNuqoJq9VffVpN6mc2RjdL5M2fcneGAMKEcXzEmRynI1DbUYsBIskthtGAV35cbE",
-          "title": "gamagori.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxradUSHiQxzpFrLK4T7j9Ron_YaAhZJk-fFo894I1Tfu1_BRGaQPWKW4XxTfBJZJxL-DFvc_ujWSr-CQ8Y6kXRIJ3PxzkBh1c5SNo5GscvMlMntWMNqae9MJ4QCpxwBDghqdKe_Quf0mTCuhl5rFXwICmQ==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYHG22GVhlAPWdTxESjsVeSgHbrZ3HwVMjavmr5FPhUcCEWZxi5aFppEPJpYkfSN-5dfQo7W71iG6F3DwYxY9lOdBGQyPCymeEE5LBtqlnJeNGfIYM6h5RvrXt6aV2cFh_MoP",
           "title": "radichubu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5x025EYMfVa8i9WPPTX06u99Ipj0y7I4QzGdZMf3CvvGL7CGz-su_FCfbgJJu0ZtqnRTP-qkZlKRRPbDZyd_b9p1RyUiqzhAcMhOd9o1Szg7OlyoNjNcbjJBJQUcWKNU=",
-          "title": "odapedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu-fQOHiq2GFjZ04430ex0EPIrBhgYOU91bu9Rj7ArYiND2hFvM1MO6aDBUIW0vNTc6RmcqoRh0zUDKWZbLEPnVSXOXeL0mcIANZME7wMsjnMTaa1eYbK4_R5jA3-nVpqLpWPzL3TDPc4YuOawtTv5RWkblyB-HPOT8BG9CM4zdg==",
+          "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhcL7MTqqhlN_AsFDXqpfO99KJfg2O_-FgqiIGRffU1pPBB_82KSik42YAq0bor07ucTC6oqbnWPgdTScKfD3ZqV6h-G5pm0Pn1dDErv4EeNOG10KJcyFGVCOchyewWq3BSUgiZQ==",
-          "title": "meitetsu.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjTOYm1_MKB4SIL121njk1Aq-S-6ji9NkQJGSc4xKXMVFrg_T7MBxa81IdJcNIumA6CnrRjQzV3kzQ6NM9fDP09pFpZ3PNO3AVoyh4YIR6hmS7Q7ufFIXsWhi-TY3UOr8=",
+          "title": "mikawaori.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRrwq011jt9tO41_Y5Lu2IVLzIxUnpWnHcOx1zYl2OA2z-Mh5vzbRvn7E-hjqjJ-tF6KCtNMvP59QTJpW7NApjBAnDunkD-azHTYtKEMESJb-vYFLhtrM6Tcc_ohwqS3n9IElxr3clgDs=",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi7hZy4I-QNiSsfI96YJ8lWDXwQ_PL9f5fQMIL1rQaI1ZPmlDfORs3hOCcwT0_kspNqh8Wwq2NOfTQhQpiuRC8go8sSst9kG-vP8d61TigrnoJdtwVtbjrndSjGw==",
+          "title": "kyoto-art.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp9BFRAQNCsJHpRa_O9a6fTN6IsdACL6HWxp9oxqYVqmJqKUX_9E4MSvLfJZTsSzm0aR9sYJw7kKplfktFXuzLjMp5JncQUvsc7Iw1jdThLs1JcpKxQxsVc4MP-bJ29omAY02-9J85aQRTTFt_0VelbuAkjltAucfc2A==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr_MScorOaT42HZ5yWH053POl--WiY1rs7ks_xDK2L6HXRfig0cKbvBASH8epVoMnqJ2nFakkcck7fHy87FXK28ZW_AYM6SVpSLFML4eXWPscqjPFiXQ==",
+          "title": "g-daimaru.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJQJgvaxGmmM3lSZXunQbC7I_2doExQcaVLD6djl73dzAh9PNr7anT5ETc0yVdvfmTG_SoEYH3iTvYZJKh_Qo8w4xikXJp2ONdSykxZAz-8kGi9W35o_T-",
+          "title": "mikawaori.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb8IFNDClhpiJfTUjR1mHmjHgQ0hKvZFSNSpD8I54Hs80HkpkiGioCr_hloCrNjBXsKDmAjJ9lkyB7YimeL4s2n8Qm6hTqZ7J3xgc4Ymtv7g6px69l4XkovU39JV_-y4N5Cv0ZGQk=",
+          "title": "intojapanwaraku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyN27QDVPRW5wRI0Cc6VhYZanM-PTt5Kr6-Y0uiqSg8zhJ7p_AeTUO_YC1qNKi2kHG1BqxI8EwGaIUSLsnmYl8MRHisX_-6BcLEl0LatMd67LCeuc6DN2Ixi48iQ4=",
+          "title": "nishiokanko.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrilA_Oh12ftiG74z9TYEmbukbuVfqadoI1JTfJcHvw7dCl6BfRHFGngKXYaxjJpAJ16liIZtMlgX2syEb3WAa6VhXzQQkPASUHft8WEF6WdynXDJU6a1DjRkpoCpwFG1FRnYMWBc4Dbps5do=",
+          "title": "aibsc.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyLwfcqXZtR3U5g39UNRzfzovhE3C-6J3velcGbLQO6toEpUFn75b6EXD3hxHyQKAhwDMKnCNUY-ChNZOOzoo7EPB-vTaKarGuUny_9YVao05aD1Mi9PNRTVPtJzSuOVfn7Zq-OyVe8g4Hcw==",
+          "title": "pref.aichi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB1rietDRo-ZnufyzWM8ez8KCakEVxloloF01hKeAb-jndjgmMnW0m3Z5utcEi586XM8qkGEI5gpYXKV8qrirDTSkEKFcflzbDWfEa-_e48eS1vlUxZD28OCL5brXAEyxgGljODPEA",
+          "title": "kincho.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUQzjrfMxlwYvjpzLmwPxsAKOFx0-3o_Foc5i13R_EfwtSOH-nD7thhBh9n8zoBSEAhEVhHkzWw4569Nca96U5O3ZEriWVoIcnSF2La_7-V2cgD0G9ikkCK3CIBA69G7jl9GTzCytrZj6Gmyndyrq6",
+          "title": "newsweekjapan.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoW41R-uSdWo4EHmJWjpOeVjYNMtRjplsadGoxzH9MpzBH8yJpT90wmwOiXlLSMdeCTY03HEGln1FPEbq7jD-sfbZjYZv8TiUKBb9QDO-2qXYyjc28ZL36HDq1oqCewFSW",
+          "title": "president.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN2acEDXcuLFCwofyUU1QpK02BHt96GlfHYBUXRltDM6XOBbTjouKLf58DS4rU444CZDGn5SaEwQrzlHLOXEwH0OiYEdO45Oaulhc2ouHAPpcbwlvTNkgtJtPvFfbxLA==",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcntWnn81niLfUMMn576oW1LDZO5gRo189mEL08e7lRjULh5PLn1YFqtiptQbMccDKqNdNmkyvFnkUq_JGAGC0LUwpLI2qrmdh3LXzluK6g9fFteeHTAp1NsiNHY9sECVeodjgiRua",
+          "title": "kincho.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqwbFquaYtGYOQdlupynM-BA3sfSRrzNUyDEvJDUZNaqj3-SENUnhAfaoo4egmFbQohYBtmVFcS0Lb5jW0_C7M0_kUyddXd8-pPJVM3EdA4WdOqfjwBb6ItOoFSxq50qzog0A=",
+          "title": "j-town.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiWYfB_l7HZpiXtqECw_xe6EhNXIhL2rPTY8MmZH7LmceJVKlLUpsqH0N2DkhtXe9TPa7lSIt_0sdIiPtevZoiIQf4ZrLnfHku9qok-nauAhU8GTjZVcLMGK6in5ZhrQ1D7F4wuA==",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkgD6I9UcE9Uv-KzJX2ZownHhTnPtYe5xpUVWXFMtOWGrHPVngstg_2NcrGVdr4XdqZr_FbuUD5COkAxHJwwXRt0G-eVRFtjLPXHyCmiLS-iTKDWvnV_SB0v9ugPF55EpDLPu_WDeKRE6KXmN1G7Ko2wmyHSx8ivGa7ADdIkUYNw==",
+          "title": "ndl.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_T1DBsZi4XflGuhxOht6DGMmV3_RaMK_ePr94wuIYFH7hQwEe2jMFr_g07_gWd4b6Gh90IBhHXdYdjeOpRwmPUfapK_RMFvlKKjX-c6NGsvE-K_nopldxWEnIBB3CP6OlT-3jSQb4ZGGdeiWBdFuIFs7lgfOJNzwf",
           "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoxhUH0eUxxag6mahFc1thQXOqpAWKVka7oLtYXnmLoTBlzEjMD2TLwCEFMmkY_zPn-4GCbjFJi_RAFfq2kt7Miqv2HCpF12pKpwI_ZOW8OGj0hVWdh3m0LRJxAnk78bBx1rr9wv1Qx2ZUBHHpJKfXlaQ43C0V",
-          "title": "tokai-tv.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0rRhcFQ1T1dC4S4p6cODE3EPmB1gCcOml8UVmKp60fVEgjQEIN8p6jjxvWD1DDqw-tHosSH4UuKqEySDdABNjR2UMkZJq4uBDFPlZWfhnt3iZGyliA==",
+          "title": "s-kyozai.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnUC48PMzD5XyoJKl2dpm5GGgqKhbHXtAOx2X4o1zUvzbVpnTHayrdgbVQbeLz3XzfuyAl6FkjnrMEi0GF6nVWZ_H7agoy-iGDA6yi3HbkuQWHM5bHKTt9bLrUVKuIkc8S8dsHY0lQSY1ekMO3Xv3m67XVzRiggtbw9lGjgSBTc0A=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELZXY6OMWtDXRY1CZtcrv5cSxlUS3qRfpGnuxdFxBxnXZrPZYGVw5z3tRqbv2ptL7y9wV9FYghjXuy2v-wmSmEd-9h9q780-RUNJuN8cj_qE4rANCf_3E_rYsipQWl5g==",
+          "title": "youtube.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 435,
-          "endIndex": 629,
-          "text": "自然に自生していたものではなく、江戸時代初期に地元の寺院の和尚が、お経を1巻唱えるごとに1本ずつ手植えした祈りの木々が原点だからです"
+          "startIndex": 647,
+          "endIndex": 1091,
+          "text": "その際、栃木県の学校給食会から「脱脂粉乳に比べて不足する栄養素（カルシウムやビタミン等）をおいしく補い、子どもたちが牛乳を残さず飲めるようにしてほしい」という依頼を受け、愛知県名古屋市守山区の食品メーカー「大島食品工業」が昭和42年（1967年）に粉末タイプの「コーヒー牛乳の素」として開発・発売しました"
         },
         "groundingChunkIndices": [
           0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 672,
-          "endIndex": 815,
-          "text": "現在、香嵐渓（飯盛山）にはイロハモミジやオオモミジなど11種類、約**4,000本**のカエデが群生しています"
-        },
-        "groundingChunkIndices": [
           1,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 818,
-          "endIndex": 912,
-          "text": "寛永11年（1634年）の最初の植樹から数えて約**400年**の歴史を持ちます"
+          "startIndex": 1134,
+          "endIndex": 1359,
+          "text": "発売以降、全国47都道府県の小中学校へ広く普及し、2010年代には年間約1,200万〜1,400万食（市販用を含めると2,000万食以上）を出荷する全国的ロングセラーとなりました"
         },
         "groundingChunkIndices": [
-          3,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 915,
-          "endIndex": 1033,
-          "text": "参道には、発端となった和尚が当時植えたとされる杉の巨木が現在も2本残されています"
+          "startIndex": 1362,
+          "endIndex": 1566,
+          "text": "当初は粉末のコーヒー味1種類でしたが、現在では粉末8種類（ココア、いちご、バナナ等）、パック牛乳向け液体タイプ3種類など多彩に進化しています"
         },
         "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1612,
+          "endIndex": 1945,
+          "text": "全国の子どもたちに親しまれた大ヒット商品であり、メーカーのお膝元である愛知県でも多くの市町村で導入されていたにもかかわらず、**本社がある名古屋市の公立小学校では発売から50年以上（半世紀以上）、一度も給食に登場しませんでした**"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2191,
+          "endIndex": 2460,
+          "text": "良い商品なら自然と声がかかるはずだ」とあえて地元へ積極営業をしなかったという、職人気質と遠慮の行き違いがあったためです（2019年末から2020年にかけて試験導入され大きな話題となりました）"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2493,
+          "endIndex": 2599,
+          "text": "大島食品工業株式会社 公式Webサイト「ミルメークとは」「ミルメークの歴史」"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2741,
+          "endIndex": 2795,
+          "text": "（大島食品工業・取締役インタビュー）"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2953,
+          "endIndex": 3148,
+          "text": "日本の暮らしに欠かせない「木綿（コットン）」ですが、日本で初めて綿の種が伝わった地は、現在の愛知県西尾市（旧三河国）とされています"
+        },
+        "groundingChunkIndices": [
+          3,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1061,
-          "endIndex": 1229,
-          "text": "もともとの飯盛山はモミ、ツガ、シラカシなどが生える常緑樹の山で、秋に山全体が真っ赤に染まる山ではありませんでした"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1260,
-          "endIndex": 1484,
-          "text": "香積寺（こうじゃくじ）11世の三栄（参栄）和尚が「飯盛山を美しく、訪れる人々に喜んでもらえる場所にしよう」と巴川沿いの参道に楓や杉を植えたのが始まりです"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1487,
-          "endIndex": 1670,
-          "text": "その後、大正末期から昭和にかけて、和尚の志を継いだ地元の青年団や婦人会などの町民ボランティアが山全体へ植樹活動を広げました"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1673,
-          "endIndex": 1885,
-          "text": "ちなみに「香嵐渓」という風流な名前がついたのは昭和5年（1930年）で、香積寺の「香」と、巴川を渡る爽涼な山気（嵐気）の「嵐」をとって命名されました"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1918,
-          "endIndex": 2072,
-          "text": "曹洞宗 飯盛山 香積寺「香積寺について」公式解説（開創・寛永11年の三栄本秀和尚によるお手植え、命名の由来）"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2077,
-          "endIndex": 2178,
-          "text": "豊田市足助観光協会 公式資料（約4,000本・11種類のカエデ、三栄和尚の杉）"
+          "startIndex": 3151,
+          "endIndex": 3325,
+          "text": "平安時代初期の正史『日本後記』や『類聚国史』に、海を越えて流れ着いた異国の人が綿の種をもたらした記録が残されています"
         },
         "groundingChunkIndices": [
           4,
-          2
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 2338,
-          "endIndex": 2586,
-          "text": "伊勢湾岸道の上下線PAと刈谷市の都市公園（岩ケ池公園）をシームレスに合体させ、高速利用客だけでなく「一般道側からも自由に遊べる巨大複合交流拠点」として設計されたためです"
+          "startIndex": 3368,
+          "endIndex": 3450,
+          "text": "記録は延暦18年（西暦799年）、約1,200年以上も前の出来事です"
         },
         "groundingChunkIndices": [
-          5,
+          3,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3453,
+          "endIndex": 3725,
+          "text": "当時の試植は一度途絶えたものの、室町時代の永正7年（1510年）の文献『永正年中記』には年貢として「三川木綿」を納めた記録があり、文献上国産木綿として日本で最も古い記録の一つとなっています"
+        },
+        "groundingChunkIndices": [
+          4,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 2629,
-          "endIndex": 2937,
-          "text": "年間来場者数は**700万人以上**を記録し、綜合ユニコム『レジャーランド＆レクパーク総覧』の集計では、東京ディズニーリゾート、ユニバーサル・スタジオ・ジャパン（USJ）に次ぐ「全国第3位」にランクインした実績を持ちます"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2940,
-          "endIndex": 3193,
-          "text": "園内のアトラクションはメリーゴーランドなどが1回**50円〜100円程度**と格安で、地下**1,200メートル**から湧出する天然温泉「かきつばた」の年間利用者数だけでも約**50万人**にのぼります"
+          "startIndex": 3728,
+          "endIndex": 3905,
+          "text": "江戸時代には「三河縞（みかわしま）」と呼ばれる厚手で丈夫な藍染め縦縞の綿布が、農作業着や布団地として全国へ流通しました"
         },
         "groundingChunkIndices": [
           7,
-          8
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 3221,
-          "endIndex": 3352,
-          "text": "名物となっているのが、総工費約**4億円**をかけてリニューアルされた「デラックストイレ」です"
+          "startIndex": 3951,
+          "endIndex": 4245,
+          "text": "西暦799年に小舟で三河湾に漂着したのは「崑崙人（こんろんじん＝天竺・インド方面の人）」と伝えられており、現在も西尾市天竹町には、全国で唯一の「綿の神様」を祀る「天竹（てんじく）神社」が鎮座しています"
         },
         "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3355,
-          "endIndex": 3571,
-          "text": "ホテルのような絨毯張りの待合ホールやソファー、ドレッサー付きのVIP個室（空中浮遊リモコン完備）など、高速道路のトイレの概念を覆す空間になっています"
-        },
-        "groundingChunkIndices": [
-          6,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3783,
-          "endIndex": 4008,
-          "text": "開業直後はあまりの清潔さと豪華さに驚き、トイレの待合ホールでお弁当を広げて食べようとする利用者が現れ、スタッフが慌てて案内したという逸話が残っています"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4184,
-          "endIndex": 4221,
-          "text": "（全国3位の入場者数記録）"
-        },
-        "groundingChunkIndices": [
+          4,
+          8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 4226,
-          "endIndex": 4453,
-          "text": "刈谷ハイウェイオアシス公式案内、CBCテレビ『太田×石井のデララバ』刈谷ハイウェイオアシス特集（来場者数、地下1,200mの天然温泉、デラックストイレの設備と経緯）"
+          "startIndex": 4248,
+          "endIndex": 4500,
+          "text": "「天竹」という珍しい地名自体も「天竺（インド）」から渡来した綿の伝来に由来すると伝わっており、昔の三河の人々が海の向こうからの恵みを大切に受け継いできた心が和む歴史です"
         },
         "groundingChunkIndices": [
-          7
+          4,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4533,
+          "endIndex": 4621,
+          "text": "三河織物工業協同組合 公式Webサイト「三河木綿の歴史について」"
+        },
+        "groundingChunkIndices": [
+          3,
+          6
         ]
       },
       {
         "segment": {
           "startIndex": 4626,
-          "endIndex": 4869,
-          "text": "陸地から橋を渡って数分で行ける距離にありながら、対岸（クロマツ林）とは全く異なる「暖地性の原生照葉樹林」が島全体に手つかずで残されている特異な生態系を持つためです"
+          "endIndex": 4740,
+          "text": "西尾市観光協会「天竹神社・棉祖祭」「三河木綿から三河『衣食住』の歴史を知る」"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4745,
+          "endIndex": 4830,
+          "text": "愛知県 産業振興課「あいちの伝統工芸品：三河木綿・三河縞」"
         },
         "groundingChunkIndices": [
           10
@@ -404,70 +385,63 @@
       },
       {
         "segment": {
-          "startIndex": 4912,
-          "endIndex": 5065,
-          "text": "本土海岸からの距離はわずか**約400メートル**、島の周囲約**600メートル**、面積約**1.9ヘクタール**という小島です"
+          "startIndex": 4970,
+          "endIndex": 5192,
+          "text": "夏の縁側や庭仕事でおなじみの蚊取り線香ですが、明治23年（1890年）に世界で初めて作られた当初は、仏壇の線香と同じ「真っ直ぐな棒状（スティック型）」でした"
         },
         "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5068,
-          "endIndex": 5290,
-          "text": "この限られた面積の中に、タブノキ、モチノキなど**65科238種**もの自生高等植物が確認されており、林床に茂るキノクニスゲは日本における分布北限とされています"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5318,
-          "endIndex": 5479,
-          "text": "島全体が昭和5年（1930年）に「八百富神社社叢（やおとみじんじゃしゃそう）」として国の天然記念物に指定されました"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5591,
-          "endIndex": 5857,
-          "text": "海流によって対岸にはない暖地性の種子が漂着しやすい環境に加え、平安時代末期（治承5年・1181年）に藤原俊成が創建した「八百富神社（竹島弁天）」の全山神域とされたことが自然を守りました"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6131,
-          "endIndex": 6326,
-          "text": "八百富神社公式「竹島の自然環境について」（文部省告示第198号の指定理由、対岸から400m、65科238種の高等植物、キノクニスゲ自生北限の記録）"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6331,
-          "endIndex": 6394,
-          "text": "蒲郡市観光協会「蒲郡・竹島エリア」公式資料"
-        },
-        "groundingChunkIndices": [
+          11,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 6536,
-          "endIndex": 6733,
-          "text": "観光客を喜ばせる音楽サービスではなく、昭和30年代に多発していた「踏切事故を未然に防ぐ安全装置（補助警報器）」として開発されたためです"
+          "startIndex": 5195,
+          "endIndex": 5417,
+          "text": "しかし、棒状だとすぐに燃え尽きてしまい、寝ている間に蚊に刺されてしまうという問題があったため、長時間燃え続ける工夫として「渦巻き型」が考案されました"
+        },
+        "groundingChunkIndices": [
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5460,
+          "endIndex": 5544,
+          "text": "最初の棒状線香は長さ約20cmで、燃焼時間はわずか約40分でした"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5547,
+          "endIndex": 5744,
+          "text": "これに対し、渦巻き型をまっすぐに引き伸ばすと全長は約75cmにもなり、燃焼時間は大人の平均睡眠時間にちょうど合わせた「約7時間」持続します"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5790,
+          "endIndex": 5919,
+          "text": "この渦巻きの形を発明したのは、創業者（上山英一郎）本人ではなく、妻の「ゆき」さんでした"
+        },
+        "groundingChunkIndices": [
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5922,
+          "endIndex": 6165,
+          "text": "長持ちさせようと棒を長くすると折れやすく置き場にも困る……と悩んでいた夫に対し、庭でとぐろを巻く蛇を見て「渦巻き型に巻いてみてはどうか」と提案したのがきっかけです"
         },
         "groundingChunkIndices": [
           13,
@@ -476,52 +450,72 @@
       },
       {
         "segment": {
-          "startIndex": 6776,
-          "endIndex": 6937,
-          "text": "1961年（昭和36年）、日本初の2階運転台・前面展望車として登場した名鉄7000系「パノラマカー」に初めて搭載されました"
+          "startIndex": 6168,
+          "endIndex": 6355,
+          "text": "ただし、当時の技術で柔らかい線香を均一に手作業で巻くのは至難の業で、アイデアから商品化まで実に7年もの試行錯誤が費やされました"
         },
         "groundingChunkIndices": [
-          15,
-          16
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 6940,
-          "endIndex": 7112,
-          "text": "当時、名鉄沿線には遮断機や警報機がない無人の「第4種踏切」が数多く残っており、高速運転を行う上で事故対策が急務でした"
+          "startIndex": 6388,
+          "endIndex": 6518,
+          "text": "KINCHO（大日本除虫菊株式会社）公式Webサイト「害虫コラム：1世紀以上経っても、渦巻きです。」"
         },
         "groundingChunkIndices": [
-          17,
-          14
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 7140,
-          "endIndex": 7365,
-          "text": "警告音なら通常の空気笛（「ファーン」という高い警笛）で十分なはずですが、踏切の数が多い名鉄では頻繁に鳴らすと沿線住民にとって耐え難い騒音公害になります"
+          "startIndex": 6523,
+          "endIndex": 6634,
+          "text": "KINCHO（大日本除虫菊株式会社）会社案内「皆様の暮らしの中にいつも金鳥の渦巻」"
         },
         "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6758,
+          "endIndex": 7050,
+          "text": "日本の学校教室に普及している黒板の多くは深緑色ですが、名称が「緑板」にならないのは、明治時代初期にアメリカから持ち込まれた器具「blackboard（ブラックボード）」をそのまま日本語に直訳した名残だからです"
+        },
+        "groundingChunkIndices": [
+          16,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 7368,
-          "endIndex": 7590,
-          "text": "そこで「遠くまで届き、人々の耳に不快感を与えず、かつ電車が来たと一瞬で気付かせる音」として、日本初のトランジスタ式電子メロディ警報器が導入されました"
+          "startIndex": 7093,
+          "endIndex": 7242,
+          "text": "1872年（明治5年）の学制発布に伴い、お雇い外国人教師らによってアメリカから日本へ黒板が持ち込まれました"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          18,
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 7621,
-          "endIndex": 7926,
-          "text": "「どけよ どけよ 殺すぞ〜」といったユニークな空耳でも長年親しまれてきたこのメロディですが、現在も中京競馬場で開催される重賞・名鉄杯の発走ファンファーレとして生演奏されるなど、愛知の文化として根付いています"
+          "startIndex": 7245,
+          "endIndex": 7365,
+          "text": "明治初期の国産黒板は、木の板に墨汁や漆などを塗った文字通りの「真っ黒な板」でした"
+        },
+        "groundingChunkIndices": [
+          18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7368,
+          "endIndex": 7551,
+          "text": "現在のような緑色の黒板へと切り替わったのは戦後の昭和29年（1954年）頃のJIS（日本産業規格）改定や合成塗料の普及期以降のことです"
         },
         "groundingChunkIndices": [
           18,
@@ -530,19 +524,52 @@
       },
       {
         "segment": {
-          "startIndex": 7959,
-          "endIndex": 8053,
-          "text": "名古屋鉄道公式「名鉄ライブラリー：ありがとう パノラマカー」解説"
+          "startIndex": 7597,
+          "endIndex": 7702,
+          "text": "黒から緑色へと変わった科学的な理由は「子どもの目の疲れを防ぐため」です"
         },
         "groundingChunkIndices": [
-          15
+          18,
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 8058,
-          "endIndex": 8242,
-          "text": "東海テレビ 報道特集「名鉄パノラマカーで親しまれた『ミュージックホーン』そのルーツと現在」（安全確保・補助警笛としての役割）"
+          "startIndex": 7705,
+          "endIndex": 7870,
+          "text": "人間の網膜にある光受容体（錐体細胞）は緑色の波長に最も感度が高く、ピントを合わせる筋肉の緊張が少なくて済みます"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7873,
+          "endIndex": 8038,
+          "text": "さらに、木造校舎や電灯の光が反射して白くテカるのを防ぎ、白いチョークの粉の文字をくっきり見せる効果もありました"
+        },
+        "groundingChunkIndices": [
+          16,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8041,
+          "endIndex": 8203,
+          "text": "板の色は目に優しい緑へと進化を遂げましたが、親しまれた「黒板」という名前だけは現在もそのまま残り続けています"
+        },
+        "groundingChunkIndices": [
+          19,
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8236,
+          "endIndex": 8384,
+          "text": "国立国会図書館「レファレンス協同データベース」（豊中市立図書館照会事例：草土文化『学校のなぞ2』等）"
         },
         "groundingChunkIndices": [
           18
@@ -550,71 +577,83 @@
       },
       {
         "segment": {
-          "startIndex": 8247,
-          "endIndex": 8340,
-          "text": "CBCラジオ（RadiChubu）鉄道史解説（トランジスタ式電気笛の開発背景）"
+          "startIndex": 8389,
+          "endIndex": 8470,
+          "text": "日本黒板工業会（全国黒板工業連盟）の規格沿革・解説資料"
         },
         "groundingChunkIndices": [
-          13
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 8521,
-          "endIndex": 8711,
-          "text": "実は1961年にパノラマカーがデビュー運行する当日まで、一般には「ミュージックホーンが搭載されていること」は完全秘密にされていました"
+          "startIndex": 8563,
+          "endIndex": 8772,
+          "text": "昭和の給食でおなじみ、牛乳を甘くおいしくする「ミルメーク」は、愛知県名古屋市の食品メーカー（大島食品工業）が昭和42年に開発した大人気商品です"
         },
         "groundingChunkIndices": [
-          13
+          0,
+          1,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 8714,
-          "endIndex": 8801,
-          "text": "名鉄が直前まで公表しなかった意外な理由は一体どれでしょう？"
+          "startIndex": 8776,
+          "endIndex": 8976,
+          "text": "しかし、全国の学校で大ヒットしたにもかかわらず、地元である名古屋市の公立小学校では、発売から50年以上もの間、一度も給食に出ませんでした"
         },
         "groundingChunkIndices": [
-          13
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 9119,
-          "endIndex": 9243,
-          "text": "**正解：** **2番（当時は故障が多く、本番の走行中にちゃんと鳴るか保証がなかったから）**"
+          "startIndex": 9445,
+          "endIndex": 9582,
+          "text": "**2番：**「牛乳は白いまま飲むもの」という教育方針や、地元市役所に気兼ねして営業しなかったから"
         },
         "groundingChunkIndices": [
-          13
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 9283,
-          "endIndex": 9487,
-          "text": "当時のミュージックホーンは最先端のトランジスタ回路を使った電子笛だったため非常にデリケートで、試作段階では故障や音飛びが相次いでいました"
+          "startIndex": 9619,
+          "endIndex": 9819,
+          "text": "全国47都道府県で広く愛されたミルメークですが、名古屋市には「学校給食の牛乳は白いそのままの味で飲むのが基本」という指導方針がありました"
         },
         "groundingChunkIndices": [
-          13
+          1,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 9490,
-          "endIndex": 9739,
-          "text": "「鳴らします！」と大々的に宣伝して本番で鳴らなかったら格好がつかないため、運行初日にぶっつけ本番で披露され、沿線で見守っていた鉄道ファンや住民をあっと驚かせたそうです"
+          "startIndex": 10026,
+          "endIndex": 10143,
+          "text": "良いものなら市から自然に声がかかるはずだ」と遠慮して営業に行かなかったそうです"
         },
         "groundingChunkIndices": [
-          13
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10146,
+          "endIndex": 10324,
+          "text": "そんなちょっと不器用で温かいすれ違いから半世紀以上提供されず、2019年末にようやく名古屋市の給食に登場して話題を呼びました"
+        },
+        "groundingChunkIndices": [
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "\"ミュージックホーン\" 名鉄 踏切 開発理由 名古屋鉄道",
-      "刈谷ハイウェイオアシス 入場者数 デラックストイレ 歴史",
-      "香嵐渓 もみじ 三栄和尚 豊田市 飯盛山 由来",
-      "蒲郡 竹島 国の天然記念物 植物群落 なぜ 対岸と違う",
-      "名鉄 パノラマカー ミュージックホーン 誕生 理由"
+      "黒板 なぜ緑 日本黒板工業会 歴史 由来",
+      "蚊取り線香 渦巻き 理由 金鳥 大日本除虫菊 歴史",
+      "ミルメーク 大島食品工業 開発 歴史 誕生",
+      "三河木綿 歴史 蒲郡市 愛知県 由来"
     ]
   }
 }
