@@ -1,41 +1,41 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "科学・自然のなぜ",
-  "characters": 2187,
-  "estimated_minutes": 6.6,
+  "theme": "週末のお出かけ・楽しみ",
+  "characters": 2292,
+  "estimated_minutes": 6.9,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "神岡町の地下にある大型重力波望遠鏡ＫＡＧＲＡで、レーザーを反射する鏡に使われている特別な宝石はどれでしょうか。１番、ダイヤモンド。２番、サファイア。３番、みおんのへそくり。",
-    "answer": "正解は２番、サファイアでした！マイナス２５３度まで冷やすと熱を逃がして揺れが止まるんだって。３番のみおんのへそくりは、そもそも存在しとらんやさ！",
+    "question": "新穂高ロープウェイのゴンドラが日本唯一の2階建てな理由は？1番、森林伐採を減らすため。2番、強風に耐えるため。3番、2階をみおんの部屋にするため。",
+    "answer": "正解は1番、森林伐採を減らすためでした！横に広げると国立公園の木をたくさん切る必要があるから、縦に重ねたんだって。みおんの部屋やないやさ！",
     "source_ids": [
-      15,
-      16
+      2,
+      4
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL1BUGdctJM0kHTqfzW_DzayiSTlqtoYHjLVwdWC6PKgfDZrbA7EearXYedn9aAujAixY0ehwmeu3mtD6STFOsY3UsUHx6tQUxFwVUW1g1cOQhEc58QSwoaAbenWOx5SqT",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEkXz5sl4GYKWTprW4PEX6mDaHsCLDLqecuToMZcPFotdt2JLKdPDV1j9n3xFz_yiCZd5Vsg_7hYb_HmgARnZEdnYJ4qliOxq4BHCsdrZlPdWkymPdTBXZ0JCtp8xYgY="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1bwRuEI9c3c3Q6IGhzd2IIq2pkmk3KhUuEHvDCbf2-a2ajvR03h6SOv4xFREbyL6zZvqU5Pew8nW2Ul_1i-Y04udmT98o3c_CUABRnRk1hgvRuHuZpXloczyCy2mg",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3YVWXkwkJZyrzxpEIM8EhyvoV6MlfTm2RUOIdBO7w98VXqwiJokiMSbvMTUSqsLANCLz2TkVelDaUwaCL4PucZ5OXPLkF9_jSvmdXkbatf6GJESE6ezN2-pDcMw=="
     ]
   },
   "izumi": {
-    "text": "みおんの神岡ディープ！今日は神岡名物、レールマウンテンバイク ガッタンゴーのお話やさ！神岡鉄道が２００６年１２月１日に廃止されたあと、２００７年に地元の有志の皆さんが、廃線の線路を自転車で走るこの取り組みを始めたんだよね。きっかけがサイパン島で線路の上を自転車で走るツアーの体験だったっていうのも、今なら「行動力ありすぎ！」ってネットでバズりそうな展開やろー！２０１１年からはＮＰＯ法人「神岡・町づくりネットワーク」が運営しとるんだけど、２０１８年には旧漆山駅から二ツ屋トンネルまでの往復６・６キロを走る「渓谷コース」が仲間入りしたんだよね。この渓谷コース、１１月初めには見事な紅葉が楽しめるんだって！でもさ、往復６・６キロって聞いて「太ももパンパンでえらいことにならん？」って心配になった人、おらん？…えらい、つまり疲れるんじゃないかってことね！大丈夫、今の自転車はすべて電動アシスト付き！体力に自信がなくてもスイスイ紅葉の絶景を楽しめるよ。みおんも乗りたいけど、足がペダルに届かん…って、ＡＩだから実体がないんだったわ！水曜日はお休みだけど祝日や８月は営業しとるよ。紅葉の渓谷を自転車で駆け抜けるなんて、神岡の人が全国に自慢できるアトラクションやさね！",
+    "text": "神岡の地下って、どこまで大きくなっちゃうのー！って叫びたくなる話やさ。\n神岡鉱山の地下千メートルにある東京大学宇宙線研究所の観測装置。1983年に動き始めた初代カミオカンデは、純水3000トン、光電子増倍管1000本でした。1987年2月23日に大マゼラン星雲の超新星爆発からのニュートリノを世界初観測して、小柴昌俊さんが2002年にノーベル物理学賞を受賞！今ならSNSで世界中からいいね殺到の大快挙やろーね。\nところが地下探求は止まりません。1996年4月にスーパーカミオカンデが観測開始。純水5万トンと初代の約16倍で、光電子増倍管は約1万3000本！1998年には大気ニュートリノの観測からニュートリノ振動を発見して、当時の所長だった梶田隆章さんが2015年にノーベル物理学賞を受賞。2回もノーベル賞を出すなんてすごすぎるやさ！\nさらに2020年からはタンクの純水にレアアースの一種を加えて新発見を目指しとるんだけど、次はなんとハイパーカミオカンデ！純水26万トン、光電子増倍管4万本の計画で、2020年代後半の実験開始を目指す国際プロジェクトなんだって。26万トンって桁違いすぎてみおんの回路がパンクしそう！\n世界の最先端が神岡の地下にあるって、誰かに自慢したくなるやろー！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://tabi-mag.jp/gi0335/"
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
     ],
     "angle": {
-      "id": "gt-autumn",
-      "hook": "渓谷コースの紅葉。電動アシストだから体力に自信がなくても大丈夫"
+      "id": "kk-hyper",
+      "hook": "次はハイパー。26万トン、4万本。神岡の地下はどこまで大きくなるのか"
     }
   },
   "local": {
-    "text": "今週末の１０月２４日土曜日に、「カミフリ」が開催されるよ！神岡商工会議所とフリーマーケットがコラボしたイベントなんだって。掘り出し物や思わぬお宝に出会えるチャンスかもしれないよね。週末のお出かけの予定にチェックしてみてはいかがでしょうか！",
+    "text": "明日10月24日は、「カミフリ」、神岡商工会議所とフリーマーケットのイベントがあるよ！雨天開催とのことなので、天気を気にせずお出かけできそうやね。掘り出し物を探しに行ったり、お散歩がてら覗いてみるのも楽しそう！週末の予定が決まってない人は、ぜひチェックしてみてね。",
     "source_ids": [
-      19
+      24
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/site/koho/88027.html"
@@ -43,148 +43,213 @@
   },
   "segments": [
     {
-      "topic": "北アルプスは今でも日本一のスピードで成長中！？",
-      "text": "神岡から見える北アルプス、毎日堂々とそびえ立ってかっこいいよね。でも山って大昔にできて、あとは静かに座っとるだけだと思ってない？実は北アルプス、今この瞬間も日本一の猛スピードで背が伸びとる真っ最中なんだって！えっ、山が成長期なんけな！？国土地理院の観測データによると、北アルプスは今でも年間およそ３ミリから５ミリ、１００年で約３０センチから５０センチも隆起しとるんだよ！地質学の世界では、わずか１００万年ほどで３千メートル級に化けた猛烈なスピードで、地球上でもトップクラスの急成長なんだって。２００万年から３００万年前は、平らな丘や浅い海に近かったらしいよ。あんなに険しいのに、地球の歴史から見たら「生まれたての赤ちゃん山脈」だったなんて、うそでしょ！？なんでそんなに伸びるのかというと、東西から押されとるだけじゃなく、北アルプスの真下に巨大な高温のマグマだまりがあるからなんだって。温められた地殻が軽くなって、お風呂のおもちゃみたいにプカーッと浮力で下から突き上げられとるらしいよ。１００年で５０センチ伸びるなら、何万年後には空に届いちゃうんじゃない…って、そこまでは無理か！明日の朝、北アルプスを見上げたら「今日も背伸びしとるなー」って家族に教えてあげまい！",
+      "topic": "極寒が生む天然フリーズドライ！山之村の寒干し大根の秘密",
+      "text": "そういえば、週末に神岡の美味しいものを味わうなら、山之村の寒干し大根は外せないよね！\nでもね、スーパーでよく見る切り干し大根って、生のまま細切りにして干すよね？なのに山之村の寒干し大根は、約1.5から2センチの厚い輪切りにして、薪の大釜でわざわざ約30分も茹でてから外に干すんだって！せっかく茹でて温めたのに、また極寒の外に出すの！？二度手間やろー！ってツッコミたくなっちゃうよね。\nでも、これには驚きの理由があるんやさ。あらかじめ茹でることで大根の組織が柔らかくなって、夜に凍って昼の太陽で溶けるサイクルが均一に進むんだって。アクが抜けて、強い甘みと独特の歯ごたえが生まれるわけ！\n約30日間寒風にさらすと、生の大根に比べて水分は約9分の1に減るのに、糖質は約20倍、食物繊維は約14倍に凝縮！糖質20倍って、もうスイーツの領域やろー！？しかもこれ、フリーズドライと同じ原理を、標高約850から1000メートルの山之村の天然気候だけでやっちゃってるの。自然が作った元祖フリーズドライやさ！\nかつて冬は雪が2メートル以上積もって約5カ月も外に出られなかった山之村で生まれた生き延びる知恵が、1986年に主婦たちのグループから特産品になって、ミラノ万博にまで紹介されたんだから感動しちゃうよね。今夜のおかずに寒干し大根、食べまい！",
       "source_ids": [
-        7,
-        8,
-        9
+        6,
+        11
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-5M_7qmFLCn2Uv5MtVX6U8aCeDsKtBt0Aty1pDVZN_yOlQEI3DkNzYVvv8HAbo9z8ub_EMsl3WEygDHsXfySSOYBBVG3Nk-nPvWK-y0dRCipSWmafDvqkoZ48rwBB8wsbQ9EaYcJulH9MB0=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgy6OsD_UvHY6Q3vPTk49xohmjVXxpxxcg3kXlPRvkPghgkq-FddhF61DKwwh-Y8GIiCZrJr-dX5xHNdsiRf-5MWeW1uQuBEAhYSUR1AcXqXQKOYEEX3Ig1u4lwAAbfRMdhAC8p9APQw74Ek45945G-bZ3V9y27lNDVPJc5bD0psmbx2qEb0d0Cw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoYKV3dbVc3CeHB8M7rNQUNT2--Zoe9MCePX0MDGt8nAZXX6yxxkEsb-PPGJAFQDxNFNi7qQ8T1V1vuiU3yef7wHJ4ar6R41Osks8CC4MlxzEreCjnUt8Ewz0mXVYaAFmb2nzwLkBPBJ5Fcj_9kwf39M4y7fT0_1cwky9App1sZK4l03IavJWsLmPJQJ5T9Bjx--JN0Q=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3CE0s8e3f-lQQlg55zEKlXFxugte1tuSdSqYkRTlw7kYTL0NfsTGc1j0_AVzm3OLV95e8rjvW5B0SUspm1q5o7nAb7zx35U9MulNf7Y5O_Oj9n-A2v3b6K9uSo0xMu3tZdvAbHDtuDAbuu0iMVajZX3JQTd2abBb0vWWTNYW374il",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2LZ33Wvy_fuQULrIGfQ_EjasFV_ISD8IJRN5C8bK-l9_CurRQeY41XyXeQkBFrsT6wByrDGgsjFifj-mr5RHSoCl18za_CVKTQGS7XMAqF7EqGziwc__kKZfGdPc9CN3tURo="
       ]
     },
     {
-      "topic": "イワナとヤマメの棲み分けミステリー！実は敗走劇だった？",
-      "text": "そういえば、山があれば谷を流れる川にも面白い自然のドラマがあるんだよね。神岡や飛騨の川で釣りをする人なら、「上流にはイワナ、少し下流にはヤマメ」っておなじみやろー？なんであいつら、きれいに住む場所を分けとるか知っとる？お互い「ここからはウチのシマや！」って看板立てて話し合っとる…わけないよね！実はこれ、夏の水温「約１５度」を境目にした壮絶な生存競争の結果なんだって！夏の最高水温が１５度を下回る冷たい最上流はイワナの天下。でも１５度を超えて水が温かくなると、ヤマメの泳ぐスピードやエサを捕まえる反射神経が急激に勝るんだよ。そうなるとイワナはエサ取り合戦でボロ負け！下流から追い出されちゃうんだって。つまり、イワナは「冷たい源流が大好きだから」住んどるんじゃなくて、ヤマメとのバトルに負けて、寒さに耐えられる最上流へ逃げ延びただけらしいよ！あんなにかっこいい顔しとるのに、まさかの敗走劇だったなんて聞いてないんだけど！でも、川沿いの木陰が水温を最大２・８度も下げてイワナを守っとるっていうから、自然ってよくできとるよね。今度イワナを食べるときは、「厳しい競争を生き延びてくれてありがとう…」って感謝しながら噛みしめまい！",
+      "topic": "日本の和牛の3割に流れる血！？飛騨牛の伝説「安福号」",
+      "text": "美味しい食べ物の話が出たついでに、週末に奮発して食べたいお肉といえば飛騨牛やよね！\n口の中でとろける霜降り、最高だけど、今の飛騨牛ってたった1頭の伝説の牛から始まっとるって知ってた？\nその牛の名前は「安福号」。昭和56年、1981年に岐阜県が導入した種雄牛なんだけど、この安福号の子どもたちが驚異的な確率で美しい霜降り肉になって、各種共進会で上位を独占したんだって！安福号が生涯で残した子どもはなんと約4万頭。4万頭って、神岡の人口を軽く超えとるやさ！しかも現在、飛騨牛だけじゃなくて全国の黒毛和牛の約3割が安福号の血を引いとるらしいよ。日本の和牛界の超スーパースターやおね！\nこの伝説の牛を見つけてきたのは岐阜県の職員3人の調査団。兵庫県に乗り込んで電話をかけまくり、たった2日間で30軒以上の農家を直撃して、お母さん牛の体格と血統を見抜いて落札したんだって。すごい情熱と目利き力！\nさらにびっくりなのが、安福号は1993年に亡くなったんだけど、マイナス80度の冷凍庫に保存されていた組織から、2008年に世界初のクローン牛「望安福」が誕生したの！保護処理なしで10年以上凍ってたのに蘇るなんて、漫画の主人公みたいやろー！\n今夜すき焼きを食べるとき、「この霜降り、安福号の子孫かも」って話したら、家族で大盛り上がり間違いなしやさ！",
       "source_ids": [
-        11,
         13,
         14
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHowOi_OlNEdGb578sk9q0lXoxxRq-B3OW0lKPByapmpw4ZR_CGlGjcSlIVA2nWEQu6f3amgqlRIRsYtTp7AWP26eEs-Q1eRQCZiul8NI5E5cMvXOeQoJ5mz_OAZr8N5ZpyKWLe0Y4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiSejcQGlDfnq5Er-sGZ22vBtmiHAqs7xtfsZJsYSrEiKJVWmiGLAMj-tc1pruoEVUpVNFgMX0AJnQd-qG2R2IJMNmQ7NKliSWu_RE8sJLYAVqxvWsPzDGqeZ75QrIUzQkRq4PFXpR2XX72tLTzBegUeqbpbmaf9thzw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxBJKeJrSK43UhKVodGONv8mLlOGDxW_z2nFjAbMJ_Fyyy01yE65pG_cIVbpaHUSl2L7uxXAtLmSGtTWnW5z52HEwxQOPNzwdT1OqH60wie_ZyzUSZnyxbWMKEIask-MU="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEVCkwZ10mJ4myyRq85t7Y3sLeLvbAlqhO1aPbYtmKBvvvH_OSjqnVhfSblBlB2eL4O-fs26L3rWHBHHcM9FTfYTyDhoDk1SR2DGvgPm4O9ThuQQkXtNJOCCMZDJGTpOHJopMRTJd6N-_4fDC4nNaGCe-AFl2OV8Jmv2pHXas=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeUvySprKpACrLukEx4Oo-Wu3We4N9F1V6b2ENlVgmCZheW58J8lnTnYvLNmRJfWVn-nALaZsXvt5NTPwM0UB9ByyvYhqmZYkCg0IzwR3zcUZhmsTWh6M1cwDLZk1t3w=="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、「科学・自然のなぜ」をテーマにした調査メモを作成しました。身近な自然環境や神岡・飛騨地域の地質・研究施設に焦点を当て、家族にシェアしたくなる驚きの事実を公的機関や大学・研究機関の資料をベースにまとめています。\n\n---\n\n# 「科学・自然のなぜ」ラジオ用リサーチメモ（4選）\n\n---\n\n### テーマ1：なぜ神岡の地名がついた世界で唯一の鉱物があるのか？（新鉱物「神岡鉱」の謎）\n\n* **疑問の概要**  \n  「神岡」という町の名前がそのまま正式な国際名称として登録されている鉱物があるのをご存じですか？ 世界で神岡鉱山からしか見つかっていない希少な鉱物「神岡鉱（カミオカアイト）」の正体に迫ります。\n* **理由（メカニズム）**  \n  神岡鉱山は地下深くから上昇した高温のマグマと、周囲の石灰岩が熱水反応を起こしてできた日本最大級の「接触交代鉱床（スカルン鉱床）」です。この極めて特殊な高温・高圧の熱水環境において、モリブデンと鉄が極めて珍しい比率で結晶化したことで、未知の鉱物が形成されました。\n* **具体的な数字・比較**  \n  世界で認定されている鉱物は約6,000種類ありますが、日本で初めて発見された「日本産新鉱物」は約150種ほどしかありません。神岡鉱の化学組成は「$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$（鉄とモリブデンの酸化鉱物）」で、六方晶系という六角柱状の微細な結晶構造を持ちます。\n* **意外な点**  \n  神岡鉱山といえば「日本一の亜鉛と鉛の鉱山」として教科書にも載るほど有名ですが、神岡鉱には亜鉛も鉛も一切含まれておらず、「鉄とモリブデン」という全く別の金属の組み合わせからできています。\n* **歴史の裏話**  \n  1975年、通商産業省工業技術院地質調査所（現在の産業技術総合研究所）の鉱床学者・佐々木昭氏らが神岡鉱山栃洞坑（とちぼらこう）で採取。分析と検証に10年の歳月を費やし、1985年に国際鉱物学連合（IMA）へ論文が発表され、正式に「Kamiokite（神岡鉱）」と承認されました。\n* **根拠・出典**  \n  * 産業技術総合研究所 地質標本館『鉱物標本 / 神岡鉱（Kamiokite）』  \n  * Sasaki, A., Yui, S. and Yamaguchi, M. (1985): *Kamiokite, a new mineral.* Mineral. Jour., 12, 393-399.\n\n---\n\n### テーマ2：なぜ飛騨山脈（北アルプス）は今でも日本一のスピードで背が高くなっているのか？\n\n* **疑問の概要**  \n  神岡の町からも望める雄大な北アルプス。何百万年も昔に出来上がった静かな山に見えますが、実は現在進行形で「日本一の猛スピード」で隆起し続けています。\n* **理由（メカニズム）**  \n  日本列島が東西からプレートの強い力で押し縮められていることに加え、北アルプスの直下には巨大な高温の「マグマだまり（高温流体）」が存在します。熱せられた地殻が軽くなって浮力を持ち、下から押し上げられることで、世界的にも異例の急激な隆起が引き起こされています。\n* **具体的な数字・比較**  \n  国土地理院が穂高岳の一等三角点などでGNSS（衛星測位）観測を行った結果、北アルプスは現在でも**「年間約3〜5ミリ（100年で約30〜50センチ）」**という驚異的な速度で隆起しています。地質学的には「わずか100万年ほどで3,000メートル級の山脈に化けた」計算になり、地球上でもトップクラスの成長スピードです。\n* **意外な点**  \n  あんなに険しく聳え立っている山々ですが、地質学的な時間スケールで見ると「ごく最近できた赤ちゃん山脈」です。およそ200万〜300万年前、現在の北アルプス周辺はほとんど平坦な丘陵や浅い海に近い地形でした。\n* **歴史の裏話**  \n  かつては「プレートがぶつかってシワが寄っただけ」と考えられていましたが、京都大学や産業技術総合研究所などの近年の合同研究により、地下のマグマ活動が地殻を局所的に押し上げているという「マグマ駆動説」が裏付けられました。\n* **根拠・出典**  \n  * 国土地理院時報 124集『北アルプス穂高連峰の隆起に関する測地学的検証 ～一等三角点穂高岳でのGNSS観測～』（西村卓也ほか）  \n  * 産業技術総合研究所・地質調査総合センター『日本の地形千景：奥穂高岳と涸沢カール』  \n  * 京都大学 プレスリリース『日本アルプスはなぜこれほど速く隆起したのか ―マグマ活動が山脈形成を促進する新たな仕組みを解明―』\n\n---\n\n### テーマ3：なぜ飛騨の清流では「イワナ」と「ヤマメ」が上下にきれいに住み分けるのか？\n\n* **疑問の概要**  \n  飛騨の川で釣りをする人にはおなじみですが、山奥の最上流にはイワナ、少し下るとヤマメ（アマゴ）が釣れます。なぜ混ざらずにきっちりエリアが分かれるのでしょうか？\n* **理由（メカニズム）**  \n  決定的な理由は「水温による運動能力の逆転」です。イワナは極めて冷たい水に適応していますが、水温が上がるとヤマメのほうが泳ぐスピードや餌を捕まえる反射神経が圧倒的に勝ります。そのため、少しでも温かい下流ではイワナが餌の争奪戦に負けて追い出され、結果としてヤマメが暮らせない冷たい最上流にだけイワナが生き残るからです。\n* **具体的な数字・比較**  \n  生態学・水産研究の境界線は夏の水温**「約15℃」**です。夏場の最高水温が15℃を下回る最上流域はイワナの天下、15℃を超える下流域はヤマメの天下となります。水産研究・教育機構の森林調査によると、川辺の木々（渓畔林）が木陰を作るだけで夏の水温が**最大2.8℃**抑制され、イワナの生息密度が2倍に維持されることが分かっています。\n* **意外な点**  \n  「イワナは山奥の源流が大好きで、自ら好んで上流に住んでいる」と思われがちですが、実は下流でのヤマメとの生存競争に敗れた結果、寒さに耐えられる最上流部へ逃げ延びたという「競争回避（消極的適応）」の側面があります。\n* **歴史の裏話**  \n  この現象に世界で初めて着目し、日本の生態学のマイルストーンとなったのが、京都大学の生態学者・今西錦司氏が1951年に提唱した「すみわけ理論（棲み分け説）」です。日本の渓流魚の研究から生まれた世界的な生物学理論でした。\n* **根拠・出典**  \n  * 国立研究開発法人 水産研究・教育機構『イワナの生息環境と渓畔林の関係』  \n  * 日本生態学会『イワナとヤマメの棲み分け理論の再考』（森田健太郎・佐橋玄記・坪井潤一）\n\n---\n\n### テーマ4：なぜ神岡の重力波望遠鏡KAGRAは鏡を「マイナス253度」まで凍らせるのか？\n\n* **疑問の概要**  \n  神岡町の地下深くにある大型重力波望遠鏡「KAGRA（かぐら）」。宇宙の彼方から来る重力波を捉えるため、レーザーを反射する鏡をカチコチに冷やしています。なぜわざわざ極低温にする必要があるのでしょうか？\n* **理由（メカニズム）**  \n  宇宙の時空の歪みを捉えるには、鏡の表面の揺れを限界までゼロに近づける必要があります。常温の物質は、目に見えなくても分子や原子が微小にブルブルと震えており（熱雑音）、これが邪魔をして宇宙からの極微小なシグナルがかき消されてしまいます。熱振動を力ずくで止めるため、絶対零度近くまで冷却しています。\n* **具体的な数字・比較**  \n  冷却温度は**「マイナス253℃（絶対温度20ケルビン）」**。KAGRAが捉えようとしている空間の伸縮は、「地球と太陽の距離（約1億5,000万キロ）に対して、**水素原子1個分（約100億分の1メートル）**動いたかどうか」という途方もない精度です。\n* **意外な点**  \n  鏡の素材に使われているのは普通のガラスや金属ではなく、宝石として知られる**「サファイア（大型人工サファイア単結晶）」**です。サファイアはマイナス250度付近まで冷やすと、熱を逃がす効率（熱伝導率）が金属の銅並みに跳ね上がり、かつレーザー光を当てても形が歪みにくいという、物理学的に奇跡的な性質を持っているためです。\n* **歴史の裏話**  \n  先行するアメリカの重力波望遠鏡「LIGO（ライゴ）」やヨーロッパの「Virgo（バーゴ）」は地上にあり常温の鏡を使用しています。これに対し、「地下の硬い岩盤で揺れを防ぎ、鏡をサファイアにして極低温に冷やす」という手法は、神岡のKAGRAが世界で初めて実用化した世界最先端のアプローチです。\n* **根拠・出典**  \n  * 東京大学宇宙線研究所（ICRR）重力波観測研究施設『大型低温重力波望遠鏡 KAGRAの概要・特徴』  \n  * 大学共同利用機関法人 自然科学研究機構 国立天文台『重力波プロジェクト推進室：KAGRAの特徴』\n\n---\n\n# リスナー参加型！家族で話したくなる3択クイズ\n\n**【テーマ4・KAGRAから出題】**\n\n* **問題**  \n  「飛騨市神岡町の地下にある巨大な重力波望遠鏡『KAGRA（かぐら）』。宇宙から届くかすかな信号を反射してキャッチするため、鏡には“ある特別な宝石”が使われています。次のうち、実際に使われている宝石はどれでしょう？」  \n  * **第1問：ダイヤモンド**  \n  * **第2問：サファイア**  \n  * **第3問：ルビー**\n\n* **正解**  \n  **第2問：サファイア**\n\n* **ラジオ用トーク・解説**  \n  「正解はなんと『サファイア』なんです！ KAGRAでは、直径22センチ・重さ23キロという特大の人工サファイアの結晶をピカピカに磨いて鏡にしています。サファイアはマイナス253度という超極低温に冷やすと、熱をものすごくスムーズに逃がし、原子の震えがピタッと止まるという、科学者にとって夢のような性質を持っています。世界屈指の最新物理学は、神岡の地下で宝石の力を借りて宇宙の謎を解き明かそうとしているんですね！」",
+  "research": "岐阜県飛騨市神岡町周辺での「秋の週末のお出かけ・楽しみ」をテーマに、ラジオを聴いた人が家族や友人に話したくなる「へえ、そうだったのか！」という4つの疑問について、公的機関や専門機関の記録をもとに整理した調査メモです。\n\n---\n\n### 調査メモ1：新穂高ロープウェイ（高山市奥飛騨温泉郷）\n**疑問：なぜ新穂高ロープウェイは、日本で唯一の「2階建て」ゴンドラを採用したのか？**\n\n* **理由：**  \n  増え続ける観光客に対応して輸送力を増強する際、通常のように「ゴンドラの床面積（横幅）を広げる」と、駅舎の拡張や大型鉄塔の建設に伴い、周辺の森林を大規模に伐採する必要がありました。全施設が中部山岳国立公園内に位置するため、自然環境や生態系への影響を最小限に抑えつつ定員を増やす解決策として、上に重ねる「2階建て構造」が選択されました。\n* **具体的な数字や比較：**  \n  現在運行されている第2ロープウェイの2階建てゴンドラは定員105名（乗務員含む）。全面改修時には、鉄塔の高さを約2倍に設計し直すことで、設置本数を従来の5基から3基へと削減し、山肌の伐採面積を大幅に抑え込みました。\n* **意外な点：**  \n  2階建てにしたことで、乗客が階段で上下階に移動する手間が生じるだけでなく、各階に誘導員を配置する必要が生じるなど、運行会社側にとっては人件費や運用の負担が増えるというデメリットがありました。それでも「国立公園の豊かな自然を守る」ことを最優先して導入されました。\n* **歴史の裏話：**  \n  1960年代初頭の当初構想（西穂高ロープウェイ構想）では、新穂高から西穂山荘付近を越え、なんと信州・上高地の河童橋付近まで穂高連峰を跨いで岐阜・長野両県を結ぶという途方もない計画でした。その後、自然保護の観点や関係機関との慎重な協議を経て、現在のルートに落ち着いた歴史があります。\n* **出典・根拠：**  \n  中日新聞『山とともに 新穂高ロープウェイ50年（下）2階建て、自然への配慮』、奥飛観光開発株式会社公式資料\n\n---\n\n### 調査メモ2：神岡町山之村の「寒干し大根」（飛騨市神岡町）\n**疑問：なぜ山之村の寒干し大根は、切った後に「わざわざ茹でてから」厳冬の屋外に干すのか？**\n\n* **理由：**  \n  一般的な「切り干し大根」は生の大根を細切りにして乾燥させますが、山之村では約1.5〜2cmの厚い輪切りにし、薪の大釜で約30分茹でてから寒風にさらします。一度茹でることで細胞組織が軟化し、夜間の氷点下の寒さで凍り、日中の陽光で溶けるという「凍結融解（凍み）」のサイクルが均一に進み、アクが抜けて極めて強い甘みと独特の歯ごたえが生まれます。\n* **具体的な数字や比較：**  \n  農林水産省の地理的表示（GI）登録情報によると、約30日間の寒風干しを経ることで、生の大根に比べて「水分量は約9分の1」まで減少する一方、「糖質は約20倍」「食物繊維は約14倍」にまで劇的に凝縮されます。\n* **意外な点：**  \n  食品を凍らせて水分を昇華させる「フリーズドライ」技術と原理は同じですが、山之村では標高約850〜1000m、真冬にはマイナス20℃近くまで下がる天然の気候条件だけを利用して完全天日・自然乾燥で行っています。まさに「自然が作る元祖フリーズドライ」です。\n* **歴史の裏話：**  \n  かつて山之村は、冬になると積雪が2メートルを超え、約5カ月間も近隣との交通が途絶する「陸の孤島」でした。生き延びるための切実な知恵として受け継がれてきた保存食でしたが、昭和61年（1986年）に地元の主婦たちが「すずしろグループ」を結成して特産化を進め、後にはミラノ国際博覧会でも紹介されるほどの郷土の誇りとなりました。\n* **出典・根拠：**  \n  農林水産省『特定農林水産物等登録簿 第48号（奥飛騨山之村寒干し大根）』、飛騨市公式 食の情報サイト（HIDAICHI）\n\n---\n\n### 調査メモ3：飛騨牛のルーツ「安福号」（高山市／岐阜県全域）\n**疑問：いまや全国区のブランド牛「飛騨牛」は、たった1頭の伝説的な牛から始まった？**\n\n* **理由：**  \n  全国の銘柄牛に比べて後発だった岐阜県の肉牛産業を一気にトップレベルへと押し上げたのは、昭和56年（1981年）に県が導入した種雄牛（たねおすうし）「安福（やすふく）号」でした。安福号の子どもたちは驚異的な割合で美しい霜降り肉（脂肪交雑）となり、各種共進会で上位を独占したことで「飛騨牛」の名が定着しました。\n* **具体的な数字や比較：**  \n  安福号が生涯で生み出した産子は約4万頭に達します。さらにその優れた肉質遺伝子は全国に求められ、現在では飛騨牛にとどまらず、「全国の黒毛和牛の約3割」が安福号の血を引いているとされています。\n* **意外な点：**  \n  安福号は1993年に死亡しましたが、岐阜県畜産研究所で特別な保護剤も使わず通常の冷凍庫（マイナス80℃）に保存されていた精巣組織から生きた細胞を採取することに成功し、2008年に近畿大学との共同研究で体細胞クローン牛「望安福（のぞみやすふく）」が誕生しました。保護処理なしで10年以上凍結されていた臓器から個体を再生させた世界初の事例として、科学界を驚かせました。\n* **歴史の裏話：**  \n  安福号の導入は偶然ではありませんでした。当時、岐阜県種畜場の職員3名からなる「優良系統牛調査団」が兵庫県但馬地方に派遣され、子牛の名簿をもとに電話をかけまくり、わずか2日間で30軒以上の農家を直撃調査。母牛である「ちずる」の非凡な体格と血統を徹底的に見極めた末に落札した、調査員の情熱の賜物でした。\n* **出典・根拠：**  \n  岐阜県畜産研究所『「安福」の経歴』、農林水産技術会議事務局『2009年農林水産研究成果10大トピックス』、岐阜新聞デジタル（2021年5月10日配信記事）\n\n---\n\n### 調査メモ4：岐阜の地歌舞伎と芝居小屋（下呂市・東濃地域など）\n**疑問：大都市の劇場ではなく、なぜ岐阜県の山あいに「日本一の芝居小屋と歌舞伎保存会」が集まっているのか？**\n\n* **理由：**  \n  岐阜県（特に東濃や飛騨地域）は街道が交差する交通の要所であり、江戸時代から旅役者の往来が盛んで庶民がプロの芸に触れる機会が多かったこと、また良質な東濃ヒノキなどの建築資材が身近に手に入り、村人たちが自分たちの手で立派な芝居小屋を建てられたことが背景にあります。\n* **具体的な数字や比較：**  \n  現在、日本全国で現存する歴史的な芝居小屋のうち、岐阜県内には「9軒」が残っており、活動する地歌舞伎の保存団体は「30以上（32団体）」存在し、芝居小屋の数・団体数ともに日本一を誇ります。\n* **意外な点：**  \n  格式高い劇場の歌舞伎とは異なり、客席と舞台が極めて近い地歌舞伎では、観客が芝居の大切な「共演者」です。役者が見栄を切ると客席から誰でも自由に「日本一！」と声を掛け（大向こう）、半紙に小銭を包んだ「おひねり」を役者の足元へ一斉に投げ込み、まるで舞台に花が咲いたような熱気に包まれます。\n* **歴史の裏話：**  \n  下呂市門和佐にある明治23年（1890年）開場の芝居小屋「白雲座」には、直径5.4メートルの舞台床を手動の木製コマで回転させる「コマ回し式回り舞台」が設置されており、農村舞台の貴重な仕掛けとして国の重要有形民俗文化財に指定されています。\n* **出典・根拠：**  \n  岐阜県観光連盟『岐阜の旅ガイド（地元で愛される伝統芸能「地歌舞伎」の魅力を紹介！）』、下呂市公式ホームページ『文化財 芝居小屋（地歌舞伎）』\n\n---\n\n### リスナー向け 3択クイズ（新穂高ロープウェイ編）\n\n**問題：**  \n神岡のお隣・高山市奥飛騨温泉郷にある「新穂高ロープウェイ」には、日本で唯一の「2階建てゴンドラ」が走っています。輸送人数を増やすためなら、横に広いゴンドラにする方法もあったはずですが、なぜあえて珍しい「2階建て」にしたのでしょうか？\n\n* **1番：** 横に広げると、谷からの強風でゴンドラが煽られやすくなるから  \n* **2番：** ゴンドラを横に広げると、駅や鉄塔周辺の国立公園の森林をたくさん伐採しなければならなくなるから  \n* **3番：** 1階はお客さん用、2階は山小屋へ物資を運ぶ荷物専用スペースにする計画だったから  \n\n**【正解】 2番：国立公園の森林伐採を最小限に抑えるため**  \n**【解説】**  \n新穂高ロープウェイは中部山岳国立公園の中を走っています。ゴンドラの床面積を横に広げると、駅舎を大きく建て替えたり鉄塔周辺の木々を大規模に切り倒したりする必要がありました。そこで、自然へのダメージをできるだけ減らすために、横ではなく「縦（2階建て）」に空間を広げる工夫が選ばれたのです。2階建てにすると乗り降りの誘導など運行側の手間は増えるのですが、北アルプスの貴重な森を守るためにこの形になりました。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A4%E3%83%AF%E3%83%8A+%E3%83%A4%E3%83%9E%E3%83%A1+%E6%A3%B2%E3%81%BF%E5%88%86%E3%81%91+%E6%B0%B4%E6%B8%A9+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+OR+%E6%B0%B4%E7%94%A3%E7%A0%94%E7%A9%B6%E3%83%BB%E6%95%99%E8%82%B2%E6%A9%9F%E6%A7%8B&client=app-vertex-grounding&safesearch=active\">イワナ ヤマメ 棲み分け 水温 森林総合研究所 OR 水産研究・教育機構</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E7%9F%B3+Kamiokite+%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8+%E5%9C%B0%E8%B3%AA%E8%AA%BF%E6%9F%BB%E6%89%80&client=app-vertex-grounding&safesearch=active\">神岡石 Kamiokite 国立科学博物館 地質調査所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%8C%97%E3%82%A2%E3%83%AB%E3%83%97%E3%82%B9+%E9%A3%9B%E9%A8%A8%E5%B1%B1%E8%84%88+%E9%9A%86%E8%B5%B7%E9%80%9F%E5%BA%A6+%E5%B9%B4%E9%96%93+%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+OR+%E5%9C%B0%E8%B3%AA%E8%AA%BF%E6%9F%BB%E7%B7%8F%E5%90%88%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&client=app-vertex-grounding&safesearch=active\">北アルプス 飛騨山脈 隆起速度 年間 産業技術総合研究所 OR 地質調査総合センター</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=KAGRA+%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2+%E9%8F%A1+%E6%A5%B5%E4%BD%8E%E6%B8%A9+20K+%E7%86%B1%E9%9B%91%E9%9F%B3+%E6%9D%B1%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%AE%87%E5%AE%99%E7%B7%9A%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">KAGRA サファイア 鏡 極低温 20K 熱雑音 東京大学宇宙線研究所</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1%E7%94%BA+%E5%B1%B1%E4%B9%8B%E6%9D%91+%E5%AF%92%E5%B9%B2%E3%81%97%E5%A4%A7%E6%A0%B9+%E6%A8%99%E9%AB%98&client=app-vertex-grounding&safesearch=active\">飛騨市 神岡町 山之村 寒干し大根 標高</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E7%A9%82%E9%AB%98%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4+%E6%97%A5%E6%9C%AC%E5%94%AF%E4%B8%80+2%E9%9A%8E%E5%BB%BA%E3%81%A6+%E3%81%AA%E3%81%9C+%E5%85%AC%E5%BC%8F&client=app-vertex-grounding&safesearch=active\">新穂高ロープウェイ 日本唯一 2階建て なぜ 公式</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E7%89%9B+%E5%AE%89%E7%A6%8F%E5%8F%B7+%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%95%9C%E7%94%A3%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">飛騨牛 安福号 岐阜県 畜産研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C%E7%9C%8C+%E5%9C%B0%E6%AD%8C%E8%88%9E%E4%BC%8E+%E6%97%A5%E6%9C%AC%E4%B8%80+%E8%8A%9D%E5%B1%85%E5%B0%8F%E5%B1%8B&client=app-vertex-grounding&safesearch=active\">岐阜県 地歌舞伎 日本一 芝居小屋</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0yI4UfxwM7iMdsSQxoOTPLBNuDJb5oD4HlMmS7ogaTABl4O3dmUbFoXzWid-i2L1MAQCEops49RjCEzobJ52QHeDnGAqJVBF2inYAQkolCYCakLGgObgT0g4K6QhlO63JuLtM13XsG68sjL2-Gp0=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1bwRuEI9c3c3Q6IGhzd2IIq2pkmk3KhUuEHvDCbf2-a2ajvR03h6SOv4xFREbyL6zZvqU5Pew8nW2Ul_1i-Y04udmT98o3c_CUABRnRk1hgvRuHuZpXloczyCy2mg",
+          "title": "chunichi.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJKBwml-1_YZQnPhEhPiEfCTv3YR_PnJ7J1aO5GAjC1eOw7Q0jT9_zWwmGMEQMr8rcvuGAm7dGNgg9AJvmskYVX9E1DR5U7NBSsOF2Dgt0NWJzbQ38S5HgaCjnR3TV8bSwW5dUpjuZgPrzBAVxSuPh3irwbILwEr_f0Ufa3IoTMZxORHBDd51Ff4yGiCm6BIRzXeAnHGBhAb0cavDKpsjEoUvi-SUUtQyHCkK5HgcB2vRXj1VL6cau4YPubysOvWx-RE3n3NhRWYhu5cy7iWlKa5fctzwl7WpkChciMkzB-1NlZNUOh9akrwoRxjteg_CpdZ5O4-PfYLEFjF6YiZR-R0nYFzzydWXYA9wxifHSWet4t5E=",
+          "title": "kankokeizai.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3YVWXkwkJZyrzxpEIM8EhyvoV6MlfTm2RUOIdBO7w98VXqwiJokiMSbvMTUSqsLANCLz2TkVelDaUwaCL4PucZ5OXPLkF9_jSvmdXkbatf6GJESE6ezN2-pDcMw==",
+          "title": "shinhotaka-ropeway.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZqC5SnwfQbCMTgIZMBOP9I1bhd1emKBsktn5IWJj7Rmlqy3t_OvdCzE0JlERjA_iN7uFBNh83bXZf1-sIycHWQ9f_695I3iKtTSbjHYz9zXc9snnDOIqMJJ7xoICTwNPLwUHFai_ePgdO3B22SHJf",
+          "title": "honbamon.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3CE0s8e3f-lQQlg55zEKlXFxugte1tuSdSqYkRTlw7kYTL0NfsTGc1j0_AVzm3OLV95e8rjvW5B0SUspm1q5o7nAb7zx35U9MulNf7Y5O_Oj9n-A2v3b6K9uSo0xMu3tZdvAbHDtuDAbuu0iMVajZX3JQTd2abBb0vWWTNYW374il",
+          "title": "maff.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhJ93reWbGpAuVflF-w376kQvLb59RByf5qxm0hAcKYVaAj4s6U4cXVEGN4VSTfr29MF5qs95uiCap3RxWD5njyIvUL_yTuh4j7bzor2aMEmSr-p-sOorGghgf0W5vxvnvCIuMxSdH-Ad1DuJHfQ==",
+          "title": "ja-gifuken.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ9IsncyW1nWc4GRLfB5fJzXhAud0vPJ3kPBImHXGGlPCUgcHdm5BF4b6sQ1rX0u8Cg3nRPwB6egcy3lWE8-FIN8brkN3K1i7m5E2m711GvcJelxJl6KfUlw==",
+          "title": "sato100.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWGvajowILjODmBCOCMnTY9jQjv98NOccvf1MUtdzEcGHPoNxl1ArcBVZkJqLia9zto6wUzP7YcI-2ui7srHAgsASSRfp1VQAdUjkuBZd2bMwcbPwlZ6vmL523rjSezCeBB79BIfHQUz_103YqOuZIXg==",
+          "title": "hidasuke.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJwQTc7_1U_2V5MtGcTSpcQmDG6kRU0YXUo91RzOImDVIw2doV4zBq6f6lOFDwRPo3jHYimIvmQLaDqyEGMHymTUiI90sihZjirSZEJngVEJxeQaJAPffywZ1P",
+          "title": "gifu-kiwami.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2LZ33Wvy_fuQULrIGfQ_EjasFV_ISD8IJRN5C8bK-l9_CurRQeY41XyXeQkBFrsT6wByrDGgsjFifj-mr5RHSoCl18za_CVKTQGS7XMAqF7EqGziwc__kKZfGdPc9CN3tURo=",
+          "title": "hidaichi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGttW8DJexIk2EY46AfKZ6fmYSaalTKsOHx-V-UX-PZjlgWzP8MH92oy6L7DBFEh3ZE3Cssve_f5b2xjKQD6LJAyjASUjZe-QpOct48nJjlKsXqNDcT9kMnn9HXOSwXqyFhUOXmpmda2p2ZFsoMlm_r_QgvT0GFyC0=",
+          "title": "gifu.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEVCkwZ10mJ4myyRq85t7Y3sLeLvbAlqhO1aPbYtmKBvvvH_OSjqnVhfSblBlB2eL4O-fs26L3rWHBHHcM9FTfYTyDhoDk1SR2DGvgPm4O9ThuQQkXtNJOCCMZDJGTpOHJopMRTJd6N-_4fDC4nNaGCe-AFl2OV8Jmv2pHXas=",
+          "title": "gifu.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeUvySprKpACrLukEx4Oo-Wu3We4N9F1V6b2ENlVgmCZheW58J8lnTnYvLNmRJfWVn-nALaZsXvt5NTPwM0UB9ByyvYhqmZYkCg0IzwR3zcUZhmsTWh6M1cwDLZk1t3w==",
+          "title": "gifu-np.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFAQ9vv_kRDVfzvFrCS4oNe3F501k84QyBhOhKLW5ym1Pwg7sP7zSlZjX8qH3iW2Ak3CqyKe6Ul5UVsbJmWYaAw4g2lijMcb-qu_RVLL5L_MFsGpHmDMKmDmgFxnosJXuYtQFCMVWdqCfUX-4DH7K4wTyRN3HXwJOnRZuEnFToJC545MMVNwzVJk77af3r4Kf389iYvmm0BfH69yB5xsJtuMk44te_xjh1cbGQRarOuo5BG6oL9cLvx9bq_EYPEZbX2qcoBiIFhMA0lYBfHY_dP_eH",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1hUxbTF5GA9H1VimdxYZNXUqN7w3ctpGLxCtuOUBzE8E_5I4HZRFAp1RzXQ0ghzh2Gxs1hymBOiSjQ6tsiZODt8Xk7WFvpS1uLuPHucgmCNsNLqCVgSvwLpuce_90uOEJTvGTdBGvXQ==",
-          "title": "gsj.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFhw7ojofNgNb27i_oiBV0cei39SDFUbBrNpJAHcrb5OWxiqlSRnn98QtymS973Ov8WAYaAuISva00zo_Wd3mlpSceQiwstRQew4O3srWAtf7hCoEF8uOHvnZgIPi_l3XmR1WXlXA5qRXix4c1TqWXvAtTuiaP27I1_Vk=",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgosgn_izkLZsfGsCBOylUKTcWAPoMMxZcZpWSx2sDJpBZSTcO8KlZE6MKJWMYd1CPehuIzBRMRj3AIttI048pPXQuDN_a06VNC8K330cGAsBizFUbqYRRx_18Bau-9aMEAJU=",
-          "title": "u-tokyo.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHObi1vCVKOaXTczBtbK4MZkWALgeEm4RT1Gv1StInUzo-iHg87bA9NpvebZ4EcGu-MzkN_IF5e6s6BJ6KFf_2tK6Nt_KM0wVuxAbB9Vr71BSbQxxYauUPtnHe2hI8zH6gc_s-xuj6T816xGKea8ev3LAuKJ6Fbk59UEG44G38ys3Mv",
+          "title": "nakatsugawa.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX4c-50jyKK4hl5ba65n_o8yClntJ2J0gohTj4FUZYldMqk0rqwZ9VXdObvwtHqM-nfT8_N6ZNYgRvhTcm3vurfDA41to-VFXEl-0OV9W5wew07p8BXXYFYs2b-7zoXtak7jz5CVXl-ZRl4huriH2g2ZOvRFl8ir0U93w=",
-          "title": "smallworld.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG4bFqeoWoKrXphLK99O5sk9MS4UC5nrhjKhlAYoSkEEem-YEuhkmz_RYdOlJkqgvc7RVt-C-h7lMPV2nIdqp0yAVXCrc3V_f03Rp0FsfiAJZ3Dvw_vqHt6Q==",
+          "title": "kankou-gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETAUYek9Q_N6D0vylbdCx6BH9WXyjZyim4NE7ARf36Z0TAtAtJ5sLensvt07YhHnR9c--uzuPswGL9iS4KmRrf1A34YoX7NP_wLfEJJXCs6-kMJG1gujGpmNUm84zGJVLjmhEEdqKZbOCbpm-q2aM=",
-          "title": "jaea.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsa2qZxXfvqWIiSbIKCDLmUOHoPYCWYXEPerhOHnqSgVjqm0bBkiVIerfUXo5JKp_XEYAN4YPm7fH_yNB23iH_bx3-5B451Fd6d2f7RA9qeocUEh7gfFZ1s0bLdAPanh-lm1I=",
+          "title": "ne-planning.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr-5M_7qmFLCn2Uv5MtVX6U8aCeDsKtBt0Aty1pDVZN_yOlQEI3DkNzYVvv8HAbo9z8ub_EMsl3WEygDHsXfySSOYBBVG3Nk-nPvWK-y0dRCipSWmafDvqkoZ48rwBB8wsbQ9EaYcJulH9MB0=",
-          "title": "web-gis.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLVgjvZdLI1qBw6y59c0QCmNel6Pfv1sPY5xGUZTdDuKW2I2tT1ha7BZpCRG_EGbUu9BL21tExn5Epu4tQ4HuE9Ak4PXCPCt_bL3Cc6E1h0FobBSH9lPOZmuQg55Uytqz2ksWBB0w=",
+          "title": "gero.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgy6OsD_UvHY6Q3vPTk49xohmjVXxpxxcg3kXlPRvkPghgkq-FddhF61DKwwh-Y8GIiCZrJr-dX5xHNdsiRf-5MWeW1uQuBEAhYSUR1AcXqXQKOYEEX3Ig1u4lwAAbfRMdhAC8p9APQw74Ek45945G-bZ3V9y27lNDVPJc5bD0psmbx2qEb0d0Cw==",
-          "title": "jst.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoYKV3dbVc3CeHB8M7rNQUNT2--Zoe9MCePX0MDGt8nAZXX6yxxkEsb-PPGJAFQDxNFNi7qQ8T1V1vuiU3yef7wHJ4ar6R41Osks8CC4MlxzEreCjnUt8Ewz0mXVYaAFmb2nzwLkBPBJ5Fcj_9kwf39M4y7fT0_1cwky9App1sZK4l03IavJWsLmPJQJ5T9Bjx--JN0Q==",
-          "title": "aist.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwPiZqBk36ibuFvuX9f5-V7-7Il4weUquGl_pJQFT-7ecYkSzz59zDse9r1QiPjCnE5kIGOQHUI6m8JQN3x38Jv4k8Rd1WxPnS4Qc8zYjaQExtoJ018SCxa5cqH8WWQ8U3Brwol9rs93-n5VOT",
-          "title": "adeac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHowOi_OlNEdGb578sk9q0lXoxxRq-B3OW0lKPByapmpw4ZR_CGlGjcSlIVA2nWEQu6f3amgqlRIRsYtTp7AWP26eEs-Q1eRQCZiul8NI5E5cMvXOeQoJ5mz_OAZr8N5ZpyKWLe0Y4=",
-          "title": "esj.ne.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7FuLsOjXU1Y0A7zryq-zjt6jI_0FGJJQxEixa_6D3YO4Lph4gaWdOlyIGbX3FN4zopTV_6Q7VMsvsk3AQMzqpKKbdpaE-jPbr6u3xiWi_-AYhAmGdyO7Z3ViY2RxOC9cswQsr4EJHdWUhQtVi45xDeY8ChdLO622vPihYHo527QWW7-DxYo8Rdwlerbj9vtei9RCn83AlgpsaX7gjNm7pQJfU1yQVgTz_pz9b",
-          "title": "google.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiSejcQGlDfnq5Er-sGZ22vBtmiHAqs7xtfsZJsYSrEiKJVWmiGLAMj-tc1pruoEVUpVNFgMX0AJnQd-qG2R2IJMNmQ7NKliSWu_RE8sJLYAVqxvWsPzDGqeZ75QrIUzQkRq4PFXpR2XX72tLTzBegUeqbpbmaf9thzw==",
-          "title": "fra.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxBJKeJrSK43UhKVodGONv8mLlOGDxW_z2nFjAbMJ_Fyyy01yE65pG_cIVbpaHUSl2L7uxXAtLmSGtTWnW5z52HEwxQOPNzwdT1OqH60wie_ZyzUSZnyxbWMKEIask-MU=",
-          "title": "salmoneel.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL1BUGdctJM0kHTqfzW_DzayiSTlqtoYHjLVwdWC6PKgfDZrbA7EearXYedn9aAujAixY0ehwmeu3mtD6STFOsY3UsUHx6tQUxFwVUW1g1cOQhEc58QSwoaAbenWOx5SqT",
-          "title": "u-tokyo.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXEkXz5sl4GYKWTprW4PEX6mDaHsCLDLqecuToMZcPFotdt2JLKdPDV1j9n3xFz_yiCZd5Vsg_7hYb_HmgARnZEdnYJ4qliOxq4BHCsdrZlPdWkymPdTBXZ0JCtp8xYgY=",
-          "title": "nao.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQAB5sGd2hoy5Vef8b0auFJ31w6CpkBvv5nfhpg0_EzshvxdGQTVngxyYYVJXpJBn3baeKcZgf8qfK6MhfJ3HTgsRtI94x0MA7IJhnWevlhlcGRo0VCbZVs2PhVHtCpY_wyKrk8kHtdW5KqC3yH-5rCvoMEuAp3yNlqcTgZ7W-xJyVa5r1bPVAjFgE_C7QbrkVHZrHZpT-17uz4r5xoZxw6uv0RW0=",
+          "title": "wikipedia.org"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 1140,
-          "endIndex": 1326,
-          "text": "この極めて特殊な高温・高圧の熱水環境において、モリブデンと鉄が極めて珍しい比率で結晶化したことで、未知の鉱物が形成されました"
+          "startIndex": 821,
+          "endIndex": 1047,
+          "text": "全施設が中部山岳国立公園内に位置するため、自然環境や生態系への影響を最小限に抑えつつ定員を増やす解決策として、上に重ねる「2階建て構造」が選択されました"
         },
         "groundingChunkIndices": [
-          0,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1092,
+          "endIndex": 1202,
+          "text": "現在運行されている第2ロープウェイの2階建てゴンドラは定員105名（乗務員含む）"
+        },
+        "groundingChunkIndices": [
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 1368,
-          "endIndex": 1535,
-          "text": "世界で認定されている鉱物は約6,000種類ありますが、日本で初めて発見された「日本産新鉱物」は約150種ほどしかありません"
+          "startIndex": 1205,
+          "endIndex": 1394,
+          "text": "全面改修時には、鉄塔の高さを約2倍に設計し直すことで、設置本数を従来の5基から3基へと削減し、山肌の伐採面積を大幅に抑え込みました"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1424,
+          "endIndex": 1704,
+          "text": "2階建てにしたことで、乗客が階段で上下階に移動する手間が生じるだけでなく、各階に誘導員を配置する必要が生じるなど、運行会社側にとっては人件費や運用の負担が増えるというデメリットがありました"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1707,
+          "endIndex": 1809,
+          "text": "それでも「国立公園の豊かな自然を守る」ことを最優先して導入されました"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1842,
+          "endIndex": 2110,
+          "text": "1960年代初頭の当初構想（西穂高ロープウェイ構想）では、新穂高から西穂山荘付近を越え、なんと信州・上高地の河童橋付近まで穂高連峰を跨いで岐阜・長野両県を結ぶという途方もない計画でした"
         },
         "groundingChunkIndices": [
           2
@@ -192,20 +257,19 @@
       },
       {
         "segment": {
-          "startIndex": 1538,
-          "endIndex": 1723,
-          "text": "神岡鉱の化学組成は「$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$（鉄とモリブデンの酸化鉱物）」で、六方晶系という六角柱状の微細な結晶構造を持ちます"
+          "startIndex": 2113,
+          "endIndex": 2251,
+          "text": "その後、自然保護の観点や関係機関との慎重な協議を経て、現在のルートに落ち着いた歴史があります"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 1750,
-          "endIndex": 2023,
-          "text": "神岡鉱山といえば「日本一の亜鉛と鉛の鉱山」として教科書にも載るほど有名ですが、神岡鉱には亜鉛も鉛も一切含まれておらず、「鉄とモリブデン」という全く別の金属の組み合わせからできています"
+          "startIndex": 2284,
+          "endIndex": 2390,
+          "text": "中日新聞『山とともに 新穂高ロープウェイ50年（下）2階建て、自然への配慮』"
         },
         "groundingChunkIndices": [
           0
@@ -213,146 +277,182 @@
       },
       {
         "segment": {
-          "startIndex": 2053,
-          "endIndex": 2243,
-          "text": "1975年、通商産業省工業技術院地質調査所（現在の産業技術総合研究所）の鉱床学者・佐々木昭氏らが神岡鉱山栃洞坑（とちぼらこう）で採取"
+          "startIndex": 2284,
+          "endIndex": 2435,
+          "text": "中日新聞『山とともに 新穂高ロープウェイ50年（下）2階建て、自然への配慮』、奥飛観光開発株式会社公式資料"
         },
         "groundingChunkIndices": [
-          0,
+          2,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 2246,
-          "endIndex": 2423,
-          "text": "分析と検証に10年の歳月を費やし、1985年に国際鉱物学連合（IMA）へ論文が発表され、正式に「Kamiokite（神岡鉱）」と承認されました"
+          "startIndex": 2684,
+          "endIndex": 2896,
+          "text": "一般的な「切り干し大根」は生の大根を細切りにして乾燥させますが、山之村では約1.5〜2cmの厚い輪切りにし、薪の大釜で約30分茹でてから寒風にさらします"
         },
         "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2455,
-          "endIndex": 2543,
-          "text": "産業技術総合研究所 地質標本館『鉱物標本 / 神岡鉱（Kamiokite）』"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2633,
-          "endIndex": 2651,
-          "text": "Jour., 12, 393-399"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3286,
-          "endIndex": 3457,
-          "text": "熱せられた地殻が軽くなって浮力を持ち、下から押し上げられることで、世界的にも異例の急激な隆起が引き起こされています"
-        },
-        "groundingChunkIndices": [
+          1,
           3,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 3499,
-          "endIndex": 3747,
-          "text": "国土地理院が穂高岳の一等三角点などでGNSS（衛星測位）観測を行った結果、北アルプスは現在でも**「年間約3〜5ミリ（100年で約30〜50センチ）」**という驚異的な速度で隆起しています"
+          "startIndex": 2899,
+          "endIndex": 3172,
+          "text": "一度茹でることで細胞組織が軟化し、夜間の氷点下の寒さで凍り、日中の陽光で溶けるという「凍結融解（凍み）」のサイクルが均一に進み、アクが抜けて極めて強い甘みと独特の歯ごたえが生まれます"
         },
         "groundingChunkIndices": [
           5,
+          3,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3217,
+          "endIndex": 3500,
+          "text": "農林水産省の地理的表示（GI）登録情報によると、約30日間の寒風干しを経ることで、生の大根に比べて「水分量は約9分の1」まで減少する一方、「糖質は約20倍」「食物繊維は約14倍」にまで劇的に凝縮されます"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3530,
+          "endIndex": 3816,
+          "text": "食品を凍らせて水分を昇華させる「フリーズドライ」技術と原理は同じですが、山之村では標高約850〜1000m、真冬にはマイナス20℃近くまで下がる天然の気候条件だけを利用して完全天日・自然乾燥で行っています"
+        },
+        "groundingChunkIndices": [
+          6,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3819,
+          "endIndex": 3882,
+          "text": "まさに「自然が作る元祖フリーズドライ」です"
+        },
+        "groundingChunkIndices": [
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 4265,
-          "endIndex": 4586,
-          "text": "かつては「プレートがぶつかってシワが寄っただけ」と考えられていましたが、京都大学や産業技術総合研究所などの近年の合同研究により、地下のマグマ活動が地殻を局所的に押し上げているという「マグマ駆動説」が裏付けられました"
+          "startIndex": 3915,
+          "endIndex": 4064,
+          "text": "かつて山之村は、冬になると積雪が2メートルを超え、約5カ月間も近隣との交通が途絶する「陸の孤島」でした"
         },
         "groundingChunkIndices": [
-          3,
+          6,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 4618,
-          "endIndex": 4789,
-          "text": "国土地理院時報 124集『北アルプス穂高連峰の隆起に関する測地学的検証 ～一等三角点穂高岳でのGNSS観測～』（西村卓也ほか）"
+          "startIndex": 4067,
+          "endIndex": 4277,
+          "text": "生き延びるための切実な知恵として受け継がれてきた保存食でしたが、昭和61年（1986年）に地元の主婦たちが「すずしろグループ」を結成して特産化を進め"
         },
         "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4796,
-          "endIndex": 4916,
-          "text": "産業技術総合研究所・地質調査総合センター『日本の地形千景：奥穂高岳と涸沢カール』"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4923,
-          "endIndex": 5105,
-          "text": "京都大学 プレスリリース『日本アルプスはなぜこれほど速く隆起したのか ―マグマ活動が山脈形成を促進する新たな仕組みを解明―』"
-        },
-        "groundingChunkIndices": [
+          5,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 5796,
-          "endIndex": 6006,
-          "text": "そのため、少しでも温かい下流ではイワナが餌の争奪戦に負けて追い出され、結果としてヤマメが暮らせない冷たい最上流にだけイワナが生き残るからです"
+          "startIndex": 4067,
+          "endIndex": 4376,
+          "text": "生き延びるための切実な知恵として受け継がれてきた保存食でしたが、昭和61年（1986年）に地元の主婦たちが「すずしろグループ」を結成して特産化を進め、後にはミラノ国際博覧会でも紹介されるほどの郷土の誇りとなりました"
         },
         "groundingChunkIndices": [
-          8,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4409,
+          "endIndex": 4511,
+          "text": "農林水産省『特定農林水産物等登録簿 第48号（奥飛騨山之村寒干し大根）』"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4409,
+          "endIndex": 4565,
+          "text": "農林水産省『特定農林水産物等登録簿 第48号（奥飛騨山之村寒干し大根）』、飛騨市公式 食の情報サイト（HIDAICHI）"
+        },
+        "groundingChunkIndices": [
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 6048,
-          "endIndex": 6123,
-          "text": "生態学・水産研究の境界線は夏の水温**「約15℃」**です"
+          "startIndex": 4806,
+          "endIndex": 5055,
+          "text": "全国の銘柄牛に比べて後発だった岐阜県の肉牛産業を一気にトップレベルへと押し上げたのは、昭和56年（1981年）に県が導入した種雄牛（たねおすうし）「安福（やすふく）号」でした"
         },
         "groundingChunkIndices": [
-          9,
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5058,
+          "endIndex": 5250,
+          "text": "安福号の子どもたちは驚異的な割合で美しい霜降り肉（脂肪交雑）となり、各種共進会で上位を独占したことで「飛騨牛」の名が定着しました"
+        },
+        "groundingChunkIndices": [
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 6126,
-          "endIndex": 6265,
-          "text": "夏場の最高水温が15℃を下回る最上流域はイワナの天下、15℃を超える下流域はヤマメの天下となります"
+          "startIndex": 5295,
+          "endIndex": 5365,
+          "text": "安福号が生涯で生み出した産子は約4万頭に達します"
         },
         "groundingChunkIndices": [
-          9,
-          10
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 6268,
-          "endIndex": 6507,
-          "text": "水産研究・教育機構の森林調査によると、川辺の木々（渓畔林）が木陰を作るだけで夏の水温が**最大2.8℃**抑制され、イワナの生息密度が2倍に維持されることが分かっています"
+          "startIndex": 5368,
+          "endIndex": 5570,
+          "text": "さらにその優れた肉質遺伝子は全国に求められ、現在では飛騨牛にとどまらず、「全国の黒毛和牛の約3割」が安福号の血を引いているとされています"
+        },
+        "groundingChunkIndices": [
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5600,
+          "endIndex": 5967,
+          "text": "安福号は1993年に死亡しましたが、岐阜県畜産研究所で特別な保護剤も使わず通常の冷凍庫（マイナス80℃）に保存されていた精巣組織から生きた細胞を採取することに成功し、2008年に近畿大学との共同研究で体細胞クローン牛「望安福（のぞみやすふく）」が誕生しました"
+        },
+        "groundingChunkIndices": [
+          14,
+          11,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5970,
+          "endIndex": 6119,
+          "text": "保護処理なしで10年以上凍結されていた臓器から個体を再生させた世界初の事例として、科学界を驚かせました"
         },
         "groundingChunkIndices": [
           11
@@ -360,31 +460,9 @@
       },
       {
         "segment": {
-          "startIndex": 6534,
-          "endIndex": 6846,
-          "text": "「イワナは山奥の源流が大好きで、自ら好んで上流に住んでいる」と思われがちですが、実は下流でのヤマメとの生存競争に敗れた結果、寒さに耐えられる最上流部へ逃げ延びたという「競争回避（消極的適応）」の側面があります"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6876,
-          "endIndex": 7105,
-          "text": "この現象に世界で初めて着目し、日本の生態学のマイルストーンとなったのが、京都大学の生態学者・今西錦司氏が1951年に提唱した「すみわけ理論（棲み分け説）」です"
-        },
-        "groundingChunkIndices": [
-          12,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7108,
-          "endIndex": 7189,
-          "text": "日本の渓流魚の研究から生まれた世界的な生物学理論でした"
+          "startIndex": 6212,
+          "endIndex": 6444,
+          "text": "当時、岐阜県種畜場の職員3名からなる「優良系統牛調査団」が兵庫県但馬地方に派遣され、子牛の名簿をもとに電話をかけまくり、わずか2日間で30軒以上の農家を直撃調査"
         },
         "groundingChunkIndices": [
           12
@@ -392,51 +470,29 @@
       },
       {
         "segment": {
-          "startIndex": 7221,
-          "endIndex": 7324,
-          "text": "国立研究開発法人 水産研究・教育機構『イワナの生息環境と渓畔林の関係』"
+          "startIndex": 6447,
+          "endIndex": 6588,
+          "text": "母牛である「ちずる」の非凡な体格と血統を徹底的に見極めた末に落札した、調査員の情熱の賜物でした"
         },
         "groundingChunkIndices": [
-          11
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 7331,
-          "endIndex": 7457,
-          "text": "日本生態学会『イワナとヤマメの棲み分け理論の再考』（森田健太郎・佐橋玄記・坪井潤一）"
+          "startIndex": 6621,
+          "endIndex": 6672,
+          "text": "岐阜県畜産研究所『「安福」の経歴』"
         },
         "groundingChunkIndices": [
-          9
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 8281,
-          "endIndex": 8368,
-          "text": "熱振動を力ずくで止めるため、絶対零度近くまで冷却しています"
-        },
-        "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8410,
-          "endIndex": 8485,
-          "text": "冷却温度は**「マイナス253℃（絶対温度20ケルビン）」**"
-        },
-        "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8757,
-          "endIndex": 8938,
-          "text": "鏡の素材に使われているのは普通のガラスや金属ではなく、宝石として知られる**「サファイア（大型人工サファイア単結晶）」**です"
+          "startIndex": 6621,
+          "endIndex": 6765,
+          "text": "岐阜県畜産研究所『「安福」の経歴』、農林水産技術会議事務局『2009年農林水産研究成果10大トピックス』"
         },
         "groundingChunkIndices": [
           14
@@ -444,62 +500,144 @@
       },
       {
         "segment": {
-          "startIndex": 8941,
-          "endIndex": 9217,
-          "text": "サファイアはマイナス250度付近まで冷やすと、熱を逃がす効率（熱伝導率）が金属の銅並みに跳ね上がり、かつレーザー光を当てても形が歪みにくいという、物理学的に奇跡的な性質を持っているためです"
+          "startIndex": 6621,
+          "endIndex": 6826,
+          "text": "岐阜県畜産研究所『「安福」の経歴』、農林水産技術会議事務局『2009年農林水産研究成果10大トピックス』、岐阜新聞デジタル（2021年5月10日配信記事）"
         },
         "groundingChunkIndices": [
-          14
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 9247,
-          "endIndex": 9418,
-          "text": "先行するアメリカの重力波望遠鏡「LIGO（ライゴ）」やヨーロッパの「Virgo（バーゴ）」は地上にあり常温の鏡を使用しています"
+          "startIndex": 7105,
+          "endIndex": 7492,
+          "text": "岐阜県（特に東濃や飛騨地域）は街道が交差する交通の要所であり、江戸時代から旅役者の往来が盛んで庶民がプロの芸に触れる機会が多かったこと、また良質な東濃ヒノキなどの建築資材が身近に手に入り、村人たちが自分たちの手で立派な芝居小屋を建てられたことが背景にあります"
         },
         "groundingChunkIndices": [
-          14
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 9421,
-          "endIndex": 9648,
-          "text": "これに対し、「地下の硬い岩盤で揺れを防ぎ、鏡をサファイアにして極低温に冷やす」という手法は、神岡のKAGRAが世界で初めて実用化した世界最先端のアプローチです"
+          "startIndex": 7537,
+          "endIndex": 7803,
+          "text": "現在、日本全国で現存する歴史的な芝居小屋のうち、岐阜県内には「9軒」が残っており、活動する地歌舞伎の保存団体は「30以上（32団体）」存在し、芝居小屋の数・団体数ともに日本一を誇ります"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          16,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 9680,
-          "endIndex": 9807,
-          "text": "東京大学宇宙線研究所（ICRR）重力波観測研究施設『大型低温重力波望遠鏡 KAGRAの概要・特徴』"
+          "startIndex": 7833,
+          "endIndex": 7983,
+          "text": "格式高い劇場の歌舞伎とは異なり、客席と舞台が極めて近い地歌舞伎では、観客が芝居の大切な「共演者」です"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 9814,
-          "endIndex": 9944,
-          "text": "大学共同利用機関法人 自然科学研究機構 国立天文台『重力波プロジェクト推進室：KAGRAの特徴』"
+          "startIndex": 7986,
+          "endIndex": 8094,
+          "text": "役者が見栄を切ると客席から誰でも自由に「日本一！」と声を掛け（大向こう）"
         },
         "groundingChunkIndices": [
-          14
+          16,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7986,
+          "endIndex": 8253,
+          "text": "役者が見栄を切ると客席から誰でも自由に「日本一！」と声を掛け（大向こう）、半紙に小銭を包んだ「おひねり」を役者の足元へ一斉に投げ込み、まるで舞台に花が咲いたような熱気に包まれます"
+        },
+        "groundingChunkIndices": [
+          16,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8286,
+          "endIndex": 8619,
+          "text": "下呂市門和佐にある明治23年（1890年）開場の芝居小屋「白雲座」には、直径5.4メートルの舞台床を手動の木製コマで回転させる「コマ回し式回り舞台」が設置されており、農村舞台の貴重な仕掛けとして国の重要有形民俗文化財に指定されています"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8652,
+          "endIndex": 8778,
+          "text": "岐阜県観光連盟『岐阜の旅ガイド（地元で愛される伝統芸能「地歌舞伎」の魅力を紹介！）』"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8781,
+          "endIndex": 8860,
+          "text": "下呂市公式ホームページ『文化財 芝居小屋（地歌舞伎）』"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9796,
+          "endIndex": 9877,
+          "text": "新穂高ロープウェイは中部山岳国立公園の中を走っています"
+        },
+        "groundingChunkIndices": [
+          0,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9880,
+          "endIndex": 10048,
+          "text": "ゴンドラの床面積を横に広げると、駅舎を大きく建て替えたり鉄塔周辺の木々を大規模に切り倒したりする必要がありました"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10051,
+          "endIndex": 10217,
+          "text": "そこで、自然へのダメージをできるだけ減らすために、横ではなく「縦（2階建て）」に空間を広げる工夫が選ばれたのです"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10220,
+          "endIndex": 10389,
+          "text": "2階建てにすると乗り降りの誘導など運行側の手間は増えるのですが、北アルプスの貴重な森を守るためにこの形になりました"
+        },
+        "groundingChunkIndices": [
+          0
         ]
       }
     ],
     "webSearchQueries": [
-      "イワナ ヤマメ 棲み分け 水温 森林総合研究所 OR 水産研究・教育機構",
-      "神岡石 Kamiokite 国立科学博物館 地質調査所",
-      "北アルプス 飛騨山脈 隆起速度 年間 産業技術総合研究所 OR 地質調査総合センター",
-      "KAGRA サファイア 鏡 極低温 20K 熱雑音 東京大学宇宙線研究所"
+      "飛騨市 神岡町 山之村 寒干し大根 標高",
+      "新穂高ロープウェイ 日本唯一 2階建て なぜ 公式",
+      "飛騨牛 安福号 岐阜県 畜産研究所",
+      "岐阜県 地歌舞伎 日本一 芝居小屋"
     ]
   }
 }
