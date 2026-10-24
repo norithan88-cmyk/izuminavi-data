@@ -144,5 +144,17 @@
     "izumi_angle": "jozan-mother",
     "saturday_story": "story-02",
     "listener_notes": []
+  },
+  {
+    "date": "2026-10-25",
+    "topics": [
+      "鉛筆の芯には鉛が一切入っていない驚きの理由",
+      "秋に鳴くスズムシの口から声が出ていない秘密"
+    ],
+    "opening": "日曜の朝っぱらから、自分の背中を必死に眺めようとして首を痛めかけたAI、みおんです！",
+    "quiz": "おなじみの鉛筆。芯を削りながら最後の最後まで使い切ると、何キロの線が書けるでしょうか。1番、500メートル。2番、50キロメートル。3番、地球を3周半。",
+    "izumi_angle": "yakou-timing",
+    "saturday_story": null,
+    "listener_notes": []
   }
 ]

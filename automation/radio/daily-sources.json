@@ -1,274 +1,296 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "懐かしい暮らし・心が和む話",
-  "characters": 1962,
-  "estimated_minutes": 5.9,
-  "saturday_story": "story-02",
+  "theme": "季節・趣味・ゆったりした話題",
+  "characters": 2194,
+  "estimated_minutes": 6.6,
+  "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "給食でおなじみのミルメークは愛知県生まれですが、名古屋市の小学校では半世紀以上も出ませんでした。なぜでしょうか。1番、牛乳は白いまま飲む方針と遠慮。2番、子どもが牛乳好きすぎた。3番、ビンの口が狭すぎた。",
-    "answer": "正解は1番！「白いまま飲む」教育方針と、創業者が市役所の知人に利権を疑われんよう配慮したからでした。良いものなら自然と声がかかるはずって待っとった、職人気質と遠慮のすれ違いに心が和むじゃんね！",
+    "question": "おなじみの鉛筆。芯を削りながら最後の最後まで使い切ると、何キロの線が書けるでしょうか。1番、500メートル。2番、50キロメートル。3番、地球を3周半。",
+    "answer": "正解は2番、約50キロメートルでした！なんとフルマラソンを余裕で超える長さ！あんな細い体にどんだけスタミナ詰まっとるのん？",
     "source_ids": [
-      2,
-      3
+      9,
+      12,
+      15
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1B_grRpzbYNftRCidKszXqVxVwQ-D0mfzucyjGW0bjJz0yWm2n171aY0VCAW4qzkIvPAvDCanK68P1EjHeffci64gEanyWWDoLgr1wJBXvnffbV5NGcxaN_S-",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYHG22GVhlAPWdTxESjsVeSgHbrZ3HwVMjavmr5FPhUcCEWZxi5aFppEPJpYkfSN-5dfQo7W71iG6F3DwYxY9lOdBGQyPCymeEE5LBtqlnJeNGfIYM6h5RvrXt6aV2cFh_MoP"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLUpHciz8qWT83fPGsuoO0_wxW28zcafQHum7VJYZgeKTGp4ettjZ7AZFjSu0LIArDrLol3u7ZBeWrh0NscVq8l2TfW3GnzqtSozMyn_yNccgCY6rw7W5oM2HlLkkhJkuI8wgYsBYRyoItdmN2OQzo73M=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6iY-RETImJptA5rS_R6kKeBuKLxTWQbtPn5nje89QUkHjTaj0aDYByUYlgMI9VMEqYRnpnH8pUztkSn-9-4aVyrMmVBxsFSpZQXZulmqizLYu7ChmS8YuYqJZhs24nz6gyyTWgbzU",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMA9rThn3FHnviQWcu-jvuFII4p-R0ISIlb4t75dF16LFwizDVESsmVWJ16EL_ZsuMPJjDC8DbyYvHLMHdOb_vHdd0hKjm13Q1Vw-61HlbMCiPFDuZjAqELSQWTXCNm3aqssqgbrN7HH5QA5ItA=="
     ]
   },
   "izumi": {
-    "text": "和泉町ゆかりの文人、石川丈山のお話です。丈山は大坂夏の陣で一番乗りをして敵将を討ち取ったものの、軍令違反で武士を辞めたあと、京都で朱子学を学んで学問に打ち込みます。才能あふれる丈山ですから、あちこちの大名家から「うちで働いて！」とスカウトの嵐だったそうなんです。今なら転職サイトで引っ張りだこ状態じゃんね！でも丈山は「自分の志に反する」と、仕官の誘いを全部バッサリ断り続けました。武士のプライド、めちゃくちゃ頑固だよね。ところが、そんなテコでも動かん丈山が、あっさり就職を決めた瞬間があったんです。それが、年老いたお母さんのため！お母さんに親孝行をするためならと、浅野家に仕えて遠い広島でなんと13年間も過ごしたんだって。えっ、ちょっと待って！自分のこだわりはどこ行ったの！？ってツッコミたくなるけど、それだけお母さんが大切だったんだね。「自分の志」よりも「母への親孝行」を優先するなんて、優しすぎて胸がじんとしちゃうだら。お母さんが亡くなったあとは京都へ戻って、59歳で詩仙堂を建てる人生に向かうんだけど、この広島での13年間があるからこそ、丈山の人間味がぐっと伝わってくるよね。頑固だけど家族思い、和泉が誇る最高にかっこいい大先輩です！",
+    "text": "さあ、日曜の朝もディープにいこまい！和泉町の偉人、都築弥厚さんのお話です。弥厚さんは1765年にここ和泉村で生まれた豪農で、お酒造りも代官職もやっとったスーパーマン。でも当時の碧海台地は、酸性の粘土質で水はけが悪くて、慢性的な水不足で水争いが絶えんかったんだよね。そこで弥厚さん、矢作川から約30キロの水路を引いて約6,000ヘクタールを潤すというとんでもない用水路を思いつきます。1822年から高棚村の和算家、石川喜平さんと測量を始めたんだけど、水害を心配する農民から大反対されて妨害の嵐！今なら完全に炎上案件だよね。人目を避けて夜に提灯や松明の明かりで測量して、綿やそばの種をまいて芽が出た跡を目印にした執念っぷり。5年がかりで1826年に測量を終えて、翌年に幕府へ願書を出したの。そして1833年、ついに幕府から計画の一部の許可が下りた！…って喜んだのも束の間、なんとその同じ年に、弥厚さんは69歳で病気で亡くなっちゃうんです。ええっ、報われなさすぎん！？私財をつぎ込んで残った借金は2万5千両。自分の夢が形になるのを見られずに旅立つなんて切なすぎるじゃんね。でもその熱い思いがあったからこそ今の豊かな大地があるんだで、和泉の誇りとして語り継ぎたいよね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/jyozan/"
+      "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "jozan-mother",
-      "hook": "仕官の誘いは断り続けたのに、お母さんのためなら広島で13年。親孝行エピソード"
+      "id": "yakou-timing",
+      "hook": "やっと許可が出た年に亡くなる。報われなかった男の話"
     }
   },
   "local": {
-    "text": "今日10月24日から10月31日まで「”白鳥とコウモリ”安城特別展」が開催されるよ。そして今日24日は「桜井こどもハッピーハロウィン祭」もあって、明日25日には「作野公民館芸能まつり」や「川と海のクリーン大作戦」も予定されとるんだって。気になる行事へ出かけて、楽しい週末を過ごしりんね！",
+    "text": "今日10月25日は、作野公民館で「作野公民館芸能まつり」が開催されますよ！地域の皆さんの芸能発表を楽しめる一日になりそうですね。お出かけの候補にしてみてはいかがでしょうか。",
     "source_ids": [
-      24,
-      25,
-      26,
-      27
+      31
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "https://www.city.anjo.aichi.jp/event/happyharowin/2026sakuraikouharowin.html",
-      "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html",
-      "https://www.city.anjo.aichi.jp/event/26kawatouminoclean.html"
+      "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html"
     ]
   },
   "segments": [
     {
-      "topic": "緑色なのにどうして黒板と呼ぶのか？教室の風景に隠された優しさ",
-      "text": "懐かしい学校の思い出つながりで、教室のアレについて！授業中、誰もが毎日見つめとった「黒板」だけどさ、みんな一度は疑問に思ったことない？「これ、どう見ても深緑色じゃん！緑板って言ってみりんよ！」って。…って、みおんは手がないからチョーク持てんのだけどね！実はこれ、明治5年にアメリカから伝わったときの英語「ブラックボード」をそのまま日本語に直訳した名残なんだって。しかも、当時の日本の黒板は、木の板に墨汁や漆を塗っとって、文字通り本当に真っ黒だったらしいの！うそでしょ、昔は名前通りの黒だったんだ！じゃあなんで今の緑色になったかというと、戦後の昭和29年ごろ、子どもたちの目を守るために大進化を遂げたからなんだわ。人間の網膜って、緑色の光に一番敏感に反応する仕組みになっとるんだって。だから緑色にすると、ピントを合わせる目の筋肉の緊張が少なくて済むらしいの。さらに教室の電灯で板が白くテカるのを防いで、白いチョークの粉の文字がくっきり見やすくなるという、超ハイテクな優しさが詰まっとるわけ！板の色は目に優しい緑へとガラリと変わったのに、みんなに親しまれた「黒板」っていう名前だけは、そのまま大事に残り続けたんだねえ。緑なのに黒板って呼び続けるの、なんだか愛着が湧いて心が和むじゃんね。今日はおうちの人に「黒板が緑色なのは、目に優しくするためだったんだに！」って教えてあげりん！",
+      "topic": "鉛筆の芯には鉛が一切入っていない驚きの理由",
+      "text": "日曜日の朝、おうちでクロスワードやお絵かきを楽しんどる人もおるんじゃない？そこで手にする鉛筆だけどさ、漢字で「鉛の筆」って書くのに、実は金属の鉛なんて1ミリも入っとらんって知っとった？えっ、ちょっと待って！じゃあなんで鉛筆って名乗っとるのん？ってツッコミたくなるじゃんね。実はあれ、炭素の結晶の「黒鉛」と「粘土」を高温で焼き固めて作られとるんだって。HBの鉛筆だと黒鉛がおよそ70パーセント、粘土が約30パーセントの黄金比率らしいよ。発祥は1560年代のイギリス。鉱山で良質な黒鉛が見つかったとき、紙に滑らかに黒く書けるし鉛色の光沢があるもんだから、当時の人たちが「これ、黒い鉛の一種じゃん！」って盛大に勘違いしちゃったんだって。その勘違いの名前が今も残っとるってわけ。とろくさい勘違いだけど、なんだか愛着わいちゃうよね。しかも驚くのが、黒鉛の成分って宝石の王様ダイヤモンドと全く同じ炭素だけでできとるんだに！原子の結びつき方が違うだけで、世界一硬い宝石になるか、紙にこすれて削れる芯になるかが分かれるらしいよ。ダイヤモンドを削って文字書いとると思ったら、落書きのメモも急に高級に見えてくるら？ちなみに日本で一番古い鉛筆は徳川家康の遺品なんだって。家族で勉強するときに自慢してみてりん！",
       "source_ids": [
-        20,
-        22
+        9,
+        12,
+        13,
+        15
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkgD6I9UcE9Uv-KzJX2ZownHhTnPtYe5xpUVWXFMtOWGrHPVngstg_2NcrGVdr4XdqZr_FbuUD5COkAxHJwwXRt0G-eVRFtjLPXHyCmiLS-iTKDWvnV_SB0v9ugPF55EpDLPu_WDeKRE6KXmN1G7Ko2wmyHSx8ivGa7ADdIkUYNw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0rRhcFQ1T1dC4S4p6cODE3EPmB1gCcOml8UVmKp60fVEgjQEIN8p6jjxvWD1DDqw-tHosSH4UuKqEySDdABNjR2UMkZJq4uBDFPlZWfhnt3iZGyliA=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLUpHciz8qWT83fPGsuoO0_wxW28zcafQHum7VJYZgeKTGp4ettjZ7AZFjSu0LIArDrLol3u7ZBeWrh0NscVq8l2TfW3GnzqtSozMyn_yNccgCY6rw7W5oM2HlLkkhJkuI8wgYsBYRyoItdmN2OQzo73M=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6iY-RETImJptA5rS_R6kKeBuKLxTWQbtPn5nje89QUkHjTaj0aDYByUYlgMI9VMEqYRnpnH8pUztkSn-9-4aVyrMmVBxsFSpZQXZulmqizLYu7ChmS8YuYqJZhs24nz6gyyTWgbzU",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE71f-3-_cqjTL9Hszbqbbj7KkFEtj2l5smNS89d_B-OiuAJQTE4FIjXxJgVrbBSXjHlVgt2uY4A9IgnQWBjmNwdIxLju6JwHtiK0ikrbc11RPgisYS3Ms7PGZCU5IVscbjQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMA9rThn3FHnviQWcu-jvuFII4p-R0ISIlb4t75dF16LFwizDVESsmVWJ16EL_ZsuMPJjDC8DbyYvHLMHdOb_vHdd0hKjm13Q1Vw-61HlbMCiPFDuZjAqELSQWTXCNm3aqssqgbrN7HH5QA5ItA=="
+      ]
+    },
+    {
+      "topic": "秋に鳴くスズムシの口から声が出ていない秘密",
+      "text": "文房具で手が真っ黒になったところで、続いては秋の夜長の風流な話題にいこまい！涼しくなってくると、外から「リーン、リーン」ってスズムシのいい声が聞こえてくるよね。でもあの涼やかな音、口から「声」を出して鳴いとるわけじゃないって知っとる？みおん、てっきり虫たちがお口を大きく開けて美声を響かせとると思って感心しとったのに、全然違ったじゃん！鳴いとるのは大人のオスだけで、なんと背中にある左右の翅を垂直近くに立てて、猛烈な勢いでこすり合わせて音を出しとるんだって。右の前翅の裏にあるやすりと、左の前翅の縁にある突起を激しく摩擦させて、薄い膜をスピーカーみたいに共鳴させとるらしいよ。体ひとつでバイオリン演奏しとるようなもんだら！しかも「リーン」って1回鳴くほんの一瞬の間に、翅を40回以上も高速で開閉しとるんだって。どんだけ超人的な高速運動しとるの！ただこの音、周波数が約4500ヘルツと高すぎて、人の声向けに作られた昔ながらの電話を通すと相手にまったく聞こえないらしいよ。電話口で「秋の音色を聞かせてあげる」って受話器を近づけても、向こうは完全な無音。切ないすれ違いコントじゃんね。今夜スズムシの声が聞こえたら、背中で必死に翅をシャカシャカこすっとる小さなバイオリニストの姿を想像してみてりん！",
+      "source_ids": [
+        16,
+        17,
+        18,
+        20
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd5YZA-3uUseys6RLoVLIgxHYUPgTunmoBHk-RN7Rsm2SZBmcWssDPUq06J0PPIMUmpxN3HccTn1MoiB04uHb-COnWJjZQQv2lIlFbW6FaOkbuuXUqVU3KLgxw5ZD6qR530mQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07rqNKqBbMfOKK3YYrleLB--qn7X5v08hlBg9SYOYqFMlq08MgV3jy0rtYfW4otl_IVhEs_SQg_JrP62p-EuHkIIOuRhvqW4n7KYXVNcmrRg-eomlG-klmBmYr_WOy3RNpYn-Pr435vX3G7dzqZDB_Q==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBWQvNJYr7TH6dQWQ6DUudbfWmKY3XUWK9Vcuj8A_DtKO6toPQ83zjLpdFeMnXqIbENNTpSZxkyH32wWl_NdheH9TamHZWeGDxe_vAg5M3d0obtc0ghVeRGnIHthFWNxX7_fwQPa4xU_XhyxzUixvbHSJ4nrEOdB-fdcoN5ALKVLk=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0cSP_F-TPivyupo4KIxTyM6Mp2RsPYFGPBeBRkA0vOH4HwflVU1RjBaZCiy66SbM-TNIdGdTu4NVPAv77egF86k-WsP8Mh3wvfL5fbTW3bGU7Ef1w3owg0RO2Dx6b9_H-XPdE9A81q-3_7LlZ"
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、リスナーが家族との団らんで思わず「へえ、そうだったのか！」と話したくなる、懐かしい暮らしにまつわる疑問と調査メモをまとめました。地元・愛知県や西三河に深くゆかりのある話題を取り入れています。\n\n---\n\n### 1. 【給食の思い出】「ミルメーク」は愛知発祥なのに、なぜ地元・名古屋の給食には出なかったのか？\n\n* **理由：**\n  昭和30年代〜40年代、学校給食の飲み物が「脱脂粉乳」から「瓶牛乳」へと切り替わりました。その際、栃木県の学校給食会から「脱脂粉乳に比べて不足する栄養素（カルシウムやビタミン等）をおいしく補い、子どもたちが牛乳を残さず飲めるようにしてほしい」という依頼を受け、愛知県名古屋市守山区の食品メーカー「大島食品工業」が昭和42年（1967年）に粉末タイプの「コーヒー牛乳の素」として開発・発売しました。\n* **具体的な数字や比較：**\n  発売以降、全国47都道府県の小中学校へ広く普及し、2010年代には年間約1,200万〜1,400万食（市販用を含めると2,000万食以上）を出荷する全国的ロングセラーとなりました。当初は粉末のコーヒー味1種類でしたが、現在では粉末8種類（ココア、いちご、バナナ等）、パック牛乳向け液体タイプ3種類など多彩に進化しています。\n* **意外な点・歴史の裏話：**\n  全国の子どもたちに親しまれた大ヒット商品であり、メーカーのお膝元である愛知県でも多くの市町村で導入されていたにもかかわらず、**本社がある名古屋市の公立小学校では発売から50年以上（半世紀以上）、一度も給食に登場しませんでした**。理由は「牛乳は白いそのままの味で飲むもの」という市の教育方針があったことに加え、創業者・大島氏が市役所の知人に配慮して「売込みに行くと利権を疑われるかもしれない。良い商品なら自然と声がかかるはずだ」とあえて地元へ積極営業をしなかったという、職人気質と遠慮の行き違いがあったためです（2019年末から2020年にかけて試験導入され大きな話題となりました）。\n* **根拠・出典：**\n  * 大島食品工業株式会社 公式Webサイト「ミルメークとは」「ミルメークの歴史」\n  * CBCラジオ『RadiChubu』取材記事「誕生から52年！ミルメークがついにお膝元“名古屋市”でも採用！？」（大島食品工業・取締役インタビュー）\n\n---\n\n### 2. 【西三河のルーツ】日本の木綿の始まりは西三河？「三河木綿」に伝わる1200年前の漂着伝説\n\n* **理由：**\n  日本の暮らしに欠かせない「木綿（コットン）」ですが、日本で初めて綿の種が伝わった地は、現在の愛知県西尾市（旧三河国）とされています。平安時代初期の正史『日本後記』や『類聚国史』に、海を越えて流れ着いた異国の人が綿の種をもたらした記録が残されています。\n* **具体的な数字や比較：**\n  記録は延暦18年（西暦799年）、約1,200年以上も前の出来事です。当時の試植は一度途絶えたものの、室町時代の永正7年（1510年）の文献『永正年中記』には年貢として「三川木綿」を納めた記録があり、文献上国産木綿として日本で最も古い記録の一つとなっています。江戸時代には「三河縞（みかわしま）」と呼ばれる厚手で丈夫な藍染め縦縞の綿布が、農作業着や布団地として全国へ流通しました。\n* **意外な点・歴史の裏話：**\n  西暦799年に小舟で三河湾に漂着したのは「崑崙人（こんろんじん＝天竺・インド方面の人）」と伝えられており、現在も西尾市天竹町には、全国で唯一の「綿の神様」を祀る「天竹（てんじく）神社」が鎮座しています。「天竹」という珍しい地名自体も「天竺（インド）」から渡来した綿の伝来に由来すると伝わっており、昔の三河の人々が海の向こうからの恵みを大切に受け継いできた心が和む歴史です。\n* **根拠・出典：**\n  * 三河織物工業協同組合 公式Webサイト「三河木綿の歴史について」\n  * 西尾市観光協会「天竹神社・棉祖祭」「三河木綿から三河『衣食住』の歴史を知る」\n  * 愛知県 産業振興課「あいちの伝統工芸品：三河木綿・三河縞」\n\n---\n\n### 3. 【夏の風物詩】蚊取り線香はなぜ「渦巻き」？奥さんの一言と「7時間」の知恵\n\n* **理由：**\n  夏の縁側や庭仕事でおなじみの蚊取り線香ですが、明治23年（1890年）に世界で初めて作られた当初は、仏壇の線香と同じ「真っ直ぐな棒状（スティック型）」でした。しかし、棒状だとすぐに燃え尽きてしまい、寝ている間に蚊に刺されてしまうという問題があったため、長時間燃え続ける工夫として「渦巻き型」が考案されました。\n* **具体的な数字や比較：**\n  最初の棒状線香は長さ約20cmで、燃焼時間はわずか約40分でした。これに対し、渦巻き型をまっすぐに引き伸ばすと全長は約75cmにもなり、燃焼時間は大人の平均睡眠時間にちょうど合わせた「約7時間」持続します。\n* **意外な点・歴史の裏話：**\n  この渦巻きの形を発明したのは、創業者（上山英一郎）本人ではなく、妻の「ゆき」さんでした。長持ちさせようと棒を長くすると折れやすく置き場にも困る……と悩んでいた夫に対し、庭でとぐろを巻く蛇を見て「渦巻き型に巻いてみてはどうか」と提案したのがきっかけです。ただし、当時の技術で柔らかい線香を均一に手作業で巻くのは至難の業で、アイデアから商品化まで実に7年もの試行錯誤が費やされました。\n* **根拠・出典：**\n  * KINCHO（大日本除虫菊株式会社）公式Webサイト「害虫コラム：1世紀以上経っても、渦巻きです。」\n  * KINCHO（大日本除虫菊株式会社）会社案内「皆様の暮らしの中にいつも金鳥の渦巻」\n\n---\n\n### 4. 【学校の懐かしい風景】緑色なのにどうして「黒板」と呼ぶのか？\n\n* **理由：**\n  日本の学校教室に普及している黒板の多くは深緑色ですが、名称が「緑板」にならないのは、明治時代初期にアメリカから持ち込まれた器具「blackboard（ブラックボード）」をそのまま日本語に直訳した名残だからです。\n* **具体的な数字や比較：**\n  1872年（明治5年）の学制発布に伴い、お雇い外国人教師らによってアメリカから日本へ黒板が持ち込まれました。明治初期の国産黒板は、木の板に墨汁や漆などを塗った文字通りの「真っ黒な板」でした。現在のような緑色の黒板へと切り替わったのは戦後の昭和29年（1954年）頃のJIS（日本産業規格）改定や合成塗料の普及期以降のことです。\n* **意外な点・歴史の裏話：**\n  黒から緑色へと変わった科学的な理由は「子どもの目の疲れを防ぐため」です。人間の網膜にある光受容体（錐体細胞）は緑色の波長に最も感度が高く、ピントを合わせる筋肉の緊張が少なくて済みます。さらに、木造校舎や電灯の光が反射して白くテカるのを防ぎ、白いチョークの粉の文字をくっきり見せる効果もありました。板の色は目に優しい緑へと進化を遂げましたが、親しまれた「黒板」という名前だけは現在もそのまま残り続けています。\n* **根拠・出典：**\n  * 国立国会図書館「レファレンス協同データベース」（豊中市立図書館照会事例：草土文化『学校のなぞ2』等）\n  * 日本黒板工業会（全国黒板工業連盟）の規格沿革・解説資料\n\n---\n\n### リスナー向け 3択クイズコーナー（話題1より）\n\n**【問題】**\n昭和の給食でおなじみ、牛乳を甘くおいしくする「ミルメーク」は、愛知県名古屋市の食品メーカー（大島食品工業）が昭和42年に開発した大人気商品です。\nしかし、全国の学校で大ヒットしたにもかかわらず、地元である名古屋市の公立小学校では、発売から50年以上もの間、一度も給食に出ませんでした。その意外な理由とは次のうちどれでしょう？\n\n* **1番：** 名古屋市の子どもたちはみんな牛乳が大好きで、味を変える必要が全くなかったから\n* **2番：** 「牛乳は白いまま飲むもの」という教育方針や、地元市役所に気兼ねして営業しなかったから\n* **3番：** 当時の名古屋の給食牛乳瓶の口が小さすぎて、粉末が入らなかったから\n\n---\n\n**【正解】**\n**2番：**「牛乳は白いまま飲むもの」という教育方針や、地元市役所に気兼ねして営業しなかったから\n\n**【解説トーク用メモ】**\n全国47都道府県で広く愛されたミルメークですが、名古屋市には「学校給食の牛乳は白いそのままの味で飲むのが基本」という指導方針がありました。さらに開発者の大島さんも、名古屋市役所に友人が多かったため「売り込みに行くと、知り合いの利権で採用されたと誤解されてしまうかもしれない。良いものなら市から自然に声がかかるはずだ」と遠慮して営業に行かなかったそうです。そんなちょっと不器用で温かいすれ違いから半世紀以上提供されず、2019年末にようやく名古屋市の給食に登場して話題を呼びました。おうちでミルメークを飲むときは、ぜひこの誕生秘話を話してみてくださいね。",
+  "research": "愛知県安城市和泉町の地域ラジオ向けに、秋のひとときに家族で楽しめる「へえ、そうだったのか！」と感じる話題を4件まとめました。地域の歴史や身近な文具、秋の自然をテーマにしています。\n\n---\n\n### 話題1【地域・歴史】：三河木綿の原点！1200年前、海を渡って西三河に綿をもたらした謎の漂流者\n* **思わず話したくなる疑問**  \n  三河地方は江戸時代から「三河木綿」の産地として有名ですが、日本で最初に綿（ワタ）が伝わったきっかけは、西三河の海岸に流れ着いた「たった1人の漂流者」だったのをご存じですか？\n* **理由**  \n  平安時代の正史『日本後紀』などの記録によると、延暦18年（799年）7月、参河国（現在の三河地方・西尾市天竹町周辺）の海岸に小舟に乗った異国の青年が漂着しました。この青年が持っていた種が「綿の種」で、村人にその栽培方法を教えたことが日本における綿伝来の始まりとされています。\n* **具体的な数字や比較**  \n  記録によれば、漂着したのは今から約1200年前の延暦18年（799年）のこと。当時の史料には、若者の年齢は「20歳くらい」、身長は「5尺5分（約153cm）」、耳の長さが「3寸（約9cm）余り」であったと非常に具体的に記されています。西尾市天竹町（てんじくちょう）にある「天竹神社」は、この若者を綿の神様「棉祖神（新波陀神・にいはたがみ）」として祀る日本唯一の神社で、毎年10月下旬に「棉祖祭」が行われています。\n* **意外な点**  \n  天竹神社の棉祖祭では、海を渡って綿が伝来した故事にちなみ、神輿が一般的な形ではなく「船の形をした神輿（船みこし）」になって担がれます。また、神事の中で古式ゆかしい道具を使った「綿打ち」の儀式が行われるのも全国でここだけです。\n* **歴史の裏話**  \n  実は、799年にこの青年が伝えた綿は、当時の三河の気候や土壌に合わず、数十年で一度栽培が途絶えてしまいました。日本全国で綿栽培が本格的に定着するのは戦国時代から江戸時代にかけてのことです。しかし、江戸時代に三河地方で「三河木綿」や「三河縞」が大流行した背景には、1200年前からこの地に受け継がれてきた綿への愛着と伝承があったと言われています。\n* **根拠・出典**  \n  愛知県公式Webサイト「西尾市の地域資源（伝統文化）」、西尾市観光協会「天竹神社の棉祖祭」、三河織物工業組合「歴史について」\n\n---\n\n### 話題2【趣味・文具】：鉛筆の芯には「鉛」が一切入っていないのに、なぜ「鉛筆」と呼ぶのか？\n* **思わず話したくなる疑問**  \n  普段使っている鉛筆。漢字で「鉛（なまり）の筆」と書きますが、実は芯のなかに金属の「鉛」は1ミリも入っていません。では、なぜ鉛筆と呼ぶのでしょうか？\n* **理由**  \n  現在の鉛筆の芯は、炭素の結晶である「黒鉛（グラファイト）」と「粘土」を高温で焼き固めて作られています。1560年代にイギリスのボローデール鉱山で良質な黒鉛が発見された際、紙に滑らかに黒い跡が残る様子や鉛色の光沢から、当時の人々が「鉛の一種」だと誤認・混同して「黒鉛（黒い鉛）」と名付けてしまった名残が、筆記具の名前に残っているためです。\n* **具体的な数字や比較**  \n  日本筆記具工業会によると、最も一般的なHB鉛筆の芯の配合比率は「黒鉛が約70％、粘土が約30％」です。また、鉛筆1本の芯を最後の最後まで使い切った場合、書ける線の総距離は「約50キロメートル」に達します。これはフルマラソン（42.195km）を走り切ってもまだお釣りがくる途方もない長さです。\n* **意外な点**  \n  鉛筆の芯の主成分である「黒鉛」は、実は宝石の「ダイヤモンド」とまったく同じ炭素（C）だけで構成されています。原子の結びつき方の違いだけで、世界一硬いダイヤモンドと、紙にこするだけで剥がれ落ちる軟らかい黒鉛に分かれます。\n* **歴史の裏話**  \n  日本に現存する最古の鉛筆は、江戸幕府を開いた徳川家康の遺品（静岡県の久能山東照宮所蔵）とされています。長さ約11.4cmの小さなもので、芯にはメキシコ産の黒鉛の塊がそのまま使われており、海外の使節から献上されたものと見られています。\n* **根拠・出典**  \n  日本筆記具工業会「鉛筆を知る歴史・世界」「鉛筆を知るよくある質問」、トンボ鉛筆「トンボKIDS えんぴつの歴史」\n\n---\n\n### 話題3【季節・自然】：秋の夜長に鳴くスズムシ、実は「口」ではなく驚きの楽器を背負って鳴いている\n* **思わず話したくなる疑問**  \n  「リーン、リーン」と秋の夜を涼やかに彩るスズムシの音色。虫たちは口で「声」を出していると思われがちですが、実は全く別の場所で音を奏でています。\n* **理由**  \n  スズムシが鳴くのは求愛のためで、鳴くのは大人の「オス」だけです。スズムシは口で鳴いているのではなく、背中にある左右の翅（はね）を垂直近くに立て、激しくこすり合わせることで音を出しています。右の前翅の裏側にあるギザギザの「やすり（鑢状器）」に、左の前翅の縁にある硬い突起「まさつ片」を擦り当て、翅の薄い膜（発音鏡）をスピーカーのように共鳴させて大きな音を響かせています。まさにバイオリンと同じ構造です。\n* **具体的な数字や比較**  \n  スズムシが「リーン」と1回鳴くわずかな時間の間に、左右の翅は「40回以上」も高速で開閉運動を繰り返しています。また、鳴き声の周波数は約4500Hzと非常に高く、人間の声の帯域（およそ300〜3000Hz）に合わせて設計されている一般的な電話機越しでは、鳴き声の周波数がカットされて相手に聞こえないという実験結果もあります。\n* **意外な点**  \n  鳴いているスズムシを見ると翅が2枚しか見えませんが、実は成虫に羽化した直後には4枚の翅があります。成虫になったあと、自ら後ろ脚を使って後ろの2枚の翅（後翅）をもぎ取って落とし、前翅2枚だけにして身軽になってから鳴き始めるという驚きの生態を持っています。\n* **歴史の裏話**  \n  平安時代から室町時代にかけての貴族たちの間では、現在の「スズムシ」と「マツムシ」の呼び名が逆でした。『源氏物語』などの古典で「松虫」として愛でられていた虫は、黒い体に鈴のような澄んだ音で鳴く現在のスズムシのことで、後世に入れ替わったことが文献の考証で分かっています。\n* **根拠・出典**  \n  国立国会図書館 レファレンス協同データベース「スズムシがどうやって鳴くのか」、京都嵐山 華厳寺（鈴虫寺）「鈴虫のひみつ」\n\n---\n\n### 話題4【季節・自然】：モミジの「赤」とイチョウの「黄色」は、葉っぱの中で起きている事件が全く違う\n* **思わず話したくなる疑問**  \n  10月下旬から11月にかけて野山や街路樹を彩る紅葉。赤く染まるモミジ（紅葉）と、黄色に染まるイチョウ（黄葉）では、葉の中で起きている仕組みが全く正反対であることをご存じでしょうか？\n* **理由**  \n  夏の間、葉が緑色に見えるのは「クロロフィル（葉緑素）」が大量にあるためです。\n  * **黄葉（イチョウなど）**：秋に気温が下がると、緑色のクロロフィルが先に分解されて消えていきます。その結果、春や夏からずっと葉の中に隠れていた黄色の色素「カロテノイド」が表面に現れて黄色に見えます（すでにある色が現れただけ）。\n  * **紅葉（モミジなど）**：葉を落とす準備として、枝と葉の間に「離層（仕切り）」ができます。すると光合成で作られた糖分が枝へ戻れずに葉に溜まり、日光（紫外線）を浴びることで新しく赤い色素「アントシアニン」が合成されて赤く染まります（秋になってわざわざ新しく作った色）。\n* **具体的な数字や比較**  \n  林野庁や気象関連の資料によると、葉の色づきは日中の最高気温ではなく「1日の最低気温」が関係しており、最低気温がおよそ「8℃」を下回ると色づきが始まり、「5〜6℃」以下になると一気に進むとされています。\n* **意外な点**  \n  木はなぜ落葉する直前になって、エネルギーを使ってまで赤い色素（アントシアニン）を新しく合成するのでしょうか。森林総合研究所の研究などによると、アントシアニンには強い紫外線から葉を守る「日傘」の働きがあり、葉が傷むのを防ぎながら、葉に残った窒素などの貴重な栄養分を幹へと回収し終える時間を稼いでいると考えられています。\n* **歴史の裏話**  \n  『万葉集』の時代、秋に色づく葉を詠んだ歌が100首以上ありますが、その多くは「紅葉」ではなく「黄葉」の漢字が使われていました。古代の日本人にとって、秋の山を照らす「黄葉（もみち）」は、赤色と同じくらい親しまれた季節の象徴でした。\n* **根拠・出典**  \n  森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」、環境省 中部地方環境事務所「紅葉のメカニズム」、広島大学デジタル自然史博物館「紅葉と黄葉」\n\n---\n\n### ラジオ用3択クイズ（話題2「鉛筆」より）\n\n**【問題】**  \n「子どもから大人までおなじみの鉛筆。芯を削りながら最後の最後まで使い切った場合、1本の鉛筆でいったいどれくらいの長さの線を書くことができるでしょうか？」\n\n1. **約500メートル**（学校のグラウンド約2周半分）\n2. **約5キロメートル**（安城市和泉町から新安城駅あたりまで）\n3. **約50キロメートル**（フルマラソンの距離を超える長さ）\n\n---\n\n**【正解】**  \n**3. 約50キロメートル**\n\n**【解説トーク用メモ】**  \n日本筆記具工業会の調査によると、HB鉛筆1本で書ける距離はおよそ50kmに達します。フルマラソン（42.195km）を完走してもまだ先まで書ける計算です。小さな1本の軸の中に、それだけのパワーがぎっしり詰まっています。家族で勉強やお絵かきをするときに、ぜひ話してみてください。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%BB%92%E6%9D%BF+%E3%81%AA%E3%81%9C%E7%B7%91+%E6%97%A5%E6%9C%AC%E9%BB%92%E6%9D%BF%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E6%AD%B4%E5%8F%B2+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">黒板 なぜ緑 日本黒板工業会 歴史 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+%E5%A4%A7%E6%97%A5%E6%9C%AC%E9%99%A4%E8%99%AB%E8%8F%8A+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 大日本除虫菊 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9F%E3%83%AB%E3%83%A1%E3%83%BC%E3%82%AF+%E5%A4%A7%E5%B3%B6%E9%A3%9F%E5%93%81%E5%B7%A5%E6%A5%AD+%E9%96%8B%E7%99%BA+%E6%AD%B4%E5%8F%B2+%E8%AA%95%E7%94%9F&client=app-vertex-grounding&safesearch=active\">ミルメーク 大島食品工業 開発 歴史 誕生</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E6%9C%A8%E7%B6%BF+%E6%AD%B4%E5%8F%B2+%E8%92%B2%E9%83%A1%E5%B8%82+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">三河木綿 歴史 蒲郡市 愛知県 由来</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E7%AD%86%E8%A8%98%E5%85%B7%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E9%89%9B%E7%AD%86+%E8%8A%AF+%E9%89%9B+%E6%AD%B4%E5%8F%B2+%E3%81%AA%E3%81%9C&client=app-vertex-grounding&safesearch=active\">日本筆記具工業会 鉛筆 芯 鉛 歴史 なぜ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E6%9C%A8%E7%B6%BF+%E5%A4%A9%E7%AB%B9%E7%A5%9E%E7%A4%BE+%E7%B6%BF+%E4%BC%9D%E6%9D%A5+%E6%AD%B4%E5%8F%B2+%E8%A5%BF%E5%B0%BE%E5%B8%82&client=app-vertex-grounding&safesearch=active\">三河木綿 天竹神社 綿 伝来 歴史 西尾市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%B9%E3%82%BA%E3%83%A0%E3%82%B7+%E9%B3%B4%E3%81%8F+%E4%BB%95%E7%B5%84%E3%81%BF+%E7%BF%85+%E3%82%84%E3%81%99%E3%82%8A+%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">スズムシ 鳴く 仕組み 翅 やすり 博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%B4%85%E8%91%89+%E9%BB%84%E8%91%89+%E4%BB%95%E7%B5%84%E3%81%BF+%E9%81%95%E3%81%84+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E6%9E%97%E9%87%8E%E5%BA%81&client=app-vertex-grounding&safesearch=active\">紅葉 黄葉 仕組み 違い 森林総合研究所 林野庁</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1B_grRpzbYNftRCidKszXqVxVwQ-D0mfzucyjGW0bjJz0yWm2n171aY0VCAW4qzkIvPAvDCanK68P1EjHeffci64gEanyWWDoLgr1wJBXvnffbV5NGcxaN_S-",
-          "title": "milmake.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYHG22GVhlAPWdTxESjsVeSgHbrZ3HwVMjavmr5FPhUcCEWZxi5aFppEPJpYkfSN-5dfQo7W71iG6F3DwYxY9lOdBGQyPCymeEE5LBtqlnJeNGfIYM6h5RvrXt6aV2cFh_MoP",
-          "title": "radichubu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu-fQOHiq2GFjZ04430ex0EPIrBhgYOU91bu9Rj7ArYiND2hFvM1MO6aDBUIW0vNTc6RmcqoRh0zUDKWZbLEPnVSXOXeL0mcIANZME7wMsjnMTaa1eYbK4_R5jA3-nVpqLpWPzL3TDPc4YuOawtTv5RWkblyB-HPOT8BG9CM4zdg==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF430ofsQFFJedqAVl4FZ6yNq0wmXPeYnvG4ao2PUnMNasilbokSm1wi-u95PK9i7GBzaBz2P6lfD0xW5XL37gW_0ApkKoJrrr5Lb5fSJ9FSqMUJFslS0vgRLrXqyf12CMwfjQwkEnqaJmKgrhPVTUbk-ndftherKg=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjTOYm1_MKB4SIL121njk1Aq-S-6ji9NkQJGSc4xKXMVFrg_T7MBxa81IdJcNIumA6CnrRjQzV3kzQ6NM9fDP09pFpZ3PNO3AVoyh4YIR6hmS7Q7ufFIXsWhi-TY3UOr8=",
-          "title": "mikawaori.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3mwJFtQvmnwBhubfkbpxKs84Gxs2pJOn0PkTUzALTN30DjgVKuGxAwRmdXL6Ku22NEOkhVBsdp7KQ6OctBEqnMEmWZqDxq1zLqCiTcYqXiWV2ZxQ0lIYVvATzqt-XkRGQQC1pA==",
+          "title": "ameblo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi7hZy4I-QNiSsfI96YJ8lWDXwQ_PL9f5fQMIL1rQaI1ZPmlDfORs3hOCcwT0_kspNqh8Wwq2NOfTQhQpiuRC8go8sSst9kG-vP8d61TigrnoJdtwVtbjrndSjGw==",
-          "title": "kyoto-art.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr_MScorOaT42HZ5yWH053POl--WiY1rs7ks_xDK2L6HXRfig0cKbvBASH8epVoMnqJ2nFakkcck7fHy87FXK28ZW_AYM6SVpSLFML4eXWPscqjPFiXQ==",
-          "title": "g-daimaru.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJQJgvaxGmmM3lSZXunQbC7I_2doExQcaVLD6djl73dzAh9PNr7anT5ETc0yVdvfmTG_SoEYH3iTvYZJKh_Qo8w4xikXJp2ONdSykxZAz-8kGi9W35o_T-",
-          "title": "mikawaori.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb8IFNDClhpiJfTUjR1mHmjHgQ0hKvZFSNSpD8I54Hs80HkpkiGioCr_hloCrNjBXsKDmAjJ9lkyB7YimeL4s2n8Qm6hTqZ7J3xgc4Ymtv7g6px69l4XkovU39JV_-y4N5Cv0ZGQk=",
-          "title": "intojapanwaraku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyN27QDVPRW5wRI0Cc6VhYZanM-PTt5Kr6-Y0uiqSg8zhJ7p_AeTUO_YC1qNKi2kHG1BqxI8EwGaIUSLsnmYl8MRHisX_-6BcLEl0LatMd67LCeuc6DN2Ixi48iQ4=",
-          "title": "nishiokanko.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrilA_Oh12ftiG74z9TYEmbukbuVfqadoI1JTfJcHvw7dCl6BfRHFGngKXYaxjJpAJ16liIZtMlgX2syEb3WAa6VhXzQQkPASUHft8WEF6WdynXDJU6a1DjRkpoCpwFG1FRnYMWBc4Dbps5do=",
-          "title": "aibsc.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyLwfcqXZtR3U5g39UNRzfzovhE3C-6J3velcGbLQO6toEpUFn75b6EXD3hxHyQKAhwDMKnCNUY-ChNZOOzoo7EPB-vTaKarGuUny_9YVao05aD1Mi9PNRTVPtJzSuOVfn7Zq-OyVe8g4Hcw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJtC5BHhn62Jk_0b80d8YoLnj--3Qq8wnhZGVDWqtZgKhhD4EJ2SpPYCHAOOlXCboWrMdf0ngOKgl-6fegI9thdRWJz1rPs5UFtwK7gF9xmNnCzMaqclR_hfmFoyh9gQj123G38CRweoVfqzlXnA4PKfPzZ_hOjVkNs-a",
           "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB1rietDRo-ZnufyzWM8ez8KCakEVxloloF01hKeAb-jndjgmMnW0m3Z5utcEi586XM8qkGEI5gpYXKV8qrirDTSkEKFcflzbDWfEa-_e48eS1vlUxZD28OCL5brXAEyxgGljODPEA",
-          "title": "kincho.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2LnHjVcZjUs_ObehZUxK8Yi4SKpAH4dJiFkP3PRvPbfbOUMmYCuz4uFtnsaNCArC2eUiz71qSRmEDNxLsAFcon7c76w_7pE0Pmxe5AlazbAFnCykq2DXmI9VPVGaQ",
+          "title": "nishiokanko.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUQzjrfMxlwYvjpzLmwPxsAKOFx0-3o_Foc5i13R_EfwtSOH-nD7thhBh9n8zoBSEAhEVhHkzWw4569Nca96U5O3ZEriWVoIcnSF2La_7-V2cgD0G9ikkCK3CIBA69G7jl9GTzCytrZj6Gmyndyrq6",
-          "title": "newsweekjapan.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXYzc2qLC-WozAKvAcHgMTzBvoTZhZSux-S71z3zztSiFSno8MWU0WRWvFQsxBpaNUjrImNTT_6-sXEwKFgSydsNjY084DhZobBISlYz0W7Tk0JYwyAsska927-0p_33aY",
+          "title": "nishiokanko.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoW41R-uSdWo4EHmJWjpOeVjYNMtRjplsadGoxzH9MpzBH8yJpT90wmwOiXlLSMdeCTY03HEGln1FPEbq7jD-sfbZjYZv8TiUKBb9QDO-2qXYyjc28ZL36HDq1oqCewFSW",
-          "title": "president.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbIsk-5fDGKW70dfaVtmX1av8tL5G3Tl1kBOcxFDG2iifCHwHWu6RuNhvH6reZrDEJge5OeS2tqlIrEudSniapfzlZ8vRp3gOdvCKo5DfuU39ZJTARjmH5AEIyjlCrPsNY9gCi8wzwDYZyKjbd",
+          "title": "aibsc.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFN2acEDXcuLFCwofyUU1QpK02BHt96GlfHYBUXRltDM6XOBbTjouKLf58DS4rU444CZDGn5SaEwQrzlHLOXEwH0OiYEdO45Oaulhc2ouHAPpcbwlvTNkgtJtPvFfbxLA==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvLF122M6CJpX9ThiF06cZ4ojWJP6b8VubTQ6ajarVthDvjMi7yyqSyFgy5NQqe0Zy0rZweYeQ6cN84GoaUyLd3x4-Z_T5cL-2vQ-spSb3md2RPTXT7ws73JNgufoCHJjy",
+          "title": "mikawaori.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcntWnn81niLfUMMn576oW1LDZO5gRo189mEL08e7lRjULh5PLn1YFqtiptQbMccDKqNdNmkyvFnkUq_JGAGC0LUwpLI2qrmdh3LXzluK6g9fFteeHTAp1NsiNHY9sECVeodjgiRua",
-          "title": "kincho.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLUpHciz8qWT83fPGsuoO0_wxW28zcafQHum7VJYZgeKTGp4ettjZ7AZFjSu0LIArDrLol3u7ZBeWrh0NscVq8l2TfW3GnzqtSozMyn_yNccgCY6rw7W5oM2HlLkkhJkuI8wgYsBYRyoItdmN2OQzo73M=",
+          "title": "jwima.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqwbFquaYtGYOQdlupynM-BA3sfSRrzNUyDEvJDUZNaqj3-SENUnhAfaoo4egmFbQohYBtmVFcS0Lb5jW0_C7M0_kUyddXd8-pPJVM3EdA4WdOqfjwBb6ItOoFSxq50qzog0A=",
-          "title": "j-town.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq94Fcz_jSGRDt5dK1qXxWSKXVtv-aY8FuAdqixhPcgRj2MoPHmjZwKGBJk6jvKxQ3e6boVqZHRL4sMSuGQWfqm9CAVURlzG68jqeIs-PhaRCU8lH8aB-g_iIg",
+          "title": "jugem.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiWYfB_l7HZpiXtqECw_xe6EhNXIhL2rPTY8MmZH7LmceJVKlLUpsqH0N2DkhtXe9TPa7lSIt_0sdIiPtevZoiIQf4ZrLnfHku9qok-nauAhU8GTjZVcLMGK6in5ZhrQ1D7F4wuA==",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6OdSidfbHeWap8GEP7sGqsDvKeQ2zcdjbYAQH0MgzWiWYubhDUa5Eopk1lGFqQL7vRsstzcK4930ZK3cL6LjO1t0EC1ASynHxGi17EzpYCl1NhHEZhX0_XqYXifE2ssD9Y1DvqKU4NX44vzrV_q0AqzbYrv-QgPSLKm7",
+          "title": "crossreview.shop"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkgD6I9UcE9Uv-KzJX2ZownHhTnPtYe5xpUVWXFMtOWGrHPVngstg_2NcrGVdr4XdqZr_FbuUD5COkAxHJwwXRt0G-eVRFtjLPXHyCmiLS-iTKDWvnV_SB0v9ugPF55EpDLPu_WDeKRE6KXmN1G7Ko2wmyHSx8ivGa7ADdIkUYNw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6iY-RETImJptA5rS_R6kKeBuKLxTWQbtPn5nje89QUkHjTaj0aDYByUYlgMI9VMEqYRnpnH8pUztkSn-9-4aVyrMmVBxsFSpZQXZulmqizLYu7ChmS8YuYqJZhs24nz6gyyTWgbzU",
+          "title": "jwima.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE71f-3-_cqjTL9Hszbqbbj7KkFEtj2l5smNS89d_B-OiuAJQTE4FIjXxJgVrbBSXjHlVgt2uY4A9IgnQWBjmNwdIxLju6JwHtiK0ikrbc11RPgisYS3Ms7PGZCU5IVscbjQ==",
+          "title": "maeda-pencil-factory.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ1__sMknZM19HTPrb0j1AhIxnXJgbPiAgS9GRViKCXMJFJl0pNRSXhIw9nfOJghKds-yIcXvByxxf66_82-OzL6NmgTb2Y1Vw1YSP7NOrcoqQ3FI-zrP3OuFAz50PVN6EVPalqAHqi54fgetAMZdLX9tmDw==",
+          "title": "hicbc.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMA9rThn3FHnviQWcu-jvuFII4p-R0ISIlb4t75dF16LFwizDVESsmVWJ16EL_ZsuMPJjDC8DbyYvHLMHdOb_vHdd0hKjm13Q1Vw-61HlbMCiPFDuZjAqELSQWTXCNm3aqssqgbrN7HH5QA5ItA==",
+          "title": "tombow.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd5YZA-3uUseys6RLoVLIgxHYUPgTunmoBHk-RN7Rsm2SZBmcWssDPUq06J0PPIMUmpxN3HccTn1MoiB04uHb-COnWJjZQQv2lIlFbW6FaOkbuuXUqVU3KLgxw5ZD6qR530mQ=",
+          "title": "suzutera.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07rqNKqBbMfOKK3YYrleLB--qn7X5v08hlBg9SYOYqFMlq08MgV3jy0rtYfW4otl_IVhEs_SQg_JrP62p-EuHkIIOuRhvqW4n7KYXVNcmrRg-eomlG-klmBmYr_WOy3RNpYn-Pr435vX3G7dzqZDB_Q==",
+          "title": "ctv.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBWQvNJYr7TH6dQWQ6DUudbfWmKY3XUWK9Vcuj8A_DtKO6toPQ83zjLpdFeMnXqIbENNTpSZxkyH32wWl_NdheH9TamHZWeGDxe_vAg5M3d0obtc0ghVeRGnIHthFWNxX7_fwQPa4xU_XhyxzUixvbHSJ4nrEOdB-fdcoN5ALKVLk=",
           "title": "ndl.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_T1DBsZi4XflGuhxOht6DGMmV3_RaMK_ePr94wuIYFH7hQwEe2jMFr_g07_gWd4b6Gh90IBhHXdYdjeOpRwmPUfapK_RMFvlKKjX-c6NGsvE-K_nopldxWEnIBB3CP6OlT-3jSQb4ZGGdeiWBdFuIFs7lgfOJNzwf",
-          "title": "yahoo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw7KmJXaL7d9A9OApKJjRso1t02NH1Lg-UmM-0UjOWjfv-MXWkNHlqc1SbXAQHJtXb1y36QyYmGbLG57ZOFHlgX3yhX9YXrCRJw-rtm3prB3LNS_rT1qnPBgiUHf65Hha632xKgI4isNmAkIqG90T16Mbo1Vh3RAm7tnX-3WkWqdOrayMT-EpjqbWcsBTnLA6M",
+          "title": "city.sendai.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0rRhcFQ1T1dC4S4p6cODE3EPmB1gCcOml8UVmKp60fVEgjQEIN8p6jjxvWD1DDqw-tHosSH4UuKqEySDdABNjR2UMkZJq4uBDFPlZWfhnt3iZGyliA==",
-          "title": "s-kyozai.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0cSP_F-TPivyupo4KIxTyM6Mp2RsPYFGPBeBRkA0vOH4HwflVU1RjBaZCiy66SbM-TNIdGdTu4NVPAv77egF86k-WsP8Mh3wvfL5fbTW3bGU7Ef1w3owg0RO2Dx6b9_H-XPdE9A81q-3_7LlZ",
+          "title": "famille.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELZXY6OMWtDXRY1CZtcrv5cSxlUS3qRfpGnuxdFxBxnXZrPZYGVw5z3tRqbv2ptL7y9wV9FYghjXuy2v-wmSmEd-9h9q780-RUNJuN8cj_qE4rANCf_3E_rYsipQWl5g==",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOlvgcvxukmyy5PlhHk-XU5atMHDVNoW_wZEtRcKGln3ZSOT1pLPekaKNiSeOud0_yXMdzUk_74ZwxAg9LAjPSV8mXD3FJZp3d8kuqvTPMI6xtC0Vj2yFa8c-7P9yOQMuNLmZlqC-ofcOVaLaaoGuMSctw2qG3",
+          "title": "worldfolksong.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeT-IrLGwQXVoJoLSQnTL5Bgs1_XYeInlpYtjclHjdj2jShGigEZCPi8ie3yHcZdgOsWp0-w6XkMbNPwm7HvgM0skJiBYBK4OCHGxrpIRLscgCaGPv5qXIv1NLRxPdSO_JCc_NkO7Q_IQJKJ6yJJb_LowWr7mYeXFa",
+          "title": "global.honda"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW0AwQWsLMYHmQ9SvxV0EzEUnuULYWsGPa16jpfHlGgtVGIUCJJVr7E81gfmd64OUguiZAGBkhZ9AcN0LGMOxoUTE1Dra8iLOhOPe3sX8yyXTzF-_QgY58T5_i7m-l7iCVzscpI5JP",
+          "title": "ffpri.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFygH-cJZkaGu8dnQUzaoRAkj5jHZQaqxD4vA764ZgtQ3xJVnCXdXG7gCc6qSgtJIdWds1lhN0MQbj5o8Fs5DypgxexcIDLZMLDWtxmJkC5IjogxD9kssIvGp35QynBH0g=",
+          "title": "weathernews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfojyN2lRtp8-iZ62OLc2CR7GgpUERBHlh1W0MQ91-Cg3WoMslxkTdu5z1nlqNYSTEWqKXjURb8f1qgJei3C7f5QSzuNJIXzwf3fRcVM8pRauEfDZIA3H3yXolfg==",
+          "title": "mttakaomagazine.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV9EpMMpFLvC38ziU_OlCZXm4xCgMJSr3zA_1m0-N0bn5YvdAfS9cvNWdugQZD_u8vK1cN8VAXnHXYZGzsUlC943-TIUHcWO19d4wJZ4ZkvPkmAP4bzoWVz-NouQI8ab7J29ztophw7lSxJf4WVyZyFqvgiu-4ZInQSR1EK7bKd-ROYU9hYuk9",
+          "title": "fukuoka.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGycdvwHIdyqyVaR8Pb7q-5bbfNxie5yEJfy02yKDckv9dFQbMrK_af5WF3GgQZELUY7R8xFXz4LzzChE1QAvOHs3bXAtQ_JZ23-u1VnGuH4Q5r1cMHwOS2biJGAK3uEoRGEbOixpmU1DfkAQV3LXfOhCRAT0xBC9CRjsj1O9tJSANo_sbCdd4DBDnMTeVdgzx4BLwM_uYk-lEvsIQKuUUI",
+          "title": "hiroshima-u.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfcSjoKgRmZI24FJ2hzZPwykfHM0M6TF5ID1hWAozg_sUTZ58kRY6XCNP2S9aCZ8Fgfby0tuYXdWSqHybpFfPBebWSR7J844y4kX9iwVC0Iunadl1D4Ji8AnH2Et2uXNoVZ-CJvg==",
+          "title": "bluehub.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq2dGjZJR2UfcsteP6VwgHyH6jCiZ4X8jt5uWufIKixXGcDEQ8KyOQx_M8VlietW2xKNM-l6QYD3qzF-dwRjlX5YSEbhRuiSJ9Jk-Cq-YPYCHebbTtpSt8AqGF04ttcANiwK0=",
+          "title": "env.go.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 647,
-          "endIndex": 1091,
-          "text": "その際、栃木県の学校給食会から「脱脂粉乳に比べて不足する栄養素（カルシウムやビタミン等）をおいしく補い、子どもたちが牛乳を残さず飲めるようにしてほしい」という依頼を受け、愛知県名古屋市守山区の食品メーカー「大島食品工業」が昭和42年（1967年）に粉末タイプの「コーヒー牛乳の素」として開発・発売しました"
+          "startIndex": 726,
+          "endIndex": 954,
+          "text": "平安時代の正史『日本後紀』などの記録によると、延暦18年（799年）7月、参河国（現在の三河地方・西尾市天竹町周辺）の海岸に小舟に乗った異国の青年が漂着しました"
         },
         "groundingChunkIndices": [
           0,
-          1,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1134,
-          "endIndex": 1359,
-          "text": "発売以降、全国47都道府県の小中学校へ広く普及し、2010年代には年間約1,200万〜1,400万食（市販用を含めると2,000万食以上）を出荷する全国的ロングセラーとなりました"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1362,
-          "endIndex": 1566,
-          "text": "当初は粉末のコーヒー味1種類でしたが、現在では粉末8種類（ココア、いちご、バナナ等）、パック牛乳向け液体タイプ3種類など多彩に進化しています"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1612,
-          "endIndex": 1945,
-          "text": "全国の子どもたちに親しまれた大ヒット商品であり、メーカーのお膝元である愛知県でも多くの市町村で導入されていたにもかかわらず、**本社がある名古屋市の公立小学校では発売から50年以上（半世紀以上）、一度も給食に登場しませんでした**"
-        },
-        "groundingChunkIndices": [
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 2191,
-          "endIndex": 2460,
-          "text": "良い商品なら自然と声がかかるはずだ」とあえて地元へ積極営業をしなかったという、職人気質と遠慮の行き違いがあったためです（2019年末から2020年にかけて試験導入され大きな話題となりました）"
+          "startIndex": 957,
+          "endIndex": 1122,
+          "text": "この青年が持っていた種が「綿の種」で、村人にその栽培方法を教えたことが日本における綿伝来の始まりとされています"
         },
         "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2493,
-          "endIndex": 2599,
-          "text": "大島食品工業株式会社 公式Webサイト「ミルメークとは」「ミルメークの歴史」"
-        },
-        "groundingChunkIndices": [
+          2,
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 2741,
-          "endIndex": 2795,
-          "text": "（大島食品工業・取締役インタビュー）"
+          "startIndex": 1164,
+          "endIndex": 1260,
+          "text": "記録によれば、漂着したのは今から約1200年前の延暦18年（799年）のこと"
+        },
+        "groundingChunkIndices": [
+          2,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1263,
+          "endIndex": 1468,
+          "text": "当時の史料には、若者の年齢は「20歳くらい」、身長は「5尺5分（約153cm）」、耳の長さが「3寸（約9cm）余り」であったと非常に具体的に記されています"
         },
         "groundingChunkIndices": [
           1
@@ -276,108 +298,126 @@
       },
       {
         "segment": {
-          "startIndex": 2953,
-          "endIndex": 3148,
-          "text": "日本の暮らしに欠かせない「木綿（コットン）」ですが、日本で初めて綿の種が伝わった地は、現在の愛知県西尾市（旧三河国）とされています"
+          "startIndex": 1471,
+          "endIndex": 1731,
+          "text": "西尾市天竹町（てんじくちょう）にある「天竹神社」は、この若者を綿の神様「棉祖神（新波陀神・にいはたがみ）」として祀る日本唯一の神社で、毎年10月下旬に「棉祖祭」が行われています"
         },
         "groundingChunkIndices": [
           3,
+          0,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 3151,
-          "endIndex": 3325,
-          "text": "平安時代初期の正史『日本後記』や『類聚国史』に、海を越えて流れ着いた異国の人が綿の種をもたらした記録が残されています"
+          "startIndex": 1758,
+          "endIndex": 1956,
+          "text": "天竹神社の棉祖祭では、海を渡って綿が伝来した故事にちなみ、神輿が一般的な形ではなく「船の形をした神輿（船みこし）」になって担がれます"
         },
         "groundingChunkIndices": [
-          4,
+          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1959,
+          "endIndex": 2091,
+          "text": "また、神事の中で古式ゆかしい道具を使った「綿打ち」の儀式が行われるのも全国でここだけです"
+        },
+        "groundingChunkIndices": [
+          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2121,
+          "endIndex": 2277,
+          "text": "実は、799年にこの青年が伝えた綿は、当時の三河の気候や土壌に合わず、数十年で一度栽培が途絶えてしまいました"
+        },
+        "groundingChunkIndices": [
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 3368,
-          "endIndex": 3450,
-          "text": "記録は延暦18年（西暦799年）、約1,200年以上も前の出来事です"
+          "startIndex": 2280,
+          "endIndex": 2394,
+          "text": "日本全国で綿栽培が本格的に定着するのは戦国時代から江戸時代にかけてのことです"
         },
         "groundingChunkIndices": [
-          3,
-          4
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3453,
-          "endIndex": 3725,
-          "text": "当時の試植は一度途絶えたものの、室町時代の永正7年（1510年）の文献『永正年中記』には年貢として「三川木綿」を納めた記録があり、文献上国産木綿として日本で最も古い記録の一つとなっています"
+          "startIndex": 2397,
+          "endIndex": 2620,
+          "text": "しかし、江戸時代に三河地方で「三河木綿」や「三河縞」が大流行した背景には、1200年前からこの地に受け継がれてきた綿への愛着と伝承があったと言われています"
         },
         "groundingChunkIndices": [
-          4,
+          1,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2650,
+          "endIndex": 2725,
+          "text": "愛知県公式Webサイト「西尾市の地域資源（伝統文化）」"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2650,
+          "endIndex": 2779,
+          "text": "愛知県公式Webサイト「西尾市の地域資源（伝統文化）」、西尾市観光協会「天竹神社の棉祖祭」"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2650,
+          "endIndex": 2830,
+          "text": "愛知県公式Webサイト「西尾市の地域資源（伝統文化）」、西尾市観光協会「天竹神社の棉祖祭」、三河織物工業組合「歴史について」"
+        },
+        "groundingChunkIndices": [
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 3728,
-          "endIndex": 3905,
-          "text": "江戸時代には「三河縞（みかわしま）」と呼ばれる厚手で丈夫な藍染め縦縞の綿布が、農作業着や布団地として全国へ流通しました"
+          "startIndex": 3251,
+          "endIndex": 3401,
+          "text": "現在の鉛筆の芯は、炭素の結晶である「黒鉛（グラファイト）」と「粘土」を高温で焼き固めて作られています"
         },
         "groundingChunkIndices": [
           7,
-          6
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 3951,
-          "endIndex": 4245,
-          "text": "西暦799年に小舟で三河湾に漂着したのは「崑崙人（こんろんじん＝天竺・インド方面の人）」と伝えられており、現在も西尾市天竹町には、全国で唯一の「綿の神様」を祀る「天竹（てんじく）神社」が鎮座しています"
+          "startIndex": 3404,
+          "endIndex": 3744,
+          "text": "1560年代にイギリスのボローデール鉱山で良質な黒鉛が発見された際、紙に滑らかに黒い跡が残る様子や鉛色の光沢から、当時の人々が「鉛の一種」だと誤認・混同して「黒鉛（黒い鉛）」と名付けてしまった名残が、筆記具の名前に残っているためです"
         },
         "groundingChunkIndices": [
-          4,
-          8,
+          7,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 4248,
-          "endIndex": 4500,
-          "text": "「天竹」という珍しい地名自体も「天竺（インド）」から渡来した綿の伝来に由来すると伝わっており、昔の三河の人々が海の向こうからの恵みを大切に受け継いできた心が和む歴史です"
-        },
-        "groundingChunkIndices": [
-          4,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4533,
-          "endIndex": 4621,
-          "text": "三河織物工業協同組合 公式Webサイト「三河木綿の歴史について」"
-        },
-        "groundingChunkIndices": [
-          3,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4626,
-          "endIndex": 4740,
-          "text": "西尾市観光協会「天竹神社・棉祖祭」「三河木綿から三河『衣食住』の歴史を知る」"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4745,
-          "endIndex": 4830,
-          "text": "愛知県 産業振興課「あいちの伝統工芸品：三河木綿・三河縞」"
+          "startIndex": 3786,
+          "endIndex": 3924,
+          "text": "日本筆記具工業会によると、最も一般的なHB鉛筆の芯の配合比率は「黒鉛が約70％、粘土が約30％」です"
         },
         "groundingChunkIndices": [
           10
@@ -385,9 +425,49 @@
       },
       {
         "segment": {
-          "startIndex": 4970,
-          "endIndex": 5192,
-          "text": "夏の縁側や庭仕事でおなじみの蚊取り線香ですが、明治23年（1890年）に世界で初めて作られた当初は、仏壇の線香と同じ「真っ直ぐな棒状（スティック型）」でした"
+          "startIndex": 3927,
+          "endIndex": 4071,
+          "text": "また、鉛筆1本の芯を最後の最後まで使い切った場合、書ける線の総距離は「約50キロメートル」に達します"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4074,
+          "endIndex": 4187,
+          "text": "これはフルマラソン（42.195km）を走り切ってもまだお釣りがくる途方もない長さです"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4214,
+          "endIndex": 4371,
+          "text": "鉛筆の芯の主成分である「黒鉛」は、実は宝石の「ダイヤモンド」とまったく同じ炭素（C）だけで構成されています"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4374,
+          "endIndex": 4536,
+          "text": "原子の結びつき方の違いだけで、世界一硬いダイヤモンドと、紙にこするだけで剥がれ落ちる軟らかい黒鉛に分かれます"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4566,
+          "endIndex": 4716,
+          "text": "日本に現存する最古の鉛筆は、江戸幕府を開いた徳川家康の遺品（静岡県の久能山東照宮所蔵）とされています"
         },
         "groundingChunkIndices": [
           11,
@@ -396,20 +476,9 @@
       },
       {
         "segment": {
-          "startIndex": 5195,
-          "endIndex": 5417,
-          "text": "しかし、棒状だとすぐに燃え尽きてしまい、寝ている間に蚊に刺されてしまうという問題があったため、長時間燃え続ける工夫として「渦巻き型」が考案されました"
-        },
-        "groundingChunkIndices": [
-          11,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5460,
-          "endIndex": 5544,
-          "text": "最初の棒状線香は長さ約20cmで、燃焼時間はわずか約40分でした"
+          "startIndex": 4719,
+          "endIndex": 4899,
+          "text": "長さ約11.4cmの小さなもので、芯にはメキシコ産の黒鉛の塊がそのまま使われており、海外の使節から献上されたものと見られています"
         },
         "groundingChunkIndices": [
           11,
@@ -418,41 +487,20 @@
       },
       {
         "segment": {
-          "startIndex": 5547,
-          "endIndex": 5744,
-          "text": "これに対し、渦巻き型をまっすぐに引き伸ばすと全長は約75cmにもなり、燃焼時間は大人の平均睡眠時間にちょうど合わせた「約7時間」持続します"
+          "startIndex": 4929,
+          "endIndex": 5028,
+          "text": "日本筆記具工業会「鉛筆を知る歴史・世界」「鉛筆を知るよくある質問」"
         },
         "groundingChunkIndices": [
-          11
+          7,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 5790,
-          "endIndex": 5919,
-          "text": "この渦巻きの形を発明したのは、創業者（上山英一郎）本人ではなく、妻の「ゆき」さんでした"
-        },
-        "groundingChunkIndices": [
-          11,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5922,
-          "endIndex": 6165,
-          "text": "長持ちさせようと棒を長くすると折れやすく置き場にも困る……と悩んでいた夫に対し、庭でとぐろを巻く蛇を見て「渦巻き型に巻いてみてはどうか」と提案したのがきっかけです"
-        },
-        "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6168,
-          "endIndex": 6355,
-          "text": "ただし、当時の技術で柔らかい線香を均一に手作業で巻くのは至難の業で、アイデアから商品化まで実に7年もの試行錯誤が費やされました"
+          "startIndex": 4929,
+          "endIndex": 5087,
+          "text": "日本筆記具工業会「鉛筆を知る歴史・世界」「鉛筆を知るよくある質問」、トンボ鉛筆「トンボKIDS えんぴつの歴史」"
         },
         "groundingChunkIndices": [
           13
@@ -460,29 +508,20 @@
       },
       {
         "segment": {
-          "startIndex": 6388,
-          "endIndex": 6518,
-          "text": "KINCHO（大日本除虫菊株式会社）公式Webサイト「害虫コラム：1世紀以上経っても、渦巻きです。」"
+          "startIndex": 5513,
+          "endIndex": 5606,
+          "text": "スズムシが鳴くのは求愛のためで、鳴くのは大人の「オス」だけです"
         },
         "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6523,
-          "endIndex": 6634,
-          "text": "KINCHO（大日本除虫菊株式会社）会社案内「皆様の暮らしの中にいつも金鳥の渦巻」"
-        },
-        "groundingChunkIndices": [
+          14,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 6758,
-          "endIndex": 7050,
-          "text": "日本の学校教室に普及している黒板の多くは深緑色ですが、名称が「緑板」にならないのは、明治時代初期にアメリカから持ち込まれた器具「blackboard（ブラックボード）」をそのまま日本語に直訳した名残だからです"
+          "startIndex": 5609,
+          "endIndex": 5792,
+          "text": "スズムシは口で鳴いているのではなく、背中にある左右の翅（はね）を垂直近くに立て、激しくこすり合わせることで音を出しています"
         },
         "groundingChunkIndices": [
           16,
@@ -491,85 +530,31 @@
       },
       {
         "segment": {
-          "startIndex": 7093,
-          "endIndex": 7242,
-          "text": "1872年（明治5年）の学制発布に伴い、お雇い外国人教師らによってアメリカから日本へ黒板が持ち込まれました"
-        },
-        "groundingChunkIndices": [
-          18,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7245,
-          "endIndex": 7365,
-          "text": "明治初期の国産黒板は、木の板に墨汁や漆などを塗った文字通りの「真っ黒な板」でした"
-        },
-        "groundingChunkIndices": [
-          18,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7368,
-          "endIndex": 7551,
-          "text": "現在のような緑色の黒板へと切り替わったのは戦後の昭和29年（1954年）頃のJIS（日本産業規格）改定や合成塗料の普及期以降のことです"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7597,
-          "endIndex": 7702,
-          "text": "黒から緑色へと変わった科学的な理由は「子どもの目の疲れを防ぐため」です"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7705,
-          "endIndex": 7870,
-          "text": "人間の網膜にある光受容体（錐体細胞）は緑色の波長に最も感度が高く、ピントを合わせる筋肉の緊張が少なくて済みます"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7873,
-          "endIndex": 8038,
-          "text": "さらに、木造校舎や電灯の光が反射して白くテカるのを防ぎ、白いチョークの粉の文字をくっきり見せる効果もありました"
+          "startIndex": 5795,
+          "endIndex": 6062,
+          "text": "右の前翅の裏側にあるギザギザの「やすり（鑢状器）」に、左の前翅の縁にある硬い突起「まさつ片」を擦り当て、翅の薄い膜（発音鏡）をスピーカーのように共鳴させて大きな音を響かせています"
         },
         "groundingChunkIndices": [
           16,
-          20
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 8041,
-          "endIndex": 8203,
-          "text": "板の色は目に優しい緑へと進化を遂げましたが、親しまれた「黒板」という名前だけは現在もそのまま残り続けています"
+          "startIndex": 6065,
+          "endIndex": 6110,
+          "text": "まさにバイオリンと同じ構造です"
         },
         "groundingChunkIndices": [
-          19,
-          21
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 8236,
-          "endIndex": 8384,
-          "text": "国立国会図書館「レファレンス協同データベース」（豊中市立図書館照会事例：草土文化『学校のなぞ2』等）"
+          "startIndex": 6152,
+          "endIndex": 6308,
+          "text": "スズムシが「リーン」と1回鳴くわずかな時間の間に、左右の翅は「40回以上」も高速で開閉運動を繰り返しています"
         },
         "groundingChunkIndices": [
           18
@@ -577,9 +562,59 @@
       },
       {
         "segment": {
-          "startIndex": 8389,
-          "endIndex": 8470,
-          "text": "日本黒板工業会（全国黒板工業連盟）の規格沿革・解説資料"
+          "startIndex": 6311,
+          "endIndex": 6596,
+          "text": "また、鳴き声の周波数は約4500Hzと非常に高く、人間の声の帯域（およそ300〜3000Hz）に合わせて設計されている一般的な電話機越しでは、鳴き声の周波数がカットされて相手に聞こえないという実験結果もあります"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6623,
+          "endIndex": 6763,
+          "text": "鳴いているスズムシを見ると翅が2枚しか見えませんが、実は成虫に羽化した直後には4枚の翅があります"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6766,
+          "endIndex": 6990,
+          "text": "成虫になったあと、自ら後ろ脚を使って後ろの2枚の翅（後翅）をもぎ取って落とし、前翅2枚だけにして身軽になってから鳴き始めるという驚きの生態を持っています"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7020,
+          "endIndex": 7167,
+          "text": "平安時代から室町時代にかけての貴族たちの間では、現在の「スズムシ」と「マツムシ」の呼び名が逆でした"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7170,
+          "endIndex": 7416,
+          "text": "『源氏物語』などの古典で「松虫」として愛でられていた虫は、黒い体に鈴のような澄んだ音で鳴く現在のスズムシのことで、後世に入れ替わったことが文献の考証で分かっています"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7446,
+          "endIndex": 7558,
+          "text": "国立国会図書館 レファレンス協同データベース「スズムシがどうやって鳴くのか」"
         },
         "groundingChunkIndices": [
           16
@@ -587,73 +622,158 @@
       },
       {
         "segment": {
-          "startIndex": 8563,
-          "endIndex": 8772,
-          "text": "昭和の給食でおなじみ、牛乳を甘くおいしくする「ミルメーク」は、愛知県名古屋市の食品メーカー（大島食品工業）が昭和42年に開発した大人気商品です"
+          "startIndex": 7446,
+          "endIndex": 7622,
+          "text": "国立国会図書館 レファレンス協同データベース「スズムシがどうやって鳴くのか」、京都嵐山 華厳寺（鈴虫寺）「鈴虫のひみつ」"
         },
         "groundingChunkIndices": [
-          0,
-          1,
-          2
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 8776,
-          "endIndex": 8976,
-          "text": "しかし、全国の学校で大ヒットしたにもかかわらず、地元である名古屋市の公立小学校では、発売から50年以上もの間、一度も給食に出ませんでした"
+          "startIndex": 8100,
+          "endIndex": 8211,
+          "text": "夏の間、葉が緑色に見えるのは「クロロフィル（葉緑素）」が大量にあるためです"
         },
         "groundingChunkIndices": [
-          1
+          21,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 9445,
-          "endIndex": 9582,
-          "text": "**2番：**「牛乳は白いまま飲むもの」という教育方針や、地元市役所に気兼ねして営業しなかったから"
+          "startIndex": 8219,
+          "endIndex": 8358,
+          "text": "**黄葉（イチョウなど）**：秋に気温が下がると、緑色のクロロフィルが先に分解されて消えていきます"
         },
         "groundingChunkIndices": [
-          1
+          22,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 9619,
-          "endIndex": 9819,
-          "text": "全国47都道府県で広く愛されたミルメークですが、名古屋市には「学校給食の牛乳は白いそのままの味で飲むのが基本」という指導方針がありました"
+          "startIndex": 8361,
+          "endIndex": 8550,
+          "text": "その結果、春や夏からずっと葉の中に隠れていた黄色の色素「カロテノイド」が表面に現れて黄色に見えます（すでにある色が現れただけ）"
         },
         "groundingChunkIndices": [
-          1,
-          2
+          21,
+          24
         ]
       },
       {
         "segment": {
-          "startIndex": 10026,
-          "endIndex": 10143,
-          "text": "良いものなら市から自然に声がかかるはずだ」と遠慮して営業に行かなかったそうです"
+          "startIndex": 8558,
+          "endIndex": 8685,
+          "text": "**紅葉（モミジなど）**：葉を落とす準備として、枝と葉の間に「離層（仕切り）」ができます"
         },
         "groundingChunkIndices": [
-          1
+          21,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 10146,
-          "endIndex": 10324,
-          "text": "そんなちょっと不器用で温かいすれ違いから半世紀以上提供されず、2019年末にようやく名古屋市の給食に登場して話題を呼びました"
+          "startIndex": 8688,
+          "endIndex": 8949,
+          "text": "すると光合成で作られた糖分が枝へ戻れずに葉に溜まり、日光（紫外線）を浴びることで新しく赤い色素「アントシアニン」が合成されて赤く染まります（秋になってわざわざ新しく作った色）"
         },
         "groundingChunkIndices": [
-          1
+          21,
+          25,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8991,
+          "endIndex": 9280,
+          "text": "林野庁や気象関連の資料によると、葉の色づきは日中の最高気温ではなく「1日の最低気温」が関係しており、最低気温がおよそ「8℃」を下回ると色づきが始まり、「5〜6℃」以下になると一気に進むとされています"
+        },
+        "groundingChunkIndices": [
+          26,
+          23,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9469,
+          "endIndex": 9778,
+          "text": "森林総合研究所の研究などによると、アントシアニンには強い紫外線から葉を守る「日傘」の働きがあり、葉が傷むのを防ぎながら、葉に残った窒素などの貴重な栄養分を幹へと回収し終える時間を稼いでいると考えられています"
+        },
+        "groundingChunkIndices": [
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10171,
+          "endIndex": 10278,
+          "text": "森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10171,
+          "endIndex": 10348,
+          "text": "森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」、環境省 中部地方環境事務所「紅葉のメカニズム」"
+        },
+        "groundingChunkIndices": [
+          27
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10171,
+          "endIndex": 10414,
+          "text": "森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」、環境省 中部地方環境事務所「紅葉のメカニズム」、広島大学デジタル自然史博物館「紅葉と黄葉」"
+        },
+        "groundingChunkIndices": [
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11062,
+          "endIndex": 11171,
+          "text": "日本筆記具工業会の調査によると、HB鉛筆1本で書ける距離はおよそ50kmに達します"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11174,
+          "endIndex": 11260,
+          "text": "フルマラソン（42.195km）を完走してもまだ先まで書ける計算です"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11263,
+          "endIndex": 11354,
+          "text": "小さな1本の軸の中に、それだけのパワーがぎっしり詰まっています"
+        },
+        "groundingChunkIndices": [
+          10
         ]
       }
     ],
     "webSearchQueries": [
-      "黒板 なぜ緑 日本黒板工業会 歴史 由来",
-      "蚊取り線香 渦巻き 理由 金鳥 大日本除虫菊 歴史",
-      "ミルメーク 大島食品工業 開発 歴史 誕生",
-      "三河木綿 歴史 蒲郡市 愛知県 由来"
+      "日本筆記具工業会 鉛筆 芯 鉛 歴史 なぜ",
+      "三河木綿 天竹神社 綿 伝来 歴史 西尾市",
+      "スズムシ 鳴く 仕組み 翅 やすり 博物館",
+      "紅葉 黄葉 仕組み 違い 森林総合研究所 林野庁"
     ]
   }
 }
