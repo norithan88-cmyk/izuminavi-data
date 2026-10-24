@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-10-24T08:51:15.748+09:00",
+  "updated_at": "2026-10-25T08:12:25.145+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026"
   ],
-  "event_count": 15,
+  "event_count": 14,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-10-24",
+      "start_date": "2026-10-25",
       "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "桜井こどもハッピーハロウィン祭",
-      "url": "https://www.city.anjo.aichi.jp/event/happyharowin/2026sakuraikouharowin.html",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-24",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
