@@ -1,33 +1,17 @@
 {
-  "updated_at": "2026-10-25T08:12:25.145+09:00",
+  "updated_at": "2026-10-26T08:15:49.973+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026"
   ],
-  "event_count": 14,
+  "event_count": 13,
   "events": [
     {
       "title": "”白鳥とコウモリ”安城特別展",
       "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-10-25",
+      "start_date": "2026-10-26",
       "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "作野公民館芸能まつり",
-      "url": "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "川と海のクリーン大作戦",
-      "url": "https://www.city.anjo.aichi.jp/event/26kawatouminoclean.html",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
@@ -108,6 +92,14 @@
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/koubojigyou/2026blo19.html",
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "★生涯学習課 学校ホリデー特集★",
+      "url": "https://www.city.anjo.aichi.jp/event/shogaku-2026schoolholiday.html",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-27",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
