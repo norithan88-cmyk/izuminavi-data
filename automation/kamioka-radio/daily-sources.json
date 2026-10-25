@@ -1,47 +1,41 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2142,
-  "estimated_minutes": 6.5,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2220,
+  "estimated_minutes": 6.7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "岐阜和傘の開閉に欠かせない、骨を束ねる中心部品「ろくろ」。割れないために全国で唯一使われている、岐阜の粘り強い木は何でしょうか。1番、エゴノキ。2番、ヒノキ。3番、クリスマスツリー。",
-    "answer": "正解は1番、エゴノキでした！繊維が細かくて摩擦に強いエゴノキしかだちかん、だめなんだって。3番のツリーは飾り付けで大渋滞やさ！",
+    "question": "学校のノートのB5サイズ。この「B判」はある岐阜の特産品がルーツなんですが何でしょうか。1番、美濃和紙。2番、飛騨牛のステーキ肉。3番、関の刃物。",
+    "answer": "正解は1番の美濃和紙でした！江戸時代の障子紙「美濃判」がもとになった日本独自の規格なんやって。2番のお肉サイズはおとましい、もったいなくて文字が書けんやさ！",
     "source_ids": [
-      22,
-      23,
-      24,
-      25,
-      26
+      6,
+      13
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxG5CsCUICjfGYNo7Ma7oIW8KXq_Y9UKWsxBlBxC5w86iIKAeQ2bk30oici74zDMDhkaiwrsV1qVv1Z-8I83neJ6Vat_wToo5gNBRXko75t09aZI6f",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCBobcRxqyh8hTjVNGN7jIsDKMiRKBjlgk478GnzLs5kx3toWBVf59Q1ZnQ4YS_GWrF4WFX7Ok91DyURkUNdtXmmxW-9H1WkqmEHM7NUY8jiG3SUF2_CA9sLajvRBBXusI",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQeWdYL1By3g49hSQuhn-SGAJYAi_LTbW4OnMi-nI66lJNgGU0X7mPlQWjjn_MLFOcU5gZV3ZPJ_g4DsJjcR9I12B70Ws37TZ5QtRlf-BUyKi7FX440T9zh4wTInasgKEC2z9b1w==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL_KnfEUFWXfFI2_bsuE0Hp19zY3S3YI7UPthFXrdsrNZeI_DRVW7GOhtByhBsV5LHrkZ5UYYb7uZsLV1kQ8oI6uwN0kCN9wwRvLR-vRAPT_R0W7JZTlvY8D-Nx0AiXkNvOScRATR2wH0w43OvQtH5WuA_9Wxo47EPAlSkNX2HzQH_bxXeLZbZhdI=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6ceW79iP5uZDAlxe0WEjOen2_M1IN0HLJyZNzUTTe7eseiPgfshb6S4U8YZwcqwy2h7gten45FxY19r3Nqnp1jyf3fJvQ2Ns0wavnKs2GRuO2Dy-Lz1jyvGcPJP09qBlr3kUvKAz4J3NQaIyXg=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlS2zkzQMmGpE6SlzuF2bzb41SI9tjdtDI_XPOIeVRI28QG0xst018ymOgTU482zg7mhqVYL7U950qTPPTGvWKG1NytQxNIaeOKkjdSRwtCkku3j34fnLJ3GJELOYXMZ5zvwFIuSB-uoTlkGKW1-xxXQpLiwHcZ87n2Mfmp0pZTM8PLD5PiBS7tRNFQ6U=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVdQ31jbayWFvI54N0tVCf-QfXExWsmUVjj2nKH2HVYaVljQEvg_nM6vFjNoj2KzkEUQM4xEwYsJNQXLMp_vCAyRhQt5qJN26W8t3nc8QKCiRk1C_n2oOKEl8m20cKOxplUYLa3xCbWP7UZaw1Gg=="
     ]
   },
   "izumi": {
-    "text": "神岡の地下に眠る、とんでもないスケールのお宝に迫る時間です！神岡鉱山の地下1000メートルにあるスーパーカミオカンデ。ここにある水、なんと5万トン！えっ、5万トンって聞いてないんだけど！初代カミオカンデの水が3000トンだったから、約16倍の巨大化ですよ。16倍って、普通盛りのラーメン頼んだら洗面器どころか浴槽サイズが出てくるレベルやさ！壁に並んだ光のセンサー、光電子増倍管も初代の1000本から一気に約1万3000本へ大増殖。暗闇の地下で、宇宙から飛んでくる素粒子ニュートリノをじーっと待ち伏せしとるわけです。初代も1987年に超新星爆発からのニュートリノを世界で初めて捉えて小柴昌俊さんが2002年にノーベル物理学賞をもらったのに、スーパーなほうも負けていません。1998年に大気ニュートリノの観測からニュートリノ振動を発見して、2015年に梶田隆章さんがノーベル賞！同じ山の中から2回もノーベル賞って、世界中の物理学者が神岡に足を向けて寝られんやろー。しかも2020年からは水にレアアースを混ぜてさらに新しい発見を狙っとるし、次は純水26万トンのハイパーカミオカンデまで計画中。地下で世界の科学を引っ張っとるなんて、神岡の誇りやさね！",
+    "text": "みおんの神岡ディープ！今朝は神岡の原点ともいえる大人物、茂住宗貞にスポットを当ててみまい！\n神岡といえば、2001年に採掘を終えるまで三井金属鉱業が運営して、亜鉛や鉛、銀、ビスマスやカドミウムなどを掘って精錬した大鉱山の町やさね。跡地の地下にはスーパーカミオカンデも置かれとるけど、歴史をググッと巻き戻すと戦国時代に行き着くんです。\nもともと江馬氏の城下町だった神岡は、そのあと金森氏の領地になって鉱山開発に力が注がれたんやけど、ここで大活躍したのが茂住宗貞さん！1559年から1642年にかけて、茂住や和佐保の銀山や銅山を開発したすごい人なんです。戦国から江戸の初めにかけて、いわば神岡の初代社長として、町が発展する土台をゼロから築き上げた張本人やさ！\n今でいうなら山奥で起業して大成功したカリスマ創業社長やよね。もし当時SNSがあったら「山掘ったら銀出た、会社作るわ」って大バズりして、転職サイトからスカウト殺到やったはず！\n山に分け入って銀や銅を見つけ出し、数百年も続く鉱山の町に育て上げた宗貞さん。神岡のすごいパイオニア精神は、この戦国の初代社長から始まっとったと思うと、めちゃくちゃ誇らしいやろー！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-water",
-      "hook": "地下1000メートルに5万トンの水。初代の約16倍、光のセンサー1万3000本というスケール感"
+      "id": "mine-sadamune",
+      "hook": "戦国時代の茂住宗貞。銀山を開いた、いわば神岡の初代社長"
     }
   },
   "local": {
-    "text": "11月1日の日曜日に神岡図書館で、神図音楽会が開催されます。古林音楽教室さんによるエレクトーンや電子ピアノ、カホンやハンドベルの演奏が楽しめますよ。秋の休日に図書館でゆったり音楽を聴くのも素敵やさね。",
+    "text": "11月1日の日曜日に、神岡図書館で「神図音楽会」が開かれます！古林音楽教室のみなさんによるエレクトーンや電子ピアノ、カホン、ハンドベルの演奏が楽しめるそうやさ。本に囲まれた図書館にいろんな楽器の音色が響くなんて、想像するだけでワクワクするやろー！ぜひ聴きに行ってみまい！",
     "source_ids": [
-      29
+      26
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/31/88057.html"
@@ -49,197 +43,175 @@
   },
   "segments": [
     {
-      "topic": "甘柿の王様「富有柿」は岐阜生まれ！名前に込められた意外な歴史",
-      "text": "秋の味覚といえば柿ですが、スーパーで見かける甘柿の王様、富有柿って実は岐阜県生まれだって知っとった？明治時代に今の瑞穂市で、福嶌才治さんという農業技術者の方が、味も色も優れた木を見つけて接ぎ木で増やしたのが始まりなんだって。岐阜県の柿の栽培面積では、なんと約80パーセントがこの富有柿！糖度も16度から19度前後とメロン並みに甘くて果汁たっぷり。しかもタネが入らなくても渋が抜ける完全甘柿の最高峰なんです。岐阜の気候が絶妙で、九州より暖かいと赤くならんし、岐阜より寒いと渋が抜けにくいらしいよ。寒暖差にうるさい、なかなかのわがままボディやさね！ところで「富有」ってお金持ちっぽい名前、どこから来たか気にならん？実は1892年に中国の古い教典にある「徳を修めて心が満ち足り、家が栄える」っていう超立派な言葉から名付けられたんだって！単に「実がぎっしりあってリッチ」みたいな単純な話じゃなかった！瑞穂市にある樹齢100年を超えた原木は、今でも毎年実をつけとるらしいよ。人間ならとっくに隠居してコタツでぬくぬくしとる年齢なのに、現役バリバリで働き者すぎるやろー！家族で柿を剥くときは「これ岐阜生まれの超エリートやよ」って自慢しながら食べまい！",
+      "topic": "アルミホイルを切るだけでハサミの切れ味が復活する謎",
+      "text": "工作やゴミ分別でハサミを使っていて、粘着テープのネバネバや紙の切りすぎで、切れ味が悪くなってキーッてなったことない？切れ味悪いハサミって本当にだちかん、イライラして余計にえらい、疲れてまうやさね。\nそんなときに大活躍するのが、台所にあるアルミホイル！これを2、3回折りたたんで厚みを出して、ハサミでチョキチョキと10回切るだけ。えっ、うそでしょ！？金属を切ったら余計に刃がボロボロになりそう…って、みおんも最初は聞いてないんだけどってツッコミたくなったんやさ！\nでもこれ、ちゃんと科学的な理由があるんです。アルミニウムは金属の中でも柔らかくて伸びやすい性質を持っとるのね。ハサミで切ると、強い圧力と摩擦熱で目に見えないアルミの粒子が剥がれ落ちて、刃のミクロな欠けや凹みにキュッと入り込んで埋めてくれるんです！\n金属加工で「構成刃先」って呼ばれる現象なんやけど、ハサミがアルミを削って、その削りカスが刃をパックして修復しとるんやさ。刃を削って研ぐんじゃなくて、逆に埋めて補修しとったなんて驚きやろー！\n刃物のまち関市がある岐阜県民としては、ハサミの切れ味にはこだわりたいところ。もしハサミがくたびれてきたら、買い替える前にぜひアルミホイルを切ってみてね！",
       "source_ids": [
-        2,
-        3,
-        4,
-        6
+        14,
+        18
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSRHh8tdFSbFJSgzn7n3eerqFTsxiTXTmMVcTVwQl1fpCtp7htwvAQQeFl2Xrwbdw29HNKVOfsMk3u0lmZqazJatufsQLft-6_0sQmJQMgfGJMSdiU79arE574iF3GYiguyBlbhs=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgUZA_zBxKK7NvWYcyCYEtDiz3pLLCUb75k3ttayhpPBtsEGJyrYYAkWWYwugUWsqtx7Q_uSiLaG2PJ2ijq-8nUVjU2v92SL1kK_DkaQ72Xq8e7b5G9XKfhwkSJNkYsj2dAew0VaJNWvPRGPzdwWEfT_C7U9g=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQMXnolmEkMbd6rNoOe71P2PgKX3g9Z9_VOHmnLujafN-Ia5u-mN1hFkU-Pn41TvRzXXpGMpTgDrt4uvMEpK-8GENFFHy3QEBxc1u537Ff3GNHObQUqYTo4sid4BUNsrQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6GVUnviUtczUGYugpHOCqIkiU9AjgC9Y58gfF7MQFVvZeWwZcaeacQmevuicOBynRcKNE3xj8WppeXVaRqmYiKL67zsLB9hH_wh1fh1iFj-FMVgC5FYBU0AMX1w=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuFBsFwQRbg72IIMpEteu_rqAFFkI3CXel6iLUoo05T-YDaROWUKSJOgrcnErNHdGRMbFaW6WZqYtcX7vjAkujXjF81FBRZA46A3eqXDPqp50hzptYJtYVdY6Xb63sCaU7WEhk",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvxYkzEU9wHEw4lvJPA4wsA_Zi-b_7hqlXJ-c_lk-mnf3VbZE19yeUrPp_GAFX_oakgA3X5fkzJY5b82ZZAADedZ6XRC0-u3n_f4Hz-eoopnWZDclsRn8_4O3u5kQptC0CdXbC0SMhGi1MEHopTUMHxQz_DQ=="
       ]
     },
     {
-      "topic": "イチョウは引き算でモミジは足し算？秋の葉っぱが色づく真逆の科学",
-      "text": "柿を食べながら山を眺めると、紅葉がはや綺麗になってくる季節やさね。あ、はやは、もうって意味！赤や黄色に染まる山だけど、実はイチョウの黄色とモミジの赤、色がつく仕組みが正反対の真逆なんだって！イチョウは「引き算」で、モミジは「足し算」って聞いて、みおん、算数の話かと思って頭から煙が出そうになったよ…って、AIだから熱暴走しとる場合じゃないわ！どういうことかというと、夏の葉っぱには緑色の色素が黄色の色素の5倍から8倍も入っとって、黄色が完全に隠されとるんです。秋になって最低気温が8度以下、さらに5度から6度以下に冷え込むと、イチョウは寒さで緑色の色素が分解されて消えていくの。つまり、元から隠れとった黄色が表に出てくる「引き算」！一方のモミジは、寒くなると葉の付け根にフタができて、光合成で作った糖分が枝に戻れず葉っぱに溜まるんだって。そこに強い日光が当たると化学反応が起きて、夏には影も形もなかった赤い色素が新しく合成される、まさに「足し算」！夏休みの宿題を溜め込んだら最後に真っ赤な奇跡が起きた、みたいな力技やさね。昔の万葉集の時代は秋の葉を「黄葉」って書くのが主流だったらしいけど、山を見上げるときは引き算と足し算を探してみてね！",
+      "topic": "洗濯物が30分早く乾く！部屋干しは「アーチ干し」が最強",
+      "text": "そういえば、ハサミでアルミホイルを切る知恵もそうやけど、ちょっとした工夫で劇的にラクになる暮らしの技って、まだまだあるんやさ。\n神岡もだんだん冷え込んできて、洗濯物を部屋干しする日が増えてきたんじゃない？でも部屋干しって、なかなか乾かなくて生乾きのイヤな臭いがしてくると、もう本当にだちかんよね。\n実は、角ハンガーに干すときの順番を少し変えるだけで、乾く時間が30分も早くなる裏ワザがあるんです！その名も「アーチ干し」！\nやり方は簡単で、ピンチの外側にズボンみたいな丈の長い服を吊るして、真ん中にいくほど靴下みたいな丈の短い服を干すだけ。横から見ると、服の裾がアーチ状、つまりドームみたいに真ん中がへこんだ形になるわけ。\nえっ、長い服と短い服を交互に干したほうが、すき間ができて風が通るんじゃないの？って思うやろー。みおんもそう思ってました！\nでも実験によると、交互に干すと風が遮られちゃうんやって。真ん中を短くして下をポカッと空けると、洗濯物のまわりに下降気流、つまり上から下へ吹き抜ける空気の流れが生まれて、湿った空気を下に追い出してくれるんです！\n部屋干し臭は濡れてから5時間を超えると菌が増えやすくなるから、この30分の短縮が臭いを防ぐ決定打になるんやさ。今日から角ハンガーは、ぜひ真ん中をへこませる「アーチ干し」で干しままい！",
       "source_ids": [
-        7,
-        10
+        20,
+        22
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtBzObEq_J6UlHInQqtwEeNuZYQXapD5GmFCWXlRtp9X3XqiT96LkXPECzy23KXatT5yOjTfIofdfFU10cmlceNLsiblHyX6Z1MQSvkzXTWJkKuWr7DsfCIKp-gu3Tc1u9mpf5sjAs",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL7v093qd_aSpERI9PROXsr38Xsjg4OEvFsNtWUACIN4AIi_kgiSsAdWq50YKRO_Cd6IuVY_2wYrH1sO2qLbGiBc4-sy5d_rZP2HuQ7x15Bryuy_VskV7W8FOqTP-cSAn9_n8="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnvew_hFovz27TzMcTvTiEEYcqxe11Y6hlJV74rJVyKzcqnId_e6UoKoKe4ZMsdycL3I7W7NCxyIr6NK3i3CP7-sj1yPChcpHLgR6_jyXDXVBUdkliwTLwJA-md3K5IOXL6ri",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFgqO6ViFec6q1QyOO03pgtr72_QK0rA1dxg1beO5RyJELc0YTprErtHgUqtcV_fhQWQKBKEDIBwJxLL3OJVybiIx7iMXzK9ms1JY7hODJPaZI5AGGouwa"
       ]
     }
   ],
-  "research": "日本時間10月25日、秋が深まり朝晩の冷え込みが増す飛騨市神岡町周辺に向けて、家族や友人に話したくなる「季節・趣味・ゆったりした秋の自然と文化」の調査メモを作成しました。岐阜県の特産・文化や秋の山里に直結する題材を中心に、公的機関・研究機関の資料に基づいて整理しています。\n\n---\n\n### 【第1件】甘柿の王様「富有柿」は岐阜生まれ！なぜ「富有」と呼ばれるのか？\n\n* **理由（誕生の背景）**  \n  現在、全国の甘柿を代表する品種である「富有柿（ふゆうがき）」は、岐阜県瑞穂市居倉（旧巣南町）が発祥です。明治時代、地元の農業技術者であった福嶌才治（ふくしまさいじ）氏が、地域にあった「居倉御所（御所柿）」の中から色・形・味ともに極めて優れた木を見出し、接ぎ木して増殖に成功させたことで誕生しました。\n* **具体的な数字や比較**  \n  岐阜県の柿の栽培面積において、富有柿は実に約80%を占めています。果実は丸みを帯びた四角形で、糖度は16〜19度前後と非常に甘く、果汁が多いのが特徴です。気候への適応が繊細で、「九州より暖かい地域では果皮が赤くなりにくく、岐阜より寒い地域では渋が抜けにくい」という性質があり、岐阜の気候条件が絶妙な甘さと鮮やかな橙紅色を生み出しています。\n* **意外な点**  \n  元々日本の柿は渋柿ばかりでしたが、日本で偶然の突然変異により甘柿が生まれました。その中でも富有柿は、タネが入らなくても渋が抜ける「完全甘柿」の最高峰とされています。また、瑞穂市居倉にある「富有柿の原木（市指定天然記念物）」は、樹齢100年を超えた現在でも毎年実をつけています。\n* **ちょっとした歴史の裏話**  \n  「富有」という特徴的な名前は、1892年（明治25年）に命名されました。中国の儒教の経典『礼記（らいき）』にある一節「富貴にしてその礼を好めば、則ち道徳純にして、その身富有なり（徳を修めて心が満ち足り、家が栄える）」から引用して名付けられたという、格式ある由来を持っています。\n* **主な出典・根拠**  \n  * 岐阜県農産園芸課「かき」公式解説  \n  * 瑞穂市役所「富有柿の歴史」／岐阜県観光公式サイト「富有柿発祥の地 富有柿の原木」\n\n---\n\n### 【第2件】イチョウは「引き算」、モミジは「足し算」？秋の葉が色づく真逆の仕組み\n\n* **理由（色の変化が起きる仕組み）**  \n  秋の山々を彩る「紅葉（赤）」と「黄葉（黄）」は、見た目の華やかさは似ていますが、葉の内部で起きている化学変化は正反対です。黄葉は葉の中に隠れていた色が現れる「引き算」、紅葉は新しい色が葉の中で合成される「足し算」で色が変わります。\n* **具体的な数字や比較**  \n  夏の葉には、緑色の色素「クロロフィル」が、黄色の色素「カロテノイド」の5倍〜8倍も多く含まれており、緑色に覆い隠されています。秋になり最低気温が約8℃以下になると色づき始め、5〜6℃以下になると一気に変色が進みます。\n* **意外な点**  \n  イチョウなどの「黄葉」は、寒さによって緑色のクロロフィルが分解・回収され、元からそこにあった黄色（カロテノイド）が露わになっただけです。一方、モミジなどの「紅葉」は、葉の付け根に「離層（りそう）」というコルク状のフタができ、光合成で作られた糖分が枝に回収できずに葉に溜まります。その糖分に強い日光が当たることで化学反応が起き、夏の間は葉の中に存在しなかった赤い色素「アントシアニン」が新たに作られます。\n* **ちょっとした歴史の裏話**  \n  古代の日本では、モミジの色づきを「黄葉（もみち／もみじ）」と書くのが主流でした（奈良時代の『万葉集』でも「黄葉」という表記が数多く登場します）。当時は秋に葉の色が変わること全般を指していましたが、平安時代以降、貴族たちが庭園のカエデの赤色を愛でる文化が定着するにつれ、「紅葉」という漢字が一般化していきました。\n* **主な出典・根拠**  \n  * 農林水産省 広報誌『aff』「特集2 森へ行こう(2) 紅葉・黄葉の不思議」  \n  * 国立研究開発法人 森林研究・整備機構「森林の生き物 Q&A（紅葉のしくみ）」  \n  * 環境省 中部地方環境事務所「紅葉のメカニズム」\n\n---\n\n### 【第3件】なぜドングリは極端な「大豊作」と「大凶作」を繰り返すのか？森の生存戦略\n\n* **理由（マスティング現象）**  \n  ブナやミズナラなどのブナ科樹木の実（ドングリ）は、毎年均等に実るのではなく、山全体で同調して大量に実る「豊作年」と、ほとんど実がつかない「凶作年」を数年おきに繰り返します。この現象は植物生態学で「マスティング（種子の一斉豊凶）」と呼ばれます。\n* **具体的な数字や比較**  \n  豊作と凶作の差は極端です。森林の研究調査（東京大学演習林の秩父山地データなど）によると、ブナの豊作年には1平方メートルあたり約950〜990個（1ヘクタールあたり約3トン相当）もの種子が林床に落ちる一方、凶作年にはほぼゼロ近くまで落ち込みます。また、森林総合研究所が東北・北上山地で40年以上観測したデータでは、ミズナラの豊凶周期はかつて3〜4年周期でしたが、近年の気温上昇に伴い約2年周期へと短縮化していることが確認されています。\n* **意外な点**  \n  樹木が疲れて実をつけられないのではなく、植物が編み出した「捕食者飽和（ほしょくしゃほうわ）戦略」という巧みな生存戦術です。毎年安定してドングリを実らせると、それを食べるネズミや鳥、クマなどの動物の数が一定に保たれ、すべての種子が食べ尽くされてしまいます。あえて数年間「凶作」にして動物たちの数を減らし、その後に「食べきれないほど桁違いのドングリ」を一斉に落とすことで、動物がお腹いっぱいになっても種子が余り、確実に芽を出して生き残れるようにしているのです。\n* **ちょっとした歴史の裏話**  \n  森中の同じ種類の木々が、互いに何キロも離れていてもなぜか「今年は豊作にするぞ」と足並みを揃えて一斉に結実します。前年の夏の気温や乾燥度合い、春の開花期の気象条件などを木々が感知して同調していると考えられていますが、その厳密な合図の伝達メカニズムは、現代の植物科学でもまだ完全には解明されていない奥深い謎です。\n* **主な出典・根拠**  \n  * 国立研究開発法人 森林研究・整備機構 森林総合研究所「変わりつつあるドングリの豊作周期」  \n  * 東京大学演習林「堅果の豊凶とツキノワグマの生態」\n\n---\n\n### 【第4件】全国シェアの命運を握る！和傘を開閉させる部品「ロクロ」と「エゴノキ」の謎\n\n* **理由（岐阜和傘と特殊パーツの結びつき）**  \n  岐阜県の岐阜市加納地区を中心に発展した「岐阜和傘」は、国の伝統的工芸品にも指定されている岐阜を代表する工芸です。和傘を開いたり閉じたりするとき、数十本の竹骨を中心で束ねて上下にスライドさせる核心部品を「轆轤（ろくろ）」と呼びますが、現在この和傘用ろくろを専門に製造できる木工所は、全国で岐阜県（羽島郡岐南町・長屋木工所）のわずか1軒しか残っていません。\n* **具体的な数字や比較**  \n  岐阜和傘は最盛期の昭和25年（1950年）頃には年間約1200万〜1600万本が生産され、現在も国内生産の大半を岐阜が担っています。和傘1本を仕上げるには100を超える緻密な分業工程がありますが、その全ての開閉機構を、岐阜の職人が削る小さな「ろくろ」が支えています。\n* **意外な点**  \n  このろくろは、プラスチックや金属、一般的なスギやヒノキでは代用できず、「エゴノキ」という特定の樹木でなければ作れません。ろくろには傘の竹骨を1本ずつ糸で留めるため、数ミリ単位の極めて細い溝（目）と穴が無数に彫られます。エゴノキの木材は繊維が非常に緻密で粘り強く、細かく刃を入れても割れず、何百回・何千回の開閉摩擦にも耐えられる唯一無二の性質を持っているためです。\n* **ちょっとした歴史の裏話**  \n  2012年、全国で唯一エゴノキを山から切り出していた高齢の木こり職人が亡くなり、日本の和傘作り全体がパーツ供給停止で途絶えかけるという危機に直面しました。これを救うため、岐阜県美濃市にある県立大学校「岐阜県立森林文化アカデミー」の教員や和傘職人たちが立ち上がり、美濃市の山（瓢ヶ岳）に自生するエゴノキを調査・保全・伐採して職人に届ける「エゴノキプロジェクト」が発足し、現在も和傘文化の心臓部を県内で守り継いでいます。\n* **主な出典・根拠**  \n  * 岐阜県立森林文化アカデミー「エゴノキプロジェクト」活動報告  \n  * 岐阜県緑化推進委員会「森の名手・名人聞き書き（和傘轆轤職人）」  \n  * 経済産業省 伝統的工芸品「岐阜和傘」指定資料\n\n---\n\n### リスナー参加型：3択クイズコーナー案\n\n**【第4件（岐阜和傘）から出題】**\n\n* **問題：**  \n  岐阜が全国に誇る伝統工芸「岐阜和傘」。傘を開閉するときに竹骨を束ねて動かす最も重要な部品「ろくろ」は、プラスチックや金属、普通の木では割れてしまうため、昔からある特定の木でしか作ることができません。現在も全国で岐阜県の職人だけが削り出している、その粘り強い木の名前は何でしょう？\n  * ① 東濃ヒノキ（ヒノキ）\n  * ② エゴノキ\n  * ③ クリ（栗の木）\n* **正解：**  \n  **② エゴノキ**\n* **解説トークのポイント：**  \n  エゴノキは初夏に可愛らしい白い小花を咲かせる身近な里山の木ですが、材の繊維が非常に緻密で粘り強く、細かなスリットや穴をたくさん開けても割れないという奇跡的な性質を持っています。日本の和傘を開閉できるのは、岐阜の職人技とこのエゴノキのおかげです。",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ放送向けに、放送ですぐに活用できる「暮らしの知恵・身近な工夫」の調査メモを作成しました。月曜日の「家計の日」に合わせた最新の値上げ情報とやりくりの知恵、岐阜県にゆかりのある歴史的な暮らしの知恵、そして日々の家事をラクにする工夫を整理しています。\n\n---\n\n# ラジオ放送用調査メモ：思わず話したくなる「暮らしの知恵・身近な工夫」\n\n---\n\n## 1. 【家計の日】今月の値上げ動向と、調味料を余らせない「使い切り」の知恵\n\n### 疑問\n「10月に入ってまた色々なものが値上がりした気がするけれど、実際には何がどれくらい上がったの？ 家計を守るにはどんな工夫ができる？」\n\n### 理由\n帝国データバンクの発表によると、中東情勢を受けた原油・ナフサ高、包装資材・エネルギー代の高騰、人件費や物流費の上昇、そして円安の影響が複合的に重なり、秋口に飲食料品の値上げが集中しました。特に10月は酒税改定の影響を受けた発泡酒や第三のビール、清涼飲料水などの「酒類・飲料」と、マヨネーズや醤油などの「調味料」が値上げの中心となっています。\n\n### 具体的な数字や比較\n* **10月の値上げ品目数**: **3,153品目**（帝国データバンク「食品主要195社」価格改定動向調査、2026年9月30日公表）。月間3,000品目超えは2カ月連続で、年内では9月（4,965品目）に次ぐ規模。\n* **年間累計**: 2026年通年（1〜12月判明分）で**20,187品目**となり、2年連続で2万品目を突破。\n* **主な分野**: 「酒類・飲料」が最多の1,399品目、「調味料」が820品目。値上げ要因の91.3%を原材料高が占めています。\n* **今後の見通し**: 11月の値上げは1,469品目と大幅に減少する見込みで、秋の値上げラッシュは10月がピークとみられています。\n\n### 暮らしのやりくり豆知識\n調味料の値上げ対策として手軽にできるのが**「専用の合わせ調味料を買い足さず、基本調味料で作る」**ことと**「容器の底に残った調味料の使い切り」**です。\n例えば、残り少なくなったマヨネーズやドレッシングの容器に、酢やオリーブオイル、塩コショウを少量入れてよく振ると、最後の一滴まで自家製ドレッシングとして使い切ることができます。また、野菜の皮やヘタを冷凍ストックして煮出し、スープの出汁（ベジブロス）にすると、コンソメやだしの素の節約と食品ロス削減の両立になります。\n\n### 意外な点\n値上げ品目数としては10月が大きな山場ですが、11月以降はペースが落ち着く見込みです。買い溜めをして使い切れずに賞味期限を切らしてしまうより、値上がりした調味料や飲料の「使い残し・飲み残しゼロ」を徹底する方が、日々の家計防衛につながります。\n\n### 歴史の裏話\nかつての日本では調味料を「量り売り」で容器を持参して購入しており、一滴も無駄にしないのが日常でした。現代の食品メーカーの包装技術は非常に進化しており、近年は調味料ボトルが空気に触れず酸化しにくい二重構造（密封ボトル）になるなど、最後まで鮮度を落とさず使い切れる工夫が施されています。\n\n* **出典**: 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日発表）\n\n---\n\n## 2. 身近なノートや雑誌のサイズ「B判」は岐阜の紙がルーツだった！？（★3択クイズ対象）\n\n### 疑問\n「ノートのB5やチラシのB4など、身の回りにある紙の規格『B判』って、誰がどうやって決めたの？」\n\n### 理由\n日本の用紙規格である「B列（B判）」は、**江戸時代に岐阜県で作られていた伝統的な和紙「美濃判（みのばん）」の寸法を基準にして制定された**日本独自の規格だからです。世界共通の「A列」が19世紀末のドイツ発祥であるのに対し、B列は古くから日本人に親しまれていた美濃和紙の寸法がルーツになっています。\n\n### 具体的な数字や比較\n* **A判とB判の基準**: A列（国際規格）は面積1㎡の長方形（A0＝841×1189mm）を基準とし、日本のB列（JIS規格）は面積1.5㎡（B0＝1030×1456mm）を基準にしています。\n* **寸法の比較**: 江戸時代の「美濃判」の寸法は**縦約273mm × 横約394mm（1尺3寸×9寸）**で、現在の「B4サイズ（257mm × 364mm）」に非常に近い大きさです。\n\n### 意外な点\n世界規格（ISO）のB列と、日本のJIS規格のB列は実はサイズが異なります。世界中で使われているA判（A4など）に対し、日本のB判（B5ノートやB4原稿用紙など）は「日本国内の美濃和紙の伝統」を残すために定められた、ほぼ日本独自の用紙規格です。1993年に国の行政文書がA4に原則統一されるまでは、役所の公式書類も美濃判由来のB判が長年使われていました。\n\n### 歴史の裏話\n美濃和紙は1300年以上の歴史を誇り、奈良時代の正倉院文書（大宝2年・702年の美濃国戸籍）にも遺る日本最古級の紙です。繊維が縦横に整然と絡み合って丈夫で破れにくく、江戸時代には江戸幕府の公用紙に指定されました。町人の間でも障子紙として大人気を博し、建具の規格そのものが「美濃判」に合わせて作られるほど全国標準となりました。その使い勝手の良さが、昭和4年（1929年）の規格統一（旧JES）の際にも引き継がれ、現在のB判となったのです。\n\n### 【リスナー向け3択クイズ】\n* **問題**:\n  「学校のノートや週刊誌で使われる『B5』や、折込チラシの『B4』といった用紙規格の『B判』。実は、岐阜県のある伝統工芸品の寸法がルーツになって誕生しました。それは次のうちどれでしょう？」\n  * ① 飛騨春慶（漆器のお盆のサイズ）\n  * ② 美濃和紙（江戸幕府も愛用した障子紙のサイズ）\n  * ③ 関の刃物（日本刀を包む奉書紙のサイズ）\n* **正解**: **② 美濃和紙**\n* **解説トーク例**:\n  「正解は②の『美濃和紙』です！ A判はドイツ発祥の世界規格ですが、B判は岐阜県美濃市の『美濃判』という伝統的な和紙サイズがもとになった日本独自の規格なんです。身近なノートや雑誌を開くたび、岐阜の伝統工芸の歴史が息づいていると思うと、少し誇らしくなりますね」\n\n* **出典**: 武蔵野美術大学 造形ファイル『B列用紙サイズ』、美濃市 美濃和紙の里会館 公式資料\n\n---\n\n## 3. なぜ「アルミホイルを切る」だけでハサミの切れ味が復活するのか？\n\n### 疑問\n「紙やビニールが切りにくくなったハサミ。アルミホイルをチョキチョキ切るだけで切れ味が戻るって本当？ 刃が削れてボロボロになったりしないの？」\n\n### 理由\n金属加工の現場で知られる**「構成刃先（こうせいばさき）」**という現象が起きるためです。アルミニウムは金属の中でも非常に柔らかく、融点が低く、圧力を受けると伸びやすい（展延性が高い）性質を持っています。ハサミでアルミホイルを切ると、切断時の強い圧力と摩擦熱によって微小なアルミ粒子が剥がれ、ハサミの刃にある目に見えない「微細な欠けや凹み」に溶着・充填され、刃先が平らになって切れ味が一時的に回復します。\n\n### 具体的な数字や比較\n* **手順の目安**: 家庭用のアルミホイルを**2〜3回折りたたんで厚みを持たせ、ハサミで10回程度切る**だけで効果が出ます。\n* **汚れ落としとの比較**: ハサミが切れない原因が「粘着テープの糊」である場合、アルミホイルを切る前に**「消しゴム」で刃のベタつきを擦り落とす**と、糊をきれいに絡め取ることができます。\n\n### 意外な点\n「金属を切ることで、砥石のように刃を削って研いでいる」と思われがちですが、実際はその逆です。**ハサミがアルミを削り、その削りカスが刃の欠けた部分を補修して埋めている**のです（あくまで応急処置のため、本格的な刃こぼれには専門の研ぎが必要です）。\n\n### 歴史の裏話\n岐阜県関市は、鎌倉時代から続く刀鍛冶の伝統を受け継ぎ、ハサミや包丁の生産量で日本屈指を誇る「刃物のまち」です。ハサミは2枚の刃が絶妙な圧力で擦れ合って切る構造（裏スキ・ひねり）をしており、素人が砥石で刃の内側を研ぐと噛み合わせが狂って逆に切れなくなってしまいます。そのため、刃の噛み合わせを崩さずに家庭で手軽にできる応急メンテナンスとして、アルミホイルを使う方法が重宝されています。\n\n* **出典**: ウェザーニュース（家事代行サービス専門家解説）、貝印株式会社 公式資料（ハサミの製造工程・構造解説）\n\n---\n\n## 4. 洗濯物が30分早く乾く！部屋干しの「アーチ干し」の科学\n\n### 疑問\n「秋から冬にかけて神岡の冷え込む季節、洗濯物を室内干しする機会が増えますが、一番早く乾かして部屋干し臭を防ぐ干し方は？」\n\n### 理由\nピンチ付きの角ハンガーを使う際、**「両端の外側に長い衣類、内側に向かって短い衣類」を干す『アーチ干し』にすると、洗濯物の下部に大きなドーム状の空間が生まれ、風の通り道ができる**ためです。さらに、洗濯物の外側と内側の乾きやすさの差によって洗濯物周辺に「下降気流（下向きの空気の流れ）」が発生し、湿った空気を効率よく下に逃がす効果があると考えられています。\n\n### 具体的な数字や比較\n* **乾燥時間の差**: 洗剤メーカー・ライオンの実験によると、長いものと短いものをランダムに干す「長短干し」に比べて、アーチ干しは**約30分乾燥時間が短縮**されます。\n* **臭い発生のリスク**: 部屋干し特有の生乾き臭は、乾くまでに時間がかかるほど菌が増殖して発生します。洗濯物が濡れてから**「5時間以内」に乾かせるかどうかが臭い防止の大きな境目**とされており、この「30分の短縮」が生乾き臭を防ぐ大きな効果を発揮します。\n\n### 意外な点\n「風を均等に通すために、長い服と短い服を交互に干した方がいいのでは？」と思いがちですが、交互に干すと空気の流れが遮られてしまいます。あえて真ん中を短くして下を空けるアーチ型にする方が、空気の循環が促されて早く乾きます。また、外側に「綿素材や厚手の服」、内側に「化繊などの薄手の服」を配置すると、さらに効率的です。\n\n### 歴史の裏話\n角ハンガー（ピンチハンガー）は、日本の限られたベランダや室内で効率よく大量の洗濯物を干すために独自に進化してきた道具です。家事の経験則として主婦の間で長年伝えられてきた「アーチ干し」ですが、近年大手洗剤メーカーが温湿度センサーや気流の観察を通じて検証したところ、実際に下降気流を生み出して乾燥を早めることが科学的に裏付けられました。\n\n* **出典**: ライオン株式会社 生活情報メディア『Lidea』（角ハンガーを使った「アーチ干し」のすすめ）、ウェザーニュース（ライオン お洗濯マイスター解説）",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C%E5%92%8C%E5%82%98+%E3%82%A8%E3%82%B4%E3%83%8E%E3%82%AD+%E3%83%AD%E3%82%AF%E3%83%AD+%E5%B2%90%E9%98%9C%E7%9C%8C+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">岐阜和傘 エゴノキ ロクロ 岐阜県 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%B4%85%E8%91%89+%E9%BB%84%E8%91%89+%E4%BB%95%E7%B5%84%E3%81%BF+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E3%82%AB%E3%83%AD%E3%83%86%E3%83%8E%E3%82%A4%E3%83%89+%E6%9E%97%E9%87%8E%E5%BA%81&client=app-vertex-grounding&safesearch=active\">紅葉 黄葉 仕組み アントシアニン カロテノイド 林野庁</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AF%8C%E6%9C%89%E6%9F%BF+%E7%99%BA%E7%A5%A5+%E5%B2%90%E9%98%9C%E7%9C%8C+%E7%91%9E%E7%A9%82%E5%B8%82+%E7%94%98%E6%9F%BF+%E8%BE%B2%E7%A0%94%E6%A9%9F%E6%A7%8B+OR+%E5%B2%90%E9%98%9C%E7%9C%8C&client=app-vertex-grounding&safesearch=active\">富有柿 発祥 岐阜県 瑞穂市 甘柿 農研機構 OR 岐阜県</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AA+%E8%B1%8A%E4%BD%9C+%E5%87%B6%E4%BD%9C+%E3%81%AA%E3%81%9C+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E3%83%9E%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0&client=app-vertex-grounding&safesearch=active\">ドングリ 豊作 凶作 なぜ 森林総合研究所 マスティング</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B4%97%E6%BF%AF%E7%89%A9+%E6%97%A9%E3%81%8F%E4%B9%BE%E3%81%8B%E3%81%99+%E3%82%A2%E3%83%BC%E3%83%81%E5%B9%B2%E3%81%97+%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3+%E8%8A%B1%E7%8E%8B+%E6%99%82%E9%96%93&client=app-vertex-grounding&safesearch=active\">洗濯物 早く乾かす アーチ干し ライオン 花王 時間</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%BE%8E%E6%BF%83%E5%88%A4+B%E5%88%A4+%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99+%E6%97%A5%E6%9C%AC%E7%94%A3%E6%A5%AD%E8%A6%8F%E6%A0%BC&client=app-vertex-grounding&safesearch=active\">美濃判 B判 美濃和紙 日本産業規格</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81105%E7%A4%BE+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB+10%E6%9C%88&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要105社 価格改定動向調査 10月</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99+%E9%9A%9C%E5%AD%90+%E8%AA%BF%E6%B9%BF+%E6%96%AD%E7%86%B1+%E5%B2%90%E9%98%9C%E7%9C%8C&client=app-vertex-grounding&safesearch=active\">美濃和紙 障子 調湿 断熱 岐阜県</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B2%9D%E5%8D%B0+%E3%83%8F%E3%82%B5%E3%83%9F+%E5%88%87%E3%82%8C%E5%91%B3+%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%9B%E3%82%A4%E3%83%AB+%E4%BB%95%E7%B5%84%E3%81%BF&client=app-vertex-grounding&safesearch=active\">貝印 ハサミ 切れ味 アルミホイル 仕組み</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCSRHh8tdFSbFJSgzn7n3eerqFTsxiTXTmMVcTVwQl1fpCtp7htwvAQQeFl2Xrwbdw29HNKVOfsMk3u0lmZqazJatufsQLft-6_0sQmJQMgfGJMSdiU79arE574iF3GYiguyBlbhs=",
-          "title": "kankou-gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8HcRzzu7XjoLbjI4OlO2-DHhevnFblOACPXDibshFpAjguuHvK84XgZR-5Z_-Ldgv1-Ozm23AqSxQCba5M1Lxhu5gD6GKlQH-v-KUIThXCiFzHNt8sYGd9BKaZUcFzHQeWRUx47lMefeAYiF5Ys6KDd-JDWNXzHs=",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgUZA_zBxKK7NvWYcyCYEtDiz3pLLCUb75k3ttayhpPBtsEGJyrYYAkWWYwugUWsqtx7Q_uSiLaG2PJ2ijq-8nUVjU2v92SL1kK_DkaQ72Xq8e7b5G9XKfhwkSJNkYsj2dAew0VaJNWvPRGPzdwWEfT_C7U9g=",
-          "title": "gifu-u.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpyMxqw6vzRB6dSqLX3PBniyclsmkIkgZp2NzldEnaVrhiwD1uzxB33N1IesGpDq-RQ3mH3GXdpR1PQxqWZbw-gHCAHAaJ3PRj1YRxEZQEjNQtAcP0JSxvBzM78ELAZkAl4g==",
+          "title": "nippon.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQMXnolmEkMbd6rNoOe71P2PgKX3g9Z9_VOHmnLujafN-Ia5u-mN1hFkU-Pn41TvRzXXpGMpTgDrt4uvMEpK-8GENFFHy3QEBxc1u537Ff3GNHObQUqYTo4sid4BUNsrQ=",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKt1cV42YLXf0QFsy8-1o3soZPqWKLHbHhsIigd0BDjL23GjOX5HClfYOq8Ez5wu9doY_S3kB4937zPMcR2gUcCVaWy5GvjsfK8pYfyH00__puaPbb-B_YKtW-ZsJee6SQDj9VzJ7RZaI__oaordJIDlcDkOkaIpS2RGFo9j8pklATYSNUsNTrAskCQwwIiFhzh_-rMa9ufgyrcz9cOqmZazf9J0XxCIiSjAveYRVhzROJGAshvaxpvjgqQPJhhDRhhgV1v3mmyXKl06Yzxp4nD_Ef-aldRTOlmhaFOvIZ_2142l5RqhU5ZWJsJup1Q1V8AEy83BxdVTtPAl3pdS0Zo_y9pTWtAZHHwf9V-FABni0Va1_UxIcJhrx_SpCBwEFNCDvf",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBCK41g4t--b8ykoOeOr3ViSN_6mhyGLPrm1lr1nfCiJ8Zzu1a9jEdPtDEeks_Ehjp4D1U3G4IWGs7nNpMT3YKxz_bxZImgIfDgdT3pFDtDL-lYo-WcA==",
-          "title": "hanafru.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBUGkXP9d2MaEQXIUEQlSTJYgbJSvf4YDzWCOI_778QcRcQ1RFZsS4tvxh7abNDDuFDp9Vy_-zawnDKtKd99R36MyBCewe0PxOAbEIyvF1A_hFyJvDrvEsPloHBVON7TUOww==",
+          "title": "kyofuji.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6GVUnviUtczUGYugpHOCqIkiU9AjgC9Y58gfF7MQFVvZeWwZcaeacQmevuicOBynRcKNE3xj8WppeXVaRqmYiKL67zsLB9hH_wh1fh1iFj-FMVgC5FYBU0AMX1w==",
-          "title": "mizuho.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlS2zkzQMmGpE6SlzuF2bzb41SI9tjdtDI_XPOIeVRI28QG0xst018ymOgTU482zg7mhqVYL7U950qTPPTGvWKG1NytQxNIaeOKkjdSRwtCkku3j34fnLJ3GJELOYXMZ5zvwFIuSB-uoTlkGKW1-xxXQpLiwHcZ87n2Mfmp0pZTM8PLD5PiBS7tRNFQ6U=",
+          "title": "musabi.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtBzObEq_J6UlHInQqtwEeNuZYQXapD5GmFCWXlRtp9X3XqiT96LkXPECzy23KXatT5yOjTfIofdfFU10cmlceNLsiblHyX6Z1MQSvkzXTWJkKuWr7DsfCIKp-gu3Tc1u9mpf5sjAs",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdHbPSVFUG2zgPrEAKrt1pTHh-zqZSR__GnWH1oRtkenkxcCGeklTl6jZ1b9-gwLoUBvtZIBY7JLLT_pChDW0SRyCpjSvDzJEVBCaZTMxoPsSBMGfM48UGVqbjr2FFFxdTLJjUUrud3_ixxLPvIAeRMHynGwGYWg==",
+          "title": "visipri.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ5XKZMA3wllTuaddBri4Of7dfYVvrpJB_ytT9gkQ25nosEjoih7TZ1bLUJ3upCHUf_R-PmYDd8eJTFjMXVws-8RrRlBdhoahWMH0FZaFuh5os119or8BB4eO1AGbtpT9uEYzRRgs=",
-          "title": "8cci.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBJ6IzzdSD7d9vfFM_jv8xkJWWdeUUVpnyjVP_U1OuEn7XxjrkE2FIIx0utPZNbH70HHCsAfOCrlp-u4WxTYHsryIKEG26OK8WauJPzp7Hvv3iMcF77yCwwEVyjQTaEY4GFiixjVZmFwvu6mY9",
+          "title": "insatsushop.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1HJyFUNvXqjYpKjzGaSArEv45r8DQjZ6Ca8XE1bmLFWHvrV5_YFAQ16sorWaoXX3OdtrR-Z3bxwk75mAuEuXmshoM-NSRtPq-7gYQi3z6s_SYdMZ2uQGuhvur9J1g0pz4jTBr4w==",
-          "title": "bluehub.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUdY7nC5o070gd6gJpyvP_illfaeVCXafSv8WqZMEvzJbfdnOu2btgKYMgNRRCU-h8jScV59HM1N05-yOHqWNONA1SxGQpQvVY1zeBnC-thmyJ6zv-",
+          "title": "printlife.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL7v093qd_aSpERI9PROXsr38Xsjg4OEvFsNtWUACIN4AIi_kgiSsAdWq50YKRO_Cd6IuVY_2wYrH1sO2qLbGiBc4-sy5d_rZP2HuQ7x15Bryuy_VskV7W8FOqTP-cSAn9_n8=",
-          "title": "env.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QnFFOMkpkltElNif5KATukjMyuAw-f_wWmNE6qhG1u8V-hb1yMkZL0lG1ApWKN14lDqgUh4qv17tixYv4DzRVfC7_xT8_N3-G3xFElrCmLKuoUb2tNAkYa7Shr98_BKaBtMUyPQb",
+          "title": "iroha-j.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYX-ZQCRsVewSIEpHeVAXk4AwTii4cumkABEz_U4fMo3FNDfX_0lYuGW0iw4JZOGgbr7KH4kv9Y0vRX8dRs46_0cXuWspGAWnmAHReSS3Ti3fFs2uNI6_EGArVEoGNzL9XQdja0ZxNshazCxf0tGMFfG-90uEDbPtjiOiYxj6ATvpJIMaVzpQ0",
-          "title": "fukuoka.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFnqXRLmZANYHZMppIGOGgOKB8Hptn08v4NecB9TDCkmhseIbyC6LUyGHJhCMQUzezXPxHDmBs4M1NbY9ffeE0acbU9TAAbv27lMy4zwuPwR5cREFlKm1aXzT2",
+          "title": "sokupuri.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEftUw1ZTeThgI_RKDazKG-dy3D5eS-UHnQJtrbA63XqDQoI-xYJoi8B9obWGIc8GRg2u2mRKWuf6xNt_CdKYHN25BNkJQTAG5uTk3iri3uYleU4bfhf_qxGKEyxlG8DxP9u1TzPzYm",
-          "title": "shinrin-ringyou.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRtL2JbQNFBRsY5yHkJ8E5BZp77VFqXXXqkBGFBvjpXs7xPDJAcC-S-PMcvdTIJhEbu5K1qdlVZEkM8xoGcrzGzlf8kQ05qVwbsWN9XLxlsfup1AHQ7d7fPRIPw3yi7hvK6-K4",
+          "title": "shiharu-japan.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm588LC4z5htQCG1ToPzy0rMDWPjRU3o9QAIL2S7A78_9J0LS8p4yOCkNIJz3RMZjF9BFBdusTR_5oZBcDvgLIxofU5BX9lOAxpZtdBJejYtvhgdpB0gxby5q3EvyZG1WHyvRNOpRy",
-          "title": "ffpri.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVdQ31jbayWFvI54N0tVCf-QfXExWsmUVjj2nKH2HVYaVljQEvg_nM6vFjNoj2KzkEUQM4xEwYsJNQXLMp_vCAyRhQt5qJN26W8t3nc8QKCiRk1C_n2oOKEl8m20cKOxplUYLa3xCbWP7UZaw1Gg==",
+          "title": "city.mino.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbk26cKZSav8lNBx7wbs5C1DcCE2XmPuKF6bS0n6KexjA9XAhszMlEswF4IIyQPJBuV7ZI_TUeoD2p8Dp0LjC1l0sPom892C9dglxcN1QX_12_4LTn65S4g4828uwSl2sj5SmNNEv7ci7e4Ll",
-          "title": "ffpri.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuFBsFwQRbg72IIMpEteu_rqAFFkI3CXel6iLUoo05T-YDaROWUKSJOgrcnErNHdGRMbFaW6WZqYtcX7vjAkujXjF81FBRZA46A3eqXDPqp50hzptYJtYVdY6Xb63sCaU7WEhk",
+          "title": "weathernews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNs2NbatTiGYGe1pRVTQD3sdrpQEWnn1rYUbixgNIYCD7aNTL-RnH-CBIVKCVXTIJNjR6stuj0pmpFco0s9YDRnpOnHmNJw7pr2TOkFEEqABHKma3ega45Kl-PFyo5kgLRHg==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUMhcQqctSNJya9sXLQ6RhTpwrrEDpwdLq-_TlBQiR12FVem8mN_fiJwzS0GNqRiRJ7wAOM2Me0r5ZeZDkaDvCyLr7BvQie1YEIlzDU4iZea7HzoKNaqYz6j2Iz6I0vyXA3tTY8Pl_aWGuVvM8XKjHpSD6K9YerTe8QIU=",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRtXRKxfN04wuLCXJPQnqj1ZxYLkQtovDvPsh9tt3pDZfjbalt3_sPRstg2tkjvIGXCFqYxbgDG2wdikZiS0975D8EBfZfPWaOOAQYvA2tBbeI8MAHNK0i8Ym1abpJVMxF7eyew==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMTdV0MevSGbQ3iL05gitW0_M2XeneyWR3hFcxMYeS-tCc-A7SkG_gTzAFvtBcYXluXdQ7KeGeA6n2WdAFXBM98Wp05pR7i_V0fpeTSTfFMkMnFPjcAEaHPiIoh66_0cYvsUGd4pnHlC_MDk9IIJnpGsSLnw2HwVA=",
+          "title": "tanomail.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEysVRU2kaILIdBz0CGpjCPqVgA_RYRns6sbMCWvlbhSssbw1kSQQEiOxf71M1ioRZOVwnCQXs_xpG5ziW-arhgLloQ2yD9tPzgeOZA6WxDyOMGgdyQ1aa7wKwBAkxqgjt3WRfB-1Bkwv4CXPqpIJ7MYknhN5BvpYoN29VfoOhUaI3Tru3JsfZ2-Q==",
-          "title": "u-tokyo.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAE0BRnm8gM-MsT0eTjLRLNpwtElblirJSgmity5VVA5TFgTWkBWe_pS1VUNUMPDjpPYHyXnvk9Y3hUOhbDbyLJ-uLoBu3ZfO3g2n9GS9vYOHSWJWF7sZiqDaeSqoR",
+          "title": "ibokin.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlLklzuoVNQOOhcyb080J3nn9FaJKJbVQ4t6FFYmT5hawiiWh-PYmEW8QMRpbSFjExTkTXkEZGJg1gmVnv2ka9fAd93tfhxvGoZ3uN6UhHwnVcDba5gBmFuYm8md4YLlxnXp_T",
-          "title": "kuma-watch.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvxYkzEU9wHEw4lvJPA4wsA_Zi-b_7hqlXJ-c_lk-mnf3VbZE19yeUrPp_GAFX_oakgA3X5fkzJY5b82ZZAADedZ6XRC0-u3n_f4Hz-eoopnWZDclsRn8_4O3u5kQptC0CdXbC0SMhGi1MEHopTUMHxQz_DQ==",
+          "title": "kai-group.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH48AX7lgD1EB2i7UtgHTqafudJdpQ_B0zNbb6RNrXNrvBsTYIKdGoYkwr1P_nZ05WpUDuddbar5DeZ4i6Ifl7xBqg_ra2rSI8J32JT0vYiMcI4yuSXN9WbdZtDlDLjM0N8",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtYK1eOe_uTX0WaJ6-U3kp2qZ3W_kh31rw3MVlERDUjkPwB1VpzRngyQ3pdAlJ2uoM8yCQpoWAjTkX51Dz00XK_AqifrOiynsHKNncqr_wZu80o64=",
+          "title": "yomuno.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIuJjTX4o1ZO3YAjoEOwOP-RxHYlbtN2Sa4j80Oh5rRgjo8ODitoF0BppKxbcG-pAB6zVJKLfnFtLSQ3Y9Eu2yl0oy40N10HwAmqZjTmGTjR6WxIG2bm5j0eFMsAiYaJxFuvRyXndtasNPcgj78e9prh1DE74BKyCuc_2vpxIGI_5aLdjybnZqSfpjaUjHB47LtKYLekFUYXoV8WHdJXpBFuvVDVyQuZod9D9M2znq8YONPwpjPmWwc09aFvsy",
-          "title": "hokkaido.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcnvew_hFovz27TzMcTvTiEEYcqxe11Y6hlJV74rJVyKzcqnId_e6UoKoKe4ZMsdycL3I7W7NCxyIr6NK3i3CP7-sj1yPChcpHLgR6_jyXDXVBUdkliwTLwJA-md3K5IOXL6ri",
+          "title": "weathernews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKgzc5hfWzLhZWRyB3isdiHU2sBprbs6pMgH61H6LyubpPiVicX5hoNXG6b6ynwN0TJ7jWVYyaf_I3UM0rbgMjbiWh4as2eTD7BDyf-NjZ5Z-JwHT9gt6CCY9bTiz49b129NHtNVp1Hbo2I1T66AEqI_9IE5EWYm0=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF525TXh06k72huPxVbfLWo_YqBJdbAVXhwIg2t-cwqexb8TzY2mODlwQjAoP4SPgWTPEQ1ruLVT6-WGd3BnZvtjF8ILXniFtcF4ydPk2NmHZ8OaGIzEjZ2uHcGMk7_bk_3CLUnjRAcDzcZBpawbNw_eyAX0KzdPDEdaIlwxC96WeT6bYTYxwcLn1mTDZtB_c2qB4yqNgTN2qHvF-hB4qF3pWc4GmxGsRgMUBw8mjQNLTxvfOSsN2zAm2jczI91SzzlpV-YQMfou10h8oH8UtNhwOB_DIC6GiclACKLd4StliTH1eNp01QPWi4oFJieRO8tvI6v_m02wII3hMOyhnD1lnlkoQn7085dtaWEDhsyT7CDICd3L5LxC9TcIw==",
+          "title": "sakaguratrust.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxG5CsCUICjfGYNo7Ma7oIW8KXq_Y9UKWsxBlBxC5w86iIKAeQ2bk30oici74zDMDhkaiwrsV1qVv1Z-8I83neJ6Vat_wToo5gNBRXko75t09aZI6f",
-          "title": "nagaragawastory.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFgqO6ViFec6q1QyOO03pgtr72_QK0rA1dxg1beO5RyJELc0YTprErtHgUqtcV_fhQWQKBKEDIBwJxLL3OJVybiIx7iMXzK9ms1JY7hODJPaZI5AGGouwa",
+          "title": "lidea.today"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCBobcRxqyh8hTjVNGN7jIsDKMiRKBjlgk478GnzLs5kx3toWBVf59Q1ZnQ4YS_GWrF4WFX7Ok91DyURkUNdtXmmxW-9H1WkqmEHM7NUY8jiG3SUF2_CA9sLajvRBBXusI",
-          "title": "gifunoki.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQeWdYL1By3g49hSQuhn-SGAJYAi_LTbW4OnMi-nI66lJNgGU0X7mPlQWjjn_MLFOcU5gZV3ZPJ_g4DsJjcR9I12B70Ws37TZ5QtRlf-BUyKi7FX440T9zh4wTInasgKEC2z9b1w==",
-          "title": "kogeijapan.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL_KnfEUFWXfFI2_bsuE0Hp19zY3S3YI7UPthFXrdsrNZeI_DRVW7GOhtByhBsV5LHrkZ5UYYb7uZsLV1kQ8oI6uwN0kCN9wwRvLR-vRAPT_R0W7JZTlvY8D-Nx0AiXkNvOScRATR2wH0w43OvQtH5WuA_9Wxo47EPAlSkNX2HzQH_bxXeLZbZhdI=",
-          "title": "gifu-ryokusui.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg6ceW79iP5uZDAlxe0WEjOen2_M1IN0HLJyZNzUTTe7eseiPgfshb6S4U8YZwcqwy2h7gten45FxY19r3Nqnp1jyf3fJvQ2Ns0wavnKs2GRuO2Dy-Lz1jyvGcPJP09qBlr3kUvKAz4J3NQaIyXg==",
-          "title": "forest.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB0nO5eGILTw8pEpXPRniJoO0p8BSvXBXhOAbOr1RHYzONornPZp8PU4uZw_-UAlLomg9Q_YrUwYVSWns_gVvU18g8VR7IqF-V458fa1cdzno7vQKsEYb069vCjPzg9W4uJ3f9r36dEfxTaYnZfM3mkb507eo=",
+          "title": "excite.co.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 557,
-          "endIndex": 710,
-          "text": "現在、全国の甘柿を代表する品種である「富有柿（ふゆうがき）」は、岐阜県瑞穂市居倉（旧巣南町）が発祥です"
+          "startIndex": 855,
+          "endIndex": 1134,
+          "text": "帝国データバンクの発表によると、中東情勢を受けた原油・ナフサ高、包装資材・エネルギー代の高騰、人件費や物流費の上昇、そして円安の影響が複合的に重なり、秋口に飲食料品の値上げが集中しました"
         },
         "groundingChunkIndices": [
           0,
@@ -248,9 +220,9 @@
       },
       {
         "segment": {
-          "startIndex": 713,
-          "endIndex": 1001,
-          "text": "明治時代、地元の農業技術者であった福嶌才治（ふくしまさいじ）氏が、地域にあった「居倉御所（御所柿）」の中から色・形・味ともに極めて優れた木を見出し、接ぎ木して増殖に成功させたことで誕生しました"
+          "startIndex": 1137,
+          "endIndex": 1358,
+          "text": "特に10月は酒税改定の影響を受けた発泡酒や第三のビール、清涼飲料水などの「酒類・飲料」と、マヨネーズや醤油などの「調味料」が値上げの中心となっています"
         },
         "groundingChunkIndices": [
           0,
@@ -259,50 +231,20 @@
       },
       {
         "segment": {
-          "startIndex": 1043,
-          "endIndex": 1133,
-          "text": "岐阜県の柿の栽培面積において、富有柿は実に約80%を占めています"
+          "startIndex": 1397,
+          "endIndex": 1547,
+          "text": "**10月の値上げ品目数**: **3,153品目**（帝国データバンク「食品主要195社」価格改定動向調査、2026年9月30日公表）"
         },
         "groundingChunkIndices": [
+          0,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1136,
-          "endIndex": 1257,
-          "text": "果実は丸みを帯びた四角形で、糖度は16〜19度前後と非常に甘く、果汁が多いのが特徴です"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1260,
-          "endIndex": 1533,
-          "text": "気候への適応が繊細で、「九州より暖かい地域では果皮が赤くなりにくく、岐阜より寒い地域では渋が抜けにくい」という性質があり、岐阜の気候条件が絶妙な甘さと鮮やかな橙紅色を生み出しています"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1680,
-          "endIndex": 1803,
-          "text": "その中でも富有柿は、タネが入らなくても渋が抜ける「完全甘柿」の最高峰とされています"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1806,
-          "endIndex": 1965,
-          "text": "また、瑞穂市居倉にある「富有柿の原木（市指定天然記念物）」は、樹齢100年を超えた現在でも毎年実をつけています"
+          "startIndex": 1550,
+          "endIndex": 1643,
+          "text": "月間3,000品目超えは2カ月連続で、年内では9月（4,965品目）に次ぐ規模"
         },
         "groundingChunkIndices": [
           0,
@@ -311,9 +253,20 @@
       },
       {
         "segment": {
-          "startIndex": 2013,
-          "endIndex": 2106,
-          "text": "「富有」という特徴的な名前は、1892年（明治25年）に命名されました"
+          "startIndex": 1649,
+          "endIndex": 1767,
+          "text": "**年間累計**: 2026年通年（1〜12月判明分）で**20,187品目**となり、2年連続で2万品目を突破"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1773,
+          "endIndex": 1865,
+          "text": "**主な分野**: 「酒類・飲料」が最多の1,399品目、「調味料」が820品目"
         },
         "groundingChunkIndices": [
           0,
@@ -322,30 +275,73 @@
       },
       {
         "segment": {
-          "startIndex": 2450,
-          "endIndex": 2498,
-          "text": "岐阜県農産園芸課「かき」公式解説"
+          "startIndex": 1868,
+          "endIndex": 1927,
+          "text": "値上げ要因の91.3%を原材料高が占めています"
         },
         "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1933,
+          "endIndex": 2098,
+          "text": "**今後の見通し**: 11月の値上げは1,469品目と大幅に減少する見込みで、秋の値上げラッシュは10月がピークとみられています"
+        },
+        "groundingChunkIndices": [
+          0,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 2505,
-          "endIndex": 2623,
-          "text": "瑞穂市役所「富有柿の歴史」／岐阜県観光公式サイト「富有柿発祥の地 富有柿の原木」"
+          "startIndex": 2847,
+          "endIndex": 2965,
+          "text": "値上げ品目数としては10月が大きな山場ですが、11月以降はペースが落ち着く見込みです"
         },
         "groundingChunkIndices": [
           0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3648,
+          "endIndex": 3783,
+          "text": "**出典**: 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日発表）"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4075,
+          "endIndex": 4309,
+          "text": "日本の用紙規格である「B列（B判）」は、**江戸時代に岐阜県で作られていた伝統的な和紙「美濃判（みのばん）」の寸法を基準にして制定された**日本独自の規格だからです"
+        },
+        "groundingChunkIndices": [
+          3,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 2807,
-          "endIndex": 2987,
-          "text": "秋の山々を彩る「紅葉（赤）」と「黄葉（黄）」は、見た目の華やかさは似ていますが、葉の内部で起きている化学変化は正反対です"
+          "startIndex": 4312,
+          "endIndex": 4499,
+          "text": "世界共通の「A列」が19世紀末のドイツ発祥であるのに対し、B列は古くから日本人に親しまれていた美濃和紙の寸法がルーツになっています"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4538,
+          "endIndex": 4648,
+          "text": "**A判とB判の基準**: A列（国際規格）は面積1㎡の長方形（A0＝841×1189mm）を基準とし"
         },
         "groundingChunkIndices": [
           5,
@@ -354,30 +350,63 @@
       },
       {
         "segment": {
-          "startIndex": 2990,
-          "endIndex": 3149,
-          "text": "黄葉は葉の中に隠れていた色が現れる「引き算」、紅葉は新しい色が葉の中で合成される「足し算」で色が変わります"
+          "startIndex": 4538,
+          "endIndex": 4744,
+          "text": "**A判とB判の基準**: A列（国際規格）は面積1㎡の長方形（A0＝841×1189mm）を基準とし、日本のB列（JIS規格）は面積1.5㎡（B0＝1030×1456mm）を基準にしています"
         },
         "groundingChunkIndices": [
-          7,
-          6
+          5,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 3191,
-          "endIndex": 3373,
-          "text": "夏の葉には、緑色の色素「クロロフィル」が、黄色の色素「カロテノイド」の5倍〜8倍も多く含まれており、緑色に覆い隠されています"
+          "startIndex": 4750,
+          "endIndex": 4948,
+          "text": "**寸法の比較**: 江戸時代の「美濃判」の寸法は**縦約273mm × 横約394mm（1尺3寸×9寸）**で、現在の「B4サイズ（257mm × 364mm）」に非常に近い大きさです"
         },
         "groundingChunkIndices": [
-          6
+          3,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3376,
-          "endIndex": 3502,
-          "text": "秋になり最低気温が約8℃以下になると色づき始め、5〜6℃以下になると一気に変色が進みます"
+          "startIndex": 4970,
+          "endIndex": 5065,
+          "text": "世界規格（ISO）のB列と、日本のJIS規格のB列は実はサイズが異なります"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5068,
+          "endIndex": 5301,
+          "text": "世界中で使われているA判（A4など）に対し、日本のB判（B5ノートやB4原稿用紙など）は「日本国内の美濃和紙の伝統」を残すために定められた、ほぼ日本独自の用紙規格です"
+        },
+        "groundingChunkIndices": [
+          3,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5304,
+          "endIndex": 5452,
+          "text": "1993年に国の行政文書がA4に原則統一されるまでは、役所の公式書類も美濃判由来のB判が長年使われていました"
+        },
+        "groundingChunkIndices": [
+          5,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5477,
+          "endIndex": 5638,
+          "text": "美濃和紙は1300年以上の歴史を誇り、奈良時代の正倉院文書（大宝2年・702年の美濃国戸籍）にも遺る日本最古級の紙です"
         },
         "groundingChunkIndices": [
           8,
@@ -386,43 +415,31 @@
       },
       {
         "segment": {
-          "startIndex": 3529,
-          "endIndex": 3730,
-          "text": "イチョウなどの「黄葉」は、寒さによって緑色のクロロフィルが分解・回収され、元からそこにあった黄色（カロテノイド）が露わになっただけです"
+          "startIndex": 5641,
+          "endIndex": 5707,
+          "text": "繊維が縦横に整然と絡み合って丈夫で破れにくく"
         },
         "groundingChunkIndices": [
-          5,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3733,
-          "endIndex": 3943,
-          "text": "一方、モミジなどの「紅葉」は、葉の付け根に「離層（りそう）」というコルク状のフタができ、光合成で作られた糖分が枝に回収できずに葉に溜まります"
-        },
-        "groundingChunkIndices": [
-          5,
+          10,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 3946,
-          "endIndex": 4129,
-          "text": "その糖分に強い日光が当たることで化学反応が起き、夏の間は葉の中に存在しなかった赤い色素「アントシアニン」が新たに作られます"
+          "startIndex": 5641,
+          "endIndex": 5776,
+          "text": "繊維が縦横に整然と絡み合って丈夫で破れにくく、江戸時代には江戸幕府の公用紙に指定されました"
         },
         "groundingChunkIndices": [
-          5,
-          8,
-          10
+          3,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 4177,
-          "endIndex": 4294,
-          "text": "古代の日本では、モミジの色づきを「黄葉（もみち／もみじ）」と書くのが主流でした"
+          "startIndex": 5779,
+          "endIndex": 5833,
+          "text": "町人の間でも障子紙として大人気を博し"
         },
         "groundingChunkIndices": [
           5
@@ -430,19 +447,52 @@
       },
       {
         "segment": {
-          "startIndex": 4677,
-          "endIndex": 4771,
-          "text": "農林水産省 広報誌『aff』「特集2 森へ行こう(2) 紅葉・黄葉の不思議」"
+          "startIndex": 5779,
+          "endIndex": 5944,
+          "text": "町人の間でも障子紙として大人気を博し、建具の規格そのものが「美濃判」に合わせて作られるほど全国標準となりました"
         },
         "groundingChunkIndices": [
+          11,
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 4778,
-          "endIndex": 4882,
-          "text": "国立研究開発法人 森林研究・整備機構「森林の生き物 Q&A（紅葉のしくみ）」"
+          "startIndex": 5947,
+          "endIndex": 6094,
+          "text": "その使い勝手の良さが、昭和4年（1929年）の規格統一（旧JES）の際にも引き継がれ、現在のB判となったのです"
+        },
+        "groundingChunkIndices": [
+          5,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6916,
+          "endIndex": 7063,
+          "text": "身近なノートや雑誌を開くたび、岐阜の伝統工芸の歴史が息づいていると思うと、少し誇らしくなりますね」"
+        },
+        "groundingChunkIndices": [
+          3,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7067,
+          "endIndex": 7144,
+          "text": "**出典**: 武蔵野美術大学 造形ファイル『B列用紙サイズ』"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7067,
+          "endIndex": 7194,
+          "text": "**出典**: 武蔵野美術大学 造形ファイル『B列用紙サイズ』、美濃市 美濃和紙の里会館 公式資料"
         },
         "groundingChunkIndices": [
           11
@@ -450,30 +500,53 @@
       },
       {
         "segment": {
-          "startIndex": 4889,
-          "endIndex": 4956,
-          "text": "環境省 中部地方環境事務所「紅葉のメカニズム」"
+          "startIndex": 7534,
+          "endIndex": 7658,
+          "text": "金属加工の現場で知られる**「構成刃先（こうせいばさき）」**という現象が起きるためです"
         },
         "groundingChunkIndices": [
-          8
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 5134,
-          "endIndex": 5389,
-          "text": "ブナやミズナラなどのブナ科樹木の実（ドングリ）は、毎年均等に実るのではなく、山全体で同調して大量に実る「豊作年」と、ほとんど実がつかない「凶作年」を数年おきに繰り返します"
+          "startIndex": 7661,
+          "endIndex": 7829,
+          "text": "アルミニウムは金属の中でも非常に柔らかく、融点が低く、圧力を受けると伸びやすい（展延性が高い）性質を持っています"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7832,
+          "endIndex": 8129,
+          "text": "ハサミでアルミホイルを切ると、切断時の強い圧力と摩擦熱によって微小なアルミ粒子が剥がれ、ハサミの刃にある目に見えない「微細な欠けや凹み」に溶着・充填され、刃先が平らになって切れ味が一時的に回復します"
+        },
+        "groundingChunkIndices": [
+          13,
+          12,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8168,
+          "endIndex": 8329,
+          "text": "**手順の目安**: 家庭用のアルミホイルを**2〜3回折りたたんで厚みを持たせ、ハサミで10回程度切る**だけで効果が出ます"
         },
         "groundingChunkIndices": [
           12,
-          13
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 5392,
-          "endIndex": 5494,
-          "text": "この現象は植物生態学で「マスティング（種子の一斉豊凶）」と呼ばれます"
+          "startIndex": 8335,
+          "endIndex": 8597,
+          "text": "**汚れ落としとの比較**: ハサミが切れない原因が「粘着テープの糊」である場合、アルミホイルを切る前に**「消しゴム」で刃のベタつきを擦り落とす**と、糊をきれいに絡め取ることができます"
         },
         "groundingChunkIndices": [
           12,
@@ -482,19 +555,31 @@
       },
       {
         "segment": {
-          "startIndex": 5575,
-          "endIndex": 5881,
-          "text": "森林の研究調査（東京大学演習林の秩父山地データなど）によると、ブナの豊作年には1平方メートルあたり約950〜990個（1ヘクタールあたり約3トン相当）もの種子が林床に落ちる一方、凶作年にはほぼゼロ近くまで落ち込みます"
+          "startIndex": 8757,
+          "endIndex": 8875,
+          "text": "**ハサミがアルミを削り、その削りカスが刃の欠けた部分を補修して埋めている**のです"
         },
         "groundingChunkIndices": [
-          15
+          13,
+          12,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5884,
-          "endIndex": 6153,
-          "text": "また、森林総合研究所が東北・北上山地で40年以上観測したデータでは、ミズナラの豊凶周期はかつて3〜4年周期でしたが、近年の気温上昇に伴い約2年周期へと短縮化していることが確認されています"
+          "startIndex": 9167,
+          "endIndex": 9393,
+          "text": "ハサミは2枚の刃が絶妙な圧力で擦れ合って切る構造（裏スキ・ひねり）をしており、素人が砥石で刃の内側を研ぐと噛み合わせが狂って逆に切れなくなってしまいます"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9577,
+          "endIndex": 9658,
+          "text": "**出典**: ウェザーニュース（家事代行サービス専門家解説）"
         },
         "groundingChunkIndices": [
           12
@@ -502,9 +587,9 @@
       },
       {
         "segment": {
-          "startIndex": 6180,
-          "endIndex": 6360,
-          "text": "樹木が疲れて実をつけられないのではなく、植物が編み出した「捕食者飽和（ほしょくしゃほうわ）戦略」という巧みな生存戦術です"
+          "startIndex": 9577,
+          "endIndex": 9737,
+          "text": "**出典**: ウェザーニュース（家事代行サービス専門家解説）、貝印株式会社 公式資料（ハサミの製造工程・構造解説）"
         },
         "groundingChunkIndices": [
           16
@@ -512,221 +597,129 @@
       },
       {
         "segment": {
-          "startIndex": 6363,
-          "endIndex": 6558,
-          "text": "毎年安定してドングリを実らせると、それを食べるネズミや鳥、クマなどの動物の数が一定に保たれ、すべての種子が食べ尽くされてしまいます"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6561,
-          "endIndex": 6861,
-          "text": "あえて数年間「凶作」にして動物たちの数を減らし、その後に「食べきれないほど桁違いのドングリ」を一斉に落とすことで、動物がお腹いっぱいになっても種子が余り、確実に芽を出して生き残れるようにしているのです"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6909,
-          "endIndex": 7074,
-          "text": "森中の同じ種類の木々が、互いに何キロも離れていてもなぜか「今年は豊作にするぞ」と足並みを揃えて一斉に結実します"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7077,
-          "endIndex": 7368,
-          "text": "前年の夏の気温や乾燥度合い、春の開花期の気象条件などを木々が感知して同調していると考えられていますが、その厳密な合図の伝達メカニズムは、現代の植物科学でもまだ完全には解明されていない奥深い謎です"
+          "startIndex": 10033,
+          "endIndex": 10307,
+          "text": "ピンチ付きの角ハンガーを使う際、**「両端の外側に長い衣類、内側に向かって短い衣類」を干す『アーチ干し』にすると、洗濯物の下部に大きなドーム状の空間が生まれ、風の通り道ができる**ためです"
         },
         "groundingChunkIndices": [
           17,
           18,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7406,
-          "endIndex": 7534,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所「変わりつつあるドングリの豊作周期」"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7541,
-          "endIndex": 7613,
-          "text": "東京大学演習林「堅果の豊凶とツキノワグマの生態」"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7815,
-          "endIndex": 7980,
-          "text": "岐阜県の岐阜市加納地区を中心に発展した「岐阜和傘」は、国の伝統的工芸品にも指定されている岐阜を代表する工芸です"
-        },
-        "groundingChunkIndices": [
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 7983,
-          "endIndex": 8338,
-          "text": "和傘を開いたり閉じたりするとき、数十本の竹骨を中心で束ねて上下にスライドさせる核心部品を「轆轤（ろくろ）」と呼びますが、現在この和傘用ろくろを専門に製造できる木工所は、全国で岐阜県（羽島郡岐南町・長屋木工所）のわずか1軒しか残っていません"
+          "startIndex": 10310,
+          "endIndex": 10556,
+          "text": "さらに、洗濯物の外側と内側の乾きやすさの差によって洗濯物周辺に「下降気流（下向きの空気の流れ）」が発生し、湿った空気を効率よく下に逃がす効果があると考えられています"
         },
         "groundingChunkIndices": [
-          20,
-          21
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 8380,
-          "endIndex": 8547,
-          "text": "岐阜和傘は最盛期の昭和25年（1950年）頃には年間約1200万〜1600万本が生産され、現在も国内生産の大半を岐阜が担っています"
+          "startIndex": 10595,
+          "endIndex": 10823,
+          "text": "**乾燥時間の差**: 洗剤メーカー・ライオンの実験によると、長いものと短いものをランダムに干す「長短干し」に比べて、アーチ干しは**約30分乾燥時間が短縮**されます"
         },
         "groundingChunkIndices": [
-          19,
-          21
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 8550,
-          "endIndex": 8740,
-          "text": "和傘1本を仕上げるには100を超える緻密な分業工程がありますが、その全ての開閉機構を、岐阜の職人が削る小さな「ろくろ」が支えています"
-        },
-        "groundingChunkIndices": [
-          22,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8767,
-          "endIndex": 8944,
-          "text": "このろくろは、プラスチックや金属、一般的なスギやヒノキでは代用できず、「エゴノキ」という特定の樹木でなければ作れません"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8947,
-          "endIndex": 9089,
-          "text": "ろくろには傘の竹骨を1本ずつ糸で留めるため、数ミリ単位の極めて細い溝（目）と穴が無数に彫られます"
-        },
-        "groundingChunkIndices": [
-          20,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9092,
-          "endIndex": 9305,
-          "text": "エゴノキの木材は繊維が非常に緻密で粘り強く、細かく刃を入れても割れず、何百回・何千回の開閉摩擦にも耐えられる唯一無二の性質を持っているためです"
-        },
-        "groundingChunkIndices": [
-          20,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9353,
-          "endIndex": 9573,
-          "text": "2012年、全国で唯一エゴノキを山から切り出していた高齢の木こり職人が亡くなり、日本の和傘作り全体がパーツ供給停止で途絶えかけるという危機に直面しました"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9576,
-          "endIndex": 9966,
-          "text": "これを救うため、岐阜県美濃市にある県立大学校「岐阜県立森林文化アカデミー」の教員や和傘職人たちが立ち上がり、美濃市の山（瓢ヶ岳）に自生するエゴノキを調査・保全・伐採して職人に届ける「エゴノキプロジェクト」が発足し、現在も和傘文化の心臓部を県内で守り継いでいます"
-        },
-        "groundingChunkIndices": [
-          24,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10004,
-          "endIndex": 10091,
-          "text": "岐阜県立森林文化アカデミー「エゴノキプロジェクト」活動報告"
-        },
-        "groundingChunkIndices": [
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10098,
-          "endIndex": 10191,
-          "text": "岐阜県緑化推進委員会「森の名手・名人聞き書き（和傘轆轤職人）」"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10198,
-          "endIndex": 10262,
-          "text": "経済産業省 伝統的工芸品「岐阜和傘」指定資料"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10989,
-          "endIndex": 11250,
-          "text": "エゴノキは初夏に可愛らしい白い小花を咲かせる身近な里山の木ですが、材の繊維が非常に緻密で粘り強く、細かなスリットや穴をたくさん開けても割れないという奇跡的な性質を持っています"
+          "startIndex": 10973,
+          "endIndex": 11101,
+          "text": "洗濯物が濡れてから**「5時間以内」に乾かせるかどうかが臭い防止の大きな境目**とされており"
         },
         "groundingChunkIndices": [
           20,
           21,
-          23
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 11253,
-          "endIndex": 11352,
-          "text": "日本の和傘を開閉できるのは、岐阜の職人技とこのエゴノキのおかげです"
+          "startIndex": 10973,
+          "endIndex": 11187,
+          "text": "洗濯物が濡れてから**「5時間以内」に乾かせるかどうかが臭い防止の大きな境目**とされており、この「30分の短縮」が生乾き臭を防ぐ大きな効果を発揮します"
         },
         "groundingChunkIndices": [
-          20,
-          21
+          17,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11209,
+          "endIndex": 11404,
+          "text": "「風を均等に通すために、長い服と短い服を交互に干した方がいいのでは？」と思いがちですが、交互に干すと空気の流れが遮られてしまいます"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11407,
+          "endIndex": 11533,
+          "text": "あえて真ん中を短くして下を空けるアーチ型にする方が、空気の循環が促されて早く乾きます"
+        },
+        "groundingChunkIndices": [
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11536,
+          "endIndex": 11674,
+          "text": "また、外側に「綿素材や厚手の服」、内側に「化繊などの薄手の服」を配置すると、さらに効率的です"
+        },
+        "groundingChunkIndices": [
+          17,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11882,
+          "endIndex": 12194,
+          "text": "家事の経験則として主婦の間で長年伝えられてきた「アーチ干し」ですが、近年大手洗剤メーカーが温湿度センサーや気流の観察を通じて検証したところ、実際に下降気流を生み出して乾燥を早めることが科学的に裏付けられました"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12201,
+          "endIndex": 12339,
+          "text": "**出典**: ライオン株式会社 生活情報メディア『Lidea』（角ハンガーを使った「アーチ干し」のすすめ）"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12201,
+          "endIndex": 12415,
+          "text": "**出典**: ライオン株式会社 生活情報メディア『Lidea』（角ハンガーを使った「アーチ干し」のすすめ）、ウェザーニュース（ライオン お洗濯マイスター解説）"
+        },
+        "groundingChunkIndices": [
+          18
         ]
       }
     ],
     "webSearchQueries": [
-      "岐阜和傘 エゴノキ ロクロ 岐阜県 歴史",
-      "紅葉 黄葉 仕組み アントシアニン カロテノイド 林野庁",
-      "富有柿 発祥 岐阜県 瑞穂市 甘柿 農研機構 OR 岐阜県",
-      "ドングリ 豊作 凶作 なぜ 森林総合研究所 マスティング"
+      "洗濯物 早く乾かす アーチ干し ライオン 花王 時間",
+      "美濃判 B判 美濃和紙 日本産業規格",
+      "帝国データバンク 食品主要105社 価格改定動向調査 10月",
+      "美濃和紙 障子 調湿 断熱 岐阜県",
+      "貝印 ハサミ 切れ味 アルミホイル 仕組み"
     ]
   }
 }
