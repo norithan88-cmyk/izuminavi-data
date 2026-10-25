@@ -1,28 +1,24 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2194,
-  "estimated_minutes": 6.6,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2246,
+  "estimated_minutes": 6.8,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "おなじみの鉛筆。芯を削りながら最後の最後まで使い切ると、何キロの線が書けるでしょうか。1番、500メートル。2番、50キロメートル。3番、地球を3周半。",
-    "answer": "正解は2番、約50キロメートルでした！なんとフルマラソンを余裕で超える長さ！あんな細い体にどんだけスタミナ詰まっとるのん？",
+    "question": "お隣の刈谷市で生まれたQRコード。開発者がその白黒の並び方をひらめいたきっかけは何でしょうか。1番、囲碁。2番、オセロ。3番、みおんのドット絵。",
+    "answer": "正解は1番、囲碁でした！昼休みに打っとった碁石の並びを見てひらめいたんだって。みおんの顔を見て思いついたわけじゃないだに！",
     "source_ids": [
-      9,
-      12,
-      15
+      7
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLUpHciz8qWT83fPGsuoO0_wxW28zcafQHum7VJYZgeKTGp4ettjZ7AZFjSu0LIArDrLol3u7ZBeWrh0NscVq8l2TfW3GnzqtSozMyn_yNccgCY6rw7W5oM2HlLkkhJkuI8wgYsBYRyoItdmN2OQzo73M=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6iY-RETImJptA5rS_R6kKeBuKLxTWQbtPn5nje89QUkHjTaj0aDYByUYlgMI9VMEqYRnpnH8pUztkSn-9-4aVyrMmVBxsFSpZQXZulmqizLYu7ChmS8YuYqJZhs24nz6gyyTWgbzU",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMA9rThn3FHnviQWcu-jvuFII4p-R0ISIlb4t75dF16LFwizDVESsmVWJ16EL_ZsuMPJjDC8DbyYvHLMHdOb_vHdd0hKjm13Q1Vw-61HlbMCiPFDuZjAqELSQWTXCNm3aqssqgbrN7HH5QA5ItA=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZSED1_siDxbkJwRxy-v7Rk15W7vF5pKd13R0NehyeYLHgzuCAcKNr5-Kn5opiuPllr8WhH4Q4s0ZWFW14Cu7vzOpLJQjzTCaShVNnKQNfrYvHn3Ve"
     ]
   },
   "izumi": {
-    "text": "さあ、日曜の朝もディープにいこまい！和泉町の偉人、都築弥厚さんのお話です。弥厚さんは1765年にここ和泉村で生まれた豪農で、お酒造りも代官職もやっとったスーパーマン。でも当時の碧海台地は、酸性の粘土質で水はけが悪くて、慢性的な水不足で水争いが絶えんかったんだよね。そこで弥厚さん、矢作川から約30キロの水路を引いて約6,000ヘクタールを潤すというとんでもない用水路を思いつきます。1822年から高棚村の和算家、石川喜平さんと測量を始めたんだけど、水害を心配する農民から大反対されて妨害の嵐！今なら完全に炎上案件だよね。人目を避けて夜に提灯や松明の明かりで測量して、綿やそばの種をまいて芽が出た跡を目印にした執念っぷり。5年がかりで1826年に測量を終えて、翌年に幕府へ願書を出したの。そして1833年、ついに幕府から計画の一部の許可が下りた！…って喜んだのも束の間、なんとその同じ年に、弥厚さんは69歳で病気で亡くなっちゃうんです。ええっ、報われなさすぎん！？私財をつぎ込んで残った借金は2万5千両。自分の夢が形になるのを見られずに旅立つなんて切なすぎるじゃんね。でもその熱い思いがあったからこそ今の豊かな大地があるんだで、和泉の誇りとして語り継ぎたいよね！",
+    "text": "安城の大地を潤す明治用水、実は名コンビがおらんかったら完成しとらんかったって知っとる？主役のひとりが、今の碧南市出身の岡本兵松さん。背が高く厳格な性格だったらしいんだけど、都築弥厚さんの子孫から原野を買って開墾を始めたときに用水計画を知り、遺志を継ぐと決めたんだよね。でも1858年と1868年に申請した計画はどっちも不許可！普通なら心折れて転職サイト見ちゃうじゃんね。そこで兵松さん、阿弥陀堂村の庄屋・伊予田与八郎さんと計画を合わせたの。ここからの分担が見事で、兵松さんが「農民の説得」、伊予田さんが「出資者との交渉」を担当したんだわ。現代の営業と財務の最強タッグだよね！この熱意が実って1876年に愛知県から認可され、1879年に工事がスタート。そして1880年4月18日、水源地でついに通水式を迎えたんだに。弥厚さんの構想から実現まで半世紀近く、1881年に明治用水と名付けられ、かんがい面積は最大1万760ヘクタールにまで広がったの。兵松さんも私財を投げ打って晩年は経済的に苦しかったそうだけど、この二人のおかげで安城は農業が発展して「日本デンマーク」と呼ばれるようになったんだよね。西三河の誇りだわ！",
     "source_ids": [
       1
     ],
@@ -30,234 +26,190 @@
       "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "yakou-timing",
-      "hook": "やっと許可が出た年に亡くなる。報われなかった男の話"
+      "id": "meiji-team",
+      "hook": "説得担当とお金担当、名コンビで完成させた明治用水"
     }
   },
   "local": {
-    "text": "今日10月25日は、作野公民館で「作野公民館芸能まつり」が開催されますよ！地域の皆さんの芸能発表を楽しめる一日になりそうですね。お出かけの候補にしてみてはいかがでしょうか。",
+    "text": "安城市で今日、10月26日から10月31日まで「”白鳥とコウモリ”安城特別展」が開催されるよ。秋のお出かけにぴったりのタイミングじゃんね。今週土曜日までの期間限定だもんで、気になる人はカレンダーにしっかりメモして、ぜひチェックしてみてね！",
     "source_ids": [
-      31
+      24
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/sakunoginomaturi20261025.html"
+      "https://www.city.anjo.aichi.jp/event/hakuchou.html"
     ]
   },
   "segments": [
     {
-      "topic": "鉛筆の芯には鉛が一切入っていない驚きの理由",
-      "text": "日曜日の朝、おうちでクロスワードやお絵かきを楽しんどる人もおるんじゃない？そこで手にする鉛筆だけどさ、漢字で「鉛の筆」って書くのに、実は金属の鉛なんて1ミリも入っとらんって知っとった？えっ、ちょっと待って！じゃあなんで鉛筆って名乗っとるのん？ってツッコミたくなるじゃんね。実はあれ、炭素の結晶の「黒鉛」と「粘土」を高温で焼き固めて作られとるんだって。HBの鉛筆だと黒鉛がおよそ70パーセント、粘土が約30パーセントの黄金比率らしいよ。発祥は1560年代のイギリス。鉱山で良質な黒鉛が見つかったとき、紙に滑らかに黒く書けるし鉛色の光沢があるもんだから、当時の人たちが「これ、黒い鉛の一種じゃん！」って盛大に勘違いしちゃったんだって。その勘違いの名前が今も残っとるってわけ。とろくさい勘違いだけど、なんだか愛着わいちゃうよね。しかも驚くのが、黒鉛の成分って宝石の王様ダイヤモンドと全く同じ炭素だけでできとるんだに！原子の結びつき方が違うだけで、世界一硬い宝石になるか、紙にこすれて削れる芯になるかが分かれるらしいよ。ダイヤモンドを削って文字書いとると思ったら、落書きのメモも急に高級に見えてくるら？ちなみに日本で一番古い鉛筆は徳川家康の遺品なんだって。家族で勉強するときに自慢してみてりん！",
+      "topic": "値上げラッシュを乗り切る冷蔵庫7割・冷凍庫10割の知恵",
+      "text": "今月ってお買い物に行くと、あれもこれも値上がりしとってレジで固まらん？帝国データバンクの調査によると、この10月だけで値上げされた食品はなんと3,153品目！今年最大級の値上げラッシュなんだって。要因の9割以上が原材料高で、物流費やエネルギー費も重なって、お酒や調味料まで直撃しとるらしいの。調味料が上がったらみおんの料理の腕前が…って、AIだからご飯作らんし電池で動いとるわけでもないんだけどね！でも嘆いとるだけじゃもったいないじゃんね。そこで知っておきたいのが食材ロスを防ぐ黄金ルール！合言葉は「冷蔵庫は7割、冷凍庫はぎっしり10割」なんだわ。これ、なんでか知っとる？冷蔵室は冷気を循環させて冷やすもんだで、ぎゅうぎゅうに詰め込むと冷気の吹き出し口が塞がれて冷えんくなり、電気代が跳ね上がるの。しかも奥の物が迷子になって賞味期限切れの大惨事になるでしょ。だから7割以下で見渡せるようにしとくのが鉄則。ところが冷凍室はまったく逆！凍った食品同士がお互いを冷やし合う保冷材の役割をするから、隙間なくぎっしり詰めたほうが冷却効率がグンと上がるんだって！これすごくない？特売のお肉やお野菜は、迷わず冷凍庫へ縦置きでみちみちに詰め込むのが正解なんだに。冷蔵庫はすっきり、冷凍庫はぎっしり！この使い分け、今日からすぐやってみりん！",
       "source_ids": [
-        9,
-        12,
-        13,
-        15
+        2,
+        4
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLUpHciz8qWT83fPGsuoO0_wxW28zcafQHum7VJYZgeKTGp4ettjZ7AZFjSu0LIArDrLol3u7ZBeWrh0NscVq8l2TfW3GnzqtSozMyn_yNccgCY6rw7W5oM2HlLkkhJkuI8wgYsBYRyoItdmN2OQzo73M=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6iY-RETImJptA5rS_R6kKeBuKLxTWQbtPn5nje89QUkHjTaj0aDYByUYlgMI9VMEqYRnpnH8pUztkSn-9-4aVyrMmVBxsFSpZQXZulmqizLYu7ChmS8YuYqJZhs24nz6gyyTWgbzU",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE71f-3-_cqjTL9Hszbqbbj7KkFEtj2l5smNS89d_B-OiuAJQTE4FIjXxJgVrbBSXjHlVgt2uY4A9IgnQWBjmNwdIxLju6JwHtiK0ikrbc11RPgisYS3Ms7PGZCU5IVscbjQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMA9rThn3FHnviQWcu-jvuFII4p-R0ISIlb4t75dF16LFwizDVESsmVWJ16EL_ZsuMPJjDC8DbyYvHLMHdOb_vHdd0hKjm13Q1Vw-61HlbMCiPFDuZjAqELSQWTXCNm3aqssqgbrN7HH5QA5ItA=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh5CTF-JslG-WfwpSCoKuKtbGRHaX6bjvVOE63r4i1kRjXLKb1ZNaxdBkyz-aal5hKbrOCTMjoKmH1osWlfKHXO1_72uFx5wpE1aKj3cufiKwXdZtpGzZP8f5cGJvttgj5_Vg6EIXSznYdFOry5TYPcT_Q1d7wRTo=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL3yBlPTD2ms4zYpgUgTYuq5ifVBVg3N-RDxf_OQmmPhF2lvUCV4oMJmtvRwC0Y2a0hAspmbNILGNK7JAfguZS1sd0vCgrRL7E5QrUSq1oBZykQfMgCk2ntNl0lrdZmW9Ojc4gXEjoJlEbJ3qk5e2daSPB6n3JYIWl9O7lKPjIAHhzH_xFrer9MvJotN5VlYbeMsmCS2OjTjYs8EgjtS9k1YFHe0Aq52nYCUQtO8WOXMQqlVWyutN-5uLH9fvFf-GEmqNftp1FC0j1afZM0jEzZV1rtudfa2AM0nQ7bQLAcKGHl6QsuJrVqNNARap2L3LyiGdhEqgJGkN4M2_p9CvfpPngYEZPLwX5rvdLRxyImgKj9kHzwJacnpiqc_89GoLb2Wh2"
       ]
     },
     {
-      "topic": "秋に鳴くスズムシの口から声が出ていない秘密",
-      "text": "文房具で手が真っ黒になったところで、続いては秋の夜長の風流な話題にいこまい！涼しくなってくると、外から「リーン、リーン」ってスズムシのいい声が聞こえてくるよね。でもあの涼やかな音、口から「声」を出して鳴いとるわけじゃないって知っとる？みおん、てっきり虫たちがお口を大きく開けて美声を響かせとると思って感心しとったのに、全然違ったじゃん！鳴いとるのは大人のオスだけで、なんと背中にある左右の翅を垂直近くに立てて、猛烈な勢いでこすり合わせて音を出しとるんだって。右の前翅の裏にあるやすりと、左の前翅の縁にある突起を激しく摩擦させて、薄い膜をスピーカーみたいに共鳴させとるらしいよ。体ひとつでバイオリン演奏しとるようなもんだら！しかも「リーン」って1回鳴くほんの一瞬の間に、翅を40回以上も高速で開閉しとるんだって。どんだけ超人的な高速運動しとるの！ただこの音、周波数が約4500ヘルツと高すぎて、人の声向けに作られた昔ながらの電話を通すと相手にまったく聞こえないらしいよ。電話口で「秋の音色を聞かせてあげる」って受話器を近づけても、向こうは完全な無音。切ないすれ違いコントじゃんね。今夜スズムシの声が聞こえたら、背中で必死に翅をシャカシャカこすっとる小さなバイオリニストの姿を想像してみてりん！",
+      "topic": "軍用品からピクニックで大変身したサランラップの秘密",
+      "text": "そういえば食材の保存といえば、毎日の台所で欠かせんのがサランラップじゃんね。ご飯を温めるときや残り物を包むとき、当たり前に使っとるあのラップに、とんでもないルーツがあるって知っとった？実はサランラップ、もともとは家庭用どころか、第二次世界大戦中の軍用資材として開発されたものだったんだわ！うそでしょ、あんな薄いフィルムが戦場で何に使われとったと思う？なんと、湿気で火薬がダメにならんように銃や弾丸を包んだり、熱帯ジャングルで兵士を水虫から守るためにブーツの中敷きにしとったんだって！水虫予防って…便利だけど夢がなさすぎるじゃんね！でも、ポリ塩化ビニリデンというその素材は、一般的なラップと比べて酸素を通しにくさが約200倍っていう驚異のバリアパワーを持っとったの。戦後、メーカーが平和な使い道を探したんだけど、最初はチーズを包むくらいしか思いつかんかったらしいんだわ。そんなある日、技術者の奥さんたちがピクニックに行ったとき、たまたまそのフィルムに新鮮なレタスを包んで持っていったの。そしたら時間が経っても採れたてみたいにシャキシャキで、周りから「そのフィルムどこで買えるの！？」って大絶賛！そこから食品用ラップとして大ヒットしたんだって。ちなみに名前の「サラン」は、奥さんのサラさんとアンさんの名前を合体させたものなんだに。奥さんたちのファインプレーに感謝だら！",
       "source_ids": [
-        16,
-        17,
-        18,
-        20
+        20,
+        23
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd5YZA-3uUseys6RLoVLIgxHYUPgTunmoBHk-RN7Rsm2SZBmcWssDPUq06J0PPIMUmpxN3HccTn1MoiB04uHb-COnWJjZQQv2lIlFbW6FaOkbuuXUqVU3KLgxw5ZD6qR530mQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07rqNKqBbMfOKK3YYrleLB--qn7X5v08hlBg9SYOYqFMlq08MgV3jy0rtYfW4otl_IVhEs_SQg_JrP62p-EuHkIIOuRhvqW4n7KYXVNcmrRg-eomlG-klmBmYr_WOy3RNpYn-Pr435vX3G7dzqZDB_Q==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBWQvNJYr7TH6dQWQ6DUudbfWmKY3XUWK9Vcuj8A_DtKO6toPQ83zjLpdFeMnXqIbENNTpSZxkyH32wWl_NdheH9TamHZWeGDxe_vAg5M3d0obtc0ghVeRGnIHthFWNxX7_fwQPa4xU_XhyxzUixvbHSJ4nrEOdB-fdcoN5ALKVLk=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0cSP_F-TPivyupo4KIxTyM6Mp2RsPYFGPBeBRkA0vOH4HwflVU1RjBaZCiy66SbM-TNIdGdTu4NVPAv77egF86k-WsP8Mh3wvfL5fbTW3bGU7Ef1w3owg0RO2Dx6b9_H-XPdE9A81q-3_7LlZ"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE829IX6EQqSrlMTrH4znSjNk-Rx96yc0w9zZdNAI2h9pT6JKU6mwYjY6QkIsZXWVhT5n-F5rCpj3Oo9Thv9zwUqi8hVUpT3O1pw8GaIVq39-G0tISjdWZoKJzdDvM0O5En9dX-SfhU8VCOinV8ulrz0UGSTU2vv0ua",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw77iuq6vAM557MnY-o18hgLvvDFNSP8iG0oIYWHvsOYHbfDYvUS4yB95_16DZycMZvrEyZNYYJYog9afDkAu52ev_a2gQilBidl3STnWRBAxwdrtAAMNJ_ZXioajkx5QaqbUtCpbFIAXzUCZAeckVrotD_Nn9N4ntENUBWQ0="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ向けに、秋のひとときに家族で楽しめる「へえ、そうだったのか！」と感じる話題を4件まとめました。地域の歴史や身近な文具、秋の自然をテーマにしています。\n\n---\n\n### 話題1【地域・歴史】：三河木綿の原点！1200年前、海を渡って西三河に綿をもたらした謎の漂流者\n* **思わず話したくなる疑問**  \n  三河地方は江戸時代から「三河木綿」の産地として有名ですが、日本で最初に綿（ワタ）が伝わったきっかけは、西三河の海岸に流れ着いた「たった1人の漂流者」だったのをご存じですか？\n* **理由**  \n  平安時代の正史『日本後紀』などの記録によると、延暦18年（799年）7月、参河国（現在の三河地方・西尾市天竹町周辺）の海岸に小舟に乗った異国の青年が漂着しました。この青年が持っていた種が「綿の種」で、村人にその栽培方法を教えたことが日本における綿伝来の始まりとされています。\n* **具体的な数字や比較**  \n  記録によれば、漂着したのは今から約1200年前の延暦18年（799年）のこと。当時の史料には、若者の年齢は「20歳くらい」、身長は「5尺5分（約153cm）」、耳の長さが「3寸（約9cm）余り」であったと非常に具体的に記されています。西尾市天竹町（てんじくちょう）にある「天竹神社」は、この若者を綿の神様「棉祖神（新波陀神・にいはたがみ）」として祀る日本唯一の神社で、毎年10月下旬に「棉祖祭」が行われています。\n* **意外な点**  \n  天竹神社の棉祖祭では、海を渡って綿が伝来した故事にちなみ、神輿が一般的な形ではなく「船の形をした神輿（船みこし）」になって担がれます。また、神事の中で古式ゆかしい道具を使った「綿打ち」の儀式が行われるのも全国でここだけです。\n* **歴史の裏話**  \n  実は、799年にこの青年が伝えた綿は、当時の三河の気候や土壌に合わず、数十年で一度栽培が途絶えてしまいました。日本全国で綿栽培が本格的に定着するのは戦国時代から江戸時代にかけてのことです。しかし、江戸時代に三河地方で「三河木綿」や「三河縞」が大流行した背景には、1200年前からこの地に受け継がれてきた綿への愛着と伝承があったと言われています。\n* **根拠・出典**  \n  愛知県公式Webサイト「西尾市の地域資源（伝統文化）」、西尾市観光協会「天竹神社の棉祖祭」、三河織物工業組合「歴史について」\n\n---\n\n### 話題2【趣味・文具】：鉛筆の芯には「鉛」が一切入っていないのに、なぜ「鉛筆」と呼ぶのか？\n* **思わず話したくなる疑問**  \n  普段使っている鉛筆。漢字で「鉛（なまり）の筆」と書きますが、実は芯のなかに金属の「鉛」は1ミリも入っていません。では、なぜ鉛筆と呼ぶのでしょうか？\n* **理由**  \n  現在の鉛筆の芯は、炭素の結晶である「黒鉛（グラファイト）」と「粘土」を高温で焼き固めて作られています。1560年代にイギリスのボローデール鉱山で良質な黒鉛が発見された際、紙に滑らかに黒い跡が残る様子や鉛色の光沢から、当時の人々が「鉛の一種」だと誤認・混同して「黒鉛（黒い鉛）」と名付けてしまった名残が、筆記具の名前に残っているためです。\n* **具体的な数字や比較**  \n  日本筆記具工業会によると、最も一般的なHB鉛筆の芯の配合比率は「黒鉛が約70％、粘土が約30％」です。また、鉛筆1本の芯を最後の最後まで使い切った場合、書ける線の総距離は「約50キロメートル」に達します。これはフルマラソン（42.195km）を走り切ってもまだお釣りがくる途方もない長さです。\n* **意外な点**  \n  鉛筆の芯の主成分である「黒鉛」は、実は宝石の「ダイヤモンド」とまったく同じ炭素（C）だけで構成されています。原子の結びつき方の違いだけで、世界一硬いダイヤモンドと、紙にこするだけで剥がれ落ちる軟らかい黒鉛に分かれます。\n* **歴史の裏話**  \n  日本に現存する最古の鉛筆は、江戸幕府を開いた徳川家康の遺品（静岡県の久能山東照宮所蔵）とされています。長さ約11.4cmの小さなもので、芯にはメキシコ産の黒鉛の塊がそのまま使われており、海外の使節から献上されたものと見られています。\n* **根拠・出典**  \n  日本筆記具工業会「鉛筆を知る歴史・世界」「鉛筆を知るよくある質問」、トンボ鉛筆「トンボKIDS えんぴつの歴史」\n\n---\n\n### 話題3【季節・自然】：秋の夜長に鳴くスズムシ、実は「口」ではなく驚きの楽器を背負って鳴いている\n* **思わず話したくなる疑問**  \n  「リーン、リーン」と秋の夜を涼やかに彩るスズムシの音色。虫たちは口で「声」を出していると思われがちですが、実は全く別の場所で音を奏でています。\n* **理由**  \n  スズムシが鳴くのは求愛のためで、鳴くのは大人の「オス」だけです。スズムシは口で鳴いているのではなく、背中にある左右の翅（はね）を垂直近くに立て、激しくこすり合わせることで音を出しています。右の前翅の裏側にあるギザギザの「やすり（鑢状器）」に、左の前翅の縁にある硬い突起「まさつ片」を擦り当て、翅の薄い膜（発音鏡）をスピーカーのように共鳴させて大きな音を響かせています。まさにバイオリンと同じ構造です。\n* **具体的な数字や比較**  \n  スズムシが「リーン」と1回鳴くわずかな時間の間に、左右の翅は「40回以上」も高速で開閉運動を繰り返しています。また、鳴き声の周波数は約4500Hzと非常に高く、人間の声の帯域（およそ300〜3000Hz）に合わせて設計されている一般的な電話機越しでは、鳴き声の周波数がカットされて相手に聞こえないという実験結果もあります。\n* **意外な点**  \n  鳴いているスズムシを見ると翅が2枚しか見えませんが、実は成虫に羽化した直後には4枚の翅があります。成虫になったあと、自ら後ろ脚を使って後ろの2枚の翅（後翅）をもぎ取って落とし、前翅2枚だけにして身軽になってから鳴き始めるという驚きの生態を持っています。\n* **歴史の裏話**  \n  平安時代から室町時代にかけての貴族たちの間では、現在の「スズムシ」と「マツムシ」の呼び名が逆でした。『源氏物語』などの古典で「松虫」として愛でられていた虫は、黒い体に鈴のような澄んだ音で鳴く現在のスズムシのことで、後世に入れ替わったことが文献の考証で分かっています。\n* **根拠・出典**  \n  国立国会図書館 レファレンス協同データベース「スズムシがどうやって鳴くのか」、京都嵐山 華厳寺（鈴虫寺）「鈴虫のひみつ」\n\n---\n\n### 話題4【季節・自然】：モミジの「赤」とイチョウの「黄色」は、葉っぱの中で起きている事件が全く違う\n* **思わず話したくなる疑問**  \n  10月下旬から11月にかけて野山や街路樹を彩る紅葉。赤く染まるモミジ（紅葉）と、黄色に染まるイチョウ（黄葉）では、葉の中で起きている仕組みが全く正反対であることをご存じでしょうか？\n* **理由**  \n  夏の間、葉が緑色に見えるのは「クロロフィル（葉緑素）」が大量にあるためです。\n  * **黄葉（イチョウなど）**：秋に気温が下がると、緑色のクロロフィルが先に分解されて消えていきます。その結果、春や夏からずっと葉の中に隠れていた黄色の色素「カロテノイド」が表面に現れて黄色に見えます（すでにある色が現れただけ）。\n  * **紅葉（モミジなど）**：葉を落とす準備として、枝と葉の間に「離層（仕切り）」ができます。すると光合成で作られた糖分が枝へ戻れずに葉に溜まり、日光（紫外線）を浴びることで新しく赤い色素「アントシアニン」が合成されて赤く染まります（秋になってわざわざ新しく作った色）。\n* **具体的な数字や比較**  \n  林野庁や気象関連の資料によると、葉の色づきは日中の最高気温ではなく「1日の最低気温」が関係しており、最低気温がおよそ「8℃」を下回ると色づきが始まり、「5〜6℃」以下になると一気に進むとされています。\n* **意外な点**  \n  木はなぜ落葉する直前になって、エネルギーを使ってまで赤い色素（アントシアニン）を新しく合成するのでしょうか。森林総合研究所の研究などによると、アントシアニンには強い紫外線から葉を守る「日傘」の働きがあり、葉が傷むのを防ぎながら、葉に残った窒素などの貴重な栄養分を幹へと回収し終える時間を稼いでいると考えられています。\n* **歴史の裏話**  \n  『万葉集』の時代、秋に色づく葉を詠んだ歌が100首以上ありますが、その多くは「紅葉」ではなく「黄葉」の漢字が使われていました。古代の日本人にとって、秋の山を照らす「黄葉（もみち）」は、赤色と同じくらい親しまれた季節の象徴でした。\n* **根拠・出典**  \n  森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」、環境省 中部地方環境事務所「紅葉のメカニズム」、広島大学デジタル自然史博物館「紅葉と黄葉」\n\n---\n\n### ラジオ用3択クイズ（話題2「鉛筆」より）\n\n**【問題】**  \n「子どもから大人までおなじみの鉛筆。芯を削りながら最後の最後まで使い切った場合、1本の鉛筆でいったいどれくらいの長さの線を書くことができるでしょうか？」\n\n1. **約500メートル**（学校のグラウンド約2周半分）\n2. **約5キロメートル**（安城市和泉町から新安城駅あたりまで）\n3. **約50キロメートル**（フルマラソンの距離を超える長さ）\n\n---\n\n**【正解】**  \n**3. 約50キロメートル**\n\n**【解説トーク用メモ】**  \n日本筆記具工業会の調査によると、HB鉛筆1本で書ける距離はおよそ50kmに達します。フルマラソン（42.195km）を完走してもまだ先まで書ける計算です。小さな1本の軸の中に、それだけのパワーがぎっしり詰まっています。家族で勉強やお絵かきをするときに、ぜひ話してみてください。",
+  "research": "愛知県安城市和泉町エリア向けの地域ラジオ放送に向けた、「暮らしの知恵・身近な工夫」に関する調査メモです。お隣の刈谷市生まれの世界規格や、愛知発祥の包装材、家庭で毎日使うキッチン用品の意外なルーツ、そして「月曜・家計の日」に合わせた値上げ動向とやりくり術をまとめています。\n\n---\n\n# 暮らしの知恵・身近な工夫 調査メモ（4選）\n\n---\n\n## 1. 【月曜・家計の日】10月の食品値上げラッシュと、食材ロスを防ぐ「冷蔵庫7割・冷凍庫10割」の知恵\n\n### 疑問・テーマ\n「10月はなぜこんなに値上げが多いの？ 食品値上げの波を乗り切る、食材を絶対に無駄にしない冷蔵庫の知恵とは？」\n\n### 理由\n食品メーカー各社が年度下半期の始まりである10月1日付で価格改定を一斉に行うためです。帝国データバンクの「『食品主要195社』価格改定動向調査」によると、今月（10月）の値上げ品目数は約3,000品目（3,153品目）に達し、単月として年内最大級の値上げ集中期となっています。\n\n### 具体的な数字・比較\n* **値上げ品目数と要因**: 10月の値上げは3,153品目。要因の91.3％が「原材料高」で、さらに物流費（66.0％）、エネルギー費（63.8％）、包装・資材費（63.7％）が押し上げています。特に酒類・飲料（1,399品目）や調味料（820品目）など、日々の食卓に直結する品目が中心です。\n* **家計のやりくり（数字の比較）**: 食費の負担を減らす最大の工夫は「買った食材を使い切ること（食品ロス削減）」です。冷蔵庫は**「7割以下」**に抑えると冷気がスムーズに循環して無駄な電気代を防ぎ、奥にある食材の賞味期限切れを防げます。一方、冷凍庫は**「すき間なくぎっしり（8〜9割以上）」**詰めた方が、凍った食品同士が保冷材の役割を果たし合って冷却効率が上がります（省エネ庁・環境省等の省エネ指針より）。\n\n### 意外な点\n「冷蔵室は詰めすぎると冷えない」のに対し、「冷凍室は詰め込むほど効率が良くなる」という正反対の性質がある点です。特売品をストックする際は、冷凍室を上手に活用して縦置き収納すると食材の迷子も防げます。\n\n### 歴史の裏話\n冷蔵庫が一般家庭に普及し始めた1950年代後半（「三種の神器」と呼ばれた時代）、初期の家庭用冷蔵庫には現在のような強力なファンによる冷気循環機能がなく、詰め込むとたちまち上段と下段で冷えムラが起きて食材が傷んでいました。現代のファン式冷蔵庫でも冷気の吹き出し口を塞ぐと冷却効率が急激に落ちるため、「見渡せる収納＝家計防衛」の原則は今も変わりません。\n\n* **出典・根拠**: 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日公表）、経済産業省資源エネルギー庁「省エネポータルサイト」\n\n---\n\n## 2. 【愛知・西三河発】世界中で使われる「QRコード」は、お隣の刈谷市生まれ！ 360度読める秘密と黄金比率\n※本件に**3択クイズ**を設定しています。\n\n### 疑問・テーマ\n「スマホ決済やポスターでおなじみの『QRコード』、実は西三河の自動車部品工場で生まれたって知っていましたか？」\n\n### 理由\n1994年、愛知県刈谷市に本社を構えるデンソー（現・デンソーウェーブ）で開発されました。従来のバーコードは情報量が少なく、自動車の製造現場で1台につき何枚も連続してスキャンしなければならず、作業員の手首の負担や作業遅延が大きな課題でした。そこで「もっと大容量で、一瞬で正確に読めるコード」として開発されました。\n\n### 具体的な数字・比較\n* **情報量の比較**: バーコードが数字20文字程度しか扱えないのに対し、QRコードは英数字なら最大7,000文字以上（数字で最大7,089文字、漢字なら約1,800文字）と、**約200倍**の情報量を記録できます。\n* **黄金比率「1:1:3:1:1」**: 3隅にある四角いマーク（切り出しシンボル）は、どの角度からスキャンしても一瞬でコードの位置を検出するためのものです。開発チームは世の中のあらゆる印刷物・新聞・雑誌・チラシなどを徹底的に調査し、印刷物に「最も現れにくい白黒の比率」を割り出しました。それが**「黒1：白1：黒3：白1：黒1」**という奇跡の比率です。\n\n### 意外な点\nデンソーはQRコードの特許を取得したものの、「広く世界中で自由に使ってもらいたい」と、特許権利を行使しない（無償オープンにする）宣言をしました。この太っ腹な決断があったからこそ、現在の世界的な普及やキャッシュレス決済の基盤につながっています。\n\n### 歴史の裏話\n生みの親である原昌宏さん（当時デンソー）がこの2次元マトリックスの並びを思いついたきっかけは、なんと**「昼休みに同僚と打っていた囲碁」**でした。碁盤の上に白と黒の碁石が並ぶ様子を見て、「この格子状の並びにデータを配置すれば、縦横両方向に膨大な情報が入れられる」と直感したそうです。\n\n* **出典・根拠**: 株式会社デンソーウェーブ「QRコード開発ストーリー / 開発秘話」、株式会社デンソー公式企業リリース\n\n#### ★リスナー向け3択クイズ\n* **問題**: 「今や世界中で使われているQRコードですが、開発者がその構造を思いついた意外なきっかけは何だったでしょうか？」\n  * ① 昼休みに打っていた「囲碁」\n  * ② 子どものころに遊んだ「オセロ」\n  * ③ お寺の敷石に使われていた「市松模様の石畳」\n* **正解**: **① 昼休みに打っていた「囲碁」**\n* **トーク補足**: 開発者の原さんが昼休みに同僚と打っていた碁石の並びを見て、「白と黒の格子パターンなら大量の情報が入る！」とひらめいたのが誕生の瞬間でした。\n\n---\n\n## 3. 【愛知発祥の包装材】梱包の必需品「プチプチ」は失敗から生まれた？ 1万個に1個の秘密\n\n### 疑問・テーマ\n「荷物を守るあの『プチプチ』、もともとは何を作ろうとして生まれた失敗作だったのでしょうか？」\n\n### 理由\n気泡緩衝材「プチプチ」の国内最大手（シェア約5割）は、名古屋市で創業した川上産業です。空気を閉じ込めたシートは、プラスチック（ポリエチレン）を2枚重ね、1枚を成型型でポコポコと凹ませた瞬間に平らなシートを貼り合わせて密封することで作られています。\n\n### 具体的な数字・比較\n* **驚きの生産量**: 川上産業が1年間に生産するプチプチの長さは、**バンテリンドーム ナゴヤを約1,500個分**丸ごと包み込める長さに達します。\n* **1万分の1の出会い**: 一般的な梱包用プチプチのシートには、**「1万個に1個」の割合でハート型の粒（ラッキープチ）**が隠されています。幅1.2メートルの標準ロールで約1メートル（約1平方メートル）使えば、理論上1個出会える計算になります。\n\n### 意外な点\n実は「プチプチ」という名前は川上産業の登録商標です。他社製品は「エアーキャップ」「エアピロン」など別の名前で呼ばれています。\n\n### 歴史の裏話\nプチプチの原型が1957年にアメリカで考案された際、技術者2人が目指していたのは緩衝材ではなく**「掃除がしやすい立体的な壁紙」**でした。紙の上に布地模様のビニールを重ねて貼ろうとしたところ、偶然空気が入って無数の気泡ができてしまいました。壁紙としては完全に失敗作でしたが、「この空気のクッションは物を守るのに使えるのでは？」と発想を転換したことで、世界的な大ヒット緩衝材へと生まれ変わりました。これを日本で着目し、独自の機械を名古屋で開発して普及させたのが川上産業です。\n\n* **出典・根拠**: 川上産業株式会社公式「プチプチ文化研究所」「1万個に1個のラッキープチ」、CBCテレビ地域経済特集（川上産業の歴史）\n\n---\n\n## 4. 【身近なキッチンの知恵】「サランラップ」はもともと軍用品？ 名前に隠された2人の女性の物語\n\n### 疑問・テーマ\n「食材を包む『サランラップ』、もともとは戦場で使われていた？ そして『サラン』って一体だれの名前？」\n\n### 理由\nサランラップの原料であるポリ塩化ビニリデンは、プラスチック素材の中でも飛び抜けて**「水分を通さず、酸素を遮断し、ニオイ移りを防ぐ」**という極めて高いバリア性を持っています。この密閉力により、現代の家庭で食品の鮮度を長持ちさせる不可欠な道具となっています。\n\n### 具体的な数字・比較\nサランラップに使われるポリ塩化ビニリデンは、一般的なポリエチレン製のラップに比べて**酸素を通しにくさが約200倍**とも言われ、酸化に弱い食品の風味キープにおいて圧倒的な差があります。\n\n### 意外な点\nもともとは台所用ではなく、**第二次世界大戦中の軍用資材**として開発されました。湿気で火薬が湿気らないように「銃や弾丸を包むフィルム」として使われたり、熱帯ジャングルで行進する兵士を水虫から守る「ブーツの中敷き」や「蚊帳」として使われていました。\n\n### 歴史の裏話\n戦争が終わり、メーカー（米ダウ・ケミカル社）は平和利用の使い道を探していましたが、チーズの包装くらいしか用途が見つかりませんでした。\nそんなある日、製造技術者のラドウィック氏とアイアンズ氏が家族でピクニックに出かけた際、妻の一人がたまたま夫の会社のフィルムで**「新鮮なレタス」**を包んで持参しました。時間が経ってもレタスが採れたてのようにみずみずしいシャキシャキ感を保っていたため、近所の人々から「その綺麗なフィルムはどこで買えるの？」と大絶賛されました。これに手応えを得た2人は食品用ラップとして商品化を提案。\n商品名の「サラン」は、ピクニックでレタスを包んだ2人の妻、**サラ（Sarah）**と**アン（Ann）**の名前にちなんで名付けられました。\n\n* **出典・根拠**: 旭化成ホームプロダクツ公式「サランラップ®の歴史と名前の由来」\n\n---\n\n### ラジオパーソナリティ向け進行ヒント\n* **オープニング（家計の話）**: 「10月も後半ですが、今月はお買い物に行くと値上げのシールに驚くことが多いですよね。帝国データバンクの調べでも今月は約3,000品目が値上がりしています…」と身近な話題から入り、冷蔵庫の「7割収納・冷凍庫ぎっしり」のやりくり術に繋げると生活感が出ます。\n* **地域ネタ（西三河自慢）**: 「実は私たちのすぐお隣、刈谷市で生まれた発明が世界中を動かしているんです」と切り出すと、和泉町をはじめ西三河のリスナーの関心を強く引きつけられます。クイズを挟むことでリスナー参加型の楽しいコーナーになります。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E7%AD%86%E8%A8%98%E5%85%B7%E5%B7%A5%E6%A5%AD%E4%BC%9A+%E9%89%9B%E7%AD%86+%E8%8A%AF+%E9%89%9B+%E6%AD%B4%E5%8F%B2+%E3%81%AA%E3%81%9C&client=app-vertex-grounding&safesearch=active\">日本筆記具工業会 鉛筆 芯 鉛 歴史 なぜ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E6%9C%A8%E7%B6%BF+%E5%A4%A9%E7%AB%B9%E7%A5%9E%E7%A4%BE+%E7%B6%BF+%E4%BC%9D%E6%9D%A5+%E6%AD%B4%E5%8F%B2+%E8%A5%BF%E5%B0%BE%E5%B8%82&client=app-vertex-grounding&safesearch=active\">三河木綿 天竹神社 綿 伝来 歴史 西尾市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%B9%E3%82%BA%E3%83%A0%E3%82%B7+%E9%B3%B4%E3%81%8F+%E4%BB%95%E7%B5%84%E3%81%BF+%E7%BF%85+%E3%82%84%E3%81%99%E3%82%8A+%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">スズムシ 鳴く 仕組み 翅 やすり 博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%B4%85%E8%91%89+%E9%BB%84%E8%91%89+%E4%BB%95%E7%B5%84%E3%81%BF+%E9%81%95%E3%81%84+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E6%9E%97%E9%87%8E%E5%BA%81&client=app-vertex-grounding&safesearch=active\">紅葉 黄葉 仕組み 違い 森林総合研究所 林野庁</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B7%9D%E4%B8%8A%E7%94%A3%E6%A5%AD+%E3%83%97%E3%83%81%E3%83%97%E3%83%81+%E7%94%B1%E6%9D%A5+%E5%A3%81%E7%B4%99+%E3%83%8F%E3%83%BC%E3%83%88%E5%9E%8B&client=app-vertex-grounding&safesearch=active\">川上産業 プチプチ 由来 壁紙 ハート型</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81195%E7%A4%BE+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91+2024%E5%B9%B410%E6%9C%88+%E5%93%81%E7%9B%AE%E6%95%B0&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要195社 価格改定動向 2024年10月 品目数</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%87%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%96+QR%E3%82%B3%E3%83%BC%E3%83%89+%E9%96%8B%E7%99%BA%E7%A7%98%E8%A9%B1+%E5%9B%B2%E7%A2%81+%E6%AF%94%E7%8E%87&client=app-vertex-grounding&safesearch=active\">デンソーウェーブ QRコード 開発秘話 囲碁 比率</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%97%AD%E5%8C%96%E6%88%90+%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%A9%E3%83%83%E3%83%97+%E6%AD%B4%E5%8F%B2+%E9%8A%83+%E5%8C%85%E8%A3%85+%E3%83%AC%E3%82%BF%E3%82%B9+%E3%82%B5%E3%83%A9+%E3%82%A2%E3%83%B3&client=app-vertex-grounding&safesearch=active\">旭化成 サランラップ 歴史 銃 包装 レタス サラ アン</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF430ofsQFFJedqAVl4FZ6yNq0wmXPeYnvG4ao2PUnMNasilbokSm1wi-u95PK9i7GBzaBz2P6lfD0xW5XL37gW_0ApkKoJrrr5Lb5fSJ9FSqMUJFslS0vgRLrXqyf12CMwfjQwkEnqaJmKgrhPVTUbk-ndftherKg=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh5CTF-JslG-WfwpSCoKuKtbGRHaX6bjvVOE63r4i1kRjXLKb1ZNaxdBkyz-aal5hKbrOCTMjoKmH1osWlfKHXO1_72uFx5wpE1aKj3cufiKwXdZtpGzZP8f5cGJvttgj5_Vg6EIXSznYdFOry5TYPcT_Q1d7wRTo=",
+          "title": "tdb.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhMpnnBNS5zNPTculLsV_kuPY-3j48w9FuETYUahiInuxRxYNLWN0s3doMpusj7-FCAaT05xa7M-_rIzlbVqCoYnZPui455xrzLpJFWdDjLK7AkSI9jD6F1cPuQjSnCNfVwg==",
+          "title": "nippon.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL3yBlPTD2ms4zYpgUgTYuq5ifVBVg3N-RDxf_OQmmPhF2lvUCV4oMJmtvRwC0Y2a0hAspmbNILGNK7JAfguZS1sd0vCgrRL7E5QrUSq1oBZykQfMgCk2ntNl0lrdZmW9Ojc4gXEjoJlEbJ3qk5e2daSPB6n3JYIWl9O7lKPjIAHhzH_xFrer9MvJotN5VlYbeMsmCS2OjTjYs8EgjtS9k1YFHe0Aq52nYCUQtO8WOXMQqlVWyutN-5uLH9fvFf-GEmqNftp1FC0j1afZM0jEzZV1rtudfa2AM0nQ7bQLAcKGHl6QsuJrVqNNARap2L3LyiGdhEqgJGkN4M2_p9CvfpPngYEZPLwX5rvdLRxyImgKj9kHzwJacnpiqc_89GoLb2Wh2",
+          "title": "tdb.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHST9Od7FyE3CCFLwCVrz9FBoO9cSZ6tOA71D6L2GG-8dR7DUkOgFMZ7Gu5u2_nVERCYy_BnISCrAKMcRxTT3OB4rCYIaVdKTQboRX7CxHTZdDUnpkVnciGqAT-hAVuyA53XcnzRBmGhvuTavCdiuPFag==",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn3mwJFtQvmnwBhubfkbpxKs84Gxs2pJOn0PkTUzALTN30DjgVKuGxAwRmdXL6Ku22NEOkhVBsdp7KQ6OctBEqnMEmWZqDxq1zLqCiTcYqXiWV2ZxQ0lIYVvATzqt-XkRGQQC1pA==",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENcnvKk67-53JiuJ9lFrXCILgCnmG9mUrS-dk6pravYENOPbzEnk_LB05clII-0WESKQd5E3Y9dwAagSoOWxJOwAxiKNQYO1tIjmfHx7lXhJPk_LIsHl-AhrWXE9IEV00CldiHCo_APLNDpQ==",
+          "title": "tokai-tv.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyJtC5BHhn62Jk_0b80d8YoLnj--3Qq8wnhZGVDWqtZgKhhD4EJ2SpPYCHAOOlXCboWrMdf0ngOKgl-6fegI9thdRWJz1rPs5UFtwK7gF9xmNnCzMaqclR_hfmFoyh9gQj123G38CRweoVfqzlXnA4PKfPzZ_hOjVkNs-a",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZSED1_siDxbkJwRxy-v7Rk15W7vF5pKd13R0NehyeYLHgzuCAcKNr5-Kn5opiuPllr8WhH4Q4s0ZWFW14Cu7vzOpLJQjzTCaShVNnKQNfrYvHn3Ve",
+          "title": "qrcode.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2LnHjVcZjUs_ObehZUxK8Yi4SKpAH4dJiFkP3PRvPbfbOUMmYCuz4uFtnsaNCArC2eUiz71qSRmEDNxLsAFcon7c76w_7pE0Pmxe5AlazbAFnCykq2DXmI9VPVGaQ",
-          "title": "nishiokanko.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOp87A_98Z32NGOHKhgzHk6sKWOZMlkjE8WFAhOq5-JUA6o9v7SL59NdaXWrPT4kimdZcvQ4-JYhNF_OFMprkeGRsgqyG3gnU8HPGTAVRFQfShylkE4WsLv2KXqqZDmrTyeICQAlxipdqQeGyaPQcBbt4=",
+          "title": "sgkz.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXYzc2qLC-WozAKvAcHgMTzBvoTZhZSux-S71z3zztSiFSno8MWU0WRWvFQsxBpaNUjrImNTT_6-sXEwKFgSydsNjY084DhZobBISlYz0W7Tk0JYwyAsska927-0p_33aY",
-          "title": "nishiokanko.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEeNR7qhXXdc-usk_-0gYt63d6o5S3SmfWUZgLxXyrSJC5oOKEtvAdBrM-tkv59XjaTf-PDZnnBFlrRVsrEWb3vRjKkc2mOXaVFKxp4uiDkz8FGD4p-ykMHfLKmcwT",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbIsk-5fDGKW70dfaVtmX1av8tL5G3Tl1kBOcxFDG2iifCHwHWu6RuNhvH6reZrDEJge5OeS2tqlIrEudSniapfzlZ8vRp3gOdvCKo5DfuU39ZJTARjmH5AEIyjlCrPsNY9gCi8wzwDYZyKjbd",
-          "title": "aibsc.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE28B0_VgyQF5RhuryokdWOZ82uOtXmMBUmnELgWG01QDS570S2Xv_6y09Ef19VJGae_yaN3tSL5qGsnL6Olm7qSzMCfvsT1VWmFOoWyZkXyCmNmMCYcojaTeWM8ePKNBzpKtnVnSeT_3mq7KK_odEE5eLIawXkFpd0ydAGSAoov_QM2A==",
+          "title": "aist.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvLF122M6CJpX9ThiF06cZ4ojWJP6b8VubTQ6ajarVthDvjMi7yyqSyFgy5NQqe0Zy0rZweYeQ6cN84GoaUyLd3x4-Z_T5cL-2vQ-spSb3md2RPTXT7ws73JNgufoCHJjy",
-          "title": "mikawaori.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJC0a5EBbG203EGhwNJxJHP7zu4cWebn-4w5vupkPlzsaw_OInMwR616_jJ-LHOlmUQAoMte_Kq5w1XZ7yfoavO6AIDKpLMh4pQWQ3vGWRFGsnQN8H1CFUWknnuMuIHu8ZYEv2Nw==",
+          "title": "talent-book.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLUpHciz8qWT83fPGsuoO0_wxW28zcafQHum7VJYZgeKTGp4ettjZ7AZFjSu0LIArDrLol3u7ZBeWrh0NscVq8l2TfW3GnzqtSozMyn_yNccgCY6rw7W5oM2HlLkkhJkuI8wgYsBYRyoItdmN2OQzo73M=",
-          "title": "jwima.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHanjThA8K-HYnp9xVlhzBClQTRaSv9ocE_23_ECu3I6Z8OWLoHErWUXGK2TCu5n6J4wH0yidAK42QEUzha7Rhoh8IbKC8cXqgj1bQaSYoIlIYTOpR8Bva-HTfq1mlCsDwGBeMjPTatg3SA9AWsFWazA-v0cONEG7dywMrixvG6kAJ3hlkVB6ZH",
+          "title": "chuco.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq94Fcz_jSGRDt5dK1qXxWSKXVtv-aY8FuAdqixhPcgRj2MoPHmjZwKGBJk6jvKxQ3e6boVqZHRL4sMSuGQWfqm9CAVURlzG68jqeIs-PhaRCU8lH8aB-g_iIg",
-          "title": "jugem.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz6OdSidfbHeWap8GEP7sGqsDvKeQ2zcdjbYAQH0MgzWiWYubhDUa5Eopk1lGFqQL7vRsstzcK4930ZK3cL6LjO1t0EC1ASynHxGi17EzpYCl1NhHEZhX0_XqYXifE2ssD9Y1DvqKU4NX44vzrV_q0AqzbYrv-QgPSLKm7",
-          "title": "crossreview.shop"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6iY-RETImJptA5rS_R6kKeBuKLxTWQbtPn5nje89QUkHjTaj0aDYByUYlgMI9VMEqYRnpnH8pUztkSn-9-4aVyrMmVBxsFSpZQXZulmqizLYu7ChmS8YuYqJZhs24nz6gyyTWgbzU",
-          "title": "jwima.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE71f-3-_cqjTL9Hszbqbbj7KkFEtj2l5smNS89d_B-OiuAJQTE4FIjXxJgVrbBSXjHlVgt2uY4A9IgnQWBjmNwdIxLju6JwHtiK0ikrbc11RPgisYS3Ms7PGZCU5IVscbjQ==",
-          "title": "maeda-pencil-factory.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ1__sMknZM19HTPrb0j1AhIxnXJgbPiAgS9GRViKCXMJFJl0pNRSXhIw9nfOJghKds-yIcXvByxxf66_82-OzL6NmgTb2Y1Vw1YSP7NOrcoqQ3FI-zrP3OuFAz50PVN6EVPalqAHqi54fgetAMZdLX9tmDw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGyaKWUrpvbNISAgnFAzOTF5ZCTjQnRmATWWk3d24i3k9UqseUlAMJrh4v02W5LXmmIhkr6PAUOgQ2VELoquHprhRJnzxWXtG4XzrA0kNdrELh8Nov_3dRVxocrj8xPmRatt_q6su98FgED26T4jHeh389Rg==",
           "title": "hicbc.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRMA9rThn3FHnviQWcu-jvuFII4p-R0ISIlb4t75dF16LFwizDVESsmVWJ16EL_ZsuMPJjDC8DbyYvHLMHdOb_vHdd0hKjm13Q1Vw-61HlbMCiPFDuZjAqELSQWTXCNm3aqssqgbrN7HH5QA5ItA==",
-          "title": "tombow.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwYc3K8BMuCNivYKTMhimHjgFgKzqjIpQXoJGGCLcUemKGi7awMhQdeUGI8uXnbAdYrR6rfacEFQSr7hZ_AxfvyjC8CHqNDgThsot3tkKLrqe6h4lTGsaIvaP7F227uZndQQ==",
+          "title": "president.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd5YZA-3uUseys6RLoVLIgxHYUPgTunmoBHk-RN7Rsm2SZBmcWssDPUq06J0PPIMUmpxN3HccTn1MoiB04uHb-COnWJjZQQv2lIlFbW6FaOkbuuXUqVU3KLgxw5ZD6qR530mQ=",
-          "title": "suzutera.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsrtL5JktgbcZlmVdCaoY3x0RBd5tR_Pi4g6VadoBbXiiQvmZy5z7GgRrq49q7J4_wro83Xi7qwhWtKDHBNcY2jPxlteDpeW_kPbDjD4fXVFXzjeGruXxW3Fb9Qd-AJXs=",
+          "title": "zatsuneta.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE07rqNKqBbMfOKK3YYrleLB--qn7X5v08hlBg9SYOYqFMlq08MgV3jy0rtYfW4otl_IVhEs_SQg_JrP62p-EuHkIIOuRhvqW4n7KYXVNcmrRg-eomlG-klmBmYr_WOy3RNpYn-Pr435vX3G7dzqZDB_Q==",
-          "title": "ctv.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOl7LadHiTyS1tlv9-mzTxeOLZYhtQU9UGmmbpLzfwVkQ1mWhmlSkIpDZkxJMyn7QIf0ImOj6GHd-jOoI7dW5IS0hBw2gW861GhyXj2Qsqcr2vwBn_6P7NjVxLIFLUhzXcyZ2r-Q==",
+          "title": "putiputi.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBWQvNJYr7TH6dQWQ6DUudbfWmKY3XUWK9Vcuj8A_DtKO6toPQ83zjLpdFeMnXqIbENNTpSZxkyH32wWl_NdheH9TamHZWeGDxe_vAg5M3d0obtc0ghVeRGnIHthFWNxX7_fwQPa4xU_XhyxzUixvbHSJ4nrEOdB-fdcoN5ALKVLk=",
-          "title": "ndl.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMGqDtCzvFocyOkZyVzwFNmDL-rNmfsPUKrCP0JbUIqcQy_95KdT_Lk_W3jwnq0yHNuaNBNEie3tCHb21E8rDulP6Ahy_GKPUSiMmRKRLYa-7TN25pp2CoySGQHxaWXTjETuHdXA-qPOOK",
+          "title": "noge-printing.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw7KmJXaL7d9A9OApKJjRso1t02NH1Lg-UmM-0UjOWjfv-MXWkNHlqc1SbXAQHJtXb1y36QyYmGbLG57ZOFHlgX3yhX9YXrCRJw-rtm3prB3LNS_rT1qnPBgiUHf65Hha632xKgI4isNmAkIqG90T16Mbo1Vh3RAm7tnX-3WkWqdOrayMT-EpjqbWcsBTnLA6M",
-          "title": "city.sendai.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcyWPGDktyvcuE4FLjzREGmOExmt2S8LpufFKtj0FzYgu6ILdxX5-qQovVKMNky1xiXNMtePzGa2isqA8chDvuPFFkeEjuXq4C7bJ6wn77atHTqhrA0euas1gqxNgY-SYtJQ==",
+          "title": "radichubu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0cSP_F-TPivyupo4KIxTyM6Mp2RsPYFGPBeBRkA0vOH4HwflVU1RjBaZCiy66SbM-TNIdGdTu4NVPAv77egF86k-WsP8Mh3wvfL5fbTW3bGU7Ef1w3owg0RO2Dx6b9_H-XPdE9A81q-3_7LlZ",
-          "title": "famille.ne.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_wfkuWc5QA3-weDF17S6j6l67_ZMMiaEKsNtkKtDsB7KzOeSuJeJUq-H-GBZ8QdFjYKRIorXDWVQGCwdkw5jVLoBERfARc3k-yA6JjFT1rS8OSdf8cGHOfxVy62K3RVI=",
+          "title": "csj.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOlvgcvxukmyy5PlhHk-XU5atMHDVNoW_wZEtRcKGln3ZSOT1pLPekaKNiSeOud0_yXMdzUk_74ZwxAg9LAjPSV8mXD3FJZp3d8kuqvTPMI6xtC0Vj2yFa8c-7P9yOQMuNLmZlqC-ofcOVaLaaoGuMSctw2qG3",
-          "title": "worldfolksong.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE829IX6EQqSrlMTrH4znSjNk-Rx96yc0w9zZdNAI2h9pT6JKU6mwYjY6QkIsZXWVhT5n-F5rCpj3Oo9Thv9zwUqi8hVUpT3O1pw8GaIVq39-G0tISjdWZoKJzdDvM0O5En9dX-SfhU8VCOinV8ulrz0UGSTU2vv0ua",
+          "title": "asahi-kasei.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeT-IrLGwQXVoJoLSQnTL5Bgs1_XYeInlpYtjclHjdj2jShGigEZCPi8ie3yHcZdgOsWp0-w6XkMbNPwm7HvgM0skJiBYBK4OCHGxrpIRLscgCaGPv5qXIv1NLRxPdSO_JCc_NkO7Q_IQJKJ6yJJb_LowWr7mYeXFa",
-          "title": "global.honda"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiz4ZAsa7W7iwr0Fz09mZ5bPyvQRIQ8KJSJv8kLDUEpco9KCe848JHXe6L58o_Er5Fa5G0KVDiqfMyxHNIZyjxmJRQJTOG0rBQTL5X7bRBXpYdN1a6b9P7tCMc8Y0492KF8jxZIGWZLsXyma2EO5t4SryYQm1h9XcE90XzgNZOH9CJWpKmWoCCeS_nX4HKRrc=",
+          "title": "futaba-tax.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW0AwQWsLMYHmQ9SvxV0EzEUnuULYWsGPa16jpfHlGgtVGIUCJJVr7E81gfmd64OUguiZAGBkhZ9AcN0LGMOxoUTE1Dra8iLOhOPe3sX8yyXTzF-_QgY58T5_i7m-l7iCVzscpI5JP",
-          "title": "ffpri.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfG75rEKdy019Gu327gktESFEBnSshq1W4DSyOvZltqpA4l_z_JTlcKvGwi3-adee5LUJG1uUhZ5dKbBlmXUBMPv-4VzepsYZfWpw7RGuG8MtrrN4_DXWkDcusyF3aUBPpoChCHb1Zug-W",
+          "title": "tokitoma.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFygH-cJZkaGu8dnQUzaoRAkj5jHZQaqxD4vA764ZgtQ3xJVnCXdXG7gCc6qSgtJIdWds1lhN0MQbj5o8Fs5DypgxexcIDLZMLDWtxmJkC5IjogxD9kssIvGp35QynBH0g=",
-          "title": "weathernews.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfojyN2lRtp8-iZ62OLc2CR7GgpUERBHlh1W0MQ91-Cg3WoMslxkTdu5z1nlqNYSTEWqKXjURb8f1qgJei3C7f5QSzuNJIXzwf3fRcVM8pRauEfDZIA3H3yXolfg==",
-          "title": "mttakaomagazine.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFV9EpMMpFLvC38ziU_OlCZXm4xCgMJSr3zA_1m0-N0bn5YvdAfS9cvNWdugQZD_u8vK1cN8VAXnHXYZGzsUlC943-TIUHcWO19d4wJZ4ZkvPkmAP4bzoWVz-NouQI8ab7J29ztophw7lSxJf4WVyZyFqvgiu-4ZInQSR1EK7bKd-ROYU9hYuk9",
-          "title": "fukuoka.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGycdvwHIdyqyVaR8Pb7q-5bbfNxie5yEJfy02yKDckv9dFQbMrK_af5WF3GgQZELUY7R8xFXz4LzzChE1QAvOHs3bXAtQ_JZ23-u1VnGuH4Q5r1cMHwOS2biJGAK3uEoRGEbOixpmU1DfkAQV3LXfOhCRAT0xBC9CRjsj1O9tJSANo_sbCdd4DBDnMTeVdgzx4BLwM_uYk-lEvsIQKuUUI",
-          "title": "hiroshima-u.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfcSjoKgRmZI24FJ2hzZPwykfHM0M6TF5ID1hWAozg_sUTZ58kRY6XCNP2S9aCZ8Fgfby0tuYXdWSqHybpFfPBebWSR7J844y4kX9iwVC0Iunadl1D4Ji8AnH2Et2uXNoVZ-CJvg==",
-          "title": "bluehub.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq2dGjZJR2UfcsteP6VwgHyH6jCiZ4X8jt5uWufIKixXGcDEQ8KyOQx_M8VlietW2xKNM-l6QYD3qzF-dwRjlX5YSEbhRuiSJ9Jk-Cq-YPYCHebbTtpSt8AqGF04ttcANiwK0=",
-          "title": "env.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw77iuq6vAM557MnY-o18hgLvvDFNSP8iG0oIYWHvsOYHbfDYvUS4yB95_16DZycMZvrEyZNYYJYog9afDkAu52ev_a2gQilBidl3STnWRBAxwdrtAAMNJ_ZXioajkx5QaqbUtCpbFIAXzUCZAeckVrotD_Nn9N4ntENUBWQ0=",
+          "title": "asahi-kasei.co.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 726,
-          "endIndex": 954,
-          "text": "平安時代の正史『日本後紀』などの記録によると、延暦18年（799年）7月、参河国（現在の三河地方・西尾市天竹町周辺）の海岸に小舟に乗った異国の青年が漂着しました"
+          "startIndex": 940,
+          "endIndex": 1192,
+          "text": "帝国データバンクの「『食品主要195社』価格改定動向調査」によると、今月（10月）の値上げ品目数は約3,000品目（3,153品目）に達し、単月として年内最大級の値上げ集中期となっています"
         },
         "groundingChunkIndices": [
           0,
@@ -266,31 +218,20 @@
       },
       {
         "segment": {
-          "startIndex": 957,
-          "endIndex": 1122,
-          "text": "この青年が持っていた種が「綿の種」で、村人にその栽培方法を教えたことが日本における綿伝来の始まりとされています"
+          "startIndex": 1231,
+          "endIndex": 1295,
+          "text": "**値上げ品目数と要因**: 10月の値上げは3,153品目"
         },
         "groundingChunkIndices": [
-          2,
-          0
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1164,
-          "endIndex": 1260,
-          "text": "記録によれば、漂着したのは今から約1200年前の延暦18年（799年）のこと"
-        },
-        "groundingChunkIndices": [
-          2,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1263,
-          "endIndex": 1468,
-          "text": "当時の史料には、若者の年齢は「20歳くらい」、身長は「5尺5分（約153cm）」、耳の長さが「3寸（約9cm）余り」であったと非常に具体的に記されています"
+          "startIndex": 1298,
+          "endIndex": 1467,
+          "text": "要因の91.3％が「原材料高」で、さらに物流費（66.0％）、エネルギー費（63.8％）、包装・資材費（63.7％）が押し上げています"
         },
         "groundingChunkIndices": [
           1
@@ -298,84 +239,30 @@
       },
       {
         "segment": {
-          "startIndex": 1471,
-          "endIndex": 1731,
-          "text": "西尾市天竹町（てんじくちょう）にある「天竹神社」は、この若者を綿の神様「棉祖神（新波陀神・にいはたがみ）」として祀る日本唯一の神社で、毎年10月下旬に「棉祖祭」が行われています"
+          "startIndex": 1470,
+          "endIndex": 1595,
+          "text": "特に酒類・飲料（1,399品目）や調味料（820品目）など、日々の食卓に直結する品目が中心です"
         },
         "groundingChunkIndices": [
-          3,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3044,
+          "endIndex": 3188,
+          "text": "**出典・根拠**: 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年10月』（2026年9月30日公表）"
+        },
+        "groundingChunkIndices": [
           0,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1758,
-          "endIndex": 1956,
-          "text": "天竹神社の棉祖祭では、海を渡って綿が伝来した故事にちなみ、神輿が一般的な形ではなく「船の形をした神輿（船みこし）」になって担がれます"
-        },
-        "groundingChunkIndices": [
-          3,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1959,
-          "endIndex": 2091,
-          "text": "また、神事の中で古式ゆかしい道具を使った「綿打ち」の儀式が行われるのも全国でここだけです"
-        },
-        "groundingChunkIndices": [
-          3,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2121,
-          "endIndex": 2277,
-          "text": "実は、799年にこの青年が伝えた綿は、当時の三河の気候や土壌に合わず、数十年で一度栽培が途絶えてしまいました"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2280,
-          "endIndex": 2394,
-          "text": "日本全国で綿栽培が本格的に定着するのは戦国時代から江戸時代にかけてのことです"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2397,
-          "endIndex": 2620,
-          "text": "しかし、江戸時代に三河地方で「三河木綿」や「三河縞」が大流行した背景には、1200年前からこの地に受け継がれてきた綿への愛着と伝承があったと言われています"
-        },
-        "groundingChunkIndices": [
-          1,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2650,
-          "endIndex": 2725,
-          "text": "愛知県公式Webサイト「西尾市の地域資源（伝統文化）」"
-        },
-        "groundingChunkIndices": [
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 2650,
-          "endIndex": 2779,
-          "text": "愛知県公式Webサイト「西尾市の地域資源（伝統文化）」、西尾市観光協会「天竹神社の棉祖祭」"
+          "startIndex": 3676,
+          "endIndex": 3797,
+          "text": "1994年、愛知県刈谷市に本社を構えるデンソー（現・デンソーウェーブ）で開発されました"
         },
         "groundingChunkIndices": [
           3
@@ -383,248 +270,281 @@
       },
       {
         "segment": {
-          "startIndex": 2650,
-          "endIndex": 2830,
-          "text": "愛知県公式Webサイト「西尾市の地域資源（伝統文化）」、西尾市観光協会「天竹神社の棉祖祭」、三河織物工業組合「歴史について」"
+          "startIndex": 3800,
+          "endIndex": 4020,
+          "text": "従来のバーコードは情報量が少なく、自動車の製造現場で1台につき何枚も連続してスキャンしなければならず、作業員の手首の負担や作業遅延が大きな課題でした"
         },
         "groundingChunkIndices": [
-          6
+          4,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3251,
-          "endIndex": 3401,
-          "text": "現在の鉛筆の芯は、炭素の結晶である「黒鉛（グラファイト）」と「粘土」を高温で焼き固めて作られています"
+          "startIndex": 4023,
+          "endIndex": 4128,
+          "text": "そこで「もっと大容量で、一瞬で正確に読めるコード」として開発されました"
         },
         "groundingChunkIndices": [
-          7,
-          8
+          4,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3404,
-          "endIndex": 3744,
-          "text": "1560年代にイギリスのボローデール鉱山で良質な黒鉛が発見された際、紙に滑らかに黒い跡が残る様子や鉛色の光沢から、当時の人々が「鉛の一種」だと誤認・混同して「黒鉛（黒い鉛）」と名付けてしまった名残が、筆記具の名前に残っているためです"
+          "startIndex": 4167,
+          "endIndex": 4427,
+          "text": "**情報量の比較**: バーコードが数字20文字程度しか扱えないのに対し、QRコードは英数字なら最大7,000文字以上（数字で最大7,089文字、漢字なら約1,800文字）と、**約200倍**の情報量を記録できます"
+        },
+        "groundingChunkIndices": [
+          4,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4433,
+          "endIndex": 4635,
+          "text": "**黄金比率「1:1:3:1:1」**: 3隅にある四角いマーク（切り出しシンボル）は、どの角度からスキャンしても一瞬でコードの位置を検出するためのものです"
+        },
+        "groundingChunkIndices": [
+          6,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4638,
+          "endIndex": 4830,
+          "text": "開発チームは世の中のあらゆる印刷物・新聞・雑誌・チラシなどを徹底的に調査し、印刷物に「最も現れにくい白黒の比率」を割り出しました"
         },
         "groundingChunkIndices": [
           7,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4833,
+          "endIndex": 4914,
+          "text": "それが**「黒1：白1：黒3：白1：黒1」**という奇跡の比率です"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4936,
+          "endIndex": 5145,
+          "text": "デンソーはQRコードの特許を取得したものの、「広く世界中で自由に使ってもらいたい」と、特許権利を行使しない（無償オープンにする）宣言をしました"
+        },
+        "groundingChunkIndices": [
+          8,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5148,
+          "endIndex": 5292,
+          "text": "この太っ腹な決断があったからこそ、現在の世界的な普及やキャッシュレス決済の基盤につながっています"
+        },
+        "groundingChunkIndices": [
+          8,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5317,
+          "endIndex": 5526,
+          "text": "生みの親である原昌宏さん（当時デンソー）がこの2次元マトリックスの並びを思いついたきっかけは、なんと**「昼休みに同僚と打っていた囲碁」**でした"
+        },
+        "groundingChunkIndices": [
+          7,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5529,
+          "endIndex": 5730,
+          "text": "碁盤の上に白と黒の碁石が並ぶ様子を見て、「この格子状の並びにデータを配置すれば、縦横両方向に膨大な情報が入れられる」と直感したそうです"
+        },
+        "groundingChunkIndices": [
+          7,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5737,
+          "endIndex": 5847,
+          "text": "**出典・根拠**: 株式会社デンソーウェーブ「QRコード開発ストーリー / 開発秘話」"
+        },
+        "groundingChunkIndices": [
+          7,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5737,
+          "endIndex": 5898,
+          "text": "**出典・根拠**: 株式会社デンソーウェーブ「QRコード開発ストーリー / 開発秘話」、株式会社デンソー公式企業リリース"
+        },
+        "groundingChunkIndices": [
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3786,
-          "endIndex": 3924,
-          "text": "日本筆記具工業会によると、最も一般的なHB鉛筆の芯の配合比率は「黒鉛が約70％、粘土が約30％」です"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3927,
-          "endIndex": 4071,
-          "text": "また、鉛筆1本の芯を最後の最後まで使い切った場合、書ける線の総距離は「約50キロメートル」に達します"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4074,
-          "endIndex": 4187,
-          "text": "これはフルマラソン（42.195km）を走り切ってもまだお釣りがくる途方もない長さです"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4214,
-          "endIndex": 4371,
-          "text": "鉛筆の芯の主成分である「黒鉛」は、実は宝石の「ダイヤモンド」とまったく同じ炭素（C）だけで構成されています"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4374,
-          "endIndex": 4536,
-          "text": "原子の結びつき方の違いだけで、世界一硬いダイヤモンドと、紙にこするだけで剥がれ落ちる軟らかい黒鉛に分かれます"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4566,
-          "endIndex": 4716,
-          "text": "日本に現存する最古の鉛筆は、江戸幕府を開いた徳川家康の遺品（静岡県の久能山東照宮所蔵）とされています"
-        },
-        "groundingChunkIndices": [
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4719,
-          "endIndex": 4899,
-          "text": "長さ約11.4cmの小さなもので、芯にはメキシコ産の黒鉛の塊がそのまま使われており、海外の使節から献上されたものと見られています"
-        },
-        "groundingChunkIndices": [
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4929,
-          "endIndex": 5028,
-          "text": "日本筆記具工業会「鉛筆を知る歴史・世界」「鉛筆を知るよくある質問」"
+          "startIndex": 6292,
+          "endIndex": 6351,
+          "text": "**正解**: **① 昼休みに打っていた「囲碁」**"
         },
         "groundingChunkIndices": [
           7,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6354,
+          "endIndex": 6579,
+          "text": "**トーク補足**: 開発者の原さんが昼休みに同僚と打っていた碁石の並びを見て、「白と黒の格子パターンなら大量の情報が入る！」とひらめいたのが誕生の瞬間でした"
+        },
+        "groundingChunkIndices": [
+          7,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6891,
+          "endIndex": 7015,
+          "text": "気泡緩衝材「プチプチ」の国内最大手（シェア約5割）は、名古屋市で創業した川上産業です"
+        },
+        "groundingChunkIndices": [
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 4929,
-          "endIndex": 5087,
-          "text": "日本筆記具工業会「鉛筆を知る歴史・世界」「鉛筆を知るよくある質問」、トンボ鉛筆「トンボKIDS えんぴつの歴史」"
+          "startIndex": 7018,
+          "endIndex": 7251,
+          "text": "空気を閉じ込めたシートは、プラスチック（ポリエチレン）を2枚重ね、1枚を成型型でポコポコと凹ませた瞬間に平らなシートを貼り合わせて密封することで作られています"
         },
         "groundingChunkIndices": [
-          13
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5513,
-          "endIndex": 5606,
-          "text": "スズムシが鳴くのは求愛のためで、鳴くのは大人の「オス」だけです"
+          "startIndex": 7290,
+          "endIndex": 7478,
+          "text": "**驚きの生産量**: 川上産業が1年間に生産するプチプチの長さは、**バンテリンドーム ナゴヤを約1,500個分**丸ごと包み込める長さに達します"
         },
         "groundingChunkIndices": [
-          14,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7484,
+          "endIndex": 7669,
+          "text": "**1万分の1の出会い**: 一般的な梱包用プチプチのシートには、**「1万個に1個」の割合でハート型の粒（ラッキープチ）**が隠されています"
+        },
+        "groundingChunkIndices": [
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7672,
+          "endIndex": 7813,
+          "text": "幅1.2メートルの標準ロールで約1メートル（約1平方メートル）使えば、理論上1個出会える計算になります"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7835,
+          "endIndex": 7910,
+          "text": "実は「プチプチ」という名前は川上産業の登録商標です"
+        },
+        "groundingChunkIndices": [
+          11,
+          13,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 5609,
-          "endIndex": 5792,
-          "text": "スズムシは口で鳴いているのではなく、背中にある左右の翅（はね）を垂直近くに立て、激しくこすり合わせることで音を出しています"
+          "startIndex": 7913,
+          "endIndex": 8018,
+          "text": "他社製品は「エアーキャップ」「エアピロン」など別の名前で呼ばれています"
         },
         "groundingChunkIndices": [
-          16,
-          17
+          13,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 5795,
-          "endIndex": 6062,
-          "text": "右の前翅の裏側にあるギザギザの「やすり（鑢状器）」に、左の前翅の縁にある硬い突起「まさつ片」を擦り当て、翅の薄い膜（発音鏡）をスピーカーのように共鳴させて大きな音を響かせています"
+          "startIndex": 8043,
+          "endIndex": 8232,
+          "text": "プチプチの原型が1957年にアメリカで考案された際、技術者2人が目指していたのは緩衝材ではなく**「掃除がしやすい立体的な壁紙」**でした"
         },
         "groundingChunkIndices": [
-          16,
-          17,
-          18
+          11,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6065,
-          "endIndex": 6110,
-          "text": "まさにバイオリンと同じ構造です"
+          "startIndex": 8235,
+          "endIndex": 8385,
+          "text": "紙の上に布地模様のビニールを重ねて貼ろうとしたところ、偶然空気が入って無数の気泡ができてしまいました"
         },
         "groundingChunkIndices": [
-          17
+          11,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6152,
-          "endIndex": 6308,
-          "text": "スズムシが「リーン」と1回鳴くわずかな時間の間に、左右の翅は「40回以上」も高速で開閉運動を繰り返しています"
+          "startIndex": 8388,
+          "endIndex": 8619,
+          "text": "壁紙としては完全に失敗作でしたが、「この空気のクッションは物を守るのに使えるのでは？」と発想を転換したことで、世界的な大ヒット緩衝材へと生まれ変わりました"
         },
         "groundingChunkIndices": [
-          18
+          11,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6311,
-          "endIndex": 6596,
-          "text": "また、鳴き声の周波数は約4500Hzと非常に高く、人間の声の帯域（およそ300〜3000Hz）に合わせて設計されている一般的な電話機越しでは、鳴き声の周波数がカットされて相手に聞こえないという実験結果もあります"
+          "startIndex": 8622,
+          "endIndex": 8733,
+          "text": "これを日本で着目し、独自の機械を名古屋で開発して普及させたのが川上産業です"
         },
         "groundingChunkIndices": [
-          19
+          11,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 6623,
-          "endIndex": 6763,
-          "text": "鳴いているスズムシを見ると翅が2枚しか見えませんが、実は成虫に羽化した直後には4枚の翅があります"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6766,
-          "endIndex": 6990,
-          "text": "成虫になったあと、自ら後ろ脚を使って後ろの2枚の翅（後翅）をもぎ取って落とし、前翅2枚だけにして身軽になってから鳴き始めるという驚きの生態を持っています"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7020,
-          "endIndex": 7167,
-          "text": "平安時代から室町時代にかけての貴族たちの間では、現在の「スズムシ」と「マツムシ」の呼び名が逆でした"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7170,
-          "endIndex": 7416,
-          "text": "『源氏物語』などの古典で「松虫」として愛でられていた虫は、黒い体に鈴のような澄んだ音で鳴く現在のスズムシのことで、後世に入れ替わったことが文献の考証で分かっています"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7446,
-          "endIndex": 7558,
-          "text": "国立国会図書館 レファレンス協同データベース「スズムシがどうやって鳴くのか」"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7446,
-          "endIndex": 7622,
-          "text": "国立国会図書館 レファレンス協同データベース「スズムシがどうやって鳴くのか」、京都嵐山 華厳寺（鈴虫寺）「鈴虫のひみつ」"
+          "startIndex": 8740,
+          "endIndex": 8865,
+          "text": "**出典・根拠**: 川上産業株式会社公式「プチプチ文化研究所」「1万個に1個のラッキープチ」"
         },
         "groundingChunkIndices": [
           14
@@ -632,148 +552,144 @@
       },
       {
         "segment": {
-          "startIndex": 8100,
-          "endIndex": 8211,
-          "text": "夏の間、葉が緑色に見えるのは「クロロフィル（葉緑素）」が大量にあるためです"
+          "startIndex": 8740,
+          "endIndex": 8925,
+          "text": "**出典・根拠**: 川上産業株式会社公式「プチプチ文化研究所」「1万個に1個のラッキープチ」、CBCテレビ地域経済特集（川上産業の歴史）"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9255,
+          "endIndex": 9508,
+          "text": "サランラップの原料であるポリ塩化ビニリデンは、プラスチック素材の中でも飛び抜けて**「水分を通さず、酸素を遮断し、ニオイ移りを防ぐ」**という極めて高いバリア性を持っています"
+        },
+        "groundingChunkIndices": [
+          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9511,
+          "endIndex": 9631,
+          "text": "この密閉力により、現代の家庭で食品の鮮度を長持ちさせる不可欠な道具となっています"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9952,
+          "endIndex": 10064,
+          "text": "もともとは台所用ではなく、**第二次世界大戦中の軍用資材**として開発されました"
+        },
+        "groundingChunkIndices": [
+          18,
+          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10067,
+          "endIndex": 10313,
+          "text": "湿気で火薬が湿気らないように「銃や弾丸を包むフィルム」として使われたり、熱帯ジャングルで行進する兵士を水虫から守る「ブーツの中敷き」や「蚊帳」として使われていました"
+        },
+        "groundingChunkIndices": [
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10338,
+          "endIndex": 10533,
+          "text": "戦争が終わり、メーカー（米ダウ・ケミカル社）は平和利用の使い道を探していましたが、チーズの包装くらいしか用途が見つかりませんでした"
+        },
+        "groundingChunkIndices": [
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10537,
+          "endIndex": 10781,
+          "text": "そんなある日、製造技術者のラドウィック氏とアイアンズ氏が家族でピクニックに出かけた際、妻の一人がたまたま夫の会社のフィルムで**「新鮮なレタス」**を包んで持参しました"
+        },
+        "groundingChunkIndices": [
+          18,
+          16,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10784,
+          "endIndex": 11015,
+          "text": "時間が経ってもレタスが採れたてのようにみずみずしいシャキシャキ感を保っていたため、近所の人々から「その綺麗なフィルムはどこで買えるの？」と大絶賛されました"
+        },
+        "groundingChunkIndices": [
+          18,
+          20,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11018,
+          "endIndex": 11097,
+          "text": "これに手応えを得た2人は食品用ラップとして商品化を提案"
+        },
+        "groundingChunkIndices": [
+          18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11101,
+          "endIndex": 11277,
+          "text": "商品名の「サラン」は、ピクニックでレタスを包んだ2人の妻、**サラ（Sarah）**と**アン（Ann）**の名前にちなんで名付けられました"
+        },
+        "groundingChunkIndices": [
+          18,
+          16,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11284,
+          "endIndex": 11397,
+          "text": "**出典・根拠**: 旭化成ホームプロダクツ公式「サランラップ®の歴史と名前の由来」"
         },
         "groundingChunkIndices": [
           21,
-          22
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 8219,
-          "endIndex": 8358,
-          "text": "**黄葉（イチョウなど）**：秋に気温が下がると、緑色のクロロフィルが先に分解されて消えていきます"
+          "startIndex": 11626,
+          "endIndex": 11863,
+          "text": "帝国データバンクの調べでも今月は約3,000品目が値上がりしています…」と身近な話題から入り、冷蔵庫の「7割収納・冷凍庫ぎっしり」のやりくり術に繋げると生活感が出ます"
         },
         "groundingChunkIndices": [
-          22,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8361,
-          "endIndex": 8550,
-          "text": "その結果、春や夏からずっと葉の中に隠れていた黄色の色素「カロテノイド」が表面に現れて黄色に見えます（すでにある色が現れただけ）"
-        },
-        "groundingChunkIndices": [
-          21,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8558,
-          "endIndex": 8685,
-          "text": "**紅葉（モミジなど）**：葉を落とす準備として、枝と葉の間に「離層（仕切り）」ができます"
-        },
-        "groundingChunkIndices": [
-          21,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8688,
-          "endIndex": 8949,
-          "text": "すると光合成で作られた糖分が枝へ戻れずに葉に溜まり、日光（紫外線）を浴びることで新しく赤い色素「アントシアニン」が合成されて赤く染まります（秋になってわざわざ新しく作った色）"
-        },
-        "groundingChunkIndices": [
-          21,
-          25,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8991,
-          "endIndex": 9280,
-          "text": "林野庁や気象関連の資料によると、葉の色づきは日中の最高気温ではなく「1日の最低気温」が関係しており、最低気温がおよそ「8℃」を下回ると色づきが始まり、「5〜6℃」以下になると一気に進むとされています"
-        },
-        "groundingChunkIndices": [
-          26,
-          23,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9469,
-          "endIndex": 9778,
-          "text": "森林総合研究所の研究などによると、アントシアニンには強い紫外線から葉を守る「日傘」の働きがあり、葉が傷むのを防ぎながら、葉に残った窒素などの貴重な栄養分を幹へと回収し終える時間を稼いでいると考えられています"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10171,
-          "endIndex": 10278,
-          "text": "森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10171,
-          "endIndex": 10348,
-          "text": "森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」、環境省 中部地方環境事務所「紅葉のメカニズム」"
-        },
-        "groundingChunkIndices": [
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10171,
-          "endIndex": 10414,
-          "text": "森林研究・整備機構 森林総合研究所「森林の生き物 Q&A（紅・黄葉のしくみ）」、環境省 中部地方環境事務所「紅葉のメカニズム」、広島大学デジタル自然史博物館「紅葉と黄葉」"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11062,
-          "endIndex": 11171,
-          "text": "日本筆記具工業会の調査によると、HB鉛筆1本で書ける距離はおよそ50kmに達します"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11174,
-          "endIndex": 11260,
-          "text": "フルマラソン（42.195km）を完走してもまだ先まで書ける計算です"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11263,
-          "endIndex": 11354,
-          "text": "小さな1本の軸の中に、それだけのパワーがぎっしり詰まっています"
-        },
-        "groundingChunkIndices": [
-          10
+          0,
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "日本筆記具工業会 鉛筆 芯 鉛 歴史 なぜ",
-      "三河木綿 天竹神社 綿 伝来 歴史 西尾市",
-      "スズムシ 鳴く 仕組み 翅 やすり 博物館",
-      "紅葉 黄葉 仕組み 違い 森林総合研究所 林野庁"
+      "川上産業 プチプチ 由来 壁紙 ハート型",
+      "帝国データバンク 食品主要195社 価格改定動向 2024年10月 品目数",
+      "デンソーウェーブ QRコード 開発秘話 囲碁 比率",
+      "旭化成 サランラップ 歴史 銃 包装 レタス サラ アン"
     ]
   }
 }
