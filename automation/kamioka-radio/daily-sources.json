@@ -1,43 +1,41 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2229,
-  "estimated_minutes": 6.8,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2148,
+  "estimated_minutes": 6.5,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "タマネギの催涙酵素を突き止め、イグ・ノーベル賞に輝いた大発見。きっかけとなったカレー工場の異変とは？1番、ペーストが緑色に変色した。2番、作業員全員が泣いて逃げた。3番、鍋が溶けて穴があいた。",
-    "answer": "正解は1番、緑色に変色したでした！アメ色にならず緑色になった原因を調べたら未知の涙酵素が見つかったんだって！失敗から大発見って凄いやろー！",
+    "question": "かつて神岡を走っていた極小鉄道「神岡軌道」の線路の幅はどれくらいだったでしょうか。1番、新幹線と同じ。2番、わずか61センチ。3番、みおんの肩幅と同じ10センチ。",
+    "answer": "正解は2番、わずか61センチでした！新幹線の半分以下で、地下坑道のトロッコと幅を揃えてそのまま乗り入れできるようにしたんだって。3番のみおんの肩幅はさすがに細すぎやろー！",
     "source_ids": [
-      21,
-      23,
-      24
+      10,
+      11
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMRNcVfpLdA_gtnXWYkLDrykqIC4VQnOG6TjnLgaUSehQ18UNYJVXncotpFhP2RXqGt3PA_4C4zo0Bs8GlxQNbSxqy9c_fcjCClYFnM9O8-6lkNVvyTnfru74f6fUnFi1V3D9-SkTXTHvJTQzIL3L8QmdtG4f_ftHtfCwK",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4UZgTbKfG81hCUmQkHBAFUhfWZkWsqanFqhebJTGLYOf5zmeJqXO-fcNPKuM82ryZskWRbz_44wScfgtxlID1GBYMg85WHin31qZk2m90YzNBPoq82IvEbg_AGLztreiDFyF8Nvv6Wzgf1_UOzV3GoBe05mrEsg==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYEXBgSUWXId0q_C5_SGEXdSb1wKBzzd_B7m2u4n3u70vgdTWTpf6RmVNpvjAacMMCFwlkd-8muE8N0Pyjgt_CxcFU5FfrYeGZx40R0Zug_xYK8CQ07Kqizu5aEF_1eCGXzszHzFLjIc2YXpXK3h3bvFxC2Uhybyg3oMAjbhXi9Atfx61GL2v7Bl1czjmEw4zojOqg_wqyDZe36_3dH8Y4cw=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLlWiGKDV57k0ZwyECDhMwXPkEiNImAX58Mlp1wmzB_Oa2sxeOG_nrLdIt__TuRpq2uv3JKwnOdOiJlaUvyi-nUX0YmuualzHLTI4XgPUzIjoX8QZDeFAoEEylPcOLtEU=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5_3ttrg7cNhGaZRR3KWtD2JrPB7HcmcCQcpCBdZ9pDBzHKUR3mKOaaFin1IuHM7SsQRs-pNDstkQpAaVVNXtx0digELVqGAhTcdvirudLlOEX6--tX_HBL3ackrwObK1KIF3mMX9SgxhjuocVF91GgA=="
     ]
   },
   "izumi": {
-    "text": "みおんの神岡ディープ！今や大人気のガッタンゴー、実は始まりがめちゃくちゃ自由だったって知っとる？神岡鉄道は1984年10月1日に国鉄神岡線を引き継いで第三セクターとして開業したんだけど、2006年12月1日に猪谷から奥飛騨温泉口までが廃止されちゃったんだよね。でも翌年の2007年、地元の有志が廃線の線路を自転車で走るレールマウンテンバイクをスタート！きっかけがすごくて、サイパン島で線路の上を自転車で走るツアーを体験したことなんだって！南国で「これ神岡でもやれるんじゃない？」ってひらめいて持ち帰るの、今ならノリが良すぎてSNSでバズりそうやろー！2011年からはNPO法人神岡・町づくりネットワークが運営していて、奥飛騨温泉口駅から神岡鉱山前駅までの往復5.8キロを40分から50分ほどで走るまちなかコースでは神岡第1トンネルや神岡第2トンネル、神岡橋梁を通るやさ。さらに2018年には旧漆山駅から二ツ屋トンネルまでの往復6.6キロを走る渓谷コースも増えたんだよ。自転車はすべて電動アシスト付きだし、渓谷コースでは11月初めに紅葉も楽しめるんだって！水曜日は休みだけど、思いつきからこんな大人気スポットを作っちゃうなんて、神岡の人の行動力、誇らしいやろー！",
+    "text": "水曜の朝は「みおんの神岡ディープ」！今日はノーベル賞に直結した、地下のとんでもないキャッチ劇の話やさ！神岡鉱山の地下千メートルには、東京大学宇宙線研究所の観測装置があるよね。1983年に動き始めた初代カミオカンデは、3000トンの純水と、光をとらえる光電子増倍管が1000本並んだ装置だったの。そして事件が起きたのは1987年2月23日！なんと大マゼラン星雲で起きた超新星爆発から飛んできたニュートリノを、世界で初めて神岡の地下でキャッチしちゃったの！えっ、ちょっと待って！宇宙の星がドカーンと大爆発した粒子を、なんで神岡の山奥の、しかも地下千メートルに潜って待ち構えて受け止めとるんけな！？今なら「神岡が宇宙の特大ホームランを地下でナイスキャッチ！」ってSNSで世界トレンド1位間違いなしのミラクルやさ！このものすごい成果などで、小柴昌俊さんが2002年にノーベル物理学賞を受賞したんだよね。普通なら通り過ぎちゃう宇宙からの超レアな粒子のサインを、暗闇の地下で見事に捕まえちゃうなんて、神岡の地下は宇宙と直通のスーパーゴールキーパーだったってわけ。こんな世界的な大発見が足元から生まれたなんて、神岡の人は胸を張って世界に自慢しちゃまい！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://tabi-mag.jp/gi0335/"
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
     ],
     "angle": {
-      "id": "gt-saipan",
-      "hook": "サイパン旅行の思いつきから始まった、廃線を自転車で走る遊び"
+      "id": "kk-1987",
+      "hook": "1987年、大マゼラン星雲の星の爆発から来た粒子を、世界で初めて神岡の地下でキャッチした話"
     }
   },
   "local": {
-    "text": "11月1日に神岡図書館で、神図音楽会が開催されるやさ！古林音楽教室さんによるエレクトーンや電子ピアノ、カホン、ハンドベルの演奏が楽しめるんだって。秋の図書館で素敵な音色に包まれるの、とっても贅沢やろー！気になる人はぜひ立ち寄ってみまい！",
+    "text": "神岡図書館で、11月1日に音楽会の「神図音楽会」が開かれるよ！古林音楽教室によるエレクトーンや電子ピアノ、カホン、ハンドベルの演奏が楽しめるんだって。秋のひとときに素敵な音色を聴きに行かまい！",
     "source_ids": [
-      30
+      18
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/31/88057.html"
@@ -45,201 +43,125 @@
   },
   "segments": [
     {
-      "topic": "包丁の切れ味で味が変わる？細胞破壊と味覚の科学",
-      "text": "料理がなんだか美味しく作れないとき、自分の腕前のせいにして落ち込んだりしとらん？実はそれ、包丁のせいかもしれないやさ！岐阜県関市といえば、ドイツのゾーリンゲンや英国シェフィールドと並ぶ世界三大刃物産地。鎌倉時代末期から刀匠が集まって、戦国武将に折れず曲がらずよく切れるって絶賛された技術が今の包丁に受け継がれとるんだけど、関市発祥の貝印と慶應大学発ベンチャーが、切れ味と味の関係を実験したんだって。使ったのは新品と、研がずに家庭で約2か月使った包丁。この2か月ってまな板に約5万4000回切りつけた状態なんだけど、マグロの刺身を切って味覚センサーで測ったら衝撃の結果が出たの！なんと切れない包丁で切った刺身は旨味が減って苦味が増加して、95パーセントの人が違いに気づくレベルの差が出たんだって！ピーマンでも苦味が大幅アップ。えっ、同じ食材なのに包丁で苦くなるなんて聞いてないんだけど！理由は細胞破壊。切れる包丁はスッと入るから細胞が壊れず断面が鏡みたいに滑らかだけど、切れない刃物は食材を押し潰すから細胞壁がボロボロになって、余計な苦味が染み出ちゃうんだって。料理が上手くいかなくてえらい、疲れたーって悩む前に、まずは包丁を研いでみまい！",
+      "topic": "海がないのに港町！？神岡の中心街が「船津」と呼ばれる謎",
+      "text": "神岡の市街地を歩いていて、ふと「あれ？」って引っかかったことない？そう、中心商店街や交差点のあちこちにある「船津」っていう地名！海なんてどこにもない深い山の中なのに、船に津、つまり港ってどういうことなんやろー！聞いてないんだけど！みおん、最初は昔ここに巨大なクジラでも泳いどったんかと思っちゃったさ！…って、いくらなんでも山奥すぎるやろー！実はこれ、室町時代まで時計の針を巻き戻すと理由がわかるんだって。当時、北アルプスから流れる高原川と山田川が合流するこの場所は、川を渡るための船の渡し場があったの。だから「船渡」と呼ばれていて、それがいつの間にか「船津」に変わったらしいよ！しかも驚くのはここから。江馬氏の城下町になってから近代まで、数百年間ずーっと「船津町」が地域の中心だったんだって。じゃあ今の「神岡町」はいつ生まれたのかというと、昭和25年に船津町と阿曽布村、袖川村が合併したとき。つまり「神岡」という名前が広まってからは約70数年で、「船津」のほうが圧倒的に大先輩だったの！港がないのに船津なのは、昔の人が川を舟で一生懸命渡っていた大切な歴史の証拠なんだね。これ、お茶の時間に誰かに話したら絶対へぇーって言われるやさ！",
       "source_ids": [
-        14,
-        16,
-        17
+        4
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1UmdjcqWyH0OIVaxgV3Gmf9N7dD2n-tWD0lkzg_k8WAEuVvAPIqIn9i_cZTfWFHnSvN6po_y5bfWWB8Dz5dRGdim83J_YbxO1HW1RcPplUWrTzV57p4ISdIo15jQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPJGx05jHeXbljtwSgP9E55D3oqa-Q1InL9nitBcZFltTH7SX06Rnfvl0Rmy_7VnqT2CeulZe6ePqn9tr27wPyUspEqGC-4Vseifg_4EqqRNp-83SFQiSfimpJ",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqnLkjuir3QUDFV493nUSHpqs6-QW7aJIpswxuc8xgQNkPrzXsYlhnjLdZm1kvleM0HRqvx4ULgXDt_9muuTUw5EZTr8NxgKM-93vTenxwB-l6w-oHEkZJQi0JTXV20iUvfUtEsg=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2atoOeIprUyYiHgoijJ0oCFdbxF0t8M_OdbXzzjAcVIBXCq8Nump5otND0UU9Ylf-382lwEHYqo_gEdrF5KcEeZ98O7lIglR7xVJMVSrJCQl3sm3GErzD8uH_jDsNaqIH065idsA"
       ]
     },
     {
-      "topic": "名前にゴマと付くのにシソ科！？「あぶらえ」の意外な正体",
-      "text": "台所の話が出たついでに、飛騨の食卓には欠かせないあの食材の雑学もいってみまい！飛騨の郷土料理といえば、あぶらえおはぎや五平餅のタレでおなじみのあぶらえ、エゴマよね。香ばしくてプチプチして、見た目も使い方も白ごまや黒ごまにそっくり。でもね、植物学上はゴマ科じゃなくて、まさかのシソ科！大葉やシソの仲間なんだって！名前に堂々とゴマって付いとるのにゴマじゃないなんて二度見しちゃったやさ！しかも日本での歴史はめちゃくちゃ古くて、なんと縄文時代の遺跡からも種子が出土しとるんだよ。飛騨市でも伝承作物に認定されていて、機能性成分もたっぷり。でも昔は食べるだけじゃなくて、もっとダイナミックに使われとったの。種を搾った油は夜の部屋を照らす灯明の明かりや、和傘や雨合羽に塗って水を弾く防水用として大活躍しとったの！近代に石油系の塗料が広まる前は、飛騨の村々のいたるところに油屋があって、農家が自家栽培したエゴマを持ち込んで油を搾ってもらい、家庭用以外は買い取ってもらって、搾りかすは畑の肥料にして土に還しとったらしいよ。完全に無駄のない循環型生活！捨てるのはおとましい、もったいない精神が昔から根付いとったんやね。今夜あぶらえを食べるときは、シソの仲間で大昔は明かりや傘の防水に使われとったんだよって、家族に語ってみまい！",
+      "topic": "毎日銀が1トン！？関ヶ原を動かして消えた男・茂住宗貞",
+      "text": "船の話が出たついでに、今度は神岡の歴史に登場する超大金持ちの怪しいおじさんの話！神岡町東茂住に館を構えていた「茂住宗貞」って知っとる？戦国時代に鉱山開発を任された商人なんだけど、掘り出した銀の量が桁外れ！最盛期には屋敷に毎日、生銀が約1050キロも積み込まれたらしいよ！毎日1トン以上の銀って、ちょっと待って、どんな集金ペースなん！？重すぎて床が抜けちゃうやろー！当時、領主だった金森家の公式な石高は3万8700石の小さな大名だったのに、この莫大な銀のおかげで、関ヶ原の戦いでは約6万石クラスに匹敵する1100人もの兵を出せたんだって。神岡の銀が天下分け目の合戦を陰で支えとったなんて、すごい歴史やさね！ところが話はここで終わらないの。後ろ盾だった主君が京都で亡くなった1608年、宗貞は何を思ったのか、自分のお屋敷にいきなり火を放って、金5万8300両余りを持って越前へ脱出しちゃったの！ええーっ、火をつけとる暇があったら荷物まとめて普通に引っ越しちゃまい！今なら大炎上どころか、巨額資産を持って夜逃げしたって大ニュースやさ。屋敷跡には今も立派な石垣が残っとるから、通りかかったら「あのおじさん、銀1トン毎日眺めて逃げたんやな」って思い出してみてね！",
       "source_ids": [
-        6,
-        9
+        5,
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcq0abfqV35P2uew_QcC7sRor69GNfwIyojwtYkIqRim_ZNQXTbLCoRXOaZK22f4bVvgbgMIwH-XrluaHQiRdIJ0JMZi9qCYDQK6OtKvpIyE22Cxdd4-Q6dFkWIGWz7triLYaRFW4_th1koV13aA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9skcppYBW5PqjmgsZ1x9BMGzwrEXRi0KUm81c4UMwxak-7buBGmqYKXF3S3hMLn6X1SVSo6hudIQpI29ARXFZmfKal1oBfvFdDp_2l5-zrgLkpaUrV51fb2-p8Q5bGtW_GNyHoQe1HUv9ofk0NQ=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWOKpNz9JUe7bS37dU5WnzMQvVlTIQsxFeqt2lQlodtZ8191S8cJVnJQbYGaEDag0V-OTphW-ADByNRbHvGj-fJ9Tgu6NOk51mKUiK4soC2GCnruzTExrIIJJk-6RQ2l0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrBVMZ2eKobT_lJdyZHrtZekuIUYQ3Z_PpGxaACAIh703WykkLtKdwgSumdvDJGKyw2l_QlYOYW7k-SUsN5_2h7HB6zLDRwmhSAGuKkvKgjys6JfrtjWV6SIUw1zH2XuhYPodhR8LDQrn9Ww30Ug=="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、放送でリスナーが家族に話したくなる「食べ物・台所の雑学」調査メモを作成しました。地元・飛騨の伝統食材や岐阜県が誇る刃物文化、身近な調理の科学を盛り込んでいます。\n\n---\n\n# 【地域ラジオ用 調査メモ】食卓・台所の「へえ、そうだったのか！」雑学4選\n\n---\n\n## 1. 【飛騨の食文化】名前に「ゴマ」と付くのにゴマじゃない！？「あぶらえ」の意外な正体と歴史\n\n* **理由（なぜそうなのか）**  \n  飛騨地方の郷土の味としておなじみの「あぶらえ（エゴマ）」は、名前に「ゴマ」と付き、見た目や使い方も白ごま・黒ごまに似ていますが、植物学上はゴマ科ではなく「シソ科」の植物です（大葉やシソの仲間）。\n* **具体的な数字や比較**  \n  日本での利用は極めて古く、縄文時代の遺跡からも種子が出土しています。飛騨市では地域の貴重な食文化として「飛騨市伝承作物」に認定されており、市内で栽培されるエゴマは他産地と比べても機能性成分が豊富に含まれていることが調査で分かっています。\n* **意外な点**  \n  現代では「あぶらえおはぎ」や五平餅のタレ、和え物など「食べる」用途が主ですが、かつては種子を搾った油が、夜間を照らす「灯明（明かり）」や、和傘・雨合羽に塗って水を弾く「防水用の油（油紙・油傘）」として生活を支える必須エネルギー資源でした。\n* **ちょっとした歴史の裏話**  \n  近代以降に石油系インキや塗料が普及する前、飛騨の町村にはどこにでも油を搾る「油屋」がありました。各農家が自家栽培したエゴマを持ち込んで油を搾ってもらい、家庭用以外は買い取ってもらい、搾りかすは畑の優秀な肥料として土に還すという、地域内で完結する無駄のない循環型生活が営まれていました。\n* **出典・引用元**  \n  * 飛騨市公式ウェブサイト「飛騨市の伝承作物『えごま』って知ってる？」 / 「飛騨の味を受け継ごう！あぶらえおはぎ作り」（道の駅宙ドーム神岡等での取り組み）  \n  * 経済産業省 中小企業庁「岐阜県飛騨市 地域資源の活用」  \n  * 農林水産省「六次産業化・地産地消法に基づく事業計画認定（飛騨えごま本舗）」\n\n---\n\n## 2. 【飛騨の伝統野菜】なぜヘチマ型？丸くない巨大カボチャ「宿儺（すくな）かぼちゃ」の誕生秘話\n\n* **理由（なぜそうなのか）**  \n  一般的なカボチャは扁平な丸型ですが、飛騨地方（主に高山市丹生川町）特産の「宿儺かぼちゃ」は、白皮栗カボチャの一種で、ヘチマのように細長い円筒形をしています。\n* **具体的な数字や比較**  \n  長さは約50cm（大物になると80cm近く）、重さは1個あたり2.5kg〜5kgに達します。一般的なスーパーの丸い西洋カボチャ（1〜2kg程度）の2倍以上の大きさがあり、店頭では扱いやすいよう輪切り等にカットされて並ぶのが特徴です。\n* **意外な点**  \n  巨大でウリのような外見から「大味なのでは？」と思われがちですが、切ると中は鮮やかな黄色で、栗のようにホクホクとした強い甘みときめ細やかな食感を持っています。実は長年にわたり市場には流通せず、農家が自分たちで食べるだけの「自家用野菜」としてひっそり受け継がれていた門外不出の野菜でした。\n* **ちょっとした歴史の裏話**  \n  地域特産品として本格的にブランド化され、「宿儺かぼちゃ」と正式に命名されたのは2001年（平成13年）と意外に最近のことです。名前は丹生川地域に伝わる伝説の豪族・英雄「両面宿儺（りょうめんすくな）」にちなんでいます。在来種ゆえに他のカボチャの花粉と交雑しやすいため、現在でも「宿儺かぼちゃ研究会」が専用の畑で種を選抜・管理し、生産農家に配布することでその独特な形状と味覚を守り続けています。\n* **出典・引用元**  \n  * 農林水産省「消費者の部屋通信（食材図典：宿儺かぼちゃ）」  \n  * 岐阜県公式ホームページ「宿儺かぼちゃ（飛騨・美濃伝統野菜）」  \n  * 宿儺かぼちゃ研究会・飛騨農業協同組合資料\n\n---\n\n## 3. 【岐阜の台所道具】「包丁の切れ味」で料理の味が変わる？細胞破壊と味覚センサーの科学\n\n* **理由（なぜそうなのか）**  \n  岐阜県関市は、ドイツのゾーリンゲン、英国シェフィールドと並ぶ「世界三大刃物産地」として世界的に知られています。関市発祥の刃物メーカー・貝印と慶應義塾大学発ベンチャー（AISSY）の共同検証により、「包丁の切れ味が落ちると食材の味が劣化する」という現象が科学的に数値化されました。切れない刃物は食材を切り裂くのではなく押し潰すため、細胞壁が破壊されて余計な苦味成分や雑味が染み出してしまうのが原因です。\n* **具体的な数字や比較**  \n  味覚センサー「レオ」を使った比較実験では、新品の包丁と、研がずに家庭で約2か月使った状態（まな板に約5万4,000回切りつけた状態に相当）の包丁で食材を切って味を比較しました。その結果、切れない包丁で切ったマグロの刺身は「旨味が減少し、苦味が増加」し、95％の人が明確に味の違いを認識できるレベル（0.2ポイント以上）の差が出ました。またピーマンでも苦味が大幅に強くなることが確認されています。\n* **意外な点**  \n  「同じ調味料、同じ野菜なのに美味しく作れない」という料理の悩みは、腕前ではなく「単に包丁が切れていないせい」であるケースが多々あります。顕微鏡で切断面を見ると、切れる包丁で切ったトマトや刺身の断面は細胞が壊れず鏡のように滑らかですが、切れない包丁の断面は細胞が押し潰されてボロボロのギザギザになり、旨味を含んだ水分（ドリップ）が外に流出してしまっています。\n* **ちょっとした歴史の裏話**  \n  関市で刃物作りが始まったのは鎌倉時代末期。刀鍛冶に必要な良質の焼刃土、松炭、そして長良川や津保川の清らかな水に恵まれていたことから刀匠が集まりました。戦国武将たちから「折れず、曲がらず、よく切れる」と絶賛された実戦刀の鍛造技術が、明治の廃刀令を経て包丁やハサミなど家庭用の刃物作りに受け継がれ、現在では日本の家庭用包丁の圧倒的なシェアを支えています。\n* **出典・引用元**  \n  * 貝印株式会社 プレスリリース「味覚センサーを使って可視化実験 包丁の切れ味によって味覚が変わる！？」 / 貝印包丁公式サイト「包丁の切れ味と美味しさの秘密」  \n  * 関市観光協会「世界が認める『関の刃物』まるわかり特集」  \n  * 日本調理科学会大会研究発表要旨集「包丁の切れ味の違いによる食材の品質への影響調査」\n\n---\n\n## 4. 【台所の科学】タマネギを切るとなぜ涙が出る？切る前は「涙成分がゼロ」という驚きの真実\n\n* **理由（なぜそうなのか）**  \n  タマネギを包丁で刻むと強烈な刺激成分が揮発し、目の粘膜を刺激して涙が出ます。しかし実は、切る前の無傷なタマネギの中には、涙を出させる催涙成分（syn-プロパンチアール-S-オキシド）は**分子1粒たりとも存在していません**。\n* **具体的な数字や比較**  \n  タマネギの細胞内部では、原料となるアミノ酸（PRENCSO）と、それを分解する酵素（アリイナーゼ）が、普段はそれぞれ別の部屋（液胞と細胞質）に厳重に隔離されています。包丁の刃が細胞を破壊した瞬間、この2つが出会い、さらに「催涙因子合成酵素（LFS）」という酵素が働くことで、わずか数秒のうちに化学反応が連鎖して涙成分が爆発的に生み出されます。\n* **意外な点**  \n  長い間、「包丁で切ると自然に涙成分に変化する」と考えられていましたが、2002年にこの催涙酵素（LFS）を世界で初めて発見したのは、日本の大手食品メーカー「ハウス食品」の研究チームでした。この功績は世界的な科学雑誌『Nature』に論文掲載され、2013年には「人々を笑わせ、考えさせる研究」に贈られる**イグ・ノーベル賞（化学賞）**を受賞しています。\n* **ちょっとした歴史の裏話**  \n  この世界的な大発見のきっかけは、同社がレトルトカレーを製造していた際の「思わぬトラブル」でした。工場でタマネギとニンニクを炒めると、本来ならアメ色になるはずのペーストが、なぜか時々「不気味な緑色」に変色してしまう現象が発生したのです。原因究明のためにタマネギとニンニクの酵素反応を詳しく調べていたところ、ニンニクにはなくタマネギにだけ存在する「未知の涙酵素」を偶然発見することになりました。\n* **出典・引用元**  \n  * ハウス食品グループ本社「タマネギの催涙成分に関する研究」 / 「スマイルボール開発秘話」  \n  * イギリス科学誌『Nature』掲載論文（2002年：催涙因子合成酵素の発見）  \n  * 公益財団法人 かずさDNA研究所「涙のでないタマネギ」\n\n---\n\n## 3択リスナークイズ（「4. タマネギの涙」より）\n\n**【問題】**  \nタマネギを切るとなぜ涙が出るのかを科学的に突き止め、世界的権威のある科学誌『Nature』への論文掲載や、2013年の「イグ・ノーベル賞」を受賞した日本の大手食品メーカー・ハウス食品。この歴史的な大発見のきっかけとなった、カレー工場で起きた「ある異変」とは何だったでしょうか？\n\n* **① タマネギを炒めていたら、ペーストが「緑色」に変色してしまった**\n* **② 涙が出すぎて、工場の作業員全員が部屋から避難した**\n* **③ タマネギを煮込みすぎて、工場の金属鍋が溶けて穴があいた**\n\n---\n\n**【正解】**  \n**① タマネギを炒めていたら、ペーストが「緑色」に変色してしまった**\n\n**【解説（トーク例）】**  \n「正解は1番の『緑色に変色してしまった』でした！ カレーの製造中に、タマネギとニンニクを炒めると、なぜかアメ色にならずに時々緑色になってしまうという失敗が起きたんですね。『なぜ緑色になるんだ？』と原因を突き止めようと実験を繰り返していたところ、たまたま未知の酵素が見つかり、それが世界中の人を泣かせてきた涙の正体だったというわけです。工場の失敗やトラブルにも、世界を変える科学のヒントが隠れていたんですね。」",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、「地元の歴史・まちの発見」をテーマとした調査メモです。地元のリスナーが家庭や職場で「へえ、そうだったのか！」と話したくなる話題を4件厳選しました。\n\n---\n\n# ラジオ調査メモ：神岡の歴史・まちの発見\n\n---\n\n### 発見1：山奥の神岡なのに、なぜ中心街は「船津（港）」と呼ばれるのか？\n\n* **疑問のポイント**  \n  海から遠く離れた山深い神岡の中心商店街や市街地周辺は、古くから「船津（ふなつ）」と呼ばれています。船も海もない山間地で、なぜ「津（港）」の文字が使われているのでしょうか。\n* **理由と歴史の裏話**  \n  もともとこの地は、北アルプスから流れる高原川と山田川が合流する交通の要所でした。室町時代、川を渡るための舟の渡し場があったことから「船渡（ふなと）」と呼ばれ、それが転じて「船津（ふなつ）」になったと伝えられています。江馬氏の城下町として町立てされて以降、近代に至るまで数百年間にわたり「船津町（ふなつまち）」としてこの地域の中心であり続けました。\n* **具体的な数字と意外な点**  \n  現在の「神岡」という自治体名が誕生したのは近代に入ってからのことです。昭和25年（1950年）に船津町・阿曽布村・袖川村の1町2村が合併した際、新町名として「神岡町」が採用されました。「神岡」という呼び名が広く定着してからは約70数年であり、地元で今なお交差点名や地区名として親しまれている「船津」のほうが、地名としてははるかに長い歴史を持っています。\n* **出典・根拠**  \n  * 『平凡社日本歴史地名大系21 岐阜県の地名』『角川日本地名大辞典21 岐阜県』\n  * 小学館『日本大百科全書（ニッポニカ）』「神岡（岐阜県）」の解説\n\n---\n\n### 発見2：関ヶ原の軍資金を稼ぎ出した？「茂住宗貞」の莫大な銀と謎の脱出劇\n\n* **疑問のポイント**  \n  神岡町東茂住に館を構え、「飛騨の鉱山開発の祖」と称される茂住宗貞（もずみそうてい）。戦国時代、彼がもたらした富はどれほどの規模で、なぜ突然姿を消したのでしょうか。\n* **理由と具体的な数字・比較**  \n  天正17年（1589年）頃、飛騨国主となった金森長近に招かれた越前商人・糸屋彦次郎（後の茂住宗貞）は、茂住銀山や和佐保銀山を開拓しました。最盛期には屋敷に毎日「生銀七駄（約280貫＝約1,050kg）」もの銀が積み込まれたと伝わります。当時の金森家の表高はわずか3万8,700石の小大名でしたが、慶長5年（1600年）の関ヶ原の戦いでは約6万石規模に匹敵する約1,100名の兵力を動員できました。この財政基盤を支えたのが神岡の鉱山収入でした。功績を称えられた宗貞は主君から「金森」姓を下賜され、四方に石垣と櫓を巡らせた城郭のような屋敷を東茂住に構えました。\n* **意外な点・歴史の裏話**  \n  慶長13年（1608年）、庇護者であった金森長近が京都で没すると、宗貞は自ら屋敷に火を放ち、金5万8,300両余りを携えて越前敦賀へ脱出してしまいました。後継者との不仲や粛清を恐れたなど諸説ありますが、その屋敷跡には宗貞の菩提を弔う「金龍寺」が建てられ、現在も岐阜県指定史跡（金森宗貞邸跡）として堂々たる石垣の遺構が残っています。\n* **出典・根拠**  \n  * 岐阜県公式ホームページ 文化伝承課「金森宗貞邸跡（県指定史跡）」\n  * 高山市史 街道編「飛騨の鉱山発見者 茂住宗貞」（ADEACデジタルアーカイブ）\n\n---\n\n### 発見3：線路の幅はわずか61センチ！神岡を走っていた極小鉄道「神岡軌道」\n\n* **疑問のポイント**  \n  神岡と富山県・猪谷を結んだ鉄道といえば、旧国鉄神岡線（後の第三セクター神岡鉄道）が有名ですが、かつて高原川の対岸には、一般的な鉄道とは比べものにならないほど小さな線路幅の軽便鉄道「神岡軌道」が走っていました。なぜそんなミニ鉄道が敷かれたのでしょうか。\n* **理由と具体的な数字・比較**  \n  神岡軌道のレール幅（軌間）は、わずか「610ミリ（61センチ）」しかありませんでした。これは新幹線のレール幅（標準軌：1,435ミリ）の半分以下で、JR在来線（狭軌：1,067ミリ）と比べても約6割という極端な狭さです。なぜここまで狭い規格にしたかというと、「神岡鉱山の地下坑道内を走るトロッコの線路幅と統一し、採掘した鉱石を坑道から外の路線へ積み替えることなく直接輸送するため」でした。\n* **意外な点・歴史の裏話**  \n  幅61センチという玩具のようなレール幅でありながら、単なる貨物専用にとどまらず、客車も連結して沿線住民の足や生活物資の運搬を一手に引き受ける地域の動脈でした。対岸に国鉄神岡線が開通することに伴い、昭和42年（1967年）に全線廃止となりましたが、険しい山肌を縫うように走った極小列車の姿は今も近代化産業遺産として語り継がれています。\n* **出典・根拠**  \n  * 三井金属鉱業資料「神岡鉱山史」\n  * 神岡町史・交通編（神岡軌道の推移および軌間規格610mmに関する記録）\n\n---\n\n### 発見4：最盛期は岐阜県の「町」で人口第1位！映画館が何軒もあった「鉱都」の熱気\n\n* **疑問のポイント**  \n  現在、飛騨市内には常設の映画館がありませんが、昭和の神岡には複数の映画館や劇場がひしめき、夜遅くまで歓楽街がにぎわっていました。かつての神岡の都市規模はどれほどのものだったのでしょうか。\n* **理由と具体的な数字・比較**  \n  神岡鉱山は明治7年（1874年）に三井組が本格的な経営を開始して以降、日本初のトラックレスマイニング法の導入など近代化を進め、約130年間で7,500万トンもの鉱石を採掘し「東洋一の鉱山」と謳われました。昭和25年（1950年）に神岡町が誕生した当時の人口は約24,000人に達し、当時の岐阜県下のすべての「町」の中で第1位の人口規模を誇っていました。\n* **意外な点・歴史の裏話**  \n  人口がピークに達した昭和35年（1960年）頃には、住民の約半数を鉱山関係者が占めていました。山あいの平地が少ない地域に人々が密集して暮らした結果、市街地には映画館が3〜4軒も営業し、歌舞伎や大衆演劇が上演される芝居小屋「船津座」には連日大勢の観客が詰めかけました。山奥の静かな町というイメージとは対照的に、昭和中期の神岡は県内有数のエネルギーに満ちた最先端の都市だったのです。\n* **出典・根拠**  \n  * 三井金属公式資料「神岡鉱山って、どんな鉱山（やま）？」\n  * 飛騨市観光協会資料、岐阜県統計資料（昭和25年町制施行時人口および鉱山史料）\n\n---\n\n## リスナー向け3択クイズ（発見3「神岡軌道」より）\n\n**【問題】**  \nかつて神岡鉱山と富山県の猪谷を結び、人や荷物を運んだ軽便鉄道「神岡軌道」。地下の坑道からトロッコをそのまま直通させるために、線路の幅（2本のレールの間隔）が極端に狭く作られていました。さて、そのレール幅はどれくらいだったでしょうか？\n\n* **第1問（A）：** 約61センチ  \n* **第2問（B）：** 約106センチ  \n* **第3問（C）：** 約143センチ  \n\n---\n\n**【正解】**  \n**第1問（A）：約61センチ（610ミリ）**\n\n**【解説トークのポイント】**  \n「正解はなんと（A）の『約61センチ』です！現在の新幹線の線路幅（143.5センチ）と比べると半分以下、JR高山本線などの在来線（106.7センチ）と比べてもほぼ半分という、大人ひとりが両手を広げた幅よりもずっと狭い線路でした。神岡鉱山のトンネルの中を走るトロッコと同じ幅にして、積み替えの手間を省くためにこのサイズになったそうです。そんな小さな線路の上を、人やお米、お酒などを乗せた列車がカタカタと走っていたなんて、昔の神岡の風景を思い浮かべるとワクワクしますね！」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%8C%85%E4%B8%81+%E5%88%87%E3%82%8C%E5%91%B3+%E9%A3%9F%E6%9D%90+%E5%91%B3+%E9%81%95%E3%81%84+%E8%B2%9D%E5%8D%B0+%E7%B4%B0%E8%83%9E&client=app-vertex-grounding&safesearch=active\">包丁 切れ味 食材 味 違い 貝印 細胞</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%96%A2%E3%81%AE%E5%88%83%E7%89%A9+%E5%8C%85%E4%B8%81+%E3%81%AA%E3%81%9C%E5%88%87%E3%82%8C%E3%82%8B+%E8%B2%9D%E5%8D%B0+OR+%E5%B2%90%E9%98%9C%E7%9C%8C+%E4%BB%95%E7%B5%84%E3%81%BF&client=app-vertex-grounding&safesearch=active\">関の刃物 包丁 なぜ切れる 貝印 OR 岐阜県 仕組み</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A8%E3%82%B4%E3%83%9E+%E3%81%82%E3%81%B6%E3%82%89%E3%81%88+%E9%A3%9B%E9%A8%A8+%E5%B2%90%E9%98%9C%E7%9C%8C+%E6%AD%B4%E5%8F%B2+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">エゴマ あぶらえ 飛騨 岐阜県 歴史 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%BF%E5%84%BA%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83+%E7%94%B1%E6%9D%A5+%E5%B2%90%E9%98%9C%E7%9C%8C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">宿儺かぼちゃ 由来 岐阜県 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE+%E6%B6%99+%E3%81%AA%E3%81%9C+%E5%86%B7%E3%82%84%E3%81%99+%E3%83%8F%E3%82%A6%E3%82%B9%E9%A3%9F%E5%93%81+%E6%B6%99%E3%81%8C%E5%87%BA%E3%81%AA%E3%81%84&client=app-vertex-grounding&safesearch=active\">タマネギ 涙 なぜ 冷やす ハウス食品 涙が出ない</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%8C%82%E4%BD%8F%E5%AE%97%E8%B2%9E+%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E9%87%91%E6%A3%AE%E9%95%B7%E8%BF%91&client=app-vertex-grounding&safesearch=active\">茂住宗貞 神岡鉱山 金森長近</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1+%E5%9C%B0%E5%90%8D%E3%81%AE%E7%94%B1%E6%9D%A5+%E7%94%B1%E6%9D%A5+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡 地名の由来 由来 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E8%BB%8C%E9%81%93+%E9%89%B1%E5%B1%B1+%E7%8C%AA%E8%B0%B7+%E6%AD%B4%E5%8F%B2+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡軌道 鉱山 猪谷 歴史 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1+%E3%81%A8%E3%82%93%E3%81%A1%E3%82%83%E3%82%93+%E6%AD%B4%E5%8F%B2+%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1&client=app-vertex-grounding&safesearch=active\">神岡 とんちゃん 歴史 神岡鉱山</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe89YwS_0nHteej-EBc-7KXcXA_06dNdapluwlf66AnJw9W0yE55-1AP_K7Nihohbpy02mw4EaubLMYCiMIjfvWYIdB-OO1fiL7Fw7eBrWMd2ZWoYUUR6HyQST2A==",
-          "title": "rassic.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhuTEiY_NNFAsU50Ovwpc86JkYNZaIgK_K1SKCwt5kNlnJewKNjiYLPfLfgQLXX0r6VYjzMqooyVsh4KRIWv40jbRHylz6HIlTZsJBy8g-tpoKuzbM4WMM3WgXiuDHXPl6KgvVpZSS51acYlVGaRPgWoYrQcSu68TfrM8l",
+          "title": "readymade.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiuOOPzE6nU30wDH0spahhnxXN4SOX2FiG1DeAzXoTW4zcehslBYqcJ6aSQZhAqi7FTRrDzc_wJ_k0FkmO7vlRxK7C3saC8aRBhuJBJK5xSFgObefskzE=",
-          "title": "hidaegoma.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXJnXKuKxWx9rHLUFGw7GwOp2-9yn7pHDacRsg6RzbUgqIiBuEt4LbDyfNqo4Hm1jbJ9UOWJY8SqoBmiE9Rzp-nX_tl__XKE9UlU_ASHme-28OZuffZcKEzQ_6QBT-P1PkddBhzQ==",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHSZG6ZdYJ7HoTzOJmjuxWxrKtCidS8tqJQs_WEtkgxNSbHiTnZW50UicelXxStrtyb4dqih6pTDLHf3_8PtV--qmGOjAHa_3ffeRyXYhjUDwlBNKfhHsVAA30BmY=",
-          "title": "hida-kankou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh2atoOeIprUyYiHgoijJ0oCFdbxF0t8M_OdbXzzjAcVIBXCq8Nump5otND0UU9Ylf-382lwEHYqo_gEdrF5KcEeZ98O7lIglR7xVJMVSrJCQl3sm3GErzD8uH_jDsNaqIH065idsA",
+          "title": "kotobank.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHXuZk21MgBwCJuLndUKqEMv16MegknRR5hVG4ltWhW7k9LtITLiNsGA0ambnWMz9MwuEZuTpqttszzwdi4S7mlBPj9TWJceff1KM4TCuD5x-BTh-VI1dsvTg4QzYDXfp5HLkTXr143tDmYDDZquz4ic1-T3wqzEemS4A=",
-          "title": "meti.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcq0abfqV35P2uew_QcC7sRor69GNfwIyojwtYkIqRim_ZNQXTbLCoRXOaZK22f4bVvgbgMIwH-XrluaHQiRdIJ0JMZi9qCYDQK6OtKvpIyE22Cxdd4-Q6dFkWIGWz7triLYaRFW4_th1koV13aA==",
-          "title": "city.hida.gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKmGXObtI5BPbk4b1CAd7uq0PE3LBduw1Y6pN4gdw8vz7oNqTmwvyeeD661Um9Q1swnTfnUX7rO7-ObUL34RVTIiPQ2-uKxJY7Qzrn_F0xuv6OxA==",
-          "title": "hidaegoma.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX5EmJ8QnZV46bhkr75r54rM-MAAoxjqBg6Of86pgkddRQzSYU_FK-IfP55QJSNnjB-LIf5m9vFZI628e6rOQdsRiAai5m_emcLBad4Uk9d3Xpw-DdiIQ7bqLPYryKS842hSTuwLw6ljQHXTjcAAU=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWOKpNz9JUe7bS37dU5WnzMQvVlTIQsxFeqt2lQlodtZ8191S8cJVnJQbYGaEDag0V-OTphW-ADByNRbHvGj-fJ9Tgu6NOk51mKUiK4soC2GCnruzTExrIIJJk-6RQ2l0=",
           "title": "gifu.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9skcppYBW5PqjmgsZ1x9BMGzwrEXRi0KUm81c4UMwxak-7buBGmqYKXF3S3hMLn6X1SVSo6hudIQpI29ARXFZmfKal1oBfvFdDp_2l5-zrgLkpaUrV51fb2-p8Q5bGtW_GNyHoQe1HUv9ofk0NQ==",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbKh9LgLbNjLZft6AIIL7C93rkKB8QRrBRgqqT-jh9SsVoVXfbbsD1sfIcUcNDlTWakpTsEsGo_BwuwrGst9sK46MWySZHwyu9qaunM2wWLhYmz1JYinkBG34A_pUTtjo=",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHrS8zMj50GecIYuzP2BEseQ_R41J1hWi-ccafn5W-kP5UKf-NJD_tYWOm0u1ULrRMQ7a75bVRkTpIzN-OJt8lBaTb_VhG4apRMwO1Z2mDP4a8Wrpw_iD3v4FeuyYrV8epH0G8Q_HuPPjEY70NUw6uzfEpnS4WmEcgjU2nqlcyfCSYG_gQONzvNeo=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrBVMZ2eKobT_lJdyZHrtZekuIUYQ3Z_PpGxaACAIh703WykkLtKdwgSumdvDJGKyw2l_QlYOYW7k-SUsN5_2h7HB6zLDRwmhSAGuKkvKgjys6JfrtjWV6SIUw1zH2XuhYPodhR8LDQrn9Ww30Ug==",
+          "title": "adeac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt_Wd_LIZyYkvjHPoyCOHDO0Yu_sS1H0-A6LAnXaZmhZPbxa0dN2vFNcvH0RIHYKSkbFYzU1SdCF9vm9MmwH21G5e-vS2dgPzwO_9dQsACHaRJQp7PDA==",
+          "title": "shirobito.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCg12Xfas-c0Ml1xorPFvjxa_M6FyZ0Ccm8QZZQ04xOrg8nf068mF12YaH_yMBoYG1Y-uMBKuKtjpEousmIjS347p0N8RrGgZt_Xf1vrnWkdida4IMtI2DnRSMSorDck876wOr6F54LxI=",
+          "title": "pei.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLlWiGKDV57k0ZwyECDhMwXPkEiNImAX58Mlp1wmzB_Oa2sxeOG_nrLdIt__TuRpq2uv3JKwnOdOiJlaUvyi-nUX0YmuualzHLTI4XgPUzIjoX8QZDeFAoEEylPcOLtEU=",
+          "title": "yamaiga.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5_3ttrg7cNhGaZRR3KWtD2JrPB7HcmcCQcpCBdZ9pDBzHKUR3mKOaaFin1IuHM7SsQRs-pNDstkQpAaVVNXtx0digELVqGAhTcdvirudLlOEX6--tX_HBL3ackrwObK1KIF3mMX9SgxhjuocVF91GgA==",
+          "title": "hotetu.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe4R5cSp8dRuQ0n2yVP_KWqMNWCBp4eh0d02VFqmX2X2r_-3ymv9-fWaf7PsBGTDhEkR_oAcQAYe4gQDh_EGtsgp2Od1YhNffHgfx_HecUFNJkf4DLq-3qqm5Tm0ZgVoX3Q-EC_hQyYH4H0FpZqH0TEQ==",
+          "title": "jpn.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPTUA38eK1wlSus3Ju-Id60Q5YTz_bDQa-ZWo-GoeeJBJCvSePE7IhXOCcl4FlDT6h7SiTIB8CsOE6Qkhs185bP7_JQAKRwgTxcVlYAlQXsroTWl819NaJTyokLPlrHRPOR1vykB1Q1AQFAL5u8l3yQeZsTUwb2iUv9Xk2gh_ZRc0BTZoZgBZNJoO2tdy5A4BArKN77Q==",
+          "title": "kyoto-u.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3VNN7KWXQhUp9jDI4UjWWLqsMrBA0oL1gH3on-H0_EQPnlV7tdpl62jf0XR66wbRIvo9hmE9JLD40uy5xn6N91w4KWjlNJZowGxWVE-YwDiCmIPV46COdoHnhuMHfQSlJozs=",
+          "title": "mitsui-kinzoku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESizzI3-YHoZdNn5S19_Z_ZQa9_8fKv1suHna9H9dGmQSFSJDmduUsNYZSprpJ57_jTL2d3_9eqKr9HSmRX0lyrHX484oZ_XsZzGqPPSujK6bxP8UeobPB-_BTi39extHHMjSfpDVPu2xzrYgXK6LlAkW-3H4duSA=",
           "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGr9OtBwnPKIFxbqeofMYHugMST-EMc0IfOtj1T5Biw4kd27fuH3GZRZHk00NE3dIaJNwBUnyiJtUabK6CNelVwh-OKrDNxQCTBQwerOCtAI0aSaVnIzbVPBQ==",
-          "title": "hidakara.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2aLKapxuHch58I4fZKOBxmBX7HGgYGKs3uFXn88rhj2Mrj0wbtJuR1WHnl7nsPIN-X1IqffIBU5_-efgYqsum0ePVm0-8CpUMVtHpCG3_VzBoWhkIdKTEBgfSdb_b2pU=",
-          "title": "mytabi.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHnxoprNIstAidXCkSlWnidoJliTdWggkZGuUCZR2TIULLsgYa05-bT_LSzL9XvySnGEBedvc0cwGBubZ1ULx12CWd41MwCpKyZw6Mhq4dQILo3vHftYADOWje",
-          "title": "artisan-co.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1UmdjcqWyH0OIVaxgV3Gmf9N7dD2n-tWD0lkzg_k8WAEuVvAPIqIn9i_cZTfWFHnSvN6po_y5bfWWB8Dz5dRGdim83J_YbxO1HW1RcPplUWrTzV57p4ISdIo15jQ=",
-          "title": "sekikanko.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRd4po3glUcA7PYeBYfDLs-hQ02FgPFjGG0jtySSg_oFfyEhIHaNyElNxQ7NHNFp6x9CT394Bn_gyVka9R5X1KNKA0v1-NmhYZtq_0qn_H",
-          "title": "oissy.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPJGx05jHeXbljtwSgP9E55D3oqa-Q1InL9nitBcZFltTH7SX06Rnfvl0Rmy_7VnqT2CeulZe6ePqn9tr27wPyUspEqGC-4Vseifg_4EqqRNp-83SFQiSfimpJ",
-          "title": "kai-group.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqnLkjuir3QUDFV493nUSHpqs6-QW7aJIpswxuc8xgQNkPrzXsYlhnjLdZm1kvleM0HRqvx4ULgXDt_9muuTUw5EZTr8NxgKM-93vTenxwB-l6w-oHEkZJQi0JTXV20iUvfUtEsg==",
-          "title": "aissy.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFklYR1wDLRZMYDrzv46JQvVfogl423SJiKXmW5oampOsNWENYg9lL1yGbmlJSUvZdE-Y618EpjCC3CEqHbzQvyFlehDpVrTCUaqsj9E_WnTtf0YRnlovhte7IwUQhRurH7MnE9DonWuoNC9ek1TPAQ",
-          "title": "kai-group.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRMFhWRxGclLPzF7xZ-hRkhSdMUT71ETLVJ-kx-WMN2BNkpwXRLVVMZHvL6ByEoL0hGgblKp7_RtQiT69wgba-LoQMqIBz6ZXU7dPuhzxfoTNNwk466hXj4LBX1VAd1T3O-hLOxUWkdyONhuvvhciqvbnxQXaznySS7P9IaA==",
-          "title": "tashinam.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtS7zbwQeIHtPRnaikWLNBlBIKDnFoBLzWpYymj553X0XEjymyLIJ_TBZS6FK0m29KU9VxUKIp0318tF1_0wPhT8Cn5Md0ZGogi1UVlmU8baiVAyX9tIaOFWL_6WHV6ocSWL8=",
-          "title": "nii.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMRNcVfpLdA_gtnXWYkLDrykqIC4VQnOG6TjnLgaUSehQ18UNYJVXncotpFhP2RXqGt3PA_4C4zo0Bs8GlxQNbSxqy9c_fcjCClYFnM9O8-6lkNVvyTnfru74f6fUnFi1V3D9-SkTXTHvJTQzIL3L8QmdtG4f_ftHtfCwK",
-          "title": "housefoods-group.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe_OcPZa49l0_qnWr-CruxzPm8O3M1gcibkbsx2hKVxWS8knQWCMoDHczkUGHEu4kxgWZqCgHB8ZvXVZO028pOs2SCaOEJppj4FxIdB7gb3dUHrBlB-4ZxOKps4t66e9nL0_u6Iyp37kkj",
-          "title": "chem-station.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4UZgTbKfG81hCUmQkHBAFUhfWZkWsqanFqhebJTGLYOf5zmeJqXO-fcNPKuM82ryZskWRbz_44wScfgtxlID1GBYMg85WHin31qZk2m90YzNBPoq82IvEbg_AGLztreiDFyF8Nvv6Wzgf1_UOzV3GoBe05mrEsg==",
-          "title": "housefoods-group.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYEXBgSUWXId0q_C5_SGEXdSb1wKBzzd_B7m2u4n3u70vgdTWTpf6RmVNpvjAacMMCFwlkd-8muE8N0Pyjgt_CxcFU5FfrYeGZx40R0Zug_xYK8CQ07Kqizu5aEF_1eCGXzszHzFLjIc2YXpXK3h3bvFxC2Uhybyg3oMAjbhXi9Atfx61GL2v7Bl1czjmEw4zojOqg_wqyDZe36_3dH8Y4cw==",
-          "title": "jsbba.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfFo8Qv7zV8gAYCqZ-yI68fj-luBCWWo7DIrLWuj30kAX8S7TLWmIvSMDXTKkUcT0v5DhHtrUojYqRZfo0nFG6n-huRYZUKEYaz4lFbL6h6q35PlkguNte7U4JOWOe5lVYrxxMAcUly3E9TpW9h1QL9T7tg22VA5D3ldvwXEej5SEWY7kXw7_1qQ8wUZM4urGTek5_Cng5Bg1ZhV0_5UafiV9DlLA=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVq0qlerC6iAwTmpzufidBMt-Zq4u12dcZOCEMsAMSpH7mwkZqRHMfIL2sfiXA47BGQXYai3wzmlBU068mPEXWLIYtgDHSde0eoN6qoqQiPpdv4CFVzqF0jAby",
-          "title": "jba.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSCRqZQ7lHzhluVwqSY3tKZshqJtay-lgg374ukJCrnyVFeQYWRJIGajJ-_Fkzj_Fk3APlqG_OoCWnfIYuGN6_hyrg8fAvUhUqIHFtUT0RMZy7r0pzCZrv7O502RxubBhhdMxZhIa_zfolDoshYpj53r4cZjSRlmV4Je0l33yN9cqSCZUP5675R7Wy5Tr-6tC6KoqjNPzi5VgCq3O3rG2BWu11T3O6BTgL_F8-YjXrQGjVrMs-MgAQXOowEZFF67gilXEijBotsQS1rU1WxzF_",
-          "title": "kazusa.or.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 604,
-          "endIndex": 892,
-          "text": "飛騨地方の郷土の味としておなじみの「あぶらえ（エゴマ）」は、名前に「ゴマ」と付き、見た目や使い方も白ごま・黒ごまに似ていますが、植物学上はゴマ科ではなく「シソ科」の植物です（大葉やシソの仲間）"
+          "startIndex": 896,
+          "endIndex": 1097,
+          "text": "室町時代、川を渡るための舟の渡し場があったことから「船渡（ふなと）」と呼ばれ、それが転じて「船津（ふなつ）」になったと伝えられています"
         },
         "groundingChunkIndices": [
           0
@@ -247,19 +169,61 @@
       },
       {
         "segment": {
-          "startIndex": 934,
-          "endIndex": 1033,
-          "text": "日本での利用は極めて古く、縄文時代の遺跡からも種子が出土しています"
+          "startIndex": 1100,
+          "endIndex": 1292,
+          "text": "江馬氏の城下町として町立てされて以降、近代に至るまで数百年間にわたり「船津町（ふなつまち）」としてこの地域の中心であり続けました"
         },
         "groundingChunkIndices": [
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 1036,
-          "endIndex": 1138,
-          "text": "飛騨市では地域の貴重な食文化として「飛騨市伝承作物」に認定されており"
+          "startIndex": 1340,
+          "endIndex": 1442,
+          "text": "現在の「神岡」という自治体名が誕生したのは近代に入ってからのことです"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1445,
+          "endIndex": 1597,
+          "text": "昭和25年（1950年）に船津町・阿曽布村・袖川村の1町2村が合併した際、新町名として「神岡町」が採用されました"
+        },
+        "groundingChunkIndices": [
+          1,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1600,
+          "endIndex": 1845,
+          "text": "「神岡」という呼び名が広く定着してからは約70数年であり、地元で今なお交差点名や地区名として親しまれている「船津」のほうが、地名としてははるかに長い歴史を持っています"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1877,
+          "endIndex": 1982,
+          "text": "『平凡社日本歴史地名大系21 岐阜県の地名』『角川日本地名大辞典21 岐阜県』"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1987,
+          "endIndex": 2080,
+          "text": "小学館『日本大百科全書（ニッポニカ）』「神岡（岐阜県）」の解説"
         },
         "groundingChunkIndices": [
           2
@@ -267,79 +231,31 @@
       },
       {
         "segment": {
-          "startIndex": 1036,
-          "endIndex": 1285,
-          "text": "飛騨市では地域の貴重な食文化として「飛騨市伝承作物」に認定されており、市内で栽培されるエゴマは他産地と比べても機能性成分が豊富に含まれていることが調査で分かっています"
+          "startIndex": 2354,
+          "endIndex": 2468,
+          "text": "戦国時代、彼がもたらした富はどれほどの規模で、なぜ突然姿を消したのでしょうか"
         },
         "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1312,
-          "endIndex": 1666,
-          "text": "現代では「あぶらえおはぎ」や五平餅のタレ、和え物など「食べる」用途が主ですが、かつては種子を搾った油が、夜間を照らす「灯明（明かり）」や、和傘・雨合羽に塗って水を弾く「防水用の油（油紙・油傘）」として生活を支える必須エネルギー資源でした"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1714,
-          "endIndex": 1855,
-          "text": "近代以降に石油系インキや塗料が普及する前、飛騨の町村にはどこにでも油を搾る「油屋」がありました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1858,
-          "endIndex": 2137,
-          "text": "各農家が自家栽培したエゴマを持ち込んで油を搾ってもらい、家庭用以外は買い取ってもらい、搾りかすは畑の優秀な肥料として土に還すという、地域内で完結する無駄のない循環型生活が営まれていました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2172,
-          "endIndex": 2271,
-          "text": "飛騨市公式ウェブサイト「飛騨市の伝承作物『えごま』って知ってる？」"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2310,
-          "endIndex": 2394,
-          "text": "あぶらえおはぎ作り」（道の駅宙ドーム神岡等での取り組み）"
-        },
-        "groundingChunkIndices": [
+          3,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 2401,
-          "endIndex": 2478,
-          "text": "経済産業省 中小企業庁「岐阜県飛騨市 地域資源の活用」"
+          "startIndex": 2519,
+          "endIndex": 2711,
+          "text": "天正17年（1589年）頃、飛騨国主となった金森長近に招かれた越前商人・糸屋彦次郎（後の茂住宗貞）は、茂住銀山や和佐保銀山を開拓しました"
         },
         "groundingChunkIndices": [
-          3
+          5,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 2485,
-          "endIndex": 2596,
-          "text": "農林水産省「六次産業化・地産地消法に基づく事業計画認定（飛騨えごま本舗）」"
+          "startIndex": 2714,
+          "endIndex": 2838,
+          "text": "最盛期には屋敷に毎日「生銀七駄（約280貫＝約1,050kg）」もの銀が積み込まれたと伝わります"
         },
         "groundingChunkIndices": [
           5
@@ -347,267 +263,212 @@
       },
       {
         "segment": {
-          "startIndex": 2787,
-          "endIndex": 3018,
-          "text": "一般的なカボチャは扁平な丸型ですが、飛騨地方（主に高山市丹生川町）特産の「宿儺かぼちゃ」は、白皮栗カボチャの一種で、ヘチマのように細長い円筒形をしています"
+          "startIndex": 2841,
+          "endIndex": 3044,
+          "text": "当時の金森家の表高はわずか3万8,700石の小大名でしたが、慶長5年（1600年）の関ヶ原の戦いでは約6万石規模に匹敵する約1,100名の兵力を動員できました"
         },
         "groundingChunkIndices": [
-          6,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3047,
+          "endIndex": 3113,
+          "text": "この財政基盤を支えたのが神岡の鉱山収入でした"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3116,
+          "endIndex": 3284,
+          "text": "功績を称えられた宗貞は主君から「金森」姓を下賜され、四方に石垣と櫓を巡らせた城郭のような屋敷を東茂住に構えました"
+        },
+        "groundingChunkIndices": [
+          3,
+          4,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3329,
+          "endIndex": 3533,
+          "text": "慶長13年（1608年）、庇護者であった金森長近が京都で没すると、宗貞は自ら屋敷に火を放ち、金5万8,300両余りを携えて越前敦賀へ脱出してしまいました"
+        },
+        "groundingChunkIndices": [
+          3,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3536,
+          "endIndex": 3797,
+          "text": "後継者との不仲や粛清を恐れたなど諸説ありますが、その屋敷跡には宗貞の菩提を弔う「金龍寺」が建てられ、現在も岐阜県指定史跡（金森宗貞邸跡）として堂々たる石垣の遺構が残っています"
+        },
+        "groundingChunkIndices": [
+          3,
+          5,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3060,
-          "endIndex": 3161,
-          "text": "長さは約50cm（大物になると80cm近く）、重さは1個あたり2.5kg〜5kgに達します"
+          "startIndex": 3829,
+          "endIndex": 3923,
+          "text": "岐阜県公式ホームページ 文化伝承課「金森宗貞邸跡（県指定史跡）」"
         },
         "groundingChunkIndices": [
-          6,
-          8
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 3164,
-          "endIndex": 3361,
-          "text": "一般的なスーパーの丸い西洋カボチャ（1〜2kg程度）の2倍以上の大きさがあり、店頭では扱いやすいよう輪切り等にカットされて並ぶのが特徴です"
+          "startIndex": 3928,
+          "endIndex": 4031,
+          "text": "高山市史 街道編「飛騨の鉱山発見者 茂住宗貞」（ADEACデジタルアーカイブ）"
         },
         "groundingChunkIndices": [
-          6,
-          8
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3388,
-          "endIndex": 3619,
-          "text": "巨大でウリのような外見から「大味なのでは？」と思われがちですが、切ると中は鮮やかな黄色で、栗のようにホクホクとした強い甘みときめ細やかな食感を持っています"
+          "startIndex": 4178,
+          "endIndex": 4487,
+          "text": "神岡と富山県・猪谷を結んだ鉄道といえば、旧国鉄神岡線（後の第三セクター神岡鉄道）が有名ですが、かつて高原川の対岸には、一般的な鉄道とは比べものにならないほど小さな線路幅の軽便鉄道「神岡軌道」が走っていました"
         },
         "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3622,
-          "endIndex": 3811,
-          "text": "実は長年にわたり市場には流通せず、農家が自分たちで食べるだけの「自家用野菜」としてひっそり受け継がれていた門外不出の野菜でした"
-        },
-        "groundingChunkIndices": [
-          6,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3859,
-          "endIndex": 4033,
-          "text": "地域特産品として本格的にブランド化され、「宿儺かぼちゃ」と正式に命名されたのは2001年（平成13年）と意外に最近のことです"
-        },
-        "groundingChunkIndices": [
-          6,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4036,
-          "endIndex": 4168,
-          "text": "名前は丹生川地域に伝わる伝説の豪族・英雄「両面宿儺（りょうめんすくな）」にちなんでいます"
-        },
-        "groundingChunkIndices": [
-          6,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4171,
-          "endIndex": 4429,
-          "text": "在来種ゆえに他のカボチャの花粉と交雑しやすいため、現在でも「宿儺かぼちゃ研究会」が専用の畑で種を選抜・管理し、生産農家に配布することでその独特な形状と味覚を守り続けています"
-        },
-        "groundingChunkIndices": [
-          6,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4464,
-          "endIndex": 4548,
-          "text": "農林水産省「消費者の部屋通信（食材図典：宿儺かぼちゃ）」"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4555,
-          "endIndex": 4645,
-          "text": "岐阜県公式ホームページ「宿儺かぼちゃ（飛騨・美濃伝統野菜）」"
-        },
-        "groundingChunkIndices": [
+          8,
+          9,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 4652,
-          "endIndex": 4712,
-          "text": "宿儺かぼちゃ研究会・飛騨農業協同組合資料"
+          "startIndex": 4601,
+          "endIndex": 4717,
+          "text": "神岡軌道のレール幅（軌間）は、わずか「610ミリ（61センチ）」しかありませんでした"
         },
         "groundingChunkIndices": [
-          6,
+          8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 4894,
-          "endIndex": 5056,
-          "text": "岐阜県関市は、ドイツのゾーリンゲン、英国シェフィールドと並ぶ「世界三大刃物産地」として世界的に知られています"
+          "startIndex": 4895,
+          "endIndex": 5144,
+          "text": "なぜここまで狭い規格にしたかというと、「神岡鉱山の地下坑道内を走るトロッコの線路幅と統一し、採掘した鉱石を坑道から外の路線へ積み替えることなく直接輸送するため」でした"
         },
         "groundingChunkIndices": [
-          11,
-          12
+          8,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 5059,
-          "endIndex": 5298,
-          "text": "関市発祥の刃物メーカー・貝印と慶應義塾大学発ベンチャー（AISSY）の共同検証により、「包丁の切れ味が落ちると食材の味が劣化する」という現象が科学的に数値化されました"
+          "startIndex": 5189,
+          "endIndex": 5419,
+          "text": "幅61センチという玩具のようなレール幅でありながら、単なる貨物専用にとどまらず、客車も連結して沿線住民の足や生活物資の運搬を一手に引き受ける地域の動脈でした"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          8,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 5301,
-          "endIndex": 5481,
-          "text": "切れない刃物は食材を切り裂くのではなく押し潰すため、細胞壁が破壊されて余計な苦味成分や雑味が染み出してしまうのが原因です"
+          "startIndex": 5422,
+          "endIndex": 5668,
+          "text": "対岸に国鉄神岡線が開通することに伴い、昭和42年（1967年）に全線廃止となりましたが、険しい山肌を縫うように走った極小列車の姿は今も近代化産業遺産として語り継がれています"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 5523,
-          "endIndex": 5770,
-          "text": "味覚センサー「レオ」を使った比較実験では、新品の包丁と、研がずに家庭で約2か月使った状態（まな板に約5万4,000回切りつけた状態に相当）の包丁で食材を切って味を比較しました"
+          "startIndex": 5700,
+          "endIndex": 5745,
+          "text": "三井金属鉱業資料「神岡鉱山史」"
         },
         "groundingChunkIndices": [
-          13,
-          15
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5773,
-          "endIndex": 5997,
-          "text": "その結果、切れない包丁で切ったマグロの刺身は「旨味が減少し、苦味が増加」し、95％の人が明確に味の違いを認識できるレベル（0.2ポイント以上）の差が出ました"
+          "startIndex": 5750,
+          "endIndex": 5845,
+          "text": "神岡町史・交通編（神岡軌道の推移および軌間規格610mmに関する記録）"
         },
         "groundingChunkIndices": [
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6003,
+          "endIndex": 6192,
+          "text": "現在、飛騨市内には常設の映画館がありませんが、昭和の神岡には複数の映画館や劇場がひしめき、夜遅くまで歓楽街がにぎわっていました"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6330,
+          "endIndex": 6607,
+          "text": "神岡鉱山は明治7年（1874年）に三井組が本格的な経営を開始して以降、日本初のトラックレスマイニング法の導入など近代化を進め、約130年間で7,500万トンもの鉱石を採掘し「東洋一の鉱山」と謳われました"
+        },
+        "groundingChunkIndices": [
+          12,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 6000,
-          "endIndex": 6087,
-          "text": "またピーマンでも苦味が大幅に強くなることが確認されています"
+          "startIndex": 6610,
+          "endIndex": 6803,
+          "text": "昭和25年（1950年）に神岡町が誕生した当時の人口は約24,000人に達し、当時の岐阜県下のすべての「町」の中で第1位の人口規模を誇っていました"
         },
         "groundingChunkIndices": [
-          16,
-          14
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 6114,
-          "endIndex": 6315,
-          "text": "「同じ調味料、同じ野菜なのに美味しく作れない」という料理の悩みは、腕前ではなく「単に包丁が切れていないせい」であるケースが多々あります"
+          "startIndex": 6848,
+          "endIndex": 6974,
+          "text": "人口がピークに達した昭和35年（1960年）頃には、住民の約半数を鉱山関係者が占めていました"
         },
         "groundingChunkIndices": [
-          16,
-          14
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 6318,
-          "endIndex": 6645,
-          "text": "顕微鏡で切断面を見ると、切れる包丁で切ったトマトや刺身の断面は細胞が壊れず鏡のように滑らかですが、切れない包丁の断面は細胞が押し潰されてボロボロのギザギザになり、旨味を含んだ水分（ドリップ）が外に流出してしまっています"
+          "startIndex": 6977,
+          "endIndex": 7228,
+          "text": "山あいの平地が少ない地域に人々が密集して暮らした結果、市街地には映画館が3〜4軒も営業し、歌舞伎や大衆演劇が上演される芝居小屋「船津座」には連日大勢の観客が詰めかけました"
         },
         "groundingChunkIndices": [
-          15
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 6693,
-          "endIndex": 6753,
-          "text": "関市で刃物作りが始まったのは鎌倉時代末期"
-        },
-        "groundingChunkIndices": [
-          17,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6756,
-          "endIndex": 6915,
-          "text": "刀鍛冶に必要な良質の焼刃土、松炭、そして長良川や津保川の清らかな水に恵まれていたことから刀匠が集まりました"
-        },
-        "groundingChunkIndices": [
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6918,
-          "endIndex": 7215,
-          "text": "戦国武将たちから「折れず、曲がらず、よく切れる」と絶賛された実戦刀の鍛造技術が、明治の廃刀令を経て包丁やハサミなど家庭用の刃物作りに受け継がれ、現在では日本の家庭用包丁の圧倒的なシェアを支えています"
-        },
-        "groundingChunkIndices": [
-          17,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7250,
-          "endIndex": 7396,
-          "text": "貝印株式会社 プレスリリース「味覚センサーを使って可視化実験 包丁の切れ味によって味覚が変わる！？」"
-        },
-        "groundingChunkIndices": [
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7250,
-          "endIndex": 7474,
-          "text": "貝印株式会社 プレスリリース「味覚センサーを使って可視化実験 包丁の切れ味によって味覚が変わる！？」 / 貝印包丁公式サイト「包丁の切れ味と美味しさの秘密」"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7481,
-          "endIndex": 7562,
-          "text": "関市観光協会「世界が認める『関の刃物』まるわかり特集」"
+          "startIndex": 7428,
+          "endIndex": 7509,
+          "text": "三井金属公式資料「神岡鉱山って、どんな鉱山（やま）？」"
         },
         "groundingChunkIndices": [
           12
@@ -615,226 +476,20 @@
       },
       {
         "segment": {
-          "startIndex": 7569,
-          "endIndex": 7692,
-          "text": "日本調理科学会大会研究発表要旨集「包丁の切れ味の違いによる食材の品質への影響調査」"
+          "startIndex": 7514,
+          "endIndex": 7624,
+          "text": "飛騨市観光協会資料、岐阜県統計資料（昭和25年町制施行時人口および鉱山史料）"
         },
         "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7877,
-          "endIndex": 7988,
-          "text": "タマネギを包丁で刻むと強烈な刺激成分が揮発し、目の粘膜を刺激して涙が出ます"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7991,
-          "endIndex": 8189,
-          "text": "しかし実は、切る前の無傷なタマネギの中には、涙を出させる催涙成分（syn-プロパンチアール-S-オキシド）は**分子1粒たりとも存在していません**"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8231,
-          "endIndex": 8463,
-          "text": "タマネギの細胞内部では、原料となるアミノ酸（PRENCSO）と、それを分解する酵素（アリイナーゼ）が、普段はそれぞれ別の部屋（液胞と細胞質）に厳重に隔離されています"
-        },
-        "groundingChunkIndices": [
-          20,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8466,
-          "endIndex": 8719,
-          "text": "包丁の刃が細胞を破壊した瞬間、この2つが出会い、さらに「催涙因子合成酵素（LFS）」という酵素が働くことで、わずか数秒のうちに化学反応が連鎖して涙成分が爆発的に生み出されます"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8746,
-          "endIndex": 9011,
-          "text": "長い間、「包丁で切ると自然に涙成分に変化する」と考えられていましたが、2002年にこの催涙酵素（LFS）を世界で初めて発見したのは、日本の大手食品メーカー「ハウス食品」の研究チームでした"
-        },
-        "groundingChunkIndices": [
-          19,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9014,
-          "endIndex": 9232,
-          "text": "この功績は世界的な科学雑誌『Nature』に論文掲載され、2013年には「人々を笑わせ、考えさせる研究」に贈られる**イグ・ノーベル賞（化学賞）**を受賞しています"
-        },
-        "groundingChunkIndices": [
-          19,
-          23,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9280,
-          "endIndex": 9421,
-          "text": "この世界的な大発見のきっかけは、同社がレトルトカレーを製造していた際の「思わぬトラブル」でした"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9424,
-          "endIndex": 9628,
-          "text": "工場でタマネギとニンニクを炒めると、本来ならアメ色になるはずのペーストが、なぜか時々「不気味な緑色」に変色してしまう現象が発生したのです"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9631,
-          "endIndex": 9862,
-          "text": "原因究明のためにタマネギとニンニクの酵素反応を詳しく調べていたところ、ニンニクにはなくタマネギにだけ存在する「未知の涙酵素」を偶然発見することになりました"
-        },
-        "groundingChunkIndices": [
-          19,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9897,
-          "endIndex": 9981,
-          "text": "ハウス食品グループ本社「タマネギの催涙成分に関する研究」"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9897,
-          "endIndex": 10023,
-          "text": "ハウス食品グループ本社「タマネギの催涙成分に関する研究」 / 「スマイルボール開発秘話」"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10030,
-          "endIndex": 10124,
-          "text": "イギリス科学誌『Nature』掲載論文（2002年：催涙因子合成酵素の発見）"
-        },
-        "groundingChunkIndices": [
-          19,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10131,
-          "endIndex": 10204,
-          "text": "公益財団法人 かずさDNA研究所「涙のでないタマネギ」"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10299,
-          "endIndex": 10552,
-          "text": "タマネギを切るとなぜ涙が出るのかを科学的に突き止め、世界的権威のある科学誌『Nature』への論文掲載や、2013年の「イグ・ノーベル賞」を受賞した日本の大手食品メーカー・ハウス食品"
-        },
-        "groundingChunkIndices": [
-          19,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10996,
-          "endIndex": 11094,
-          "text": "**① タマネギを炒めていたら、ペーストが「緑色」に変色してしまった**"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11133,
-          "endIndex": 11203,
-          "text": "「正解は1番の『緑色に変色してしまった』でした！"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11204,
-          "endIndex": 11381,
-          "text": "カレーの製造中に、タマネギとニンニクを炒めると、なぜかアメ色にならずに時々緑色になってしまうという失敗が起きたんですね"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11384,
-          "endIndex": 11627,
-          "text": "『なぜ緑色になるんだ？』と原因を突き止めようと実験を繰り返していたところ、たまたま未知の酵素が見つかり、それが世界中の人を泣かせてきた涙の正体だったというわけです"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11630,
-          "endIndex": 11735,
-          "text": "工場の失敗やトラブルにも、世界を変える科学のヒントが隠れていたんですね"
-        },
-        "groundingChunkIndices": [
-          19
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "包丁 切れ味 食材 味 違い 貝印 細胞",
-      "関の刃物 包丁 なぜ切れる 貝印 OR 岐阜県 仕組み",
-      "エゴマ あぶらえ 飛騨 岐阜県 歴史 農林水産省",
-      "宿儺かぼちゃ 由来 岐阜県 農林水産省",
-      "タマネギ 涙 なぜ 冷やす ハウス食品 涙が出ない"
+      "茂住宗貞 神岡鉱山 金森長近",
+      "神岡 地名の由来 由来 飛騨市",
+      "神岡軌道 鉱山 猪谷 歴史 飛騨市",
+      "神岡 とんちゃん 歴史 神岡鉱山"
     ]
   }
 }
