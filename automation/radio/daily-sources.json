@@ -1,24 +1,26 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2013,
-  "estimated_minutes": 6.1,
+  "theme": "科学・自然のなぜ",
+  "characters": 2158,
+  "estimated_minutes": 6.5,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "石川丈山が武士を辞めて京都へ行く直接のきっかけは何だったでしょうか。1番、戦で抜け駆けの一番乗りをした。2番、家康の名刀を堀に落とした。3番、推しの詩人に会いたくて脱走した。",
-    "answer": "正解は1番の抜け駆けでした！大坂夏の陣で軍令違反の一番乗りをして手柄をもらえず、武士を辞めちゃったんだに。3番の推し活脱走も丈山ならやりそうだけどね！",
+    "question": "仏法僧と鳴く鳥の正体はフクロウの仲間コノハズクでしたが、美しい鳥ブッポウソウの本当の鳴き声はどれでしょうか。1番、ゲッゲッというダミ声。2番、美声のさえずり。3番、ギターの爆音ソロ。",
+    "answer": "正解は1番のゲッゲッというダミ声でした！平安時代から千年以上も姿と声が勘違いされとったなんて、うそでしょって驚いちゃうじゃんね！",
     "source_ids": [
-      1
+      2,
+      5
     ],
     "source_urls": [
-      "https://anjo-izumi.life/jyozan/"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7gA0OgZsaW58Z-bkl-lyW5Ifu3janDrkygWvk7E9AXfni7i_ADm1VLJmJ68Jh386HPcXah2SpyfhHT6ehKN2JHnIC-cO16JZsSL2qoiYimn5oLUXLfPKxkG6UoEHX",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0TrwHsh3NnpGV-WcGKRdpOgfNOAhjVJpDfuvv-yRvSXquIgFamnH4D0qyMqsIhthv9Cq1AuElnm3XYW52UjzhUfLcFX4ryCLW2OA3k2m8J6TxTGERkS2rmHi7pGB2ZYPmyTWvOb9FNn3QmRyT12fLQ9SggEzDdrCmey22R62CzWmqPg=="
     ]
   },
   "izumi": {
-    "text": "和泉が生んだスーパー文人、石川丈山のお話！お母さんへの孝行を終えて京都に戻った丈山は、59歳で京都の一乗寺に凹凸窠っていう山荘を建てたんだよね。おうとつか…って、名前のインパクトすごすぎん？でこぼこの穴ぐらって意味なんだけど、これがのちの詩仙堂！ここで丈山がやったことが、まさに元祖オタクの極み。なんと中国の詩人の中から自分の推しトップ36を勝手に選抜して、三十六詩仙を結成させちゃったの！狩野探幽に肖像画を描かせて、その上に自分で隷書の漢詩を書き込むという筋金入りのプロデュースっぷり。今で言えば、推しの特大ポスターをプロの絵師に頼んで部屋中に飾るようなもんだら！しかも丈山、日本で隷書をいち早く取り入れた書家でもあるから、推し活のクオリティがガチすぎるのよ。詩仙堂ではおよそ30年、漢詩や書、庭づくり、煎茶に没頭。江戸時代の文献で煎茶の祖の一人に数えられたり、漢詩集をまとめたり、庭園設計の名手とも伝わっとるんだわ。90歳で亡くなるまで趣味を究め尽くした丈山。自分の好きをとことん貫く生き方、和泉の誇りじゃんね！",
+    "text": "さて、ここからは「みおんの和泉ディープ」！和泉町ゆかりの石川丈山さんといえば、徳川家康に仕えたガチガチの武士だったのに、大坂夏の陣の軍令違反で武士をスッパリ辞めちゃった人じゃんね。その後どうしたかというと、お母さん孝行のために広島で13年過ごしたあと、京都の一乗寺に山荘「凹凸窠」、のちの詩仙堂を建てたのがなんと59歳！そこから90歳で亡くなるまでのおよそ30年間、何をしとったか知っとる？なんと、漢詩を作って、書を書いて、庭を造って、お茶を飲むという、超マイペースで優雅すぎる隠居ライフを満喫しとったんだわ！現代で言ったら、早期退職して田舎にこだわりのおしゃれカフェ付き平屋を建てて、毎日DIYと趣味に没頭しとる感じだよね。しかも中国の詩人36人を三十六詩仙として選んで狩野探幽に絵を描かせ、自分で隷書の漢詩を書いちゃうプロデュース力！さらに江戸時代の文献「煎茶綺言」では「煎茶の祖」の一人に数えられとるんだに。武士の出世レースから降りて、自分の好きな庭とお茶を極めて90歳まで長生きするなんて、人生の楽しみ方を知り尽くしとるよね。のんびり生きる達人が和泉生まれだなんて、なんだか誇らしくて自慢したくなっちゃうじゃんね！",
     "source_ids": [
       1
     ],
@@ -26,14 +28,14 @@
       "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "jozan-shisendo",
-      "hook": "京都の詩仙堂。おうとつかという変わった名前と、詩人36人のアイドル選抜"
+      "id": "jozan-sencha",
+      "hook": "煎茶の祖のひとり。90歳まで生きた、のんびり庭とお茶の後半生"
     }
   },
   "local": {
-    "text": "今日10月28日の水曜日から10月31日の土曜日まで、『”白鳥とコウモリ”安城特別展』が開催されるんだって！今日から始まって月末までの短い期間だもんで、うっかり見逃さんように気をつけりんね。秋のお出かけの予定にサクッと入れてみるのもいいじゃん！",
+    "text": "安城市民ギャラリーで今日10月29日から31日まで、「白鳥とコウモリ」安城特別展が開かれとるよ！お近くの方はふらっと覗いてみてりん！",
     "source_ids": [
-      30
+      25
     ],
     "source_urls": [
       "https://www.city.anjo.aichi.jp/event/hakuchou.html"
@@ -41,246 +43,205 @@
   },
   "segments": [
     {
-      "topic": "愛知唯一の天然湖「油ヶ淵」が江戸幕府の工事の副産物だった秘密",
-      "text": "そういえば、安城と碧南の境にある油ヶ淵ってあるじゃん。愛知県で唯一の天然湖として有名だけど、実はあれ、江戸幕府の工事の副産物だったって知っとる？みおん、これ聞いたとき、天然なのに人の工事でできたの！？って二度見したもんね！今から約400年前、あそこは三河湾の入り江で北浦って呼ばれる海だったの。ところが1605年、徳川家康が矢作川の水害を防ぐために新川を掘らせたら、川の流れが急すぎて上流から土砂がドバッと押し寄せちゃったのよ。その結果、米津から鷲塚の間がたった10年ほどで埋まって陸続きになっちゃって、幕府が堤防で海と仕切ったら湖ができちゃった！自然の偶然と土木工事のコラボだら！広さはナゴヤドームおよそ13個分で、平均の水深は約3メートルと浅い汽水湖。満潮になると湖のほうが海面より低くなるから、特殊な水門で厳密に管理されとるんだって。ちなみに名前の由来は、夜の海に出る息子の無事を祈るお母さんのため、龍が娘に化けて油を買って明かりを灯したっていう泣ける伝説から来とるらしいの。お散歩するとき、家康の土木パワーと龍の親心に思いを馳せてみてりん！",
+      "topic": "抹茶は日光を遮るとなぜ甘く濃い緑色になるのか？",
+      "text": "お茶の話が出たついでに、西尾の抹茶でもおなじみの緑茶の不思議に迫ってみりん！野菜でも果物でも、お日様の光を浴びれば浴びるほど甘くて元気に育つってイメージがあるじゃん？ところが抹茶の原料になるお茶の葉っぱは、収穫前に黒い覆いをかけて完全に日光を遮る「覆下栽培」をするんだわ。えっ、日光を遮ったら枯れちゃうじゃん、何しとるの！って思うよね。でもね、ここにとんでもない植物の科学が隠されとるんだに！実は、お茶の旨味や甘味の正体であるアミノ酸の「テアニン」は、根っこで作られて葉っぱに運ばれるんだけど、日光の紫外線を浴びると、なんと渋み成分の「カテキン」に化けちゃう性質があるの！つまり、お日様に当てれば当てるほど渋くなって、日光をシャットアウトすると甘味成分のテアニンがカテキンにならず、そのまま葉っぱの中にたっぷりと残るんだって！農研機構の研究でも、日光を遮った抹茶はテアニンが多くて渋いカテキンが抑えられとることが確かめられとるよ。しかも、光が足りない葉っぱは「なんとか光を吸い取るぞ！」と必死になって、葉緑素をドバドバ増やすから、あんなに目が覚めるような濃い緑色になるんだわ。植物の必死の努力のおかげで、人間は甘くて濃厚な抹茶スイーツを美味しくいただけとるわけだね。これ、お茶を飲むときに誰かにドヤ顔で話したくならん？",
       "source_ids": [
-        9,
-        14
+        6,
+        11
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsnBffpaukUeOFAErNnrf_UpjVBT-Phb4Vl3-r6s-hjnDXtAkoEq_bpC386rDt2s2x14UXFEXpHY_eoA1F7mSBpiPBC1bExQVUreFVcKFJf6gxydNF3J7v",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxSiNXdiWVbyf59QKYoa6L1RY6_bjvktMtcGpGg79BnZd56plOQPRig3ioOA3MCCiuX_GvAhEP2Qy0-LIIitgUHNqUTnSYZz_fdO1o9zhQ7cQ0sH3d8xo4jpWQsA6C0S9gjKXcR0oi55eK7aD-mBgJpcH5e91O0ePaUbgiXAzYIzUHdoSo-apntKYGGJYT8sQLT4pCOmP"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7H1MJqnIi1i9DeVSSX8u61_7XDiv0dMzjUMZdG4MwLZevEvFJY7iAVb45rYBhCeIkwmJ7KztsYq6nq-YrC4NyDeiVBNaLjdZXd41oWAgQvmPKKY1Ns6dDlhQc7NKeHTETJx0bc6c_gKWtrkR3CTN1GinA1OC1Z7vcXYzt36sgy7wyPMAD",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsIFJ148CJgHiezL0juzXPbtmpJ01wTlT4Ue3kFvrht2ZE4dbc9aSJW6DbN24gn5xpzN_MWUbm3bCPn_BexBUesiLI-yuehWXyIyJeJlhX8lbBVQ2eNgihnUKQ195JVUfc_AtJKA=="
       ]
     },
     {
-      "topic": "ごんぎつねの新美南吉が名作を量産した黄金期は安城だった話",
-      "text": "歴史の話が出たついでに、みんな小学校の教科書で読んだごんぎつねの新美南吉のお話！南吉の出身は半田市だけど、作家として一番脂が乗って名作を生み出した黄金期は、実は安城だったって知っとった？東京での極貧生活や病気でえらい目に遭っていた南吉は、24歳のときに安城高等女学校、今の安城高校に英語と国語の先生としてやってきたの。そこで受け持ったクラスの担任を4年間務めたんだけど、給料も安定して生徒たちも温かくて、創作意欲が大爆発！学校の通勤路にあった花ノ木町をモデルにして花のき村と盗人たちを書いたり、あのみんなが大好きな手袋を買いにや、おじいさんのランプも安城で暮らしたおよそ5年間に生まれたんだに。生前に出た唯一の単行本も、安城の下宿先から世に出たんだって！生徒からはナンキチ先生って呼ばれて、英語の歌を歌ったりスケッチを見せたり大人気だったらしいの。わずか29歳7か月で亡くなっちゃったけど、安城で過ごした日々が南吉の心を温めて、あの優しい名作たちを生んだと思うと胸が熱くならん？明日誰かに、手袋を買いにのふるさとは安城だにって自慢しりん！",
+      "topic": "雨が降り始めるときのあの独特な匂いの正体",
+      "text": "そういえば、お天気が崩れるときに「あ、なんか雨が降りそうな匂いがする！」って気づいたことない？空から降ってくる雨水自体はただの水だから無臭なのに、一体どこからあの独特の土っぽい匂いが湧いて出とるのか、不思議だと思わん？実はあの匂い、1964年に科学者が「ペトリコール」ってちゃんとした名前をつけとるんだわ。ギリシャ語で「石のエッセンス」って意味らしいんだけど、かっこよすぎだら！でもね、その正体は石どころか、土の中に住んどる「放線菌」っていう目に見えない微生物が作る「ゲオスミン」という物質なんだに。土の中でじっと眠っとったこの匂い成分が、上から雨粒がバシャーンと地面に激突した瞬間、まるでシャンパンの泡みたいにミクロの空気の泡になって、大気中にパーンと弾き飛ばされるんだって！要するに、雨粒が土の匂いスプレーのボタンを一斉に押しとるようなものだわ。しかも人間の鼻ってゲオスミンに対して異常に敏感で、なんと1兆分の5という超スーパー薄い濃度でも嗅ぎ分けられるらしいの！サメが海の中で血の匂いをかぎつけるレベルの超能力を、私たちみんなが鼻に持っとるんだよ。雨の匂いをかいで「もうすぐ降るぞ」ってわかるのは、実は土の微生物と私たちのスーパー嗅覚の科学反応だったなんて、ちょっと人に教えたくなるじゃんね！",
       "source_ids": [
-        17,
-        19
+        13,
+        14,
+        18
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf5x3PnOuznnKWGFGm3z9dQ2xnJv99Cvsnw9dgiORc-zOKF1B7CxqaT80Njdmk_rklwFoFhdX4w4OoJRhC851U2Ixe_n9zHNo9PDfJpNqCE01znrljQeY-ObVXGJyDoFjvp-Kl4jnZtyqKF27Dus1SMDybbEFZjTyLEVwxTmzI",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGosC8Lt7uxhx7oYrbdTs-FIgYqGmsl29yq0FJEz5u6TfUdbO6SFCIHeYSIB-WPgFb3jfs-4Da7tKuJ9_wZudAEZ-B5vi8Qw7aNzieBf34v8p0tekN7IhcdpbhBGWGKtcsPRMd398WpzkM421_P"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtNtQwiPczjdvPH2XGPo9WxtWEVhCIiY5pEzjdw7YvVYVWfLXDzaGN8RTjCRUK-h2nGuiKXrZkOvSxzLbou9Gfyn88DIjz4WCGx5FrlzvrkU4Y94-mWEg8YBDiYaAB",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR8xi_o_ZSy8n8PmMXXZKcKTlUvtiN0zsfyelXBQ1GSVs7DveViF5qyMRrrjrlT4wZgCbs7VCK1ZsNixEOvZZPwmLxES8NWw9Z1Uykd-U7IBp9N9SYicBSKDWHAxzdLY2S8N7IphSPjnHBv_RjSC_FxA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8KJT4BaVP3pRdY1pTypeTNeSz1oHBs3qkUSllGDy9FgwY_PpgEsqMJ8NL41bv3V9Tgg97P3xFT1ioB1wXxfoyS1Hq6TGSEAwwTHn19WEOa9sxh_zUiwV194_i0WulLr5Z"
       ]
     }
   ],
-  "research": "愛知県安城市和泉町周辺の地域ラジオ向けに、地元の歴史やまちの隠れた魅力を掘り起こした4件の調査メモと、番組内で使える3択クイズを作成しました。\n\n---\n\n### 調査メモ1：日本庭園でおなじみの「ししおどし」、最初に庭へ取り入れたのは和泉町生まれの偉人だった？\n\n* **疑問の核心**  \n  日本庭園で「カコーン」と心地よい竹の音を響かせる「ししおどし（添水）」。実はこれを日本で最初に風流な庭の仕掛けとして取り入れたのが、安城市和泉町出身の江戸初期の文人・石川丈山（1583〜1672年）であると言われています。\n* **理由と背景**  \n  もともと「鹿威し（ししおどし）」は、田畑を荒らす鹿や猪を音で威嚇して追い払うための素朴な農具でした。石川丈山は京都の一乗寺に隠棲して山荘「詩仙堂（凹凸窠）」を造営した際、山裾から現れる野生動物を防ぐ実用と、静寂の中で響く余韻の美しさを兼ね備えた演出として庭園に採用しました。この丈山の趣向が、のちに全国の日本庭園へと広まっていきました。\n* **具体的な数字とエピソード**  \n  徳川家康の近習として仕えた武士だった丈山は、慶長20年（1615年）の大坂夏の陣において33歳の時、抜け駆け（一番乗り）をして軍令違反に問われ、武士を引退しました。その後、京都で儒学や書、茶道に親しみ、寛永18年（1641年）に59歳で詩仙堂を開くと、90歳で天寿を全うするまでの約30年間をそこで悠々自適に過ごしました。\n* **歴史の裏話**  \n  晩年の詩仙堂は多くの文人や客が訪れる名所となり、静寂を愛する丈山は承応元年（1652年）頃に故郷の三河国（和泉）へ帰りたいと願ったものの、幕府の厳しい浪人統制によって帰郷は叶いませんでした。現在、生誕地の和泉町には丈山が手がけた京都の詩仙堂などを再現した「丈山苑」が整備されており、本場ゆずりのししおどしの音色を楽しむことができます。\n* **出典・引用元**  \n  安城市「丈山苑」施設概要／愛知県観光コンベンション局「あいち歴史観光（丈山苑）」\n\n---\n\n### 調査メモ2：愛知県唯一の天然湖「油ヶ淵」、実は江戸幕府の土木工事の“副産物”だった？\n\n* **疑問の核心**  \n  安城市と碧南市の境に広がる「油ヶ淵」は、愛知県でたった一つしかない天然湖沼です。しかし、その成り立ちをたどると、完全に自然の力だけでできたわけではなく、江戸時代初頭の大規模な河川改修がきっかけで誕生した湖でした。\n* **理由と背景**  \n  約400年前まで、この一帯は三河湾が入り込む「北浦」と呼ばれる海の入り江でした。慶長10年（1605年）、徳川家康の命により矢作川下流の水害を防ぐため新川が開削されました（現在の矢作川本流）。すると、急勾配となった新川から上流の土砂が北浦の河口へ大量に流れ込み、米津から鷲塚の間が約10年で埋まって陸続きになってしまいました。その後、正保元年（1644年）に幕府が堤防を築いて海と遮断したことで、現在の湖沼「油ヶ淵」が姿を現したのです。\n* **具体的な数字と比較**  \n  周囲長約6.3km、面積約0.64平方キロメートル（ナゴヤドーム約13個分）、平均水深約3mという浅い汽水湖です。満潮時には湖面が海面より低くなるため、海水の逆流や塩害を防ぐ特殊な水門（防潮水門や常時排水ゲート）で水位が緻密に管理されています。\n* **歴史の裏話**  \n  「油ヶ淵」という名前の由来には哀しくも心温まる伝説があります。昔、夜の海へ漁に出る息子の安全を祈り続ける貧しい母親がいました。その祈りに応えるように、淵の主である龍が美しい娘に化けて村の油屋へ通い、買った油で岬の端に明かり（竜燈）を灯して舟を導いたという昔話から、この水辺が「油ヶ淵」と呼ばれるようになったと伝えられています。\n* **出典・引用元**  \n  愛知県建設局「油ヶ淵の誕生と移り変わり」／国土交通省 中部地方整備局「日本の川・矢作川の歴史」\n\n---\n\n### 調査メモ3：『ごんぎつね』の新美南吉、人生で最も充実して名作を量産したのは「安城」だった？\n\n* **疑問の核心**  \n  教科書でおなじみの童話『ごんぎつね』の作者・新美南吉（1913〜1943年）。生誕地の半田市が有名ですが、彼が大人になって定職に就き、最も精神的に安定して次々と傑作を生み出した“黄金期”は、実は安城で過ごした教員時代でした。\n* **理由と背景**  \n  東京での極貧生活や結核の発病に苦しんでいた南吉は、昭和13年（1938年）4月、24歳のときに安城高等女学校（現在の愛知県立安城高等学校）へ英語や国語を担当する教師として赴任しました。南吉は入学してきた第19回生のクラスを担任し、卒業までの4年間を受け持ちました。安定した職と温かい生徒たちに囲まれたことで創作意欲が爆発し、教員生活の傍ら数々の名作を執筆しました。\n* **具体的な数字と作品群**  \n  わずか29歳7か月（享年30）という短い生涯の中で、安城で暮らした期間は昭和13年4月から昭和18年2月までの約5年間でした。この安城時代に『手袋を買いに』をはじめ、『おじいさんのランプ』『牛をつないだ椿の木』『花のき村と盗人たち』などが発表され、生前に刊行された唯一の単行本童話集『おじいさんのランプ』も安城の下宿先から世に送り出されました。\n* **歴史の裏話**  \n  南吉の代表作の一つ『花のき村と盗人たち』に登場する「花のき村」は、安城高等女学校への通勤路近くにあった「安城市花ノ木町」がモデルとされています。また、教え子たちからは親しみを込めて「ナンキチ先生」と呼ばれ、英語の歌を教えたりスケッチを披露したりと、良き教育者としても慕われていました。\n* **出典・引用元**  \n  安城市役所「新美南吉のまちづくり」／愛知県立安城高等学校「新美南吉と安城高校」\n\n---\n\n### 調査メモ4：安城七夕まつりが「日本三大」の呼び名を返上して「日本一」を名乗り始めたワケ\n\n* **疑問の核心**  \n  全国的に「日本三大七夕まつり」の一つとして仙台・平塚と並び称されてきた安城七夕まつり。しかし2009年、安城市はみずから「日本三大」という看板を改め、「願いごと、日本一。」という新しい合言葉を掲げるようになりました。\n* **理由と背景**  \n  終戦後の昭和29年（1954年）、安城駅南口の商店街振興と市制施行を記念して始まったこのまつりは、市民の手で竹飾りを作り上げる温かい市民祭として育ちました。他都市との単純な規模比べにとどまるのではなく、「七夕本来の趣旨である“願いごと”を市民や来場者が託せる場として日本一を目指そう」という方針へ大きく舵を切ったためです。\n* **具体的な数字と記録**  \n  安城七夕まつりの竹飾りストリートは約1,000本に及び、飾りの連なる通りの長さは日本屈指です。さらに「願いごと日本一」を掲げた象徴的な出来事として、2013年には「1本の笹竹に吊るされた短冊の数」で13,809枚を達成し、ギネス世界記録に公式認定されました。\n* **歴史の裏話**  \n  安城市には、全国でも珍しい「七夕神社（安城七夕神社）」が存在します。まつり期間中はこの神社の境内から参道にかけて無数の笹飾りと短冊が連なり、幻想的な祈りの空間へと姿を変えます。\n* **出典・引用元**  \n  安城七夕まつり協賛会公式ウェブサイト「安城七夕まつりの歴史」、「『日本三大』から『願いごと日本一』へ」\n\n---\n\n### 番組用3択クイズ案（調査メモ1より）\n\n**【問題】**  \n日本庭園の定番として、竹筒に水がたまると「カコーン」と石を叩いて音を響かせる仕掛け「ししおどし（添水）」。もともとは田畑を荒らす動物を追い払う道具でしたが、これを「静かな庭を楽しむ風流な仕掛け」として日本で最初に庭園へ取り入れたのは、安城市和泉町生まれの偉人・石川丈山です。  \nでは、武士だった石川丈山が武士を辞めて京都へ隠棲し、文人となる直接のきっかけとなった出来事は何だったでしょう？\n\n* **① 戦いの最中、味方を待たずに抜け駆けして敵陣に「一番乗り」してしまったから**\n* **② 徳川家康から預かった名刀をうっかり堀に落として失くしてしまったから**\n* **③ 漢詩を読むのに夢中になりすぎて、合戦の集合時間に大遅刻したから**\n\n---\n\n**【正解】**  \n**① 戦いの最中、味方を待たずに抜け駆けして敵陣に「一番乗り」してしまったから**\n\n**【解説】**  \n石川丈山はもともと徳川家康のそば近くに仕えた屈強な武将でした。しかし、慶長20年（1615年）の大坂夏の陣の際、手柄を立てたいあまり先頭を進む「一番乗り」の軍令違反を犯してしまい、蟄居（謹慎）を命じられます。これを機に刀を捨てて学問や詩作の道へと進み、のちに京都・詩仙堂で「ししおどし」を愛でる大文人となりました。和泉町の丈山苑では、そんな丈山が過ごした風雅な世界を今も身近に体感できます。",
+  "research": "愛知県安城市和泉町の地域ラジオ向けに、リスナーが家族や友人に話したくなる「科学・自然のなぜ」をテーマにした調査メモを作成しました。地元・愛知県および隣接する西三河地域にゆかりのある話題を2件、身近な自然現象に関する話題を2件選定しています。\n\n---\n\n### テーマ1（愛知の自然・歴史）：夜の森で「ブッ・ポウ・ソウ」と鳴く鳥の正体は、別の鳥だった？\n\n* **理由（科学・生態）：**\n  森の中で夜間に「ブッ・ポウ・ソウ（仏・法・僧）」と三宝の名を唱えるように美しく鳴く声の主は、長年「ブッポウソウ」という美しい青緑色の鳥だと信じられていました。しかし実際の正体は、フクロウの仲間である「コノハズク」です。夜行性のコノハズクが暗闇の森で鳴く一方、昼行性で姿が目立つブッポウソウが同じ森に生息していたため、姿と鳴き声が取り違えられていました。\n* **具体的な数字や比較：**\n  * **コノハズク（声の仏法僧）：** 体長約20cm前後で、日本に生息するフクロウ類の中で最小クラス。愛知県の「県の鳥」に指定されています（1965年指定）。\n  * **ブッポウソウ（姿の仏法僧）：** 体長約30cm（ハトほどの大きさ）。背面が鮮やかな青緑色、くちばしと足が赤いカラフルな鳥です。\n* **意外な点：**\n  美しい姿からありがたい鳴き声の主と思われていた本家「ブッポウソウ」の本当の鳴き声は、「ゲッ、ゲッ、ゲッ」という濁ったダミ声です。\n* **歴史の裏話とメディアの活躍：**\n  長年の謎だったこの勘違いを決定づけたのは、愛知県新城市の鳳来寺山から行われたラジオの生中継でした。1935年（昭和10年）6月7日、日本放送協会（NHK）名古屋中央放送局が鳳来寺山から「ブッ・ポウ・ソウ」の鳴き声を全国へ生中継しました。その放送を東京・浅草で聴いていた傘店の店主が「うちで飼っている鳥（コノハズク）と同じ声だ」と気づき、鳥類学者の黒田長礼らが確認したことで、平安時代から1000年以上続いた歴史的勘違いに決着がつきました。\n* **出典・根拠：**\n  愛知県公式HP／新城市鳳来寺山自然科学博物館資料「ブッポウソウ」・「コノハズク」展示解説。\n\n---\n\n### テーマ2（西三河の農芸化学）：抹茶はなぜ「日光を遮る」と甘く濃い緑色になるのか？\n\n* **理由（植物生理・化学）：**\n  安城のお隣・西尾市などで有名な抹茶（原料：碾茶）は、収穫前の茶畑を黒い覆いで遮光する「覆下栽培（被覆栽培）」を行います。お茶の旨味・甘味成分であるアミノ酸「テアニン」は、根で作られて葉へ移動し、日光（紫外線）を浴びると渋み成分の「カテキン」へと化学変化します。日光を人工的に遮ることで光合成によるカテキンの生成を抑え、旨味成分テアニンを葉の中にたっぷりと保持させています。\n* **具体的な数字や比較：**\n  農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）の研究によると、覆下栽培された上質な抹茶は、日光を浴びて育つ一般的な煎茶や粉末茶に比べてテアニン含量が明確に高く、カテキン類の中でも渋味の強いエピガロカテキン（EGC）の含量が抑えられています。また、光が足りない環境下で植物が効率よく光を吸収しようとして葉緑素（クロロフィル）を大量に増やすため、茶葉の緑色が一段と濃く鮮やかになります。\n* **意外な点：**\n  野菜や果物は日光をいっぱい浴びた方が甘く栄養豊かに育つイメージがありますが、茶葉の旨味に関しては「日光に当てない」ほうが甘くまろやかになります。\n* **歴史の裏話：**\n  この栽培法は、室町時代から安土桃山時代にかけて京都・宇治で春先の遅霜（しも）から新芽を守るために藁（わら）をかぶせた偶然から、覆いをした茶葉が驚くほど甘く濃い緑になることが発見されたのが始まりとされています。\n* **出典・根拠：**\n  農研機構 果樹茶業研究部門「国産抹茶の価格と化学成分含有量の関係」研究成果情報（2018年）。\n\n---\n\n### テーマ3（身近な気象・化学）：「雨が降り始めるときのあの匂い」の正体は？\n\n* **理由（微生物・物理現象）：**\n  雨が降り始めた瞬間にふわりと漂う独特の土のような匂いには「ペトリコール（Petrichor）」という学名がついています。正体は、土の中に生息する「放線菌」という微生物が作り出す有機化合物「ゲオスミン」や、乾燥期に植物が分泌して土や岩の表面に蓄積した油分です。雨粒が地面の微細な隙間に激突すると、微小な泡（エアロゾル）が発生し、シャンパンの泡のように土中の匂い物質を包んで大気中に弾き飛ばすため、一気に鼻へ届きます。\n* **具体的な数字や比較：**\n  人間の鼻はゲオスミンに対して極めて敏感で、わずか「1兆分の5（5 ppt）」という超低濃度でも匂いを感知できます。これはサメが海水中の微量な血の匂いをかぎ分ける能力に匹敵する驚異的な感度です。\n* **意外な点：**\n  「雨の匂い」と言いますが、雨水そのものには匂いはなく、地面に眠っていた土壌細菌の成分が、雨粒の物理的な衝撃でエアロゾルスプレーのように空中へ散布されたものを嗅いでいます。\n* **歴史の裏話：**\n  「ペトリコール」という言葉は、1964年にオーストラリア連邦科学産業研究機構（CSIRO）の鉱物学者イザベル・ジョイ・ベアとリチャード・トーマスが科学誌『Nature』に発表した論文で名付けられました。ギリシャ語の「ペトラ（石）」と、ギリシャ神話で神々の血管を流れる霊液「イコール」を組み合わせた造語で、「石のエッセンス」という意味が込められています。\n* **出典・根拠：**\n  オーストラリア連邦科学産業研究機構（CSIRO）アーカイブ、マサチューセッツ工科大学（MIT）流体力学研究チーム論文（Nature Communications, 2015年）。\n\n---\n\n### テーマ4（昆虫の物理学）：アメンボが水に沈まないのは「軽さ」だけではない？\n\n* **理由（ナノ構造・表面張力）：**\n  アメンボが水面をすべるように移動できるのは、単に体が軽いからだけでなく、脚に備わった「特殊な微細構造」が水の表面張力を最大限に引き出しているためです。アメンボの脚の表面には、マイクロメートル単位の微細な毛が無数に密集しており、さらに毛の1本1本にナノメートル単位の細かい溝が刻まれています。この毛の間に空気の層を強力に抱え込むことで超撥水性を発揮し、水滴を弾いて水面に深い「くぼみ」を作り、水が元に戻ろうとする表面張力で体を浮き上がらせています。\n* **具体的な数字や比較：**\n  アメンボの体重は約35〜40ミリグラム程度（1円玉1枚＝1,000ミリグラムの約25〜30分の1）です。中国科学院などの物理学チームの研究によると、アメンボの脚1本あたりが生み出せる表面張力の支持力は、脚自身の受ける自重の15倍以上、全身では自重の100倍以上の重さに耐えられるほどの浮上能力を持っています。\n* **意外な点：**\n  どんなに上手に浮いているアメンボでも、水面に台所用洗剤などをほんの1滴たらすと、界面活性剤によって水の表面張力が急激に弱まり、水をはじくことができなくなって一瞬で水底へと沈んで溺れてしまいます。\n* **歴史の裏話：**\n  かつては「脚から油を出して浮いている」と単純に考えられていましたが、2004年に電子顕微鏡を使ったナノテクノロジーの観察によって、毛の幾何学的な微細構造こそが超撥水の主因であることが判明し、世界的科学誌『Nature』に掲載されました。この仕組みは現在、濡れない新素材や水上小型ロボットの開発に応用されています。\n* **出典・根拠：**\n  中国科学院・Nature誌掲載論文（Gao & Jiang, 2004 \"Water-repellent legs of water striders\"）、立命館大学理工学部マイクロ機械システム研究室資料。\n\n---\n\n### ラジオ用3択クイズ（テーマ1より）\n\n**【問題】**\n夜の森で「ブッ・ポウ・ソウ（仏・法・僧）」と鳴くありがたい鳥として、平安時代から愛されてきた鳥「ブッポウソウ」。しかし昭和初期のラジオ放送をきっかけに、実際にそう鳴いていたのは愛知県の県鳥でもあるフクロウの仲間「コノハズク」だったと判明しました。\nでは、青緑色の美しい姿をした本家「ブッポウソウ」は、実際にはどんな声で鳴くでしょうか？\n\n* **第1問：** 「ゲッ、ゲッ、ゲッ」と濁ったダミ声\n* **第2問：** 「チュン、チュン」と可愛らしい小鳥の声\n* **第3問：** 「ホー、ホー」と静かなフクロウの声\n\n**【正解】**\n**第1問：「ゲッ、ゲッ、ゲッ」と濁ったダミ声**\n\n**【解説トークのポイント】**\n姿がハトのように大きくてカラフルな本家ブッポウソウは、実は濁った声で「ゲッ、ゲッ」と鳴きます。昔の人は昼間に見かけるこの派手な鳥が、夜に鳴くありがたい声の主だと思い込んでしまったのですね。1935年に新城市の鳳来寺山から行われたラジオの生中継がきっかけで、浅草のリスナーの指摘から本当の鳴き声の主（コノハズク）が突き止められたという、ラジオの歴史にも深く関わるお話です。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E6%AD%B4%E5%8F%B2+%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91+%E6%97%A5%E6%9C%AC%E4%B8%89%E5%A4%A7+%E5%AE%89%E5%9F%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 歴史 きっかけ 日本三大 安城市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E7%BE%8E%E5%8D%97%E5%90%89+%E5%AE%89%E5%9F%8E%E9%AB%98%E7%AD%89%E5%A5%B3%E5%AD%A6%E6%A0%A1+%E5%AE%89%E5%9F%8E%E5%B8%82+%E6%AD%B4%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">新美南吉 安城高等女学校 安城市 歴史博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%92%8C%E6%B3%89%E7%94%BA+%E7%9F%B3%E5%B7%9D%E4%B8%88%E5%B1%B1+%E8%A9%A9%E4%BB%99%E5%A0%82+%E3%81%97%E3%81%97%E3%81%8A%E3%81%A9%E3%81%97+%E5%AE%89%E5%9F%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">和泉町 石川丈山 詩仙堂 ししおどし 安城市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B2%B9%E3%83%B6%E6%B7%B5+%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%94%AF%E4%B8%80%E3%81%AE%E5%A4%A9%E7%84%B6%E6%B9%96%E6%B2%BC+%E7%94%B1%E6%9D%A5+%E6%AD%B4%E5%8F%B2+%E7%9F%A2%E4%BD%9C%E5%B7%9D&client=app-vertex-grounding&safesearch=active\">油ヶ淵 愛知県唯一の天然湖沼 由来 歴史 矢作川</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A2%E3%83%A1%E3%83%B3%E3%83%9C+%E6%B0%B4%E3%81%AB%E6%B5%AE%E3%81%8F+%E8%A1%A8%E9%9D%A2%E5%BC%B5%E5%8A%9B+%E6%AF%9B+%E6%A7%8B%E9%80%A0&client=app-vertex-grounding&safesearch=active\">アメンボ 水に浮く 表面張力 毛 構造</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9B%A8%E3%81%AE%E5%8C%82%E3%81%84+%E3%83%9A%E3%83%88%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB+%E3%82%B2%E3%82%AA%E3%82%B9%E3%83%9F%E3%83%B3+%E6%94%BE%E7%B7%9A%E8%8F%8C&client=app-vertex-grounding&safesearch=active\">雨の匂い ペトリコール ゲオスミン 放線菌</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%B3%B3%E6%9D%A5%E5%AF%BA%E5%B1%B1+%E3%82%B3%E3%83%8E%E3%83%8F%E3%82%BA%E3%82%AF+%E3%83%96%E3%83%83%E3%83%9D%E3%82%A6%E3%82%BD%E3%82%A6+%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81&client=app-vertex-grounding&safesearch=active\">鳳来寺山 コノハズク ブッポウソウ ラジオ放送</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%8A%B9%E8%8C%B6+%E8%A6%86%E4%B8%8B%E6%A0%BD%E5%9F%B9+%E3%83%86%E3%82%A2%E3%83%8B%E3%83%B3+%E3%82%AB%E3%83%86%E3%82%AD%E3%83%B3+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">抹茶 覆下栽培 テアニン カテキン 科学</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDp7cRrkd6YQecFetW6PCUexNGk6zwtKhvjx5kQ7JaXuhj1vCXtI9S2Izcysz2JllEGF5SDaSTwK_8CalsY_uqQGUm4C2gj3AhHhOHfjNk4bE6KQ==",
-          "title": "e-hn.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7gA0OgZsaW58Z-bkl-lyW5Ifu3janDrkygWvk7E9AXfni7i_ADm1VLJmJ68Jh386HPcXah2SpyfhHT6ehKN2JHnIC-cO16JZsSL2qoiYimn5oLUXLfPKxkG6UoEHX",
+          "title": "oota8.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6ticIgrTlYv4G8Z0_A-PedYo3aazPiePzXeSOb_qU12bVxY_JPUanRo3qHtvawukhBd0lIVdBR-u_nzEqy6OyZGcqwXkX4hxHHTQNMI1PKU9UuPSWXtGd4JkvowTfC6pJefblUdlgmqlh1Yqkl04=",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzWCwlfoRM0G6wkP7cnyeTP3jMGvQrLU3d72AYFgsrLhErDkf74beH8MNHK1mfd41_0GgzEIWfi1zgaOdNcjU0aicOQXQjcMbW0Y-U63XgmX2PMaLFumz1BfBLI_Xcl_QKWB2ScfWNsbM=",
+          "title": "ameblo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNpw5xxJa3lmga82Qo3gNPYB-02VxtPhWaR0x3oCg6N-ATlkI5C9g9HyZFfFfwCUm_sVfSghFpc59KYIS9tWNv5nZp5c42kLvulYvlv6ke",
-          "title": "jozanen.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTn0leT2kBbuNou3M3_VjE2MWjn7mtEZymtkFKCFZF9MePd6UQxnu1o2YGY9BdACsOtkuliQa3bdJFbSM-ayyxhDCVrofmtA0pwvZdyfvhf__TBjTGhbSypxTIVw17Ss7rAwou-owXWKLOIt8=",
-          "title": "fc2.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnE2HTh3NPMHZQMFy5MFFskFpMsB_lSRGrM9u250mU7Z-fH358EmuKN5r9gzAiQvHDcY-mH6mBlINsJ6ZGQgqL8SpkFXH7yD8QP-t5FtpeBTCAMzjjaxcBFXp405bXXQRi7oUmFp8=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmz6LUbWj_5VJTnqEriOUZ1U1u89u43_zA08tbXpjKjIJI_wTNBBzXgf5aH1ib1r4BObob_XVX5RNz4vdhA-7xBbqbBOxXRjNKgV6VZJUb2FcXZV0XhSGWWuMJHQ==",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz0kxWS0fR9WMOCQEQWE9MSqz2nMItCqlngLmuZjSQOkKlUEpyZpau81SgonZK62AugyYeAEYOnrF-7n6thNLo3lBS5b4fj-nIyLsXvjfaL1sLL5RFPp8K0pv6x1uhfK_3XLA=",
-          "title": "plus1-one.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0TrwHsh3NnpGV-WcGKRdpOgfNOAhjVJpDfuvv-yRvSXquIgFamnH4D0qyMqsIhthv9Cq1AuElnm3XYW52UjzhUfLcFX4ryCLW2OA3k2m8J6TxTGERkS2rmHi7pGB2ZYPmyTWvOb9FNn3QmRyT12fLQ9SggEzDdrCmey22R62CzWmqPg==",
+          "title": "aichi-edu.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt22iXimi22Uejsddf4y7i-o6T1KO5k9L-VtuLWxicXkNtZG61FJO7wrmRiQKXCbU_s_PYWGqaSKqZKpLxkel-LMghE92SDuOcykXBoSXGrgCtRfhuGfdw4pzSLe2aUmlf_hOzHfmJz5UZ9BEmbwWFTMnr6QEzxgV2CGfUZsVvWg==",
-          "title": "city.anjo.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7H1MJqnIi1i9DeVSSX8u61_7XDiv0dMzjUMZdG4MwLZevEvFJY7iAVb45rYBhCeIkwmJ7KztsYq6nq-YrC4NyDeiVBNaLjdZXd41oWAgQvmPKKY1Ns6dDlhQc7NKeHTETJx0bc6c_gKWtrkR3CTN1GinA1OC1Z7vcXYzt36sgy7wyPMAD",
+          "title": "naro.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsnBffpaukUeOFAErNnrf_UpjVBT-Phb4Vl3-r6s-hjnDXtAkoEq_bpC386rDt2s2x14UXFEXpHY_eoA1F7mSBpiPBC1bExQVUreFVcKFJf6gxydNF3J7v",
-          "title": "aburagafuchi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyxuErcfPdrFscvtGFWM7pFgxSrEMo_tYVc5KsdIdLmTB6_OYIxyGGmFXNpYOyORN-wBTvHhBiyqpbgegXcowIrNqRxtsxjZrtzC_D9xWGKQCsSLHWnD1wFVixJplzY7HRfz0w7w=",
+          "title": "matcha-and-health-research.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdpvdMkUZ11Qxb9owJxKy9TwUcs5jx4DtJmrtpNzMKfI8-KUpX8RgMAzYdn2y--KIdkUOo-Aucj0rl2jsF32T03ygu-SYHc8FkpCQm2kcj2Qhn0_8bbXPEb9Ry",
-          "title": "nagoyadaiti.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTgaor3-nlk1p10Bnmi2OhyP0aidpZUHXH6s2-4H_mw1uaIAfWNbnJIryt_bil4g3c88MAyZG2qwB9o7rGVxhYpkwCEfJFxjzBb6laSxPIqxFKKHCRwbvmZ05vGwj_QNiKcEFO4pfgDHrKTlWjHccX8rr20gWESWKNS5PEEUAUGtbmKosloQz52HTe",
+          "title": "cuzenmatcha.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD_72XYkVAGD231dSsOlObNUSY5aZVKYGM0XjxRVLVNuKOv1IdTOAImnKQ3MfI9-TeNxuuxr7DFOTDE85x_Ao7MT4qwzxTSELqfp6ZmblakfhyjEiTMrh_xl5pF13QR4PHEWRDeGKGrT-1DgD38SA=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUV45NXrxbARwsqCDIjmxAu3jggj-n-d8oJtrmy45pHue9XknhX2DgntcpvpbTZXnyLcY7XwGK7F3usuUxsH0cJ3ED4AJmq8ZpTAoT5hw7e0jONbhA8lqFu0bhlBVJMvB5RHil4j4Nq4HpQZNLQzs=",
+          "title": "tsc-05.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDHBDd05ceCXpBH0nHQK3l_p4Oa3Ht9jVqPGVJnzSUbNLBSbq7b3evUc77e3sKqHKYuOaxPJ_fOMJTLiLvPCQaVzTkHEJpFLQpXXSMw8Jttmz_TXOkWAkJpbChfC2MSPAZB2mqh6ChXgxLIMZ1-2-9CvC2iBhGFxUPj2K913oca4fru2XBIK2kiVl1dn7wdTb_e378eekdgCyxHQ==",
+          "title": "fujinokuni-consortium.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsIFJ148CJgHiezL0juzXPbtmpJ01wTlT4Ue3kFvrht2ZE4dbc9aSJW6DbN24gn5xpzN_MWUbm3bCPn_BexBUesiLI-yuehWXyIyJeJlhX8lbBVQ2eNgihnUKQ195JVUfc_AtJKA==",
+          "title": "maff.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLG06ctT2B_W587W236Z42p6BbMJzTg0P6BZJXp28_qyDndb1nV0OPPTCggdeJXb0E8PH1ImdSkH2dneToTvByB7X-wgsf8sO64YL9dDzJrP4pCxzSG-78TOUodPlBl6PVCw==",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtNtQwiPczjdvPH2XGPo9WxtWEVhCIiY5pEzjdw7YvVYVWfLXDzaGN8RTjCRUK-h2nGuiKXrZkOvSxzLbou9Gfyn88DIjz4WCGx5FrlzvrkU4Y94-mWEg8YBDiYaAB",
+          "title": "weathernews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR8xi_o_ZSy8n8PmMXXZKcKTlUvtiN0zsfyelXBQ1GSVs7DveViF5qyMRrrjrlT4wZgCbs7VCK1ZsNixEOvZZPwmLxES8NWw9Z1Uykd-U7IBp9N9SYicBSKDWHAxzdLY2S8N7IphSPjnHBv_RjSC_FxA==",
+          "title": "haradaeigo.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY5AWGe7LkMbiudSu6PmEWsDg_p5GSpRA8BgscDXKLKsAdVtUmgK6PiWJxLO8uP0k2Pq4k5nK3kM4h9-RNfQx3cD7EdqNKP816UOepFI7fzTcNqUw7R-cR49BrAVKe7uNSzIL4CgbzREKpVTHzd3NKgzJuCKOG1LKGGtL1kbQ4-O6zh3tAs86VX6AtdjWlgTak1fS6lbzoKXgSoPvHmOBI7KxBPDWbI4oAAmEDi2A_8Ba8DHBEaESlEq-eOCzDFD7sKUmGbv3ghsz9-vv-nA==",
+          "title": "kanzai.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4oLCbkmeTMrAPJwvRoUjway7pDn2MW-440viPOQj07-r2kBj783EU54HA5QsN3mnBHjqQWQR0W7CHpRzDxZZbckrBerKoJn_nCW5BlCM6EGd4Yz3lTM0VfrarbghqpnnbcwmhZxPjfaJlvBG8Cifp8lWiOFrzKrtx-badxpMU",
+          "title": "marees.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZKri04wy-YMJzhtqVCn9WZuUdK70jabK7lirYf-S5wFF205DDEney5buVPHG8vqjeKp44ZQRpN5zZUoKcXMdr5o5vvNVDkXstBAVwaDJASpO9UQbpyHrYJSsRqc-jriAb9O1s6AghV1SEOc2URsb4FiibkRMhxxqf0173fCw6",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkgHsgJvX3JPWhscGQL1O6tfB8Npa3zqubV79oozDMLZYMVTt8VTkX9PLy-s-Rimtm3UJlGi6o_jXzy8H29tVFrat29PzdTgDXfkmCc17X5Or6TFeL2gMGHPyv8zbrHhMIjSkK-SQ6hgSw9JV7GZSpXfvPLGG_rqPAf-f1KA==",
-          "title": "lakes-japan.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8KJT4BaVP3pRdY1pTypeTNeSz1oHBs3qkUSllGDy9FgwY_PpgEsqMJ8NL41bv3V9Tgg97P3xFT1ioB1wXxfoyS1Hq6TGSEAwwTHn19WEOa9sxh_zUiwV194_i0WulLr5Z",
+          "title": "forbesjapan.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMgOZqyVh6kKu6EE7L2OtRf4UgIuozgqPOU7OX1PdLARsysBfq1QOca2nawxkMmamUUdY1X_2Ak0gUOgeH2ExVVydyV5lmWOmsZVFmf0jrYaORte04kzmE_r5lor8V",
-          "title": "chubu-geo.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrHXNfeOB3PGL36vDJaf2v4VAe8AplOpGq9tZ6pMtLPbMQb0IjnnDXrknHz3XALc5Lycm-r181RxcgEJPt8H43GJ-LftcUOpJu9uOJLA_HJuSUWR4VIJ0xpYFEirgcnS8Ejyzo",
+          "title": "jyamaguchi-lab.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmxSiNXdiWVbyf59QKYoa6L1RY6_bjvktMtcGpGg79BnZd56plOQPRig3ioOA3MCCiuX_GvAhEP2Qy0-LIIitgUHNqUTnSYZz_fdO1o9zhQ7cQ0sH3d8xo4jpWQsA6C0S9gjKXcR0oi55eK7aD-mBgJpcH5e91O0ePaUbgiXAzYIzUHdoSo-apntKYGGJYT8sQLT4pCOmP",
-          "title": "mlit.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv4kRliRoKvJH7SxTSxUdqvSK1wA11lpmG2Tp0hWgyzVp0uMtb6eDxDbWoItgFguag99l-SsixsISKODEoc9WMulaEm34r6kd5FCP2vAPBSXwLn4hPG514BGsFtgZasdCI47HsD-tGjtFNesvN",
+          "title": "ritsumei.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw4G1HfDcaDMdRr3FkZTFoOkky1gS6qJMKsAwal0iAMT05B2MIspDCYWFPsEWmWErjIC2G4d_92aFunMdamMElEUAMvN2BBVTEGecB-XS7mtKsbU38IrypoecDOzp_wz54WsF21q-zCy9JminXwy_5nGgZ5-H5eZ8M_fPbBWWx6ymErWg7",
-          "title": "oklab.ed.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9UNbgS1kvahSsHpyhoNNYBhpi4AAoUe9ab2s3Y4Dxo49zH01Gkhm5Z6FRZGcB1FW9tQBI9Aw94s44vvwftSPWBsQ8wBcn9LhMhwfPnd53-p_U0Ac8x9g_mpfBP5RmhhEIvzuoGQ9_cNp-sg==",
+          "title": "miyama.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPeb88ol-svtheGuDjKV_sPbqDCg8pq69guoPITB6r2n32-kzRr-fBk1Bgun-7i_YIFU_0nSKKLhlvgo-3QKh8yUJ-ge5Pz_Zb4Jk5ASsEo773XXUipnrSXrKzknt0Gl9g9o=",
-          "title": "suimonken.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf5x3PnOuznnKWGFGm3z9dQ2xnJv99Cvsnw9dgiORc-zOKF1B7CxqaT80Njdmk_rklwFoFhdX4w4OoJRhC851U2Ixe_n9zHNo9PDfJpNqCE01znrljQeY-ObVXGJyDoFjvp-Kl4jnZtyqKF27Dus1SMDybbEFZjTyLEVwxTmzI",
-          "title": "city.anjo.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoIs-CXk4q8NTPAqqFbfiJpnuU0mn-p6cIhrJP1hI84zm2H0ed6bE1-iRsraOy6VPRfRZPUKmi88Lrfni3IAAgd5NYTda9hrGC1ods7lzzM5s4Hdz675F8IHcswlVlL3akqrH9M6MjR7dKc3W7",
-          "title": "hatenablog.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGosC8Lt7uxhx7oYrbdTs-FIgYqGmsl29yq0FJEz5u6TfUdbO6SFCIHeYSIB-WPgFb3jfs-4Da7tKuJ9_wZudAEZ-B5vi8Qw7aNzieBf34v8p0tekN7IhcdpbhBGWGKtcsPRMd398WpzkM421_P",
-          "title": "aichi-c.ed.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRji17tNkKhrcVRySWJ6KcGgofwFnFvWgzHY4lRT100zAl3SiBusx95iGvsWa05O28Kqqg14038ZTyCFQ1oEEqqMY7nw2WgDkk1Hz9eaBULLTXidtFUmGyQojHNfz6D18kz0hySdo=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFkIYBtaQJPUotKfJsd4KM_vFyogynBIa_4EcrFYwfmEigvRDZlCe9-5aBsNqrTOMyzmrXtPtzJfMtAdktBFZ755JF6g6BofYU4DMGOXDUJyO6XBZab_DsMs=",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCVpMROsSpIu1GgpiAqkabpKQbB8_rxu1vxOwYq0Vg-e21CH52G6aveg9_zUzeqDuBiyzM14B_2lZ_uBrJzh4Fo5HTGI-vXFDG1RvlOQjl7fvfiLMfEyn-r3ALJxIqnCxc",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtiyXfc2oVgsyuR7kt5z1h6dL7aQM7ItL7uBwi1X7KGUKor6igtQtK_YX_jtP76r2q2zHjVUV8aieHIFSjGblZ7Wi-cx3xjs6PPGvhuWd8Dd0IsKkj2FSuKuk-rtU_3fBwazjdWquwYeLy2i3vaiRcl_8NHXrYPNKj97u3LmNE-xDM5iEhvLb9Urp1yPONY7DCCGXarnE=",
+          "title": "osaka-kyoiku.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6mchD9H0QLzV3X7zotPeC9iSaPWEw-9QKCLMuEzhDk4U0Dkp6b4Q0Dv7q4B1arVM_BVPPVKyYDbKB7gRpX8KpeL3pSC1oVFt6NzvTmO5HNPsLDC4fF6aOBf_S81qM2A==",
           "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENSuClGYVVBQVyTtvZix8icnqFpc3UpUVrklVCiLGfyENnyRpJ9l5gtYEKW0Doki7WXjkXCs4cRzUIRHcAmy_AYGfq-WcJu6b4x8fT5_MXV09QcqQv8DmPpQ==",
-          "title": "kikakubito.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpcBX834YjnZJTtzLnQqknI32EHtaWXH0HYC8_QfzaSb9A4hBm2Rmeq6UnvytcR7w47RE_ghzdG6qktJFOXRe8Op-pvJ3l9cEkSjGFwd556ZmhoMm9p1FRatUg",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMTFbw_2a2Dvghjl-Hs0_7YfDLcU6n4wBQJPavjGF-Ds158J2ub94YHm3RfJRHpImi8vvluPv6SCcNSs_Rd40eBdbxUid64lBs1FvMYpwQPLl5FE71G4xVpG6bAL9UOoAAag==",
-          "title": "sandai-japan.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZoXqRf2Yik-xj2A9UKJ-LXD-UhmMP0ubD7JlaRpd-VFXpuxkksTFw3RHxNG0_3Y33WevZOAl5WR74bF_TdK3Mz3-tEm2axM-mdy9Hd51uczWDBBMdk8PHW8hop2jObrnp9KckcSAhZnMcnebf4ed-I5HWNMzsKnw4pITipYfcXrSTuKib5cpvgkofWEckzWSoCNw=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPhWusLNRIqwWpyiNCLKqke-GlK3Og8IvC630e5vPd2ubpHrXC6OwVn21mQH4VmxnrDCpMLRkQyhNAr7_LQhUjyfvANUPwOCvT3eP9XutBH5MHiOm82ncO0g==",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2R8mRIiY39VpyMkf8plXb0JLqtbV9fDIUwmXsopzvGA_pVM6XymC-L5Jh-0ejuphf9nW8LDNrJqi4zoahLtkIcDuidL4ioIvwULULBlzla0YJPPCl7LDSqNNR3KIT4pZ18wVtp707-99X8rqHnqTS5pfHNdMPvQ6qfjyx",
-          "title": "yamauchi-man.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFolxA6QQDpCJXbQv8tm5geHGlC82JC3wovhwLkSyb-A75DTNUcOsQRaEVfC1xsnjytDNYFbDiy6SLfxpOj3zGkjw-sMJMbFRnaqM-IJmp-lx_1OXVaTp18fxi4ujiHNUSc07OvhQFNogxDyAsHKzTj0AAsU6WZW_z9W19bGIS_Ntf-vQ==",
-          "title": "homemate-research-tour.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlpKdftwZYQNXZcKeg2-s1p2mPiSZ9QxuL35_zNgLHv8h9V3CLZWIEe7S0fzWU4m45BXOi6lfzSnOuDozlNNFQ7qZGliBYOAQiWaKWDqq51yih9wdJf9_VsxassfvIP_N0U6p5DfraJYF83se_tos=",
-          "title": "nissho-apn.co.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 501,
-          "endIndex": 707,
-          "text": "実はこれを日本で最初に風流な庭の仕掛けとして取り入れたのが、安城市和泉町出身の江戸初期の文人・石川丈山（1583〜1672年）であると言われています"
+          "startIndex": 778,
+          "endIndex": 865,
+          "text": "しかし実際の正体は、フクロウの仲間である「コノハズク」です"
         },
         "groundingChunkIndices": [
           0,
-          1,
-          2
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 737,
-          "endIndex": 884,
-          "text": "もともと「鹿威し（ししおどし）」は、田畑を荒らす鹿や猪を音で威嚇して追い払うための素朴な農具でした"
+          "startIndex": 868,
+          "endIndex": 1066,
+          "text": "夜行性のコノハズクが暗闇の森で鳴く一方、昼行性で姿が目立つブッポウソウが同じ森に生息していたため、姿と鳴き声が取り違えられていました"
         },
         "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 887,
-          "endIndex": 1145,
-          "text": "石川丈山は京都の一乗寺に隠棲して山荘「詩仙堂（凹凸窠）」を造営した際、山裾から現れる野生動物を防ぐ実用と、静寂の中で響く余韻の美しさを兼ね備えた演出として庭園に採用しました"
-        },
-        "groundingChunkIndices": [
-          4,
-          3,
           0,
-          5
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1148,
-          "endIndex": 1238,
-          "text": "この丈山の趣向が、のちに全国の日本庭園へと広まっていきました"
+          "startIndex": 1111,
+          "endIndex": 1240,
+          "text": "**コノハズク（声の仏法僧）：** 体長約20cm前後で、日本に生息するフクロウ類の中で最小クラス"
         },
         "groundingChunkIndices": [
           1
@@ -288,282 +249,259 @@
       },
       {
         "segment": {
-          "startIndex": 1289,
-          "endIndex": 1516,
-          "text": "徳川家康の近習として仕えた武士だった丈山は、慶長20年（1615年）の大坂夏の陣において33歳の時、抜け駆け（一番乗り）をして軍令違反に問われ、武士を引退しました"
+          "startIndex": 1243,
+          "endIndex": 1316,
+          "text": "愛知県の「県の鳥」に指定されています（1965年指定）"
         },
         "groundingChunkIndices": [
+          0,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1519,
-          "endIndex": 1729,
-          "text": "その後、京都で儒学や書、茶道に親しみ、寛永18年（1641年）に59歳で詩仙堂を開くと、90歳で天寿を全うするまでの約30年間をそこで悠々自適に過ごしました"
+          "startIndex": 1324,
+          "endIndex": 1414,
+          "text": "**ブッポウソウ（姿の仏法僧）：** 体長約30cm（ハトほどの大きさ）"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1417,
+          "endIndex": 1501,
+          "text": "背面が鮮やかな青緑色、くちばしと足が赤いカラフルな鳥です"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1529,
+          "endIndex": 1718,
+          "text": "美しい姿からありがたい鳴き声の主と思われていた本家「ブッポウソウ」の本当の鳴き声は、「ゲッ、ゲッ、ゲッ」という濁ったダミ声です"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1773,
+          "endIndex": 1917,
+          "text": "長年の謎だったこの勘違いを決定づけたのは、愛知県新城市の鳳来寺山から行われたラジオの生中継でした"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1920,
+          "endIndex": 2102,
+          "text": "1935年（昭和10年）6月7日、日本放送協会（NHK）名古屋中央放送局が鳳来寺山から「ブッ・ポウ・ソウ」の鳴き声を全国へ生中継しました"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2105,
+          "endIndex": 2397,
+          "text": "その放送を東京・浅草で聴いていた傘店の店主が「うちで飼っている鳥（コノハズク）と同じ声だ」と気づき、鳥類学者の黒田長礼らが確認したことで、平安時代から1000年以上続いた歴史的勘違いに決着がつきました"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2428,
+          "endIndex": 2556,
+          "text": "愛知県公式HP／新城市鳳来寺山自然科学博物館資料「ブッポウソウ」・「コノハズク」展示解説"
+        },
+        "groundingChunkIndices": [
+          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2735,
+          "endIndex": 2912,
+          "text": "安城のお隣・西尾市などで有名な抹茶（原料：碾茶）は、収穫前の茶畑を黒い覆いで遮光する「覆下栽培（被覆栽培）」を行います"
         },
         "groundingChunkIndices": [
           4,
-          3,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1759,
-          "endIndex": 2033,
-          "text": "晩年の詩仙堂は多くの文人や客が訪れる名所となり、静寂を愛する丈山は承応元年（1652年）頃に故郷の三河国（和泉）へ帰りたいと願ったものの、幕府の厳しい浪人統制によって帰郷は叶いませんでした"
-        },
-        "groundingChunkIndices": [
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 2036,
-          "endIndex": 2249,
-          "text": "現在、生誕地の和泉町には丈山が手がけた京都の詩仙堂などを再現した「丈山苑」が整備されており、本場ゆずりのししおどしの音色を楽しむことができます"
-        },
-        "groundingChunkIndices": [
-          1,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2282,
-          "endIndex": 2318,
-          "text": "安城市「丈山苑」施設概要"
+          "startIndex": 2915,
+          "endIndex": 3122,
+          "text": "お茶の旨味・甘味成分であるアミノ酸「テアニン」は、根で作られて葉へ移動し、日光（紫外線）を浴びると渋み成分の「カテキン」へと化学変化します"
         },
         "groundingChunkIndices": [
           6,
-          2
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 2282,
-          "endIndex": 2402,
-          "text": "安城市「丈山苑」施設概要／愛知県観光コンベンション局「あいち歴史観光（丈山苑）」"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2565,
-          "endIndex": 2682,
-          "text": "安城市と碧南市の境に広がる「油ヶ淵」は、愛知県でたった一つしかない天然湖沼です"
+          "startIndex": 3125,
+          "endIndex": 3290,
+          "text": "日光を人工的に遮ることで光合成によるカテキンの生成を抑え、旨味成分テアニンを葉の中にたっぷりと保持させています"
         },
         "groundingChunkIndices": [
           7,
-          8,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3333,
+          "endIndex": 3703,
+          "text": "農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）の研究によると、覆下栽培された上質な抹茶は、日光を浴びて育つ一般的な煎茶や粉末茶に比べてテアニン含量が明確に高く、カテキン類の中でも渋味の強いエピガロカテキン（EGC）の含量が抑えられています"
+        },
+        "groundingChunkIndices": [
+          4,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3706,
+          "endIndex": 3916,
+          "text": "また、光が足りない環境下で植物が効率よく光を吸収しようとして葉緑素（クロロフィル）を大量に増やすため、茶葉の緑色が一段と濃く鮮やかになります"
+        },
+        "groundingChunkIndices": [
+          4,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3944,
+          "endIndex": 4157,
+          "text": "野菜や果物は日光をいっぱい浴びた方が甘く栄養豊かに育つイメージがありますが、茶葉の旨味に関しては「日光に当てない」ほうが甘くまろやかになります"
+        },
+        "groundingChunkIndices": [
+          7,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4528,
+          "endIndex": 4656,
+          "text": "農研機構 果樹茶業研究部門「国産抹茶の価格と化学成分含有量の関係」研究成果情報（2018年）"
+        },
+        "groundingChunkIndices": [
+          4,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 2685,
-          "endIndex": 2880,
-          "text": "しかし、その成り立ちをたどると、完全に自然の力だけでできたわけではなく、江戸時代初頭の大規模な河川改修がきっかけで誕生した湖でした"
+          "startIndex": 4826,
+          "endIndex": 4985,
+          "text": "雨が降り始めた瞬間にふわりと漂う独特の土のような匂いには「ペトリコール（Petrichor）」という学名がついています"
         },
         "groundingChunkIndices": [
-          7,
-          8,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2910,
-          "endIndex": 3021,
-          "text": "約400年前まで、この一帯は三河湾が入り込む「北浦」と呼ばれる海の入り江でした"
-        },
-        "groundingChunkIndices": [
-          7,
+          10,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 3024,
-          "endIndex": 3177,
-          "text": "慶長10年（1605年）、徳川家康の命により矢作川下流の水害を防ぐため新川が開削されました（現在の矢作川本流）"
+          "startIndex": 4988,
+          "endIndex": 5192,
+          "text": "正体は、土の中に生息する「放線菌」という微生物が作り出す有機化合物「ゲオスミン」や、乾燥期に植物が分泌して土や岩の表面に蓄積した油分です"
+        },
+        "groundingChunkIndices": [
+          12,
+          13,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5195,
+          "endIndex": 5426,
+          "text": "雨粒が地面の微細な隙間に激突すると、微小な泡（エアロゾル）が発生し、シャンパンの泡のように土中の匂い物質を包んで大気中に弾き飛ばすため、一気に鼻へ届きます"
         },
         "groundingChunkIndices": [
           12,
           11,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3180,
-          "endIndex": 3374,
-          "text": "すると、急勾配となった新川から上流の土砂が北浦の河口へ大量に流れ込み、米津から鷲塚の間が約10年で埋まって陸続きになってしまいました"
-        },
-        "groundingChunkIndices": [
-          7,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3377,
-          "endIndex": 3531,
-          "text": "その後、正保元年（1644年）に幕府が堤防を築いて海と遮断したことで、現在の湖沼「油ヶ淵」が姿を現したのです"
-        },
-        "groundingChunkIndices": [
-          7,
-          8,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3573,
-          "endIndex": 3715,
-          "text": "周囲長約6.3km、面積約0.64平方キロメートル（ナゴヤドーム約13個分）、平均水深約3mという浅い汽水湖です"
-        },
-        "groundingChunkIndices": [
-          7,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3718,
-          "endIndex": 3910,
-          "text": "満潮時には湖面が海面より低くなるため、海水の逆流や塩害を防ぐ特殊な水門（防潮水門や常時排水ゲート）で水位が緻密に管理されています"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3940,
-          "endIndex": 4030,
-          "text": "「油ヶ淵」という名前の由来には哀しくも心温まる伝説があります"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4033,
-          "endIndex": 4126,
-          "text": "昔、夜の海へ漁に出る息子の安全を祈り続ける貧しい母親がいました"
-        },
-        "groundingChunkIndices": [
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 4129,
-          "endIndex": 4426,
-          "text": "その祈りに応えるように、淵の主である龍が美しい娘に化けて村の油屋へ通い、買った油で岬の端に明かり（竜燈）を灯して舟を導いたという昔話から、この水辺が「油ヶ淵」と呼ばれるようになったと伝えられています"
+          "startIndex": 5469,
+          "endIndex": 5623,
+          "text": "人間の鼻はゲオスミンに対して極めて敏感で、わずか「1兆分の5（5 ppt）」という超低濃度でも匂いを感知できます"
         },
         "groundingChunkIndices": [
-          9,
-          14
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 4459,
-          "endIndex": 4519,
-          "text": "愛知県建設局「油ヶ淵の誕生と移り変わり」"
+          "startIndex": 5768,
+          "endIndex": 6020,
+          "text": "「雨の匂い」と言いますが、雨水そのものには匂いはなく、地面に眠っていた土壌細菌の成分が、雨粒の物理的な衝撃でエアロゾルスプレーのように空中へ散布されたものを嗅いでいます"
         },
         "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4459,
-          "endIndex": 4598,
-          "text": "愛知県建設局「油ヶ淵の誕生と移り変わり」／国土交通省 中部地方整備局「日本の川・矢作川の歴史」"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4770,
-          "endIndex": 4868,
-          "text": "教科書でおなじみの童話『ごんぎつね』の作者・新美南吉（1913〜1943年）"
-        },
-        "groundingChunkIndices": [
-          15,
+          12,
           16,
-          17
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 4871,
-          "endIndex": 5087,
-          "text": "生誕地の半田市が有名ですが、彼が大人になって定職に就き、最も精神的に安定して次々と傑作を生み出した“黄金期”は、実は安城で過ごした教員時代でした"
+          "startIndex": 6051,
+          "endIndex": 6321,
+          "text": "「ペトリコール」という言葉は、1964年にオーストラリア連邦科学産業研究機構（CSIRO）の鉱物学者イザベル・ジョイ・ベアとリチャード・トーマスが科学誌『Nature』に発表した論文で名付けられました"
         },
         "groundingChunkIndices": [
-          18,
-          15,
-          17
+          10,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5117,
-          "endIndex": 5372,
-          "text": "東京での極貧生活や結核の発病に苦しんでいた南吉は、昭和13年（1938年）4月、24歳のときに安城高等女学校（現在の愛知県立安城高等学校）へ英語や国語を担当する教師として赴任しました"
+          "startIndex": 6324,
+          "endIndex": 6546,
+          "text": "ギリシャ語の「ペトラ（石）」と、ギリシャ神話で神々の血管を流れる霊液「イコール」を組み合わせた造語で、「石のエッセンス」という意味が込められています"
         },
         "groundingChunkIndices": [
-          18,
-          15,
-          17
+          10,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5375,
-          "endIndex": 5486,
-          "text": "南吉は入学してきた第19回生のクラスを担任し、卒業までの4年間を受け持ちました"
+          "startIndex": 6577,
+          "endIndex": 6771,
+          "text": "オーストラリア連邦科学産業研究機構（CSIRO）アーカイブ、マサチューセッツ工科大学（MIT）流体力学研究チーム論文（Nature Communications, 2015年）"
         },
         "groundingChunkIndices": [
-          15
+          17,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5489,
-          "endIndex": 5636,
-          "text": "安定した職と温かい生徒たちに囲まれたことで創作意欲が爆発し、教員生活の傍ら数々の名作を執筆しました"
-        },
-        "groundingChunkIndices": [
-          18,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5681,
-          "endIndex": 5843,
-          "text": "わずか29歳7か月（享年30）という短い生涯の中で、安城で暮らした期間は昭和13年4月から昭和18年2月までの約5年間でした"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5846,
-          "endIndex": 6170,
-          "text": "この安城時代に『手袋を買いに』をはじめ、『おじいさんのランプ』『牛をつないだ椿の木』『花のき村と盗人たち』などが発表され、生前に刊行された唯一の単行本童話集『おじいさんのランプ』も安城の下宿先から世に送り出されました"
+          "startIndex": 6947,
+          "endIndex": 7169,
+          "text": "アメンボが水面をすべるように移動できるのは、単に体が軽いからだけでなく、脚に備わった「特殊な微細構造」が水の表面張力を最大限に引き出しているためです"
         },
         "groundingChunkIndices": [
           18,
@@ -573,9 +511,9 @@
       },
       {
         "segment": {
-          "startIndex": 6200,
-          "endIndex": 6413,
-          "text": "南吉の代表作の一つ『花のき村と盗人たち』に登場する「花のき村」は、安城高等女学校への通勤路近くにあった「安城市花ノ木町」がモデルとされています"
+          "startIndex": 7172,
+          "endIndex": 7375,
+          "text": "アメンボの脚の表面には、マイクロメートル単位の微細な毛が無数に密集しており、さらに毛の1本1本にナノメートル単位の細かい溝が刻まれています"
         },
         "groundingChunkIndices": [
           20
@@ -583,126 +521,20 @@
       },
       {
         "segment": {
-          "startIndex": 6416,
-          "endIndex": 6623,
-          "text": "また、教え子たちからは親しみを込めて「ナンキチ先生」と呼ばれ、英語の歌を教えたりスケッチを披露したりと、良き教育者としても慕われていました"
+          "startIndex": 7378,
+          "endIndex": 7609,
+          "text": "この毛の間に空気の層を強力に抱え込むことで超撥水性を発揮し、水滴を弾いて水面に深い「くぼみ」を作り、水が元に戻ろうとする表面張力で体を浮き上がらせています"
         },
         "groundingChunkIndices": [
-          18
+          19,
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 6656,
-          "endIndex": 6707,
-          "text": "安城市役所「新美南吉のまちづくり」"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6656,
-          "endIndex": 6773,
-          "text": "安城市役所「新美南吉のまちづくり」／愛知県立安城高等学校「新美南吉と安城高校」"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6939,
-          "endIndex": 7065,
-          "text": "全国的に「日本三大七夕まつり」の一つとして仙台・平塚と並び称されてきた安城七夕まつり"
-        },
-        "groundingChunkIndices": [
-          21,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7189,
-          "endIndex": 7252,
-          "text": "という新しい合言葉を掲げるようになりました"
-        },
-        "groundingChunkIndices": [
-          23,
-          24,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7282,
-          "endIndex": 7501,
-          "text": "終戦後の昭和29年（1954年）、安城駅南口の商店街振興と市制施行を記念して始まったこのまつりは、市民の手で竹飾りを作り上げる温かい市民祭として育ちました"
-        },
-        "groundingChunkIndices": [
-          21,
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7504,
-          "endIndex": 7750,
-          "text": "他都市との単純な規模比べにとどまるのではなく、「七夕本来の趣旨である“願いごと”を市民や来場者が託せる場として日本一を目指そう」という方針へ大きく舵を切ったためです"
-        },
-        "groundingChunkIndices": [
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7792,
-          "endIndex": 7920,
-          "text": "安城七夕まつりの竹飾りストリートは約1,000本に及び、飾りの連なる通りの長さは日本屈指です"
-        },
-        "groundingChunkIndices": [
-          23,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7923,
-          "endIndex": 8144,
-          "text": "さらに「願いごと日本一」を掲げた象徴的な出来事として、2013年には「1本の笹竹に吊るされた短冊の数」で13,809枚を達成し、ギネス世界記録に公式認定されました"
-        },
-        "groundingChunkIndices": [
-          22,
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8174,
-          "endIndex": 8273,
-          "text": "安城市には、全国でも珍しい「七夕神社（安城七夕神社）」が存在します"
-        },
-        "groundingChunkIndices": [
-          24,
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8276,
-          "endIndex": 8435,
-          "text": "まつり期間中はこの神社の境内から参道にかけて無数の笹飾りと短冊が連なり、幻想的な祈りの空間へと姿を変えます"
-        },
-        "groundingChunkIndices": [
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8468,
-          "endIndex": 8558,
-          "text": "安城七夕まつり協賛会公式ウェブサイト「安城七夕まつりの歴史」"
+          "startIndex": 7652,
+          "endIndex": 7773,
+          "text": "アメンボの体重は約35〜40ミリグラム程度（1円玉1枚＝1,000ミリグラムの約25〜30分の1）です"
         },
         "groundingChunkIndices": [
           21
@@ -710,95 +542,125 @@
       },
       {
         "segment": {
-          "startIndex": 8468,
-          "endIndex": 8621,
-          "text": "安城七夕まつり協賛会公式ウェブサイト「安城七夕まつりの歴史」、「『日本三大』から『願いごと日本一』へ」"
+          "startIndex": 8095,
+          "endIndex": 8381,
+          "text": "どんなに上手に浮いているアメンボでも、水面に台所用洗剤などをほんの1滴たらすと、界面活性剤によって水の表面張力が急激に弱まり、水をはじくことができなくなって一瞬で水底へと沈んで溺れてしまいます"
         },
         "groundingChunkIndices": [
-          24
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 8703,
-          "endIndex": 8859,
-          "text": "日本庭園の定番として、竹筒に水がたまると「カコーン」と石を叩いて音を響かせる仕掛け「ししおどし（添水）」"
+          "startIndex": 8412,
+          "endIndex": 8743,
+          "text": "かつては「脚から油を出して浮いている」と単純に考えられていましたが、2004年に電子顕微鏡を使ったナノテクノロジーの観察によって、毛の幾何学的な微細構造こそが超撥水の主因であることが判明し、世界的科学誌『Nature』に掲載されました"
         },
         "groundingChunkIndices": [
-          3
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 8862,
-          "endIndex": 9111,
-          "text": "もともとは田畑を荒らす動物を追い払う道具でしたが、これを「静かな庭を楽しむ風流な仕掛け」として日本で最初に庭園へ取り入れたのは、安城市和泉町生まれの偉人・石川丈山です"
+          "startIndex": 8746,
+          "endIndex": 8857,
+          "text": "この仕組みは現在、濡れない新素材や水上小型ロボットの開発に応用されています"
         },
         "groundingChunkIndices": [
-          3,
+          18,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8888,
+          "endIndex": 8991,
+          "text": "中国科学院・Nature誌掲載論文（Gao & Jiang, 2004 \"Water-repellent legs of water striders\"）"
+        },
+        "groundingChunkIndices": [
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8888,
+          "endIndex": 9066,
+          "text": "中国科学院・Nature誌掲載論文（Gao & Jiang, 2004 \"Water-repellent legs of water striders\"）、立命館大学理工学部マイクロ機械システム研究室資料"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9314,
+          "endIndex": 9512,
+          "text": "しかし昭和初期のラジオ放送をきっかけに、実際にそう鳴いていたのは愛知県の県鳥でもあるフクロウの仲間「コノハズク」だったと判明しました"
+        },
+        "groundingChunkIndices": [
           0,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 9642,
-          "endIndex": 9758,
-          "text": "**① 戦いの最中、味方を待たずに抜け駆けして敵陣に「一番乗り」してしまったから**"
+          "startIndex": 9516,
+          "endIndex": 9642,
+          "text": "では、青緑色の美しい姿をした本家「ブッポウソウ」は、実際にはどんな声で鳴くでしょうか"
         },
         "groundingChunkIndices": [
-          2
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 9779,
-          "endIndex": 9869,
-          "text": "石川丈山はもともと徳川家康のそば近くに仕えた屈強な武将でした"
+          "startIndex": 9649,
+          "endIndex": 9715,
+          "text": "**第1問：** 「ゲッ、ゲッ、ゲッ」と濁ったダミ声"
         },
         "groundingChunkIndices": [
-          3,
-          2
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 9872,
-          "endIndex": 10076,
-          "text": "しかし、慶長20年（1615年）の大坂夏の陣の際、手柄を立てたいあまり先頭を進む「一番乗り」の軍令違反を犯してしまい、蟄居（謹慎）を命じられます"
+          "startIndex": 9878,
+          "endIndex": 9943,
+          "text": "**第1問：「ゲッ、ゲッ、ゲッ」と濁ったダミ声**"
         },
         "groundingChunkIndices": [
-          2
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 10079,
-          "endIndex": 10235,
-          "text": "これを機に刀を捨てて学問や詩作の道へと進み、のちに京都・詩仙堂で「ししおどし」を愛でる大文人となりました"
+          "startIndex": 9986,
+          "endIndex": 10124,
+          "text": "姿がハトのように大きくてカラフルな本家ブッポウソウは、実は濁った声で「ゲッ、ゲッ」と鳴きます"
         },
         "groundingChunkIndices": [
-          3,
-          2
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 10238,
-          "endIndex": 10349,
-          "text": "和泉町の丈山苑では、そんな丈山が過ごした風雅な世界を今も身近に体感できます"
+          "startIndex": 10268,
+          "endIndex": 10530,
+          "text": "1935年に新城市の鳳来寺山から行われたラジオの生中継がきっかけで、浅草のリスナーの指摘から本当の鳴き声の主（コノハズク）が突き止められたという、ラジオの歴史にも深く関わるお話です"
         },
         "groundingChunkIndices": [
-          1,
-          2
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "安城七夕まつり 歴史 きっかけ 日本三大 安城市",
-      "新美南吉 安城高等女学校 安城市 歴史博物館",
-      "和泉町 石川丈山 詩仙堂 ししおどし 安城市",
-      "油ヶ淵 愛知県唯一の天然湖沼 由来 歴史 矢作川"
+      "アメンボ 水に浮く 表面張力 毛 構造",
+      "雨の匂い ペトリコール ゲオスミン 放線菌",
+      "鳳来寺山 コノハズク ブッポウソウ ラジオ放送",
+      "抹茶 覆下栽培 テアニン カテキン 科学"
     ]
   }
 }
