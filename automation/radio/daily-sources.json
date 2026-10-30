@@ -1,26 +1,26 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "科学・自然のなぜ",
-  "characters": 2158,
-  "estimated_minutes": 6.5,
+  "theme": "週末のお出かけ・楽しみ",
+  "characters": 2317,
+  "estimated_minutes": 7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "仏法僧と鳴く鳥の正体はフクロウの仲間コノハズクでしたが、美しい鳥ブッポウソウの本当の鳴き声はどれでしょうか。1番、ゲッゲッというダミ声。2番、美声のさえずり。3番、ギターの爆音ソロ。",
-    "answer": "正解は1番のゲッゲッというダミ声でした！平安時代から千年以上も姿と声が勘違いされとったなんて、うそでしょって驚いちゃうじゃんね！",
+    "question": "名古屋城の天守閣に輝く金シャチ。北側のオスと南側のメスがいますが、実はメスのほうが数字が大きい特徴があります。それはどれでしょうか。1番、体の高さ。2番、全体の重さ。3番、金のウロコの枚数。",
+    "answer": "正解は3番、金のウロコの枚数でした！オスは112枚ですがメスは126枚で14枚も多いんだに！よりきらびやかに見せる工夫なんだって。大人のオシャレじゃんね！",
     "source_ids": [
-      2,
-      5
+      8,
+      9
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7gA0OgZsaW58Z-bkl-lyW5Ifu3janDrkygWvk7E9AXfni7i_ADm1VLJmJ68Jh386HPcXah2SpyfhHT6ehKN2JHnIC-cO16JZsSL2qoiYimn5oLUXLfPKxkG6UoEHX",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0TrwHsh3NnpGV-WcGKRdpOgfNOAhjVJpDfuvv-yRvSXquIgFamnH4D0qyMqsIhthv9Cq1AuElnm3XYW52UjzhUfLcFX4ryCLW2OA3k2m8J6TxTGERkS2rmHi7pGB2ZYPmyTWvOb9FNn3QmRyT12fLQ9SggEzDdrCmey22R62CzWmqPg=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGASE-0kJt8L9V5IqeDFoVpRFR_UbCGgJg94anJUMPZHKvWcfVVrJnEsfXDFPK0avA5xU9EaCaHcBfkLetqgGZvRQvEYDMUExHWrRcwsJl2zAd1ESoUIWnS7H9wPHlj6_t36yql602qdu3x",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoJIGgQCJiRifUsJWyoTbuEUQFWoToQ6W-S0u8xKlcKE757d5NyWrjVUUqVljJEbJVN_BxuaD2sqdbpWNr3Ry2D2QprOB924e6qDlteLFWAifWX0T2RidolSrnGVCbV98="
     ]
   },
   "izumi": {
-    "text": "さて、ここからは「みおんの和泉ディープ」！和泉町ゆかりの石川丈山さんといえば、徳川家康に仕えたガチガチの武士だったのに、大坂夏の陣の軍令違反で武士をスッパリ辞めちゃった人じゃんね。その後どうしたかというと、お母さん孝行のために広島で13年過ごしたあと、京都の一乗寺に山荘「凹凸窠」、のちの詩仙堂を建てたのがなんと59歳！そこから90歳で亡くなるまでのおよそ30年間、何をしとったか知っとる？なんと、漢詩を作って、書を書いて、庭を造って、お茶を飲むという、超マイペースで優雅すぎる隠居ライフを満喫しとったんだわ！現代で言ったら、早期退職して田舎にこだわりのおしゃれカフェ付き平屋を建てて、毎日DIYと趣味に没頭しとる感じだよね。しかも中国の詩人36人を三十六詩仙として選んで狩野探幽に絵を描かせ、自分で隷書の漢詩を書いちゃうプロデュース力！さらに江戸時代の文献「煎茶綺言」では「煎茶の祖」の一人に数えられとるんだに。武士の出世レースから降りて、自分の好きな庭とお茶を極めて90歳まで長生きするなんて、人生の楽しみ方を知り尽くしとるよね。のんびり生きる達人が和泉生まれだなんて、なんだか誇らしくて自慢したくなっちゃうじゃんね！",
+    "text": "安城市和泉町が生んだスーパースター、石川丈山のエピソードを紹介するコーナーです！本名は石川重之さんで、丈山は号なんだよね。石川家は代々徳川家に仕えた譜代の武士の家柄で、天正11年、1583年に三河国碧海郡泉郷、今の和泉町で生まれました。生誕地は今、丈山苑として整備されとるじゃんね。丈山は幼いころから気丈な性格で武芸の修行に励んだと伝えられとるんだけど、なんと16歳でお父さんを亡くしてしまうんです。ものすごい試練じゃん！ところがここからが驚きの展開で、16歳で徳川家康の近侍として仕えることになります。家康からの信頼は厚かったと伝えられとるんだけど、天下人のすぐそばでお世話係をするなんて、今で言えば高校生が超巨大企業のトップの専属秘書を任されるようなものだら！プレッシャーで胃が痛くなりそうだけど、しっかり信頼を勝ち取っとるのがすごすぎます。そして18歳になったとき、あの関ヶ原の戦いに従軍することになるんだよね。18歳で天下分け目の大合戦に出陣だなんて度胸がありすぎるというか、若きエリート武士のスタートダッシュが華々しすぎるじゃんね！和泉町からこんなすごい若者が飛び出して天下の現場に立っとったなんて、地元の歴史としてめちゃくちゃ自慢したくなるよね！",
     "source_ids": [
       1
     ],
@@ -28,14 +28,14 @@
       "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "jozan-sencha",
-      "hook": "煎茶の祖のひとり。90歳まで生きた、のんびり庭とお茶の後半生"
+      "id": "jozan-ieyasu",
+      "hook": "16歳で家康の近くに仕え、18歳で関ヶ原。和泉町出身の若者のスタート"
     }
   },
   "local": {
-    "text": "安城市民ギャラリーで今日10月29日から31日まで、「白鳥とコウモリ」安城特別展が開かれとるよ！お近くの方はふらっと覗いてみてりん！",
+    "text": "今日10月30日と明日31日の2日間にわたって、安城市内で「”白鳥とコウモリ”安城特別展」が開催されとるよ！金曜日と土曜日のお出かけにぴったりの催しじゃんね。秋の週末、どこに行こうか迷っとる人は、ぜひ予定表に書き込んで足を運んでみてりん！",
     "source_ids": [
-      25
+      24
     ],
     "source_urls": [
       "https://www.city.anjo.aichi.jp/event/hakuchou.html"
@@ -43,183 +43,179 @@
   },
   "segments": [
     {
-      "topic": "抹茶は日光を遮るとなぜ甘く濃い緑色になるのか？",
-      "text": "お茶の話が出たついでに、西尾の抹茶でもおなじみの緑茶の不思議に迫ってみりん！野菜でも果物でも、お日様の光を浴びれば浴びるほど甘くて元気に育つってイメージがあるじゃん？ところが抹茶の原料になるお茶の葉っぱは、収穫前に黒い覆いをかけて完全に日光を遮る「覆下栽培」をするんだわ。えっ、日光を遮ったら枯れちゃうじゃん、何しとるの！って思うよね。でもね、ここにとんでもない植物の科学が隠されとるんだに！実は、お茶の旨味や甘味の正体であるアミノ酸の「テアニン」は、根っこで作られて葉っぱに運ばれるんだけど、日光の紫外線を浴びると、なんと渋み成分の「カテキン」に化けちゃう性質があるの！つまり、お日様に当てれば当てるほど渋くなって、日光をシャットアウトすると甘味成分のテアニンがカテキンにならず、そのまま葉っぱの中にたっぷりと残るんだって！農研機構の研究でも、日光を遮った抹茶はテアニンが多くて渋いカテキンが抑えられとることが確かめられとるよ。しかも、光が足りない葉っぱは「なんとか光を吸い取るぞ！」と必死になって、葉緑素をドバドバ増やすから、あんなに目が覚めるような濃い緑色になるんだわ。植物の必死の努力のおかげで、人間は甘くて濃厚な抹茶スイーツを美味しくいただけとるわけだね。これ、お茶を飲むときに誰かにドヤ顔で話したくならん？",
+      "topic": "蒲郡の竹島が400メートルしか離れていないのに天然記念物な理由",
+      "text": "週末のドライブで三河湾方面へ行く人も多いじゃんね。蒲郡にある竹島って、行ったことある？長さ387メートルの竹島橋を歩いて渡れる、あの身近な小島です。歩いて5分くらいでひょいっと行けちゃう観光地だけど、実は島全体が国の天然記念物に指定されとるんだよね！えっ、本土のすぐそこにある島が国レベルの宝物なの？ってびっくりせん？対岸からわずか約400メートルしか離れとらん島なんだに。周囲は約600メートル、面積も約1.9ヘクタールで標高も約22メートルの手のひらサイズじゃんね。それなのに国の天然記念物になっとる理由は、橋を渡った瞬間に植物の種類が対岸と全く違っとるからなんです！対岸の本土側はクロマツ林を中心とした普通の沿岸の景色なのに、竹島に足を踏み入れると、タブノキなどの常緑広葉樹が生い茂る暖帯林、照葉樹林が広がっとるの。なんとこの小さな島の中に、65科238種もの高等植物が自生しとって、林の地面に生えるキノクニスゲはここが自生の北限地なんだって！わずか約400メートルの橋を渡っただけで、南の島の原生林にワープしたみたいな別世界になるわけ。平安時代末期の1181年に八百富神社ができてから、島全体が神域とされて木を切ることが厳しく禁止されてきたからなんだよね。昔の人たちの信仰心が貴重な自然をタイムカプセルみたいに守ってくれたんだね。今度の週末、橋を渡るときは足元の植物に注目してみてりん！",
       "source_ids": [
-        6,
-        11
+        2,
+        3,
+        5
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7H1MJqnIi1i9DeVSSX8u61_7XDiv0dMzjUMZdG4MwLZevEvFJY7iAVb45rYBhCeIkwmJ7KztsYq6nq-YrC4NyDeiVBNaLjdZXd41oWAgQvmPKKY1Ns6dDlhQc7NKeHTETJx0bc6c_gKWtrkR3CTN1GinA1OC1Z7vcXYzt36sgy7wyPMAD",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsIFJ148CJgHiezL0juzXPbtmpJ01wTlT4Ue3kFvrht2ZE4dbc9aSJW6DbN24gn5xpzN_MWUbm3bCPn_BexBUesiLI-yuehWXyIyJeJlhX8lbBVQ2eNgihnUKQ195JVUfc_AtJKA=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnvKRav3xQHFqfHTwFzycy0rr6mnFNlkckp3aLZO4cR7urC5ogMsOlM3m5KP3sWVSb0nEA9fllQqDTUXz5nh5ka8EpDlGNcbHutfO_6_lP0w==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5iFNwLkTLqaXFRDmrVOolKrIszIIct2VfEwHI2Msl6gVgzks84ijx3q_2H_6jiejhyAKdkRvDOrTirXjOP71I_HIofib20VIxDUFsuGoYjjFSqsc0qg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwn09seNGrhnwiIQgFby-tpMUn4pYA0lQgq2mo1-VqBzeC8ymRzUhvlB2A3QGJ7h985q7IP5TQtuOR001gWHivMjaBl_UqV54-GO15DVoTOPtlFni0qRwwPxQr5cNvnR-cSZMSQZhk6plkdZl3CDlogw=="
       ]
     },
     {
-      "topic": "雨が降り始めるときのあの独特な匂いの正体",
-      "text": "そういえば、お天気が崩れるときに「あ、なんか雨が降りそうな匂いがする！」って気づいたことない？空から降ってくる雨水自体はただの水だから無臭なのに、一体どこからあの独特の土っぽい匂いが湧いて出とるのか、不思議だと思わん？実はあの匂い、1964年に科学者が「ペトリコール」ってちゃんとした名前をつけとるんだわ。ギリシャ語で「石のエッセンス」って意味らしいんだけど、かっこよすぎだら！でもね、その正体は石どころか、土の中に住んどる「放線菌」っていう目に見えない微生物が作る「ゲオスミン」という物質なんだに。土の中でじっと眠っとったこの匂い成分が、上から雨粒がバシャーンと地面に激突した瞬間、まるでシャンパンの泡みたいにミクロの空気の泡になって、大気中にパーンと弾き飛ばされるんだって！要するに、雨粒が土の匂いスプレーのボタンを一斉に押しとるようなものだわ。しかも人間の鼻ってゲオスミンに対して異常に敏感で、なんと1兆分の5という超スーパー薄い濃度でも嗅ぎ分けられるらしいの！サメが海の中で血の匂いをかぎつけるレベルの超能力を、私たちみんなが鼻に持っとるんだよ。雨の匂いをかいで「もうすぐ降るぞ」ってわかるのは、実は土の微生物と私たちのスーパー嗅覚の科学反応だったなんて、ちょっと人に教えたくなるじゃんね！",
+      "topic": "鳥居があるのに実はお寺？豊川稲荷で拍手をしてはいけない秘密",
+      "text": "ドライブといえば、東へ向かって豊川方面においなりさんを食べに行くのも楽しいよね。日本三大稲荷の豊川稲荷といえば商売繁盛で有名だけど、表参道に立派な鳥居がどーんと構えられとるじゃん？でもね、鳥居があるから神社だと思ってパンパン手を打ってお参りしとる人、いませんか？実は豊川稲荷って神社じゃなくて曹洞宗のお寺なんだよね！ええっ、鳥居をくぐったのに寺院なの！？って叫びたくなっちゃうじゃんね。正式なお名前は妙厳寺という、室町時代の1441年にできた歴史あるお寺なんです。本尊は千手観音で、お稲荷さんとして親しまれとるのは、お寺を守る神様として祀られた豊川吒枳尼眞天という仏教の善神なんだって。白い狐にまたがって稲穂をかついどる姿から豊川稲荷と呼ばれるようになったらしいよ。鳥居があるのは昔の神仏習合の文化がそのまま残っとるからで、よく見ると鳥居にお寺のマークの卍が刻まれとるんだわ。境内は約3万坪以上もあって東京ドーム約2.2倍の広さだし、霊狐塚には1000体以上の狐の石像が並んで圧巻だに！だからお参りするときは、神社みたいに手を打つんじゃなくて、音を立てずに静かに合掌するのが正しいお作法なんだって。みおん、手がないから合掌のポーズをエアでやっちゃうんだけどね！週末にお参りに行くときは、隣の人が手を叩こうとしたら、こっそり教えてあげりん！",
       "source_ids": [
-        13,
+        11,
         14,
-        18
+        15
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtNtQwiPczjdvPH2XGPo9WxtWEVhCIiY5pEzjdw7YvVYVWfLXDzaGN8RTjCRUK-h2nGuiKXrZkOvSxzLbou9Gfyn88DIjz4WCGx5FrlzvrkU4Y94-mWEg8YBDiYaAB",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR8xi_o_ZSy8n8PmMXXZKcKTlUvtiN0zsfyelXBQ1GSVs7DveViF5qyMRrrjrlT4wZgCbs7VCK1ZsNixEOvZZPwmLxES8NWw9Z1Uykd-U7IBp9N9SYicBSKDWHAxzdLY2S8N7IphSPjnHBv_RjSC_FxA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8KJT4BaVP3pRdY1pTypeTNeSz1oHBs3qkUSllGDy9FgwY_PpgEsqMJ8NL41bv3V9Tgg97P3xFT1ioB1wXxfoyS1Hq6TGSEAwwTHn19WEOa9sxh_zUiwV194_i0WulLr5Z"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwXIwuXvplWi-Cx4gXwLDVbh92-Aghs8lbWjkumcX1J0EGifgMd6K05L4sAGGRvJy0isV-jKsAFObG9xLMAmJuM309aIh_416psoh45N1nfe-wSOBm8s-bCJjAcGs4sifdFBM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdfuB2v0XkkWzYrbHAnwcNg9AWeGz4VokG0zwaV76fYnImNyX3TT_no7EdrmrfJg2W2_0zNDwORdFsJNLwqw-gINC_3CA66S5BBOs0eyEcmpxf73A89XQ6Qv84qL9xHwf7",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmKskMHwWw1ubeN2-xACLn94RWUMU3rPI1rkiGetI08VT2L20Nd1XJVxQCRXfCoHhvPzYPGfDKV4eA4_-wyT9YWjGMPMX5y0RU_LwS5kkeOhwi-O3268S5af1ZU6b7byZf0OjP2Q=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ向けに、リスナーが家族や友人に話したくなる「科学・自然のなぜ」をテーマにした調査メモを作成しました。地元・愛知県および隣接する西三河地域にゆかりのある話題を2件、身近な自然現象に関する話題を2件選定しています。\n\n---\n\n### テーマ1（愛知の自然・歴史）：夜の森で「ブッ・ポウ・ソウ」と鳴く鳥の正体は、別の鳥だった？\n\n* **理由（科学・生態）：**\n  森の中で夜間に「ブッ・ポウ・ソウ（仏・法・僧）」と三宝の名を唱えるように美しく鳴く声の主は、長年「ブッポウソウ」という美しい青緑色の鳥だと信じられていました。しかし実際の正体は、フクロウの仲間である「コノハズク」です。夜行性のコノハズクが暗闇の森で鳴く一方、昼行性で姿が目立つブッポウソウが同じ森に生息していたため、姿と鳴き声が取り違えられていました。\n* **具体的な数字や比較：**\n  * **コノハズク（声の仏法僧）：** 体長約20cm前後で、日本に生息するフクロウ類の中で最小クラス。愛知県の「県の鳥」に指定されています（1965年指定）。\n  * **ブッポウソウ（姿の仏法僧）：** 体長約30cm（ハトほどの大きさ）。背面が鮮やかな青緑色、くちばしと足が赤いカラフルな鳥です。\n* **意外な点：**\n  美しい姿からありがたい鳴き声の主と思われていた本家「ブッポウソウ」の本当の鳴き声は、「ゲッ、ゲッ、ゲッ」という濁ったダミ声です。\n* **歴史の裏話とメディアの活躍：**\n  長年の謎だったこの勘違いを決定づけたのは、愛知県新城市の鳳来寺山から行われたラジオの生中継でした。1935年（昭和10年）6月7日、日本放送協会（NHK）名古屋中央放送局が鳳来寺山から「ブッ・ポウ・ソウ」の鳴き声を全国へ生中継しました。その放送を東京・浅草で聴いていた傘店の店主が「うちで飼っている鳥（コノハズク）と同じ声だ」と気づき、鳥類学者の黒田長礼らが確認したことで、平安時代から1000年以上続いた歴史的勘違いに決着がつきました。\n* **出典・根拠：**\n  愛知県公式HP／新城市鳳来寺山自然科学博物館資料「ブッポウソウ」・「コノハズク」展示解説。\n\n---\n\n### テーマ2（西三河の農芸化学）：抹茶はなぜ「日光を遮る」と甘く濃い緑色になるのか？\n\n* **理由（植物生理・化学）：**\n  安城のお隣・西尾市などで有名な抹茶（原料：碾茶）は、収穫前の茶畑を黒い覆いで遮光する「覆下栽培（被覆栽培）」を行います。お茶の旨味・甘味成分であるアミノ酸「テアニン」は、根で作られて葉へ移動し、日光（紫外線）を浴びると渋み成分の「カテキン」へと化学変化します。日光を人工的に遮ることで光合成によるカテキンの生成を抑え、旨味成分テアニンを葉の中にたっぷりと保持させています。\n* **具体的な数字や比較：**\n  農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）の研究によると、覆下栽培された上質な抹茶は、日光を浴びて育つ一般的な煎茶や粉末茶に比べてテアニン含量が明確に高く、カテキン類の中でも渋味の強いエピガロカテキン（EGC）の含量が抑えられています。また、光が足りない環境下で植物が効率よく光を吸収しようとして葉緑素（クロロフィル）を大量に増やすため、茶葉の緑色が一段と濃く鮮やかになります。\n* **意外な点：**\n  野菜や果物は日光をいっぱい浴びた方が甘く栄養豊かに育つイメージがありますが、茶葉の旨味に関しては「日光に当てない」ほうが甘くまろやかになります。\n* **歴史の裏話：**\n  この栽培法は、室町時代から安土桃山時代にかけて京都・宇治で春先の遅霜（しも）から新芽を守るために藁（わら）をかぶせた偶然から、覆いをした茶葉が驚くほど甘く濃い緑になることが発見されたのが始まりとされています。\n* **出典・根拠：**\n  農研機構 果樹茶業研究部門「国産抹茶の価格と化学成分含有量の関係」研究成果情報（2018年）。\n\n---\n\n### テーマ3（身近な気象・化学）：「雨が降り始めるときのあの匂い」の正体は？\n\n* **理由（微生物・物理現象）：**\n  雨が降り始めた瞬間にふわりと漂う独特の土のような匂いには「ペトリコール（Petrichor）」という学名がついています。正体は、土の中に生息する「放線菌」という微生物が作り出す有機化合物「ゲオスミン」や、乾燥期に植物が分泌して土や岩の表面に蓄積した油分です。雨粒が地面の微細な隙間に激突すると、微小な泡（エアロゾル）が発生し、シャンパンの泡のように土中の匂い物質を包んで大気中に弾き飛ばすため、一気に鼻へ届きます。\n* **具体的な数字や比較：**\n  人間の鼻はゲオスミンに対して極めて敏感で、わずか「1兆分の5（5 ppt）」という超低濃度でも匂いを感知できます。これはサメが海水中の微量な血の匂いをかぎ分ける能力に匹敵する驚異的な感度です。\n* **意外な点：**\n  「雨の匂い」と言いますが、雨水そのものには匂いはなく、地面に眠っていた土壌細菌の成分が、雨粒の物理的な衝撃でエアロゾルスプレーのように空中へ散布されたものを嗅いでいます。\n* **歴史の裏話：**\n  「ペトリコール」という言葉は、1964年にオーストラリア連邦科学産業研究機構（CSIRO）の鉱物学者イザベル・ジョイ・ベアとリチャード・トーマスが科学誌『Nature』に発表した論文で名付けられました。ギリシャ語の「ペトラ（石）」と、ギリシャ神話で神々の血管を流れる霊液「イコール」を組み合わせた造語で、「石のエッセンス」という意味が込められています。\n* **出典・根拠：**\n  オーストラリア連邦科学産業研究機構（CSIRO）アーカイブ、マサチューセッツ工科大学（MIT）流体力学研究チーム論文（Nature Communications, 2015年）。\n\n---\n\n### テーマ4（昆虫の物理学）：アメンボが水に沈まないのは「軽さ」だけではない？\n\n* **理由（ナノ構造・表面張力）：**\n  アメンボが水面をすべるように移動できるのは、単に体が軽いからだけでなく、脚に備わった「特殊な微細構造」が水の表面張力を最大限に引き出しているためです。アメンボの脚の表面には、マイクロメートル単位の微細な毛が無数に密集しており、さらに毛の1本1本にナノメートル単位の細かい溝が刻まれています。この毛の間に空気の層を強力に抱え込むことで超撥水性を発揮し、水滴を弾いて水面に深い「くぼみ」を作り、水が元に戻ろうとする表面張力で体を浮き上がらせています。\n* **具体的な数字や比較：**\n  アメンボの体重は約35〜40ミリグラム程度（1円玉1枚＝1,000ミリグラムの約25〜30分の1）です。中国科学院などの物理学チームの研究によると、アメンボの脚1本あたりが生み出せる表面張力の支持力は、脚自身の受ける自重の15倍以上、全身では自重の100倍以上の重さに耐えられるほどの浮上能力を持っています。\n* **意外な点：**\n  どんなに上手に浮いているアメンボでも、水面に台所用洗剤などをほんの1滴たらすと、界面活性剤によって水の表面張力が急激に弱まり、水をはじくことができなくなって一瞬で水底へと沈んで溺れてしまいます。\n* **歴史の裏話：**\n  かつては「脚から油を出して浮いている」と単純に考えられていましたが、2004年に電子顕微鏡を使ったナノテクノロジーの観察によって、毛の幾何学的な微細構造こそが超撥水の主因であることが判明し、世界的科学誌『Nature』に掲載されました。この仕組みは現在、濡れない新素材や水上小型ロボットの開発に応用されています。\n* **出典・根拠：**\n  中国科学院・Nature誌掲載論文（Gao & Jiang, 2004 \"Water-repellent legs of water striders\"）、立命館大学理工学部マイクロ機械システム研究室資料。\n\n---\n\n### ラジオ用3択クイズ（テーマ1より）\n\n**【問題】**\n夜の森で「ブッ・ポウ・ソウ（仏・法・僧）」と鳴くありがたい鳥として、平安時代から愛されてきた鳥「ブッポウソウ」。しかし昭和初期のラジオ放送をきっかけに、実際にそう鳴いていたのは愛知県の県鳥でもあるフクロウの仲間「コノハズク」だったと判明しました。\nでは、青緑色の美しい姿をした本家「ブッポウソウ」は、実際にはどんな声で鳴くでしょうか？\n\n* **第1問：** 「ゲッ、ゲッ、ゲッ」と濁ったダミ声\n* **第2問：** 「チュン、チュン」と可愛らしい小鳥の声\n* **第3問：** 「ホー、ホー」と静かなフクロウの声\n\n**【正解】**\n**第1問：「ゲッ、ゲッ、ゲッ」と濁ったダミ声**\n\n**【解説トークのポイント】**\n姿がハトのように大きくてカラフルな本家ブッポウソウは、実は濁った声で「ゲッ、ゲッ」と鳴きます。昔の人は昼間に見かけるこの派手な鳥が、夜に鳴くありがたい声の主だと思い込んでしまったのですね。1935年に新城市の鳳来寺山から行われたラジオの生中継がきっかけで、浅草のリスナーの指摘から本当の鳴き声の主（コノハズク）が突き止められたという、ラジオの歴史にも深く関わるお話です。",
+  "research": "愛知県安城市和泉町周辺にお住まいのリスナーに向けた、秋の「週末のお出かけ・楽しみ」をテーマにした調査メモです。安城市から車や電車で気軽に行ける愛知県内の定番お出かけスポットから、家族に話したくなる「へえ、そうだったのか」という疑問を4件まとめました。\n\n---\n\n### 調査メモ1：【蒲郡市・竹島】本土からわずか400mなのに、なぜ島全体が「国の天然記念物」なのか？\n\n* **疑問の背景**  \n  安城からもドライブで人気の三河湾のシンボル・竹島。長さ387mの竹島橋を歩いて簡単に渡れる小島ですが、島全体（八百富神社社叢）が昭和5年（1930年）に国の天然記念物に指定されています。なぜこれほど陸地に近い島が、国レベルの指定を受けているのでしょうか。\n* **理由**  \n  対岸の本土側がクロマツ林を中心とした一般的な沿岸植物であるのに対し、竹島はタブノキなどの常緑広葉樹が密生する暖帯林（照葉樹林）が広がり、植生体系（植物相・フロラ）が対岸と全く異なっているためです。「陸地に極めて近い島でありながら、本土と林相が著しく異なる珍しい環境」であることが学術的に極めて高い価値を持つと認められました。\n* **具体的な数字と植物の比較**  \n  対岸からの距離はわずか**約400m**（竹島橋は387m）、島の面積は**約1.9ヘクタール**、周囲約600m、標高約22mという手のひらサイズの島です。この小さな島の中に、なんと**65科238種**もの高等植物の自生が確認されています。林床に自生する「キノクニスゲ」は、竹島が日本における自生の北限地とされています。\n* **意外な点**  \n  歩いて5分ほどで渡れる距離なのに、橋を渡った瞬間、まるで遠く南の島の原生林にワープしたかのような植生の違いが広がっています。\n* **ちょっとした歴史の裏話**  \n  これほど手つかずの自然が残ったのは、平安時代末期（1181年）に藤原俊成が琵琶湖の竹生島から弁財天を勧請して八百富神社を創建して以来、島全体が神域とされ、長年にわたって一般の立ち入りや樹木の伐採が厳しく禁じられてきたからです。信仰が三河湾の貴重な照葉樹原生林をタイムカプセルのように現代へ守り伝えました。\n* **出典・根拠**  \n  * 八百富神社公式ウェブサイト「竹島の自然環境について」\n  * 蒲郡市博物館「蒲郡の名木50選 31 八百富神社社叢」（文部省告示第198号の解説）\n  * 蒲郡市観光協会公式サイト「がまごおり、ナビ」竹島スポット解説\n\n---\n\n### 調査メモ2：【名古屋城】天守の金シャチ、実は「メス」のほうが勝っている部分とは？\n\n* **疑問の背景**  \n  名古屋城の天守閣に鎮座するシンボル「金の鯱（金鯱）」。屋根の北側と南側に一対置かれており、北側が雄（オス）、南側が雌（メス）と決められています。雄のほうが体が大きいのですが、実は1箇所だけ「雌のほうが勝っている」意外な特徴があります。\n* **理由**  \n  体を覆っている**「金のウロコの枚数」は、雌のほうが多い**設計になっています。遠くから見上げたときに、雌の姿がよりきらびやかで華やかに見えるよう工夫されたためです。\n* **具体的な数字とオスメスの比較（現在の2代目金鯱）**  \n  * **総高**：北鯱（雄）**2.621m** ／ 南鯱（雌）**2.579m**（雄のほうが約4cm高い）\n  * **重量**：北鯱（雄）**1,272kg** ／ 南鯱（雌）**1,215kg**（雄のほうが重い）\n  * **金量（18K）**：北鯱（雄）**44.69kg** ／ 南鯱（雌）**43.39kg**\n  * **うろこの枚数**：北鯱（雄）**112枚** ／ 南鯱（雌）**126枚**（**雌のほうが14枚も多い！**）\n* **意外な点**  \n  大きさや体重、使われている金の総重量はすべて雄が上回っているのに、ウロコの枚数だけは雌のほうが細かくびっしりと貼られています。\n* **ちょっとした歴史の裏話**  \n  江戸時代、尾張藩は財政難に陥るたびに金鯱の鱗を剥がして溶かし、小判を作る「改鋳」を3回も行いました。そのため時代が下るにつれて金の純度が下がっていきました。さらに昭和12年（1937年）には、天守閣の調査用の足場を夜間に登った泥棒によって、雄の金鱗が58枚もペンチで剥ぎ取られて盗まれるという前代未聞の窃盗事件まで起きています。\n* **出典・根拠**  \n  * 名古屋城公式ウェブサイト「観覧ガイド 金鯱」（二代目金鯱の寸法・うろこ枚数・歴史解説）\n\n---\n\n### 調査メモ3：【豊川市・豊川稲荷】立派な鳥居があるのに、なぜ神社ではなく「曹洞宗のお寺」なのか？\n\n* **疑問の背景**  \n  商売繁盛の祈願や名物のいなり寿司で知られ、日本三大稲荷の一つに数えられる豊川稲荷。表参道には大きな鳥居が構えられていますが、実は神社ではなく曹洞宗の「お寺」です。なぜ鳥居があるのでしょうか。\n* **理由**  \n  正式名称は「圓福山 豊川閣 妙厳寺（みょうごんじ）」という室町時代（1441年）創建の寺院です。本尊は千手観音で、お稲荷さんとして親しまれているのは、寺の鎮守（守護神）として祀られている「豊川吒枳尼眞天（とよかわだきにしんてん）」という仏教の善神です。この神様が稲穂を担ぎ、白い狐に跨った姿をしていることから「豊川稲荷」と通称されるようになりました。鳥居があるのは、神仏が調和して信仰されていた江戸時代以前の「神仏習合」の文化をそのまま残しているためです。\n* **具体的な数字とスケール**  \n  創建は室町時代の嘉吉元年（1441年）。境内地は約3万坪以上（東京ドーム約2.2倍）におよび、年間数百万人もの参拝客を集めます。特に有名な「霊狐塚（れいこづか）」には、信徒から祈願成就の御礼として奉納された大小**1,000体以上**の狐の石像がずらりと並んでいます。\n* **意外な点**  \n  鳥居をくぐって進みますが、神社ではないため「2礼2拍手1礼」で手を打つのではなく、**音を立てずに静かに両手を合わせて合掌・一礼する**のが寺院としてのお参り作法です。また、鳥居をよく見ると、寺院の記号である「卍（まんじ）」が刻まれています。\n* **ちょっとした歴史の裏話**  \n  明治4年（1871年）、新政府が神道と仏教を厳格に分ける「神仏分離令（廃仏毀釈）」を出した際、全国の稲荷堂の多くが神社になるか仏像を取り去ることを迫られました。しかし妙厳寺は吒枳尼眞天を「寺院の鎮守堂」として位置付けることで法要を貫き、廃仏毀釈の嵐を乗り越えて今日まで寺院としての姿を守り抜きました。\n* **出典・根拠**  \n  * 豊川市観光協会「ぐるっと豊川」豊川閣妙厳寺（豊川稲荷）公式案内\n  * 宗教法人 豊川閣妙厳寺「当山の歴史・豊川稲荷略縁起」\n  * 愛知県観光協会「Aichi Now」豊川稲荷（豊川閣妙厳寺）\n\n---\n\n### 調査メモ4：【名古屋市科学館】なぜ球体が宙に浮いている？プラネタリウムが持つ「世界一のギネス記録」\n\n* **疑問の背景**  \n  白川公園内にあり、大きな銀色の球体が建物に挟まれた外観でおなじみの名古屋市科学館。週末の家族連れに大人気のプラネタリウムですが、実は世界トップの記録を持っています。\n* **理由**  \n  ドームの内径（直径）が**35メートル**あり、2011年12月に**「世界最大のプラネタリウム（Largest planetarium）」としてギネス世界記録に認定**されました。（それまで世界一だった愛媛県総合科学博物館の30mドームを抜いて記録を更新）。外観の巨大な球体は、この35mの巨大ドームをそのまま建築のデザインとして見せているためです。\n* **具体的な数字とこだわり**  \n  * **ドーム内径**：35m（ギネス認定）\n  * **座席数**：350席\n  * **シートの仕様**：大型リクライニングシートで、後ろに倒れるだけでなく左右に約30度首を振る設計になっており、首を痛めずに広大な全天の星を見渡せます。\n* **意外な点**  \n  世界一の最新デジタル・光学技術を誇りながら、投影中の解説は**「学芸員による全編生解説」**にこだわっています。録音テープを流す施設が多い中、1962年の旧館開館以来、最新の天文ニュースや当日の夜空に合わせて学芸員が肉声で語りかけるスタイルを一貫して守り続けています。\n* **ちょっとした歴史の裏話**  \n  世界一の星空をリアルに再現するため、ドーム内は「限りなく本物の夜空に近い漆黒」を追求しています。わずかな光の照り返しすら防ぐため、350席あるシートの布地や床材に至るまで、光の反射率を極限まで抑えた特注仕様の内装が採用されています。\n* **出典・根拠**  \n  * 名古屋市科学館公式ウェブサイト「プラネタリウム概要」および「ギネス世界記録認定について」\n  * 名古屋市観光情報「名古屋コンシェルジュ」FUJIなごや科学館解説\n\n---\n\n### リスナー向け 3択クイズコーナー案\n\n**【問題】**  \n「週末のドライブやお出かけでも定番の名古屋城。天守閣の屋根に輝く『金シャチ』には北側の『雄（オス）』と南側の『雌（メス）』がありますが、実は【メスのほうが数字が大きい（勝っている）】意外な特徴があります。それは次のうちどれでしょう？」\n\n1. **体の高さ（全高）**\n2. **体重（全体の重さ）**\n3. **金でできた「ウロコの枚数」**\n\n---\n\n**【正解】**  \n**3. 金でできた「ウロコの枚数」**\n\n**【解説トークのポイント】**  \n* 高さ（雄2.62m／雌2.58m）も重さ（雄1,272kg／雌1,215kg）も、体の大きさ自体はオスのほうが一回り大きいです。\n* しかし、体を覆っているウロコの枚数を数えると、**オスが112枚なのに対して、メスは126枚！** メスのほうが14枚も多く、より細かくウロコを貼り巡らせてきらびやかに仕上げられています。\n* お出かけで名古屋城を下から見上げる機会があれば、「体が大きいのが北側のオス、ウロコが多くてきらびやかなのが南側のメスだな」とご家族で探してみると盛り上がります。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A2%E3%83%A1%E3%83%B3%E3%83%9C+%E6%B0%B4%E3%81%AB%E6%B5%AE%E3%81%8F+%E8%A1%A8%E9%9D%A2%E5%BC%B5%E5%8A%9B+%E6%AF%9B+%E6%A7%8B%E9%80%A0&client=app-vertex-grounding&safesearch=active\">アメンボ 水に浮く 表面張力 毛 構造</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9B%A8%E3%81%AE%E5%8C%82%E3%81%84+%E3%83%9A%E3%83%88%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB+%E3%82%B2%E3%82%AA%E3%82%B9%E3%83%9F%E3%83%B3+%E6%94%BE%E7%B7%9A%E8%8F%8C&client=app-vertex-grounding&safesearch=active\">雨の匂い ペトリコール ゲオスミン 放線菌</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%B3%B3%E6%9D%A5%E5%AF%BA%E5%B1%B1+%E3%82%B3%E3%83%8E%E3%83%8F%E3%82%BA%E3%82%AF+%E3%83%96%E3%83%83%E3%83%9D%E3%82%A6%E3%82%BD%E3%82%A6+%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81&client=app-vertex-grounding&safesearch=active\">鳳来寺山 コノハズク ブッポウソウ ラジオ放送</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%8A%B9%E8%8C%B6+%E8%A6%86%E4%B8%8B%E6%A0%BD%E5%9F%B9+%E3%83%86%E3%82%A2%E3%83%8B%E3%83%B3+%E3%82%AB%E3%83%86%E3%82%AD%E3%83%B3+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">抹茶 覆下栽培 テアニン カテキン 科学</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8+%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0+%E3%82%AE%E3%83%8D%E3%82%B9+35m+%E4%B8%96%E7%95%8C%E4%B8%80+%E5%85%AC%E5%BC%8F&client=app-vertex-grounding&safesearch=active\">名古屋市科学館 プラネタリウム ギネス 35m 世界一 公式</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B1%8A%E5%B7%9D%E7%A8%B2%E8%8D%B7+%E5%A6%99%E5%8E%B3%E5%AF%BA+%E5%AF%BA+%E9%B3%A5%E5%B1%85+%E8%B1%8A%E5%B7%9D%E5%B8%82&client=app-vertex-grounding&safesearch=active\">豊川稲荷 妙厳寺 寺 鳥居 豊川市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%92%B2%E9%83%A1+%E7%AB%B9%E5%B3%B6+%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9+%E6%A4%8D%E7%94%9F+%E7%90%86%E7%94%B1+%E8%92%B2%E9%83%A1%E5%B8%82&client=app-vertex-grounding&safesearch=active\">蒲郡 竹島 天然記念物 植生 理由 蒲郡市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E+%E9%87%91%E3%82%B7%E3%83%A3%E3%83%81+%E9%9B%84+%E9%9B%8C+%E9%B1%97+%E6%9E%9A%E6%95%B0+%E5%85%AC%E5%BC%8F&client=app-vertex-grounding&safesearch=active\">名古屋城 金シャチ 雄 雌 鱗 枚数 公式</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7gA0OgZsaW58Z-bkl-lyW5Ifu3janDrkygWvk7E9AXfni7i_ADm1VLJmJ68Jh386HPcXah2SpyfhHT6ehKN2JHnIC-cO16JZsSL2qoiYimn5oLUXLfPKxkG6UoEHX",
-          "title": "oota8.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnvKRav3xQHFqfHTwFzycy0rr6mnFNlkckp3aLZO4cR7urC5ogMsOlM3m5KP3sWVSb0nEA9fllQqDTUXz5nh5ka8EpDlGNcbHutfO_6_lP0w==",
+          "title": "yaotomi.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzWCwlfoRM0G6wkP7cnyeTP3jMGvQrLU3d72AYFgsrLhErDkf74beH8MNHK1mfd41_0GgzEIWfi1zgaOdNcjU0aicOQXQjcMbW0Y-U63XgmX2PMaLFumz1BfBLI_Xcl_QKWB2ScfWNsbM=",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5iFNwLkTLqaXFRDmrVOolKrIszIIct2VfEwHI2Msl6gVgzks84ijx3q_2H_6jiejhyAKdkRvDOrTirXjOP71I_HIofib20VIxDUFsuGoYjjFSqsc0qg==",
+          "title": "gamagori.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmz6LUbWj_5VJTnqEriOUZ1U1u89u43_zA08tbXpjKjIJI_wTNBBzXgf5aH1ib1r4BObob_XVX5RNz4vdhA-7xBbqbBOxXRjNKgV6VZJUb2FcXZV0XhSGWWuMJHQ==",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0TrwHsh3NnpGV-WcGKRdpOgfNOAhjVJpDfuvv-yRvSXquIgFamnH4D0qyMqsIhthv9Cq1AuElnm3XYW52UjzhUfLcFX4ryCLW2OA3k2m8J6TxTGERkS2rmHi7pGB2ZYPmyTWvOb9FNn3QmRyT12fLQ9SggEzDdrCmey22R62CzWmqPg==",
-          "title": "aichi-edu.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7H1MJqnIi1i9DeVSSX8u61_7XDiv0dMzjUMZdG4MwLZevEvFJY7iAVb45rYBhCeIkwmJ7KztsYq6nq-YrC4NyDeiVBNaLjdZXd41oWAgQvmPKKY1Ns6dDlhQc7NKeHTETJx0bc6c_gKWtrkR3CTN1GinA1OC1Z7vcXYzt36sgy7wyPMAD",
-          "title": "naro.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyyxuErcfPdrFscvtGFWM7pFgxSrEMo_tYVc5KsdIdLmTB6_OYIxyGGmFXNpYOyORN-wBTvHhBiyqpbgegXcowIrNqRxtsxjZrtzC_D9xWGKQCsSLHWnD1wFVixJplzY7HRfz0w7w=",
-          "title": "matcha-and-health-research.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTgaor3-nlk1p10Bnmi2OhyP0aidpZUHXH6s2-4H_mw1uaIAfWNbnJIryt_bil4g3c88MAyZG2qwB9o7rGVxhYpkwCEfJFxjzBb6laSxPIqxFKKHCRwbvmZ05vGwj_QNiKcEFO4pfgDHrKTlWjHccX8rr20gWESWKNS5PEEUAUGtbmKosloQz52HTe",
-          "title": "cuzenmatcha.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUV45NXrxbARwsqCDIjmxAu3jggj-n-d8oJtrmy45pHue9XknhX2DgntcpvpbTZXnyLcY7XwGK7F3usuUxsH0cJ3ED4AJmq8ZpTAoT5hw7e0jONbhA8lqFu0bhlBVJMvB5RHil4j4Nq4HpQZNLQzs=",
-          "title": "tsc-05.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDHBDd05ceCXpBH0nHQK3l_p4Oa3Ht9jVqPGVJnzSUbNLBSbq7b3evUc77e3sKqHKYuOaxPJ_fOMJTLiLvPCQaVzTkHEJpFLQpXXSMw8Jttmz_TXOkWAkJpbChfC2MSPAZB2mqh6ChXgxLIMZ1-2-9CvC2iBhGFxUPj2K913oca4fru2XBIK2kiVl1dn7wdTb_e378eekdgCyxHQ==",
-          "title": "fujinokuni-consortium.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsIFJ148CJgHiezL0juzXPbtmpJ01wTlT4Ue3kFvrht2ZE4dbc9aSJW6DbN24gn5xpzN_MWUbm3bCPn_BexBUesiLI-yuehWXyIyJeJlhX8lbBVQ2eNgihnUKQ195JVUfc_AtJKA==",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLG06ctT2B_W587W236Z42p6BbMJzTg0P6BZJXp28_qyDndb1nV0OPPTCggdeJXb0E8PH1ImdSkH2dneToTvByB7X-wgsf8sO64YL9dDzJrP4pCxzSG-78TOUodPlBl6PVCw==",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtNtQwiPczjdvPH2XGPo9WxtWEVhCIiY5pEzjdw7YvVYVWfLXDzaGN8RTjCRUK-h2nGuiKXrZkOvSxzLbou9Gfyn88DIjz4WCGx5FrlzvrkU4Y94-mWEg8YBDiYaAB",
-          "title": "weathernews.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR8xi_o_ZSy8n8PmMXXZKcKTlUvtiN0zsfyelXBQ1GSVs7DveViF5qyMRrrjrlT4wZgCbs7VCK1ZsNixEOvZZPwmLxES8NWw9Z1Uykd-U7IBp9N9SYicBSKDWHAxzdLY2S8N7IphSPjnHBv_RjSC_FxA==",
-          "title": "haradaeigo.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY5AWGe7LkMbiudSu6PmEWsDg_p5GSpRA8BgscDXKLKsAdVtUmgK6PiWJxLO8uP0k2Pq4k5nK3kM4h9-RNfQx3cD7EdqNKP816UOepFI7fzTcNqUw7R-cR49BrAVKe7uNSzIL4CgbzREKpVTHzd3NKgzJuCKOG1LKGGtL1kbQ4-O6zh3tAs86VX6AtdjWlgTak1fS6lbzoKXgSoPvHmOBI7KxBPDWbI4oAAmEDi2A_8Ba8DHBEaESlEq-eOCzDFD7sKUmGbv3ghsz9-vv-nA==",
-          "title": "kanzai.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4oLCbkmeTMrAPJwvRoUjway7pDn2MW-440viPOQj07-r2kBj783EU54HA5QsN3mnBHjqQWQR0W7CHpRzDxZZbckrBerKoJn_nCW5BlCM6EGd4Yz3lTM0VfrarbghqpnnbcwmhZxPjfaJlvBG8Cifp8lWiOFrzKrtx-badxpMU",
-          "title": "marees.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZKri04wy-YMJzhtqVCn9WZuUdK70jabK7lirYf-S5wFF205DDEney5buVPHG8vqjeKp44ZQRpN5zZUoKcXMdr5o5vvNVDkXstBAVwaDJASpO9UQbpyHrYJSsRqc-jriAb9O1s6AghV1SEOc2URsb4FiibkRMhxxqf0173fCw6",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYW_Wc922OlTVOaV9FkYKH5VXO3W-B8f-D6Lk7ZOWhMJ9OeLQhd9uDGGpU9wCbYTw-BH5rczcfdD6GChCEg1rdiNFzOCiMWjjHtDgIZ__mABMcei0mcv-CypvEqcpD8fiv7m161wJjp4PsSnw3Q2h0vEVkW2xTJpbpWgG_yNlVIA_1VwIOddEyPXTePJI7wfL0eYA=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8KJT4BaVP3pRdY1pTypeTNeSz1oHBs3qkUSllGDy9FgwY_PpgEsqMJ8NL41bv3V9Tgg97P3xFT1ioB1wXxfoyS1Hq6TGSEAwwTHn19WEOa9sxh_zUiwV194_i0WulLr5Z",
-          "title": "forbesjapan.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwn09seNGrhnwiIQgFby-tpMUn4pYA0lQgq2mo1-VqBzeC8ymRzUhvlB2A3QGJ7h985q7IP5TQtuOR001gWHivMjaBl_UqV54-GO15DVoTOPtlFni0qRwwPxQr5cNvnR-cSZMSQZhk6plkdZl3CDlogw==",
+          "title": "gamagori.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrHXNfeOB3PGL36vDJaf2v4VAe8AplOpGq9tZ6pMtLPbMQb0IjnnDXrknHz3XALc5Lycm-r181RxcgEJPt8H43GJ-LftcUOpJu9uOJLA_HJuSUWR4VIJ0xpYFEirgcnS8Ejyzo",
-          "title": "jyamaguchi-lab.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-KA4tVtKnAcgvqAj82zAo182AACBqgZuXDvzTHOtNSuWTK34iS1gK47IH-_1AOYq7oTIeny7QSnsHnZj2tae2U43TwGYUbtV_YosuBS2oPA=",
+          "title": "tabi-mag.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv4kRliRoKvJH7SxTSxUdqvSK1wA11lpmG2Tp0hWgyzVp0uMtb6eDxDbWoItgFguag99l-SsixsISKODEoc9WMulaEm34r6kd5FCP2vAPBSXwLn4hPG514BGsFtgZasdCI47HsD-tGjtFNesvN",
-          "title": "ritsumei.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf6GetQjUs2QIZzlyii7-Yaezt2CoqrontsIGzHWNYZLeXAOG2eAucfDtrNDq1LBswtAeeduVLueKlCxwhw7jVaKILfDZM7J8gM0WEHuGjz-28B6Bdb-GXfVKS9zo250qAcyzO4yhN6XSGQl5NXO4v2zpSPjKbkny4KlA=",
+          "title": "jeepe.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9UNbgS1kvahSsHpyhoNNYBhpi4AAoUe9ab2s3Y4Dxo49zH01Gkhm5Z6FRZGcB1FW9tQBI9Aw94s44vvwftSPWBsQ8wBcn9LhMhwfPnd53-p_U0Ac8x9g_mpfBP5RmhhEIvzuoGQ9_cNp-sg==",
-          "title": "miyama.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGASE-0kJt8L9V5IqeDFoVpRFR_UbCGgJg94anJUMPZHKvWcfVVrJnEsfXDFPK0avA5xU9EaCaHcBfkLetqgGZvRQvEYDMUExHWrRcwsJl2zAd1ESoUIWnS7H9wPHlj6_t36yql602qdu3x",
+          "title": "city.nagoya.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCFkIYBtaQJPUotKfJsd4KM_vFyogynBIa_4EcrFYwfmEigvRDZlCe9-5aBsNqrTOMyzmrXtPtzJfMtAdktBFZ755JF6g6BofYU4DMGOXDUJyO6XBZab_DsMs=",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoJIGgQCJiRifUsJWyoTbuEUQFWoToQ6W-S0u8xKlcKE757d5NyWrjVUUqVljJEbJVN_BxuaD2sqdbpWNr3Ry2D2QprOB924e6qDlteLFWAifWX0T2RidolSrnGVCbV98=",
+          "title": "php.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtiyXfc2oVgsyuR7kt5z1h6dL7aQM7ItL7uBwi1X7KGUKor6igtQtK_YX_jtP76r2q2zHjVUV8aieHIFSjGblZ7Wi-cx3xjs6PPGvhuWd8Dd0IsKkj2FSuKuk-rtU_3fBwazjdWquwYeLy2i3vaiRcl_8NHXrYPNKj97u3LmNE-xDM5iEhvLb9Urp1yPONY7DCCGXarnE=",
-          "title": "osaka-kyoiku.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbt35sKFGqe-AOfNYTyQyl-93UYL20MlFBcqSnUkcaqdmLwluvs7S6prMMyBrhkfxYvGfJtVYF1N-wLGy9TXl55UlqnfqPQv3w6nDtIROc4YTKDmPs8W7FrseuvECkF5CG2GkoUg==",
+          "title": "mikawa-life.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6mchD9H0QLzV3X7zotPeC9iSaPWEw-9QKCLMuEzhDk4U0Dkp6b4Q0Dv7q4B1arVM_BVPPVKyYDbKB7gRpX8KpeL3pSC1oVFt6NzvTmO5HNPsLDC4fF6aOBf_S81qM2A==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwXIwuXvplWi-Cx4gXwLDVbh92-Aghs8lbWjkumcX1J0EGifgMd6K05L4sAGGRvJy0isV-jKsAFObG9xLMAmJuM309aIh_416psoh45N1nfe-wSOBm8s-bCJjAcGs4sifdFBM=",
+          "title": "toyokawa-map.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwluKsnwdNkvG1p0_vn6tne6m5ndRxF2vFnrQywgZN-QUV9igVSQkfiNPx3QNI1O5BOfAyiV50XZe8aDXeoCid6QeR2Q31ZQPQtcjvNdCMA9j_X5DI4tik",
+          "title": "jtb.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkDoPr3Dd9iV3n0jkDVw7PWD9AgD0M3EBFJ_rjpIfsOS7PBVdl9bCPoYRiinjPIwvxH0HheVWtPmQSnhUrJD5ocAZWWlfnMmujDED1MaZ-MZekZEH_RrywkyuQ8IW5ucWaahMU6yk-PqUI39_-qQusYVHOi0wdVGDpwSOPwDBY3TFRAh0Eqye_586OQ6T6ymFkmkK-OT36jaIsUvVsmLQ=",
+          "title": "ciao.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdfuB2v0XkkWzYrbHAnwcNg9AWeGz4VokG0zwaV76fYnImNyX3TT_no7EdrmrfJg2W2_0zNDwORdFsJNLwqw-gINC_3CA66S5BBOs0eyEcmpxf73A89XQ6Qv84qL9xHwf7",
+          "title": "toyokawainari.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmKskMHwWw1ubeN2-xACLn94RWUMU3rPI1rkiGetI08VT2L20Nd1XJVxQCRXfCoHhvPzYPGfDKV4eA4_-wyT9YWjGMPMX5y0RU_LwS5kkeOhwi-O3268S5af1ZU6b7byZf0OjP2Q==",
+          "title": "pref.aichi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG1y6t9itVYXGy991MI5vptFqTWOHp7mZKY2_O8m-agseYbfGga2oDbJgxgrvS5ZhekeW2WAuGFKaip5gZ4tUkknKnIyZJ3VJ8dMuqvnmD1Phkgn4uMQhQzPazc2NTQh8H",
           "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoJ67E8tvOr-ow6IGTpd7st1QARMvTAY9h2UbYZtH0PihQvG17yz8c0XN7fcDqMgtlbQWnDBCeoJ_Vi34xxqCMcK4K0tpSiG9micDuk3wb2tbCX-Blm4pg9LbdOFeZD52JuJ2oH40=",
+          "title": "uraken.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWN7RiMGeDQ-afWxGiuoRBe9j3jDqJvn6oQDBDzYIeMe7ZE_HRIp0vcS05SFjtSM6fgiZ7RcqMJc9FS3vByIuR_KNa9wcw35xqUGlqYR6FijsNHACV4ngqVeQmUZXttw==",
+          "title": "nagoya-info.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFojM5rCbvEVNqCapbMhaqxCqpeFsnsB9wABGlZf_N6Jkkq0LwN9wz29PJbytpdGby2Bo3RtkJYFaOBUQFLY86p_-peRO3p8bxui0gWYCX5Xl4zwAJePes3",
+          "title": "asoview.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRwMYBS-G3WJ503GS1HQk07kXTK9CVH1ZjoprMOpHrQ44V7l6jZM1vz8OknPBYKl3ENymOMeN-1Jm9utMRORge3T1pyED4YbVbToaXS2my2mKv_WB2_tqjTV72UskznaGjUQErRjNEoTUbmZHk0J5MouGlgiOcyn-MA==",
+          "title": "city.nagoya.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwI3RKU5JGOEfH3TZmhTZVy8w6yohzNHFMxhIqJDZmo1J62YVrrGqRBXeK7l0ULGokXr7GMYW7JXD-6MiIO8GcBvzH3HQPGr2Z2IVeDY4zFDBBkwmjgBXFtXWzYicXGI4zFicHPEmEIIS3nfvJ2-rl6auksusDy3VOCu6kAq6Blx4-yKFQLsk=",
+          "title": "city.nagoya.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaAM46_0ssLXwNOEMs6o6tzx1XmkESUZiihgngAmT3qH1NnmLTbXSAqlaG2boVP5MjFeWQ4-HpIMw1LimKr9RQYHT1sBGEr0dVRkPOWid2WJSTTb9kr8gJ",
+          "title": "museum.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn12LggecgKPSbkA2PyJicf9yQH1d4MXqbaGbXb-tZnWEBphuhcNlM6ErZd9Quzbv8Tw-It9T4sybPLJGoIKBkOkamYBmF5TB9UnOYwtutLP1TbEX4madttasBA1J5ZAMiARfRUAw=",
+          "title": "knt.co.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 778,
-          "endIndex": 865,
-          "text": "しかし実際の正体は、フクロウの仲間である「コノハズク」です"
+          "startIndex": 621,
+          "endIndex": 804,
+          "text": "長さ387mの竹島橋を歩いて簡単に渡れる小島ですが、島全体（八百富神社社叢）が昭和5年（1930年）に国の天然記念物に指定されています"
         },
         "groundingChunkIndices": [
           0,
@@ -228,30 +224,9 @@
       },
       {
         "segment": {
-          "startIndex": 868,
-          "endIndex": 1066,
-          "text": "夜行性のコノハズクが暗闇の森で鳴く一方、昼行性で姿が目立つブッポウソウが同じ森に生息していたため、姿と鳴き声が取り違えられていました"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1111,
-          "endIndex": 1240,
-          "text": "**コノハズク（声の仏法僧）：** 体長約20cm前後で、日本に生息するフクロウ類の中で最小クラス"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1243,
-          "endIndex": 1316,
-          "text": "愛知県の「県の鳥」に指定されています（1965年指定）"
+          "startIndex": 927,
+          "endIndex": 1218,
+          "text": "対岸の本土側がクロマツ林を中心とした一般的な沿岸植物であるのに対し、竹島はタブノキなどの常緑広葉樹が密生する暖帯林（照葉樹林）が広がり、植生体系（植物相・フロラ）が対岸と全く異なっているためです"
         },
         "groundingChunkIndices": [
           0,
@@ -260,92 +235,206 @@
       },
       {
         "segment": {
-          "startIndex": 1324,
-          "endIndex": 1414,
-          "text": "**ブッポウソウ（姿の仏法僧）：** 体長約30cm（ハトほどの大きさ）"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1417,
-          "endIndex": 1501,
-          "text": "背面が鮮やかな青緑色、くちばしと足が赤いカラフルな鳥です"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1529,
-          "endIndex": 1718,
-          "text": "美しい姿からありがたい鳴き声の主と思われていた本家「ブッポウソウ」の本当の鳴き声は、「ゲッ、ゲッ、ゲッ」という濁ったダミ声です"
+          "startIndex": 1221,
+          "endIndex": 1410,
+          "text": "「陸地に極めて近い島でありながら、本土と林相が著しく異なる珍しい環境」であることが学術的に極めて高い価値を持つと認められました"
         },
         "groundingChunkIndices": [
           0,
-          1
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 1773,
-          "endIndex": 1917,
-          "text": "長年の謎だったこの勘違いを決定づけたのは、愛知県新城市の鳳来寺山から行われたラジオの生中継でした"
+          "startIndex": 1461,
+          "endIndex": 1643,
+          "text": "対岸からの距離はわずか**約400m**（竹島橋は387m）、島の面積は**約1.9ヘクタール**、周囲約600m、標高約22mという手のひらサイズの島です"
         },
         "groundingChunkIndices": [
-          1
+          0,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 1920,
-          "endIndex": 2102,
-          "text": "1935年（昭和10年）6月7日、日本放送協会（NHK）名古屋中央放送局が鳳来寺山から「ブッ・ポウ・ソウ」の鳴き声を全国へ生中継しました"
+          "startIndex": 1646,
+          "endIndex": 1754,
+          "text": "この小さな島の中に、なんと**65科238種**もの高等植物の自生が確認されています"
         },
         "groundingChunkIndices": [
-          1
+          0,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 2105,
-          "endIndex": 2397,
-          "text": "その放送を東京・浅草で聴いていた傘店の店主が「うちで飼っている鳥（コノハズク）と同じ声だ」と気づき、鳥類学者の黒田長礼らが確認したことで、平安時代から1000年以上続いた歴史的勘違いに決着がつきました"
+          "startIndex": 1757,
+          "endIndex": 1874,
+          "text": "林床に自生する「キノクニスゲ」は、竹島が日本における自生の北限地とされています"
         },
         "groundingChunkIndices": [
-          1
+          0,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 2428,
-          "endIndex": 2556,
-          "text": "愛知県公式HP／新城市鳳来寺山自然科学博物館資料「ブッポウソウ」・「コノハズク」展示解説"
+          "startIndex": 2130,
+          "endIndex": 2458,
+          "text": "これほど手つかずの自然が残ったのは、平安時代末期（1181年）に藤原俊成が琵琶湖の竹生島から弁財天を勧請して八百富神社を創建して以来、島全体が神域とされ、長年にわたって一般の立ち入りや樹木の伐採が厳しく禁じられてきたからです"
         },
         "groundingChunkIndices": [
-          3,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2735,
-          "endIndex": 2912,
-          "text": "安城のお隣・西尾市などで有名な抹茶（原料：碾茶）は、収穫前の茶畑を黒い覆いで遮光する「覆下栽培（被覆栽培）」を行います"
-        },
-        "groundingChunkIndices": [
-          4,
+          0,
+          2,
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 2915,
-          "endIndex": 3122,
-          "text": "お茶の旨味・甘味成分であるアミノ酸「テアニン」は、根で作られて葉へ移動し、日光（紫外線）を浴びると渋み成分の「カテキン」へと化学変化します"
+          "startIndex": 2461,
+          "endIndex": 2575,
+          "text": "信仰が三河湾の貴重な照葉樹原生林をタイムカプセルのように現代へ守り伝えました"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2607,
+          "endIndex": 2685,
+          "text": "八百富神社公式ウェブサイト「竹島の自然環境について」"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2690,
+          "endIndex": 2798,
+          "text": "蒲郡市博物館「蒲郡の名木50選 31 八百富神社社叢」（文部省告示第198号の解説）"
+        },
+        "groundingChunkIndices": [
+          0,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2803,
+          "endIndex": 2893,
+          "text": "蒲郡市観光協会公式サイト「がまごおり、ナビ」竹島スポット解説"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3050,
+          "endIndex": 3128,
+          "text": "名古屋城の天守閣に鎮座するシンボル「金の鯱（金鯱）」"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3131,
+          "endIndex": 3263,
+          "text": "屋根の北側と南側に一対置かれており、北側が雄（オス）、南側が雌（メス）と決められています"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3266,
+          "endIndex": 3396,
+          "text": "雄のほうが体が大きいのですが、実は1箇所だけ「雌のほうが勝っている」意外な特徴があります"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3417,
+          "endIndex": 3526,
+          "text": "体を覆っている**「金のウロコの枚数」は、雌のほうが多い**設計になっています"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3529,
+          "endIndex": 3655,
+          "text": "遠くから見上げたときに、雌の姿がよりきらびやかで華やかに見えるよう工夫されたためです"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3742,
+          "endIndex": 3843,
+          "text": "**総高**：北鯱（雄）**2.621m** ／ 南鯱（雌）**2.579m**（雄のほうが約4cm高い）"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3848,
+          "endIndex": 3945,
+          "text": "**重量**：北鯱（雄）**1,272kg** ／ 南鯱（雌）**1,215kg**（雄のほうが重い）"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3950,
+          "endIndex": 4029,
+          "text": "**金量（18K）**：北鯱（雄）**44.69kg** ／ 南鯱（雌）**43.39kg**"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4151,
+          "endIndex": 4156,
+          "text": "**）"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4180,
+          "endIndex": 4366,
+          "text": "大きさや体重、使われている金の総重量はすべて雄が上回っているのに、ウロコの枚数だけは雌のほうが細かくびっしりと貼られています"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4414,
+          "endIndex": 4559,
+          "text": "江戸時代、尾張藩は財政難に陥るたびに金鯱の鱗を剥がして溶かし、小判を作る「改鋳」を3回も行いました"
         },
         "groundingChunkIndices": [
           6,
@@ -354,176 +443,234 @@
       },
       {
         "segment": {
-          "startIndex": 3125,
-          "endIndex": 3290,
-          "text": "日光を人工的に遮ることで光合成によるカテキンの生成を抑え、旨味成分テアニンを葉の中にたっぷりと保持させています"
+          "startIndex": 4562,
+          "endIndex": 4643,
+          "text": "そのため時代が下るにつれて金の純度が下がっていきました"
         },
         "groundingChunkIndices": [
-          7,
-          5
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3333,
-          "endIndex": 3703,
-          "text": "農研機構（国立研究開発法人 農業・食品産業技術総合研究機構）の研究によると、覆下栽培された上質な抹茶は、日光を浴びて育つ一般的な煎茶や粉末茶に比べてテアニン含量が明確に高く、カテキン類の中でも渋味の強いエピガロカテキン（EGC）の含量が抑えられています"
+          "startIndex": 4646,
+          "endIndex": 4885,
+          "text": "さらに昭和12年（1937年）には、天守閣の調査用の足場を夜間に登った泥棒によって、雄の金鱗が58枚もペンチで剥ぎ取られて盗まれるという前代未聞の窃盗事件まで起きています"
         },
         "groundingChunkIndices": [
-          4,
-          8
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3706,
-          "endIndex": 3916,
-          "text": "また、光が足りない環境下で植物が効率よく光を吸収しようとして葉緑素（クロロフィル）を大量に増やすため、茶葉の緑色が一段と濃く鮮やかになります"
+          "startIndex": 4917,
+          "endIndex": 5044,
+          "text": "名古屋城公式ウェブサイト「観覧ガイド 金鯱」（二代目金鯱の寸法・うろこ枚数・歴史解説）"
         },
         "groundingChunkIndices": [
-          4,
-          8
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 3944,
-          "endIndex": 4157,
-          "text": "野菜や果物は日光をいっぱい浴びた方が甘く栄養豊かに育つイメージがありますが、茶葉の旨味に関しては「日光に当てない」ほうが甘くまろやかになります"
+          "startIndex": 5222,
+          "endIndex": 5342,
+          "text": "商売繁盛の祈願や名物のいなり寿司で知られ、日本三大稲荷の一つに数えられる豊川稲荷"
         },
         "groundingChunkIndices": [
-          7,
-          5
+          8,
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4528,
-          "endIndex": 4656,
-          "text": "農研機構 果樹茶業研究部門「国産抹茶の価格と化学成分含有量の関係」研究成果情報（2018年）"
+          "startIndex": 5345,
+          "endIndex": 5462,
+          "text": "表参道には大きな鳥居が構えられていますが、実は神社ではなく曹洞宗の「お寺」です"
         },
         "groundingChunkIndices": [
-          4,
+          8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 4826,
-          "endIndex": 4985,
-          "text": "雨が降り始めた瞬間にふわりと漂う独特の土のような匂いには「ペトリコール（Petrichor）」という学名がついています"
+          "startIndex": 5525,
+          "endIndex": 5654,
+          "text": "正式名称は「圓福山 豊川閣 妙厳寺（みょうごんじ）」という室町時代（1441年）創建の寺院です"
         },
         "groundingChunkIndices": [
-          10,
+          9,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 4988,
-          "endIndex": 5192,
-          "text": "正体は、土の中に生息する「放線菌」という微生物が作り出す有機化合物「ゲオスミン」や、乾燥期に植物が分泌して土や岩の表面に蓄積した油分です"
+          "startIndex": 5657,
+          "endIndex": 5888,
+          "text": "本尊は千手観音で、お稲荷さんとして親しまれているのは、寺の鎮守（守護神）として祀られている「豊川吒枳尼眞天（とよかわだきにしんてん）」という仏教の善神です"
         },
         "groundingChunkIndices": [
           12,
-          13,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 5195,
-          "endIndex": 5426,
-          "text": "雨粒が地面の微細な隙間に激突すると、微小な泡（エアロゾル）が発生し、シャンパンの泡のように土中の匂い物質を包んで大気中に弾き飛ばすため、一気に鼻へ届きます"
+          "startIndex": 5891,
+          "endIndex": 6035,
+          "text": "この神様が稲穂を担ぎ、白い狐に跨った姿をしていることから「豊川稲荷」と通称されるようになりました"
         },
         "groundingChunkIndices": [
-          12,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6038,
+          "endIndex": 6194,
+          "text": "鳥居があるのは、神仏が調和して信仰されていた江戸時代以前の「神仏習合」の文化をそのまま残しているためです"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6242,
+          "endIndex": 6291,
+          "text": "創建は室町時代の嘉吉元年（1441年）"
+        },
+        "groundingChunkIndices": [
           11,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6294,
+          "endIndex": 6415,
+          "text": "境内地は約3万坪以上（東京ドーム約2.2倍）におよび、年間数百万人もの参拝客を集めます"
+        },
+        "groundingChunkIndices": [
+          8,
+          13,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6418,
+          "endIndex": 6607,
+          "text": "特に有名な「霊狐塚（れいこづか）」には、信徒から祈願成就の御礼として奉納された大小**1,000体以上**の狐の石像がずらりと並んでいます"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6634,
+          "endIndex": 6869,
+          "text": "鳥居をくぐって進みますが、神社ではないため「2礼2拍手1礼」で手を打つのではなく、**音を立てずに静かに両手を合わせて合掌・一礼する**のが寺院としてのお参り作法です"
+        },
+        "groundingChunkIndices": [
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 5469,
-          "endIndex": 5623,
-          "text": "人間の鼻はゲオスミンに対して極めて敏感で、わずか「1兆分の5（5 ppt）」という超低濃度でも匂いを感知できます"
+          "startIndex": 6872,
+          "endIndex": 6980,
+          "text": "また、鳥居をよく見ると、寺院の記号である「卍（まんじ）」が刻まれています"
         },
         "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7028,
+          "endIndex": 7255,
+          "text": "明治4年（1871年）、新政府が神道と仏教を厳格に分ける「神仏分離令（廃仏毀釈）」を出した際、全国の稲荷堂の多くが神社になるか仏像を取り去ることを迫られました"
+        },
+        "groundingChunkIndices": [
+          11,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 5768,
-          "endIndex": 6020,
-          "text": "「雨の匂い」と言いますが、雨水そのものには匂いはなく、地面に眠っていた土壌細菌の成分が、雨粒の物理的な衝撃でエアロゾルスプレーのように空中へ散布されたものを嗅いでいます"
+          "startIndex": 7258,
+          "endIndex": 7465,
+          "text": "しかし妙厳寺は吒枳尼眞天を「寺院の鎮守堂」として位置付けることで法要を貫き、廃仏毀釈の嵐を乗り越えて今日まで寺院としての姿を守り抜きました"
         },
         "groundingChunkIndices": [
-          12,
+          11,
+          10,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7497,
+          "endIndex": 7590,
+          "text": "豊川市観光協会「ぐるっと豊川」豊川閣妙厳寺（豊川稲荷）公式案内"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7595,
+          "endIndex": 7671,
+          "text": "宗教法人 豊川閣妙厳寺「当山の歴史・豊川稲荷略縁起」"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7676,
+          "endIndex": 7748,
+          "text": "愛知県観光協会「Aichi Now」豊川稲荷（豊川閣妙厳寺）"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7932,
+          "endIndex": 8052,
+          "text": "白川公園内にあり、大きな銀色の球体が建物に挟まれた外観でおなじみの名古屋市科学館"
+        },
+        "groundingChunkIndices": [
           16,
-          11
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 6051,
-          "endIndex": 6321,
-          "text": "「ペトリコール」という言葉は、1964年にオーストラリア連邦科学産業研究機構（CSIRO）の鉱物学者イザベル・ジョイ・ベアとリチャード・トーマスが科学誌『Nature』に発表した論文で名付けられました"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6324,
-          "endIndex": 6546,
-          "text": "ギリシャ語の「ペトラ（石）」と、ギリシャ神話で神々の血管を流れる霊液「イコール」を組み合わせた造語で、「石のエッセンス」という意味が込められています"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6577,
-          "endIndex": 6771,
-          "text": "オーストラリア連邦科学産業研究機構（CSIRO）アーカイブ、マサチューセッツ工科大学（MIT）流体力学研究チーム論文（Nature Communications, 2015年）"
-        },
-        "groundingChunkIndices": [
-          17,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6947,
-          "endIndex": 7169,
-          "text": "アメンボが水面をすべるように移動できるのは、単に体が軽いからだけでなく、脚に備わった「特殊な微細構造」が水の表面張力を最大限に引き出しているためです"
+          "startIndex": 8055,
+          "endIndex": 8175,
+          "text": "週末の家族連れに大人気のプラネタリウムですが、実は世界トップの記録を持っています"
         },
         "groundingChunkIndices": [
           18,
-          19,
-          20
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 7172,
-          "endIndex": 7375,
-          "text": "アメンボの脚の表面には、マイクロメートル単位の微細な毛が無数に密集しており、さらに毛の1本1本にナノメートル単位の細かい溝が刻まれています"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7378,
-          "endIndex": 7609,
-          "text": "この毛の間に空気の層を強力に抱え込むことで超撥水性を発揮し、水滴を弾いて水面に深い「くぼみ」を作り、水が元に戻ろうとする表面張力で体を浮き上がらせています"
+          "startIndex": 8196,
+          "endIndex": 8396,
+          "text": "ドームの内径（直径）が**35メートル**あり、2011年12月に**「世界最大のプラネタリウム（Largest planetarium）」としてギネス世界記録に認定**されました"
         },
         "groundingChunkIndices": [
           19,
@@ -532,60 +679,41 @@
       },
       {
         "segment": {
-          "startIndex": 7652,
-          "endIndex": 7773,
-          "text": "アメンボの体重は約35〜40ミリグラム程度（1円玉1枚＝1,000ミリグラムの約25〜30分の1）です"
+          "startIndex": 8399,
+          "endIndex": 8507,
+          "text": "（それまで世界一だった愛媛県総合科学博物館の30mドームを抜いて記録を更新）"
         },
         "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8095,
-          "endIndex": 8381,
-          "text": "どんなに上手に浮いているアメンボでも、水面に台所用洗剤などをほんの1滴たらすと、界面活性剤によって水の表面張力が急激に弱まり、水をはじくことができなくなって一瞬で水底へと沈んで溺れてしまいます"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8412,
-          "endIndex": 8743,
-          "text": "かつては「脚から油を出して浮いている」と単純に考えられていましたが、2004年に電子顕微鏡を使ったナノテクノロジーの観察によって、毛の幾何学的な微細構造こそが超撥水の主因であることが判明し、世界的科学誌『Nature』に掲載されました"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8746,
-          "endIndex": 8857,
-          "text": "この仕組みは現在、濡れない新素材や水上小型ロボットの開発に応用されています"
-        },
-        "groundingChunkIndices": [
-          18,
           20
         ]
       },
       {
         "segment": {
-          "startIndex": 8888,
-          "endIndex": 8991,
-          "text": "中国科学院・Nature誌掲載論文（Gao & Jiang, 2004 \"Water-repellent legs of water striders\"）"
+          "startIndex": 8510,
+          "endIndex": 8639,
+          "text": "外観の巨大な球体は、この35mの巨大ドームをそのまま建築のデザインとして見せているためです"
         },
         "groundingChunkIndices": [
-          22
+          16,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 8888,
-          "endIndex": 9066,
-          "text": "中国科学院・Nature誌掲載論文（Gao & Jiang, 2004 \"Water-repellent legs of water striders\"）、立命館大学理工学部マイクロ機械システム研究室資料"
+          "startIndex": 8689,
+          "endIndex": 8735,
+          "text": "**ドーム内径**：35m（ギネス認定）"
+        },
+        "groundingChunkIndices": [
+          19,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8740,
+          "endIndex": 8762,
+          "text": "**座席数**：350席"
         },
         "groundingChunkIndices": [
           18
@@ -593,74 +721,104 @@
       },
       {
         "segment": {
-          "startIndex": 9314,
-          "endIndex": 9512,
-          "text": "しかし昭和初期のラジオ放送をきっかけに、実際にそう鳴いていたのは愛知県の県鳥でもあるフクロウの仲間「コノハズク」だったと判明しました"
+          "startIndex": 8767,
+          "endIndex": 8980,
+          "text": "**シートの仕様**：大型リクライニングシートで、後ろに倒れるだけでなく左右に約30度首を振る設計になっており、首を痛めずに広大な全天の星を見渡せます"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          18,
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 9516,
-          "endIndex": 9642,
-          "text": "では、青緑色の美しい姿をした本家「ブッポウソウ」は、実際にはどんな声で鳴くでしょうか"
+          "startIndex": 9007,
+          "endIndex": 9164,
+          "text": "世界一の最新デジタル・光学技術を誇りながら、投影中の解説は**「学芸員による全編生解説」**にこだわっています"
         },
         "groundingChunkIndices": [
-          0
+          18,
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 9649,
-          "endIndex": 9715,
-          "text": "**第1問：** 「ゲッ、ゲッ、ゲッ」と濁ったダミ声"
+          "startIndex": 9167,
+          "endIndex": 9390,
+          "text": "録音テープを流す施設が多い中、1962年の旧館開館以来、最新の天文ニュースや当日の夜空に合わせて学芸員が肉声で語りかけるスタイルを一貫して守り続けています"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          18,
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 9878,
-          "endIndex": 9943,
-          "text": "**第1問：「ゲッ、ゲッ、ゲッ」と濁ったダミ声**"
+          "startIndex": 9438,
+          "endIndex": 9579,
+          "text": "世界一の星空をリアルに再現するため、ドーム内は「限りなく本物の夜空に近い漆黒」を追求しています"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9986,
-          "endIndex": 10124,
-          "text": "姿がハトのように大きくてカラフルな本家ブッポウソウは、実は濁った声で「ゲッ、ゲッ」と鳴きます"
+          "startIndex": 9582,
+          "endIndex": 9777,
+          "text": "わずかな光の照り返しすら防ぐため、350席あるシートの布地や床材に至るまで、光の反射率を極限まで抑えた特注仕様の内装が採用されています"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 10268,
-          "endIndex": 10530,
-          "text": "1935年に新城市の鳳来寺山から行われたラジオの生中継がきっかけで、浅草のリスナーの指摘から本当の鳴き声の主（コノハズク）が突き止められたという、ラジオの歴史にも深く関わるお話です"
+          "startIndex": 9809,
+          "endIndex": 9941,
+          "text": "名古屋市科学館公式ウェブサイト「プラネタリウム概要」および「ギネス世界記録認定について」"
         },
         "groundingChunkIndices": [
-          1
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9946,
+          "endIndex": 10034,
+          "text": "名古屋市観光情報「名古屋コンシェルジュ」FUJIなごや科学館解説"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10698,
+          "endIndex": 10839,
+          "text": "高さ（雄2.62m／雌2.58m）も重さ（雄1,272kg／雌1,215kg）も、体の大きさ自体はオスのほうが一回り大きいです"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10970,
+          "endIndex": 11098,
+          "text": "** メスのほうが14枚も多く、より細かくウロコを貼り巡らせてきらびやかに仕上げられています"
+        },
+        "groundingChunkIndices": [
+          6
         ]
       }
     ],
     "webSearchQueries": [
-      "アメンボ 水に浮く 表面張力 毛 構造",
-      "雨の匂い ペトリコール ゲオスミン 放線菌",
-      "鳳来寺山 コノハズク ブッポウソウ ラジオ放送",
-      "抹茶 覆下栽培 テアニン カテキン 科学"
+      "名古屋市科学館 プラネタリウム ギネス 35m 世界一 公式",
+      "豊川稲荷 妙厳寺 寺 鳥居 豊川市",
+      "蒲郡 竹島 天然記念物 植生 理由 蒲郡市",
+      "名古屋城 金シャチ 雄 雌 鱗 枚数 公式"
     ]
   }
 }
