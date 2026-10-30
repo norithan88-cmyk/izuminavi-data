@@ -1,41 +1,43 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "科学・自然のなぜ",
-  "characters": 2347,
-  "estimated_minutes": 7.1,
+  "theme": "週末のお出かけ・楽しみ",
+  "characters": 2163,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "北アルプスの特別天然記念物ライチョウは、冬になるとある意外な場所に毛が生えます。どこでしょうか。1番、足の指先や足の裏。2番、まぶたの裏。3番、ツルツルの頭頂部。",
-    "answer": "正解は1番、足の指先や足の裏でした！びっしり生えて雪に沈まない天然のかんじきになるんだって。頭頂部に生えたらただのフサフサの鳥やろー！",
+    "question": "奥飛騨の新穂高ロープウェイは、当初山を越えてどこまで延びる構想だったでしょうか。１番、長野県の上高地。２番、富山県の黒部ダム。３番、みおんの電子回路の真ん中。",
+    "answer": "正解は１番、上高地でした！自然保護や技術面で見直されたんだって。３番の私の回路に来られても困るやさ！",
     "source_ids": [
-      8,
-      9
+      2,
+      3,
+      5
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFscQmB5q0X-8uCuoXjBrgMknx5-l6Qu16ZvyPj-srj0ylPM3kmYafqP8-NvjNqOcUJ7uCdXa6ReqLxI1XhdaUCI2ySYwR9grK92aNvxkQmu24dTJQ43nS13SjB3ZNIKk2yhUXG4WU=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBPMk80feUISsvTUnhFMbDjGZokqUViPWt7D5iJwDToP3tE7-8osPT5MAwgRSsU916dopv82YCksUH1SS0rFjkByksbrIv4_t1-B_JrVFWoS6CYMkbFAQPiJKQ6TEzy4dnc1TBHzE="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsnWjArF_hGFkIzHsZp_8LwjfPZxDnO2u6qEOudeeE_NLXHa33WAcWc4z_GW7AhQl9nnsOm2L-ya9rIH2IufVSkjNQeYmznSG2ShI8wkCamKFT9XU=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcWE378_xpu3sIE_3NWZSamoSJ50IrwCx9nFTks7eNt1kgIWA9Nf_fvT7RwOGTaPyspWVOrzHfRVDCDJxFfp5O17WCDLIBJroKwtZu9-T9EJzg0YDX8oEJvRap2JWPKzVc-YSJJdWxzw==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5Q15zE4nIWsKPRqSgNm_L4MqxgamhNEWlCFn2qk5Ey2IaBKdjtgol-10HCDkz0dYcDmBYlXPVvQzOKxeeiNjVgwC6nvSQPJtXI6V-6cjPKernev3L56WmOXpU5Tzf3S2RqPz2BTxl_FXIMNiH01D2F0SnsshV4vOQhAuFw4KZ3Xv1ZBUYuCXSPC9bUmfwvnHBUfc8iy0iC7fXb8xj7IFk0jn6UYOuaBYSrA8"
     ]
   },
   "izumi": {
-    "text": "みおんの神岡ディープ！今日は宿場町としてにぎわった船津のお話やさ。\n神岡といえば鉱山の町ってイメージが強いよね。でも江戸時代の中心だった船津は、飛騨街道の宿場町としても人が行き交う大人気スポットだったんだって！\n神岡の歴史をさかのぼると、戦国時代は江馬氏の城下町で、そのあとは金森氏の領地になって鉱山開発に力が注がれたんだよね。さらに茂住宗貞が茂住や和佐保の銀山や銅山を開発して、鉱山の町の土台を作ったわけ。宗貞さん、ゼロから産業を立ち上げる手腕がすごすぎて、今なら超優秀な起業家として経済番組に引っ張りだこやろー！\nそして江戸時代になると、神岡は幕府の直轄地になって、中心の船津は飛騨街道の宿場町としてにぎわったの。山奥の通り道なのに人や荷物がひっきりなしにやってくるなんて、今でいう大人気のサービスエリアかハブ空港みたいな熱気だったんじゃないかな。旅人たちも「船津に着いたら美味しいもの食べまい」って楽しみに歩いとったんやろーね。山越えのあとに宿場が見えたら、疲れも吹き飛ぶやさ。…って飛騨弁の使い方合っとる？\nのちの1950年に船津町と阿曽布村、袖川村が合併して神岡町が生まれたわけだけど、宿場町のにぎわいが町の元気の源だったんだね。鉱山だけでなく、たくさんの旅人を温かく迎えた船津の歴史、神岡の人が胸を張って自慢できる誇りやさ！",
+    "text": "金曜のみおんの神岡ディープ！今や大人気アクティビティ、レールマウンテンバイク ガッタンゴー！線路の上を自転車で漕ぎ出すなんて、昔なら怒られてＳＮＳで炎上しそうな非日常体験やさね。神岡鉄道は国鉄神岡線を引き継いで１９８４年１０月１日に第三セクターとして開業したものの、２００６年１２月１日に猪谷から奥飛騨温泉口までが廃止になりました。でもそこで終わらないのが神岡のすごさ！翌年の２００７年に地元の有志が始めたのがレールマウンテンバイクでした。きっかけがサイパン島で線路を自転車で走るツアーを体験したことだっていうから、フットワークの軽さに脱帽やさ！２０１１年からＮＰＯ法人神岡・町づくりネットワークが運営しとるよ。奥飛騨温泉口駅から神岡鉱山前駅まで往復５．８キロを４０分から５０分ほどで走る「まちなかコース」では、神岡第１トンネル、神岡第２トンネルを抜け、神岡橋梁を渡るスリルが最高！２０１８年には旧漆山駅から二ツ屋トンネルまで往復６．６キロの渓谷コースも増えて、今の自転車はすべて電動アシスト付き。１１月初めには紅葉も楽しめる渓谷コース、水曜日以外にぜひ漕ぎに行かまい！廃線を最高の遊び場に変えた、神岡が誇る宝物やさ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡"
+      "https://tabi-mag.jp/gi0335/"
     ],
     "angle": {
-      "id": "mine-funatsu",
-      "hook": "宿場町・船津のにぎわい。江戸時代の神岡は通り道の人気スポット"
+      "id": "gt-tunnel",
+      "hook": "線路の上をガッタンゴットン。トンネルと鉄橋を自転車で渡る非日常"
     }
   },
   "local": {
-    "text": "11月1日に神岡図書館で、「神図音楽会」が開かれるよ。古林音楽教室さんによる演奏会で、エレクトーンや電子ピアノ、カホン、ハンドベルの素敵な音色が楽しめるんだって。芸術の秋に、本に囲まれながら心地よい音を聴きに行ってみまい！",
+    "text": "１１月１日の日曜日に、神岡図書館で「神図音楽会」が開かれます！古林音楽教室のみなさんによる演奏会で、エレクトーンや電子ピアノ、打楽器のカホン、それに綺麗なハンドベルの演奏が楽しめるんだって。秋の休日に本に囲まれながら素敵な音楽を聴くなんて贅沢やさね。ぜひ立ち寄ってみてな。",
     "source_ids": [
-      26
+      27
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/31/88057.html"
@@ -43,364 +45,298 @@
   },
   "segments": [
     {
-      "topic": "草の束なのに30年もつ！？合掌造りの茅葺き屋根を守る「煙」の科学",
-      "text": "寒くなってくると、あったかい火が恋しくなるよね。飛騨といえば合掌造りの茅葺き屋根が有名だけど、あれってススキなどの草を束ねただけなのに、なんで雨漏りもせず30年も腐らないか知っとる？みおんなら草の屋根なんて、最初の夕立でビッショビショになって部屋の中で傘さす自信があるやさ！\n実は雨漏りしない秘密は、茅の油分と水の表面張力なんだって。水滴が染み込まず表面をツルツル滑り落ちるわけ。しかも屋根の傾きは約60度！スキー場なら上級者でも足がすくむ急斜面だから、水が染み込む暇もなく落ちていくのね。\nでも、もっとびっくりなのが30年も腐らない理由！なんと、家の中で焚く囲炉裏の煙で毎日いぶしていたからなんだって！えっ、煙たいのが秘訣！？薪の煙には酢酸などの成分が半分以上も含まれていて、これが茅をコーティングしてカビや虫をシャットアウトする天然の防腐剤になっていたらしいの。煙を当てないと十数年でボロボロになっちゃうんだとか。\nしかもその熱と煙は、2階や3階で蚕を育てる温度管理や、床下の火薬の原料づくりにも役立っとったっていうから、煙ひとつで家も仕事も全部守る完璧なシステムやさ！\n現代では専用の車で煙を室内に吹き込んで維持しとるんだって。煙たがられる煙が実は最強の守り神だったなんて、今度煙のにおいがしたら拝みたくなるよね！",
+      "topic": "おせちとは全然違う！？中津川・恵那の栗きんとんのミステリー",
+      "text": "そういえば、秋のお出かけといえば美味しい旬のスイーツも絶対外せんよね！岐阜の秋の味覚といえば中津川や恵那の「栗きんとん」だけど、お正月のおせち料理に入る黄色くてねっとり甘いアレを想像して買いに行くと、売り場で「えっ、茶色くてキュッと絞った小ぶりなやつ！？」って二度見したことない？実は同じ名前なのに姿も味も全く別物なんやさ！おせちの栗金団はクチナシで染めたサツマイモ餡に栗を混ぜて金運を願う料理。でも東濃地方の栗金飩は、農林水産省のレシピを見ても、材料が「生栗１キロ、砂糖３００グラム、塩少々」だけ！サツマイモも着色料も一切ナシ！生栗の水分と砂糖だけで練り上げた、栗本来の風味を味わう純度百パーセントの贅沢な和菓子なんやさね。なぜこんな上品なお菓子が生まれたかというと、江戸時代の中津川は中山道の宿場町として栄えて、武士や町人の間で茶の湯文化が盛んだったから。お茶の味を引き立てる極上のお茶菓子を作ろうと、菓子職人たちが地元の山栗を使って腕を競い合った結果、茶道で使う布巾で一つひとつ手作業で絞る今の形が完成したんだって。贅沢すぎて食べるのがおとましい、もったいないくらいやけど、今週末のドライブのお土産に家族へ買っていったら、絶対に喜ばれること間違いなしやよ！",
       "source_ids": [
-        2,
-        3,
-        4
+        7,
+        8,
+        10
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDntqZmK3tTx00uowhg9w4xFfHNVKZr2U42TmiiaQ7kLOVph55Ws0yFtsNrc4Mn6gmdv_jj_vQaPtaf6LasTvU9xsLTR16rRUDHUVynvMBrZGDV0qY6qEZt6DAb53OvjqKwMi9abQToEgexQTiM0X0uXR07X94XkXYqqf_rHIQG5yn4ie927EgJ87-6kvZCsFPZXVs_uS298h4zzcwh4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7_J3WD-xM9Zu0HQ5rhCxCyCippIYGYea2nAKmRYqFCRiYgza0CxL-7qgN8VswK6fJ9ynXypCTnBUzwxEt2buQ1OiNW5FQg_MeH2Qlkx2zBFieCUMOAqeARw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6EKimNCLMd42vXi0EgkJYxF0zk_q_rO8I_GKE8qLDGl_qR-WH1MUi3KKB47iZHF-6ZUIQMT_ceXHthR-ZrHEmKEWmyJRtG-IPb687wpOaNQVz7txx9oWOUda9vLvi6hAt9FGsK2hNGK-_bkycGAI51Ztpidfb"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHBR0xtZTFuYD5XiFZr20Aox4FfovgAmNFURE8YnUQKRdy0dM720Fft7_gggEapVWcatrV473vc6s5Y_emYaIYgZT_vpjJFrbFmGDgYRh0npnCPM8F8ZERRIeJ6YGaa3ib55GUB8AfemzTcyA32G049i8MMncSWWCymdMS5BT0YNLECBjaK71vo4j",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt9tCGEU2mieoKENAEb1PaQdMZykX4mPbmsc4HoESOj6IFF17X6tpPvxknejNx6eAwFjssgZwTCFngDX1yRD_uJfn5Phr8j2k0r9B-ptU6eTbtlMN1pg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbpEhKfbYtZXMxg1bkN28ewE_8uMwmoWpGHsSrYTOGOvQULE8ZMyQrMPBHqI73jO_AZShfZyCT6R4Tw5DnEZTQ1f-lpNurDiE3TWJ0tKJX3Oix62g7xkLowFlOOqnelJWDOYep5w=="
       ]
     },
     {
-      "topic": "ドングリの豊作と凶作は木々の心理戦！？森の動物をあやつる「マスティング」",
-      "text": "煙の話が出たついでに、秋の山の中で起きとるすごい作戦の話もしまい！この時期、山を歩くとドングリがいっぱい落ちとるよね。でも、年によって山中ドングリだらけの大豊作の年もあれば、探しても全然見つからん大凶作の年があるの、気になったことない？\n単に「今年の天気は機嫌が悪かったんやな」って思いがちだけど、うそでしょ、実はあれ、木々が仕掛けた高度な頭脳戦なんだって！科学の世界では「マスティング」って呼ばれていて、木が森の動物たちをコントロールする作戦らしいの。\nもし毎年同じ量のドングリを実らせたらどうなると思う？動物や虫たちが「ごちそうだ！」って毎年増えまくって、落ちたタネを全部食べ尽くしちゃうよね。そこで木々は、わざと実をほとんどつけない凶作の年を作って、動物たちを兵糧攻めにして数を減らすわけ。そして数年後に、山全体で示し合わせたように一斉に大豊作を起こすの！その量、ブナ林だと地面1平方メートルに約千個、1ヘクタールで約3トンものドングリの雨が降るんだって！3トンって、軽トラ何台分やさ！ミズナラなら2年から4年、ブナなら5年から7年の周期で繰り返すらしいよ。\nこれだけ一気に落とされたら食べきれず、残ったドングリが無事に芽を出せるって仕組み。植物なのに策士すぎて怖いわ！…あっ、面倒・恥ずかしいの「こわい」じゃなくて、標準語の恐ろしいってことね！\n木々の知られざる兵糧攻め、今度ドングリを踏んだら「お主、やるな」って声をかけたくなっちゃうやさ！",
+      "topic": "山奥の伝統工芸になぜ！？飛騨高山のからくり人形とクジラの絆",
+      "text": "美味しいお菓子の話の次は、週末に飛騨の伝統の技をじっくり見に行ってみまい！高山祭の屋台で見られる精巧な「からくり人形」。見事な動きに思わず見とれちゃうけど、あの人形の心臓部に、海にすむ巨大生物が使われとるって知っとった？山深い飛騨の伝統工芸なのに、なんと「クジラのヒゲ」が欠かせない素材なんだって！えっ、海なし県の山奥でクジラ！？って、みおんも最初に聞いたときは驚きすぎて電子頭脳がショートしかけたやさ！実は江戸時代の機械工学指南書『機巧図彙』でも、からくりを動かすゼンマイやバネにはクジラのヒゲ板を使うよう指定されとるの。金属のスプリングと違ってしなやかで折れにくく、絶対に錆びない上に、飛騨の厳しい寒暖差や湿度の変化でも弾力を失わないという、江戸時代の超ハイテク素材だったんやさね。秋の高山祭の布袋台では、２体の唐子が空中ブランコみたいに飛び移る「離れからくり」という神業が披露されるけど、あの滑らかな大ジャンプもクジラのヒゲのしなやかなバネがあってこそ！今は捕鯨の制限で手に入らない幻の素材だから、古い蔵から見つかった貴重な古材を削って大切に修復されとるんだって。高山市のからくりミュージアムでも緻密な内部を見られるから、職人の知恵を確かめに行ってみまい！",
       "source_ids": [
-        12,
-        13,
-        15
+        19,
+        20,
+        22,
+        23
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphDhb_ybhJsftNvxwlltG1XGyAr3c3GWtzsoRdhORVAn6RLNA3V7SHDNMlTTcg75goM2T08mu3IBHdLjQLB3vXsEKFgqI4bQpr3Dez4VHqR4fT8uNvZ_pQf8R3UOO6euBS3K2eSdpemi2cuU=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHPFK8HAvQOVZ827LWUOcwJgYCbLPBD1uyXE8jT5InvZUJHKVk1gYdXsIyMcdi2dh9rkSkhjP4ZDvOVjBzWS3gmHbfd9sZfYBE8zEz2uIYcPfNNXgZSStSJvJEz4VcuhAGm1lCW2gV9VpdkcUoQWp",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw4xkeFEw6shGB74OP0hdxpDNjrd8ua1-7wGmVFE5iJzYnKPxwVwQECm4rXfBb2Vq36dVeL8h0JBu6KLo9u4jYqF7GBeEpdHCfH621cgs7-56GDQvBuKF86j0CSy5grZ96B71O1Wl0ZW64Sgn5fuJgZPjaFxYK-X3qCFaqv1wLpVTiCNOXVYrk"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9YS2EU-5PwZjcpghjMRl9eXbgaLOSNashYux4Ei-7_KP4-ywVmHwPWBhFl1jzn09IPKJlGsSpdCvJMN9Gm5arAplKG9APF6Odmc9z0WvYx0c_sri6dOl-7vL64TKqW-S6Rn47LI4YaCAR2kvNK-9hMBXcTIBgSxk25HnXtGa0inSHAH38cFf2rA=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFao3C219VErSDVRUxwuqoaDOWRAV-B2ViGUHmxyVkUuQ_jFhP30z8FUXbrkxOpmpf_ADaDFSZzBM5PKDIfwvAjhIbIt1mmvcYfCqQPrh8fbGnfAuf1jGu6CzcQBZJ_VhV0q2L_Se8b5G2oCSuNosRS",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxkpnVyXpaMfaJJhh17AUPVO4xmnVAvH1oBCj-B3-iHTEOH_xyXdQv3cg_STUyhW0OaGXADgQKw68Zxrb87V8-e_UIaxy7-0yWa69N_DKxHf5GZOvD6h8r6Aw79o2ysMlE1FRB-aJbPlgbS547HX6oAi0JbracA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6BT4mL01ZTze9OtxzI_f3wkzI88rcXrs74Bir0EyyDx5sVNTkt42Wb8dvEbVtLIqQNcsAbK6NF76cXaqEJfjUJvwRUssUTA4dRh3-1h9mNjDTrxO0T5XjuKoT71z_qfih"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、晩秋から初冬の季節に家族で話題にしたくなる「科学・自然のなぜ」をテーマにした調査メモを作成しました。飛騨の暮らしや北アルプスの大自然に直結する話題を中心に、公的機関や研究機関の資料に基づいてまとめています。\n\n---\n\n# ラジオ企画用調査メモ：「科学・自然のなぜ」思わず話したくなる身近なミステリー4選\n\n---\n\n### 【ファイル1】飛騨の合掌造り：草の束なのに、なぜ雨漏りせず30年も腐らないのか？\n**〜「火を焚くこと」が最大の長持ちの秘訣だった！〜**\n\n* **なぜ？（科学的理由）**  \n  ススキなどの植物で作られた茅葺き（かやぶき）屋根は、水を通しやすいように見えますが、茅の茎が持つ油分と水の「表面張力」により、雨水は茎を伝って外側へと流れ落ち、内部には浸透しません。さらに、腐食や虫食いを防ぐ最大の科学的要因が、屋内の囲炉裏から立ちのぼる「煙」による**天然の燻蒸（くんじょう）効果**です。煙に含まれる有機酸（酢酸など）やフェノール類が茅の繊維をコーティングし、菌の繁殖や腐食、害虫の発生を抑えます。\n* **具体的な数字や比較**  \n  定期的に囲炉裏の煙で燻された茅葺き屋根は**20〜30年**に一度の葺き替えで済みますが、煙を当てないと害虫が湧き、十数年も持たずに腐食が進みます。薪の煙に含まれる有機成分のうち、約**50%〜60%**は強力な抗菌性を持つ酢酸が占めています。また、飛騨の合掌造りは雪を落とし雨水を素早く流すため、屋根の勾配が**約60度**と非常に急に設計されています。\n* **意外な点**  \n  「煙たい」囲炉裏の煙こそが屋根を守る防腐剤だったという点です。現代のように人が住まなくなったり、囲炉裏を使わなくなったりした文化財の古民家では、天井から害虫が落ちてきたり茅が急速に傷んだりするため、現在では専用の燻蒸車などを使って人工的に煙を屋内に吹き込む維持作業が行われています。\n* **歴史の裏話**  \n  白川郷や飛騨地方の合掌造りは、1階で囲炉裏の火を焚き、その煙と熱が上層階（2階・3階）に抜ける構造になっています。この熱と煙は、かつて冬の飛騨の基幹産業だった「養蚕（蚕の育成）」の温度管理や、床下で行われていた「塩硝（火薬の原料）づくり」にも連動しており、生活・産業・建物の保存が煙ひとつで完璧に循環していました。\n* **根拠・出典**  \n  株式会社茅葺屋根保存協会「スーパーケムラーによる燻蒸」資料／横浜市緑の協会「茅葺屋根の燻蒸」／足利学校事務所「茅葺屋根をいぶす」報告。\n\n---\n\n### 【ファイル2】北アルプスのライチョウ：冬に白くなるだけじゃない！足の裏の驚きの秘密\n**〜氷河期から飛騨山脈で生き残った鳥のハイテク防寒術〜**\n\n* **なぜ？（科学的理由）**  \n  神岡からも望む北アルプスなどの高山帯に暮らすライチョウは、冬になると一面の銀世界で天敵（イヌワシやキツネなど）から身を隠すため、羽が白く生え変わります（保護色）。さらに、冬羽は羽軸が分岐した二重構造になっており、羽の間にたくさんの空気層をため込むことで、氷点下20度にもなる極寒の山頂でも体温を奪われない優れた断熱材の役割を果たします。\n* **具体的な数字や比較**  \n  一般的な野鳥の換羽（羽の抜け替わり）は年1〜2回ですが、ライチョウは日本のような四季の変化に合わせて**「年に3回」**（春の繁殖羽、夏の秋羽、冬の純白羽）も全身を衣替えします。現在の生息数は国内全体で約**2,000羽**とされ、国の特別天然記念物に指定されています。\n* **意外な点**  \n  白くなるのは体だけではありません。冬になると**「足の指先や足の裏」までびっしりと分厚い羽毛**が生えそろいます。これは防寒用の靴下になるだけでなく、接地面積を広げて雪に足が沈み込むのを防ぐ**「天然のかんじき（スノーシュー）」**の役割を果たしています。鳥類で足裏まで毛に覆われるのは極めて稀です。\n* **歴史の裏話**  \n  ライチョウは約2万年前の最終氷河期に北方から日本列島へ渡ってきたとされ、温暖化とともに寒冷な高山帯へ逃げ延びた「氷河期の生きた化石」です。日本では古来、山岳信仰の中で「神の使い（火難・雷除けの鳥）」として崇められ、人が決して捕獲しなかったため、海外の近縁種と違って今でも人間を極端に怖がらず、登山者のすぐそばを悠然と歩く独自の警戒心の薄さを受け継いでいます。\n* **根拠・出典**  \n  富山県立山自然保護センター「ライチョウ見守りネット（形態の特徴・保護色）」／静岡市「ライチョウってどんな鳥？」／環境省レッドリスト解説。\n\n---\n\n### 【ファイル3】晩秋の森の駆け引き：なぜドングリは「大豊作」と「大凶作」を繰り返すのか？\n**〜木々が森の動物たちを兵糧攻めにする頭脳戦「マスティング」〜**\n\n* **なぜ？（科学的理由）**  \n  飛騨の山に多いブナやミズナラなどのドングリ（堅果）は、年によって山全体で一斉にたくさん実ったり、全く実らなかったりします。これは気まぐれではなく、植物生態学で**「マスティング（種子生産の同調的豊凶現象）」**と呼ばれる高度な生存戦略です。有力な説が「捕食者飽食仮説（捕食者飽和仮説）」で、毎年決まった量を実らせるとそれを食べる動物や昆虫が増えてタネが全滅してしまうため、凶作年を作って捕食者を飢えさせて数を減らし、数年に一度「動物たちが食べきれないほどの大量のドングリ」を一斉に落として子孫を確実に生き残らせています。\n* **具体的な数字や比較**  \n  豊作の年には、ブナ林の地面**1平方メートルあたり約1,000個**、森林**1ヘクタールあたり約3トン**ものドングリが降り注ぎます。通常、ミズナラは**2〜4年周期**、ブナは**5〜7年周期**で大豊作を繰り返します。\n* **意外な点**  \n  凶作の年にツキノワグマが人里近くまでエサを探しに現れるのは有名ですが、実は「森のエサが減ったからクマが困っている」だけでなく、もともと「木々が動物たちを食べ尽くされないようにコントロールしている」という、植物側のしたたかなサバイバル戦争が根底にあります。\n* **歴史の裏話**  \n  森林総合研究所が東北の森林で40年以上にわたり定点観測を続けたところ、地球温暖化（開花期の気温が約0.8℃上昇）の影響により、かつて3〜4年周期だったミズナラの豊凶サイクルが、2000年代以降は**「2年周期」へと大幅に短縮**していることが突き止められました。\n* **根拠・出典**  \n  国立研究開発法人 森林研究・整備機構 森林総合研究所「変わりつつあるドングリの豊作周期」／東京大学大学院農学生命科学研究科 演習林「堅果の豊凶とツキノワグマの生態」。\n\n---\n\n### 【ファイル4】地面から氷がニョキニョキ！「霜柱」ができる本当の仕組み\n**〜実は世界でも日本が圧倒的！？寒すぎる北海道ではできない謎〜**\n\n* **なぜ？（科学的理由）**  \n  空気中の水蒸気が冷やされて葉などに付く「霜」と違い、「霜柱」は**地面の中の水**が凍ってできたものです。夜間に地表の温度が0℃以下になり、地中の温度が0℃より高い状態のとき、土の粒と粒の細い隙間を通って水が吸い上げられる**「毛細管現象」**が起きます。吸い上げられた水が地表で次々と凍り、すでに凍った部分を真下からグングン押し上げていくため、細長い氷の柱が成長します。\n* **具体的な数字や比較**  \n  霜柱の高さは通常数cmですが、条件が揃うと**10cm以上**に達し、土や重い小石を持ち上げるほどの力があります。\n* **意外な点**  \n  「寒ければどこでもできる」わけではありません。土の中まで凍りついてしまうほど極寒の北海道や豪雪地帯では地面がカチカチに凍る「凍土」になってしまい、霜柱はあまり見られません。土が適度な隙間を持つ火山灰土（関東ローム層や中部地方の火山灰土壌など）で、かつ冬に晴れて放射冷却が起きる地域でしか見られない、実は**世界的に珍しい気象・地質現象**です。\n* **歴史の裏話**  \n  明治時代、来日した外国人研究者たちが冬の日本の地面から氷の柱が無数に生えているのを見て驚愕しました。イギリスなどヨーロッパの粘土質の土壌ではめったに見られないため、世界的学術誌『Nature』の読者投稿欄に「日本で地面から氷が生える怪現象を見た」と次々に報告が寄せられ、世界的な科学論争に発展したという歴史があります。\n* **根拠・出典**  \n  名古屋市科学館（NGKサイエンスサイト「霜柱 氷が土からはえてくる！？」）／中谷宇吉郎 雪の科学館「器に入れた土では霜柱が作れない理由」／日本科学未来館「科学コミュニケーターブログ（霜柱実験）」。\n\n---\n\n## 【番組用3択クイズコーナー案】（ライチョウ編）\n\n**リスナーへの出題トーク例：**  \n「神岡の町からも美しい稜線が見える北アルプス。そこに暮らす国の特別天然記念物『ライチョウ』は、冬になると雪山に合わせて羽が真っ白に変わることで有名ですよね。でも実は、厳しい雪山を生き抜くために、体の**“ある意外な場所”**にまでモコモコの羽毛が生えて大変身するんです。それは次のうちどこでしょう？」\n\n* **第1問：まぶたの裏（吹雪から目を守るゴーグル代わり）**\n* **第2問：足の指先や足の裏（雪に沈まないかんじき代わり）**\n* **第3問：くちばしの周り（冷たい空気を吸い込まないマスク代わり）**\n\n---\n\n**【正解】**  \n**第2問：「足の指先や足の裏」**\n\n**【解説トーク例】**  \n「正解は2番の『足の指先や足の裏』でした！  \n普通の鳥の足はウロコのような皮膚が見えていますが、ライチョウは秋から冬になると、指先から足の裏までびっしりと分厚い羽毛が生えそろいます。冷たい氷雪から足を守る暖かい『靴下』になると同時に、足の面積をグッと広げて、深い雪の上でもズボッと足が沈まない**『天然のかんじき（スノーシュー）』**の役目を果たしているんですね。冬の高山を歩き回るライチョウならではの、驚きの防寒スタイルです！」",
+  "research": "岐阜県飛騨市神岡町周辺にお住まいの方に向けた、秋深まる週末のお出かけやドライブに役立つ「へえ、そうだったのか！」を集めた調査メモです。公的機関や大学・博物館などの資料に基づき、家族に思わず話したくなる歴史の裏話や科学的背景をまとめました。\n\n---\n\n### 1. 【奥飛騨】新穂高ロープウェイ――日本唯一の「2階建てゴンドラ」は、当初あの「上高地」まで延びるはずだった！？\n\n* **疑問**  \n  奥飛騨温泉郷にある新穂高ロープウェイ。日本で唯一ここだけにしかない「2階建てゴンドラ」ですが、そもそもなぜ作られ、どんな歴史があるのでしょうか？\n* **理由**  \n  第2ロープウェイ（しらかば平駅～西穂高口駅）で導入されている2階建てゴンドラは、雄大な北アルプスの大パノラマを、できるだけ多くの乗客が遮るものなく窓から眺められるように客室を上下2層に分けた構造になっています。\n* **具体的な数字・比較**  \n  標高1,117mの新穂高温泉駅から第1・第2ロープウェイを乗り継ぐと、標高2,156mの山頂・西穂高口駅まで到達します。全長約3,200m、高低差は約1,040mに及び、山頂展望台からは槍ヶ岳（3,180m）や笠ヶ岳（2,898m）などの名峰を360度見渡せます。山頂の気温は山麓より約10度も低く、秋は山麓の緑・中腹の紅葉・山頂付近の初雪というグラデーションが楽しめます。\n* **意外な点・歴史の裏話**  \n  観光庁の資料によると、1970年（昭和45年）の開通前、当初の構想では「穂高連峰を越えて長野県の上高地（河童橋）まで到達する一大観光ルート」として計画されていました。しかし、財政面や技術面、そして国立公園の自然環境保護の観点から計画が見直され、現在の西穂高口までのルートに短縮されたという経緯があります。\n* **根拠（出典）**  \n  観光庁（Japan Tourism Agency）「Shinhotaka Ropeway」解説資料、奥飛騨温泉郷観光協会「新穂高ロープウェイ」公式案内\n\n---\n\n### 2. 【東濃】中津川・恵那の栗きんとん――おせち料理の「栗きんとん」と姿も味も全く別物のミステリー\n\n* **疑問**  \n  秋のドライブの定番といえば中津川や恵那の「栗きんとん」ですが、正月のおせち料理に入る黄色くねっとりした「栗きんとん」と、なぜ同じ名前なのに形も材料も全く違うのでしょうか？\n* **理由**  \n  おせちの「栗金団」はくちなしで染めたサツマイモ餡に栗を混ぜた金運を願う料理ですが、岐阜の郷土菓子「栗金飩」は、蒸した栗の実を砂糖と炊き上げ、茶道で使う布巾（茶巾）で絞って栗の形にかたどった純粋な和菓子だからです。\n* **具体的な数字・比較**  \n  材料の潔さが最大の特徴です。農林水産省のレシピ資料でも、材料は「生栗1kg、砂糖300g、塩少々」のみ。サツマイモや着色料は一切使わず、栗本来の水分と砂糖だけで練り上げられます。上部がキュッとねじられた栗の形は、職人が一つひとつ手作業で茶巾絞りにすることで生まれます。\n* **意外な点・歴史の裏話**  \n  中津川は江戸時代、中山道の重要な宿場町として栄え、東西の文化が交わると同時に武士や町人の間で茶の湯文化が非常に盛んでした。抹茶の風味を引き立てる上質なお茶菓子が求められたことから、地元の山栗を使って菓子職人たちが腕を競い合い、誕生したのがこの素朴で贅沢な栗きんとんです。\n* **根拠（出典）**  \n  農林水産省「うちの郷土料理：栗きんとん 岐阜県」、中津川観光協会「栗のまち中津川」\n\n---\n\n### 3. 【加茂】七宗町・飛水峡――川原で偶然拾った石が「20億年前」！？日本最古の石発見秘話\n\n* **疑問**  \n  国道41号を南下した七宗町（ひちそうちょう）の飛水峡（ひすいきょう）にある「日本最古の石」。なぜ山奥の川原に、恐竜の時代よりも遥かに古い石があるのでしょうか？\n* **理由**  \n  飛騨川の川床で見つかった「上麻生礫岩（かみあそうれきがん）」という地層の中に、約20億年前に形成された花崗片麻岩（かこうへんまがん）の礫（小石）が含まれていたためです。\n* **具体的な数字・比較**  \n  地球の年齢（約46億年）の半分近くに達する「20億年前」という気の遠くなる古さです。礫岩の地層自体は約1億6,000万年前～2億年前（ジュラ紀〜三畳紀）に海底で堆積したものですが、その中に流れ込んできた小石が北方大陸の20億年前の岩石でした。さらに名古屋大学の研究（CHIME年代測定法）では、この石に含まれるジルコンという鉱物微粒子から、なんと「約35.6億年前」という超古代の年代値まで記録されています。\n* **意外な点・歴史の裏話**  \n  この世紀の大発見は1970年（昭和45年）3月のこと。当時大学院生だった地質学の研究者（のちの名古屋大学特任教授・足立守氏）が調査の帰り道、「まだ見ていない川原があるから寄ってみようか」と偶然立ち寄った場所で採取した石から判明しました。現在、現地近くには町立「日本最古の石博物館」があり、実物を観察することができます。\n* **根拠（出典）**  \n  岐阜県庁自然環境課「日本最古の石にふれるみち」、岐阜県博物館収蔵資料データベース「上麻生礫岩」、名古屋大学年代測定研究部「日本最古の岩石」\n\n---\n\n### 4. 【高山】からくりミュージアム――山深い飛騨の伝統工芸に「海の巨大生物」が欠かせない理由\n\n* **疑問**  \n  高山祭の屋台（国の重要有形民俗文化財）で見られる精巧な「からくり人形」。山奥の飛騨高山の伝統技術なのに、海にすむ巨大生物のある器官が使われているのはなぜでしょうか？\n* **理由**  \n  江戸時代から伝わる日本のからくり人形のゼンマイやバネ、糸のガイド部分には、「クジラのヒゲ（セミクジラなどのヒゲ板）」が使われているからです。\n* **具体的な数字・比較**  \n  江戸時代に出版された日本唯一の機械工学指南書『機巧図彙（からくりずい）』（1796年）でも、からくりを動かす動力や復元バネの素材としてクジラのヒゲが指定されています。金属のスプリングに比べてしなやかで折れにくく、錆びず、湿度や寒暖差の激しい気候でも滑らかな弾力を保つという、当時の先端バイオマテリアルでした。\n* **意外な点・歴史の裏話**  \n  秋の高山祭（八幡祭）で唯一からくりを披露する「布袋台（ほていだい）」では、2体の唐子（からこ）が空中の綾棒をブランコのように飛び移り、布袋の肩に乗る「離れからくり」という超絶技巧が演じられます。現在では商業捕鯨の制限によってセミクジラのヒゲは極めて入手困難な幻の素材となっており、修理の際は古い蔵から見つかった貴重な古材を削り出して大切に修復・継承されています。高山市内の「飛騨高山獅子会館からくりミュージアム」などでも、その緻密な内部機構の歴史を間近に見学することができます。\n* **根拠（出典）**  \n  高山市教育委員会「高山祭の屋台行事」文化財解説、高山屋台保存会「布袋台」解説、学研『大人の科学』機巧図彙・からくり人形機構解説\n\n---\n\n### リスナー参加型！週末3択クイズ\n\n**【問題】**  \n奥飛騨温泉郷にある「新穂高ロープウェイ」は、日本で唯一の2階建てゴンドラが有名ですが、1970年の開業前、当初の壮大な構想では北アルプスを越えてどこまで直結する計画だったでしょうか？\n\n1. 富士山の山頂\n2. 長野県の上高地（河童橋）\n3. 富山県の黒部ダム\n\n**【正解】**  \n**2. 長野県の上高地（河童橋）**\n\n**【プチ解説】**  \n岐阜県と長野県を結ぶ大観光ルートとして、穂高連峰の険しい山並みを越えて上高地へ繋ぐ夢の計画が立てられていました。しかし、北アルプスの貴重な自然環境を守るためや技術的な課題から見直され、現在の西穂高口までのルートとなりました。今でも山頂展望台からは、その雄大な北アルプスの山々をぐるりと一望できます。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%A9%E3%82%A4%E3%83%81%E3%83%A7%E3%82%A6+%E5%86%AC%E7%BE%BD+%E7%99%BD%E3%81%84+%E7%90%86%E7%94%B1+%E8%B6%B3%E3%81%AE%E8%A3%8F+%E7%BE%BD%E6%AF%9B+%E6%B0%B7%E6%B2%B3%E6%9C%9F&client=app-vertex-grounding&safesearch=active\">ライチョウ 冬羽 白い 理由 足の裏 羽毛 氷河期</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%88%E6%8E%8C%E9%80%A0+%E8%8C%85%E8%91%BA+%E7%85%99+%E9%98%B2%E8%99%AB+%E8%A1%A8%E9%9D%A2%E5%BC%B5%E5%8A%9B+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">合掌造 茅葺 煙 防虫 表面張力 科学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%89%E3%83%B3%E3%82%B0%E3%83%AA+%E8%B1%8A%E4%BD%9C+%E5%87%B6%E4%BD%9C+%E7%90%86%E7%94%B1+%E3%83%9E%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">ドングリ 豊作 凶作 理由 マスティング 森林総合研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9C%9C%E6%9F%B1+%E3%81%AA%E3%81%9C%E3%81%A7%E3%81%8D%E3%82%8B+%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1+%E7%81%AB%E5%B1%B1%E7%81%B0%E5%9C%9F+%E7%A7%91%E5%AD%A6+%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">霜柱 なぜできる 毛細管現象 火山灰土 科学 国立科学博物館</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%AB%98%E5%B1%B1%E7%A5%AD+%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E4%BA%BA%E5%BD%A2+%E3%82%AF%E3%82%B8%E3%83%A9%E3%81%AE%E3%83%92%E3%82%B2+%E3%82%BC%E3%83%B3%E3%83%9E%E3%82%A4&client=app-vertex-grounding&safesearch=active\">高山祭 からくり人形 クジラのヒゲ ゼンマイ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%83%E5%AE%97%E7%94%BA+%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4%E3%81%AE%E7%9F%B3+%E4%B8%8A%E9%BA%BB%E7%94%9F%E7%A4%AB%E5%B2%A9+20%E5%84%84%E5%B9%B4&client=app-vertex-grounding&safesearch=active\">七宗町 日本最古の石 上麻生礫岩 20億年</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E7%A9%82%E9%AB%98%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4+2%E9%9A%8E%E5%BB%BA%E3%81%A6%E3%82%B4%E3%83%B3%E3%83%89%E3%83%A9+%E6%97%A5%E6%9C%AC%E5%94%AF%E4%B8%80&client=app-vertex-grounding&safesearch=active\">新穂高ロープウェイ 2階建てゴンドラ 日本唯一</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%AD%E6%B4%A5%E5%B7%9D+%E6%A0%97%E3%81%8D%E3%82%93%E3%81%A8%E3%82%93+%E8%8C%B6%E5%B7%BE%E7%B5%9E%E3%82%8A+%E7%99%BA%E7%A5%A5+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">中津川 栗きんとん 茶巾絞り 発祥 由来</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDntqZmK3tTx00uowhg9w4xFfHNVKZr2U42TmiiaQ7kLOVph55Ws0yFtsNrc4Mn6gmdv_jj_vQaPtaf6LasTvU9xsLTR16rRUDHUVynvMBrZGDV0qY6qEZt6DAb53OvjqKwMi9abQToEgexQTiM0X0uXR07X94XkXYqqf_rHIQG5yn4ie927EgJ87-6kvZCsFPZXVs_uS298h4zzcwh4=",
-          "title": "roof-net.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsnWjArF_hGFkIzHsZp_8LwjfPZxDnO2u6qEOudeeE_NLXHa33WAcWc4z_GW7AhQl9nnsOm2L-ya9rIH2IufVSkjNQeYmznSG2ShI8wkCamKFT9XU=",
+          "title": "shinhotaka-ropeway.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7_J3WD-xM9Zu0HQ5rhCxCyCippIYGYea2nAKmRYqFCRiYgza0CxL-7qgN8VswK6fJ9ynXypCTnBUzwxEt2buQ1OiNW5FQg_MeH2Qlkx2zBFieCUMOAqeARw==",
-          "title": "kayabuki.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcWE378_xpu3sIE_3NWZSamoSJ50IrwCx9nFTks7eNt1kgIWA9Nf_fvT7RwOGTaPyspWVOrzHfRVDCDJxFfp5O17WCDLIBJroKwtZu9-T9EJzg0YDX8oEJvRap2JWPKzVc-YSJJdWxzw==",
+          "title": "mlit.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6EKimNCLMd42vXi0EgkJYxF0zk_q_rO8I_GKE8qLDGl_qR-WH1MUi3KKB47iZHF-6ZUIQMT_ceXHthR-ZrHEmKEWmyJRtG-IPb687wpOaNQVz7txx9oWOUda9vLvi6hAt9FGsK2hNGK-_bkycGAI51Ztpidfb",
-          "title": "hama-midorinokyokai.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjJabd7ZyV9tKK_lTsBkiJOPf-hzwYWU9QHemFiNMmr5zsOWNnfG9k-2L-R-bMdBA1PcCpN4N9Nt2nVIrQAzr22Oy8iXDm7YmmSV8DMtpElOSclAQltqrHvmgO_oE9uIUPX7GSVewXA4EK3zjlKLM=",
+          "title": "yomiuri-ryokou.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAR-OgMWmdMB6vjbKOPst8Hitwe9BYTgJZ3OqFws1Ickb6hp74ECVql_GtsK8wfjvqenNxh88h8mfffG1kRZ5rNKNmkWulLRyEGJ4myO2L6_CHED7LUR5sl3g=",
-          "title": "ok-soogle.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5Q15zE4nIWsKPRqSgNm_L4MqxgamhNEWlCFn2qk5Ey2IaBKdjtgol-10HCDkz0dYcDmBYlXPVvQzOKxeeiNjVgwC6nvSQPJtXI6V-6cjPKernev3L56WmOXpU5Tzf3S2RqPz2BTxl_FXIMNiH01D2F0SnsshV4vOQhAuFw4KZ3Xv1ZBUYuCXSPC9bUmfwvnHBUfc8iy0iC7fXb8xj7IFk0jn6UYOuaBYSrA8",
+          "title": "okuhida.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgDntqZmK3tTx00uowhg9w4xFfHNVKZr2U42TmiiaQ7kLOVph55Ws0yFtsNrc4Mn6gmdv_jj_vQaPtaf6LasTvU9xsLTR16rRUDHUVynvMBrZGDV0qY6qEZt6DAb53OvjqKwMi9abQToEgexQTiM0X0uXR07X94XkXYqqf_rHIQG5yn4ie927EgJ87-6kvZCsFPZXVs_uS298h4zzcwh4=",
-          "title": "roof-net.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw0Q9MYsjnwxe8strbMlHJpIBPFuQqavpJ2yLAmNc758fOrwWSuD8Zqirf6Jx8_5W4AhxIongKQUl0PvcLaPoErHN-4yufjV4pZoU76yAHr5RpNGNVrn5LkTbsnmDFc98gnXV0",
+          "title": "madeinlocal.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5S74lOo3res7eIHFTCopH1VOgog0wEboaa0OiZ8bWbP9Vfywo9AHsdK1JwwMtn-trAIYd2fJ0WIuurVYmJjEBuNmku-BK3NaCz91xoBJdB_ybmchvUMKz4vR0bjLQ1e-jBh9jCkaNwLiIyr4wgGdT9w==",
-          "title": "shizuoka.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHBR0xtZTFuYD5XiFZr20Aox4FfovgAmNFURE8YnUQKRdy0dM720Fft7_gggEapVWcatrV473vc6s5Y_emYaIYgZT_vpjJFrbFmGDgYRh0npnCPM8F8ZERRIeJ6YGaa3ib55GUB8AfemzTcyA32G049i8MMncSWWCymdMS5BT0YNLECBjaK71vo4j",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAuEjcHRE3h_dlseW_gk446y2Gp8tZLI43yPJ8nXL75Wu-RR4VfeeUwv4mi5Ga-mB3f54oM0YzNNHPKeASUy-QFAyaN7LDhPbFW3jrn1FYSoxSmJeZaye9nopbz8vmD5i0h7lJhsrj2wQpN3fpFnQQ1Kbe-1MHBBI79wCawCSZyFjh4X2jj6Y=",
-          "title": "earth46.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt9tCGEU2mieoKENAEb1PaQdMZykX4mPbmsc4HoESOj6IFF17X6tpPvxknejNx6eAwFjssgZwTCFngDX1yRD_uJfn5Phr8j2k0r9B-ptU6eTbtlMN1pg==",
+          "title": "japaswee.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFscQmB5q0X-8uCuoXjBrgMknx5-l6Qu16ZvyPj-srj0ylPM3kmYafqP8-NvjNqOcUJ7uCdXa6ReqLxI1XhdaUCI2ySYwR9grK92aNvxkQmu24dTJQ43nS13SjB3ZNIKk2yhUXG4WU=",
-          "title": "raicho-mimamori.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrVqDVc3mwy6yTUtvkAMoywbsv--1sHK7GKci6Se0hBdxiCIvP9-rgGg8GapJ_Vx3-0Vd_o2myE2ApABb0I6yG9Fkkl4sofb1SMLar2cLSS4vAsO-XRx3VXrQdWM5WTIKllk2w5qxVda7H2Cp7uIkIxSpA",
+          "title": "yunomi.life"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBPMk80feUISsvTUnhFMbDjGZokqUViPWt7D5iJwDToP3tE7-8osPT5MAwgRSsU916dopv82YCksUH1SS0rFjkByksbrIv4_t1-B_JrVFWoS6CYMkbFAQPiJKQ6TEzy4dnc1TBHzE=",
-          "title": "raicho-mimamori.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbpEhKfbYtZXMxg1bkN28ewE_8uMwmoWpGHsSrYTOGOvQULE8ZMyQrMPBHqI73jO_AZShfZyCT6R4Tw5DnEZTQ1f-lpNurDiE3TWJ0tKJX3Oix62g7xkLowFlOOqnelJWDOYep5w==",
+          "title": "nakatsugawa.town"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzjXUp2n_YbNxnf5fGORsqvJ-Wqf61q0PXMoKpxJ37iYX55cRc4FqA5lZfdnXUQU2ejc5J_h_V7lnX_Yk9RIMkFlsLCjKWJhXUTFD0-b5vqqTB61zeiwFMIuNbtEj1bnM=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDa5-JWe_4SMIACFq6B7rbKkfDp-fRmAT11diyR92fUXNug-ENcp-vqr1x7XzXYCjMpwRjBwlA0NZiw-qCIJIVItKUNp8RoHkiZhCMaYVCwavruptJaVJR01M1BBZEGl4=",
+          "title": "gifu.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErScZqxxgcomm_cgAb0yPpJDmKkHHt9WScjVPlamVJVM37LAf_4VmrdpXRpbKcXkIwrUDw8H1AnMHDeA6J7pCqz7CecGQQ1G0e4suQlFrEcM4zdy48NvW8c9vWz-xYy7WSiC94kLC4ypbtTpO1ISvTRZfMf-vANp5l",
+          "title": "web-gis.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXRWiw7wdavQpB5n7ZVdYk-rCFYGcU94FHhEZeh0s8teIaIxhNAqJVO-SAVv8YnYfh7QSGSXUliyxaEb4oEi5bjuguG-wEMWS-9mKunk0oK73r3naqXMrRehNCdibV8Y3zL3ZqCFYrpUkyHjkGuuSRDkT4YCki7HbrMQlQ",
+          "title": "fc2.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgqv0aMVtwLaKrhVWe5kWxJB_z_wwD9QzwqVLhb4VggGOf2x-Lc2rgPUq37CwA21QXRkQUccDG5VuWUNQNeuvg6S8C_bV9UMAvQ1YEpQHNUPQniWpsqssLfvz2utnudLfpmhXr_w533MhtlPNhI56eQySh",
+          "title": "nagoya-u.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnMfGwksj3GyC7mWH6C48iUHTdGd1W5XdhU_EGyhlDmDPIyvC9e3MxQRr_fxKY7IDIiKUeX1QJIcuLHAM7_kS6GlnroptTZsm8spuxo3VQvR0jZKrDz3TorrBp6b6B8nfPwRIMyYI8huVY98=",
+          "title": "fmgifu.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnRVWBq6pJw5PD3HX98N03_lAABrTp7w7A8vnB2QohCGIoNOet75S601QTad1xq7xT1CMdMSGBxaxPaX-IRvTdMSGBocOWBi2bjGI-HhMtFC3WJJxaXTUmhIIQ_GnJHQ5J5xW4CWLTVCSwKw==",
+          "title": "jmapps.ne.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0G-JtNbSn7LPD4Q-Pr1fRlyg1PWc4w_1_k9rN6G36SHBNVrKDUpfzRXdnqhMg0unw0IdY4MDAaAHU61QuQ8jYRJiCuf5uQQIE9GA3EIxIwnGGtXlhGB7Z5P-2i2lm8j-rAiTBerdvOHU=",
+          "title": "hichiso.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJK_TqgvixDq3Ly8RQ9ArfIhaknQdVcPsGfa-wxSR75SVToTqPeEg3KoYxNJEt9uS2AgvULULBP82yBTUjLXS5y3Wm-8x5QMAYMkncNWo2o1f62vtaNY-25j6K1Fq03aCI",
           "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3q_E4y0fLn7Fo5jaF1XWjLzWVfn_z7wUosBmhq73KV57lRHa5iLoEbhHPqMFKuPT4HaPs3haHuN9gCO1Io9O9m_wF3Q8bqz8HHU9WwrOWeB3qqMWAratSv6-fANuW5QoCF-aNzToe5Z_dgr0HROPjOonA8eOW4bCe9w==",
-          "title": "yahoo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9YS2EU-5PwZjcpghjMRl9eXbgaLOSNashYux4Ei-7_KP4-ywVmHwPWBhFl1jzn09IPKJlGsSpdCvJMN9Gm5arAplKG9APF6Odmc9z0WvYx0c_sri6dOl-7vL64TKqW-S6Rn47LI4YaCAR2kvNK-9hMBXcTIBgSxk25HnXtGa0inSHAH38cFf2rA=",
+          "title": "takayama.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGphDhb_ybhJsftNvxwlltG1XGyAr3c3GWtzsoRdhORVAn6RLNA3V7SHDNMlTTcg75goM2T08mu3IBHdLjQLB3vXsEKFgqI4bQpr3Dez4VHqR4fT8uNvZ_pQf8R3UOO6euBS3K2eSdpemi2cuU=",
-          "title": "ffpri.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFao3C219VErSDVRUxwuqoaDOWRAV-B2ViGUHmxyVkUuQ_jFhP30z8FUXbrkxOpmpf_ADaDFSZzBM5PKDIfwvAjhIbIt1mmvcYfCqQPrh8fbGnfAuf1jGu6CzcQBZJ_VhV0q2L_Se8b5G2oCSuNosRS",
+          "title": "otonanokagaku.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiHPFK8HAvQOVZ827LWUOcwJgYCbLPBD1uyXE8jT5InvZUJHKVk1gYdXsIyMcdi2dh9rkSkhjP4ZDvOVjBzWS3gmHbfd9sZfYBE8zEz2uIYcPfNNXgZSStSJvJEz4VcuhAGm1lCW2gV9VpdkcUoQWp",
-          "title": "enyatotto.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQ8LwM9LXnSfPW7CW010RD5QKwW7JE4rLR2b7rbwWDfXnSo6Z6BhCBXe84HX0gJzQVlG9EFuLvEzZ5RMcTDtWyCwNTJXflP03nUcvXgrMZ0RBpuNSWQ_Wv_nn2BFZuoYN",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGErszPBy1bJYQvYRTI4k31I3Ql0h6cHCgKeMtvnGlLr3_In-ox1oNT966y6IdCfQgbV5ooko2lMgJx2BXt8pzczRHLP-8EkHCXD58_iChpTRzNHW7x0z6FQn1mlJAPz5ofSlIT655tFYOQ4WYh-eB6BO4G_OQc9-t7DZroZU1kRnHvwakWeMXSsr-e2ZJ7T1GCmP6s8wmsok2Q1MHgRSv-Z7BUNkykisn-xbBKAoEkA_Jl8B5tJ4FwuhXYiIQ=",
-          "title": "hokkaido.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxkpnVyXpaMfaJJhh17AUPVO4xmnVAvH1oBCj-B3-iHTEOH_xyXdQv3cg_STUyhW0OaGXADgQKw68Zxrb87V8-e_UIaxy7-0yWa69N_DKxHf5GZOvD6h8r6Aw79o2ysMlE1FRB-aJbPlgbS547HX6oAi0JbracA==",
+          "title": "takayama-yatai.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw4xkeFEw6shGB74OP0hdxpDNjrd8ua1-7wGmVFE5iJzYnKPxwVwQECm4rXfBb2Vq36dVeL8h0JBu6KLo9u4jYqF7GBeEpdHCfH621cgs7-56GDQvBuKF86j0CSy5grZ96B71O1Wl0ZW64Sgn5fuJgZPjaFxYK-X3qCFaqv1wLpVTiCNOXVYrk",
-          "title": "u-tokyo.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRW5WBUilDLdwHqEFBkH12TkYYlb1rJYF1Cdovk1M1lgGkuBseioPwpm4wKPnRPbN7aNlkMl_yWDakW_4YU4L9v4q0ePtFZyrpmLfGnvjwavXGw3EhByIEFBKIidjGa1Tc2Hq7JkjbbaByVU5Sld8391xEIpxJ6kx8",
-          "title": "env.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo00RNMUp_CVuODoHCEasYQOAxzMYg0rTMqH-CZ6jbruMCrXMdxMrrJgvRYshckOY3wxY0sFORYKczi_ZZZGA8p-EfH334-7-BHfeX0Fb1QkGuELFqRRIcunqzKq9VkLH-1g_8Zv5pCaiygQAUF8B0GKD9",
-          "title": "jst.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHUonW91_T0qQ3kyw7S97s7hUVXfDhRndTWtE4yrEOqof-ZXvm52udkiRWuogzE7cUwGBoSqMZ_v6mW4uUWjTyP4SFZMKYMhWv_U_Rv-hCbp9WXuksolvpD5jR2SyettgV_tc=",
-          "title": "weathernews.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUziUKQevERr0UeUWjb1kxzlNB7Txj_8wNP6jG9WmzY3rRP2TaK6ohj2hAElIGZFsLtQYlDc8WnLcPn-gdnY0yl-AVyM2LChQmw8eHsxgeXxn3xXue",
-          "title": "ngk.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMZmp0FgbKjE2KYSs5Vb4LrLRDcNupoWp1DRq42VqlqzhNYZcCoj5FWbKbu4OEdn6WULk2T8G-h-tmwH4e32hm1wuFi8ZZa3awO1USEjciBxVyFo3f",
-          "title": "phys-edu.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElmnVeNqJYicpZfN2oW3FEjwdU0_L5z9OD60DTbofPCP0TCG6P1_Ku0cZ9YTYBAMuCnHQxvgVcI94OoB81PDWbM7N5ztfUcMYaS6pwQ7xxJ5ZUcNlPa2g1rLAB1ssZSC52lNeAAfYBIg==",
-          "title": "tenki.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfK5lAwfqKuzzEtmfYvdp37Wqh2-yFeeB9Hsi4np_7Nxnaa3HgR1_yhmPb27srSLPwdIK9iXyQ_0fpCSrrsHZHoRL0ruzz1dd_YXRFZ6FxuArkHynW9ohH2dEqIEki71aHNVvJF6pX",
-          "title": "nissei-web.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHckrtiLaWXa71VB1EbXH1Vgj4Yv9TEsuAQBrug1fJn0BlRHKZlw-WIz_UeW0Y7hTzID9w_3FdDS2u9RxJc2Ze9t6bvM-mpwtM63r9WPdJ9SfWr3L_XdcdPmUBKxFm1xXX81pD7iXprBBWKMqDh7oWyMZbHMC4WmyTEC-pgLbJb4qraV8gCJ_Dbmod45fqgglLsqsw8WBdVB9OHMcD8ZvFjEv6Ll3SIXWTUQS_jKW1w_sEAduFt0vfo6m6RCBt_-DbPHmSgjO84uLP4tF8S5RYB6QuDu1mGvtvA1i2XFjUgt_S4v79xvJa-9a0J3A-trqiJkV4CF9zitxz_wuXAh8=",
-          "title": "kagashi-ss.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6BT4mL01ZTze9OtxzI_f3wkzI88rcXrs74Bir0EyyDx5sVNTkt42Wb8dvEbVtLIqQNcsAbK6NF76cXaqEJfjUJvwRUssUTA4dRh3-1h9mNjDTrxO0T5XjuKoT71z_qfih",
+          "title": "takayamakarakuri.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 744,
-          "endIndex": 1014,
-          "text": "ススキなどの植物で作られた茅葺き（かやぶき）屋根は、水を通しやすいように見えますが、茅の茎が持つ油分と水の「表面張力」により、雨水は茎を伝って外側へと流れ落ち、内部には浸透しません"
+          "startIndex": 607,
+          "endIndex": 761,
+          "text": "日本で唯一ここだけにしかない「2階建てゴンドラ」ですが、そもそもなぜ作られ、どんな歴史があるのでしょうか"
         },
         "groundingChunkIndices": [
-          0
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1198,
-          "endIndex": 1360,
-          "text": "煙に含まれる有機酸（酢酸など）やフェノール類が茅の繊維をコーティングし、菌の繁殖や腐食、害虫の発生を抑えます"
+          "startIndex": 782,
+          "endIndex": 1088,
+          "text": "第2ロープウェイ（しらかば平駅～西穂高口駅）で導入されている2階建てゴンドラは、雄大な北アルプスの大パノラマを、できるだけ多くの乗客が遮るものなく窓から眺められるように客室を上下2層に分けた構造になっています"
         },
         "groundingChunkIndices": [
-          1,
+          2,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1130,
+          "endIndex": 1279,
+          "text": "標高1,117mの新穂高温泉駅から第1・第2ロープウェイを乗り継ぐと、標高2,156mの山頂・西穂高口駅まで到達します"
+        },
+        "groundingChunkIndices": [
+          2,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1282,
+          "endIndex": 1441,
+          "text": "全長約3,200m、高低差は約1,040mに及び、山頂展望台からは槍ヶ岳（3,180m）や笠ヶ岳（2,898m）などの名峰を360度見渡せます"
+        },
+        "groundingChunkIndices": [
+          2,
+          3,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1444,
+          "endIndex": 1602,
+          "text": "山頂の気温は山麓より約10度も低く、秋は山麓の緑・中腹の紅葉・山頂付近の初雪というグラデーションが楽しめます"
+        },
+        "groundingChunkIndices": [
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1402,
-          "endIndex": 1605,
-          "text": "定期的に囲炉裏の煙で燻された茅葺き屋根は**20〜30年**に一度の葺き替えで済みますが、煙を当てないと害虫が湧き、十数年も持たずに腐食が進みます"
+          "startIndex": 1647,
+          "endIndex": 1881,
+          "text": "観光庁の資料によると、1970年（昭和45年）の開通前、当初の構想では「穂高連峰を越えて長野県の上高地（河童橋）まで到達する一大観光ルート」として計画されていました"
         },
         "groundingChunkIndices": [
-          2,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1884,
+          "endIndex": 2088,
+          "text": "しかし、財政面や技術面、そして国立公園の自然環境保護の観点から計画が見直され、現在の西穂高口までのルートに短縮されたという経緯があります"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2121,
+          "endIndex": 2192,
+          "text": "観光庁（Japan Tourism Agency）「Shinhotaka Ropeway」解説資料"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2121,
+          "endIndex": 2270,
+          "text": "観光庁（Japan Tourism Agency）「Shinhotaka Ropeway」解説資料、奥飛騨温泉郷観光協会「新穂高ロープウェイ」公式案内"
+        },
+        "groundingChunkIndices": [
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 1608,
-          "endIndex": 1729,
-          "text": "薪の煙に含まれる有機成分のうち、約**50%〜60%**は強力な抗菌性を持つ酢酸が占めています"
+          "startIndex": 2441,
+          "endIndex": 2693,
+          "text": "秋のドライブの定番といえば中津川や恵那の「栗きんとん」ですが、正月のおせち料理に入る黄色くねっとりした「栗きんとん」と、なぜ同じ名前なのに形も材料も全く違うのでしょうか"
         },
         "groundingChunkIndices": [
-          1
+          4,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 2005,
-          "endIndex": 2332,
-          "text": "現代のように人が住まなくなったり、囲炉裏を使わなくなったりした文化財の古民家では、天井から害虫が落ちてきたり茅が急速に傷んだりするため、現在では専用の燻蒸車などを使って人工的に煙を屋内に吹き込む維持作業が行われています"
+          "startIndex": 2714,
+          "endIndex": 3029,
+          "text": "おせちの「栗金団」はくちなしで染めたサツマイモ餡に栗を混ぜた金運を願う料理ですが、岐阜の郷土菓子「栗金飩」は、蒸した栗の実を砂糖と炊き上げ、茶道で使う布巾（茶巾）で絞って栗の形にかたどった純粋な和菓子だからです"
         },
         "groundingChunkIndices": [
-          2,
-          0
+          4,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 2854,
-          "endIndex": 2941,
-          "text": "株式会社茅葺屋根保存協会「スーパーケムラーによる燻蒸」資料"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2854,
-          "endIndex": 2992,
-          "text": "株式会社茅葺屋根保存協会「スーパーケムラーによる燻蒸」資料／横浜市緑の協会「茅葺屋根の燻蒸」"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2854,
-          "endIndex": 3052,
-          "text": "株式会社茅葺屋根保存協会「スーパーケムラーによる燻蒸」資料／横浜市緑の協会「茅葺屋根の燻蒸」／足利学校事務所「茅葺屋根をいぶす」報告"
-        },
-        "groundingChunkIndices": [
-          0,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3313,
-          "endIndex": 3553,
-          "text": "神岡からも望む北アルプスなどの高山帯に暮らすライチョウは、冬になると一面の銀世界で天敵（イヌワシやキツネなど）から身を隠すため、羽が白く生え変わります（保護色）"
-        },
-        "groundingChunkIndices": [
-          5,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3556,
-          "endIndex": 3810,
-          "text": "さらに、冬羽は羽軸が分岐した二重構造になっており、羽の間にたくさんの空気層をため込むことで、氷点下20度にもなる極寒の山頂でも体温を奪われない優れた断熱材の役割を果たします"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3852,
-          "endIndex": 4102,
-          "text": "一般的な野鳥の換羽（羽の抜け替わり）は年1〜2回ですが、ライチョウは日本のような四季の変化に合わせて**「年に3回」**（春の繁殖羽、夏の秋羽、冬の純白羽）も全身を衣替えします"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4105,
-          "endIndex": 4222,
-          "text": "現在の生息数は国内全体で約**2,000羽**とされ、国の特別天然記念物に指定されています"
-        },
-        "groundingChunkIndices": [
-          6,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4300,
-          "endIndex": 4409,
-          "text": "冬になると**「足の指先や足の裏」までびっしりと分厚い羽毛**が生えそろいます"
-        },
-        "groundingChunkIndices": [
-          5,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4412,
-          "endIndex": 4614,
-          "text": "これは防寒用の靴下になるだけでなく、接地面積を広げて雪に足が沈み込むのを防ぐ**「天然のかんじき（スノーシュー）」**の役割を果たしています"
-        },
-        "groundingChunkIndices": [
-          10,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4710,
-          "endIndex": 4912,
-          "text": "ライチョウは約2万年前の最終氷河期に北方から日本列島へ渡ってきたとされ、温暖化とともに寒冷な高山帯へ逃げ延びた「氷河期の生きた化石」です"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4915,
-          "endIndex": 5242,
-          "text": "日本では古来、山岳信仰の中で「神の使い（火難・雷除けの鳥）」として崇められ、人が決して捕獲しなかったため、海外の近縁種と違って今でも人間を極端に怖がらず、登山者のすぐそばを悠然と歩く独自の警戒心の薄さを受け継いでいます"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5272,
-          "endIndex": 5383,
-          "text": "富山県立山自然保護センター「ライチョウ見守りネット（形態の特徴・保護色）」"
-        },
-        "groundingChunkIndices": [
-          8,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5272,
-          "endIndex": 5437,
-          "text": "富山県立山自然保護センター「ライチョウ見守りネット（形態の特徴・保護色）」／静岡市「ライチョウってどんな鳥？」"
+          "startIndex": 3113,
+          "endIndex": 3210,
+          "text": "農林水産省のレシピ資料でも、材料は「生栗1kg、砂糖300g、塩少々」のみ"
         },
         "groundingChunkIndices": [
           5
@@ -408,41 +344,151 @@
       },
       {
         "segment": {
-          "startIndex": 5935,
-          "endIndex": 6101,
-          "text": "これは気まぐれではなく、植物生態学で**「マスティング（種子生産の同調的豊凶現象）」**と呼ばれる高度な生存戦略です"
+          "startIndex": 3213,
+          "endIndex": 3321,
+          "text": "サツマイモや着色料は一切使わず、栗本来の水分と砂糖だけで練り上げられます"
         },
         "groundingChunkIndices": [
+          4,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3324,
+          "endIndex": 3456,
+          "text": "上部がキュッとねじられた栗の形は、職人が一つひとつ手作業で茶巾絞りにすることで生まれます"
+        },
+        "groundingChunkIndices": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3501,
+          "endIndex": 3681,
+          "text": "中津川は江戸時代、中山道の重要な宿場町として栄え、東西の文化が交わると同時に武士や町人の間で茶の湯文化が非常に盛んでした"
+        },
+        "groundingChunkIndices": [
+          7,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3684,
+          "endIndex": 3903,
+          "text": "抹茶の風味を引き立てる上質なお茶菓子が求められたことから、地元の山栗を使って菓子職人たちが腕を競い合い、誕生したのがこの素朴で贅沢な栗きんとんです"
+        },
+        "groundingChunkIndices": [
+          7,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3936,
+          "endIndex": 4006,
+          "text": "農林水産省「うちの郷土料理：栗きんとん 岐阜県」"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3936,
+          "endIndex": 4057,
+          "text": "農林水産省「うちの郷土料理：栗きんとん 岐阜県」、中津川観光協会「栗のまち中津川」"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4212,
+          "endIndex": 4343,
+          "text": "国道41号を南下した七宗町（ひちそうちょう）の飛水峡（ひすいきょう）にある「日本最古の石」"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4346,
+          "endIndex": 4442,
+          "text": "なぜ山奥の川原に、恐竜の時代よりも遥かに古い石があるのでしょうか"
+        },
+        "groundingChunkIndices": [
+          9,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4463,
+          "endIndex": 4708,
+          "text": "飛騨川の川床で見つかった「上麻生礫岩（かみあそうれきがん）」という地層の中に、約20億年前に形成された花崗片麻岩（かこうへんまがん）の礫（小石）が含まれていたためです"
+        },
+        "groundingChunkIndices": [
+          9,
           11,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 6104,
-          "endIndex": 6521,
-          "text": "有力な説が「捕食者飽食仮説（捕食者飽和仮説）」で、毎年決まった量を実らせるとそれを食べる動物や昆虫が増えてタネが全滅してしまうため、凶作年を作って捕食者を飢えさせて数を減らし、数年に一度「動物たちが食べきれないほどの大量のドングリ」を一斉に落として子孫を確実に生き残らせています"
+          "startIndex": 4750,
+          "endIndex": 4865,
+          "text": "地球の年齢（約46億年）の半分近くに達する「20億年前」という気の遠くなる古さです"
         },
         "groundingChunkIndices": [
-          13,
+          9,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4868,
+          "endIndex": 5084,
+          "text": "礫岩の地層自体は約1億6,000万年前～2億年前（ジュラ紀〜三畳紀）に海底で堆積したものですが、その中に流れ込んできた小石が北方大陸の20億年前の岩石でした"
+        },
+        "groundingChunkIndices": [
+          11,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5087,
+          "endIndex": 5315,
+          "text": "さらに名古屋大学の研究（CHIME年代測定法）では、この石に含まれるジルコンという鉱物微粒子から、なんと「約35.6億年前」という超古代の年代値まで記録されています"
+        },
+        "groundingChunkIndices": [
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 6563,
-          "endIndex": 6732,
-          "text": "豊作の年には、ブナ林の地面**1平方メートルあたり約1,000個**、森林**1ヘクタールあたり約3トン**ものドングリが降り注ぎます"
+          "startIndex": 5360,
+          "endIndex": 5424,
+          "text": "この世紀の大発見は1970年（昭和45年）3月のこと"
         },
         "groundingChunkIndices": [
-          14
+          9,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 6735,
-          "endIndex": 6840,
-          "text": "通常、ミズナラは**2〜4年周期**、ブナは**5〜7年周期**で大豊作を繰り返します"
+          "startIndex": 5427,
+          "endIndex": 5697,
+          "text": "当時大学院生だった地質学の研究者（のちの名古屋大学特任教授・足立守氏）が調査の帰り道、「まだ見ていない川原があるから寄ってみようか」と偶然立ち寄った場所で採取した石から判明しました"
         },
         "groundingChunkIndices": [
           13
@@ -450,40 +496,31 @@
       },
       {
         "segment": {
-          "startIndex": 6867,
-          "endIndex": 7245,
-          "text": "凶作の年にツキノワグマが人里近くまでエサを探しに現れるのは有名ですが、実は「森のエサが減ったからクマが困っている」だけでなく、もともと「木々が動物たちを食べ尽くされないようにコントロールしている」という、植物側のしたたかなサバイバル戦争が根底にあります"
+          "startIndex": 5700,
+          "endIndex": 5820,
+          "text": "現在、現地近くには町立「日本最古の石博物館」があり、実物を観察することができます"
         },
         "groundingChunkIndices": [
           15,
-          13
+          10,
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 7275,
-          "endIndex": 7633,
-          "text": "森林総合研究所が東北の森林で40年以上にわたり定点観測を続けたところ、地球温暖化（開花期の気温が約0.8℃上昇）の影響により、かつて3〜4年周期だったミズナラの豊凶サイクルが、2000年代以降は**「2年周期」へと大幅に短縮**していることが突き止められました"
+          "startIndex": 5853,
+          "endIndex": 5922,
+          "text": "岐阜県庁自然環境課「日本最古の石にふれるみち」"
         },
         "groundingChunkIndices": [
-          11
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 7663,
-          "endIndex": 7791,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所「変わりつつあるドングリの豊作周期」"
-        },
-        "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7663,
-          "endIndex": 7903,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所「変わりつつあるドングリの豊作周期」／東京大学大学院農学生命科学研究科 演習林「堅果の豊凶とツキノワグマの生態」"
+          "startIndex": 5853,
+          "endIndex": 5994,
+          "text": "岐阜県庁自然環境課「日本最古の石にふれるみち」、岐阜県博物館収蔵資料データベース「上麻生礫岩」"
         },
         "groundingChunkIndices": [
           14
@@ -491,94 +528,29 @@
       },
       {
         "segment": {
-          "startIndex": 8155,
-          "endIndex": 8303,
-          "text": "空気中の水蒸気が冷やされて葉などに付く「霜」と違い、「霜柱」は**地面の中の水**が凍ってできたものです"
+          "startIndex": 5853,
+          "endIndex": 6060,
+          "text": "岐阜県庁自然環境課「日本最古の石にふれるみち」、岐阜県博物館収蔵資料データベース「上麻生礫岩」、名古屋大学年代測定研究部「日本最古の岩石」"
         },
         "groundingChunkIndices": [
-          16,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6222,
+          "endIndex": 6327,
+          "text": "高山祭の屋台（国の重要有形民俗文化財）で見られる精巧な「からくり人形」"
+        },
+        "groundingChunkIndices": [
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 8306,
-          "endIndex": 8516,
-          "text": "夜間に地表の温度が0℃以下になり、地中の温度が0℃より高い状態のとき、土の粒と粒の細い隙間を通って水が吸い上げられる**「毛細管現象」**が起きます"
-        },
-        "groundingChunkIndices": [
-          16,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8519,
-          "endIndex": 8690,
-          "text": "吸い上げられた水が地表で次々と凍り、すでに凍った部分を真下からグングン押し上げていくため、細長い氷の柱が成長します"
-        },
-        "groundingChunkIndices": [
-          16,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8732,
-          "endIndex": 8880,
-          "text": "霜柱の高さは通常数cmですが、条件が揃うと**10cm以上**に達し、土や重い小石を持ち上げるほどの力があります"
-        },
-        "groundingChunkIndices": [
-          20,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8976,
-          "endIndex": 9162,
-          "text": "土の中まで凍りついてしまうほど極寒の北海道や豪雪地帯では地面がカチカチに凍る「凍土」になってしまい、霜柱はあまり見られません"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9165,
-          "endIndex": 9412,
-          "text": "土が適度な隙間を持つ火山灰土（関東ローム層や中部地方の火山灰土壌など）で、かつ冬に晴れて放射冷却が起きる地域でしか見られない、実は**世界的に珍しい気象・地質現象**です"
-        },
-        "groundingChunkIndices": [
-          16,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9442,
-          "endIndex": 9589,
-          "text": "明治時代、来日した外国人研究者たちが冬の日本の地面から氷の柱が無数に生えているのを見て驚愕しました"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9592,
-          "endIndex": 9904,
-          "text": "イギリスなどヨーロッパの粘土質の土壌ではめったに見られないため、世界的学術誌『Nature』の読者投稿欄に「日本で地面から氷が生える怪現象を見た」と次々に報告が寄せられ、世界的な科学論争に発展したという歴史があります"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9934,
-          "endIndex": 10037,
-          "text": "名古屋市科学館（NGKサイエンスサイト「霜柱 氷が土からはえてくる！？」）"
+          "startIndex": 6330,
+          "endIndex": 6465,
+          "text": "山奥の飛騨高山の伝統技術なのに、海にすむ巨大生物のある器官が使われているのはなぜでしょうか"
         },
         "groundingChunkIndices": [
           18
@@ -586,63 +558,153 @@
       },
       {
         "segment": {
-          "startIndex": 9934,
-          "endIndex": 10128,
-          "text": "名古屋市科学館（NGKサイエンスサイト「霜柱 氷が土からはえてくる！？」）／中谷宇吉郎 雪の科学館「器に入れた土では霜柱が作れない理由」"
+          "startIndex": 6486,
+          "endIndex": 6693,
+          "text": "江戸時代から伝わる日本のからくり人形のゼンマイやバネ、糸のガイド部分には、「クジラのヒゲ（セミクジラなどのヒゲ板）」が使われているからです"
         },
         "groundingChunkIndices": [
-          22
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9934,
-          "endIndex": 10215,
-          "text": "名古屋市科学館（NGKサイエンスサイト「霜柱 氷が土からはえてくる！？」）／中谷宇吉郎 雪の科学館「器に入れた土では霜柱が作れない理由」／日本科学未来館「科学コミュニケーターブログ（霜柱実験）」"
+          "startIndex": 6735,
+          "endIndex": 6973,
+          "text": "江戸時代に出版された日本唯一の機械工学指南書『機巧図彙（からくりずい）』（1796年）でも、からくりを動かす動力や復元バネの素材としてクジラのヒゲが指定されています"
         },
         "groundingChunkIndices": [
-          16
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 11079,
-          "endIndex": 11123,
-          "text": "**第2問：「足の指先や足の裏」**"
+          "startIndex": 6976,
+          "endIndex": 7186,
+          "text": "金属のスプリングに比べてしなやかで折れにくく、錆びず、湿度や寒暖差の激しい気候でも滑らかな弾力を保つという、当時の先端バイオマテリアルでした"
         },
         "groundingChunkIndices": [
-          5,
-          7
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 11220,
-          "endIndex": 11421,
-          "text": "普通の鳥の足はウロコのような皮膚が見えていますが、ライチョウは秋から冬になると、指先から足の裏までびっしりと分厚い羽毛が生えそろいます"
+          "startIndex": 7231,
+          "endIndex": 7517,
+          "text": "秋の高山祭（八幡祭）で唯一からくりを披露する「布袋台（ほていだい）」では、2体の唐子（からこ）が空中の綾棒をブランコのように飛び移り、布袋の肩に乗る「離れからくり」という超絶技巧が演じられます"
         },
         "groundingChunkIndices": [
-          5,
-          7
+          19,
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 11424,
-          "endIndex": 11686,
-          "text": "冷たい氷雪から足を守る暖かい『靴下』になると同時に、足の面積をグッと広げて、深い雪の上でもズボッと足が沈まない**『天然のかんじき（スノーシュー）』**の役目を果たしているんですね"
+          "startIndex": 7520,
+          "endIndex": 7769,
+          "text": "現在では商業捕鯨の制限によってセミクジラのヒゲは極めて入手困難な幻の素材となっており、修理の際は古い蔵から見つかった貴重な古材を削り出して大切に修復・継承されています"
         },
         "groundingChunkIndices": [
-          10,
-          7
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7772,
+          "endIndex": 7943,
+          "text": "高山市内の「飛騨高山獅子会館からくりミュージアム」などでも、その緻密な内部機構の歴史を間近に見学することができます"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7976,
+          "endIndex": 8045,
+          "text": "高山市教育委員会「高山祭の屋台行事」文化財解説"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7976,
+          "endIndex": 8090,
+          "text": "高山市教育委員会「高山祭の屋台行事」文化財解説、高山屋台保存会「布袋台」解説"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7976,
+          "endIndex": 8165,
+          "text": "高山市教育委員会「高山祭の屋台行事」文化財解説、高山屋台保存会「布袋台」解説、学研『大人の科学』機巧図彙・からくり人形機構解説"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8240,
+          "endIndex": 8500,
+          "text": "奥飛騨温泉郷にある「新穂高ロープウェイ」は、日本で唯一の2階建てゴンドラが有名ですが、1970年の開業前、当初の壮大な構想では北アルプスを越えてどこまで直結する計画だったでしょうか"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8620,
+          "endIndex": 8658,
+          "text": "長野県の上高地（河童橋）**"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8685,
+          "endIndex": 8850,
+          "text": "岐阜県と長野県を結ぶ大観光ルートとして、穂高連峰の険しい山並みを越えて上高地へ繋ぐ夢の計画が立てられていました"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8853,
+          "endIndex": 9018,
+          "text": "しかし、北アルプスの貴重な自然環境を守るためや技術的な課題から見直され、現在の西穂高口までのルートとなりました"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9021,
+          "endIndex": 9129,
+          "text": "今でも山頂展望台からは、その雄大な北アルプスの山々をぐるりと一望できます"
+        },
+        "groundingChunkIndices": [
+          2,
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "ライチョウ 冬羽 白い 理由 足の裏 羽毛 氷河期",
-      "合掌造 茅葺 煙 防虫 表面張力 科学",
-      "ドングリ 豊作 凶作 理由 マスティング 森林総合研究所",
-      "霜柱 なぜできる 毛細管現象 火山灰土 科学 国立科学博物館"
+      "高山祭 からくり人形 クジラのヒゲ ゼンマイ",
+      "七宗町 日本最古の石 上麻生礫岩 20億年",
+      "新穂高ロープウェイ 2階建てゴンドラ 日本唯一",
+      "中津川 栗きんとん 茶巾絞り 発祥 由来"
     ]
   }
 }
