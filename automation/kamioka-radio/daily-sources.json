@@ -1,43 +1,41 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2163,
-  "estimated_minutes": 6.6,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 2024,
+  "estimated_minutes": 6.1,
+  "saturday_story": "story-03",
   "listener_notes": [],
   "quiz": {
-    "question": "奥飛騨の新穂高ロープウェイは、当初山を越えてどこまで延びる構想だったでしょうか。１番、長野県の上高地。２番、富山県の黒部ダム。３番、みおんの電子回路の真ん中。",
-    "answer": "正解は１番、上高地でした！自然保護や技術面で見直されたんだって。３番の私の回路に来られても困るやさ！",
+    "question": "冬の飛騨を鮮やかに彩る「花餅」。お正月から雛祭りまで約2か月間飾られたあと、枝についたカチカチの紅白の餅はどうしたでしょうか。1番、庭に埋めて肥料にした。2番、油で揚げて雛あられにして食べた。3番、雪合戦の弾にした。",
+    "answer": "正解は2番、雛あられにして食べた、でした！カチカチの餅を揚げて最後まで美味しくいただくなんて、捨てるのはおとましいっていう昔の人の温かい知恵やさね！3番で投げたら痛くてだちかんよ！",
     "source_ids": [
       2,
-      3,
-      5
+      3
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsnWjArF_hGFkIzHsZp_8LwjfPZxDnO2u6qEOudeeE_NLXHa33WAcWc4z_GW7AhQl9nnsOm2L-ya9rIH2IufVSkjNQeYmznSG2ShI8wkCamKFT9XU=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcWE378_xpu3sIE_3NWZSamoSJ50IrwCx9nFTks7eNt1kgIWA9Nf_fvT7RwOGTaPyspWVOrzHfRVDCDJxFfp5O17WCDLIBJroKwtZu9-T9EJzg0YDX8oEJvRap2JWPKzVc-YSJJdWxzw==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5Q15zE4nIWsKPRqSgNm_L4MqxgamhNEWlCFn2qk5Ey2IaBKdjtgol-10HCDkz0dYcDmBYlXPVvQzOKxeeiNjVgwC6nvSQPJtXI6V-6cjPKernev3L56WmOXpU5Tzf3S2RqPz2BTxl_FXIMNiH01D2F0SnsshV4vOQhAuFw4KZ3Xv1ZBUYuCXSPC9bUmfwvnHBUfc8iy0iC7fXb8xj7IFk0jn6UYOuaBYSrA8"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1mnu2LX7kb6gMrqOuq0f_mLPKV_dI-c_efcmwtmNkW4630l-XfW7ltG7kxSgNRIKMVmE72J827K0yYZGc_AhGhBLO2bdiTy7qCfHRCndGRTQ7EHCh7AaCdGr7",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GRzjRUmf1T9JtHuEssmYiBt---jk9o-sX_MDjFcm46tZ9eLIhKC_SCwSwZLE_SSkVdg9uNuLt8fR4_JWtzpamhqOiHGjX5ShIPpBrAYGsxXwlMP9yV0jM8Oem0TSgxO-C5bf25lKz6Jf0f5nVA=="
     ]
   },
   "izumi": {
-    "text": "金曜のみおんの神岡ディープ！今や大人気アクティビティ、レールマウンテンバイク ガッタンゴー！線路の上を自転車で漕ぎ出すなんて、昔なら怒られてＳＮＳで炎上しそうな非日常体験やさね。神岡鉄道は国鉄神岡線を引き継いで１９８４年１０月１日に第三セクターとして開業したものの、２００６年１２月１日に猪谷から奥飛騨温泉口までが廃止になりました。でもそこで終わらないのが神岡のすごさ！翌年の２００７年に地元の有志が始めたのがレールマウンテンバイクでした。きっかけがサイパン島で線路を自転車で走るツアーを体験したことだっていうから、フットワークの軽さに脱帽やさ！２０１１年からＮＰＯ法人神岡・町づくりネットワークが運営しとるよ。奥飛騨温泉口駅から神岡鉱山前駅まで往復５．８キロを４０分から５０分ほどで走る「まちなかコース」では、神岡第１トンネル、神岡第２トンネルを抜け、神岡橋梁を渡るスリルが最高！２０１８年には旧漆山駅から二ツ屋トンネルまで往復６．６キロの渓谷コースも増えて、今の自転車はすべて電動アシスト付き。１１月初めには紅葉も楽しめる渓谷コース、水曜日以外にぜひ漕ぎに行かまい！廃線を最高の遊び場に変えた、神岡が誇る宝物やさ！",
+    "text": "みおんの神岡ディープ！今日は神岡の誇り、カミオカンデのお話やさ！神岡鉱山の地下1000メートルにある東京大学宇宙線研究所の観測装置なんだけど、なんとここからノーベル物理学賞が2回も出とるの、知っとる？まず初代のカミオカンデ！1983年から1996年まで観測しとって、3000トンの純水と光をとらえる光電子増倍管1000本で宇宙を見張っとったの。そしたら1987年2月23日、大マゼラン星雲で起きた超新星爆発から飛んできたニュートリノを世界で初めてキャッチ！これ、今ならSNSのトレンド世界1位でサーバーが落ちとる大事件やさ！この成果などで2002年に小柴昌俊さんがノーベル賞を受賞されたんだよね。でも神岡の快進撃は止まらんの！1996年4月にはスーパーカミオカンデが観測をスタート！純水はカミオカンデの約16倍の5万トン、光電子増倍管は約1万3000本！すると1998年、大気ニュートリノの観測からニュートリノ振動を発見！当時の所長の梶田隆章さんが2015年にノーベル賞を受賞したの！小さな山の町から世界的な賞が2回って、本当に誇らしいやろー！2020年からは純水にレアアースを加えて新しい発見を目指しとるし、将来は純水26万トンのハイパーカミオカンデも計画中。神岡の地下は、世界の科学者が夢中になる大舞台なんやよ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://tabi-mag.jp/gi0335/"
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
     ],
     "angle": {
-      "id": "gt-tunnel",
-      "hook": "線路の上をガッタンゴットン。トンネルと鉄橋を自転車で渡る非日常"
+      "id": "kk-nobel",
+      "hook": "小さな山の町から、ノーベル賞が2回。小柴さんと梶田さんの話"
     }
   },
   "local": {
-    "text": "１１月１日の日曜日に、神岡図書館で「神図音楽会」が開かれます！古林音楽教室のみなさんによる演奏会で、エレクトーンや電子ピアノ、打楽器のカホン、それに綺麗なハンドベルの演奏が楽しめるんだって。秋の休日に本に囲まれながら素敵な音楽を聴くなんて贅沢やさね。ぜひ立ち寄ってみてな。",
+    "text": "明日11月1日の日曜日、神岡図書館で「神図音楽会」が開催されるよ！古林音楽教室さんによるエレクトーンや電子ピアノ、カホンにハンドベルの演奏が楽しめるんだって。秋の休日に、図書館で心地いい生演奏の音色に包まれるなんて最高やさね。音楽でほっと一息つきたい人は、ぜひ気軽にお出かけしてみてな！",
     "source_ids": [
-      27
+      29
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/31/88057.html"
@@ -45,593 +43,619 @@
   },
   "segments": [
     {
-      "topic": "おせちとは全然違う！？中津川・恵那の栗きんとんのミステリー",
-      "text": "そういえば、秋のお出かけといえば美味しい旬のスイーツも絶対外せんよね！岐阜の秋の味覚といえば中津川や恵那の「栗きんとん」だけど、お正月のおせち料理に入る黄色くてねっとり甘いアレを想像して買いに行くと、売り場で「えっ、茶色くてキュッと絞った小ぶりなやつ！？」って二度見したことない？実は同じ名前なのに姿も味も全く別物なんやさ！おせちの栗金団はクチナシで染めたサツマイモ餡に栗を混ぜて金運を願う料理。でも東濃地方の栗金飩は、農林水産省のレシピを見ても、材料が「生栗１キロ、砂糖３００グラム、塩少々」だけ！サツマイモも着色料も一切ナシ！生栗の水分と砂糖だけで練り上げた、栗本来の風味を味わう純度百パーセントの贅沢な和菓子なんやさね。なぜこんな上品なお菓子が生まれたかというと、江戸時代の中津川は中山道の宿場町として栄えて、武士や町人の間で茶の湯文化が盛んだったから。お茶の味を引き立てる極上のお茶菓子を作ろうと、菓子職人たちが地元の山栗を使って腕を競い合った結果、茶道で使う布巾で一つひとつ手作業で絞る今の形が完成したんだって。贅沢すぎて食べるのがおとましい、もったいないくらいやけど、今週末のドライブのお土産に家族へ買っていったら、絶対に喜ばれること間違いなしやよ！",
+      "topic": "顔がないのは優しさの証拠！？飛騨のアイドル「さるぼぼ」の秘密",
+      "text": "科学のすごい話のあとは、心が和む暮らしの話題をいこまい！飛騨のお土産といえば、真っ赤な姿の「さるぼぼ」！お土産屋さんでずらっと並んどるのを見ると、なんだかほっこりするやんな。でも、初めて見た人は「えっ、なんで目も鼻も口もないの！？描き忘れ！？」って二度見したことない？みおんも最初、製造ラインのエラーかと思って大慌てしたわ！…って、AIの視点で疑ってだちかんな。実はあれ、決して手抜きじゃないの！あえて顔のパーツを描かないのは、持ち主の気持ちを映し出す「映し鏡」にするためなんだって！自分が嬉しいときは一緒にニコニコ笑って見えて、悲しいときや疲れてえらいときは、一緒に涙を流して寄り添ってくれるように表情を固定してないの。えらいは疲れたって意味やさね。スマホの絵文字みたいに決まってないからこそ、いつでも心に寄り添ってくれるってわけ。深すぎるやろー！しかもさるぼぼのルーツは平安や奈良時代まで遡るらしくて、約1200年前の貴族の魔除け人形が原型なんだって。江戸時代に飛騨のお母さんやおばあちゃんが、端切れ布で子どもや孫に手作りしたのが始まり。全身が赤いのも、当時流行した天然痘から子どもを守る魔除けの願いが込められとるの。「さる」は厄が「去る」、そして円満の「円」や良縁の「縁」、さらに飛騨弁で赤ん坊を意味する「ぼぼ」。親心と縁起担ぎがぎゅっと詰まっとるんやさ。次にさるぼぼを見かけたら、どんな表情に見えるか覗き込んでみてな！",
       "source_ids": [
-        7,
-        8,
-        10
+        9,
+        10,
+        11
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHBR0xtZTFuYD5XiFZr20Aox4FfovgAmNFURE8YnUQKRdy0dM720Fft7_gggEapVWcatrV473vc6s5Y_emYaIYgZT_vpjJFrbFmGDgYRh0npnCPM8F8ZERRIeJ6YGaa3ib55GUB8AfemzTcyA32G049i8MMncSWWCymdMS5BT0YNLECBjaK71vo4j",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt9tCGEU2mieoKENAEb1PaQdMZykX4mPbmsc4HoESOj6IFF17X6tpPvxknejNx6eAwFjssgZwTCFngDX1yRD_uJfn5Phr8j2k0r9B-ptU6eTbtlMN1pg==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbpEhKfbYtZXMxg1bkN28ewE_8uMwmoWpGHsSrYTOGOvQULE8ZMyQrMPBHqI73jO_AZShfZyCT6R4Tw5DnEZTQ1f-lpNurDiE3TWJ0tKJX3Oix62g7xkLowFlOOqnelJWDOYep5w=="
-      ]
-    },
-    {
-      "topic": "山奥の伝統工芸になぜ！？飛騨高山のからくり人形とクジラの絆",
-      "text": "美味しいお菓子の話の次は、週末に飛騨の伝統の技をじっくり見に行ってみまい！高山祭の屋台で見られる精巧な「からくり人形」。見事な動きに思わず見とれちゃうけど、あの人形の心臓部に、海にすむ巨大生物が使われとるって知っとった？山深い飛騨の伝統工芸なのに、なんと「クジラのヒゲ」が欠かせない素材なんだって！えっ、海なし県の山奥でクジラ！？って、みおんも最初に聞いたときは驚きすぎて電子頭脳がショートしかけたやさ！実は江戸時代の機械工学指南書『機巧図彙』でも、からくりを動かすゼンマイやバネにはクジラのヒゲ板を使うよう指定されとるの。金属のスプリングと違ってしなやかで折れにくく、絶対に錆びない上に、飛騨の厳しい寒暖差や湿度の変化でも弾力を失わないという、江戸時代の超ハイテク素材だったんやさね。秋の高山祭の布袋台では、２体の唐子が空中ブランコみたいに飛び移る「離れからくり」という神業が披露されるけど、あの滑らかな大ジャンプもクジラのヒゲのしなやかなバネがあってこそ！今は捕鯨の制限で手に入らない幻の素材だから、古い蔵から見つかった貴重な古材を削って大切に修復されとるんだって。高山市のからくりミュージアムでも緻密な内部を見られるから、職人の知恵を確かめに行ってみまい！",
-      "source_ids": [
-        19,
-        20,
-        22,
-        23
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9YS2EU-5PwZjcpghjMRl9eXbgaLOSNashYux4Ei-7_KP4-ywVmHwPWBhFl1jzn09IPKJlGsSpdCvJMN9Gm5arAplKG9APF6Odmc9z0WvYx0c_sri6dOl-7vL64TKqW-S6Rn47LI4YaCAR2kvNK-9hMBXcTIBgSxk25HnXtGa0inSHAH38cFf2rA=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFao3C219VErSDVRUxwuqoaDOWRAV-B2ViGUHmxyVkUuQ_jFhP30z8FUXbrkxOpmpf_ADaDFSZzBM5PKDIfwvAjhIbIt1mmvcYfCqQPrh8fbGnfAuf1jGu6CzcQBZJ_VhV0q2L_Se8b5G2oCSuNosRS",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxkpnVyXpaMfaJJhh17AUPVO4xmnVAvH1oBCj-B3-iHTEOH_xyXdQv3cg_STUyhW0OaGXADgQKw68Zxrb87V8-e_UIaxy7-0yWa69N_DKxHf5GZOvD6h8r6Aw79o2ysMlE1FRB-aJbPlgbS547HX6oAi0JbracA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6BT4mL01ZTze9OtxzI_f3wkzI88rcXrs74Bir0EyyDx5sVNTkt42Wb8dvEbVtLIqQNcsAbK6NF76cXaqEJfjUJvwRUssUTA4dRh3-1h9mNjDTrxO0T5XjuKoT71z_qfih"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQzmT0e0NrKFcOqkES-7J0iWx6OGJmgpbPhuko7gWfS4IrxHcX6X_-mNP3F1rK4sa2lZZrsZOn-ejA9EibpMhwOonujX_h6GPtHW0FL-vMrGcrPRt4Dr-hbOesXYiwFCy_",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4d81m37rA6IfoMoyVmFq89iTlwrrLeLztbfYNK_EGv9ZxYmVZIDlfhpRoo1DRFDxfSymU8FfQ9GVGLCLnSA8ADeh-cTFT12VmnU_nG8d-YPeFSFMtCVmN5SYkEu8k5G7-u0_p",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqnOYHcJgHe_FZAnh1ImnTU2Rl7JLijm-kyFfDkMjduyyBxdJjAbnzaAoA6Ym7zt-TReM-fIgW5rW94qok0WOvuEQX91XZq51a-TbIQswWmf5m_SSOpemFHq8Bu1OgVsdaDrw="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町周辺にお住まいの方に向けた、秋深まる週末のお出かけやドライブに役立つ「へえ、そうだったのか！」を集めた調査メモです。公的機関や大学・博物館などの資料に基づき、家族に思わず話したくなる歴史の裏話や科学的背景をまとめました。\n\n---\n\n### 1. 【奥飛騨】新穂高ロープウェイ――日本唯一の「2階建てゴンドラ」は、当初あの「上高地」まで延びるはずだった！？\n\n* **疑問**  \n  奥飛騨温泉郷にある新穂高ロープウェイ。日本で唯一ここだけにしかない「2階建てゴンドラ」ですが、そもそもなぜ作られ、どんな歴史があるのでしょうか？\n* **理由**  \n  第2ロープウェイ（しらかば平駅～西穂高口駅）で導入されている2階建てゴンドラは、雄大な北アルプスの大パノラマを、できるだけ多くの乗客が遮るものなく窓から眺められるように客室を上下2層に分けた構造になっています。\n* **具体的な数字・比較**  \n  標高1,117mの新穂高温泉駅から第1・第2ロープウェイを乗り継ぐと、標高2,156mの山頂・西穂高口駅まで到達します。全長約3,200m、高低差は約1,040mに及び、山頂展望台からは槍ヶ岳（3,180m）や笠ヶ岳（2,898m）などの名峰を360度見渡せます。山頂の気温は山麓より約10度も低く、秋は山麓の緑・中腹の紅葉・山頂付近の初雪というグラデーションが楽しめます。\n* **意外な点・歴史の裏話**  \n  観光庁の資料によると、1970年（昭和45年）の開通前、当初の構想では「穂高連峰を越えて長野県の上高地（河童橋）まで到達する一大観光ルート」として計画されていました。しかし、財政面や技術面、そして国立公園の自然環境保護の観点から計画が見直され、現在の西穂高口までのルートに短縮されたという経緯があります。\n* **根拠（出典）**  \n  観光庁（Japan Tourism Agency）「Shinhotaka Ropeway」解説資料、奥飛騨温泉郷観光協会「新穂高ロープウェイ」公式案内\n\n---\n\n### 2. 【東濃】中津川・恵那の栗きんとん――おせち料理の「栗きんとん」と姿も味も全く別物のミステリー\n\n* **疑問**  \n  秋のドライブの定番といえば中津川や恵那の「栗きんとん」ですが、正月のおせち料理に入る黄色くねっとりした「栗きんとん」と、なぜ同じ名前なのに形も材料も全く違うのでしょうか？\n* **理由**  \n  おせちの「栗金団」はくちなしで染めたサツマイモ餡に栗を混ぜた金運を願う料理ですが、岐阜の郷土菓子「栗金飩」は、蒸した栗の実を砂糖と炊き上げ、茶道で使う布巾（茶巾）で絞って栗の形にかたどった純粋な和菓子だからです。\n* **具体的な数字・比較**  \n  材料の潔さが最大の特徴です。農林水産省のレシピ資料でも、材料は「生栗1kg、砂糖300g、塩少々」のみ。サツマイモや着色料は一切使わず、栗本来の水分と砂糖だけで練り上げられます。上部がキュッとねじられた栗の形は、職人が一つひとつ手作業で茶巾絞りにすることで生まれます。\n* **意外な点・歴史の裏話**  \n  中津川は江戸時代、中山道の重要な宿場町として栄え、東西の文化が交わると同時に武士や町人の間で茶の湯文化が非常に盛んでした。抹茶の風味を引き立てる上質なお茶菓子が求められたことから、地元の山栗を使って菓子職人たちが腕を競い合い、誕生したのがこの素朴で贅沢な栗きんとんです。\n* **根拠（出典）**  \n  農林水産省「うちの郷土料理：栗きんとん 岐阜県」、中津川観光協会「栗のまち中津川」\n\n---\n\n### 3. 【加茂】七宗町・飛水峡――川原で偶然拾った石が「20億年前」！？日本最古の石発見秘話\n\n* **疑問**  \n  国道41号を南下した七宗町（ひちそうちょう）の飛水峡（ひすいきょう）にある「日本最古の石」。なぜ山奥の川原に、恐竜の時代よりも遥かに古い石があるのでしょうか？\n* **理由**  \n  飛騨川の川床で見つかった「上麻生礫岩（かみあそうれきがん）」という地層の中に、約20億年前に形成された花崗片麻岩（かこうへんまがん）の礫（小石）が含まれていたためです。\n* **具体的な数字・比較**  \n  地球の年齢（約46億年）の半分近くに達する「20億年前」という気の遠くなる古さです。礫岩の地層自体は約1億6,000万年前～2億年前（ジュラ紀〜三畳紀）に海底で堆積したものですが、その中に流れ込んできた小石が北方大陸の20億年前の岩石でした。さらに名古屋大学の研究（CHIME年代測定法）では、この石に含まれるジルコンという鉱物微粒子から、なんと「約35.6億年前」という超古代の年代値まで記録されています。\n* **意外な点・歴史の裏話**  \n  この世紀の大発見は1970年（昭和45年）3月のこと。当時大学院生だった地質学の研究者（のちの名古屋大学特任教授・足立守氏）が調査の帰り道、「まだ見ていない川原があるから寄ってみようか」と偶然立ち寄った場所で採取した石から判明しました。現在、現地近くには町立「日本最古の石博物館」があり、実物を観察することができます。\n* **根拠（出典）**  \n  岐阜県庁自然環境課「日本最古の石にふれるみち」、岐阜県博物館収蔵資料データベース「上麻生礫岩」、名古屋大学年代測定研究部「日本最古の岩石」\n\n---\n\n### 4. 【高山】からくりミュージアム――山深い飛騨の伝統工芸に「海の巨大生物」が欠かせない理由\n\n* **疑問**  \n  高山祭の屋台（国の重要有形民俗文化財）で見られる精巧な「からくり人形」。山奥の飛騨高山の伝統技術なのに、海にすむ巨大生物のある器官が使われているのはなぜでしょうか？\n* **理由**  \n  江戸時代から伝わる日本のからくり人形のゼンマイやバネ、糸のガイド部分には、「クジラのヒゲ（セミクジラなどのヒゲ板）」が使われているからです。\n* **具体的な数字・比較**  \n  江戸時代に出版された日本唯一の機械工学指南書『機巧図彙（からくりずい）』（1796年）でも、からくりを動かす動力や復元バネの素材としてクジラのヒゲが指定されています。金属のスプリングに比べてしなやかで折れにくく、錆びず、湿度や寒暖差の激しい気候でも滑らかな弾力を保つという、当時の先端バイオマテリアルでした。\n* **意外な点・歴史の裏話**  \n  秋の高山祭（八幡祭）で唯一からくりを披露する「布袋台（ほていだい）」では、2体の唐子（からこ）が空中の綾棒をブランコのように飛び移り、布袋の肩に乗る「離れからくり」という超絶技巧が演じられます。現在では商業捕鯨の制限によってセミクジラのヒゲは極めて入手困難な幻の素材となっており、修理の際は古い蔵から見つかった貴重な古材を削り出して大切に修復・継承されています。高山市内の「飛騨高山獅子会館からくりミュージアム」などでも、その緻密な内部機構の歴史を間近に見学することができます。\n* **根拠（出典）**  \n  高山市教育委員会「高山祭の屋台行事」文化財解説、高山屋台保存会「布袋台」解説、学研『大人の科学』機巧図彙・からくり人形機構解説\n\n---\n\n### リスナー参加型！週末3択クイズ\n\n**【問題】**  \n奥飛騨温泉郷にある「新穂高ロープウェイ」は、日本で唯一の2階建てゴンドラが有名ですが、1970年の開業前、当初の壮大な構想では北アルプスを越えてどこまで直結する計画だったでしょうか？\n\n1. 富士山の山頂\n2. 長野県の上高地（河童橋）\n3. 富山県の黒部ダム\n\n**【正解】**  \n**2. 長野県の上高地（河童橋）**\n\n**【プチ解説】**  \n岐阜県と長野県を結ぶ大観光ルートとして、穂高連峰の険しい山並みを越えて上高地へ繋ぐ夢の計画が立てられていました。しかし、北アルプスの貴重な自然環境を守るためや技術的な課題から見直され、現在の西穂高口までのルートとなりました。今でも山頂展望台からは、その雄大な北アルプスの山々をぐるりと一望できます。",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、冬を迎えるこれからの季節にぴったりな「懐かしい暮らし・心が和む話」をテーマとした調査メモです。家族で共有したくなる岐阜・飛騨の生活の知恵や歴史の背景をまとめています。\n\n---\n\n# 調査メモ：懐かしい暮らしと心和む知恵（岐阜・飛騨編）\n\n---\n\n### 1. 【飛騨の花餅】真冬の飛騨の座敷で枯れ木に花が咲く！？「花餅」はどうして生まれた？\n\n* **理由：** 雪深く厳しい冬を迎える飛騨地方では、冬場に野山の草木が葉を落とし、お正月に床の間へ生ける生花が手に入りませんでした。そこで、山から切り出した小枝に小さくちぎった紅白の餅を巻きつけ、満開の花に見立てて新春を祝ったのが始まりです。\n* **具体的な数字や比較：** 明治時代には枝に餅を丸めてつけた繭玉（まゆだま）のような形で壁に掛けていましたが、戦後に現在のような「切り株の置物」スタイルが定着しました。人の背丈ほどある大きな花餅の場合、大人4人がかりで約3時間かけて仕上げられます。また、お正月が終わってもすぐには処分せず、約2か月後の雛祭り（桃の節句）まで長く飾られます。\n* **意外な点：** 役目を終えた花餅は捨てません。雛祭りの頃にカチカチに乾燥した餅を枝から外し、油でカラッと揚げて「雛あられ」として家族でおやつに食べます。さらに土台に使うネジキなどの切り株は生命力が強く、水を張った水盤に浸しておくと春に青い新芽が芽吹き、秋には紅葉まで楽しめます。\n* **歴史の裏話：** モノトーンの雪景色に包まれる冬の飛騨で、お正月くらいは家の中を明るく華やかに彩りたいという先人たちの願いから育まれた風習です。五穀豊穣の祈りとともに、厳しい寒さの中でも春を心待ちにする雪国の温かい美意識が詰まっています。\n* **出典・根拠：**\n  * 高山デジタル・アーカイブ（岐阜女子大学）「高山の生活文化 風習 花餅」\n  * 小屋垣内秀之氏解説「飛騨の花餅」\n\n---\n\n### 2. 【飛騨のさるぼぼ】なぜ「さるぼぼ」には目も鼻も口も描かれていないの？\n\n* **理由：** 顔のパーツをあえて描かないことで、持ち主の気持ちを映し出す「映し鏡」の役割を持たせているためです。嬉しいときには一緒に微笑んでいるように見え、悲しいときや辛いときには一緒に涙を流して寄り添ってくれているように感じられるよう、特定の表情を固定していません。\n* **具体的な数字や比較：** その原型は約1200年前の平安・奈良時代、宮中や貴族の産屋で魔除け・安産祈願として置かれた「這子（ほうこ）」や「天児（あまがつ）」まで遡ります。江戸時代に庶民へ広まり、飛騨では母親や祖母が端切れ布を使って子どもや孫のために縫い与える素朴なお守り人形として定着しました。\n* **意外な点：** 「さるぼぼ」という言葉は飛騨弁で「猿の赤ん坊」を意味します（ぼぼ＝赤ちゃん）。また「さる」には「厄・病気が**去る**」、猿の音読み（エン）から「家内円満（**円**）」「良縁（**縁**）」という3重の縁起担ぎが込められています。なお、お土産として全国的に定着する前は、真っ赤な姿で顔がないため、外から来た人から「不気味な人形？」と驚かれることもありました。\n* **歴史の裏話：** 全身が赤い布で作られているのは、江戸時代に流行した天然痘（疱瘡）から子どもを守るためです。古くから赤色は病魔を退散させる強い魔除けの力があると信じられており、病気に負けず元気に育ってほしいという切実な親心が込められています。\n* **出典・根拠：**\n  * 飛騨高山さるぼぼ製造元各社（飛騨高山さるぼぼ屋さん、あずさ屋、西田工芸）資料\n  * デジタルアーカイブ飛騨おぅらい「飛騨の生活文化 さるぼぼ」\n\n---\n\n### 3. 【美濃焼の湯たんぽ】朝までぬくぬく！昔懐かしい「陶器の湯たんぽ」の底力\n\n* **理由：** 陶器（焼き物）は金属やプラスチックに比べて熱伝導率が低く、比熱（熱を蓄える力）が大きいため、お湯の熱を急激に放出せず、遠赤外線効果を伴いながらじわじわとゆっくり熱を伝えます。そのため、朝方になってもお湯が冷めにくく、穏やかな温もりが持続します。\n* **具体的な数字や比較：** 岐阜県東濃地方（多治見市など）は美濃焼の産地として有名ですが、実は大正から昭和初期にかけて陶器製湯たんぽの一大産地でもあり、かつて多治見周辺には湯たんぽを作る窯元が最大で約70軒もありました。量産プラスチック製品の台頭で激減したものの、創業400年を超える老舗窯元などが現在も手作業の製法を受け継いでいます。\n* **意外な点：** お湯を入れた直後でも表面がキンキンに熱くならず、緩やかに温まるため、布団の空気を乾燥させにくいのが特徴です。昭和レトロな道具と思われがちですが、エアコンのような空気の乾燥を嫌う現代の愛好家からエコな防寒具として見直されています。\n* **歴史の裏話：** 湯たんぽ自体は室町時代に中国から伝来したとされ、江戸時代には陶器製が庶民に普及しました。美濃地方に良質な粘土や耐火性の高い土が豊富にあったことから、熱湯を注いでも割れにくい頑丈な陶器製湯たんぽが量産され、冬の日本の家庭の足元を長く支え続けました。\n* **出典・根拠：**\n  * とこなめ えんける道具店「陶器の湯たんぽの歴史と職人 加藤さんの想い（多治見市・高田焼窯元取材）」\n  * 美濃焼伝統工芸品協同組合「美濃焼の歴史」\n\n---\n\n### 4. 【郡上おどりの踊り下駄】地面を蹴ると快音が鳴り響く！踊り下駄に「ヒノキ」を使う理由\n\n* **理由：** 郡上おどりは、下駄で地面を蹴って「カチッ！」「カーン！」と音を鳴らし、お囃子とともに拍子をとる「踊り手自身が演奏に参加する盆踊り」だからです。一般的な下駄に使われる桐（キリ）や杉（スギ）では柔らかすぎて良い音が鳴らず、すり減ってしまうため、硬くて澄んだ音が響く「ヒノキ」が使われます。\n* **具体的な数字や比較：** 通常の下駄よりも歯が高く、約50mm（5cm）の高さに作られています。これは浴衣姿を美しく見せるだけでなく、地面を蹴りやすくするための工夫です。お盆の4日間にわたる「徹夜おどり」など激しいステップを踏み続けるため、熱心な踊り手は一夏で2〜3足もの下駄を履き潰します。\n* **意外な点：** 激しい衝撃に耐えるため、台と歯を別々に接着するのではなく、硬いヒノキの一塊の角材から歯を削り出す「一体型（一本歯・二本歯の削り出し）」で作られています。下駄は単なる履物ではなく、地面を打つ「打楽器」として職人が設計しています。\n* **歴史の裏話：** 400年以上の歴史を持つ郡上おどりは、江戸時代初期に郡上八幡城主の遠藤慶隆が、領民の融和を図るために村々の踊りを城下に集め、「盆の4日間は士農工商の身分を問わず無礼講で踊ってよい」と奨励したのが始まりです。誰もが同じ下駄の音を夜通し打ち鳴らし合うことで、身分の壁を越えて一つになることができました。\n* **出典・根拠：**\n  * 郡上市観光連盟「郡上おどり公式案内」\n  * 郡上木履「踊り下駄 三つのこだわり」\n  * 東海テレビニュースONE「郡上おどりの足元を支える職人の技」\n\n---\n\n## 3択クイズコーナー（番組の箸休め・リスナー参加用）\n\n**【問題】（テーマ：飛騨の花餅）**\n雪深くて生花がない飛騨の冬を鮮やかに彩る「花餅（はなもち）」。お正月から雛祭りまで約2か月間飾られたあと、枝についたカチカチの紅白の餅は、昔の家庭では最終的にどうしていたでしょうか？\n\n* **1番：** 庭や畑に埋めて、春の作物の「肥料」にした\n* **2番：** 油でカラッと揚げて、「雛あられ」にして食べた\n* **3番：** 厄除けとして、雪解け水が流れる「川に流した」\n\n---\n\n**【正解】**\n**2番：油でカラッと揚げて、「雛あられ」にして食べた**\n\n**【プチ解説】**\n冬の間、床の間で目を楽しませてくれた花餅は、役目を終えても決して無駄にしませんでした。雛祭りの頃になると枝から餅を丁寧にはずし、油で揚げてサクサクの「雛あられ」にして家族みんなでおやつとして美味しくいただいたそうです。「最後まで命ある食べ物を大切にいただく」という、飛騨の昔の暮らしの優しさと知恵が伝わってきます。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%AB%98%E5%B1%B1%E7%A5%AD+%E3%81%8B%E3%82%89%E3%81%8F%E3%82%8A%E4%BA%BA%E5%BD%A2+%E3%82%AF%E3%82%B8%E3%83%A9%E3%81%AE%E3%83%92%E3%82%B2+%E3%82%BC%E3%83%B3%E3%83%9E%E3%82%A4&client=app-vertex-grounding&safesearch=active\">高山祭 からくり人形 クジラのヒゲ ゼンマイ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%83%E5%AE%97%E7%94%BA+%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4%E3%81%AE%E7%9F%B3+%E4%B8%8A%E9%BA%BB%E7%94%9F%E7%A4%AB%E5%B2%A9+20%E5%84%84%E5%B9%B4&client=app-vertex-grounding&safesearch=active\">七宗町 日本最古の石 上麻生礫岩 20億年</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E7%A9%82%E9%AB%98%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4+2%E9%9A%8E%E5%BB%BA%E3%81%A6%E3%82%B4%E3%83%B3%E3%83%89%E3%83%A9+%E6%97%A5%E6%9C%AC%E5%94%AF%E4%B8%80&client=app-vertex-grounding&safesearch=active\">新穂高ロープウェイ 2階建てゴンドラ 日本唯一</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%AD%E6%B4%A5%E5%B7%9D+%E6%A0%97%E3%81%8D%E3%82%93%E3%81%A8%E3%82%93+%E8%8C%B6%E5%B7%BE%E7%B5%9E%E3%82%8A+%E7%99%BA%E7%A5%A5+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">中津川 栗きんとん 茶巾絞り 発祥 由来</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%83%A1%E4%B8%8A%E5%85%AB%E5%B9%A1+%E8%B8%8A%E3%82%8A%E4%B8%8B%E9%A7%84+%E3%83%92%E3%83%8E%E3%82%AD+%E9%9F%B3+%E9%83%A1%E4%B8%8A%E3%81%8A%E3%81%A9%E3%82%8A&client=app-vertex-grounding&safesearch=active\">郡上八幡 踊り下駄 ヒノキ 音 郡上おどり</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%99%B6%E5%99%A8+%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E7%BE%8E%E6%BF%83%E7%84%BC+%E6%AD%B4%E5%8F%B2+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">陶器 湯たんぽ 美濃焼 歴史 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E8%8A%B1%E9%A4%85+%E7%94%B1%E6%9D%A5+%E5%B2%90%E9%98%9C%E7%9C%8C+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">飛騨 花餅 由来 岐阜県 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%95%E3%82%8B%E3%81%BC%E3%81%BC+%E7%94%B1%E6%9D%A5+%E9%A1%94%E3%81%8C%E3%81%AA%E3%81%84+%E9%A3%9B%E9%A8%A8+%E9%83%B7%E5%9C%9F%E7%8E%A9%E5%85%B7&client=app-vertex-grounding&safesearch=active\">さるぼぼ 由来 顔がない 飛騨 郷土玩具</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsnWjArF_hGFkIzHsZp_8LwjfPZxDnO2u6qEOudeeE_NLXHa33WAcWc4z_GW7AhQl9nnsOm2L-ya9rIH2IufVSkjNQeYmznSG2ShI8wkCamKFT9XU=",
-          "title": "shinhotaka-ropeway.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1mnu2LX7kb6gMrqOuq0f_mLPKV_dI-c_efcmwtmNkW4630l-XfW7ltG7kxSgNRIKMVmE72J827K0yYZGc_AhGhBLO2bdiTy7qCfHRCndGRTQ7EHCh7AaCdGr7",
+          "title": "koyagaito.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcWE378_xpu3sIE_3NWZSamoSJ50IrwCx9nFTks7eNt1kgIWA9Nf_fvT7RwOGTaPyspWVOrzHfRVDCDJxFfp5O17WCDLIBJroKwtZu9-T9EJzg0YDX8oEJvRap2JWPKzVc-YSJJdWxzw==",
-          "title": "mlit.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_GRzjRUmf1T9JtHuEssmYiBt---jk9o-sX_MDjFcm46tZ9eLIhKC_SCwSwZLE_SSkVdg9uNuLt8fR4_JWtzpamhqOiHGjX5ShIPpBrAYGsxXwlMP9yV0jM8Oem0TSgxO-C5bf25lKz6Jf0f5nVA==",
+          "title": "gijodai.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjJabd7ZyV9tKK_lTsBkiJOPf-hzwYWU9QHemFiNMmr5zsOWNnfG9k-2L-R-bMdBA1PcCpN4N9Nt2nVIrQAzr22Oy8iXDm7YmmSV8DMtpElOSclAQltqrHvmgO_oE9uIUPX7GSVewXA4EK3zjlKLM=",
-          "title": "yomiuri-ryokou.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxRD17GybmuDiqU6fkCa1DkDTdm2ISb2lJouritOBLhzu5b9Ps4XZcoQJxt84JZa4jLMaFtOKNbrgjAj8REiktONaKQ8Qq380AMqr4noEwGk9XsPvGPso37C9rl9Pc9V6Xc-eeF-CA-E0C7Q==",
+          "title": "hidatakayama.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5Q15zE4nIWsKPRqSgNm_L4MqxgamhNEWlCFn2qk5Ey2IaBKdjtgol-10HCDkz0dYcDmBYlXPVvQzOKxeeiNjVgwC6nvSQPJtXI6V-6cjPKernev3L56WmOXpU5Tzf3S2RqPz2BTxl_FXIMNiH01D2F0SnsshV4vOQhAuFw4KZ3Xv1ZBUYuCXSPC9bUmfwvnHBUfc8iy0iC7fXb8xj7IFk0jn6UYOuaBYSrA8",
-          "title": "okuhida.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHI5euub-6qykwYWYTakygKfcFqucOJo1FXFQYqeMpMrdpUo3Jm6ZOCceFOxZiSYis-eN24SdbJwsHp2h0IwJy7rB6wjXSj8SsUOcHGI8FrRtB1wSaTtIZCQJY=",
+          "title": "yoshima.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw0Q9MYsjnwxe8strbMlHJpIBPFuQqavpJ2yLAmNc758fOrwWSuD8Zqirf6Jx8_5W4AhxIongKQUl0PvcLaPoErHN-4yufjV4pZoU76yAHr5RpNGNVrn5LkTbsnmDFc98gnXV0",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVEmGmDqGndhffnfwSUq1qIVHHKzU6jjxCTeuaSdJh7io1cNJggWdCtPeMXM_3boOdA4zofCj11RA3FQcl56GqcRZCQhdeGGVYQiu4bVlxhXMSYfpb3URlBKwlbfNq8zYgsWLtsJOVJQ==",
+          "title": "gifutaishi.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMfL0Q9ivnwWUtFklM0mnTRe7iuVID5EyU4igKcUbOEMBHtz1XueeP34IYHzVBFZttWl3qaPzD_a84ExLhvgw-NQT8zQTLQ-zwyIxwum1e2_VZUVEyZPGsiLImZsaoN4iV3Q==",
+          "title": "wixsite.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFtnSHr2oH8SUSyhAHMpuP8BV9G27XmLBYNKJWmGKqg7TyV8dJnksVnZeS5PKLs_BOyIKJC-n337Ftn1fE6QEveVVnfl9IlYVMeZI8ZUu9XyZDdnlsDXcOEVTwY29d648y5WFqVM50RuL0",
+          "title": "theshop.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQzmT0e0NrKFcOqkES-7J0iWx6OGJmgpbPhuko7gWfS4IrxHcX6X_-mNP3F1rK4sa2lZZrsZOn-ejA9EibpMhwOonujX_h6GPtHW0FL-vMrGcrPRt4Dr-hbOesXYiwFCy_",
+          "title": "hidanosarubobo.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4d81m37rA6IfoMoyVmFq89iTlwrrLeLztbfYNK_EGv9ZxYmVZIDlfhpRoo1DRFDxfSymU8FfQ9GVGLCLnSA8ADeh-cTFT12VmnU_nG8d-YPeFSFMtCVmN5SYkEu8k5G7-u0_p",
+          "title": "azusaya.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqnOYHcJgHe_FZAnh1ImnTU2Rl7JLijm-kyFfDkMjduyyBxdJjAbnzaAoA6Ym7zt-TReM-fIgW5rW94qok0WOvuEQX91XZq51a-TbIQswWmf5m_SSOpemFHq8Bu1OgVsdaDrw=",
           "title": "madeinlocal.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUHBR0xtZTFuYD5XiFZr20Aox4FfovgAmNFURE8YnUQKRdy0dM720Fft7_gggEapVWcatrV473vc6s5Y_emYaIYgZT_vpjJFrbFmGDgYRh0npnCPM8F8ZERRIeJ6YGaa3ib55GUB8AfemzTcyA32G049i8MMncSWWCymdMS5BT0YNLECBjaK71vo4j",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt9tCGEU2mieoKENAEb1PaQdMZykX4mPbmsc4HoESOj6IFF17X6tpPvxknejNx6eAwFjssgZwTCFngDX1yRD_uJfn5Phr8j2k0r9B-ptU6eTbtlMN1pg==",
-          "title": "japaswee.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrVqDVc3mwy6yTUtvkAMoywbsv--1sHK7GKci6Se0hBdxiCIvP9-rgGg8GapJ_Vx3-0Vd_o2myE2ApABb0I6yG9Fkkl4sofb1SMLar2cLSS4vAsO-XRx3VXrQdWM5WTIKllk2w5qxVda7H2Cp7uIkIxSpA",
-          "title": "yunomi.life"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbpEhKfbYtZXMxg1bkN28ewE_8uMwmoWpGHsSrYTOGOvQULE8ZMyQrMPBHqI73jO_AZShfZyCT6R4Tw5DnEZTQ1f-lpNurDiE3TWJ0tKJX3Oix62g7xkLowFlOOqnelJWDOYep5w==",
-          "title": "nakatsugawa.town"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDa5-JWe_4SMIACFq6B7rbKkfDp-fRmAT11diyR92fUXNug-ENcp-vqr1x7XzXYCjMpwRjBwlA0NZiw-qCIJIVItKUNp8RoHkiZhCMaYVCwavruptJaVJR01M1BBZEGl4=",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErScZqxxgcomm_cgAb0yPpJDmKkHHt9WScjVPlamVJVM37LAf_4VmrdpXRpbKcXkIwrUDw8H1AnMHDeA6J7pCqz7CecGQQ1G0e4suQlFrEcM4zdy48NvW8c9vWz-xYy7WSiC94kLC4ypbtTpO1ISvTRZfMf-vANp5l",
-          "title": "web-gis.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXRWiw7wdavQpB5n7ZVdYk-rCFYGcU94FHhEZeh0s8teIaIxhNAqJVO-SAVv8YnYfh7QSGSXUliyxaEb4oEi5bjuguG-wEMWS-9mKunk0oK73r3naqXMrRehNCdibV8Y3zL3ZqCFYrpUkyHjkGuuSRDkT4YCki7HbrMQlQ",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETfOCg3MgSVSy0DbqY_DqbHJEkUsg9_XDz3XYoRjYrIYmcoo2hRzb-ZE_qxSsUhrtv7jPKA7iSA3VNhu00LJI1Z4KNux_34jTb8b5qMIYVMFZs_myBW356UWCXITcBEwlBsCJSgVE=",
           "title": "fc2.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgqv0aMVtwLaKrhVWe5kWxJB_z_wwD9QzwqVLhb4VggGOf2x-Lc2rgPUq37CwA21QXRkQUccDG5VuWUNQNeuvg6S8C_bV9UMAvQ1YEpQHNUPQniWpsqssLfvz2utnudLfpmhXr_w533MhtlPNhI56eQySh",
-          "title": "nagoya-u.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN-aIgwUD4AD1GdO3s1sjoP8h_8LbJR6YPIgfydhHW7xsx18Gp8h_mAn5wzOVrvJ6WtC5egy4Dey1rgZnMOlB73rofBQcwVR4GpkNNltj0dmAZtHatiMX4PThdAEd23h4xhwSAoWVuqOO_JPz9ON1k6RfL3z6qNQk18WzY",
+          "title": "enakawakamiya.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAnMfGwksj3GyC7mWH6C48iUHTdGd1W5XdhU_EGyhlDmDPIyvC9e3MxQRr_fxKY7IDIiKUeX1QJIcuLHAM7_kS6GlnroptTZsm8spuxo3VQvR0jZKrDz3TorrBp6b6B8nfPwRIMyYI8huVY98=",
-          "title": "fmgifu.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeaxuExiTIEVkdyimH2hRQrpmLtemYWbmOPD3RwAZI8-9C1GfwuOh1qOy5T8DYeU9H1yy38FzByL309cf2kHLSaTYvgeSbDucGpBL5c2nFzmtUPyZn7Fja1uRuNg==",
+          "title": "1388.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnRVWBq6pJw5PD3HX98N03_lAABrTp7w7A8vnB2QohCGIoNOet75S601QTad1xq7xT1CMdMSGBxaxPaX-IRvTdMSGBocOWBi2bjGI-HhMtFC3WJJxaXTUmhIIQ_GnJHQ5J5xW4CWLTVCSwKw==",
-          "title": "jmapps.ne.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBRvmLlpuDAw6LjvbU1SaWfvPUKWtj8x0aOy_RvqEXtQdKrsEdLmEuDLdGUOCK-1ih4R73uB-4vmvylBjyd-u8Yk7rhja_voa2wVE7lW0QCdlZLht1hM-e2JBUF1wFXWsVP7tWVJUoUuex",
+          "title": "gijodai.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0G-JtNbSn7LPD4Q-Pr1fRlyg1PWc4w_1_k9rN6G36SHBNVrKDUpfzRXdnqhMg0unw0IdY4MDAaAHU61QuQ8jYRJiCuf5uQQIE9GA3EIxIwnGGtXlhGB7Z5P-2i2lm8j-rAiTBerdvOHU=",
-          "title": "hichiso.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3QbYe8Buk-Xhn_30FS4qHSaKXPd-d6u20dLJSaM3mc6YWIWHx40k1ULJUs1VrTsdOd1--TdS6dfpR5wR7sZUKF3F-DkmXWYl4kIH0M5xd4WDEVY9-nKolwU81IkD4_A==",
+          "title": "tokonameenkel.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJK_TqgvixDq3Ly8RQ9ArfIhaknQdVcPsGfa-wxSR75SVToTqPeEg3KoYxNJEt9uS2AgvULULBP82yBTUjLXS5y3Wm-8x5QMAYMkncNWo2o1f62vtaNY-25j6K1Fq03aCI",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxD39MgM4M_XehpkamdjL5EuN1G9dKFI3itW_EX9_IEJhxAVN0i06QO11KDIklu94xp4aihaZDuIQO6E4mHy84bLoGyAqRu3LZ2oC3pbecgN7aKs3G",
+          "title": "oribe-hills.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjx_5LAtX8MVC8zhhSxPf5c1GBRwMqWLuJdT8Vvhw3wNvchwY7YQajBacyy1tfbPcAK2DzGSXLKdh5nDrBEWe7xGOXFxdy_dQ21-oGo8uCcTydQQLQ",
+          "title": "minoyaki.gr.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAvkvrhV4lZtSjPpDgAKg9ZeZrmETdxwrgA1tlOxe7Pva3mX-hOxbbD1sXFl9y--QAvYLhht3kRO_vDw9AOYjN9GadfF1LhOw4UOrvDP0dy5eFEYOs3K34_aM1gSxNpQU=",
           "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA9YS2EU-5PwZjcpghjMRl9eXbgaLOSNashYux4Ei-7_KP4-ywVmHwPWBhFl1jzn09IPKJlGsSpdCvJMN9Gm5arAplKG9APF6Odmc9z0WvYx0c_sri6dOl-7vL64TKqW-S6Rn47LI4YaCAR2kvNK-9hMBXcTIBgSxk25HnXtGa0inSHAH38cFf2rA=",
-          "title": "takayama.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFao3C219VErSDVRUxwuqoaDOWRAV-B2ViGUHmxyVkUuQ_jFhP30z8FUXbrkxOpmpf_ADaDFSZzBM5PKDIfwvAjhIbIt1mmvcYfCqQPrh8fbGnfAuf1jGu6CzcQBZJ_VhV0q2L_Se8b5G2oCSuNosRS",
-          "title": "otonanokagaku.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQ8LwM9LXnSfPW7CW010RD5QKwW7JE4rLR2b7rbwWDfXnSo6Z6BhCBXe84HX0gJzQVlG9EFuLvEzZ5RMcTDtWyCwNTJXflP03nUcvXgrMZ0RBpuNSWQ_Wv_nn2BFZuoYN",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcSUbXxXTosBK8u1RKvlfx1t13zAmOzbKfKltBOR4jpZrG1ellHJhl1Ga52GBjCGDl66dz1v9hY_QmhKu9CgaMJX1SLg3nNvIyA5Asz_sToEv9p8gUnVhBL2dX2vmdRWc=",
           "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxkpnVyXpaMfaJJhh17AUPVO4xmnVAvH1oBCj-B3-iHTEOH_xyXdQv3cg_STUyhW0OaGXADgQKw68Zxrb87V8-e_UIaxy7-0yWa69N_DKxHf5GZOvD6h8r6Aw79o2ysMlE1FRB-aJbPlgbS547HX6oAi0JbracA==",
-          "title": "takayama-yatai.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4OXacWd6iOrTFV4xcyVg1gmTW33KlJG1_3PAqfE_kF-iZg-6bBD7x61Pd2JzMZY_GdlAyoFOGQCmWQsOq03VqezVeEcmOv_6WaeMkhqhCLPaMsTDII8qkm9K6Htmu4F01tO07e74=",
+          "title": "intojapanwaraku.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6BT4mL01ZTze9OtxzI_f3wkzI88rcXrs74Bir0EyyDx5sVNTkt42Wb8dvEbVtLIqQNcsAbK6NF76cXaqEJfjUJvwRUssUTA4dRh3-1h9mNjDTrxO0T5XjuKoT71z_qfih",
-          "title": "takayamakarakuri.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAiYpKf0O6NQoWGwE_FazSUBahTiRuKqaX7cW_ZgHeMRsLJ0__8PVELGiG1ivAZG21Fx_R3_bcZAqKak_vgSBjBt3kAXaqjBaazboL_AOsFaMyEcqY_GDlD9Y=",
+          "title": "gujomokuri.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHECTe4Irl1GfkDGTQAoBGPGFcVJpfWDXVcZGxKIIEU_v7ctvk2m98Qpqd9-AtijbDiPl227gs7BLwvd-0FhzS0b_z8MliScm3oFITJKQ9tSUuMKfdn8LdHpmbF6c3m1YM=",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIWpibBeFLGweapIJ-9DgpjwBcFCMxkQQVFDc6VTV-O_ZB0asJJAnB0D3jkxEGMyfZ1FyI1mGOR6HzmnHvbKUz0sChrFYABjKrhPT32QUGRdZXz-0K-dcbovo1suL0Vw4=",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHXR2iGi0MT0VAg66gcSkRX2-5jjB1BR0kvDyN96NKg02_N19Mbi5atcq4TDH7J4Ff70LVZfnWVS9TRF4GS9aNN2XIX6BjbZcPU-M-7sJW-wZ9eHydXMIFid93WofFbxp8WA==",
+          "title": "gujohachiman.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 607,
-          "endIndex": 761,
-          "text": "日本で唯一ここだけにしかない「2階建てゴンドラ」ですが、そもそもなぜ作られ、どんな歴史があるのでしょうか"
+          "startIndex": 719,
+          "endIndex": 881,
+          "text": "そこで、山から切り出した小枝に小さくちぎった紅白の餅を巻きつけ、満開の花に見立てて新春を祝ったのが始まりです"
         },
         "groundingChunkIndices": [
           0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 782,
-          "endIndex": 1088,
-          "text": "第2ロープウェイ（しらかば平駅～西穂高口駅）で導入されている2階建てゴンドラは、雄大な北アルプスの大パノラマを、できるだけ多くの乗客が遮るものなく窓から眺められるように客室を上下2層に分けた構造になっています"
-        },
-        "groundingChunkIndices": [
-          2,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1130,
-          "endIndex": 1279,
-          "text": "標高1,117mの新穂高温泉駅から第1・第2ロープウェイを乗り継ぐと、標高2,156mの山頂・西穂高口駅まで到達します"
-        },
-        "groundingChunkIndices": [
-          2,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1282,
-          "endIndex": 1441,
-          "text": "全長約3,200m、高低差は約1,040mに及び、山頂展望台からは槍ヶ岳（3,180m）や笠ヶ岳（2,898m）などの名峰を360度見渡せます"
-        },
-        "groundingChunkIndices": [
-          2,
-          3,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1444,
-          "endIndex": 1602,
-          "text": "山頂の気温は山麓より約10度も低く、秋は山麓の緑・中腹の紅葉・山頂付近の初雪というグラデーションが楽しめます"
-        },
-        "groundingChunkIndices": [
+          1,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1647,
-          "endIndex": 1881,
-          "text": "観光庁の資料によると、1970年（昭和45年）の開通前、当初の構想では「穂高連峰を越えて長野県の上高地（河童橋）まで到達する一大観光ルート」として計画されていました"
+          "startIndex": 887,
+          "endIndex": 1129,
+          "text": "**具体的な数字や比較：** 明治時代には枝に餅を丸めてつけた繭玉（まゆだま）のような形で壁に掛けていましたが、戦後に現在のような「切り株の置物」スタイルが定着しました"
         },
         "groundingChunkIndices": [
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 1884,
-          "endIndex": 2088,
-          "text": "しかし、財政面や技術面、そして国立公園の自然環境保護の観点から計画が見直され、現在の西穂高口までのルートに短縮されたという経緯があります"
+          "startIndex": 1132,
+          "endIndex": 1245,
+          "text": "人の背丈ほどある大きな花餅の場合、大人4人がかりで約3時間かけて仕上げられます"
         },
         "groundingChunkIndices": [
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2121,
-          "endIndex": 2192,
-          "text": "観光庁（Japan Tourism Agency）「Shinhotaka Ropeway」解説資料"
+          "startIndex": 1248,
+          "endIndex": 1381,
+          "text": "また、お正月が終わってもすぐには処分せず、約2か月後の雛祭り（桃の節句）まで長く飾られます"
         },
         "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2121,
-          "endIndex": 2270,
-          "text": "観光庁（Japan Tourism Agency）「Shinhotaka Ropeway」解説資料、奥飛騨温泉郷観光協会「新穂高ロープウェイ」公式案内"
-        },
-        "groundingChunkIndices": [
+          0,
+          1,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 2441,
-          "endIndex": 2693,
-          "text": "秋のドライブの定番といえば中津川や恵那の「栗きんとん」ですが、正月のおせち料理に入る黄色くねっとりした「栗きんとん」と、なぜ同じ名前なのに形も材料も全く違うのでしょうか"
+          "startIndex": 1452,
+          "endIndex": 1608,
+          "text": "雛祭りの頃にカチカチに乾燥した餅を枝から外し、油でカラッと揚げて「雛あられ」として家族でおやつに食べます"
         },
         "groundingChunkIndices": [
-          4,
-          5
+          0,
+          1,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 2714,
-          "endIndex": 3029,
-          "text": "おせちの「栗金団」はくちなしで染めたサツマイモ餡に栗を混ぜた金運を願う料理ですが、岐阜の郷土菓子「栗金飩」は、蒸した栗の実を砂糖と炊き上げ、茶道で使う布巾（茶巾）で絞って栗の形にかたどった純粋な和菓子だからです"
+          "startIndex": 1611,
+          "endIndex": 1797,
+          "text": "さらに土台に使うネジキなどの切り株は生命力が強く、水を張った水盤に浸しておくと春に青い新芽が芽吹き、秋には紅葉まで楽しめます"
         },
         "groundingChunkIndices": [
-          4,
-          5
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 3113,
-          "endIndex": 3210,
-          "text": "農林水産省のレシピ資料でも、材料は「生栗1kg、砂糖300g、塩少々」のみ"
+          "startIndex": 1803,
+          "endIndex": 2012,
+          "text": "**歴史の裏話：** モノトーンの雪景色に包まれる冬の飛騨で、お正月くらいは家の中を明るく華やかに彩りたいという先人たちの願いから育まれた風習です"
         },
         "groundingChunkIndices": [
-          5
+          0,
+          2,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 3213,
-          "endIndex": 3321,
-          "text": "サツマイモや着色料は一切使わず、栗本来の水分と砂糖だけで練り上げられます"
+          "startIndex": 2015,
+          "endIndex": 2153,
+          "text": "五穀豊穣の祈りとともに、厳しい寒さの中でも春を心待ちにする雪国の温かい美意識が詰まっています"
         },
         "groundingChunkIndices": [
+          0,
           4,
-          5
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 3324,
-          "endIndex": 3456,
-          "text": "上部がキュッとねじられた栗の形は、職人が一つひとつ手作業で茶巾絞りにすることで生まれます"
+          "startIndex": 2186,
+          "endIndex": 2287,
+          "text": "高山デジタル・アーカイブ（岐阜女子大学）「高山の生活文化 風習 花餅」"
         },
         "groundingChunkIndices": [
-          4,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2292,
+          "endIndex": 2340,
+          "text": "小屋垣内秀之氏解説「飛騨の花餅」"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2460,
+          "endIndex": 2618,
+          "text": "**理由：** 顔のパーツをあえて描かないことで、持ち主の気持ちを映し出す「映し鏡」の役割を持たせているためです"
+        },
+        "groundingChunkIndices": [
           5,
+          6,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2621,
+          "endIndex": 2852,
+          "text": "嬉しいときには一緒に微笑んでいるように見え、悲しいときや辛いときには一緒に涙を流して寄り添ってくれているように感じられるよう、特定の表情を固定していません"
+        },
+        "groundingChunkIndices": [
+          8,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2858,
+          "endIndex": 3098,
+          "text": "**具体的な数字や比較：** その原型は約1200年前の平安・奈良時代、宮中や貴族の産屋で魔除け・安産祈願として置かれた「這子（ほうこ）」や「天児（あまがつ）」まで遡ります"
+        },
+        "groundingChunkIndices": [
+          9,
+          5,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3101,
+          "endIndex": 3284,
+          "text": "江戸時代に庶民へ広まり、飛騨では母親や祖母が端切れ布を使って子どもや孫のために縫い与える素朴なお守り人形として定着しました"
+        },
+        "groundingChunkIndices": [
+          9,
+          10,
+          8,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 3501,
-          "endIndex": 3681,
-          "text": "中津川は江戸時代、中山道の重要な宿場町として栄え、東西の文化が交わると同時に武士や町人の間で茶の湯文化が非常に盛んでした"
-        },
-        "groundingChunkIndices": [
-          7,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3684,
-          "endIndex": 3903,
-          "text": "抹茶の風味を引き立てる上質なお茶菓子が求められたことから、地元の山栗を使って菓子職人たちが腕を競い合い、誕生したのがこの素朴で贅沢な栗きんとんです"
-        },
-        "groundingChunkIndices": [
-          7,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3936,
-          "endIndex": 4006,
-          "text": "農林水産省「うちの郷土料理：栗きんとん 岐阜県」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3936,
-          "endIndex": 4057,
-          "text": "農林水産省「うちの郷土料理：栗きんとん 岐阜県」、中津川観光協会「栗のまち中津川」"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4212,
-          "endIndex": 4343,
-          "text": "国道41号を南下した七宗町（ひちそうちょう）の飛水峡（ひすいきょう）にある「日本最古の石」"
+          "startIndex": 3290,
+          "endIndex": 3424,
+          "text": "**意外な点：** 「さるぼぼ」という言葉は飛騨弁で「猿の赤ん坊」を意味します（ぼぼ＝赤ちゃん）"
         },
         "groundingChunkIndices": [
           9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4346,
-          "endIndex": 4442,
-          "text": "なぜ山奥の川原に、恐竜の時代よりも遥かに古い石があるのでしょうか"
-        },
-        "groundingChunkIndices": [
-          9,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4463,
-          "endIndex": 4708,
-          "text": "飛騨川の川床で見つかった「上麻生礫岩（かみあそうれきがん）」という地層の中に、約20億年前に形成された花崗片麻岩（かこうへんまがん）の礫（小石）が含まれていたためです"
-        },
-        "groundingChunkIndices": [
-          9,
+          10,
           11,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 4750,
-          "endIndex": 4865,
-          "text": "地球の年齢（約46億年）の半分近くに達する「20億年前」という気の遠くなる古さです"
+          "startIndex": 3427,
+          "endIndex": 3629,
+          "text": "また「さる」には「厄・病気が**去る**」、猿の音読み（エン）から「家内円満（**円**）」「良縁（**縁**）」という3重の縁起担ぎが込められています"
         },
         "groundingChunkIndices": [
           9,
+          10,
+          11,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3632,
+          "endIndex": 3821,
+          "text": "なお、お土産として全国的に定着する前は、真っ赤な姿で顔がないため、外から来た人から「不気味な人形？」と驚かれることもありました"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3827,
+          "endIndex": 3982,
+          "text": "**歴史の裏話：** 全身が赤い布で作られているのは、江戸時代に流行した天然痘（疱瘡）から子どもを守るためです"
+        },
+        "groundingChunkIndices": [
+          5,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3985,
+          "endIndex": 4183,
+          "text": "古くから赤色は病魔を退散させる強い魔除けの力があると信じられており、病気に負けず元気に育ってほしいという切実な親心が込められています"
+        },
+        "groundingChunkIndices": [
+          5,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4216,
+          "endIndex": 4330,
+          "text": "飛騨高山さるぼぼ製造元各社（飛騨高山さるぼぼ屋さん、あずさ屋、西田工芸）資料"
+        },
+        "groundingChunkIndices": [
+          8,
+          6,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4335,
+          "endIndex": 4420,
+          "text": "デジタルアーカイブ飛騨おぅらい「飛騨の生活文化 さるぼぼ」"
+        },
+        "groundingChunkIndices": [
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 4868,
-          "endIndex": 5084,
-          "text": "礫岩の地層自体は約1億6,000万年前～2億年前（ジュラ紀〜三畳紀）に海底で堆積したものですが、その中に流れ込んできた小石が北方大陸の20億年前の岩石でした"
+          "startIndex": 4543,
+          "endIndex": 4815,
+          "text": "**理由：** 陶器（焼き物）は金属やプラスチックに比べて熱伝導率が低く、比熱（熱を蓄える力）が大きいため、お湯の熱を急激に放出せず、遠赤外線効果を伴いながらじわじわとゆっくり熱を伝えます"
         },
         "groundingChunkIndices": [
-          11,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 5087,
-          "endIndex": 5315,
-          "text": "さらに名古屋大学の研究（CHIME年代測定法）では、この石に含まれるジルコンという鉱物微粒子から、なんと「約35.6億年前」という超古代の年代値まで記録されています"
+          "startIndex": 4818,
+          "endIndex": 4920,
+          "text": "そのため、朝方になってもお湯が冷めにくく、穏やかな温もりが持続します"
         },
         "groundingChunkIndices": [
-          12
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5360,
-          "endIndex": 5424,
-          "text": "この世紀の大発見は1970年（昭和45年）3月のこと"
+          "startIndex": 4926,
+          "endIndex": 5242,
+          "text": "**具体的な数字や比較：** 岐阜県東濃地方（多治見市など）は美濃焼の産地として有名ですが、実は大正から昭和初期にかけて陶器製湯たんぽの一大産地でもあり、かつて多治見周辺には湯たんぽを作る窯元が最大で約70軒もありました"
         },
         "groundingChunkIndices": [
-          9,
-          13
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5427,
-          "endIndex": 5697,
-          "text": "当時大学院生だった地質学の研究者（のちの名古屋大学特任教授・足立守氏）が調査の帰り道、「まだ見ていない川原があるから寄ってみようか」と偶然立ち寄った場所で採取した石から判明しました"
+          "startIndex": 5245,
+          "endIndex": 5410,
+          "text": "量産プラスチック製品の台頭で激減したものの、創業400年を超える老舗窯元などが現在も手作業の製法を受け継いでいます"
         },
         "groundingChunkIndices": [
-          13
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5700,
-          "endIndex": 5820,
-          "text": "現在、現地近くには町立「日本最古の石博物館」があり、実物を観察することができます"
+          "startIndex": 5598,
+          "endIndex": 5775,
+          "text": "昭和レトロな道具と思われがちですが、エアコンのような空気の乾燥を嫌う現代の愛好家からエコな防寒具として見直されています"
         },
         "groundingChunkIndices": [
-          15,
-          10,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5781,
+          "endIndex": 5933,
+          "text": "**歴史の裏話：** 湯たんぽ自体は室町時代に中国から伝来したとされ、江戸時代には陶器製が庶民に普及しました"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5936,
+          "endIndex": 6170,
+          "text": "美濃地方に良質な粘土や耐火性の高い土が豊富にあったことから、熱湯を注いでも割れにくい頑丈な陶器製湯たんぽが量産され、冬の日本の家庭の足元を長く支え続けました"
+        },
+        "groundingChunkIndices": [
+          14,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6203,
+          "endIndex": 6346,
+          "text": "とこなめ えんける道具店「陶器の湯たんぽの歴史と職人 加藤さんの想い（多治見市・高田焼窯元取材）」"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6351,
+          "endIndex": 6411,
+          "text": "美濃焼伝統工芸品協同組合「美濃焼の歴史」"
+        },
+        "groundingChunkIndices": [
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 5853,
-          "endIndex": 5922,
-          "text": "岐阜県庁自然環境課「日本最古の石にふれるみち」"
+          "startIndex": 6632,
+          "endIndex": 6776,
+          "text": "「カーン！」と音を鳴らし、お囃子とともに拍子をとる「踊り手自身が演奏に参加する盆踊り」だからです"
         },
         "groundingChunkIndices": [
-          9
+          17,
+          18,
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 5853,
-          "endIndex": 5994,
-          "text": "岐阜県庁自然環境課「日本最古の石にふれるみち」、岐阜県博物館収蔵資料データベース「上麻生礫岩」"
+          "startIndex": 6779,
+          "endIndex": 6989,
+          "text": "一般的な下駄に使われる桐（キリ）や杉（スギ）では柔らかすぎて良い音が鳴らず、すり減ってしまうため、硬くて澄んだ音が響く「ヒノキ」が使われます"
         },
         "groundingChunkIndices": [
-          14
+          17,
+          18,
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 5853,
-          "endIndex": 6060,
-          "text": "岐阜県庁自然環境課「日本最古の石にふれるみち」、岐阜県博物館収蔵資料データベース「上麻生礫岩」、名古屋大学年代測定研究部「日本最古の岩石」"
+          "startIndex": 6995,
+          "endIndex": 7118,
+          "text": "**具体的な数字や比較：** 通常の下駄よりも歯が高く、約50mm（5cm）の高さに作られています"
         },
         "groundingChunkIndices": [
-          12
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 6222,
-          "endIndex": 6327,
-          "text": "高山祭の屋台（国の重要有形民俗文化財）で見られる精巧な「からくり人形」"
+          "startIndex": 7121,
+          "endIndex": 7229,
+          "text": "これは浴衣姿を美しく見せるだけでなく、地面を蹴りやすくするための工夫です"
         },
         "groundingChunkIndices": [
-          17
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 6330,
-          "endIndex": 6465,
-          "text": "山奥の飛騨高山の伝統技術なのに、海にすむ巨大生物のある器官が使われているのはなぜでしょうか"
+          "startIndex": 7232,
+          "endIndex": 7406,
+          "text": "お盆の4日間にわたる「徹夜おどり」など激しいステップを踏み続けるため、熱心な踊り手は一夏で2〜3足もの下駄を履き潰します"
         },
         "groundingChunkIndices": [
+          21,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7412,
+          "endIndex": 7657,
+          "text": "**意外な点：** 激しい衝撃に耐えるため、台と歯を別々に接着するのではなく、硬いヒノキの一塊の角材から歯を削り出す「一体型（一本歯・二本歯の削り出し）」で作られています"
+        },
+        "groundingChunkIndices": [
+          22,
+          17,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7660,
+          "endIndex": 7768,
+          "text": "下駄は単なる履物ではなく、地面を打つ「打楽器」として職人が設計しています"
+        },
+        "groundingChunkIndices": [
+          22,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 6486,
-          "endIndex": 6693,
-          "text": "江戸時代から伝わる日本のからくり人形のゼンマイやバネ、糸のガイド部分には、「クジラのヒゲ（セミクジラなどのヒゲ板）」が使われているからです"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6735,
-          "endIndex": 6973,
-          "text": "江戸時代に出版された日本唯一の機械工学指南書『機巧図彙（からくりずい）』（1796年）でも、からくりを動かす動力や復元バネの素材としてクジラのヒゲが指定されています"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6976,
-          "endIndex": 7186,
-          "text": "金属のスプリングに比べてしなやかで折れにくく、錆びず、湿度や寒暖差の激しい気候でも滑らかな弾力を保つという、当時の先端バイオマテリアルでした"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7231,
-          "endIndex": 7517,
-          "text": "秋の高山祭（八幡祭）で唯一からくりを披露する「布袋台（ほていだい）」では、2体の唐子（からこ）が空中の綾棒をブランコのように飛び移り、布袋の肩に乗る「離れからくり」という超絶技巧が演じられます"
+          "startIndex": 7774,
+          "endIndex": 8095,
+          "text": "**歴史の裏話：** 400年以上の歴史を持つ郡上おどりは、江戸時代初期に郡上八幡城主の遠藤慶隆が、領民の融和を図るために村々の踊りを城下に集め、「盆の4日間は士農工商の身分を問わず無礼講で踊ってよい」と奨励したのが始まりです"
         },
         "groundingChunkIndices": [
           19,
-          20
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 7520,
-          "endIndex": 7769,
-          "text": "現在では商業捕鯨の制限によってセミクジラのヒゲは極めて入手困難な幻の素材となっており、修理の際は古い蔵から見つかった貴重な古材を削り出して大切に修復・継承されています"
+          "startIndex": 8098,
+          "endIndex": 8233,
+          "text": "誰もが同じ下駄の音を夜通し打ち鳴らし合うことで、身分の壁を越えて一つになることができました"
         },
         "groundingChunkIndices": [
-          18
+          19,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 7772,
-          "endIndex": 7943,
-          "text": "高山市内の「飛騨高山獅子会館からくりミュージアム」などでも、その緻密な内部機構の歴史を間近に見学することができます"
+          "startIndex": 8266,
+          "endIndex": 8320,
+          "text": "郡上市観光連盟「郡上おどり公式案内」"
         },
         "groundingChunkIndices": [
-          21
+          19,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 7976,
-          "endIndex": 8045,
-          "text": "高山市教育委員会「高山祭の屋台行事」文化財解説"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7976,
-          "endIndex": 8090,
-          "text": "高山市教育委員会「高山祭の屋台行事」文化財解説、高山屋台保存会「布袋台」解説"
+          "startIndex": 8325,
+          "endIndex": 8377,
+          "text": "郡上木履「踊り下駄 三つのこだわり」"
         },
         "groundingChunkIndices": [
           20
@@ -639,19 +663,19 @@
       },
       {
         "segment": {
-          "startIndex": 7976,
-          "endIndex": 8165,
-          "text": "高山市教育委員会「高山祭の屋台行事」文化財解説、高山屋台保存会「布袋台」解説、学研『大人の科学』機巧図彙・からくり人形機構解説"
+          "startIndex": 8382,
+          "endIndex": 8466,
+          "text": "東海テレビニュースONE「郡上おどりの足元を支える職人の技」"
         },
         "groundingChunkIndices": [
-          18
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 8240,
-          "endIndex": 8500,
-          "text": "奥飛騨温泉郷にある「新穂高ロープウェイ」は、日本で唯一の2階建てゴンドラが有名ですが、1970年の開業前、当初の壮大な構想では北アルプスを越えてどこまで直結する計画だったでしょうか"
+          "startIndex": 8601,
+          "endIndex": 8691,
+          "text": "雪深くて生花がない飛騨の冬を鮮やかに彩る「花餅（はなもち）」"
         },
         "groundingChunkIndices": [
           0,
@@ -660,51 +684,65 @@
       },
       {
         "segment": {
-          "startIndex": 8620,
-          "endIndex": 8658,
-          "text": "長野県の上高地（河童橋）**"
+          "startIndex": 8694,
+          "endIndex": 8872,
+          "text": "お正月から雛祭りまで約2か月間飾られたあと、枝についたカチカチの紅白の餅は、昔の家庭では最終的にどうしていたでしょうか？"
         },
         "groundingChunkIndices": [
+          0,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 8685,
-          "endIndex": 8850,
-          "text": "岐阜県と長野県を結ぶ大観光ルートとして、穂高連峰の険しい山並みを越えて上高地へ繋ぐ夢の計画が立てられていました"
+          "startIndex": 9134,
+          "endIndex": 9211,
+          "text": "**2番：油でカラッと揚げて、「雛あられ」にして食べた**"
         },
         "groundingChunkIndices": [
+          0,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 8853,
-          "endIndex": 9018,
-          "text": "しかし、北アルプスの貴重な自然環境を守るためや技術的な課題から見直され、現在の西穂高口までのルートとなりました"
+          "startIndex": 9236,
+          "endIndex": 9362,
+          "text": "冬の間、床の間で目を楽しませてくれた花餅は、役目を終えても決して無駄にしませんでした"
         },
         "groundingChunkIndices": [
+          0,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 9021,
-          "endIndex": 9129,
-          "text": "今でも山頂展望台からは、その雄大な北アルプスの山々をぐるりと一望できます"
+          "startIndex": 9365,
+          "endIndex": 9560,
+          "text": "雛祭りの頃になると枝から餅を丁寧にはずし、油で揚げてサクサクの「雛あられ」にして家族みんなでおやつとして美味しくいただいたそうです"
         },
         "groundingChunkIndices": [
-          2,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9563,
+          "endIndex": 9704,
+          "text": "「最後まで命ある食べ物を大切にいただく」という、飛騨の昔の暮らしの優しさと知恵が伝わってきます"
+        },
+        "groundingChunkIndices": [
+          0,
           1
         ]
       }
     ],
     "webSearchQueries": [
-      "高山祭 からくり人形 クジラのヒゲ ゼンマイ",
-      "七宗町 日本最古の石 上麻生礫岩 20億年",
-      "新穂高ロープウェイ 2階建てゴンドラ 日本唯一",
-      "中津川 栗きんとん 茶巾絞り 発祥 由来"
+      "郡上八幡 踊り下駄 ヒノキ 音 郡上おどり",
+      "陶器 湯たんぽ 美濃焼 歴史 由来",
+      "飛騨 花餅 由来 岐阜県 歴史",
+      "さるぼぼ 由来 顔がない 飛騨 郷土玩具"
     ]
   }
 }
