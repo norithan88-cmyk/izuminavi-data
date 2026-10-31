@@ -1,309 +1,195 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2317,
-  "estimated_minutes": 7,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 2090,
+  "estimated_minutes": 6.3,
+  "saturday_story": "story-03",
   "listener_notes": [],
   "quiz": {
-    "question": "名古屋城の天守閣に輝く金シャチ。北側のオスと南側のメスがいますが、実はメスのほうが数字が大きい特徴があります。それはどれでしょうか。1番、体の高さ。2番、全体の重さ。3番、金のウロコの枚数。",
-    "answer": "正解は3番、金のウロコの枚数でした！オスは112枚ですがメスは126枚で14枚も多いんだに！よりきらびやかに見せる工夫なんだって。大人のオシャレじゃんね！",
+    "question": "昔懐かしい夏の風物詩、渦巻き型の蚊取り線香。当初は棒状でしたが、ある生き物を見て渦巻きの形を思いついたそうです。その生き物とは次のうちどれでしょうか。1番、カタツムリ。2番、とぐろを巻いたヘビ。3番、丸まったツチノコ。",
+    "answer": "正解は2番、とぐろを巻いたヘビでした！棒状だと約40分で消えちゃったのが、渦巻きにしたことで約7時間半も持つようになったんだに！奥さんのナイスひらめきだよね。",
     "source_ids": [
-      8,
-      9
+      15
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGASE-0kJt8L9V5IqeDFoVpRFR_UbCGgJg94anJUMPZHKvWcfVVrJnEsfXDFPK0avA5xU9EaCaHcBfkLetqgGZvRQvEYDMUExHWrRcwsJl2zAd1ESoUIWnS7H9wPHlj6_t36yql602qdu3x",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoJIGgQCJiRifUsJWyoTbuEUQFWoToQ6W-S0u8xKlcKE757d5NyWrjVUUqVljJEbJVN_BxuaD2sqdbpWNr3Ry2D2QprOB924e6qDlteLFWAifWX0T2RidolSrnGVCbV98="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7txL6ouoxEFboHPll6g_kRAT23yVvz75dYDItOMIPPWpFBCoHDUZiMQspqoHTnFwvC4igYVzmeYN5hQ3Vsq6PWgP4CF8Fe_44esDQjcUph8siuKNjCwO9eIMcF1_-yERkSXLc9pmB3w=="
     ]
   },
   "izumi": {
-    "text": "安城市和泉町が生んだスーパースター、石川丈山のエピソードを紹介するコーナーです！本名は石川重之さんで、丈山は号なんだよね。石川家は代々徳川家に仕えた譜代の武士の家柄で、天正11年、1583年に三河国碧海郡泉郷、今の和泉町で生まれました。生誕地は今、丈山苑として整備されとるじゃんね。丈山は幼いころから気丈な性格で武芸の修行に励んだと伝えられとるんだけど、なんと16歳でお父さんを亡くしてしまうんです。ものすごい試練じゃん！ところがここからが驚きの展開で、16歳で徳川家康の近侍として仕えることになります。家康からの信頼は厚かったと伝えられとるんだけど、天下人のすぐそばでお世話係をするなんて、今で言えば高校生が超巨大企業のトップの専属秘書を任されるようなものだら！プレッシャーで胃が痛くなりそうだけど、しっかり信頼を勝ち取っとるのがすごすぎます。そして18歳になったとき、あの関ヶ原の戦いに従軍することになるんだよね。18歳で天下分け目の大合戦に出陣だなんて度胸がありすぎるというか、若きエリート武士のスタートダッシュが華々しすぎるじゃんね！和泉町からこんなすごい若者が飛び出して天下の現場に立っとったなんて、地元の歴史としてめちゃくちゃ自慢したくなるよね！",
+    "text": "みおんの和泉ディープ！今日は和泉町が誇る和泉そうめんの、あのありえん長さについて語っちゃうよ。間杉手延製麺所さんの和泉手延長そうめんって、なんと3メートル以上のまま商品にしとる日本一長い手延べそうめんなんだけどさ…3メートル60センチって、冷静に考えて家の台所でどうする気なん！？ってツッコミ入れたくならん？一般的なおうちの天井より全然高いんだよ！茹でようとして持ち上げたら、天井どころか2階の床板突き抜けちゃうじゃんね。みおん、手がないから茹でられんけど、想像しただけでお湯が飛び散って大惨事だわ！でもね、これふざけて伸ばしとるわけじゃないんだに。天明の大飢饉のときに米が育ちにくい和泉町で広まった約250年の歴史があって、職人さんが2本の竹の棒を使って手作業でグーッと伸ばすからこそ、あの強烈なコシと喉ごしが生まれるんだって。しかも全国の産地が冬に仕込む中、和泉は夏仕込み！強い日差しで乾かしたあと、夕方の三河湾からの湿った南東の風で半生の状態に戻す『半生もどし』をしとるんだわ。この手間でツルツルになるんだけど、台所で3メートルと格闘する姿を想像するとジワジワくるよね。ちなみに長うどんや長きしめんまであるらしいよ！今なら調理動画でバズりまくりだら！お鍋に入らんって大騒ぎしながら家族で食べるのも、和泉の麺ならではの楽しい団らんだよね。",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/jyozan/"
+      "https://anjo-izumi.life/somen/"
     ],
     "angle": {
-      "id": "jozan-ieyasu",
-      "hook": "16歳で家康の近くに仕え、18歳で関ヶ原。和泉町出身の若者のスタート"
+      "id": "somen-length",
+      "hook": "3メートル60センチという長さのインパクト。家の台所でどうするの問題"
     }
   },
   "local": {
-    "text": "今日10月30日と明日31日の2日間にわたって、安城市内で「”白鳥とコウモリ”安城特別展」が開催されとるよ！金曜日と土曜日のお出かけにぴったりの催しじゃんね。秋の週末、どこに行こうか迷っとる人は、ぜひ予定表に書き込んで足を運んでみてりん！",
+    "text": "今日十月三十一日は、安城市で”白鳥とコウモリ”安城特別展や、令和八年度男女共同参画月間イベントが開催されとるよ。さらに来週十一月七日の土曜日には、安祥ふれあいレクリエーション、十一月十日にはあんじょう健康大学の第3講も予定されとるんだって！秋のお出かけにぴったりの季節だもんで、気になる人は安城市の情報をチェックしてみてりん！",
     "source_ids": [
+      21,
+      22,
+      23,
       24
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/hakuchou.html"
+      "https://www.city.anjo.aichi.jp/event/hakuchou.html",
+      "https://www.city.anjo.aichi.jp/event/sankaku/2026gekkan.html",
+      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
+      "https://www.city.anjo.aichi.jp/event/202611kenkodaigaku3.html"
     ]
   },
   "segments": [
     {
-      "topic": "蒲郡の竹島が400メートルしか離れていないのに天然記念物な理由",
-      "text": "週末のドライブで三河湾方面へ行く人も多いじゃんね。蒲郡にある竹島って、行ったことある？長さ387メートルの竹島橋を歩いて渡れる、あの身近な小島です。歩いて5分くらいでひょいっと行けちゃう観光地だけど、実は島全体が国の天然記念物に指定されとるんだよね！えっ、本土のすぐそこにある島が国レベルの宝物なの？ってびっくりせん？対岸からわずか約400メートルしか離れとらん島なんだに。周囲は約600メートル、面積も約1.9ヘクタールで標高も約22メートルの手のひらサイズじゃんね。それなのに国の天然記念物になっとる理由は、橋を渡った瞬間に植物の種類が対岸と全く違っとるからなんです！対岸の本土側はクロマツ林を中心とした普通の沿岸の景色なのに、竹島に足を踏み入れると、タブノキなどの常緑広葉樹が生い茂る暖帯林、照葉樹林が広がっとるの。なんとこの小さな島の中に、65科238種もの高等植物が自生しとって、林の地面に生えるキノクニスゲはここが自生の北限地なんだって！わずか約400メートルの橋を渡っただけで、南の島の原生林にワープしたみたいな別世界になるわけ。平安時代末期の1181年に八百富神社ができてから、島全体が神域とされて木を切ることが厳しく禁止されてきたからなんだよね。昔の人たちの信仰心が貴重な自然をタイムカプセルみたいに守ってくれたんだね。今度の週末、橋を渡るときは足元の植物に注目してみてりん！",
+      "topic": "風がないのに呼吸するように揺れる岡崎の和ろうそくの秘密",
+      "text": "そうめんを茹でる火を見て思い出したんだけど、お隣の岡崎市が誇る伝統の明かり、和ろうそくの話もしちゃおうかな。仏壇やお寺で和ろうそくの炎を見とると、部屋に風がまったくないのに、まるで生き物が息をしとるみたいにボワッボワッと大きく揺れるじゃんね。あれ、初めて見るとちょっと不思議だら？実はあの揺らぎ、ろうそくの芯にものすごい秘密があるんだって！一般的な洋ろうそくって石油系のパラフィンでできとるけど、和ろうそくはハゼの実の木蝋を使うんだわ。で、決定的な違いが芯の中身！和紙に畳の原料でもあるい草の繊維を巻いて、竹串に刺した状態で蝋を塗り重ねるんだけど、仕上げにその竹串をスポンと抜くんだって。つまり、ろうそくの真ん中がストローみたいに筒抜けの空洞になっとるの！火をつけると、その空洞から下の空気がグングン吸い上げられる煙突効果が起きて、風がなくても自分で息を吸い込むように炎が揺らめくんだに。1匁でおよそ30分、5匁なら約1時間半も燃え続けるんだって。全国で作る店が約20軒まで減るなか、岡崎には磯部ろうそく店さんや松井本和蝋燭工房さんといった老舗が今も残っとるの。徳川家康公が岡崎のお寺を手厚く守ったおかげで、城下町はお寺だらけ！さらに東海道を行く旅人の提灯の明かりとしても大活躍して、三州岡崎和蝋燭として発展したんだって。い草のおかげで黒い煙も出にくいし、炎の揺れには心をリラックスさせる1/fゆらぎもあるらしいよ。週末の夜、和ろうそくの優しい呼吸を眺めてみりん！",
       "source_ids": [
-        2,
         3,
-        5
+        4,
+        6,
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnvKRav3xQHFqfHTwFzycy0rr6mnFNlkckp3aLZO4cR7urC5ogMsOlM3m5KP3sWVSb0nEA9fllQqDTUXz5nh5ka8EpDlGNcbHutfO_6_lP0w==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5iFNwLkTLqaXFRDmrVOolKrIszIIct2VfEwHI2Msl6gVgzks84ijx3q_2H_6jiejhyAKdkRvDOrTirXjOP71I_HIofib20VIxDUFsuGoYjjFSqsc0qg==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwn09seNGrhnwiIQgFby-tpMUn4pYA0lQgq2mo1-VqBzeC8ymRzUhvlB2A3QGJ7h985q7IP5TQtuOR001gWHivMjaBl_UqV54-GO15DVoTOPtlFni0qRwwPxQr5cNvnR-cSZMSQZhk6plkdZl3CDlogw=="
-      ]
-    },
-    {
-      "topic": "鳥居があるのに実はお寺？豊川稲荷で拍手をしてはいけない秘密",
-      "text": "ドライブといえば、東へ向かって豊川方面においなりさんを食べに行くのも楽しいよね。日本三大稲荷の豊川稲荷といえば商売繁盛で有名だけど、表参道に立派な鳥居がどーんと構えられとるじゃん？でもね、鳥居があるから神社だと思ってパンパン手を打ってお参りしとる人、いませんか？実は豊川稲荷って神社じゃなくて曹洞宗のお寺なんだよね！ええっ、鳥居をくぐったのに寺院なの！？って叫びたくなっちゃうじゃんね。正式なお名前は妙厳寺という、室町時代の1441年にできた歴史あるお寺なんです。本尊は千手観音で、お稲荷さんとして親しまれとるのは、お寺を守る神様として祀られた豊川吒枳尼眞天という仏教の善神なんだって。白い狐にまたがって稲穂をかついどる姿から豊川稲荷と呼ばれるようになったらしいよ。鳥居があるのは昔の神仏習合の文化がそのまま残っとるからで、よく見ると鳥居にお寺のマークの卍が刻まれとるんだわ。境内は約3万坪以上もあって東京ドーム約2.2倍の広さだし、霊狐塚には1000体以上の狐の石像が並んで圧巻だに！だからお参りするときは、神社みたいに手を打つんじゃなくて、音を立てずに静かに合掌するのが正しいお作法なんだって。みおん、手がないから合掌のポーズをエアでやっちゃうんだけどね！週末にお参りに行くときは、隣の人が手を叩こうとしたら、こっそり教えてあげりん！",
-      "source_ids": [
-        11,
-        14,
-        15
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwXIwuXvplWi-Cx4gXwLDVbh92-Aghs8lbWjkumcX1J0EGifgMd6K05L4sAGGRvJy0isV-jKsAFObG9xLMAmJuM309aIh_416psoh45N1nfe-wSOBm8s-bCJjAcGs4sifdFBM=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdfuB2v0XkkWzYrbHAnwcNg9AWeGz4VokG0zwaV76fYnImNyX3TT_no7EdrmrfJg2W2_0zNDwORdFsJNLwqw-gINC_3CA66S5BBOs0eyEcmpxf73A89XQ6Qv84qL9xHwf7",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmKskMHwWw1ubeN2-xACLn94RWUMU3rPI1rkiGetI08VT2L20Nd1XJVxQCRXfCoHhvPzYPGfDKV4eA4_-wyT9YWjGMPMX5y0RU_LwS5kkeOhwi-O3268S5af1ZU6b7byZf0OjP2Q=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3U9BMu3hFfF7MQbYHPOnh817MTXDnpF_7Xmpy3f8U4HPEbyc1DEoxp8w9i7lDA3wWF3mhfFPXdxLYadlTU13K-Gc9TcHI98NJx_G9HN5OHxiMT5VNJIDEH3Z65A4osu-6965-kIO9qcu-Ohoq",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvFBZxUNe0hcKOFerBhNwh79ltq6ArpU0JebDx6LN3T99X6Of23PQVQZtg-_hricX-2oTxAo-ejBvMgENEuBHvym_uQ3s6_bDTg1dZ4THIqv7-Q49m4p-ikE0KDN7txQ_-pBoZ0Bl-2bU=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW71jVVaDt4UHm6qzx-EHeNfukSVOW8J9lU0u5u1L0xAxPHE0tNDUmuJTHvn444ynMrhnHBycwuRSTtniGEiYbO8NCfosyOv6wNZjR9_ivYL2TekjuaD0xgenKw1vP",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSfFKVtQdt1RvCtozAuXb0jK6kwNOiPH5KJzUzSQYitWcaEpMRn3RbPHjMTleyod2wwhXRLDR4BNrGPAMMgpMPoCgjRwLcw5uxvQUE3L1sukomCA=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町周辺にお住まいのリスナーに向けた、秋の「週末のお出かけ・楽しみ」をテーマにした調査メモです。安城市から車や電車で気軽に行ける愛知県内の定番お出かけスポットから、家族に話したくなる「へえ、そうだったのか」という疑問を4件まとめました。\n\n---\n\n### 調査メモ1：【蒲郡市・竹島】本土からわずか400mなのに、なぜ島全体が「国の天然記念物」なのか？\n\n* **疑問の背景**  \n  安城からもドライブで人気の三河湾のシンボル・竹島。長さ387mの竹島橋を歩いて簡単に渡れる小島ですが、島全体（八百富神社社叢）が昭和5年（1930年）に国の天然記念物に指定されています。なぜこれほど陸地に近い島が、国レベルの指定を受けているのでしょうか。\n* **理由**  \n  対岸の本土側がクロマツ林を中心とした一般的な沿岸植物であるのに対し、竹島はタブノキなどの常緑広葉樹が密生する暖帯林（照葉樹林）が広がり、植生体系（植物相・フロラ）が対岸と全く異なっているためです。「陸地に極めて近い島でありながら、本土と林相が著しく異なる珍しい環境」であることが学術的に極めて高い価値を持つと認められました。\n* **具体的な数字と植物の比較**  \n  対岸からの距離はわずか**約400m**（竹島橋は387m）、島の面積は**約1.9ヘクタール**、周囲約600m、標高約22mという手のひらサイズの島です。この小さな島の中に、なんと**65科238種**もの高等植物の自生が確認されています。林床に自生する「キノクニスゲ」は、竹島が日本における自生の北限地とされています。\n* **意外な点**  \n  歩いて5分ほどで渡れる距離なのに、橋を渡った瞬間、まるで遠く南の島の原生林にワープしたかのような植生の違いが広がっています。\n* **ちょっとした歴史の裏話**  \n  これほど手つかずの自然が残ったのは、平安時代末期（1181年）に藤原俊成が琵琶湖の竹生島から弁財天を勧請して八百富神社を創建して以来、島全体が神域とされ、長年にわたって一般の立ち入りや樹木の伐採が厳しく禁じられてきたからです。信仰が三河湾の貴重な照葉樹原生林をタイムカプセルのように現代へ守り伝えました。\n* **出典・根拠**  \n  * 八百富神社公式ウェブサイト「竹島の自然環境について」\n  * 蒲郡市博物館「蒲郡の名木50選 31 八百富神社社叢」（文部省告示第198号の解説）\n  * 蒲郡市観光協会公式サイト「がまごおり、ナビ」竹島スポット解説\n\n---\n\n### 調査メモ2：【名古屋城】天守の金シャチ、実は「メス」のほうが勝っている部分とは？\n\n* **疑問の背景**  \n  名古屋城の天守閣に鎮座するシンボル「金の鯱（金鯱）」。屋根の北側と南側に一対置かれており、北側が雄（オス）、南側が雌（メス）と決められています。雄のほうが体が大きいのですが、実は1箇所だけ「雌のほうが勝っている」意外な特徴があります。\n* **理由**  \n  体を覆っている**「金のウロコの枚数」は、雌のほうが多い**設計になっています。遠くから見上げたときに、雌の姿がよりきらびやかで華やかに見えるよう工夫されたためです。\n* **具体的な数字とオスメスの比較（現在の2代目金鯱）**  \n  * **総高**：北鯱（雄）**2.621m** ／ 南鯱（雌）**2.579m**（雄のほうが約4cm高い）\n  * **重量**：北鯱（雄）**1,272kg** ／ 南鯱（雌）**1,215kg**（雄のほうが重い）\n  * **金量（18K）**：北鯱（雄）**44.69kg** ／ 南鯱（雌）**43.39kg**\n  * **うろこの枚数**：北鯱（雄）**112枚** ／ 南鯱（雌）**126枚**（**雌のほうが14枚も多い！**）\n* **意外な点**  \n  大きさや体重、使われている金の総重量はすべて雄が上回っているのに、ウロコの枚数だけは雌のほうが細かくびっしりと貼られています。\n* **ちょっとした歴史の裏話**  \n  江戸時代、尾張藩は財政難に陥るたびに金鯱の鱗を剥がして溶かし、小判を作る「改鋳」を3回も行いました。そのため時代が下るにつれて金の純度が下がっていきました。さらに昭和12年（1937年）には、天守閣の調査用の足場を夜間に登った泥棒によって、雄の金鱗が58枚もペンチで剥ぎ取られて盗まれるという前代未聞の窃盗事件まで起きています。\n* **出典・根拠**  \n  * 名古屋城公式ウェブサイト「観覧ガイド 金鯱」（二代目金鯱の寸法・うろこ枚数・歴史解説）\n\n---\n\n### 調査メモ3：【豊川市・豊川稲荷】立派な鳥居があるのに、なぜ神社ではなく「曹洞宗のお寺」なのか？\n\n* **疑問の背景**  \n  商売繁盛の祈願や名物のいなり寿司で知られ、日本三大稲荷の一つに数えられる豊川稲荷。表参道には大きな鳥居が構えられていますが、実は神社ではなく曹洞宗の「お寺」です。なぜ鳥居があるのでしょうか。\n* **理由**  \n  正式名称は「圓福山 豊川閣 妙厳寺（みょうごんじ）」という室町時代（1441年）創建の寺院です。本尊は千手観音で、お稲荷さんとして親しまれているのは、寺の鎮守（守護神）として祀られている「豊川吒枳尼眞天（とよかわだきにしんてん）」という仏教の善神です。この神様が稲穂を担ぎ、白い狐に跨った姿をしていることから「豊川稲荷」と通称されるようになりました。鳥居があるのは、神仏が調和して信仰されていた江戸時代以前の「神仏習合」の文化をそのまま残しているためです。\n* **具体的な数字とスケール**  \n  創建は室町時代の嘉吉元年（1441年）。境内地は約3万坪以上（東京ドーム約2.2倍）におよび、年間数百万人もの参拝客を集めます。特に有名な「霊狐塚（れいこづか）」には、信徒から祈願成就の御礼として奉納された大小**1,000体以上**の狐の石像がずらりと並んでいます。\n* **意外な点**  \n  鳥居をくぐって進みますが、神社ではないため「2礼2拍手1礼」で手を打つのではなく、**音を立てずに静かに両手を合わせて合掌・一礼する**のが寺院としてのお参り作法です。また、鳥居をよく見ると、寺院の記号である「卍（まんじ）」が刻まれています。\n* **ちょっとした歴史の裏話**  \n  明治4年（1871年）、新政府が神道と仏教を厳格に分ける「神仏分離令（廃仏毀釈）」を出した際、全国の稲荷堂の多くが神社になるか仏像を取り去ることを迫られました。しかし妙厳寺は吒枳尼眞天を「寺院の鎮守堂」として位置付けることで法要を貫き、廃仏毀釈の嵐を乗り越えて今日まで寺院としての姿を守り抜きました。\n* **出典・根拠**  \n  * 豊川市観光協会「ぐるっと豊川」豊川閣妙厳寺（豊川稲荷）公式案内\n  * 宗教法人 豊川閣妙厳寺「当山の歴史・豊川稲荷略縁起」\n  * 愛知県観光協会「Aichi Now」豊川稲荷（豊川閣妙厳寺）\n\n---\n\n### 調査メモ4：【名古屋市科学館】なぜ球体が宙に浮いている？プラネタリウムが持つ「世界一のギネス記録」\n\n* **疑問の背景**  \n  白川公園内にあり、大きな銀色の球体が建物に挟まれた外観でおなじみの名古屋市科学館。週末の家族連れに大人気のプラネタリウムですが、実は世界トップの記録を持っています。\n* **理由**  \n  ドームの内径（直径）が**35メートル**あり、2011年12月に**「世界最大のプラネタリウム（Largest planetarium）」としてギネス世界記録に認定**されました。（それまで世界一だった愛媛県総合科学博物館の30mドームを抜いて記録を更新）。外観の巨大な球体は、この35mの巨大ドームをそのまま建築のデザインとして見せているためです。\n* **具体的な数字とこだわり**  \n  * **ドーム内径**：35m（ギネス認定）\n  * **座席数**：350席\n  * **シートの仕様**：大型リクライニングシートで、後ろに倒れるだけでなく左右に約30度首を振る設計になっており、首を痛めずに広大な全天の星を見渡せます。\n* **意外な点**  \n  世界一の最新デジタル・光学技術を誇りながら、投影中の解説は**「学芸員による全編生解説」**にこだわっています。録音テープを流す施設が多い中、1962年の旧館開館以来、最新の天文ニュースや当日の夜空に合わせて学芸員が肉声で語りかけるスタイルを一貫して守り続けています。\n* **ちょっとした歴史の裏話**  \n  世界一の星空をリアルに再現するため、ドーム内は「限りなく本物の夜空に近い漆黒」を追求しています。わずかな光の照り返しすら防ぐため、350席あるシートの布地や床材に至るまで、光の反射率を極限まで抑えた特注仕様の内装が採用されています。\n* **出典・根拠**  \n  * 名古屋市科学館公式ウェブサイト「プラネタリウム概要」および「ギネス世界記録認定について」\n  * 名古屋市観光情報「名古屋コンシェルジュ」FUJIなごや科学館解説\n\n---\n\n### リスナー向け 3択クイズコーナー案\n\n**【問題】**  \n「週末のドライブやお出かけでも定番の名古屋城。天守閣の屋根に輝く『金シャチ』には北側の『雄（オス）』と南側の『雌（メス）』がありますが、実は【メスのほうが数字が大きい（勝っている）】意外な特徴があります。それは次のうちどれでしょう？」\n\n1. **体の高さ（全高）**\n2. **体重（全体の重さ）**\n3. **金でできた「ウロコの枚数」**\n\n---\n\n**【正解】**  \n**3. 金でできた「ウロコの枚数」**\n\n**【解説トークのポイント】**  \n* 高さ（雄2.62m／雌2.58m）も重さ（雄1,272kg／雌1,215kg）も、体の大きさ自体はオスのほうが一回り大きいです。\n* しかし、体を覆っているウロコの枚数を数えると、**オスが112枚なのに対して、メスは126枚！** メスのほうが14枚も多く、より細かくウロコを貼り巡らせてきらびやかに仕上げられています。\n* お出かけで名古屋城を下から見上げる機会があれば、「体が大きいのが北側のオス、ウロコが多くてきらびやかなのが南側のメスだな」とご家族で探してみると盛り上がります。",
+  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、リスナーが家族や近所の方に思わず話したくなる「懐かしい暮らし・心が和む話」の調査メモを作成しました。地元・西三河（岡崎）や愛知県（常滑）の話題を交えつつ、公的機関や公式メーカーの一次資料等に基づいた4件の調査メモと、番組内で使える3択クイズです。\n\n---\n\n# ラジオ制作用調査メモ：「懐かしい暮らし・心が和む生活の知恵」\n\n---\n\n## 1. 【西三河・岡崎】風がないのになぜ？ 和ろうそくの炎が呼吸するようにゆらゆら揺れる秘密\n\n### リスナーへの疑問\n「お仏壇やお寺で見かける『和ろうそく』。風がまったく吹いていない部屋の中でも、まるで呼吸をしているかのように炎が大きくゆらゆらと揺らめくのをご存知ですか？」\n\n### 理由\n洋ろうそくとの決定的な違いは「芯」の構造にあります。和ろうそくの芯は、和紙にい草（畳表の原料）の内側にある白い繊維「灯芯草（とうしんそう）」を巻きつけ、竹串に刺した状態で外側に蝋を塗り重ねて作られます。仕上げに竹串を抜くため、ろうそくの中心が**中空（ストローのような空洞）**になります。火を灯すと、この空洞から下部の空気が自然と吸い上げられる「煙突効果」が起きるため、風がなくても自ら空気を取り込んで炎が力強く呼吸するように揺らめくのです。\n\n### 具体的な数字や比較\n* **原料と燃焼：** 石油系パラフィンで作られる洋ろうそくと異なり、ハゼの実から採れる植物性の「木蝋（もくろう）」を100％使用します。\n* **燃焼時間：** 和ろうそくは重さの「匁（もんめ＝約3.75g）」で表され、1匁でおよそ30分、5匁で約1時間半燃え続けます。\n* **癒やし効果：** 炎の揺らぎは心地よい「1/f（エフぶんのいち）ゆらぎ」を含んでおり、大学等の共同研究でもリラックス効果が検証されています。現在、全国で製造する店は20軒ほどに減りましたが、西三河の岡崎市には今も複数の老舗（磯部ろうそく店、松井本和蝋燭工房など）が伝統を受け継いでいます。\n\n### 意外な点\n芯の材料には、私たちが毎日親しんでいる畳と同じ「い草」の髄（ピス）が使われています。植物の吸水性と中空構造の組み合わせによって完全燃焼しやすく、洋ろうそくに比べて油煙（黒い煤）が出にくいため、部屋やお仏壇を汚しにくいという優れた生活の知恵でもあります。\n\n### 歴史の裏話\n西三河の岡崎で和ろうそく作りが発展した背景には、徳川家康公の存在があります。家康公が生誕地である岡崎で浄土宗を厚く保護したため、城下町には京都に匹敵するほど数多くの寺院が建てられました。その膨大な仏事の需要と、東海道を行き交う旅人や商人が提灯に入れて使う明かりの需要が重なり、「三州岡崎和蝋燭」として名高い伝統産業へ発展しました。\n\n* **出典・根拠：**\n  * 愛知県産業振興課「三州岡崎和蝋燭」公式ページ\n  * 磯部ろうそく店 公式記録・取材資料\n  * 松井本和蝋燭工房 公式資料\n\n---\n\n## 2. 【愛知・常滑】お店で見かける「丸顔・二頭身の招き猫」は昭和生まれ？ 定番姿が誕生した意外なドラマ\n\n### リスナーへの疑問\n「お店の玄関やリビングで手招きしている、あの目がまん丸でポチャッとした『二頭身の招き猫』。実は、江戸時代からではなく、愛知県で生まれた比較的新しいデザインだと知っていましたか？」\n\n### 理由\n招き猫自体は江戸時代末期（浅草など）に誕生したとされますが、戦前までは本物の猫に近い「細身でリアルな体型」のものが主流でした。現在私たちが真っ先に思い浮かべる「丸い頭、大きな瞳、ふっくらした二頭身」の姿は、昭和20年代に愛知県常滑市の窯元「梅月冨本人形園」の三代目が、友人の原型師とともに「誰からも愛される親しみやすい形を」と大胆に考案したものです。この愛らしい姿が大ヒットし、「常滑系（とこなめけい）」として全国のスタンダードになりました。\n\n### 具体的な数字や比較\n* **日本一の産地：** 愛知県常滑市は招き猫の生産量が日本一です。\n* **シェア：** 全国の店先で見かける定番の「常滑系招き猫」は、全国シェアの約80％を占める窯元が存在するほど圧倒的です。\n* **手の意味：** 挙げている手にも明確な意味があり、「右手はお金（金運）」「左手は人（客・良縁）」を招くとされています。\n\n### 意外な点\n何百年も変わらない伝統の形に見えますが、実は戦後復興期の昭和の職人たちが「もっと人々の心を和ませたい」と工夫して生み出した昭和レトロな近代デザインでした。\n\n### 歴史の裏話\n常滑は千年の歴史を誇る「日本六古窯」の一つで、もともとは大甕や土管、急須の産地として知られていました。時代の移り変わりとともに陶器の需要が変化するなか、職人たちの高い造形技術を生かして縁起物の置物作りに挑戦したことが、現在の「招き猫の街・常滑」を築くきっかけとなりました。今では「Lucky Cat」として世界中に輸出されています。\n\n* **出典・根拠：**\n  * 一般社団法人とこなめ観光協会「猫のまち常滑 招き猫特集」\n  * 愛知県公式観光サイト Aichi Now「招き猫のまち常滑」\n\n---\n\n## 3. 【暮らしの道具】台所の必需品「亀の子束子」は大失敗した「玄関マット」から生まれた？\n\n### リスナーへの疑問\n「台所のシンクや根菜洗いに欠かせない『亀の子束子（たわし）』。元々は食器を洗うためではなく、玄関の『靴拭きマット』の失敗作から生まれたという話をご存知ですか？」\n\n### 理由\n明治時代の中頃、創業者・西尾正左衛門は、母親を楽にさせたい一心で、ヤシ科の植物「棕櫚（シュロ）」を針金で巻いた新しい「靴拭き泥落としマット」を発明しました。ところが、体重の重い人が乗ると毛先がすぐにペタンと潰れてしまい、大量の返品の山を抱えて大失敗してしまいます。途方に暮れていたある日、妻の「やす」が、売れ残って転がっていたマット用の棒を小さく折り曲げ、障子の桟（さん）に溜まったホコリを器用に払い落としているのを目撃しました。これを見た正左衛門が「適度な弾力を持たせて曲げれば、洗うための画期的な道具になる！」とひらめいたことで誕生しました。\n\n### 具体的な数字や比較\n* **誕生と特許：** 1907年（明治40年）に考案・創業。1915年（大正4年）に特許を取得しました。特許取得日である「7月2日」は、現在「たわしの日」に制定されています。\n* **道具の比較：** それまで日本の台所では、藁（わら）や麻縄を束ねただけの簡単な道具が使われており、すぐに崩れてゴミが出やすいのが難点でした。針金で高密度に繊維を締め上げた亀の子束子は劇的に長持ちし、日本の家庭の衛生環境を一変させました。\n\n### 意外な点\n日本中の台所を支えた100年以上のロングセラー商品は、妻が「ゴミ同然の売れ残り部材」を使って自宅の障子を掃除していたという、家庭内の何気ない日常風景（内助の功）から生まれました。\n\n### 歴史の裏話\n名前がなぜ「亀」なのかというと、たわしの丸っこい形が陸に上がった親亀や小亀の姿に似ていたことに加え、「亀は万年」という長寿の縁起物であること、そして「水を使う商売道具には、水と親しみのある動物が一番ふさわしい」という願いが込められて名付けられました。\n\n* **出典・根拠：**\n  * 株式会社亀の子束子西尾商店 公式サイト「亀の子束子誕生秘話」「沿革」\n\n---\n\n## 4. 【暮らしの道具】蚊取り線香はなぜ「渦巻き型」？ 誕生のヒントになった“ある生き物”\n\n### リスナーへの疑問\n「昔懐かしい夏の風物詩、ぐるぐる渦を巻いた蚊取り線香。なぜまっすぐな棒ではなく、わざわざ渦巻きの形をしているか知っていますか？」\n\n### 理由\n1890年（明治23年）に世界で初めて作られた蚊取り線香は、仏壇のお線香と同じ「細い棒状」でした。しかし、棒状だと長さ20cm程度で約40分で燃え尽きてしまい、「寝ている途中で火が消えて蚊に刺される」「煙が細いので3本同時に焚かないと効かない」という深刻な欠点がありました。長時間もたせるために棒を長くするとポキポキ折れてしまいます。悩んでいた創業者（大日本除虫菊・金鳥の上山英一郎）に、妻の「ゆき」が「庭（蔵）でとぐろを巻いているヘビのように巻いてみたらどうかしら」と助言したことで、渦巻き型が誕生しました。\n\n### 具体的な数字や比較\n* **燃焼時間と長さ：** 棒状の線香は約20cmで「約40分」しか持ちませんでしたが、渦巻き型はまっすぐ伸ばすと約75cm（発売初期の手巻き時代は約60cm）あり、人間の睡眠時間に合わせて「約7時間〜7時間半」燃え続けます。\n* **燃えるペース：** 蚊取り線香の燃焼速度は「約10cmで1時間」と計算されており、一晩の眠りをちょうど守りきる設計になっています。\n\n### 意外な点\n現在、「金鳥の渦巻」は中心から見ると**左巻き（反時計回り）**に巻かれています。かつて職人が手作業で巻いていた頃は巻きやすい「右巻き」でしたが、昭和30年代に機械製造が普及した際、後発の他社製品に右巻きが多かったため、金鳥が元祖としての独自性を出すためにあえて「左巻き」へと変更しました。\n\n### 歴史の裏話\n蛇の着想から製品化に至るまでには7年（1895年発案、1902年発売）もの歳月がかかりました。細い生麺のような原料を2本並べて同時に巻く「ダブルコイル方式」を発明し、熟練の職人が1組わずか数秒で手巻きして乾燥させることで、ようやく量産にこぎつけました。この技術的価値から、国立科学博物館の「未来技術遺産」にも登録されています。\n\n* **出典・根拠：**\n  * 大日本除虫菊株式会社（KINCHO）公式害虫コラム「1世紀以上経っても、渦巻きです。」\n  * 国立科学博物館「重要科学技術史資料（未来技術遺産）」登録資料\n\n---\n\n## 【番組用3択クイズ】（第4件：蚊取り線香より）\n\n**【問題】**\n夏の風物詩としておなじみの「渦巻き型の蚊取り線香」。当初は真っ直ぐなお線香タイプでしたが、燃焼時間を長くするために渦巻き型へと進化しました。このユニークな渦巻きの形は、開発者の奥さんがある生き物を見てひらめいたアイデアだと言われています。その生き物とは次のうちどれでしょう？\n\n1. カタツムリ（でんでんむし）\n2. とぐろを巻いたヘビ\n3. まん丸に丸まったダンゴムシ\n\n---\n\n**【正解】**\n**2番：とぐろを巻いたヘビ**\n\n**【解説トーク用メモ】**\n最初のお線香タイプは約40分で燃え尽きてしまい、夜中に蚊に刺されて困るという悩みがありました。そこで創業者夫人のゆきさんが、自宅の蔵や庭で見かけた「とぐろを巻いたヘビ」の姿から「これなら長くて折れず、場所も取らないのでは！」とひらめいたそうです。伸ばすと約75cmもあり、ちょうど睡眠時間の約7時間燃え続けるという、奥さんの素晴らしい内助の功から生まれた形でした。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8+%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0+%E3%82%AE%E3%83%8D%E3%82%B9+35m+%E4%B8%96%E7%95%8C%E4%B8%80+%E5%85%AC%E5%BC%8F&client=app-vertex-grounding&safesearch=active\">名古屋市科学館 プラネタリウム ギネス 35m 世界一 公式</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B1%8A%E5%B7%9D%E7%A8%B2%E8%8D%B7+%E5%A6%99%E5%8E%B3%E5%AF%BA+%E5%AF%BA+%E9%B3%A5%E5%B1%85+%E8%B1%8A%E5%B7%9D%E5%B8%82&client=app-vertex-grounding&safesearch=active\">豊川稲荷 妙厳寺 寺 鳥居 豊川市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%92%B2%E9%83%A1+%E7%AB%B9%E5%B3%B6+%E5%A4%A9%E7%84%B6%E8%A8%98%E5%BF%B5%E7%89%A9+%E6%A4%8D%E7%94%9F+%E7%90%86%E7%94%B1+%E8%92%B2%E9%83%A1%E5%B8%82&client=app-vertex-grounding&safesearch=active\">蒲郡 竹島 天然記念物 植生 理由 蒲郡市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%9F%8E+%E9%87%91%E3%82%B7%E3%83%A3%E3%83%81+%E9%9B%84+%E9%9B%8C+%E9%B1%97+%E6%9E%9A%E6%95%B0+%E5%85%AC%E5%BC%8F&client=app-vertex-grounding&safesearch=active\">名古屋城 金シャチ 雄 雌 鱗 枚数 公式</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%BA%80%E3%81%AE%E5%AD%90%E6%9D%9F%E5%AD%90+%E8%AA%95%E7%94%9F+%E3%81%8D%E3%81%A3%E3%81%8B%E3%81%91+%E5%A6%BB+%E9%9A%9C%E5%AD%90+%E5%85%AC%E5%BC%8F&client=app-vertex-grounding&safesearch=active\">亀の子束子 誕生 きっかけ 妻 障子 公式</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%A1%E5%B4%8E+%E5%92%8C%E3%82%8D%E3%81%86%E3%81%9D%E3%81%8F+%E4%BB%95%E7%B5%84%E3%81%BF+%E6%AD%B4%E5%8F%B2+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">岡崎 和ろうそく 仕組み 歴史 愛知県 特徴</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%B8%E6%BB%91+%E6%8B%9B%E3%81%8D%E7%8C%AB+%E6%AD%B4%E5%8F%B2+%E6%97%A5%E6%9C%AC%E4%B8%80+%E5%B8%B8%E6%BB%91%E5%B8%82%E8%A6%B3%E5%85%89%E5%8D%94%E4%BC%9A&client=app-vertex-grounding&safesearch=active\">常滑 招き猫 歴史 日本一 常滑市観光協会</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D%E5%9E%8B+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+%E6%99%82%E9%96%93+%E6%A3%92%E7%8A%B6&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き型 理由 金鳥 時間 棒状</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnvKRav3xQHFqfHTwFzycy0rr6mnFNlkckp3aLZO4cR7urC5ogMsOlM3m5KP3sWVSb0nEA9fllQqDTUXz5nh5ka8EpDlGNcbHutfO_6_lP0w==",
-          "title": "yaotomi.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXOtyRisKIBuWkdao1fnTr788e7-Wum4T7Q9NXQ9pRu9eDUAwn6weMUFGeiPJcSPlOB7N1Mik7cbuUhGyOkSCl8BIZ2_qjMtyQEFD82JHhD3LnEH6XJpr5ZYItf86ud4krBuq1_g==",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5iFNwLkTLqaXFRDmrVOolKrIszIIct2VfEwHI2Msl6gVgzks84ijx3q_2H_6jiejhyAKdkRvDOrTirXjOP71I_HIofib20VIxDUFsuGoYjjFSqsc0qg==",
-          "title": "gamagori.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYW_Wc922OlTVOaV9FkYKH5VXO3W-B8f-D6Lk7ZOWhMJ9OeLQhd9uDGGpU9wCbYTw-BH5rczcfdD6GChCEg1rdiNFzOCiMWjjHtDgIZ__mABMcei0mcv-CypvEqcpD8fiv7m161wJjp4PsSnw3Q2h0vEVkW2xTJpbpWgG_yNlVIA_1VwIOddEyPXTePJI7wfL0eYA=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwn09seNGrhnwiIQgFby-tpMUn4pYA0lQgq2mo1-VqBzeC8ymRzUhvlB2A3QGJ7h985q7IP5TQtuOR001gWHivMjaBl_UqV54-GO15DVoTOPtlFni0qRwwPxQr5cNvnR-cSZMSQZhk6plkdZl3CDlogw==",
-          "title": "gamagori.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs-KA4tVtKnAcgvqAj82zAo182AACBqgZuXDvzTHOtNSuWTK34iS1gK47IH-_1AOYq7oTIeny7QSnsHnZj2tae2U43TwGYUbtV_YosuBS2oPA=",
-          "title": "tabi-mag.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf6GetQjUs2QIZzlyii7-Yaezt2CoqrontsIGzHWNYZLeXAOG2eAucfDtrNDq1LBswtAeeduVLueKlCxwhw7jVaKILfDZM7J8gM0WEHuGjz-28B6Bdb-GXfVKS9zo250qAcyzO4yhN6XSGQl5NXO4v2zpSPjKbkny4KlA=",
-          "title": "jeepe.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGASE-0kJt8L9V5IqeDFoVpRFR_UbCGgJg94anJUMPZHKvWcfVVrJnEsfXDFPK0avA5xU9EaCaHcBfkLetqgGZvRQvEYDMUExHWrRcwsJl2zAd1ESoUIWnS7H9wPHlj6_t36yql602qdu3x",
-          "title": "city.nagoya.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoJIGgQCJiRifUsJWyoTbuEUQFWoToQ6W-S0u8xKlcKE757d5NyWrjVUUqVljJEbJVN_BxuaD2sqdbpWNr3Ry2D2QprOB924e6qDlteLFWAifWX0T2RidolSrnGVCbV98=",
-          "title": "php.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbt35sKFGqe-AOfNYTyQyl-93UYL20MlFBcqSnUkcaqdmLwluvs7S6prMMyBrhkfxYvGfJtVYF1N-wLGy9TXl55UlqnfqPQv3w6nDtIROc4YTKDmPs8W7FrseuvECkF5CG2GkoUg==",
-          "title": "mikawa-life.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwXIwuXvplWi-Cx4gXwLDVbh92-Aghs8lbWjkumcX1J0EGifgMd6K05L4sAGGRvJy0isV-jKsAFObG9xLMAmJuM309aIh_416psoh45N1nfe-wSOBm8s-bCJjAcGs4sifdFBM=",
-          "title": "toyokawa-map.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwluKsnwdNkvG1p0_vn6tne6m5ndRxF2vFnrQywgZN-QUV9igVSQkfiNPx3QNI1O5BOfAyiV50XZe8aDXeoCid6QeR2Q31ZQPQtcjvNdCMA9j_X5DI4tik",
-          "title": "jtb.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkDoPr3Dd9iV3n0jkDVw7PWD9AgD0M3EBFJ_rjpIfsOS7PBVdl9bCPoYRiinjPIwvxH0HheVWtPmQSnhUrJD5ocAZWWlfnMmujDED1MaZ-MZekZEH_RrywkyuQ8IW5ucWaahMU6yk-PqUI39_-qQusYVHOi0wdVGDpwSOPwDBY3TFRAh0Eqye_586OQ6T6ymFkmkK-OT36jaIsUvVsmLQ=",
-          "title": "ciao.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdfuB2v0XkkWzYrbHAnwcNg9AWeGz4VokG0zwaV76fYnImNyX3TT_no7EdrmrfJg2W2_0zNDwORdFsJNLwqw-gINC_3CA66S5BBOs0eyEcmpxf73A89XQ6Qv84qL9xHwf7",
-          "title": "toyokawainari.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmKskMHwWw1ubeN2-xACLn94RWUMU3rPI1rkiGetI08VT2L20Nd1XJVxQCRXfCoHhvPzYPGfDKV4eA4_-wyT9YWjGMPMX5y0RU_LwS5kkeOhwi-O3268S5af1ZU6b7byZf0OjP2Q==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3U9BMu3hFfF7MQbYHPOnh817MTXDnpF_7Xmpy3f8U4HPEbyc1DEoxp8w9i7lDA3wWF3mhfFPXdxLYadlTU13K-Gc9TcHI98NJx_G9HN5OHxiMT5VNJIDEH3Z65A4osu-6965-kIO9qcu-Ohoq",
           "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG1y6t9itVYXGy991MI5vptFqTWOHp7mZKY2_O8m-agseYbfGga2oDbJgxgrvS5ZhekeW2WAuGFKaip5gZ4tUkknKnIyZJ3VJ8dMuqvnmD1Phkgn4uMQhQzPazc2NTQh8H",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvFBZxUNe0hcKOFerBhNwh79ltq6ArpU0JebDx6LN3T99X6Of23PQVQZtg-_hricX-2oTxAo-ejBvMgENEuBHvym_uQ3s6_bDTg1dZ4THIqv7-Q49m4p-ikE0KDN7txQ_-pBoZ0Bl-2bU=",
+          "title": "okazakitakuminokai.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoJ67E8tvOr-ow6IGTpd7st1QARMvTAY9h2UbYZtH0PihQvG17yz8c0XN7fcDqMgtlbQWnDBCeoJ_Vi34xxqCMcK4K0tpSiG9micDuk3wb2tbCX-Blm4pg9LbdOFeZD52JuJ2oH40=",
-          "title": "uraken.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKbHx8dMDng30b7CTHBy4z-43W4Dw3jLrGMM8eIqFzfgi4ToM5uWmPIfxi6cgEbaFotLbZxGwEzwUlyW4gIwi3OSRt7SNKuRqbbLh0J85LhxVi61yCEFJOuTMrDfkiYBIwPA==",
+          "title": "pokelocal.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWN7RiMGeDQ-afWxGiuoRBe9j3jDqJvn6oQDBDzYIeMe7ZE_HRIp0vcS05SFjtSM6fgiZ7RcqMJc9FS3vByIuR_KNa9wcw35xqUGlqYR6FijsNHACV4ngqVeQmUZXttw==",
-          "title": "nagoya-info.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW71jVVaDt4UHm6qzx-EHeNfukSVOW8J9lU0u5u1L0xAxPHE0tNDUmuJTHvn444ynMrhnHBycwuRSTtniGEiYbO8NCfosyOv6wNZjR9_ivYL2TekjuaD0xgenKw1vP",
+          "title": "matsuirousoku.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFojM5rCbvEVNqCapbMhaqxCqpeFsnsB9wABGlZf_N6Jkkq0LwN9wz29PJbytpdGby2Bo3RtkJYFaOBUQFLY86p_-peRO3p8bxui0gWYCX5Xl4zwAJePes3",
-          "title": "asoview.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSfFKVtQdt1RvCtozAuXb0jK6kwNOiPH5KJzUzSQYitWcaEpMRn3RbPHjMTleyod2wwhXRLDR4BNrGPAMMgpMPoCgjRwLcw5uxvQUE3L1sukomCA==",
+          "title": "isobe-r.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRwMYBS-G3WJ503GS1HQk07kXTK9CVH1ZjoprMOpHrQ44V7l6jZM1vz8OknPBYKl3ENymOMeN-1Jm9utMRORge3T1pyED4YbVbToaXS2my2mKv_WB2_tqjTV72UskznaGjUQErRjNEoTUbmZHk0J5MouGlgiOcyn-MA==",
-          "title": "city.nagoya.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZDWnkYe1pkhaxhpil9DmLWIEQBhPgahoprnS8IzU8Y-G2G2Ia-6Q7anoigHCADvFR1mVBgDcha9hrK02OkxgZxvKrw4CJ4kkJqDEOhMxTQVgFDBeP5ZYkoIR9DAk6PBPF7_OhcfJzkA==",
+          "title": "tokoname-kankou.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwI3RKU5JGOEfH3TZmhTZVy8w6yohzNHFMxhIqJDZmo1J62YVrrGqRBXeK7l0ULGokXr7GMYW7JXD-6MiIO8GcBvzH3HQPGr2Z2IVeDY4zFDBBkwmjgBXFtXWzYicXGI4zFicHPEmEIIS3nfvJ2-rl6auksusDy3VOCu6kAq6Blx4-yKFQLsk=",
-          "title": "city.nagoya.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG48lF-3HFXOBRRZTFedQ_LJx8T_hTqpna1oqjX_srQcuU5yA4o34iJzt1tb0lIDvSY7Y4NnbTyIuV4wywpb3mAAL03CPf7ICBIaQot2x5oe8aqcYB9AgbOw_1MZLzgC0SE8oc6ztlJuZYVXj6Hpg3swTdrqkP6dk-mwIEq_VXad8Rr9HP-",
+          "title": "nihon-kankou.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaAM46_0ssLXwNOEMs6o6tzx1XmkESUZiihgngAmT3qH1NnmLTbXSAqlaG2boVP5MjFeWQ4-HpIMw1LimKr9RQYHT1sBGEr0dVRkPOWid2WJSTTb9kr8gJ",
-          "title": "museum.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAk8Ld96JGRsVspMryXQx9YpZUIUj_YnByNZXxnv0UUoD9fDmy6l1wXGu_JiwwOQ6UAKjBMqKCMQq-6WvOAMSBpruBh7wcSqsvl8kN1620VFlrj_T0vN_jLFFfsg==",
+          "title": "matcha-jp.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn12LggecgKPSbkA2PyJicf9yQH1d4MXqbaGbXb-tZnWEBphuhcNlM6ErZd9Quzbv8Tw-It9T4sybPLJGoIKBkOkamYBmF5TB9UnOYwtutLP1TbEX4madttasBA1J5ZAMiARfRUAw=",
-          "title": "knt.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrir5q0p8aSUihUJfeXj4oGevdOi19YhTqd5AJ2kWtJEAdktTul38xjYGq4ExaTCAZ8Lmf87z_r6tyHxEe_V4dbf1QTtKBbxEc6_kKb7elmzyOJDn3SFMYNPuICCBuGAU7wGDsXwCSAq5fbKpiWKEaloWn3vMJ52JTUuU5Fht56CcOPE_lZ02YEOZKD3V34m2AQtd3aFYpBl7pNCQ9s3v6TR5TZzX-ll2z-hDroXA5BiP3pb1hvmSC_LmvfFpIubbBhK2-2E_dEjQotaIQIcMZ2g==",
+          "title": "aichinavi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSQFH_8WU6rSHp85vewYi0Kx2-UnzX_1bI4ny8jwatDp-L2cWv9hnFrhdZEM0Gs06yHdSdUT0OrC6qRDa04PpknLxewjILVgzD_lnHo1ZX4DVvkxtMt-U-Fsm3NHpBbOUdBXpfA5R19Pu6U7U=",
+          "title": "pref.aichi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxLcem5HUgko6rOg1lImq2aMUBES5J-KMWX9wEekOFyujU482jDT_jD4wketYK7pQP7M6Y0HArudWCygZuBq5YtDF6rhW-22kjOGuL7CulLqfA2UwOYi26l0IK6AgdE7cLkmUz",
+          "title": "kamenoko-tawashi.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2MDZ1eOJrYTxZBHeVWye3aapeEbd31xHuXHLflkJ7YaT0YgLrqjRqn9gNslAR2lEx4uvBNRJpIzfaoDO5LQlK1W5mx9bGqbfGOHKMS0URdZv85MEPeOEf2RlE5AJ29g38-x_GGs0=",
+          "title": "kamenoko-tawashi.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7txL6ouoxEFboHPll6g_kRAT23yVvz75dYDItOMIPPWpFBCoHDUZiMQspqoHTnFwvC4igYVzmeYN5hQ3Vsq6PWgP4CF8Fe_44esDQjcUph8siuKNjCwO9eIMcF1_-yERkSXLc9pmB3w==",
+          "title": "kincho.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVDNOmLA5I9mE2u_swoqxURFoApN5tYec-tj_gSOkTDVO9Zv-LcKOmM13wU9Imix2mQ5LBAbdDCkXJAX7LwOP8G8H3-vbtmjqlv-zvWcFV0AE=",
+          "title": "joshi-spa.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCemJdy1GLy12OF5eo1x1xg2FpPSb0UPxMk8ShYyuQ1teFEaNUaAFakzIrlgVmQ_ykiVXSNdVTKGNWCsR2grT6kUmqhOMXnp_7mdz4koC1-DsR44wnCUxzJ1kjQ8-VMe9NgNfM",
+          "title": "mynavi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtYXINXnnDpjFA4eMT_pCdV2WoJwAMSKPTlML7fBh2235_zMlJCKjPabCvWioyGr4CVW2Ns06PJOyZLhyJTWR0grfoUuu9d44plL7XhbP7ApZdrZQnYOMEhqGbiopgZrMTtcR7eV_FbsAki9ieLBNKSmk=",
+          "title": "tenki.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAKdB_JKaoJLEzT7H92i-OqRyy9dvlTghPK9ZkjxPjbgb_pKUOwxgM9O7OFv9vjtubHav8Ig6Zi3c7j_mKVLHObV3yWsj_zybIs-mqxjKLdMQTq7TL3Y1DWVTc8Je2PsKqbaNp",
+          "title": "weathernews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFwygu0wAedwK29j6oaMGNLfmEEBqVVQN5CB3gKbcFbJ15b2YNBPuKkcbdx-C-yyRR5N7WKmvCH_R4P9m4kOAv5ybQgUOdSHCOD-y57aTVD-vWH3l6osGbbYQEnKYKEmA=",
+          "title": "zatsuneta.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 621,
-          "endIndex": 804,
-          "text": "長さ387mの竹島橋を歩いて簡単に渡れる小島ですが、島全体（八百富神社社叢）が昭和5年（1930年）に国の天然記念物に指定されています"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 927,
-          "endIndex": 1218,
-          "text": "対岸の本土側がクロマツ林を中心とした一般的な沿岸植物であるのに対し、竹島はタブノキなどの常緑広葉樹が密生する暖帯林（照葉樹林）が広がり、植生体系（植物相・フロラ）が対岸と全く異なっているためです"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1221,
-          "endIndex": 1410,
-          "text": "「陸地に極めて近い島でありながら、本土と林相が著しく異なる珍しい環境」であることが学術的に極めて高い価値を持つと認められました"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1461,
-          "endIndex": 1643,
-          "text": "対岸からの距離はわずか**約400m**（竹島橋は387m）、島の面積は**約1.9ヘクタール**、周囲約600m、標高約22mという手のひらサイズの島です"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1646,
-          "endIndex": 1754,
-          "text": "この小さな島の中に、なんと**65科238種**もの高等植物の自生が確認されています"
-        },
-        "groundingChunkIndices": [
-          0,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1757,
-          "endIndex": 1874,
-          "text": "林床に自生する「キノクニスゲ」は、竹島が日本における自生の北限地とされています"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2130,
-          "endIndex": 2458,
-          "text": "これほど手つかずの自然が残ったのは、平安時代末期（1181年）に藤原俊成が琵琶湖の竹生島から弁財天を勧請して八百富神社を創建して以来、島全体が神域とされ、長年にわたって一般の立ち入りや樹木の伐採が厳しく禁じられてきたからです"
-        },
-        "groundingChunkIndices": [
-          0,
-          2,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2461,
-          "endIndex": 2575,
-          "text": "信仰が三河湾の貴重な照葉樹原生林をタイムカプセルのように現代へ守り伝えました"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2607,
-          "endIndex": 2685,
-          "text": "八百富神社公式ウェブサイト「竹島の自然環境について」"
+          "startIndex": 1372,
+          "endIndex": 1600,
+          "text": "火を灯すと、この空洞から下部の空気が自然と吸い上げられる「煙突効果」が起きるため、風がなくても自ら空気を取り込んで炎が力強く呼吸するように揺らめくのです"
         },
         "groundingChunkIndices": [
           0
@@ -311,20 +197,96 @@
       },
       {
         "segment": {
-          "startIndex": 2690,
-          "endIndex": 2798,
-          "text": "蒲郡市博物館「蒲郡の名木50選 31 八百富神社社叢」（文部省告示第198号の解説）"
+          "startIndex": 1639,
+          "endIndex": 1824,
+          "text": "**原料と燃焼：** 石油系パラフィンで作られる洋ろうそくと異なり、ハゼの実から採れる植物性の「木蝋（もくろう）」を100％使用します"
         },
         "groundingChunkIndices": [
-          0,
+          1,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1830,
+          "endIndex": 1989,
+          "text": "**燃焼時間：** 和ろうそくは重さの「匁（もんめ＝約3.75g）」で表され、1匁でおよそ30分、5匁で約1時間半燃え続けます"
+        },
+        "groundingChunkIndices": [
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 2803,
-          "endIndex": 2893,
-          "text": "蒲郡市観光協会公式サイト「がまごおり、ナビ」竹島スポット解説"
+          "startIndex": 1995,
+          "endIndex": 2192,
+          "text": "**癒やし効果：** 炎の揺らぎは心地よい「1/f（エフぶんのいち）ゆらぎ」を含んでおり、大学等の共同研究でもリラックス効果が検証されています"
+        },
+        "groundingChunkIndices": [
+          1,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2195,
+          "endIndex": 2410,
+          "text": "現在、全国で製造する店は20軒ほどに減りましたが、西三河の岡崎市には今も複数の老舗（磯部ろうそく店、松井本和蝋燭工房など）が伝統を受け継いでいます"
+        },
+        "groundingChunkIndices": [
+          1,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2432,
+          "endIndex": 2555,
+          "text": "芯の材料には、私たちが毎日親しんでいる畳と同じ「い草」の髄（ピス）が使われています"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2558,
+          "endIndex": 2807,
+          "text": "植物の吸水性と中空構造の組み合わせによって完全燃焼しやすく、洋ろうそくに比べて油煙（黒い煤）が出にくいため、部屋やお仏壇を汚しにくいという優れた生活の知恵でもあります"
+        },
+        "groundingChunkIndices": [
+          4,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2946,
+          "endIndex": 3108,
+          "text": "家康公が生誕地である岡崎で浄土宗を厚く保護したため、城下町には京都に匹敵するほど数多くの寺院が建てられました"
+        },
+        "groundingChunkIndices": [
+          5,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3111,
+          "endIndex": 3324,
+          "text": "その膨大な仏事の需要と、東海道を行き交う旅人や商人が提灯に入れて使う明かりの需要が重なり、「三州岡崎和蝋燭」として名高い伝統産業へ発展しました"
+        },
+        "groundingChunkIndices": [
+          1,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3358,
+          "endIndex": 3424,
+          "text": "愛知県産業振興課「三州岡崎和蝋燭」公式ページ"
         },
         "groundingChunkIndices": [
           1
@@ -332,9 +294,30 @@
       },
       {
         "segment": {
-          "startIndex": 3050,
-          "endIndex": 3128,
-          "text": "名古屋城の天守閣に鎮座するシンボル「金の鯱（金鯱）」"
+          "startIndex": 3429,
+          "endIndex": 3478,
+          "text": "磯部ろうそく店 公式記録・取材資料"
+        },
+        "groundingChunkIndices": [
+          0,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3483,
+          "endIndex": 3520,
+          "text": "松井本和蝋燭工房 公式資料"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3986,
+          "endIndex": 4172,
+          "text": "招き猫自体は江戸時代末期（浅草など）に誕生したとされますが、戦前までは本物の猫に近い「細身でリアルな体型」のものが主流でした"
         },
         "groundingChunkIndices": [
           6
@@ -342,9 +325,9 @@
       },
       {
         "segment": {
-          "startIndex": 3131,
-          "endIndex": 3263,
-          "text": "屋根の北側と南側に一対置かれており、北側が雄（オス）、南側が雌（メス）と決められています"
+          "startIndex": 4175,
+          "endIndex": 4504,
+          "text": "現在私たちが真っ先に思い浮かべる「丸い頭、大きな瞳、ふっくらした二頭身」の姿は、昭和20年代に愛知県常滑市の窯元「梅月冨本人形園」の三代目が、友人の原型師とともに「誰からも愛される親しみやすい形を」と大胆に考案したものです"
         },
         "groundingChunkIndices": [
           6
@@ -352,89 +335,9 @@
       },
       {
         "segment": {
-          "startIndex": 3266,
-          "endIndex": 3396,
-          "text": "雄のほうが体が大きいのですが、実は1箇所だけ「雌のほうが勝っている」意外な特徴があります"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3417,
-          "endIndex": 3526,
-          "text": "体を覆っている**「金のウロコの枚数」は、雌のほうが多い**設計になっています"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3529,
-          "endIndex": 3655,
-          "text": "遠くから見上げたときに、雌の姿がよりきらびやかで華やかに見えるよう工夫されたためです"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3742,
-          "endIndex": 3843,
-          "text": "**総高**：北鯱（雄）**2.621m** ／ 南鯱（雌）**2.579m**（雄のほうが約4cm高い）"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3848,
-          "endIndex": 3945,
-          "text": "**重量**：北鯱（雄）**1,272kg** ／ 南鯱（雌）**1,215kg**（雄のほうが重い）"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3950,
-          "endIndex": 4029,
-          "text": "**金量（18K）**：北鯱（雄）**44.69kg** ／ 南鯱（雌）**43.39kg**"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4151,
-          "endIndex": 4156,
-          "text": "**）"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4180,
-          "endIndex": 4366,
-          "text": "大きさや体重、使われている金の総重量はすべて雄が上回っているのに、ウロコの枚数だけは雌のほうが細かくびっしりと貼られています"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4414,
-          "endIndex": 4559,
-          "text": "江戸時代、尾張藩は財政難に陥るたびに金鯱の鱗を剥がして溶かし、小判を作る「改鋳」を3回も行いました"
+          "startIndex": 4507,
+          "endIndex": 4642,
+          "text": "この愛らしい姿が大ヒットし、「常滑系（とこなめけい）」として全国のスタンダードになりました"
         },
         "groundingChunkIndices": [
           6,
@@ -443,29 +346,20 @@
       },
       {
         "segment": {
-          "startIndex": 4562,
-          "endIndex": 4643,
-          "text": "そのため時代が下るにつれて金の純度が下がっていきました"
+          "startIndex": 4681,
+          "endIndex": 4767,
+          "text": "**日本一の産地：** 愛知県常滑市は招き猫の生産量が日本一です"
         },
         "groundingChunkIndices": [
-          7
+          8,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 4646,
-          "endIndex": 4885,
-          "text": "さらに昭和12年（1937年）には、天守閣の調査用の足場を夜間に登った泥棒によって、雄の金鱗が58枚もペンチで剥ぎ取られて盗まれるという前代未聞の窃盗事件まで起きています"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4917,
-          "endIndex": 5044,
-          "text": "名古屋城公式ウェブサイト「観覧ガイド 金鯱」（二代目金鯱の寸法・うろこ枚数・歴史解説）"
+          "startIndex": 4773,
+          "endIndex": 4939,
+          "text": "**シェア：** 全国の店先で見かける定番の「常滑系招き猫」は、全国シェアの約80％を占める窯元が存在するほど圧倒的です"
         },
         "groundingChunkIndices": [
           6
@@ -473,162 +367,123 @@
       },
       {
         "segment": {
-          "startIndex": 5222,
-          "endIndex": 5342,
-          "text": "商売繁盛の祈願や名物のいなり寿司で知られ、日本三大稲荷の一つに数えられる豊川稲荷"
+          "startIndex": 4945,
+          "endIndex": 5115,
+          "text": "**手の意味：** 挙げている手にも明確な意味があり、「右手はお金（金運）」「左手は人（客・良縁）」を招くとされています"
         },
         "groundingChunkIndices": [
-          8,
-          9,
-          10
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 5345,
-          "endIndex": 5462,
-          "text": "表参道には大きな鳥居が構えられていますが、実は神社ではなく曹洞宗の「お寺」です"
+          "startIndex": 5137,
+          "endIndex": 5365,
+          "text": "何百年も変わらない伝統の形に見えますが、実は戦後復興期の昭和の職人たちが「もっと人々の心を和ませたい」と工夫して生み出した昭和レトロな近代デザインでした"
         },
         "groundingChunkIndices": [
-          8,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5390,
+          "endIndex": 5540,
+          "text": "常滑は千年の歴史を誇る「日本六古窯」の一つで、もともとは大甕や土管、急須の産地として知られていました"
+        },
+        "groundingChunkIndices": [
+          7,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 5525,
-          "endIndex": 5654,
-          "text": "正式名称は「圓福山 豊川閣 妙厳寺（みょうごんじ）」という室町時代（1441年）創建の寺院です"
+          "startIndex": 5543,
+          "endIndex": 5795,
+          "text": "時代の移り変わりとともに陶器の需要が変化するなか、職人たちの高い造形技術を生かして縁起物の置物作りに挑戦したことが、現在の「招き猫の街・常滑」を築くきっかけとなりました"
         },
         "groundingChunkIndices": [
-          9,
-          11
+          6,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 5657,
-          "endIndex": 5888,
-          "text": "本尊は千手観音で、お稲荷さんとして親しまれているのは、寺の鎮守（守護神）として祀られている「豊川吒枳尼眞天（とよかわだきにしんてん）」という仏教の善神です"
+          "startIndex": 5798,
+          "endIndex": 5867,
+          "text": "今では「Lucky Cat」として世界中に輸出されています"
         },
         "groundingChunkIndices": [
-          12,
-          11
+          6,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 5891,
-          "endIndex": 6035,
-          "text": "この神様が稲穂を担ぎ、白い狐に跨った姿をしていることから「豊川稲荷」と通称されるようになりました"
+          "startIndex": 5901,
+          "endIndex": 5983,
+          "text": "一般社団法人とこなめ観光協会「猫のまち常滑 招き猫特集」"
         },
         "groundingChunkIndices": [
-          11
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 6038,
-          "endIndex": 6194,
-          "text": "鳥居があるのは、神仏が調和して信仰されていた江戸時代以前の「神仏習合」の文化をそのまま残しているためです"
+          "startIndex": 5988,
+          "endIndex": 6058,
+          "text": "愛知県公式観光サイト Aichi Now「招き猫のまち常滑」"
         },
         "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6242,
-          "endIndex": 6291,
-          "text": "創建は室町時代の嘉吉元年（1441年）"
-        },
-        "groundingChunkIndices": [
-          11,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6294,
-          "endIndex": 6415,
-          "text": "境内地は約3万坪以上（東京ドーム約2.2倍）におよび、年間数百万人もの参拝客を集めます"
-        },
-        "groundingChunkIndices": [
-          8,
-          13,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6418,
-          "endIndex": 6607,
-          "text": "特に有名な「霊狐塚（れいこづか）」には、信徒から祈願成就の御礼として奉納された大小**1,000体以上**の狐の石像がずらりと並んでいます"
-        },
-        "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6634,
-          "endIndex": 6869,
-          "text": "鳥居をくぐって進みますが、神社ではないため「2礼2拍手1礼」で手を打つのではなく、**音を立てずに静かに両手を合わせて合掌・一礼する**のが寺院としてのお参り作法です"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6872,
-          "endIndex": 6980,
-          "text": "また、鳥居をよく見ると、寺院の記号である「卍（まんじ）」が刻まれています"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7028,
-          "endIndex": 7255,
-          "text": "明治4年（1871年）、新政府が神道と仏教を厳格に分ける「神仏分離令（廃仏毀釈）」を出した際、全国の稲荷堂の多くが神社になるか仏像を取り去ることを迫られました"
-        },
-        "groundingChunkIndices": [
-          11,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7258,
-          "endIndex": 7465,
-          "text": "しかし妙厳寺は吒枳尼眞天を「寺院の鎮守堂」として位置付けることで法要を貫き、廃仏毀釈の嵐を乗り越えて今日まで寺院としての姿を守り抜きました"
-        },
-        "groundingChunkIndices": [
-          11,
           10,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7497,
-          "endIndex": 7590,
-          "text": "豊川市観光協会「ぐるっと豊川」豊川閣妙厳寺（豊川稲荷）公式案内"
-        },
-        "groundingChunkIndices": [
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 7595,
-          "endIndex": 7671,
-          "text": "宗教法人 豊川閣妙厳寺「当山の歴史・豊川稲荷略縁起」"
+          "startIndex": 6478,
+          "endIndex": 6709,
+          "text": "明治時代の中頃、創業者・西尾正左衛門は、母親を楽にさせたい一心で、ヤシ科の植物「棕櫚（シュロ）」を針金で巻いた新しい「靴拭き泥落としマット」を発明しました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6712,
+          "endIndex": 6871,
+          "text": "ところが、体重の重い人が乗ると毛先がすぐにペタンと潰れてしまい、大量の返品の山を抱えて大失敗してしまいます"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6874,
+          "endIndex": 7120,
+          "text": "途方に暮れていたある日、妻の「やす」が、売れ残って転がっていたマット用の棒を小さく折り曲げ、障子の桟（さん）に溜まったホコリを器用に払い落としているのを目撃しました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7123,
+          "endIndex": 7294,
+          "text": "これを見た正左衛門が「適度な弾力を持たせて曲げれば、洗うための画期的な道具になる！」とひらめいたことで誕生しました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7333,
+          "endIndex": 7398,
+          "text": "**誕生と特許：** 1907年（明治40年）に考案・創業"
         },
         "groundingChunkIndices": [
           12
@@ -636,9 +491,60 @@
       },
       {
         "segment": {
-          "startIndex": 7676,
-          "endIndex": 7748,
-          "text": "愛知県観光協会「Aichi Now」豊川稲荷（豊川閣妙厳寺）"
+          "startIndex": 7401,
+          "endIndex": 7454,
+          "text": "1915年（大正4年）に特許を取得しました"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7457,
+          "endIndex": 7555,
+          "text": "特許取得日である「7月2日」は、現在「たわしの日」に制定されています"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7930,
+          "endIndex": 8188,
+          "text": "日本中の台所を支えた100年以上のロングセラー商品は、妻が「ゴミ同然の売れ残り部材」を使って自宅の障子を掃除していたという、家庭内の何気ない日常風景（内助の功）から生まれました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8213,
+          "endIndex": 8585,
+          "text": "名前がなぜ「亀」なのかというと、たわしの丸っこい形が陸に上がった親亀や小亀の姿に似ていたことに加え、「亀は万年」という長寿の縁起物であること、そして「水を使う商売道具には、水と親しみのある動物が一番ふさわしい」という願いが込められて名付けられました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8619,
+          "endIndex": 8719,
+          "text": "株式会社亀の子束子西尾商店 公式サイト「亀の子束子誕生秘話」「沿革」"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9089,
+          "endIndex": 9221,
+          "text": "1890年（明治23年）に世界で初めて作られた蚊取り線香は、仏壇のお線香と同じ「細い棒状」でした"
         },
         "groundingChunkIndices": [
           13
@@ -646,9 +552,64 @@
       },
       {
         "segment": {
-          "startIndex": 7932,
-          "endIndex": 8052,
-          "text": "白川公園内にあり、大きな銀色の球体が建物に挟まれた外観でおなじみの名古屋市科学館"
+          "startIndex": 9224,
+          "endIndex": 9471,
+          "text": "しかし、棒状だと長さ20cm程度で約40分で燃え尽きてしまい、「寝ている途中で火が消えて蚊に刺される」「煙が細いので3本同時に焚かないと効かない」という深刻な欠点がありました"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9474,
+          "endIndex": 9561,
+          "text": "長時間もたせるために棒を長くするとポキポキ折れてしまいます"
+        },
+        "groundingChunkIndices": [
+          13,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9564,
+          "endIndex": 9825,
+          "text": "悩んでいた創業者（大日本除虫菊・金鳥の上山英一郎）に、妻の「ゆき」が「庭（蔵）でとぐろを巻いているヘビのように巻いてみたらどうかしら」と助言したことで、渦巻き型が誕生しました"
+        },
+        "groundingChunkIndices": [
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9864,
+          "endIndex": 10155,
+          "text": "**燃焼時間と長さ：** 棒状の線香は約20cmで「約40分」しか持ちませんでしたが、渦巻き型はまっすぐ伸ばすと約75cm（発売初期の手巻き時代は約60cm）あり、人間の睡眠時間に合わせて「約7時間〜7時間半」燃え続けます"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10161,
+          "endIndex": 10339,
+          "text": "**燃えるペース：** 蚊取り線香の燃焼速度は「約10cmで1時間」と計算されており、一晩の眠りをちょうど守りきる設計になっています"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10361,
+          "endIndex": 10473,
+          "text": "現在、「金鳥の渦巻」は中心から見ると**左巻き（反時計回り）**に巻かれています"
         },
         "groundingChunkIndices": [
           16,
@@ -657,168 +618,74 @@
       },
       {
         "segment": {
-          "startIndex": 8055,
-          "endIndex": 8175,
-          "text": "週末の家族連れに大人気のプラネタリウムですが、実は世界トップの記録を持っています"
+          "startIndex": 10476,
+          "endIndex": 10781,
+          "text": "かつて職人が手作業で巻いていた頃は巻きやすい「右巻き」でしたが、昭和30年代に機械製造が普及した際、後発の他社製品に右巻きが多かったため、金鳥が元祖としての独自性を出すためにあえて「左巻き」へと変更しました"
         },
         "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8196,
-          "endIndex": 8396,
-          "text": "ドームの内径（直径）が**35メートル**あり、2011年12月に**「世界最大のプラネタリウム（Largest planetarium）」としてギネス世界記録に認定**されました"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8399,
-          "endIndex": 8507,
-          "text": "（それまで世界一だった愛媛県総合科学博物館の30mドームを抜いて記録を更新）"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8510,
-          "endIndex": 8639,
-          "text": "外観の巨大な球体は、この35mの巨大ドームをそのまま建築のデザインとして見せているためです"
-        },
-        "groundingChunkIndices": [
-          16,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 8689,
-          "endIndex": 8735,
-          "text": "**ドーム内径**：35m（ギネス認定）"
+          "startIndex": 10806,
+          "endIndex": 10926,
+          "text": "蛇の着想から製品化に至るまでには7年（1895年発案、1902年発売）もの歳月がかかりました"
         },
         "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8740,
-          "endIndex": 8762,
-          "text": "**座席数**：350席"
-        },
-        "groundingChunkIndices": [
+          13,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 8767,
-          "endIndex": 8980,
-          "text": "**シートの仕様**：大型リクライニングシートで、後ろに倒れるだけでなく左右に約30度首を振る設計になっており、首を痛めずに広大な全天の星を見渡せます"
+          "startIndex": 10929,
+          "endIndex": 11159,
+          "text": "細い生麺のような原料を2本並べて同時に巻く「ダブルコイル方式」を発明し、熟練の職人が1組わずか数秒で手巻きして乾燥させることで、ようやく量産にこぎつけました"
         },
         "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9007,
-          "endIndex": 9164,
-          "text": "世界一の最新デジタル・光学技術を誇りながら、投影中の解説は**「学芸員による全編生解説」**にこだわっています"
-        },
-        "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9167,
-          "endIndex": 9390,
-          "text": "録音テープを流す施設が多い中、1962年の旧館開館以来、最新の天文ニュースや当日の夜空に合わせて学芸員が肉声で語りかけるスタイルを一貫して守り続けています"
-        },
-        "groundingChunkIndices": [
-          18,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9438,
-          "endIndex": 9579,
-          "text": "世界一の星空をリアルに再現するため、ドーム内は「限りなく本物の夜空に近い漆黒」を追求しています"
-        },
-        "groundingChunkIndices": [
+          14,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 9582,
-          "endIndex": 9777,
-          "text": "わずかな光の照り返しすら防ぐため、350席あるシートの布地や床材に至るまで、光の反射率を極限まで抑えた特注仕様の内装が採用されています"
+          "startIndex": 11162,
+          "endIndex": 11270,
+          "text": "この技術的価値から、国立科学博物館の「未来技術遺産」にも登録されています"
         },
         "groundingChunkIndices": [
-          18
+          13,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 9809,
-          "endIndex": 9941,
-          "text": "名古屋市科学館公式ウェブサイト「プラネタリウム概要」および「ギネス世界記録認定について」"
+          "startIndex": 11304,
+          "endIndex": 11419,
+          "text": "大日本除虫菊株式会社（KINCHO）公式害虫コラム「1世紀以上経っても、渦巻きです。」"
         },
         "groundingChunkIndices": [
-          18,
-          19
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 9946,
-          "endIndex": 10034,
-          "text": "名古屋市観光情報「名古屋コンシェルジュ」FUJIなごや科学館解説"
+          "startIndex": 11424,
+          "endIndex": 11514,
+          "text": "国立科学博物館「重要科学技術史資料（未来技術遺産）」登録資料"
         },
         "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10698,
-          "endIndex": 10839,
-          "text": "高さ（雄2.62m／雌2.58m）も重さ（雄1,272kg／雌1,215kg）も、体の大きさ自体はオスのほうが一回り大きいです"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10970,
-          "endIndex": 11098,
-          "text": "** メスのほうが14枚も多く、より細かくウロコを貼り巡らせてきらびやかに仕上げられています"
-        },
-        "groundingChunkIndices": [
-          6
+          13,
+          14
         ]
       }
     ],
     "webSearchQueries": [
-      "名古屋市科学館 プラネタリウム ギネス 35m 世界一 公式",
-      "豊川稲荷 妙厳寺 寺 鳥居 豊川市",
-      "蒲郡 竹島 天然記念物 植生 理由 蒲郡市",
-      "名古屋城 金シャチ 雄 雌 鱗 枚数 公式"
+      "亀の子束子 誕生 きっかけ 妻 障子 公式",
+      "岡崎 和ろうそく 仕組み 歴史 愛知県 特徴",
+      "常滑 招き猫 歴史 日本一 常滑市観光協会",
+      "蚊取り線香 渦巻き型 理由 金鳥 時間 棒状"
     ]
   }
 }
