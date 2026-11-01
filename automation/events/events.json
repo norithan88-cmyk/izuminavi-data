@@ -1,28 +1,12 @@
 {
-  "updated_at": "2026-10-31T09:46:33.444+09:00",
+  "updated_at": "2026-11-01T09:06:33.853+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
-    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=10&type=2&year=2026",
-    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026"
+    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
+    "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=12&type=2&year=2026"
   ],
-  "event_count": 12,
+  "event_count": 16,
   "events": [
-    {
-      "title": "”白鳥とコウモリ”安城特別展",
-      "url": "https://www.city.anjo.aichi.jp/event/hakuchou.html",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "令和8年度男女共同参画月間イベント",
-      "url": "https://www.city.anjo.aichi.jp/event/sankaku/2026gekkan.html",
-      "start_date": "2026-10-31",
-      "end_date": "2026-10-31",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
     {
       "title": "安祥ふれあいレクリエーション",
       "url": "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
@@ -100,6 +84,54 @@
       "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/2026shisui53.html",
       "start_date": "2026-11-29",
       "end_date": "2026-11-29",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "～琉球の調べ～沖縄三線コンサート",
+      "url": "https://www.city.anjo.aichi.jp/event/08chubu-ryuukyuunoshirabeokinawasanshinkonsa-to-.html",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "森谷ワカband JAZZライブ",
+      "url": "https://www.city.anjo.aichi.jp/event/seibuhureai2026winter-event.html",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-05",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "東部芸能まつり",
+      "url": "https://www.city.anjo.aichi.jp/event/syogaitobu/2026toubugeinoumatsuri.html",
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "市民公募文化事業「安城市少年少女合唱団第22回演奏会」",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/2026bgs22.html",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "市民公募文化事業「音楽でつながるクリスマスのひととき」",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/2026blume.html",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "北部こどもウィンターフェスタ",
+      "url": "https://www.city.anjo.aichi.jp/event/20261213hokubukodomowinntafesuta.html",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     }
