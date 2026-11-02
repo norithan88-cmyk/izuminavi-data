@@ -1,265 +1,227 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2071,
-  "estimated_minutes": 6.3,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2188,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "明治時代、農民が熱狂した岐阜の地芝居と並んで、地元新聞から「岐阜県の二大病害」と批判された名物は何でしょうか。1番、西濃の花火。2番、長良川の鵜飼。3番、みおんの早口言葉。",
-    "answer": "正解は1番、西濃の花火でした！農作業を放り出して全財産をつぎ込む人が続出したからなんだって。趣味に命をかけすぎやろー！",
-    "source_ids": [
-      10,
-      14
-    ],
-    "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF-Pt_JHmxLgGXc67O3H--yM9AqMocqem1nth-ZHCTr5d2um4saNsDInRQWpK9k8-vQS2O-_YkTGaICnEfLwO1ruUdxEawYfFoWwNjIvTaS5MJUnSltztTY86kb9p4WhgG9uJZwALUmkel9NK3ogoawFUIalVGC_yZHfluvTtPS5XA4JrCESg=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ApmoNpm-jcujQSyaE4wwLBolZJcbP_x6yRAqDp4hx0zrOCulZ5gRyiiCqMP0p_Jyfgl4-LeSLf7i8PI2ARFr1sqenBabOR2hE6ga7QXf-EmPQEJ1Y6LpjsUHLKK5_qD0"
-    ]
-  },
-  "izumi": {
-    "text": "みおんの神岡ディープ！今日は神岡の鉱山が迎えた、驚きの大変身についてやさ。神岡鉱山といえば、かつて三井金属鉱業が運営して、亜鉛や鉛、銀などを掘りまくっていた巨大な鉱山でした。でも鉱山の不況で人口が減って大津山や栃洞が集落ごと無人になり、2001年にとうとう採掘を終えることになったんです。普通なら、役目を終えた山奥の穴なんてそのまま放置されて終わりやろーって思うじゃないですか。みおんなら、使わなくなったガジェットを部屋の隅に山積みにして見ぬふりしちゃうタイプやけどね！…って、だちかん、だめな性格を暴露しとる場合じゃないやさ！神岡のすごいところはここから。なんと、掘り進めた地下の跡地をそのまま活用して、最先端の「スーパーカミオカンデ」を置いちゃったんです！えっ、穴の究極のリサイクルすぎん！？かつて金属を掘り出していた暗闇が、今や世界中から研究者が集まる最先端の舞台になっとるなんて、とんでもない大逆転やさ。今なら大成功の転職事例としてネットニュースのトップを飾るレベルやろー！役目を終えてもただでは終わらん神岡の地下は、本当に町のみんなの誇りやね！",
+    "question": "神岡のガッタンゴーで走る自転車には、ある嬉しい機能がついています。それは何でしょうか。1番、電動アシスト。2番、自動運転。3番、ロケットエンジン。",
+    "answer": "正解は1番の電動アシストでした！ロケットがついてたら宇宙まで飛んでってまうやさ！坂道もスイスイ進める親切設計なんやって。",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡"
+      "https://tabi-mag.jp/gi0335/"
+    ]
+  },
+  "izumi": {
+    "text": "やってきました、みおんの神岡ディープ！今日は神岡の秋を体感できる大人気アクティビティ、レールマウンテンバイク・ガッタンゴーに注目してみまい！2006年に廃止された神岡鉄道の線路を自転車で走るこの乗り物、実は2018年から旧漆山駅から二ツ屋トンネルまでの往復6.6キロを駆け抜ける渓谷コースが増えたんやさ。この渓谷コース、まさに11月初めの今が紅葉の見ごろ！赤や黄色に染まる山々を線路の上から眺められるなんて、贅沢すぎやろー！でも「往復6.6キロも自転車こいだら足がパンパンでえらい、疲れてまう…」って心配しとる人、おらん？安心して！今のガッタンゴーの自転車は、なんとすべて電動アシスト付き！ペダルをひと踏みするだけでグイッと前に進むから、体力に自信がない人でも息を切らさずに絶景を満喫できる親切設計なんやさ。昔の鉱山列車に乗っとった人たちに「令和の人間は線路の上を電動アシスト自転車で紅葉狩りしとるぞ」って伝えたら、びっくりして腰抜かすかもしれんよね！ちなみに水曜日はお休みやけど、秋の神岡の風を感じながら走る時間は最高やさ。使わなくなったレールをこんなにワクワクする場所に生まれ変わらせた神岡の工夫、めっちゃ誇らしいやろー！",
+    "source_ids": [
+      1
+    ],
+    "source_urls": [
+      "https://tabi-mag.jp/gi0335/"
     ],
     "angle": {
-      "id": "mine-after",
-      "hook": "鉱山が終わったあと、穴が世界の最先端研究の場所に。究極のリサイクル"
+      "id": "gt-autumn",
+      "hook": "渓谷コースの紅葉。電動アシストだから体力に自信がなくても大丈夫"
     }
   },
   "local": {
-    "text": "11月7日の土曜日に、道の駅スカイドーム神岡で「スカイドーム神岡感謝祭」が開催されますよ！神岡中学校の生徒が考案した、飛騨スパイスカレー研究所の協力による特別なカレーが販売されるんだって。市内産の有機野菜やお米、地鶏など地元の恵みが詰まった一皿、楽しみやね！",
+    "text": "神岡図書館で11月6日の金曜日に「としょかん喫茶よさり」が開かれるんやさ。本に囲まれてのんびり過ごす秋の夜、素敵やね。読書週間の寄り道にふらっと立ち寄ってみまい！",
     "source_ids": [
-      34,
-      35
+      27
     ],
     "source_urls": [
-      "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
-      "https://www.city.hida.gifu.jp/soshiki/57/88534.html"
+      "https://www.city.hida.gifu.jp/soshiki/31/88077.html"
     ]
   },
   "segments": [
     {
-      "topic": "焼き芋はなぜ「低温でじっくり」焼くと別次元に甘くなるのか？",
-      "text": "スーパーの店先から漂う焼き芋の香りに、ついフラフラ吸い寄せられる季節がやってきたやさ！でも、家で早く食べたいからってサツマイモを電子レンジでチンすると、なんだかパサパサしてあんまり甘くならんことない？これ、みおんも「レンジのパワー不足か？」って思っとったんだけど、科学的には完全に逆だったんです！実はサツマイモの中に、天然の飴工場ともいえる消化酵素「ベータアミラーゼ」が潜んどるんだって。この酵素が、温まって柔らかくなったデンプンを分解して甘い麦芽糖に変えてくれるの。ただし！酵素が働くのは60度から70度の間だけ！レンジで一気に加熱すると数分で75度や80度を突破して、酵素が「熱すぎてだちかん、もう働けん！」って壊れちゃうわけ。もったいない、おとましいことしとったー！一方、160度くらいのオーブンで中心を60度から65度に保ちながらじっくり焼くと、短時間で蒸したときの約2倍も麦芽糖ができるんだって！酵素がでんぷんを甘い蜜に変えまくってくれるの。石焼き芋が甘いのも、石の遠赤外線でこの温度を長くキープしとるからなんだよね。江戸時代の焼き芋屋さんも経験で見抜いとったらしいよ。お芋を焼くときは焦りは禁物！弱火でじっくり芋を育てまい！",
+      "topic": "爪切りの刃先はなぜピッタリ噛み合っていないのか？",
+      "text": "ところで、みんなの家にも絶対にある爪切り。じっくり刃先を観察したことある？実は、上の刃と下の刃って、真正面からピッタリ重なっとるわけやないんやさ！よーく見ると、ほんのミクロン単位で前後にわざとズラして作られとるんだって！えっ、ちょっと待って、不良品やないの！？って思うやろー？みおんも最初聞いたときは「職人さん、手元が狂ったんけな？」ってツッコミたくなったんやけど、実はこれ、切れ味を長持ちさせるための超ハイテクな工夫なんやさ。もし上下の硬い鋼の刃同士が真正面からガチンコでぶつかり合ったらどうなると思う？切るたびに刃先が激突してボロボロに摩耗して、あっという間に切れ味が落ちてだちかんようになるんやって！あえてわずかに前後にズラして交差させることで、衝撃を逃がして何年も鋭い切れ味をキープできるらしいよ。このズレは業界用語で「かぶり」って呼ばれとるんだって。そして家庭用爪切りの国内トップシェアを誇る貝印は、岐阜県関市に創業のルーツがある会社！鎌倉時代から続く刀鍛冶の「折れず、曲がらず、よく切れる」技術が、鋼材を約千度で熱したりバネ部分だけしなやかに戻したりして、年間数百万個もの爪切りに注ぎ込まれとるんやさ。爪切りひとつに名刀の魂が宿っとるなんて、爪を切る手がちょっと震えてまうよね！",
       "source_ids": [
-        18,
-        19,
-        20,
-        21
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFi105lwhEFYKOTPuDmgcfWYQQuMMoeDWNPNRctDfyDXJEghj7t1BvdsFkmBS4j43RmEfzFmpKynpT9HOMk63_16lynaFFPOCCRaBxsqAQt3zdm0iqMiY=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzbck7MlzDaWRjpNS1i7n3-99z2G6bk63Eusdrl9fq7cAASaOjenYvy9lE1jemwRHRI-nL5dYpDuzVe5KDo8NDO5bg_nknM_-MCszOCmtU0CCqciNuwcWlH05ZP9A=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqzzdaTsRGSWLixwBXNYYkoLuMWiZiK8RUarbbv_YsCcdMq1WmzOSSUgjup4Axj3uttBxt3DciCOnoyq9SAyswlbiiaorPtJ-0do4DsHdf2uld0Gg=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_i7EegPtQSenllqSgWEDF89ycYyUXpx5YM96MH21ORw7KHGyfwUfAt57bSpmwoRXgTaK8UB-umD-pFrm7bXY-7txveGZH3MUs8TgU8v8x39HGLLdg6TIQs7LCcZF74Z5Mba4f"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeDHiQ6WJ-kx3_1XmfFRVzdyF-cp20McxtGxq6Qz5_hcfgpPrq9xmBnhpzQhfjsz9nHCMXXJ7CESPOpXfND5pjiSJ0COLFHL8YlSWWjfWIGhKX9LtEyru_EPO4pTDKpO0SnqtMWiB6Ck2DHe4QHCYb3Bhnmju92Qg=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJHarIKLMmC-0YeCqsuBMvSkDqcqkCiOJGEKuZ88RiWYqOCWkYZozV8BWiatYxTqn0KrQBO7x8knTQS7bRsFdR3RiLfHFDclDu9km185VHYLpVEjwResivJSwNChhoXuaTCsPGorH-7IyPM9M6dw=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkF0viqwdPz8tKkTAx5Rv0YoLhMemztAnT5kQRycP6rHruftVEYGApbt0j7eNnuxHvFDZxpTF4gfU_HCHFIJQ_M_rK-B1xL__R7tSyhNHj7oiUPVyQt5cY6q8xyz310YTcXhra5KWw5tzqYnCIDy1i-jpR",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3Jq4k9CHzosU_lzT0IqnJktZ0TkHBemKT3MXYleT6MiF8TcNOyBmX9g9jlE2YaNuVnL5tr0tafHOjmdX_ezJOaPUX9NEpE1LRi-u6UUutpIVljc9AA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbAD5LebbyFJMv6CglhTUnksNqDIfvfZMU-KJ1JztgQcTdPa690PEt-g2rfsIil72481z8ZRDLXazI4jok1qRDS2Q-iXpZb54U5lxvdE3I_4t_ZltTv1wXHkzoslbPD-6OxmUwAzgPQmdvIFVRuPZO"
       ]
     },
     {
-      "topic": "冬の夜空の星はなぜ「チカチカ・キラキラ」瞬くのか？",
-      "text": "お芋でお腹いっぱいになったところで、今度は夜空を見上げてみまい！神岡の澄んだ夜空って本当に綺麗だけど、これからの季節、星が夏よりも激しくチカチカ瞬いて見えん？あれ、星自身が点滅しとるわけじゃないんだって！犯人は地球を包む大気やさ。冬は上空のジェット気流が強くなって、冷たい空気と暖かい空気が混ざり合って空気の渦ができるの。その揺れる層を星の光が通るとき、お風呂の水底みたいに光が複雑に曲がって、地上のみおんたちの目にはチカチカ瞬いて見えるんだって！しかも面白いのが、瞬く星と全く瞬かない星があること。何光年も遠くにある恒星は点として見えるから、空気の揺れで激しくまたたくの。でも地球に近い木星や金星みたいな惑星は、実は小さな面として光が届くから、空気の揺れを打ち消し合って、冬でも落ち着いて光っとるんだって！えっ、動じずに光っとる星は惑星だったの！？ちなみに宇宙から見ると、星はまったく瞬かず画鋲みたいに止まって見えるらしいよ。今夜星を見上げたら、「あいつは瞬いとるで恒星、あっちは落ち着いとるで惑星やな」ってドヤ顔で教えてあげまい！",
+      "topic": "薄い紙1枚なのにカーテンより暖かい！？障子の断熱マジック",
+      "text": "刃物の町・関市の話が出たついでに、今度は岐阜の伝統が生んだ住まいの知恵にいってみまい！朝晩が冷え込んできて、暖房をつける日も増えてきたよね。冬の部屋の熱って、実は半分以上が窓から逃げていってしまうんやさ。そこで「寒さ対策には分厚いカーテンやろ！」って思いがちなんやけど、実は昔ながらの「紙の障子」のほうが断熱性能がずっと優秀っていう驚きの実験データがあるんやって！うそでしょ、あんな指で突いたら破れるペラペラの紙1枚やよ！？ってツッコミたくなるよね。でも建築研究所などの数値を見ると、普通のガラス窓に厚手カーテンをつけた場合と比べて、紙障子を組み合わせた窓は逃げていく熱の量が約半分、つまり断熱性が約2倍になるらしいんやさ！なんでそんなことが起きるかというと、カーテンはどうしても上下や左右に隙間ができて、窓辺で冷やされた冷たい空気が足元にスーッと滑り落ちてくるんやね。でも障子は窓枠の内側にピタリと隙間なくハマるやろ？するとガラスと障子の間に「密閉された動かない空気の層」ができるんやさ。空気って実は熱を伝えにくい最高の断熱材だから、冷気をガッチリ遮断してくれるんだって！美濃和紙で有名な岐阜の先人たちは、光を通しつつ雪国の寒さを防ぐ究極のエコ建具を何百年も前から使っとったんやね。障子を見直して、破いた穴をテープで塞ぎながら冬を乗り切ろまい！",
       "source_ids": [
-        24,
-        28
+        14,
+        15,
+        16,
+        17,
+        18
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Mcl3NmELkGxPuJnUbN_t9Oq2rHjJzYWtbN4be2JZSi6zn31JwJXxBSOt0ultza-fnAgKSFIL0uSfDv2XS8PIFL2mpPSI88HMooooarue3wb8IFVuwzviWE0qhex6Uva8Y76bqUVd3q0=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBBwt-ak-jGHvwzPnzj3Bek_zbmBpOuRLwAaaY4xL4vaGeSP-SxQ8fDbiJ4ENvzXb2Thj8BCtiL3wBWr55ZBT0BV-lRzB3881k7AiqunSNx7alzO1Sn0jzg67VEVyfj24mepzW4WNPpwG_6zBIA8PdunW2bqtnoTgyR3J3hVIM1FThzwAMGw=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkywjsTmiGgb0bc9lPOgeeNeNvf6amzAgxYnZYbHVJ9TyA1EOlJpGXeLzsmWLx720rchm_L6KdXNW-oM2Z0k2auzjqmm65_ZtuG39aywprsnTFREjxYN6-4k8v3ZSzAT7Y4pS3HoqxJO-XiYyYPwNVvEjv4RpUQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDwnzihsT-qLqoMZuqyWIBLDM9u9icbqrryHZFxMF63rkvmDt5bfMypGwMtXbxqhditjhtIIBoX2ED0EzzBXSYEwYQBuWgll2V1kp6ZRw94blQVV4TgtZgEkpbx7od",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSSLV_TlLGZ9ZaYkSJsoIT14HztqQt7WkM2FQTrqMCuizneAXHsHYKcRanlhQzLoUBWR_Gj1bEkSisHBHKwtzhcokWd6TsSZ3M86vmCkR6s694FXV262lHRmKA",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaX6M_GwqOTeWBX-VWYA8TGkMPk4-7RHbJuDT_8PMhT1KCOf_65KBaaOfvqe0TRCGmWsFkcIPBqkaDwclHsbsnEcZpyN1IkwMSPlVYvDkriSs3H0LoQnO0hNmB_EI2_0clZ-w5E0EkcZnyNV4RshKZXzNofnlh_QSq",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGdufd9dBjQrvlbjihIfg0AyP3eAx_R0bHiES0lzuu9SNr2MxBMijE6p5vUpQ4m8Hs0ddIrV7APXp1YWIMeyMNblWJLNSWm9Rzw1HgFRwu5bExbs8irvsRRdsxJgpAyFWoN4dTT92eDHYwTUvPUdBSpg7xWuRW3hSjBwDF5BQv580yO6sZeJyrKbFZoal1so6xV4F4k7gFlKV-BO-C2eF2xAWnBdJcknUVAmUxswyMTT8A5_q4DutVJC0pi7-pN4U5CtUoX8bCOWD7WASDnjT7H6M2Bm1JhhZlTPS_Da-D5njvfZG9GckwETY7OQQvZ2-UZNLfiY7pM6IJiPxy4uUMmvRSHwFDreqEjAXh3vF3De7BJhkUV3FjIAS0EzHzAws="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ放送用として、リスナーが家族や友人に話したくなる「へえ、そうだったのか！」という季節・趣味・ゆったりした話題の調査メモを作成しました。岐阜県・飛騨地域にまつわる歴史・文化の話題を中心に、晩秋の食卓や夜空の観察に役立つトピックを揃えています。\n\n---\n\n# 地域ラジオ用調査メモ（季節・趣味・ゆったりした話題）\n\n---\n\n### テーマ1：なぜ1300年前の紙が破れず残っている？ 〜正倉院に眠る「美濃和紙」の超耐久性〜\n\n* **リスナーの疑問**  \n  「本や新聞紙は数十年から100年もたつと黄色くボロボロになるのに、なぜ奈良時代の紙が1300年後の今も読める状態で残っているの？」\n* **理由**  \n  近代の洋紙（木材パルプ製）は製造過程で酸性薬品（硫酸バンド等）が使われてきたため、自らの酸で繊維が分解・劣化しやすい性質があります。一方、岐阜県の伝統工芸である「美濃和紙」をはじめとする手漉き和紙は、良質なコウゾ（楮）の長い靭皮繊維を灰汁（アルカリ性）で煮て処理し、植物性の糊（トロロアオイ）とともに「流し漉き」で縦横に繊維を絡み合わせます。不純物が少なく弱アルカリ〜中性を保つため、1000年以上の時を経ても酸化分解が極めて起こりにくいのです。\n* **具体的な数字や比較**  \n  「洋紙は100年、和紙は1000年」といわれます。19世紀中頃に印刷された洋紙の書籍の多くが劣化に悩まされているのに対し、奈良の正倉院に現存する日本最古の紙は、西暦702年（大宝2年）の「御野国（みののくに）加毛郡半布里（現在の岐阜県加茂郡富加町周辺）の戸籍用紙」です。1320年以上前（2026年時点）の文字や紙面が、修復可能な状態で鮮明に残っています。\n* **意外な点**  \n  正倉院には美濃のほか筑前・豊前（現在の九州）の戸籍用紙も保管されていますが、なかでも美濃で作られた紙は「漉きムラが最も少なく、当時の全国で最も技術水準が高かった」と記録されています。職人の手作業による美濃和紙は、年月が経つほどにむしろ独特の白さとしなやかさを保ち続けます。\n* **歴史の裏話**  \n  江戸時代、美濃和紙は障子紙の最高峰として江戸幕府の御用紙に指定され、「美濃判」という公定規格が生まれました。これが明治以降の公文書や日本工業規格（B4判など）の基礎となりました。近年でも東京2020オリンピック・パラリンピック競技大会の入賞者に授与された表彰状に「美濃手すき和紙」が採用され、世界のアスリートへ贈られました。\n* **出典・根拠**  \n  * 外務省「美濃和紙について」（2021年）  \n  * 文化庁 文化遺産オンライン「本美濃紙」  \n  * 岐阜県富加町「奈良正倉院に残る最古の戸籍」（2019年）  \n  * 美濃和紙の里会館「美濃和紙の歴史」\n\n---\n\n### テーマ2：なぜ岐阜県は「地歌舞伎」日本一？ 〜山村を熱狂させた芝居小屋のミステリー〜\n\n* **リスナーの疑問**  \n  「歌舞伎といえば大都市の銀座や劇場のイメージがあるけれど、なぜ岐阜県の山あいの村々にプロ顔負けの本格的な芝居小屋がたくさん残っているの？」\n* **理由**  \n  江戸時代、中仙道などの要衝を抱えていた美濃・飛騨には、名古屋や上方を行き来する旅役者の一座が数多く巡業（請芝居）に訪れました。これに熱狂した農村の人々が、見ているだけでは飽き足らず、旅役者に直接頭を下げて化粧や振付を習い、自ら山から木を切り出して舞台を建て、住民総出で演じるようになったためです。\n* **具体的な数字や比較**  \n  1971年（昭和46年）に岐阜県教育委員会が実施した緊急調査によると、県内で確認された農村舞台の数は「264棟」で全国最多を記録しました。また、現在活動している地歌舞伎保存団体の数は全国最多の30団体以上（全国約230団体のうち岐阜県が最多）を誇り、江戸〜明治期に建てられた本格的な芝居小屋が県内に9軒現存しています（下呂市の「鳳凰座」「白雲座」、中津川市の「かしも明治座」など）。\n* **意外な点**  \n  明治時代、新政府は「農民が怠惰になり風俗を乱す」として地芝居を厳しく禁止・取り締まりました。しかし村人たちの芝居熱は冷めず、「公会堂（集会所）」という名目で役所の目をかいくぐりながら立派な芝居小屋を建設し続けました。また、東京などの大歌舞伎の本流では失われてしまった幻の演目や古風な振付が、岐阜の山村にだけ口伝で残されています。\n* **歴史の裏話**  \n  1886年（明治19年）の地元新聞（岐阜日日新聞）には、「東濃の地芝居と西濃の花火は岐阜県の二大病害（大きな悩みの種）である」という批判記事が掲載されるほどでした。農繁期そっちのけで稽古に励み、家を傾けるほどおひねりや衣装代を注ぎ込む熱狂ぶりが、行政や新聞を本気で悩ませていたのです。\n* **出典・根拠**  \n  * 岐阜県環境生活部文化創造課「地歌舞伎推進プログラムについて」  \n  * 岐阜県地芝居WEB「地芝居の歴史」  \n  * 文化庁『全国の地芝居（地歌舞伎）調査報告書』（2015年）  \n  * 岐阜女子大学 地域文化研究所紀要「地芝居の興隆過程と現状」\n\n---\n\n### テーマ3：焼き芋はなぜ「低温でじっくり」焼くと別次元に甘くなるのか？ 〜秋の味覚を操る酵素の科学〜\n\n* **リスナーの疑問**  \n  「サツマイモを電子レンジで手早く温めてもパサパサしてあまり甘くならないのに、石焼き芋やオーブンで時間をかけて焼くと蜜のように甘くなるのはなぜ？」\n* **理由**  \n  サツマイモ自身に含まれる消化酵素「β-アミラーゼ」が、熱によって糊化（水分を吸って柔らかくなった）デンプンを分解し、甘味成分である「麦芽糖（マルトース）」に変換するためです。この酵素が活発に働く温度帯（約60℃〜70℃）をいかに長く通過させるかが、甘さを引き出す決定的な要因となります。\n* **具体的な数字や比較**  \n  掘り出した生のサツマイモには麦芽糖はほとんど含まれていません。電子レンジで加熱すると数分で芋の中心温度が急上昇し、75℃〜80℃を超えて酵素が熱で壊れてしまう（失活する）ため、麦芽糖があまり作られません。一方、160℃程度の低温オーブンなどでサツマイモの中心温度を60℃〜65℃前後に保ちながらじっくり加熱した場合、短時間で蒸したときと比べて麦芽糖の生成量が約2倍に達することが分析によって明らかになっています。\n* **意外な点**  \n  石焼き芋からあふれ出るシロップのような蜜は、後から砂糖を加えたものではなく、「サツマイモ自身の消化酵素が、自分のでんぷんを分解して作り出した天然の麦芽糖」です。つまり、芋の中に天然の飴工場が存在しているような仕組みです。\n* **歴史の裏話**  \n  冬の風物詩である「石焼き芋」。小石を熱して芋を焼く手法は、小石から放出される遠赤外線によって表面を焦がさずに熱を内部へとじわじわ伝え、「内部温度60℃〜70℃」の酵素活性ゾーンを長時間維持するという、科学的に極めて合理的な調理法です。江戸時代の焼き芋屋（「栗（九里）よりうまい十三里」）の時代から、庶民の職人たちは科学の知識がない時代から経験則だけでこの至適温度を見極めていました。\n* **出典・根拠**  \n  * 一般社団法人 日本いも類研究会「Q 焼きいもが甘いのはなぜですか？」  \n  * 国立研究開発法人 農業・食品産業技術総合研究機構（農研機構）「サツマイモの甘さ・でん粉特性に関する研究資料」  \n  * 食環境衛生研究所「『さつまいも』の甘みは？⇒麦芽糖(マルトース)!!」（調理法別麦芽糖量分析）\n\n---\n\n### テーマ4：冬の夜空の星はなぜ「チカチカ・キラキラ」瞬くのか？ 〜澄んだ空気と大気のいたずら〜\n\n* **リスナーの疑問**  \n  「晩秋から冬にかけて、神岡の夜空を見上げると星が夏よりも激しくキラキラと瞬いて見えます。星自身がピカピカ点滅しているのでしょうか？」\n* **理由**  \n  星そのものが点滅しているのではなく、地球を包んでいる「大気（空気の層）」が原因です。冬は日本上空を流れる偏西風（ジェット気流）が強まり、冷たい空気と暖かい空気が激しく混ざり合って大気の乱気流が発生します。密度の異なる空気の層を星の光が通過するとき、まるでゆらぐ水底のように光が複雑に屈折を繰り返す（大気のシンチレーション）ため、地上にいる私たちには星が激しくまたたいて見えます。\n* **具体的な数字や比較**  \n  夜空を見上げたとき、激しく瞬く星と、まったく瞬かない星があることに気づきます。何光年も離れた「恒星」（シリウスやオリオン座のベテルギウスなど）は、地球から見ると視直径が極小の「点（点光源）」にしか見えないため、細い光の筋が大気のわずかな揺らぎでズレて激しく明滅します。一方、太陽系の「惑星」（木星や火星、金星など）は地球にずっと近いため、望遠鏡で見ると円盤状の「面（面光源）」として光が届きます。面全体の光が大気の揺れを互いに打ち消し合うため、惑星は冬でも瞬かず、ジッと落ち着いて光り続けます。\n* **意外な点**  \n  大気のない宇宙空間から宇宙飛行士が星を見ると、星は一切瞬きません。ピカリとも揺れず、まるで冷たい画鋲のように静止して光っています。私たちが美しいと感じる「星のまたたき」は、地球に豊かな空気と風が渦巻いている証拠なのです。\n* **歴史の裏話**  \n  見上げる私たちにはロマンチックな「星のまたたき」ですが、天文学者にとっては観測像をボケさせる「最大の敵（シーイングの悪化）」でした。そこで、空気の揺らぎを避けるためにハワイのマウナケア山頂（標高4200m）など高い山の上に天文台を建設したり、レーザーで大気の歪みを測定して鏡の形を1秒間に数百〜数千回変形させて揺れを打ち消す「補償光学（アダプティブ・オプティクス）」というハイテク技術が生み出されました。さらには「大気の外に出てしまえ」と打ち上げられたのが、ハッブル宇宙望遠鏡やジェームズ・ウェッブ宇宙望遠鏡です。\n* **出典・根拠**  \n  * 国立科学博物館「宇宙の質問箱（恒星編・天体の見え方）」  \n  * 国立天文台（NAOJ）「すばる望遠鏡：補償光学とシーイング解説」\n\n---\n\n## 番組内連動：3択リスナークイズ案（テーマ2「地歌舞伎」より）\n\n**【問題】**  \n明治時代、農村の人々が農作業も忘れて地歌舞伎に夢中になったため、明治政府は「風俗を乱し、怠惰になる」として厳しく取り締まりました。  \n当時の地元新聞（岐阜日日新聞）が、岐阜県が抱える「二大病害（頭を抱える二大お悩み）」として、「東濃の地芝居」と並べて厳しく批判した、もう一つの岐阜の熱狂的な名物は何だったでしょうか？\n\n* **1番：長良川の「鵜飼（うかい）」**\n* **2番：西濃の「花火」**\n* **3番：飛騨の「どぶろく」**\n\n---\n\n**【正解】**  \n**2番：西濃の「花火」**\n\n**【解説トークのポイント】**  \n1886年（明治19年）の岐阜日日新聞に「東濃の地芝居と西濃の花火は岐阜県の二大病害である」という記事が実際に載りました。  \nどちらも地域の人々が農作業をほったらかしにして全財産をつぎ込むほど熱狂したため、お役所や新聞から本気で危険視されていたそうです。当時の岐阜の人々の「楽しむことへの並々ならぬ情熱」が伝わってくるエピソードです。",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、「暮らしの知恵・身近な工夫」をテーマとした調査メモを作成しました。本日（日本時間2026年11月2日・月曜＝家計の日）の放送でそのまま活用できるよう、公的機関や専門メーカーの公表資料に基づいて整理しています。\n\n---\n\n# 【ラジオ放送用調査メモ】暮らしの知恵・身近な工夫（2026年11月2日・月曜）\n\n---\n\n## 1. 【家計の日】11月の食品値上げ動向と、調味料＆暖房のやりくり豆知識\n*今月は秋の値上げラッシュが一服？ でもマヨネーズやソースが値上がり！ 家計の知恵でどう乗り切る？*\n\n- **今月の値上げ動向（帝国データバンク公表資料）：**\n  帝国データバンクが2026年10月30日に発表した「『食品主要195社』価格改定動向調査 ― 2026年11月」によると、2026年11月の飲食料品値上げは**合計1,477品目**となりました。3カ月ぶりに3,000品目を下回り、秋口（9〜10月の2カ月間で約8,000品目）の激しい値上げラッシュは一服した形です。ただし、前年11月（150品目）の約10倍の高水準であり、年間累計（1〜12月判明分）は**2万327品目**と、2年連続で年間2万品目を突破しています。\n- **値上げの理由と最多分野：**\n  分野別で最も多いのは、マヨネーズやソース類をはじめとする**「調味料」（644品目）**で、全値上げ品目の4割強を占めています（次いで清涼飲料・コーヒーなどの「酒類・飲料」417品目）。値上げ要因は「原材料高」が91.7%と依然高いものの、電気代などの「エネルギー」が63.9%、賃上げなどの「人件費」が51.5%（過去最高水準）と、複合的なコスト上昇が理由となっています。\n- **家計のやりくり豆知識（身近な工夫）：**\n  - **調味料の「目分量」をやめる：** 日常の料理で調味料を目分量で入れると、計量スプーンで正確に測った場合に比べて1.2〜1.5倍多く使いがちになります。大さじ・小さじで測る習慣をつけるだけで、調味料の消費を2〜3割抑えることができます。\n  - **エアコン暖房は「風量自動」＋「風向き下向き」：** 朝晩の冷え込みが厳しくなる神岡町でも役立つ工夫です。空調大手ダイキン工業の技術資料によると、エアコンは最も電力を食うのが「設定温度まで到達させる時間」です。最初から「弱風」にすると部屋が暖まるのに時間がかかり余計に電気代がかさむため、**「風量は自動」**が最も省エネになります。また、暖かい空気は上へ昇る性質があるため、**ルーバーを「下向き」**にして床面へ温風を送り、足元の冷えを防ぐことで、設定温度を控えめ（1℃下げると約10%の節電）に保つことができます。\n\n---\n\n## 2. 【岐阜の刃物技術】爪切りの刃はなぜ「わざと少しズレている」のか？\n*爪切りの国内トップシェアは岐阜県関市！ 刃がピタリと噛み合わない驚きの理由*\n\n- **疑問：**「爪切りの刃先をよく見ると、上下の刃が完全に重ならず、ほんの少し前後にズレているのを知っていますか？」\n- **理由（仕組み）：**\n  爪切りの上下の刃は、ピッタリと正面衝突するように噛み合っているわけではありません。もし刃先同士が真正面から激突すると、硬い刃先同士がぶつかり合ってすぐに摩耗・変形し、切れ味が落ちてしまいます。そのため、職人や製造ラインの工程で、上刃と下刃を**あえてミクロン単位で前後にわずかにズラして重なる**ように設計されています（このズレを業界用語で「かぶり」と呼びます）。\n- **具体的な数字や技術：**\n  国内の家庭用爪切りでトップシェアを誇るのが、岐阜県関市に創業のルーツを持つ刃物メーカー「貝印」です。関市の工場などでは年間数百万個、400種類以上の爪切りが作られています。爪切りは鋼材を約1000度で加熱・急冷して刃の硬度を上げた後、持ち手のバネとなる部分だけを高周波で温めてしなやかさを残す「部分戻し」を行うなど、1本に高度な金属加工技術が注がれています。\n- **歴史の裏話：**\n  岐阜県関市は鎌倉時代から良質な松炭や長良川の水に恵まれ、名刀が生まれる刀鍛冶の町でした。明治時代の廃刀令後、刀鍛冶の「折れず、曲がらず、よく切れる」技術が日用のポケットナイフやカミソリ、爪切りへと転換され、現在では世界の三大刃物産地（ドイツ・ゾーリンゲン、イギリス・シェフィールド、日本・関市）の一つとして世界中に輸出されています。\n\n---\n\n## 3. 【住まいの知恵】薄い紙1枚なのに！「障子」がカーテンより断熱性に優れるワケ\n*美濃和紙の岐阜が生んだ伝統建具！ なぜガラス窓に障子を閉めると寒くないのか？*\n\n- **疑問：**「紙1枚の障子が、厚手のカーテンよりも窓の冷気を防ぐって本当？」\n- **理由（科学的な仕組み）：**\n  冬の室内の熱は、約50%以上が窓などの「開口部」から逃げていきます。厚手のカーテンは布地自体に断熱性があっても、窓の上下や左右に隙間ができるため、冷やされた窓辺の空気が下から部屋へ滑り落ちて足元を冷やす「コールドドラフト現象」が発生します。一方、障子は窓枠の内側にピタリと隙間なく納まります。その結果、窓ガラスと障子の間に**「密閉された動かない空気の層」**が形成されます。空気は物質の中でも極めて熱を伝えにくい性質（優れた断熱材）を持つため、部屋の暖気が逃げるのを強力に防ぎます。さらに障子紙自体も冷気で繊維が引き締まり、通気を抑える働きがあります。\n- **具体的な数字・比較（建築研究所等の評価）：**\n  建物の断熱性能を示す「熱貫流率（U値：数値が小さいほど熱が逃げにくい）」で見ると、単板ガラス窓に厚手カーテンを取り付けた場合の熱貫流率が約10〜12 W/(m²・K)であるのに対し、紙障子を組み合わせた窓は約5.5 W/(m²・K)と、**逃げていく熱の量が約半分（断熱性が約2倍）**になります。\n- **歴史の裏話：**\n  岐阜県は「美濃和紙」という日本を代表する和紙の伝統産地です。平安末期から室町時代にかけて書院造とともに普及した障子は、外からの視線を遮りながら光を拡散して部屋の奥まで明るくし、同時に雪国の厳しい冷気を遮断するという、先人たちが生み出した究極の「自然エネルギー活用建具」でした。\n\n---\n\n## 4. 【雪国の食の知恵】雪に埋めると野菜が甘くなる「不凍液」の奇跡\n*神岡や奥飛騨の雪の下でも！ なぜ「雪中野菜」は果物のように甘くなるのか？*\n\n- **疑問：**「雪の下に埋もれたキャベツや大根などの雪中野菜は、なぜメロン並みに甘くなるのか？」\n- **理由（植物の防寒システム）：**\n  植物は、自らの細胞内の水分が凍ってしまうと、氷の結晶で細胞が破壊されて枯れてしまいます。そこで氷点下の寒さに直面した野菜は、凍結を防ぐために体内のデンプンを分解し、「ブドウ糖」や「ショ糖」といった糖分に変えて細胞液の糖度を高めます。水に砂糖を溶かすと凍る温度が下がる「凝固点降下」と同じ原理で、野菜は**自ら“天然の不凍液”を作り出して生き延びようとしている**のです。\n- **具体的な数字・比較：**\n  通常のキャベツの糖度は約5〜6度程度ですが、雪の下で越冬させた「雪中キャベツ（雪下キャベツ）」は**糖度9〜10度近くまで上昇**し、芯の周りでは15度前後（メロンや甘いイチゴに匹敵するレベル）に達することもあります。さらに雪の中は外気が氷点下マイナス10度を下回っても、常に「温度0℃前後・湿度ほぼ100%」に保たれるため、乾燥せず瑞々しさと旨味成分（アスパラギン酸などのアミノ酸）が凝縮されます。\n- **歴史・地域の裏話：**\n  神岡町の山之村をはじめとする飛騨の高冷地・豪雪地帯では、昔から冬の厳しい積雪を活かし、秋に採れた大根や白菜を雪の中に埋めて保存してきました。もともとは雪で閉ざされる冬を乗り切るための「保存食の知恵」でしたが、近代の農学・科学研究によって「野菜が自らの防寒本能で極上の甘みを生み出す理想の貯蔵法だった」ことが証明されました。\n\n---\n\n## 【リスナー参加型 3択クイズ】（話題2：爪切りより）\n\n**【問題】**\n毎日何気なく使っている「爪切り」。国内シェアトップの刃物メーカー・貝印（岐阜県関市創業）の爪切りには、切れ味を長持ちさせるための職人の秘密があります。上下の刃には、一体どんな工夫が施されているでしょうか？\n\n- ① 上の刃と下の刃を、あえて少しだけ前後にズラしている\n- ② 切った爪を引き寄せるため、刃の先端に強力な磁石がついている\n- ③ 摩擦熱を冷ますため、刃の隙間から常に微量の油がにじみ出ている\n\n---\n\n**【正解】**\n**① 上の刃と下の刃を、あえて少しだけ前後にズラしている**\n\n**【解説】**\n上下の刃先が真正面からぶつかり合うと、硬い金属同士の衝撃ですぐに刃先がボロボロになり、切れなくなってしまいます。そのため、ほんのわずかに前後にズレて噛み合うよう微調整されています（このズレを業界用語で「かぶり」と呼びます）。関の刀鍛冶から受け継がれた繊細な刃物技術が、毎日の爪切りにも活かされています。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%98%9F+%E7%9E%AC%E3%81%8F+%E7%90%86%E7%94%B1+%E6%81%92%E6%98%9F+%E6%83%91%E6%98%9F+%E5%9B%BD%E7%AB%8B%E5%A4%A9%E6%96%87%E5%8F%B0&client=app-vertex-grounding&safesearch=active\">星 瞬く 理由 恒星 惑星 国立天文台</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C+%E5%9C%B0%E6%AD%8C%E8%88%9E%E4%BC%8E+%E6%97%A5%E6%9C%AC%E4%B8%80+%E8%8A%9D%E5%B1%85%E5%B0%8F%E5%B1%8B%E6%95%B0+%E5%B2%90%E9%98%9C%E7%9C%8C+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">岐阜 地歌舞伎 日本一 芝居小屋数 岐阜県 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99+1300%E5%B9%B4+%E6%AD%A3%E5%80%89%E9%99%A2+%E5%BE%A1%E9%87%8E%E5%9B%BD%E6%88%B8%E7%B1%8D+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">美濃和紙 1300年 正倉院 御野国戸籍 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%84%BC%E3%81%8D%E8%8A%8B+%E4%BD%8E%E6%B8%A9+%E3%81%98%E3%81%A3%E3%81%8F%E3%82%8A+%E7%94%98%E3%81%84+%E7%90%86%E7%94%B1+%E9%BA%A6%E8%8A%BD%E7%B3%96+%E8%BE%B2%E7%A0%94%E6%A9%9F%E6%A7%8B&client=app-vertex-grounding&safesearch=active\">焼き芋 低温 じっくり 甘い 理由 麦芽糖 農研機構</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C%E7%9C%8C+%E9%A3%9B%E9%A8%A8+%E9%9B%AA%E4%B8%AD%E3%82%AD%E3%83%A3%E3%83%99%E3%83%84+%E8%B6%8A%E5%86%AC%E9%87%8E%E8%8F%9C+%E5%AF%92%E5%B9%B2%E3%81%97&client=app-vertex-grounding&safesearch=active\">岐阜県 飛騨 雪中キャベツ 越冬野菜 寒干し</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3+%E6%9A%96%E6%88%BF+%E9%A2%A8%E5%90%91%E3%81%8D+%E4%B8%8B%E5%90%91%E3%81%8D+%E3%83%80%E3%82%A4%E3%82%AD%E3%83%B3+%E9%9B%BB%E6%B0%97%E4%BB%A3&client=app-vertex-grounding&safesearch=active\">エアコン 暖房 風向き 下向き ダイキン 電気代</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81195%E7%A4%BE+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91+11%E6%9C%88&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要195社 価格改定動向 11月</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%96%A2%E5%B8%82+%E7%88%AA%E5%88%87%E3%82%8A+%E3%82%B7%E3%82%A7%E3%82%A2+%E5%88%83%E7%89%A9+%E4%BB%95%E7%B5%84%E3%81%BF&client=app-vertex-grounding&safesearch=active\">関市 爪切り シェア 刃物 仕組み</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9B%AA%E4%B8%AD%E9%87%8E%E8%8F%9C+%E7%94%98%E3%81%8F%E3%81%AA%E3%82%8B+%E7%B3%96%E5%BA%A6+%E4%BB%95%E7%B5%84%E3%81%BF+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+OR+%E5%B2%90%E9%98%9C%E7%9C%8C&client=app-vertex-grounding&safesearch=active\">雪中野菜 甘くなる 糖度 仕組み 農林水産省 OR 岐阜県</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9A%9C%E5%AD%90+%E6%96%AD%E7%86%B1%E5%8A%B9%E6%9E%9C+%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B3+%E6%AF%94%E8%BC%83+%E7%AA%93+%E6%9E%97%E9%87%8E%E5%BA%81+OR+%E5%A4%A7%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">障子 断熱効果 カーテン 比較 窓 林野庁 OR 大学</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPWCXhDUH0LaOclQL-OecN4shSq07PJP-peF48Oy9dHBOL-mLdPHg_HWkRGeGlc07SthfKXDWx38bQ2-jwstKDaULd9M5BCUbo2bCdsmybIKn4QcQg3zJ0HEPfSpHdVMmS9CTf",
-          "title": "furukawashiko.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGB-CoYVzOJyqWYDoEbwriig1mNeIudwnvvgtuI9EAjmWCQWxxY_3Vy72s1G9HexXG__Zn-rsj6QyBfFR_VVNwB1GQNretQJeJd3N7WAnGVdw4D6Kfl_oel2y3u3rYm-wlkKlfZbQOOcyfT763wp6E=",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCiSid_O9l0l1RFFUg6dgaPO1i2r22-ElsUA-9wCJlIe3fCdMKenvW8tnMahiTePwxwt9ZTlASMRTwVknOnE_RRdIEmYJNwObjMbT380onwdKzx_xjHhy-Y1Upcd-wf2AOqxQS7hsGr6_bQlTX-T8ZAg==",
-          "title": "mofa.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPlozhmwblSfLrs8dL_lJZMN7rDJt_0sSoid_FpEaA33M5gL5hPPRPjR_azegLig5Zady-zfvd-5KSCgOP7jBxJoS-LxMZpKyC-MiSB47OxpsOljA=",
+          "title": "crane-asset.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9wrjdt-BmpxIdTwTyPEWPT0PEhKipb5fMWuIPGVnc-ncr_s-BjLfGgJTtQ6C_WtKoW9lIoI0YGPWxQ_5FmzKl0X4SQ37tuD8fYdTatKyNyKjzoUuQ6wdJKM0SaB3aiWnj6J3B",
-          "title": "kogeijapan.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2TyFum-Jvbn8qHC6iLQmuHSjtUGv8__wq5vokAuLQGx4pguix7LGSoF0GBA5BMhVO-bU6PmRUj-XzaBdazmSzmIj6XwEUBs6-KZtYFr1XXc8kKeYLmbE=",
+          "title": "logi-today.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuMALeFSrTZ50rN6jfONdA3ARU6yB41GCVO5-5fXdFFQIKriiXIKDf-zfw2nQjJxkbYmKycU1u-jUVgQotZenpPLB_rGBqTaJ5Oz8r783NdL_M7vukju_xqUCNuH4zkGXcZoKhiY6U8auGfA==",
-          "title": "city.mino.gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGSuzdyeurJBGg5g56fguYmHxiPlug7xtNO5QU88IAYf0_Q7wAlJqlB9sl51_nIhbpu0WmfXujaAG22xIocL1X3mhKRdQ0bNneTp4-JMixvNGT1yT2TEzFN8D8JNHG18ZXn7Q4jEuY",
+          "title": "jo-epco.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGSL40ktoo11jLizR0dfxbMs2UtcOzBuItFn61QJJe1eqn5s6T5b2pSEOwFBE7iplo4Oa1ksshMyw-179Ddljz-fU3v9a4HjOfhAkZXDlk6CudgAw-_YDsV6GXCANRNc06Sj8=",
-          "title": "town.tomika.gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyqji9ZJESr7FVEEB3QfJSwVz_qP8joeKFqpDqx0_dIGUQR99QG7W7NunRFoqJZhzz1aeJSi1unWNGgk4H6rtT2O30EcO9h5ZrNVAwc_0trfjd0H7tYPPrcQZN5-tYF_hTdkE=",
+          "title": "daikin.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKUbYxNC-DkK8Pu1dFyqY9lyKKaN1nf3F0kijAMEN3CNBIqXlvRCAIXI9vvilro4JNn2UKpS7d0NS01YzP0cgfzIDf8t_MxzRRuRW023dtu73F31ncGXYKYZG8pRTxdlNzBFnDp1ZUqQ==",
-          "title": "bunka.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYWVcqwdcXb6AbRdRHr2cJMSYkts6xjvsVqfEM64lktjhxwsFtIwmwEhkvP3IQic0FQOSR06a_3gqoRlcRYlRrT_b8UJ5TvqWKaheL2IF8KOPXxPEzy1eWZC-wR_72yPA=",
+          "title": "daikin.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF_HciqoSBtOCzD8a2BfWhkuZpL8VyrLt-O2Hvu-1TaUZXdBRAMArMBSQCPxKhA3UNIqnEGk5ta66h34CJa8kZw0VBMIHhDgfMJPN7F2ZRVgRou7w=",
-          "title": "washi.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeDHiQ6WJ-kx3_1XmfFRVzdyF-cp20McxtGxq6Qz5_hcfgpPrq9xmBnhpzQhfjsz9nHCMXXJ7CESPOpXfND5pjiSJ0COLFHL8YlSWWjfWIGhKX9LtEyru_EPO4pTDKpO0SnqtMWiB6Ck2DHe4QHCYb3Bhnmju92Qg=",
+          "title": "kai-group.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqBLB4Rjbycru6Rbq0ubzyzryL0U04LKwVsJ-E9IxtJ6i5rNxYv5kqJOit6pIYMEs2FBUJBuDepSZkqHORBgBAUmfaEhuzpCq67-5LrtikHNhzRjRiOU-W9l7pG1HsrMo4QrGwZDpoOuVFEiCVll6Ewf3jhlt8IO0fvnXeGdY6Y-mpqVPrMUF0dv3uA5BH2plXzpE5Lejn9f7Mjw==",
-          "title": "minowashi.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEJHarIKLMmC-0YeCqsuBMvSkDqcqkCiOJGEKuZ88RiWYqOCWkYZozV8BWiatYxTqn0KrQBO7x8knTQS7bRsFdR3RiLfHFDclDu9km185VHYLpVEjwResivJSwNChhoXuaTCsPGorH-7IyPM9M6dw=",
+          "title": "prtimes.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF-Pt_JHmxLgGXc67O3H--yM9AqMocqem1nth-ZHCTr5d2um4saNsDInRQWpK9k8-vQS2O-_YkTGaICnEfLwO1ruUdxEawYfFoWwNjIvTaS5MJUnSltztTY86kb9p4WhgG9uJZwALUmkel9NK3ogoawFUIalVGC_yZHfluvTtPS5XA4JrCESg=",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkF0viqwdPz8tKkTAx5Rv0YoLhMemztAnT5kQRycP6rHruftVEYGApbt0j7eNnuxHvFDZxpTF4gfU_HCHFIJQ_M_rK-B1xL__R7tSyhNHj7oiUPVyQt5cY6q8xyz310YTcXhra5KWw5tzqYnCIDy1i-jpR",
+          "title": "tokai-tv.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDP2FZFZ8cc7_A_lqn9KZEqNc6dPcmSuFvett6U6DybWku-FN1BUwovicy-kCLZTHd1ZNXPyYLPrexZfso5OHTjbscafW5GSKPbQrxspqfIcJHi5bzIx3Y-uAumy9SGrEVLwl5Bj5PZf4fOWdWQ0shbQNqb6PrKeAiyA5CA5Bv4PAURQA=",
-          "title": "ne-planning.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-3Jq4k9CHzosU_lzT0IqnJktZ0TkHBemKT3MXYleT6MiF8TcNOyBmX9g9jlE2YaNuVnL5tr0tafHOjmdX_ezJOaPUX9NEpE1LRi-u6UUutpIVljc9AA==",
+          "title": "shigeyuki.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiIULnmayp6RMTIGuO1gZfdfQIerbLqgf2ri9kZ9CTMahFDzpNRW6-ImpOwQX2V3uvBQP1zGgUPkyD-bq71be7QIJatq1zh33rwZiSMlmfiAi4W7I6e7hSACpR9_9SZiDmL9mYAxmltf8xg-Ren5Z7VXS8LG7Aq0LDQcyfciEP7Hjs6J8-ty8UxNvQZopCtaOgvSxdiMaUmFct8ur4PV-PcslZEyfb63VuaNhJBW01jfngSqU0XWQWdq9GDJuvxaNa0h_Ug6nv5iLx_tP8fFc6te0=",
-          "title": "meijiza.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbAD5LebbyFJMv6CglhTUnksNqDIfvfZMU-KJ1JztgQcTdPa690PEt-g2rfsIil72481z8ZRDLXazI4jok1qRDS2Q-iXpZb54U5lxvdE3I_4t_ZltTv1wXHkzoslbPD-6OxmUwAzgPQmdvIFVRuPZO",
+          "title": "kai-group.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoSFr0OUjz-obdFfhwpnrgPfnc5dkPhrG5nK4VVOGLD8nzApd8cPqVYs0_G0Wk5G7RaHXV57PtzN_zOA0t8uAuuwKBF10sgCn6GwrAyE_zDurNEGz6Q2hwOL0WNRH4c0z0nqLoV4GlElRjTwGAuTTOIvc1VjXmO5mHNPEbjwfxSw0xdNbaZKq2YmVp0BgYKwK-UB-GgG-unQvLgf3D0TbbTicTZcylKxNTKfv8Fu2X7PQzH3PZsxX3qWSIq7bR4Xo8M_r8G9Rf2LPCyi_5rHN3Q-1vW-_9gFIidrPwQ0AOIr9FCToUNsT-MQ9Ni4IYc1FHyoxGQl9npXdTnw8okyEZwDXtM6TwobLbPmo7EFTQ8B1rEKE0PvTdUIWBtaVIuHRd5nNuKa2bEXMU9QrWh-lk67pJby9EUAE0Hykgeuwxs1PaChoZGwSivw7wt1KKd5VH2RfarhYSYVRlBCB4UNEElWc8NB8zUBtPEOk-DV_ohIA07lVVrEBsq4YgMucJNBM5w79YUdX5JlbBilqVjT1d_dIGLrTMeWNzjvL5mF8NG_Z4dPF8mZO3SvKqRUA4NuykgqYagcP_wkhX9-hzGfyVYrpfc8oqitBLXny6A5hCGZIMZZyc0s1FLdC-fMwXTA93A0x5mbxZ_Q==",
-          "title": "gifu-kenpaku.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7yQx6DpJOiB3BA0VZh7Ghs0N9wYTODiyfipOCZqQSEenWLu_G13nDwZlfQwyrwh-r1W2GpzxGBtxo-Rm8nJYiS152cfl5X6IUcXymMBongiu3DKAqqNUDLe3lTP2NsBNHuCR7Z2N3ukLcmYLDiayYdQ==",
+          "title": "suncraft.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9ApmoNpm-jcujQSyaE4wwLBolZJcbP_x6yRAqDp4hx0zrOCulZ5gRyiiCqMP0p_Jyfgl4-LeSLf7i8PI2ARFr1sqenBabOR2hE6ga7QXf-EmPQEJ1Y6LpjsUHLKK5_qD0",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjkywjsTmiGgb0bc9lPOgeeNeNvf6amzAgxYnZYbHVJ9TyA1EOlJpGXeLzsmWLx720rchm_L6KdXNW-oM2Z0k2auzjqmm65_ZtuG39aywprsnTFREjxYN6-4k8v3ZSzAT7Y4pS3HoqxJO-XiYyYPwNVvEjv4RpUQ==",
+          "title": "pattolixil-madohonpo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuheKalif2USzMqVprTWnpQyy3ofy5j5D2D5nb2BcJF9orwXB25MJPJTd74ZNOJWOgRX6L5fk2n1zA4D122mf512Me6SraoDhpg19sqXppHV21C2PkoHomdl2rXRkVI9UQM5LJ",
-          "title": "madeinlocal.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDwnzihsT-qLqoMZuqyWIBLDM9u9icbqrryHZFxMF63rkvmDt5bfMypGwMtXbxqhditjhtIIBoX2ED0EzzBXSYEwYQBuWgll2V1kp6ZRw94blQVV4TgtZgEkpbx7od",
+          "title": "yamaki-tatami.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkZHqemn-MFlmq3DvhEbtZ9H9fAgBgdUPd5RwDC7d_f7nqalPYqz_KmhdbyA_HHUd3moxZchV6y3QVNviclYdSxz-WHXzDQuTXvKCfWLfrqSJZpMjMuEcGdXI45ZPPHGaxx5Px642wLElf7A==",
-          "title": "intojapanwaraku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSSLV_TlLGZ9ZaYkSJsoIT14HztqQt7WkM2FQTrqMCuizneAXHsHYKcRanlhQzLoUBWR_Gj1bEkSisHBHKwtzhcokWd6TsSZ3M86vmCkR6s694FXV262lHRmKA",
+          "title": "curama.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl5zYvnYQ7p286OZ6kpPzOOTsTUCXPLzui35v-qfQdMdPiVOida9SB4wEUCRisqhftrYoxX9UKB1zbvIz8iIHLJV7bulG225DlZALaqhScg70UdjP4M6h0SiMEhGipeLOdkNmcdPmO6HkSG0XDjVJ0OQ==",
-          "title": "gijodai.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFi105lwhEFYKOTPuDmgcfWYQQuMMoeDWNPNRctDfyDXJEghj7t1BvdsFkmBS4j43RmEfzFmpKynpT9HOMk63_16lynaFFPOCCRaBxsqAQt3zdm0iqMiY=",
-          "title": "koriimo.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzbck7MlzDaWRjpNS1i7n3-99z2G6bk63Eusdrl9fq7cAASaOjenYvy9lE1jemwRHRI-nL5dYpDuzVe5KDo8NDO5bg_nknM_-MCszOCmtU0CCqciNuwcWlH05ZP9A=",
-          "title": "jrt.gr.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqzzdaTsRGSWLixwBXNYYkoLuMWiZiK8RUarbbv_YsCcdMq1WmzOSSUgjup4Axj3uttBxt3DciCOnoyq9SAyswlbiiaorPtJ-0do4DsHdf2uld0Gg=",
-          "title": "ajibana.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_i7EegPtQSenllqSgWEDF89ycYyUXpx5YM96MH21ORw7KHGyfwUfAt57bSpmwoRXgTaK8UB-umD-pFrm7bXY-7txveGZH3MUs8TgU8v8x39HGLLdg6TIQs7LCcZF74Z5Mba4f",
-          "title": "shokukanken.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQyYtDmAOnyYN6SCkPqbJ4uoP0UEC8K-tst0Y0UAFojTTHkLpYzMt71HXoYDhStsGugUDnkxZP7n3wUmmb4OZy7xfe55_2K665V_BYcQwU0NSeuOPRIby7oeLhKSrxw4ZuCjiaz8oM3_fYbW397Q==",
-          "title": "kagome.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo2Qy0UhOFYT0VAj5Wg_qEtd3Vv8YYaodAIMuti1pu6Q2w66zPPq1izozYzePGxH6cvlxz9t97rPCApytttU_QMWAXrxWPiCCfYbDwPPgxI1zqln_2zkbBc5WHcpM26Hc=",
-          "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Mcl3NmELkGxPuJnUbN_t9Oq2rHjJzYWtbN4be2JZSi6zn31JwJXxBSOt0ultza-fnAgKSFIL0uSfDv2XS8PIFL2mpPSI88HMooooarue3wb8IFVuwzviWE0qhex6Uva8Y76bqUVd3q0=",
-          "title": "starwalk.space"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7ka3DLkLjMflYE2wgAUuY-2KABvrBZ4QeKUuyHymFhPYqVmen6TpnLKNBUEKnoIOlLBpGv2zJAFXBowa67BzNoBUJ72gcllf0cWosU0L7o4OJKupnuVeswcUdHmpu8Xx4QsKHPqKnBlKLuNav4Q==",
-          "title": "readyfor.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFF0ocTvcZA9xKVBDptE_TMyPeaQQxoJGwcH_mTto0TluFANl_oQSd5UEpHCNhibrZLRF2mi8XtBwj0_xk0YYIyLy0pGpJcwKt-1raOYWh5i2nm7G4xqYNfud-YQ7K5ognlQqVg-EhLEb2M9Qk-Tsx2xxlpYFmmuI43IVw=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaX6M_GwqOTeWBX-VWYA8TGkMPk4-7RHbJuDT_8PMhT1KCOf_65KBaaOfvqe0TRCGmWsFkcIPBqkaDwclHsbsnEcZpyN1IkwMSPlVYvDkriSs3H0LoQnO0hNmB_EI2_0clZ-w5E0EkcZnyNV4RshKZXzNofnlh_QSq",
           "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoTda7UnM5Q6e3GwmDnPnZOjK-NAsF-UauhP2WOIPPC96P87cq8_l_5YCj1YffW4oL9aqfJPR3Te_qVYG1JkeMI8WXkmAydhAAvFJTQtRMs3_55vXLV5paRLpJZCHwm_pECWuTayeU4SD46ynJhdL5G_UpejARgXqhTYIuXY2hjAj3Ikj1mOerV3qnTMANnt57c1vOy8kjgLln4NMrsfU=",
-          "title": "reddit.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGdufd9dBjQrvlbjihIfg0AyP3eAx_R0bHiES0lzuu9SNr2MxBMijE6p5vUpQ4m8Hs0ddIrV7APXp1YWIMeyMNblWJLNSWm9Rzw1HgFRwu5bExbs8irvsRRdsxJgpAyFWoN4dTT92eDHYwTUvPUdBSpg7xWuRW3hSjBwDF5BQv580yO6sZeJyrKbFZoal1so6xV4F4k7gFlKV-BO-C2eF2xAWnBdJcknUVAmUxswyMTT8A5_q4DutVJC0pi7-pN4U5CtUoX8bCOWD7WASDnjT7H6M2Bm1JhhZlTPS_Da-D5njvfZG9GckwETY7OQQvZ2-UZNLfiY7pM6IJiPxy4uUMmvRSHwFDreqEjAXh3vF3De7BJhkUV3FjIAS0EzHzAws=",
+          "title": "kanazawaya-ryugasaki-inashiki.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBBwt-ak-jGHvwzPnzj3Bek_zbmBpOuRLwAaaY4xL4vaGeSP-SxQ8fDbiJ4ENvzXb2Thj8BCtiL3wBWr55ZBT0BV-lRzB3881k7AiqunSNx7alzO1Sn0jzg67VEVyfj24mepzW4WNPpwG_6zBIA8PdunW2bqtnoTgyR3J3hVIM1FThzwAMGw==",
-          "title": "kahaku.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn5t8AiUgBSz9XmGgjTSJ_ff7ZOu-4_Ki4F82ih-4Zr0iu17AG61qzmdod9N353YGH4nU9NyD1AqFhqruwzIv0nwAtlwyIZnNx2H_0qHO4_jUuCVs=",
+          "title": "mitoseika.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDcDa7uuIqCHJdVcyWZKzamhYGmmEfTeZWzNpiY4mqD7kRdSkVUtoAoGblD7iW05fkBPqovW1zn_PxLrwuV8VZH79nl82dWLlaXSQSUBhEEaJpKkRdxG5MZ353yKeeWMgb3Q==",
+          "title": "nent.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsSajLFH9F1fFGX0ehltiBPn5YY7U_Tjki9asI29yki4VOCvwi7R10uWUAnmSxhFAqdcQfNlqtB0okTRVKGehmdwk94EqcbvlEw7BKx9vlSEKI199NKdeZfgeBdl0epRE=",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNDCWTYbaq2BAHvAnrOex0u5FxOuBUG295zciVCrPnEcM19o3TFw8rJZwrzyP3WqZWSEqmTMSRCmXOxMRmODPXPv4Hinx2Rjsn1PUyHorWQUQDEeT0QA0PUGKo9CLTefc8-qXx2zJ-MFi2WVm8GqFnPQRjUd9T-SnUPSoIDmRo4inkjUJO94BKqFO3",
+          "title": "honbamon.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0fm_x1t0c-nD9Xf3iMDv8PoNdVZM6VPv3hrgnW5jYjI_-jWiKV8f5WuAZznvlozMaL-AJ-dSfNOWl1_kd8n10YCgM8Q3_runxp32Qr-sGe6gQF8th_evc4YbJCu6i637aQCoXhTaMa2uHBcljIV4=",
+          "title": "hatenablog.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 1372,
-          "endIndex": 1517,
-          "text": "不純物が少なく弱アルカリ〜中性を保つため、1000年以上の時を経ても酸化分解が極めて起こりにくいのです"
-        },
-        "groundingChunkIndices": [
-          0,
-          1,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1559,
-          "endIndex": 1617,
-          "text": "「洋紙は100年、和紙は1000年」といわれます"
+          "startIndex": 804,
+          "endIndex": 1027,
+          "text": "帝国データバンクが2026年10月30日に発表した「『食品主要195社』価格改定動向調査 ― 2026年11月」によると、2026年11月の飲食料品値上げは**合計1,477品目**となりました"
         },
         "groundingChunkIndices": [
           0
@@ -267,105 +229,60 @@
       },
       {
         "segment": {
-          "startIndex": 1620,
-          "endIndex": 1935,
-          "text": "19世紀中頃に印刷された洋紙の書籍の多くが劣化に悩まされているのに対し、奈良の正倉院に現存する日本最古の紙は、西暦702年（大宝2年）の「御野国（みののくに）加毛郡半布里（現在の岐阜県加茂郡富加町周辺）の戸籍用紙」です"
+          "startIndex": 1030,
+          "endIndex": 1180,
+          "text": "3カ月ぶりに3,000品目を下回り、秋口（9〜10月の2カ月間で約8,000品目）の激しい値上げラッシュは一服した形です"
         },
         "groundingChunkIndices": [
-          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1183,
+          "endIndex": 1371,
+          "text": "ただし、前年11月（150品目）の約10倍の高水準であり、年間累計（1〜12月判明分）は**2万327品目**と、2年連続で年間2万品目を突破しています"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1420,
+          "endIndex": 1593,
+          "text": "分野別で最も多いのは、マヨネーズやソース類をはじめとする**「調味料」（644品目）**で、全値上げ品目の4割強を占めています"
+        },
+        "groundingChunkIndices": [
           0,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1938,
-          "endIndex": 2048,
-          "text": "1320年以上前（2026年時点）の文字や紙面が、修復可能な状態で鮮明に残っています"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2075,
-          "endIndex": 2345,
-          "text": "正倉院には美濃のほか筑前・豊前（現在の九州）の戸籍用紙も保管されていますが、なかでも美濃で作られた紙は「漉きムラが最も少なく、当時の全国で最も技術水準が高かった」と記録されています"
-        },
-        "groundingChunkIndices": [
-          3,
-          5,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2348,
-          "endIndex": 2480,
-          "text": "職人の手作業による美濃和紙は、年月が経つほどにむしろ独特の白さとしなやかさを保ち続けます"
-        },
-        "groundingChunkIndices": [
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 2510,
-          "endIndex": 2669,
-          "text": "江戸時代、美濃和紙は障子紙の最高峰として江戸幕府の御用紙に指定され、「美濃判」という公定規格が生まれました"
+          "startIndex": 1420,
+          "endIndex": 1671,
+          "text": "分野別で最も多いのは、マヨネーズやソース類をはじめとする**「調味料」（644品目）**で、全値上げ品目の4割強を占めています（次いで清涼飲料・コーヒーなどの「酒類・飲料」417品目"
         },
         "groundingChunkIndices": [
-          1,
-          6
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2773,
-          "endIndex": 2981,
-          "text": "近年でも東京2020オリンピック・パラリンピック競技大会の入賞者に授与された表彰状に「美濃手すき和紙」が採用され、世界のアスリートへ贈られました"
+          "startIndex": 1677,
+          "endIndex": 1926,
+          "text": "値上げ要因は「原材料高」が91.7%と依然高いものの、電気代などの「エネルギー」が63.9%、賃上げなどの「人件費」が51.5%（過去最高水準）と、複合的なコスト上昇が理由となっています"
         },
         "groundingChunkIndices": [
-          7,
-          1
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 3013,
-          "endIndex": 3065,
-          "text": "外務省「美濃和紙について」（2021年）"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3072,
-          "endIndex": 3127,
-          "text": "文化庁 文化遺産オンライン「本美濃紙」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3134,
-          "endIndex": 3210,
-          "text": "岐阜県富加町「奈良正倉院に残る最古の戸籍」（2019年）"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3217,
-          "endIndex": 3268,
-          "text": "美濃和紙の里会館「美濃和紙の歴史」"
+          "startIndex": 2483,
+          "endIndex": 2636,
+          "text": "空調大手ダイキン工業の技術資料によると、エアコンは最も電力を食うのが「設定温度まで到達させる時間」です"
         },
         "groundingChunkIndices": [
           3
@@ -373,32 +290,92 @@
       },
       {
         "segment": {
-          "startIndex": 3660,
-          "endIndex": 3846,
-          "text": "江戸時代、中仙道などの要衝を抱えていた美濃・飛騨には、名古屋や上方を行き来する旅役者の一座が数多く巡業（請芝居）に訪れました"
+          "startIndex": 2639,
+          "endIndex": 2814,
+          "text": "最初から「弱風」にすると部屋が暖まるのに時間がかかり余計に電気代がかさむため、**「風量は自動」**が最も省エネになります"
         },
         "groundingChunkIndices": [
-          8,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2817,
+          "endIndex": 3077,
+          "text": "また、暖かい空気は上へ昇る性質があるため、**ルーバーを「下向き」**にして床面へ温風を送り、足元の冷えを防ぐことで、設定温度を控えめ（1℃下げると約10%の節電）に保つことができます"
+        },
+        "groundingChunkIndices": [
+          4,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3628,
+          "endIndex": 3790,
+          "text": "もし刃先同士が真正面から激突すると、硬い刃先同士がぶつかり合ってすぐに摩耗・変形し、切れ味が落ちてしまいます"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3793,
+          "endIndex": 3974,
+          "text": "そのため、職人や製造ラインの工程で、上刃と下刃を**あえてミクロン単位で前後にわずかにズラして重なる**ように設計されています"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3793,
+          "endIndex": 4037,
+          "text": "そのため、職人や製造ラインの工程で、上刃と下刃を**あえてミクロン単位で前後にわずかにズラして重なる**ように設計されています（このズレを業界用語で「かぶり」と呼びます"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4083,
+          "endIndex": 4230,
+          "text": "国内の家庭用爪切りでトップシェアを誇るのが、岐阜県関市に創業のルーツを持つ刃物メーカー「貝印」です"
+        },
+        "groundingChunkIndices": [
+          7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4233,
+          "endIndex": 4332,
+          "text": "関市の工場などでは年間数百万個、400種類以上の爪切りが作られています"
+        },
+        "groundingChunkIndices": [
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3849,
-          "endIndex": 4101,
-          "text": "これに熱狂した農村の人々が、見ているだけでは飽き足らず、旅役者に直接頭を下げて化粧や振付を習い、自ら山から木を切り出して舞台を建て、住民総出で演じるようになったためです"
+          "startIndex": 4335,
+          "endIndex": 4601,
+          "text": "爪切りは鋼材を約1000度で加熱・急冷して刃の硬度を上げた後、持ち手のバネとなる部分だけを高周波で温めてしなやかさを残す「部分戻し」を行うなど、1本に高度な金属加工技術が注がれています"
         },
         "groundingChunkIndices": [
-          8,
-          9,
+          6,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 4143,
-          "endIndex": 4329,
-          "text": "1971年（昭和46年）に岐阜県教育委員会が実施した緊急調査によると、県内で確認された農村舞台の数は「264棟」で全国最多を記録しました"
+          "startIndex": 4632,
+          "endIndex": 4761,
+          "text": "岐阜県関市は鎌倉時代から良質な松炭や長良川の水に恵まれ、名刀が生まれる刀鍛冶の町でした"
         },
         "groundingChunkIndices": [
           8,
@@ -407,74 +384,20 @@
       },
       {
         "segment": {
-          "startIndex": 4332,
-          "endIndex": 4683,
-          "text": "また、現在活動している地歌舞伎保存団体の数は全国最多の30団体以上（全国約230団体のうち岐阜県が最多）を誇り、江戸〜明治期に建てられた本格的な芝居小屋が県内に9軒現存しています（下呂市の「鳳凰座」「白雲座」、中津川市の「かしも明治座」など）"
-        },
-        "groundingChunkIndices": [
-          11,
-          9,
-          12,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4710,
-          "endIndex": 4845,
-          "text": "明治時代、新政府は「農民が怠惰になり風俗を乱す」として地芝居を厳しく禁止・取り締まりました"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4848,
-          "endIndex": 5031,
-          "text": "しかし村人たちの芝居熱は冷めず、「公会堂（集会所）」という名目で役所の目をかいくぐりながら立派な芝居小屋を建設し続けました"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5034,
-          "endIndex": 5199,
-          "text": "また、東京などの大歌舞伎の本流では失われてしまった幻の演目や古風な振付が、岐阜の山村にだけ口伝で残されています"
-        },
-        "groundingChunkIndices": [
-          9,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5229,
-          "endIndex": 5460,
-          "text": "1886年（明治19年）の地元新聞（岐阜日日新聞）には、「東濃の地芝居と西濃の花火は岐阜県の二大病害（大きな悩みの種）である」という批判記事が掲載されるほどでした"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5463,
-          "endIndex": 5640,
-          "text": "農繁期そっちのけで稽古に励み、家を傾けるほどおひねりや衣装代を注ぎ込む熱狂ぶりが、行政や新聞を本気で悩ませていたのです"
+          "startIndex": 4764,
+          "endIndex": 5127,
+          "text": "明治時代の廃刀令後、刀鍛冶の「折れず、曲がらず、よく切れる」技術が日用のポケットナイフやカミソリ、爪切りへと転換され、現在では世界の三大刃物産地（ドイツ・ゾーリンゲン、イギリス・シェフィールド、日本・関市）の一つとして世界中に輸出されています"
         },
         "groundingChunkIndices": [
           8,
-          14
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5672,
-          "endIndex": 5762,
-          "text": "岐阜県環境生活部文化創造課「地歌舞伎推進プログラムについて」"
+          "startIndex": 5524,
+          "endIndex": 5617,
+          "text": "冬の室内の熱は、約50%以上が窓などの「開口部」から逃げていきます"
         },
         "groundingChunkIndices": [
           12
@@ -482,29 +405,60 @@
       },
       {
         "segment": {
-          "startIndex": 5769,
-          "endIndex": 5814,
-          "text": "岐阜県地芝居WEB「地芝居の歴史」"
+          "startIndex": 5620,
+          "endIndex": 5875,
+          "text": "厚手のカーテンは布地自体に断熱性があっても、窓の上下や左右に隙間ができるため、冷やされた窓辺の空気が下から部屋へ滑り落ちて足元を冷やす「コールドドラフト現象」が発生します"
         },
         "groundingChunkIndices": [
-          8
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 5821,
-          "endIndex": 5900,
-          "text": "文化庁『全国の地芝居（地歌舞伎）調査報告書』（2015年）"
+          "startIndex": 5878,
+          "endIndex": 5953,
+          "text": "一方、障子は窓枠の内側にピタリと隙間なく納まります"
         },
         "groundingChunkIndices": [
-          11
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 5907,
-          "endIndex": 5992,
-          "text": "岐阜女子大学 地域文化研究所紀要「地芝居の興隆過程と現状」"
+          "startIndex": 5956,
+          "endIndex": 6071,
+          "text": "その結果、窓ガラスと障子の間に**「密閉された動かない空気の層」**が形成されます"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6074,
+          "endIndex": 6233,
+          "text": "空気は物質の中でも極めて熱を伝えにくい性質（優れた断熱材）を持つため、部屋の暖気が逃げるのを強力に防ぎます"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6236,
+          "endIndex": 6338,
+          "text": "さらに障子紙自体も冷気で繊維が引き締まり、通気を抑える働きがあります"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6414,
+          "endIndex": 6802,
+          "text": "建物の断熱性能を示す「熱貫流率（U値：数値が小さいほど熱が逃げにくい）」で見ると、単板ガラス窓に厚手カーテンを取り付けた場合の熱貫流率が約10〜12 W/(m²・K)であるのに対し、紙障子を組み合わせた窓は約5.5 W/(m²・K)と、**逃げていく熱の量が約半分（断熱性が約2倍）**になります"
         },
         "groundingChunkIndices": [
           15
@@ -512,87 +466,20 @@
       },
       {
         "segment": {
-          "startIndex": 6414,
-          "endIndex": 6669,
-          "text": "サツマイモ自身に含まれる消化酵素「β-アミラーゼ」が、熱によって糊化（水分を吸って柔らかくなった）デンプンを分解し、甘味成分である「麦芽糖（マルトース）」に変換するためです"
+          "startIndex": 6923,
+          "endIndex": 7244,
+          "text": "平安末期から室町時代にかけて書院造とともに普及した障子は、外からの視線を遮りながら光を拡散して部屋の奥まで明るくし、同時に雪国の厳しい冷気を遮断するという、先人たちが生み出した究極の「自然エネルギー活用建具」でした"
         },
         "groundingChunkIndices": [
           16,
-          17,
-          18
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 6672,
-          "endIndex": 6829,
-          "text": "この酵素が活発に働く温度帯（約60℃〜70℃）をいかに長く通過させるかが、甘さを引き出す決定的な要因となります"
-        },
-        "groundingChunkIndices": [
-          17,
-          19,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6871,
-          "endIndex": 6961,
-          "text": "掘り出した生のサツマイモには麦芽糖はほとんど含まれていません"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6964,
-          "endIndex": 7166,
-          "text": "電子レンジで加熱すると数分で芋の中心温度が急上昇し、75℃〜80℃を超えて酵素が熱で壊れてしまう（失活する）ため、麦芽糖があまり作られません"
-        },
-        "groundingChunkIndices": [
-          19,
-          18,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7169,
-          "endIndex": 7462,
-          "text": "一方、160℃程度の低温オーブンなどでサツマイモの中心温度を60℃〜65℃前後に保ちながらじっくり加熱した場合、短時間で蒸したときと比べて麦芽糖の生成量が約2倍に達することが分析によって明らかになっています"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7489,
-          "endIndex": 7726,
-          "text": "石焼き芋からあふれ出るシロップのような蜜は、後から砂糖を加えたものではなく、「サツマイモ自身の消化酵素が、自分のでんぷんを分解して作り出した天然の麦芽糖」です"
-        },
-        "groundingChunkIndices": [
-          16,
-          19,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7891,
-          "endIndex": 8186,
-          "text": "小石を熱して芋を焼く手法は、小石から放出される遠赤外線によって表面を焦がさずに熱を内部へとじわじわ伝え、「内部温度60℃〜70℃」の酵素活性ゾーンを長時間維持するという、科学的に極めて合理的な調理法です"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8440,
-          "endIndex": 8536,
-          "text": "一般社団法人 日本いも類研究会「Q 焼きいもが甘いのはなぜですか？」"
+          "startIndex": 7651,
+          "endIndex": 7780,
+          "text": "植物は、自らの細胞内の水分が凍ってしまうと、氷の結晶で細胞が破壊されて枯れてしまいます"
         },
         "groundingChunkIndices": [
           17
@@ -600,9 +487,50 @@
       },
       {
         "segment": {
+          "startIndex": 7783,
+          "endIndex": 7996,
+          "text": "そこで氷点下の寒さに直面した野菜は、凍結を防ぐために体内のデンプンを分解し、「ブドウ糖」や「ショ糖」といった糖分に変えて細胞液の糖度を高めます"
+        },
+        "groundingChunkIndices": [
+          17,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7999,
+          "endIndex": 8195,
+          "text": "水に砂糖を溶かすと凍る温度が下がる「凝固点降下」と同じ原理で、野菜は**自ら“天然の不凍液”を作り出して生き延びようとしている**のです"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8238,
+          "endIndex": 8540,
+          "text": "通常のキャベツの糖度は約5〜6度程度ですが、雪の下で越冬させた「雪中キャベツ（雪下キャベツ）」は**糖度9〜10度近くまで上昇**し、芯の周りでは15度前後（メロンや甘いイチゴに匹敵するレベル）に達することもあります"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
           "startIndex": 8543,
-          "endIndex": 8703,
-          "text": "国立研究開発法人 農業・食品産業技術総合研究機構（農研機構）「サツマイモの甘さ・でん粉特性に関する研究資料」"
+          "endIndex": 8799,
+          "text": "さらに雪の中は外気が氷点下マイナス10度を下回っても、常に「温度0℃前後・湿度ほぼ100%」に保たれるため、乾燥せず瑞々しさと旨味成分（アスパラギン酸などのアミノ酸）が凝縮されます"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8839,
+          "endIndex": 9046,
+          "text": "神岡町の山之村をはじめとする飛騨の高冷地・豪雪地帯では、昔から冬の厳しい積雪を活かし、秋に採れた大根や白菜を雪の中に埋めて保存してきました"
         },
         "groundingChunkIndices": [
           20,
@@ -611,189 +539,54 @@
       },
       {
         "segment": {
-          "startIndex": 8807,
-          "endIndex": 8843,
-          "text": "（調理法別麦芽糖量分析）"
+          "startIndex": 9049,
+          "endIndex": 9319,
+          "text": "もともとは雪で閉ざされる冬を乗り切るための「保存食の知恵」でしたが、近代の農学・科学研究によって「野菜が自らの防寒本能で極上の甘みを生み出す理想の貯蔵法だった」ことが証明されました"
         },
         "groundingChunkIndices": [
-          19
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9238,
-          "endIndex": 9361,
-          "text": "星そのものが点滅しているのではなく、地球を包んでいる「大気（空気の層）」が原因です"
+          "startIndex": 10129,
+          "endIndex": 10294,
+          "text": "上下の刃先が真正面からぶつかり合うと、硬い金属同士の衝撃ですぐに刃先がボロボロになり、切れなくなってしまいます"
         },
         "groundingChunkIndices": [
-          22,
-          23
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 9364,
-          "endIndex": 9541,
-          "text": "冬は日本上空を流れる偏西風（ジェット気流）が強まり、冷たい空気と暖かい空気が激しく混ざり合って大気の乱気流が発生します"
+          "startIndex": 10297,
+          "endIndex": 10462,
+          "text": "そのため、ほんのわずかに前後にズレて噛み合うよう微調整されています（このズレを業界用語で「かぶり」と呼びます）"
         },
         "groundingChunkIndices": [
-          22,
-          24
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 9544,
-          "endIndex": 9802,
-          "text": "密度の異なる空気の層を星の光が通過するとき、まるでゆらぐ水底のように光が複雑に屈折を繰り返す（大気のシンチレーション）ため、地上にいる私たちには星が激しくまたたいて見えます"
-        },
-        "groundingChunkIndices": [
-          22,
-          24,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9961,
-          "endIndex": 10243,
-          "text": "何光年も離れた「恒星」（シリウスやオリオン座のベテルギウスなど）は、地球から見ると視直径が極小の「点（点光源）」にしか見えないため、細い光の筋が大気のわずかな揺らぎでズレて激しく明滅します"
-        },
-        "groundingChunkIndices": [
-          24,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10246,
-          "endIndex": 10435,
-          "text": "一方、太陽系の「惑星」（木星や火星、金星など）は地球にずっと近いため、望遠鏡で見ると円盤状の「面（面光源）」として光が届きます"
-        },
-        "groundingChunkIndices": [
-          24,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10438,
-          "endIndex": 10582,
-          "text": "面全体の光が大気の揺れを互いに打ち消し合うため、惑星は冬でも瞬かず、ジッと落ち着いて光り続けます"
-        },
-        "groundingChunkIndices": [
-          24,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10609,
-          "endIndex": 10705,
-          "text": "大気のない宇宙空間から宇宙飛行士が星を見ると、星は一切瞬きません"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10804,
-          "endIndex": 10936,
-          "text": "私たちが美しいと感じる「星のまたたき」は、地球に豊かな空気と風が渦巻いている証拠なのです"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10966,
-          "endIndex": 11161,
-          "text": "見上げる私たちにはロマンチックな「星のまたたき」ですが、天文学者にとっては観測像をボケさせる「最大の敵（シーイングの悪化）」でした"
-        },
-        "groundingChunkIndices": [
-          22,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11164,
-          "endIndex": 11557,
-          "text": "そこで、空気の揺らぎを避けるためにハワイのマウナケア山頂（標高4200m）など高い山の上に天文台を建設したり、レーザーで大気の歪みを測定して鏡の形を1秒間に数百〜数千回変形させて揺れを打ち消す「補償光学（アダプティブ・オプティクス）」というハイテク技術が生み出されました"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11754,
-          "endIndex": 11835,
-          "text": "国立科学博物館「宇宙の質問箱（恒星編・天体の見え方）」"
-        },
-        "groundingChunkIndices": [
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11842,
-          "endIndex": 11930,
-          "text": "国立天文台（NAOJ）「すばる望遠鏡：補償光学とシーイング解説」"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12245,
-          "endIndex": 12518,
-          "text": "当時の地元新聞（岐阜日日新聞）が、岐阜県が抱える「二大病害（頭を抱える二大お悩み）」として、「東濃の地芝居」と並べて厳しく批判した、もう一つの岐阜の熱狂的な名物は何だったでしょうか？"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12674,
-          "endIndex": 12706,
-          "text": "**2番：西濃の「花火」**"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12751,
-          "endIndex": 12919,
-          "text": "1886年（明治19年）の岐阜日日新聞に「東濃の地芝居と西濃の花火は岐阜県の二大病害である」という記事が実際に載りました"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12925,
-          "endIndex": 13114,
-          "text": "どちらも地域の人々が農作業をほったらかしにして全財産をつぎ込むほど熱狂したため、お役所や新聞から本気で危険視されていたそうです"
+          "startIndex": 10465,
+          "endIndex": 10579,
+          "text": "関の刀鍛冶から受け継がれた繊細な刃物技術が、毎日の爪切りにも活かされています"
         },
         "groundingChunkIndices": [
           8,
-          14
+          11
         ]
       }
     ],
     "webSearchQueries": [
-      "星 瞬く 理由 恒星 惑星 国立天文台",
-      "岐阜 地歌舞伎 日本一 芝居小屋数 岐阜県 歴史",
-      "美濃和紙 1300年 正倉院 御野国戸籍 理由",
-      "焼き芋 低温 じっくり 甘い 理由 麦芽糖 農研機構"
+      "岐阜県 飛騨 雪中キャベツ 越冬野菜 寒干し",
+      "エアコン 暖房 風向き 下向き ダイキン 電気代",
+      "帝国データバンク 食品主要195社 価格改定動向 11月",
+      "関市 爪切り シェア 刃物 仕組み",
+      "雪中野菜 甘くなる 糖度 仕組み 農林水産省 OR 岐阜県",
+      "障子 断熱効果 カーテン 比較 窓 林野庁 OR 大学"
     ]
   }
 }
