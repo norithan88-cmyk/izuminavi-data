@@ -1,376 +1,223 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2230,
-  "estimated_minutes": 6.8,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2221,
+  "estimated_minutes": 6.7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "愛知県が日本一の出荷量を誇る電照菊。夜のハウスでピカピカと明かりを照らしますが、夜に光を当てる本当の理由は何でしょうか。１番、寒さ防止。２番、開花を遅らせるため。３番、菊を夜更かしさせて反省させるため。",
-    "answer": "正解は２番、開花を遅らせるためでした！菊は夜が長くなると咲くもんで、夜に光を当てて『まだ夏だら！』と勘違いさせとるんだって。騙されとる菊も可愛いじゃんね！",
+    "question": "文具のセロハンテープの厚さは約0.05ミリですが、くっつかないよう何層重なっているでしょうか。1番、2層。2番、4層。3番、100層のミルフィーユ仕立て。",
+    "answer": "正解は2番、4層でした！表面のはくり剤から糊まで極薄で重なっとるんだに。100層もあったら分厚すぎて書類が閉じれんわ！",
     "source_ids": [
-      12,
-      14
+      21,
+      22
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtE0YzzMs9YLG8aW7r2dVJjLy02Va_2B7XYWiGWMrrd6MA_OxyTUc3CKuqmR0wEJvoPTBcdFuP0pSEQuaXY3dNKybcmgSe2oiiJxn4cs_SEUFkt2jZrUALQ2EsCTA8WLHNd4sWPYlR2kBqrngkfBgrBv24HFbenqI8qrP5BlHIL0AlLHWs6z0b8mQ9PX2hW4U=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG8TGZisHY4trbMbQds_B61T8YeDaPBjLtZSGHCALialqwOCJ_PB9yJbt5IznnZo7UgtbcL_aAqtOOVr5tLFIgLINfSsAyPDcEfVoZPK-Q3APpD91uUt7yA6x2y7_a6DUuvMG654dHiYd2hztN4dYbiG83XGv4QEWZgpsm7OP67_Tyt9Q="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu7P5yA__MKX-gjVXFCywpNNT4vVRlhzyGNLcFnxQsXORZj-JLswfnLFOagXMV2JC7FXu5bIYOB5rRTLszW8KkQ_eKeYvIYYRAZmbqBcKW_qliXSGpHQy0xzpt5nmpLHnG",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw45-7Vvx5CGvgVswpJL5kvCs1UBhsCiR2EcOibITYZM4_caB7Xz2kREOLghUSRVZ_2lo-dZsoOlPI8hvM2n_iywDJ7ce6F52liwwVPRF_fAK7gSFw0snkvZaMavFmLhHVOse4pep-o10Zv3tHzeYS"
     ]
   },
   "izumi": {
-    "text": "和泉町が生んだスーパースター、石川丈山！徳川家康の近侍として信頼も厚かった丈山だけど、３３歳のとき、大坂夏の陣でとんでもない事件を起こすんだよね。戦が始まると、家康が絶対にやっちゃ駄目って固く禁じとった先陣争い、つまり一番乗りをやらかしちゃったの！しかも敵の将を討ち取るっていう大活躍までしちゃうわけ。今で言えば、社長から『絶対にスタンドプレーするなよ』って釘を刺されとったのに、全力で単独突破して大型契約を取ってきた営業マンみたいなもんじゃんね。当然『社長、ボーナス弾んでよ！』って期待するじゃん？ところが家康は『軍令違反だでほうびはゼロ！』とピシャリ。えっ、あんなに命がけで頑張ったのにほうび無し！？ってショックだらけだよね。でも丈山のすごさはここから。すねて文句を言うどころか、その責任を取って、なんと自分から武士の身分をスパッと捨てて浪人になっちゃったの！今の感覚なら、即座に退職届を叩きつけて京都の妙心寺に身を寄せた感じだら。手柄を立ててもルール違反の責任は自分で背負い、未練なく次の人生へ進む潔さ。この思い切りの良さと筋を通す頑固なまでのプライド、同じ和泉の人間として誇らしくなっちゃうじゃんね！",
+    "text": "みおんの和泉ディープ！今日は和泉が誇る偉人、都築弥厚さんのお話だに。弥厚さんは江戸時代に、水不足と水争いでえらい目に遭っとった碧海台地を救うため、矢作川から約30キロも水を引いて約6000ヘクタールを潤すというとんでもない用水を思いついたじゃんね。でもね、水害を心配する農民たちから大反対されて、測量の邪魔までされちゃったの。そこで弥厚さん、どうしたと思う？なんと、夜中にこっそりスパイ作戦を決行したんだわ！1822年から高棚村の和算家、石川喜平さんとタッグを組んで、人目を避けて夜に提灯や松明の明かりを頼りに測量を進めたんだって。しかも目印がすごいの。綿やそばの種をパラパラまいて、後から芽が出た跡を目印にしたっていうんだから、完全に隠密行動じゃんね！今なら深夜徘徊で見回りの人に声かけられちゃうやつだわ。そんな大反対とスパイみたいな苦労を乗り越えて、5年がかりの1826年に測量をやりきったんだに。自分の土地や財産をつぎ込んで借金が2万5千両も残ったらしいけど、この執念があったからこそ今の豊かな和泉があるんだよね。こんな骨のあるスパイ級の偉人がおったなんて、地元としてめっちゃ誇らしいじゃん！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/jyozan/"
+      "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "jozan-nukegake",
-      "hook": "大坂夏の陣で禁止の一番乗り。手柄を立てたのにほうびゼロ、で自分から武士をやめる"
+      "id": "yakou-night",
+      "hook": "夜中にこっそり提灯で測量、そばの種を目印に。まるでスパイ作戦"
     }
   },
   "local": {
-    "text": "11月7日の土曜日に、安城市で『安祥ふれあいレクリエーション』が開催されるよ。秋風が心地いいこの季節、のんびり体を動かしてリフレッシュする絶好のチャンスじゃんね。休日の楽しみに、ぜひカレンダーにメモして参加してみてりん！",
+    "text": "今度の土曜日、11月7日に安祥ふれあいレクリエーションが開催されるよ。体を動かしたい人にぴったりじゃんね。さらに11月14日には中部公民館ふれあいウォーキングもあるもんで、秋の風を感じて歩くのもおすすめ！気になる人は市の情報をチェックしてみてりん！",
     "source_ids": [
-      30
+      24,
+      27
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html"
+      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
+      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
     ]
   },
   "segments": [
     {
-      "topic": "豊田市小原の四季桜が秋に満開を迎える不思議",
-      "text": "お花見といえば春だら？って思い込んどるそこのあなた、ちょっと待って！なんとこの愛知県内に、秋のど真ん中に満開の桜が咲き乱れる場所があるって知っとった？豊田市の小原地区なんだけど、ここには『四季桜』っていう特別な桜が、なんと１万本以上も植えられとるの！春と秋の年２回咲くんだけど、信じられないことに『春よりも秋のほうが花が目立って綺麗』って言われとるんだって。えっ、桜なのに春より秋が本気なの！？聞いてないんだけど！ってびっくりじゃんね。なんで秋に咲くのかっていうと、普通の桜は夏につぼみを作ると、冬の寒さを経験するまでぐっすり休眠するの。でも四季桜は、夏にできたつぼみの一部が寝ないでそのまま起きとって、秋から冬にかけて順番に咲いちゃうんだって。しかも秋は木全体の葉っぱが落ちとるもんで、小ぶりな薄紅色の花が際立ってめちゃくちゃ目立つの！見頃の時期には、深紅のモミジの紅葉と淡い桜色が同時に山肌を染めるっていう、全国でも珍しい奇跡の絶景が生まれるんだよ。春まで待ちきれずにフライングで咲いちゃうなんて、なんだかおっちょこちょいで愛着が湧いちゃうよね。元々は江戸時代に、お医者さんが屋敷に植えた、たった１本の木から始まって、地域の人が挿し木で大切に増やしていったんだって。秋のドライブで見に行ったら、家族に絶対自慢したくなる話題だよね！",
+      "topic": "重曹とクエン酸を混ぜると汚れが落ちない？大いなる誤解の科学",
+      "text": "月曜日だし、気合を入れてキッチンをピカピカにしようとしとるそこのあなた！ちょっと手を止めて聞いてりん！お掃除で、重曹にクエン酸をかけて『シュワシュワ〜！』って泡立てるの、めっちゃ気持ちよくない？みおんもあの泡を見てると、汚れが全部消滅した気になって大興奮しちゃう…って、AIだから掃除機すら持てんのだったわ！でもね、えっ、ちょっと待って！うそでしょ！？あのシュワシュワ、実は汚れを落とす効果がほぼゼロって聞いてないんだけど！どういうことかというとね、弱アルカリ性の重曹と酸性のクエン酸を混ぜると、お互いの力を打ち消し合う中和反応が起きちゃうんだって。発生しとる泡の正体は、ただの炭酸ガス！炭酸のジュースをこぼしたのと一緒で、こびりついた汚れをバリバリ剥がすような怪力はないらしいの。むしろ、油汚れを分解する重曹のアルカリと、水垢を溶かすクエン酸の酸が相殺されて、ただの平和な中性の水っぽくなっちゃうんだに。例えるなら、激辛カレーに甘口シロップを入れて、何が食べたかったのか分からんくなったようなもんだら！だから知恵としては、混ぜずに単独で使うのが最強！ベタつく油汚れには弱アルカリ性の重曹だけ、シンクの白い水垢には酸性のクエン酸水だけをかけるのが一番落ちるんだって。泡のパフォーマンスに騙されとった人は、今日から別々に使ってみりん！",
       "source_ids": [
-        2,
-        3,
-        5
+        4,
+        5,
+        8
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEojLcQhaMYYD4UeHo8vhky_JD61Q9GPZunwYO6Qbx0O9BeiF9BKnBxEu6-LZAqHHrAoO_-a1fm007YG86DE2efusc9ysg2JcThtLFi1np7uj7avu8gS_7f7eHeFTXQAh-cuH1h",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZM8RPGnM_S8Yz-mYXTY2GNEYOWqn0jCTEiiJQ4NWEjr4PF967pLLo68hUeUu2oQbWhB_vCnhhz6sk3LNtj1ETA4GQjAkNskh_ggrHB55N_ov2bUhmdDdl",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfOp0FeMNt5owQDl5kI_apNPSzSky_oHjI9T8YwVPWSSmF6hyU88Mk986P9GEGYXHEfs8sRKhIRBh0KWDZAIJhYDlLqZ6OCUdkDI4RmNHHSvWzV_7yxLO6-QbORJmmvldslUcr"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQe2Gqz-QSehwVZYzpqoC7WKP7wXX1W9vanyJ7ODWKvy7hlSOhQg32W7q_s1bdSAI5RSeH0eLh_zqdBK4rtwz2kPfLvtq-nf-WwTeN_yu_wyFRIcL0BISxogw6",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9j0cL9pXgv1xoq6wTKB4FfPQc5BeeN8SzNQRjUTtuZn4OkWWBT2mVV7BWP1k1N_NFqGUG6w2NfQD2Nd6pZi6lTghh3_QFVDPGH6f09UtC0Yd1ekky6KakSLffTMDY0fdn4SdR6IeyqE81roSiWeJA1e1",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2P-Yd2k-3TcIwHWoGGhNzdV66lVnpsGpK1c2avL7EnlGs9BoTDDST5PBpZt2U1aKWWcAuHgVLuwwH9C65ds80Knalw13CSCQ0_EvTEa9NG88s4wj3QGp9oIsnRvfzWGa4vV6nUvvZ7z1PqfZWEsupbBkdw=="
       ]
     },
     {
-      "topic": "石焼き芋が電子レンジより劇的に甘くなる科学の秘密",
-      "text": "綺麗な桜を楽しんだら、やっぱりお腹がすいてくるよね。秋の味覚といえば、なんといっても石焼き芋！あのねっとりして蜜があふれる甘さ、最高じゃんね。でも、おうちの電子レンジでサツマイモをチンしても、なぜかあそこまで甘くならんくて、パサパサになってガッカリしたことない？実はサツマイモって、生の時点ではあの甘み成分の『麦芽糖』がほとんど入っとらんの！じゃあ何であんなに甘くなるのかっていうと、焼いている最中に芋自身が持っとる酵素を使って、デンプンを分解して甘みに変えとるんだって。その酵素が一番元気に働くのが、６５度から７５度前後っていう限られた温度ゾーン！電子レンジでチンすると一気に８０度を超えちゃうもんで、酵素が熱で壊れて甘みが作られんの。ところが石焼き芋は、小石の熱と遠赤外線で、芋の中心までものすごーくゆっくり熱が伝わるから、この６５度から７５度のゾーンをじーっくりキープできるんだよね。つまり石焼き芋のあの極上の甘さは、畑で決まるんじゃなくて、焼く１時間の温度コントロールで芋がその場で作っとる科学の結晶だったわけ！…って、AIのみおんが石を抱えて温めるわけにもいかんし、やっぱり軽トラの声を待つのが一番だら。今度焼き芋を食べるとき、『これ今、酵素が頑張った甘みだに！』って職場で教えてあげりん！",
+      "topic": "三河木綿の「刺し子織」が消防半纏や柔道着になるほど頑丈な秘密",
+      "text": "そういえば、身近な暮らしの工夫といえば、私たちの地元・西三河の知恵も負けとらんじゃんね！みんな、三河木綿の『刺し子織』って知っとる？表面がポコポコと凸凹しとる分厚い布なんだけど、あれ、なんであんなに頑丈か考えたことある？昔から火消しの半纏とか、現代でも柔道着や剣道着に使われとるくらい桁外れに破れんの。大人が力いっぱい引っ張り合ってもビクともせんって、どんな鉄壁ガードなん！？その秘密は、布に太い横糸を幾重にも立体的に織り込む技術にあるんだって。江戸時代から矢作川の恵みで綿作りが盛んだった三河で、明治時代に織機を使ってこの立体構造を作る技術が確立されたらしいの。表面が凸凹しとるおかげで、摩擦や引っ張りにめちゃくちゃ強いんだわ。しかもすごいのが、着心地！凸凹の隙間に空気の層ができるもんで、冬は体温を閉じ込めてぬくぬくだし、夏は肌にペタッと張り付かずに汗を吸ってサラサラなんだに。布界のハイテク二重サッシじゃん！ちなみに、機織りで夜なべする母親の重労働を楽にしたいって、日本初の動力織機を作ったのが、のちのトヨタグループ創業者の豊田佐吉さんなんだって。家族を想う優しさから生まれたスーパー技術だら？寒くなってきた今の季節、職場で『柔道着の布って、天然のエアコン構造なんだぜ』ってドヤ顔で話してみてりん！",
       "source_ids": [
-        18,
-        19,
-        20
+        10,
+        11,
+        14
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbF0J_3F_pI1C9xyV6SnvfNTVqEMovDL122pIeG4cqO50twX550uvL9eERWqtvWH-vEssLocbdcPd-h7w1eku27_alZwVedN0KJzrvE5i5IgLOKuW8Pf9x1yjSaDnviLIqCnMYMektIC9j5SNTmQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvFhlGfPmLH49BUis8Rs5wnQ283g2M3o5Zff4VZgN4IglvFM5ZjS5YVa_hsQkwnHq3ojojp6GGyMxrvwW3V71noDc-FUwtEGFIpe6P2gfhv3kBRQkdXTfQVVjbHZ0=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn0TSGvxxuD9V1Pg7RL1ABDxmievXbXFImxhcVflpNViDEX34Gu6AAVUwTuQ1KJ0dxetsCwah3xRobMNAKafWCDhnNtqfgZ6cQ7UhbbaMVtuf0YI6P"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHPDlDOIFnw3JdAJkQFKemQV34-TyU2RmnwhdngnA5SrmdHUOlAXaVPnhWzktPZZBiDyKvBfUXGB2nxHc5mC_0F3eRLe5atEVwPbNfloKf7Qn4dZQpPhhmWa7Bc-5LX95UvsCiwWnqYh3VPkjbTQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWt7aXlNYGkN_yHvEv6i2n_BTYCLjXLBWTou1pt3NrHRH7S8jJnJupwIxFj-lHaH8WZ5Y-Dlp2PfscwWuIrIjbQSklxXnTbDB9dlKc7QeMPmQEaQD_zIFIDbioYXcuGeX7U0MDarRem6oBhURunkH24OQyS8c=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3z42QhteldPp4uWPdXkzr2IJPHHVK3RzWeGYXAZzfut7r2b-_R0J5cJvLy96ELoKQITuYnIfkovRe52GrpS4_M-KaCpJm8FUZFcBcdkPQKnwl7hGVcY0-6rOmJKo4Yhs="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ向けに、晩秋（11月）の季節にぴったりな「季節・趣味・ゆったりした話題」について、公的機関や研究所などの一次資料に基づいた調査メモを作成しました。家族や近所の方に思わず話したくなる話題を4件厳選しています。\n\n---\n\n# 晩秋のゆったり雑学 調査メモ（4件）\n\n---\n\n### 1. 【豊田市小原】紅葉と桜が同時に満開？「小原の四季桜」が秋に咲く不思議\n\n* **理由（なぜ秋に咲くのか）**  \n  小原地区に咲く四季桜は、マメザクラとエドヒガンの自然交雑種とされるサクラです。通常のサクラは春に咲いた後、夏にできた花芽（つぼみ）が休眠に入り、冬の寒さを経て春に一斉に開花します。しかし四季桜は、夏の間に充実した花芽の一部が休眠に入らず、秋から冬にかけて順次開花し、残った小さな花芽が冬を越して3月中旬〜4月に開花するという性質を持っています。\n* **具体的な数字や比較**  \n  小原地区内には**1万本以上**の四季桜が植栽されています。春と秋の年に2回咲きますが、春は青葉と同時に小さな花が咲くのに対し、秋は落葉した後に薄紅色の小ぶりな花が一面に咲き乱れます。そのため、緑の葉がない秋のほうが花付きが際立ち、見頃のピーク（11月中旬〜下旬）にはモミジの深紅と淡い桜色の共演という全国でも稀な絶景が生まれます。\n* **意外な点**  \n  「桜といえば春」という常識を覆し、小原では**「春よりも秋のほうが花が目立って美しい」**と言われる点です。春のように一気に咲いてパッと散るのではなく、秋の彼岸頃から初冬にかけて次々と長期間咲き続けるのも大きな特徴です。\n* **ちょっとした歴史の裏話**  \n  ルーツは江戸時代の文政年間（1818〜1829年）。小原北町の漢方医・藤本玄碩（ふじもとげんせき）が、患者から「晩秋に花を咲かせる珍しいサクラがある」と聞き、苗をもらい受けて屋敷に植えた1本の親木から始まりました。1978（昭和53）年に当時の小原村が「村の木」に制定したことを契機に、住民や地元中学校の生徒たちが挿し木で苗木を育て、地域ぐるみで1万本を超える名所へと育て上げました。\n* **根拠・出典**  \n  豊田市公式観光サイト「ツーリズムとよた」（コラム「山肌をピンクに染める四季桜と紅葉の共演」）、豊田市小原観光協会資料、公益財団法人日本交通公社「全国観光資源台帳（小原の四季桜）」。\n\n---\n\n### 2. 【愛知・三河】夜の温室がピカピカ光る「電照菊」の秘密：なぜ夜に照らすのか？\n\n* **理由（なぜ光を当てるのか）**  \n  キクは、昼の長さが短く、夜（連続した暗闇）の長さが一定時間以上になると花芽を作って咲く「短日植物（たんじつしょくぶつ）」です。電照栽培は、夜間に人工照明を3〜4時間あてて暗闇を分断することで、キクに「まだ夜が長くなっていない（＝夏だ）」と錯覚させ、**花が咲くのをストップ（抑制）**させています。\n* **具体的な数字や比較**  \n  愛知県は**キクの出荷量・産出額ともに日本一**を誇り、三河地域（田原市・渥美半島など）はその一大拠点です。電照に必要な明るさはわずか**50ルクス程度**（薄暗い街灯程度）で十分反応します。出荷したい時期（需要が高まる正月や春の彼岸など）の約50〜60日前に照明を止めると、キクは「秋が来た」と一斉に花芽を作り始め、狙ったタイミングで出荷できます。\n* **意外な点**  \n  夜に光を当てている光景を見ると、「日光の代わりに光合成をさせて早く大きく咲かせている」と思われがちですが、実は正反対で**「咲かせないように成長を焦らしている」**という点です。\n* **ちょっとした歴史の裏話**  \n  夜間照明でキクの開花が抑えられることは昭和初期に学術的に判明し、終戦直後の**1947（昭和22）年に愛知県渥美半島（現・田原市）で実用化**が始まりました。温暖な気候に加え、1968（昭和43）年に豊川用水が通水したことで水不足が解消され、日本を代表する花き産地へと飛躍しました。\n* **根拠・出典**  \n  農林水産省委託プロジェクト・農研機構等編「キク電照栽培用 光源選定・導入のてびき」、農業技術事典 NAROPEDIA「電照栽培」、愛知県教育情報基盤「愛知エースネット（渥美の電照菊）」。\n\n---\n\n### 3. 【食・秋の味覚】石焼き芋はなぜ劇的に甘い？電子レンジでは出せない甘さの科学\n\n* **理由（なぜ焼くと甘くなるのか）**  \n  生のサツマイモ自体には甘味成分である「麦芽糖（マルトース）」はほとんど含まれていません。加熱によってイモの中のデンプンが糊化（のり状に緩む）し、そこにサツマイモ自身に含まれる消化酵素「β-アミラーゼ」が作用することで、デンプンを分解して麦芽糖へと変化させます。\n* **具体的な数字や比較**  \n  β-アミラーゼが最も活発に働くのは**「65℃〜75℃前後」**という限られた温度帯です。電子レンジで一気に加熱すると短時間で80℃を超えてしまい、酵素が熱失活（破壊）して麦芽糖があまり作られません。一方、石焼き芋は小石の蓄熱と遠赤外線によって熱が中心部へ極めてゆっくり伝わるため、この「65〜75℃」の甘み生成ゾーンを長時間キープできます。実験では、じっくり加熱した芋の麦芽糖含有量は急激に加熱した場合に比べて圧倒的に高くなります。\n* **意外な点**  \n  サツマイモの甘さは最初から畑で決まっているわけではなく、**「焼いている最中の1時間ほどの加熱コントロールによって、芋自身の酵素がその場で作り出している」**という点です。\n* **ちょっとした歴史の裏話**  \n  江戸時代には「栗（九里）より（四里）うまい十三里」として焼き芋が大流行しましたが、当時は大釜で蒸し焼きにするスタイルが主流でした。現在おなじみの「石焼き芋」の屋台スタイル（小石を敷いた特製釜をリヤカーや軽トラックに載せる方式）が考案され全国に普及したのは、昭和20年代半ば（戦後）のことです。\n* **根拠・出典**  \n  日本いも類研究会「おいもQ&A：焼きいもが甘いのはなぜですか？」、日本応用糖質科学会「続・サツマイモ澱粉のお話」、農研機構・品種研究報告。\n\n---\n\n### 4. 【自然・秋の森】ドングリはなぜ年によって「大豊作」と「大凶作」を繰り返すのか？\n\n* **理由（なぜ実の数が激変するのか）**  \n  ブナやミズナラなどのブナ科樹木が、森全体で一斉にたくさんのドングリを実らせる年（豊作）と、ほとんど実をつけない年（凶作）を周期的に繰り返す現象を生態学で**「マスティング（同調結実）」**と呼びます。実を大量に作ることで樹体内の炭水化物などの養分を使い果たすため回復期間が必要であることに加え、進化の過程で獲得した「捕食者飽食仮説（サバイバル戦略）」が理由とされています。\n* **具体的な数字や比較**  \n  毎年同じ量のドングリを実らせると、それを食べるネズミやリスなどの動物が増えて実を食べ尽くされてしまいます。そこで、数年間凶作にして動物の数を減らし、数年に一度ドングリを動物の胃袋のキャパシティをはるかに超える量で一気に落とすことで、食べ残されたドングリが確実に芽吹くようにしています。  \n  森林総合研究所が東北の山地で40年以上ミズナラを観測したデータによると、**かつては「3〜4年周期」だった豊凶の間隔が、気温上昇（約40年間で0.8℃増）に伴い2000年代以降「2年周期」へと短縮化している**ことが判明しました。\n* **意外な点**  \n  木が1本ずつバラバラに実をつけるのではなく、広大な山や森全体で**「同じ種類の木々がまるで連絡を取り合ったかのように一斉に」**豊作・凶作を同調させている点です。\n* **ちょっとした歴史・研究の裏話**  \n  昔から里山やマタギの間で「山の成り年（なりどし）」として経験的に知られていましたが、近年はドングリの凶作がツキノワグマの人里大量出没に直結することから、林野庁や森林総合研究所が科学的な解明と出没予測モデルの構築を精力的に進めています。\n* **根拠・出典**  \n  国立研究開発法人 森林研究・整備機構 森林総合研究所「自然探訪：変わりつつあるドングリの豊作周期」、同研究所研究成果（柴田ら）、岐阜県森林研究所「林業一口メモ：ドングリの豊凶」。\n\n---\n\n## 📻 番組用 3択クイズコーナー案\n\n**【取り上げる話題】：電照菊（でんしょうぎく）**\n\n* **問題**  \n  「愛知県が日本一の生産量を誇る『電照菊』。夜のビニールハウスでピカピカと電灯の明かりを照らして育てられますが、**夜にわざわざ光を当てている本当の理由**は何でしょう？」\n* **選択肢**  \n  1. ハウス内をポカポカに温めて寒さから守るため  \n  2. 花が咲く時期をストップさせて遅らせるため  \n  3. 虫を光でおびき寄せて受粉を助けてもらうため  \n* **正解**  \n  **2番：花が咲く時期をストップさせて遅らせるため**\n* **解説トークの要点**  \n  「光を当てて昼間のようにして『早く咲かせている』と思われがちですが、実は真逆なんです！キクは『夜が長くなると秋を感じて花を咲かせる』という性質（短日植物）があります。夜中に数時間ピカッと明かりをつけて暗闇を途切れさせることで、キクに『まだ夏だから咲くのは早いよ〜』と勘違いさせ、開花をストップさせているんですね。お正月やお彼岸など、お花がたくさん欲しい時期に合わせて明かりを消すことで、狙った時期に見事な花を咲かせている農家さんの知恵なんです。」",
+  "research": "愛知県安城市和泉町の地域ラジオ放送向けに、リスナーが思わず食卓や職場で「へえ、そうだったのか！」と話したくなる、暮らしの知恵と身近な工夫に関する調査メモを作成しました。\n\n---\n\n# 暮らしの知恵・身近な工夫 調査メモ\n\n---\n\n## 1. 【家計の日】11月の食品値上げと「調味料ロス」ゼロ化のやりくり術\n\n### 疑問\n「秋の値上げラッシュは落ち着いたはずなのに、なぜ11月も買い物カゴがずっしり重く（家計に重く）感じるの？」\n\n### 理由と背景\n帝国データバンクの「食品主要195社」価格改定動向調査（2026年10月30日発表）によると、2026年11月の飲食料品値上げは合計1,477品目。月3,000品目を超えた秋（9〜10月）のピークは越えて一服したものの、前年同月（150品目）の約10倍という高水準です。\n今回の大きな特徴は、全分野で最多となったのが「調味料」（644品目、全体の4割超）である点です。マヨネーズ類やソース、ドレッシングなど、毎日の自炊に欠かせない基礎調味料が軒並み引き上げられました。要因は原材料高に加え、物流費や人件費の高騰が価格へ転嫁されているためです。\n\n### 具体的な数字・比較\n* **11月の値上げ品目数**: 1,477品目（平均値上げ率17％）。\n* **年間累計**: 1〜12月判明分で20,327品目となり、2年連続で年間2万品目を突破。\n* **分野別内訳**: 調味料が644品目で最多。次いでペットボトル・缶コーヒーなどの酒類・飲料が417品目、魚びん・缶詰などの加工食品が275品目。\n\n### 暮らしのやりくり知恵\n調味料の値上げ対策で最も効果的なのは「安売りのまとめ買い」よりも「家庭内の調味料ロスをなくすこと」です。\n1. **計量スプーンの習慣化**: 目分量で入れると使いすぎになりやすく、味のブレも出ます。計量して使うだけで消費スピードが約1〜2割抑えられます。\n2. **「専用だれ・ドレッシング」の買い置き見直し**: 使い切れずに冷蔵庫のドアポケットで賞味期限を迎えがちなドレッシング類は、醤油・酢・油・砂糖などベースの基本調味料をその都度小皿で合わせるスタイルに切り替えると、冷蔵庫の省スペースと調味料の廃棄ゼロを両立できます。\n\n### 根拠資料\n* 株式会社帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年11月』（2026年10月30日発表）\n\n---\n\n## 2. 重曹とクエン酸は「混ぜると泡立つから強力」の大いなる誤解\n\n### 疑問\n「キッチンやお風呂の掃除で、重曹とクエン酸を混ぜてシュワシュワ泡立てると、ものすごく汚れが落ちる気がするけれど……本当は逆効果ってどういうこと？」\n\n### 理由\nSNSや掃除本などで「重曹にクエン酸をかけると発泡して汚れが浮く」とよく紹介されます。しかし化学的には、弱アルカリ性の重曹（炭酸水素ナトリウム）と酸性のクエン酸を混ぜると中和反応を起こし、水・クエン酸ナトリウム・二酸化炭素（炭酸ガス）に変わってしまいます。\n発生する泡は単なる「炭酸ガス」であり、こびりついた汚れを強力に分解・剥ぎ取るほどの物理的力はありません。むしろ、互いの長所である「重曹のアルカリ（油汚れ・皮脂を分解する力）」と「クエン酸の酸（水垢や石鹸カスを溶かす力）」を打ち消し合ってしまいます。\n\n### 具体的な数字・比較\n* **液性（pH）の対比**:\n  * クエン酸：pH 約2〜3（酸性） ⇒ カルシウムを含む水垢、電気ポット内部の白い汚れ、尿石などの「アルカリ性汚れ」を中和して分解。\n  * 重曹：pH 約8.4（弱アルカリ性） ⇒ キッチンのベタつく油汚れ、皮脂、鍋の焦げ付きなどの「酸性汚れ」を中和・加水分解して落とす。\n* 混ぜて中和するとpHが中性付近に近づくため、化学的な分解力は単独使用時より低下します。\n\n### 意外な点と暮らしの工夫\n泡の視覚的インパクトに惑わされず、**「油汚れや手垢には重曹だけ」「シンクの水垢や鏡のウロコにはクエン酸水だけ」**と単独で使い分けるのが最も汚れ落ちが良く、洗剤の無駄遣いにもなりません。\n（※なお、重曹の粉末にはモース硬度約2.5という「爪より少し硬い程度」の柔らかい研磨力があるため、傷をつけにくい天然クレンザーとしても単独使用が重宝します。）\n\n### 歴史の裏話\n日本では江戸時代、洗濯には石けんの代わりに「灰汁（あく＝アルカリ性）」や植物のサポニン（ムクロジなど）が使われていました。昔の人々も「油混じりの汚れはアルカリで落とす」という知恵を経験則として体得し、使い分けていました。\n\n### 根拠資料\n* 第一石鹸株式会社『重曹・セスキ炭酸ソーダ・クエン酸・過炭酸ナトリウムの使い方』\n* 石鹸百科『掃除では混ぜないで！ 重曹とクエン酸』\n* 日本石鹸洗剤工業会『暮らしの中の石けん・洗剤』\n\n---\n\n## 3. 【西三河の知恵】なぜ三河木綿の「刺し子」は桁外れに破れにくく暖かいのか？\n\n### 疑問\n「西三河の伝統織物『三河木綿』。なかでも凸凹した『刺し子織』は、なぜ布なのに火消しの半纏や柔道着に耐えるほど頑丈で、着るとふんわり暖かいの？」\n\n### 理由\n安城市を含む西三河地域は、矢作川流域の温暖な気候と水はけの良い土壌に恵まれ、江戸時代から綿作が盛んな日本屈指の綿織物産地でした。\n布を補強するために糸を細かく刺し縫いした東北地方などの手工芸「刺し子」に対し、三河では明治時代に**織機を使って布自体に太い緯糸（よこいと）を幾重にも立体的に織り込む「刺し子織」**の技術を確立しました。布の表面に規則的な凸凹の立体構造を作り出すことで、引き裂きや摩擦に対する強度が通常の平織りとは比較にならないレベルに跳ね上がります。\n\n### 具体的な数字・比較\n* 江戸時代、三河の木綿は「三河白木綿」として江戸の木綿問屋で高い評価を受けました。\n* 刺し子織の生地は、引張強度や耐摩耗性に優れるため、火の粉から身を守る江戸町火消の「消防半纏」や、激しい引っ張りに耐える「柔道着」「剣道着」の定番生地として現代でも高いシェアを誇ります。\n* **保温と通気の二重構造**: 表面の凸凹によって生地と肌の間に「空気の層」ができるため、冬は体温を逃がさず暖かく、夏は肌に張り付かず汗を吸ってサラリと過ごせるという、天然の高機能ファブリックの性質を持ちます。\n\n### ちょっとした歴史の裏話\n西三河の機織り農家では、女性たちが夜なべをして重労働の手機（てばた）を動かしていました。その姿を見て「母や農家の重労働を少しでも楽にしてあげたい、能率を上げて生活を豊かにしたい」と一念発起したのが、のちのトヨタグループの創業者・豊田佐吉です。佐吉は三河近郊（刈谷や半田など）の織布業者と関わりながら、1890年に「豊田式木製人力織機」、1896年に日本初の動力織機「汽力織機」を開発し、日本の繊維産業と暮らしの機械化を大きく押し上げました。\n\n### 根拠資料\n* トヨタ産業技術記念館 展示解説資料\n* 株式会社豊田自動織機『豊田佐吉物語』\n* あいち産業科学技術総合センター 三河繊維技術センター 報告資料\n\n---\n\n## 4. 【3択クイズ付き】セロハンテープがロール状で貼りつかない「極薄多層」の秘密\n\n### 疑問\n「セロハンテープはあんなに薄いのに、巻いてあるテープ同士はスルスル剥がせるのに、貼るときはピタッとくっつくのはなぜ？」\n\n### 理由\nセロハンテープは透明な1枚のテープに見えますが、実は**わずか約0.05mm（50ミクロン）の厚みの中に「4つの層」が重ね合わされた高度な構造**をしています。\n表面側には粘着剤をはじく「はくり剤」が塗られており、裏面側には天然ゴムなどを主原料とする「粘着剤」が塗られています。ロール状に巻き取られていても、表面のはくり剤のおかげでテープ同士がくっつかずに軽く引き出せ、目的の場所に貼ると裏面の粘着剤が微細な隙間に入り込んで密着する仕組みです。\n\n### 具体的な数字・比較\n* **厚さ**: 全体でわずか**約0.05ミリ**（1ミリの約20分の1）。\n* **4層の構造**:\n  1. **第1層（表面）**：はくり剤（粘着剤をはじき、スルスル引き出せるようにする）\n  2. **第2層（基材）**：セロハン（木材パルプ由来の植物性フィルム）\n  3. **第3層（接着）**：下塗り剤（セロハンと粘着剤を強固に密着させ、テープを剥がす際に糊残りを防ぐ）\n  4. **第4層（裏面）**：粘着剤（天然ゴムや松脂などの天然樹脂が主原料）\n\n### 意外な歴史の裏話\n日本で初めて国産セロハンテープ（セロテープ®）が生まれたのは終戦直後の1947〜1948年。開発のきっかけは**GHQ（連合国軍総司令部）からの緊急要請**でした。GHQのオフィスで検閲済み手紙の封かんや書類留めに使っていたアメリカ製テープの補給が途絶え、医療用絆創膏を作っていた日絆工業（現・ニチバン）に「至急作ってほしい」と依頼されたことから、試行錯誤の末に国産化されました。\n\n---\n\n### ★ ラジオ用 3択クイズコーナー\n\n**【問題】**\n事務や工作でおなじみの透明な「セロハンテープ」。\n厚さはわずか「約0.05ミリ（1ミリの20分の1）」しかありませんが、実はテープ同士がくっついてしまわないよう、特殊なコーティングが重ねられています。\nでは、この0.05ミリの中に、層は全部でいくつ重なっているでしょうか？\n\n* **① 2層**\n* **② 3層**\n* **③ 4層**\n\n---\n\n**【正解】**\n**③ 4層**\n\n**【解説トーク用メモ】**\n正解は「4層」です！\n表面から順に「①はがれやすくする剥離剤」「②木材パルプからできたセロハン」「③糊が取れないようにする下塗り剤」「④天然ゴムの粘着剤」という4層構造になっています。\n表面に薄いはくり剤が塗られているおかげで、ぐるぐる巻きのロールからスルスル引き出せるという、日本の職人技・精密技術が詰まった身近な文具です。\n\n### 根拠資料\n* ニチバン株式会社『セロテープ®ができるまで』『セロテープ®の歴史、製造工程、環境配慮』\n* 科学技術振興機構（JST）Science Portal『THE MAKING（20）セロハンテープのできるまで』",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%A9%E3%82%93%E3%81%90%E3%82%8A+%E8%B1%8A%E4%BD%9C+%E5%87%B6%E4%BD%9C+%E7%90%86%E7%94%B1+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">どんぐり 豊作 凶作 理由 森林総合研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9B%BB%E7%85%A7%E8%8F%8A+%E3%81%AA%E3%81%9C%E5%A4%9C%E3%81%AB%E5%85%89%E3%82%92%E5%BD%93%E3%81%A6%E3%82%8B+%E7%9F%AD%E6%97%A5%E6%A4%8D%E7%89%A9+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">電照菊 なぜ夜に光を当てる 短日植物 愛知県 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B0%8F%E5%8E%9F+%E5%9B%9B%E5%AD%A3%E6%A1%9C+%E3%81%AA%E3%81%9C%E7%A7%8B%E3%81%AB%E5%92%B2%E3%81%8F+%E4%BB%95%E7%B5%84%E3%81%BF+%E8%B1%8A%E7%94%B0%E5%B8%82&client=app-vertex-grounding&safesearch=active\">小原 四季桜 なぜ秋に咲く 仕組み 豊田市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%B5%E3%83%84%E3%83%9E%E3%82%A4%E3%83%A2+%E7%84%BC%E3%81%8D%E8%8A%8B+%E3%81%AA%E3%81%9C%E7%94%98%E3%81%8F%E3%81%AA%E3%82%8B+%E3%82%A2%E3%83%9F%E3%83%A9%E3%83%BC%E3%82%BC+%E6%B8%A9%E5%BA%A6+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">サツマイモ 焼き芋 なぜ甘くなる アミラーゼ 温度 農林水産省</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%87%8D%E6%9B%B9+%E3%82%AF%E3%82%A8%E3%83%B3%E9%85%B8+%E6%B1%9A%E3%82%8C+%E8%90%BD%E3%81%A1%E3%82%8B+%E4%BB%95%E7%B5%84%E3%81%BF+%E7%9F%B3%E9%B9%B8%E6%B4%97%E5%89%A4%E5%B7%A5%E6%A5%AD%E4%BC%9A&client=app-vertex-grounding&safesearch=active\">重曹 クエン酸 汚れ 落ちる 仕組み 石鹸洗剤工業会</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81195%E7%A4%BE+11%E6%9C%88+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要195社 11月 価格改定動向</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C+%E4%B8%89%E6%B2%B3%E6%9C%A8%E7%B6%BF+%E8%B1%8A%E7%94%B0%E4%BD%90%E5%90%89+%E6%9A%AE%E3%82%89%E3%81%97%E3%81%AE%E7%9F%A5%E6%81%B5+%E7%B9%8A%E7%B6%AD&client=app-vertex-grounding&safesearch=active\">愛知県 三河木綿 豊田佐吉 暮らしの知恵 繊維</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BB%E3%83%AD%E3%83%8F%E3%83%B3%E3%83%86%E3%83%BC%E3%83%97+%E3%81%AA%E3%81%9C%E3%81%8F%E3%81%A3%E3%81%A4%E3%81%8F+%E3%83%8B%E3%83%81%E3%83%90%E3%83%B3+%E4%BB%95%E7%B5%84%E3%81%BF+%E7%B2%98%E7%9D%80&client=app-vertex-grounding&safesearch=active\">セロハンテープ なぜくっつく ニチバン 仕組み 粘着</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEojLcQhaMYYD4UeHo8vhky_JD61Q9GPZunwYO6Qbx0O9BeiF9BKnBxEu6-LZAqHHrAoO_-a1fm007YG86DE2efusc9ysg2JcThtLFi1np7uj7avu8gS_7f7eHeFTXQAh-cuH1h",
-          "title": "kankou-obara.toyota.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAbg5dihZqgDhU-HTr1gGAy9nx0FPzbPMUknkecbFpCIIzK4LjHTFewD7B4eN_7mKkvRqmH8alJUoEMKpNKC8ra5phHpjCh9Rxz2HprrFXaXoVchfh0tai70jihks2B6DVy0PKU-jV8xd-DsXf6Mm",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZM8RPGnM_S8Yz-mYXTY2GNEYOWqn0jCTEiiJQ4NWEjr4PF967pLLo68hUeUu2oQbWhB_vCnhhz6sk3LNtj1ETA4GQjAkNskh_ggrHB55N_ov2bUhmdDdl",
-          "title": "jtb.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH29Axuc3vT9pkM-Zs4kpJeb8_XXGm14Okfb2spgiztXqUVL02MGarNdQe2x5RxMWYC_brsYOha7Oqwo-EnMsmXHNEXR-hlhL7HtaXtIiQUfne-pj0yXodkja9SyDM=",
+          "title": "f-weeklyweb.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkRhPz6Xi_Ck_es3slRKzwGFIKMTTIDF949PzIfm0NLM-BQSLrGc04GoIWZegeaicNYlPf9OnaeiMhYEFwm2HvOY6yraL-S_n9ABTujiasYApW9-ByGLv7r3P2YQ==",
-          "title": "4travel.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQe2Gqz-QSehwVZYzpqoC7WKP7wXX1W9vanyJ7ODWKvy7hlSOhQg32W7q_s1bdSAI5RSeH0eLh_zqdBK4rtwz2kPfLvtq-nf-WwTeN_yu_wyFRIcL0BISxogw6",
+          "title": "daiichisekken.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfOp0FeMNt5owQDl5kI_apNPSzSky_oHjI9T8YwVPWSSmF6hyU88Mk986P9GEGYXHEfs8sRKhIRBh0KWDZAIJhYDlLqZ6OCUdkDI4RmNHHSvWzV_7yxLO6-QbORJmmvldslUcr",
-          "title": "tourismtoyota.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv9j0cL9pXgv1xoq6wTKB4FfPQc5BeeN8SzNQRjUTtuZn4OkWWBT2mVV7BWP1k1N_NFqGUG6w2NfQD2Nd6pZi6lTghh3_QFVDPGH6f09UtC0Yd1ekky6KakSLffTMDY0fdn4SdR6IeyqE81roSiWeJA1e1",
+          "title": "live-science.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGIvuWRgCwpL_bW_Kfec3rCOtsKeIPlJUqLFtcHitWhSKtCT7F6ipx0maWpc9czQyfkQPyGQVvausZIm6jHfmXrSv0IcD5JlfLw6Sck8c1oiyaqyiQZUQRd3JD8_I43L0n7AuBhg==",
-          "title": "tourismtoyota.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE43QhT_uiU3D2KlwfCVpC15XCuHonopbZG4d0_T33sCO5IU8RwfvWgqYa0N3rUSsY9383Csq_-I-ziF2WCfONC1TC5lhW8bGG9XgkW87-aERLI3wERMxl_DaQ3QGQHGtqhET8g33Y=",
+          "title": "osoujikakumei.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIBp1cMMTBh6y653K9GOueFo049unIkMgEpgBywFjNNdHfRIgpagEpysFsOhBFg9Y_8blVKZZCpbiUyR-pts494MS5h90seLWGOYGC__5M9dL4VM2JdM0t2ukNgPyFNDX2RfmkI1jW",
-          "title": "azutelier.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-IL7RjRQFqvABL4KLU77K-c9w7EMuaoEnuSQTcFt2xSB7sIgHjifqQGAbPl75KlatXkERYzgqPbpBTQOh9TggNQf0bTyJZNdfyAsgFy3rYg97ARdECNViR0Q1yMf4ZMALu8Y9kSTJiZiw3lhq",
+          "title": "chem-station.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfKw5uZ0hShYVcX4fdmCRp1Pp0RdwQyhPhvJmjQs7G-4DeIXjW6lu99WBnw9Z4D8-gsRhwil66b_xn9c-U6tUhOyFxSAPhCjTIF0Mx6xKwIwDM1_cEXW81sT3DwC6NrUTV-06q6aUrJuRT3mcRkZE=",
-          "title": "city.toyota.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG2P-Yd2k-3TcIwHWoGGhNzdV66lVnpsGpK1c2avL7EnlGs9BoTDDST5PBpZt2U1aKWWcAuHgVLuwwH9C65ds80Knalw13CSCQ0_EvTEa9NG88s4wj3QGp9oIsnRvfzWGa4vV6nUvvZ7z1PqfZWEsupbBkdw==",
+          "title": "jsda.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX8PfLF6_d7IzFA97TX7DCuYye_XYNh1GCTgE9ONA0ETzQ-rLbsepmW2vMW94IlTDZiHMmICzwvd7gdDCqwxR_sokOVOw58WT1_YWoBQpEnBAlPg==",
-          "title": "xsrv.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5d2OLkzl540sv6IJr5PZu0elZLTZSnEbVY_qC_NdVYGpAEDNlW8ABquVBkKtbJPsDe6MxvHWXYao74Es64ZQYk1m19NTTfsCzM_Z9HXVwGzXzfTQSb73mbE6ulY3UTMUfVpKeuImMtnI7XpkYf37Gjt0gdw==",
+          "title": "hatenablog.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzPLrUrHN5XZ0NvQXy1Nd2YjvPDt_8geiISDAURysKf6GtB6bktSf4pqTXeBBraBwIHvw5CvVALpHTuIAOx5DSxuM8Zc6PWPATxy4rDJrbQqOHcY8XHm0P80zu6CiFEnmA",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHPDlDOIFnw3JdAJkQFKemQV34-TyU2RmnwhdngnA5SrmdHUOlAXaVPnhWzktPZZBiDyKvBfUXGB2nxHc5mC_0F3eRLe5atEVwPbNfloKf7Qn4dZQpPhhmWa7Bc-5LX95UvsCiwWnqYh3VPkjbTQ==",
+          "title": "aichi-inst.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnkOk8SPprdeqdWm_yWKl8PHkjjKeFikv1PJmN7TMUsAcXOiJhI5NcDH_vlTPl979YhZ2DyJwG87X5dlsSBF-iqRNMUDU5QBRlCguxPJ8Lg4F8mBra6Z-kzdQ6-KnETmTdKVc=",
-          "title": "ruralnet.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWt7aXlNYGkN_yHvEv6i2n_BTYCLjXLBWTou1pt3NrHRH7S8jJnJupwIxFj-lHaH8WZ5Y-Dlp2PfscwWuIrIjbQSklxXnTbDB9dlKc7QeMPmQEaQD_zIFIDbioYXcuGeX7U0MDarRem6oBhURunkH24OQyS8c=",
+          "title": "toyota-shokki.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtE0YzzMs9YLG8aW7r2dVJjLy02Va_2B7XYWiGWMrrd6MA_OxyTUc3CKuqmR0wEJvoPTBcdFuP0pSEQuaXY3dNKybcmgSe2oiiJxn4cs_SEUFkt2jZrUALQ2EsCTA8WLHNd4sWPYlR2kBqrngkfBgrBv24HFbenqI8qrP5BlHIL0AlLHWs6z0b8mQ9PX2hW4U=",
-          "title": "naro.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHa7vgIt7KNAVZPcrcsfpCcHYr3g94RVc0QmveRvbPkcVLruGRrg2GXp9_VUL9U1PWMNV5csa3bTG1-a8hMmRYjPPdKo5kRejR8gOkIy6DWW4e-kvDPDgLiAA==",
+          "title": "fukkatu-nagoya.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGonIpjwR-FZ-IcCmdA6z8n6PrS8KOksgQxC9xo68aCag1yPtTcLafTN8izvf4nVU9lDiA0fDP_PlJHWJrcSW1G4yj2AG_-lsalvk3oJAkGFTa3xvZuBRfn9XW4g==",
-          "title": "mystrikingly.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNBXLfj0lkdiOj9cB2H04QAHh2voY_eAxTCH2JrzmSHi4Gh0fcBycDPAzYs7_kNykrcGaG6xa-xOBbsuozKlSo7KauUbI9cKSdZR7xWitsw_TQTkFU8mSq7OZJcXjJXMEFZ-M=",
+          "title": "mitsuipr.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFG8TGZisHY4trbMbQds_B61T8YeDaPBjLtZSGHCALialqwOCJ_PB9yJbt5IznnZo7UgtbcL_aAqtOOVr5tLFIgLINfSsAyPDcEfVoZPK-Q3APpD91uUt7yA6x2y7_a6DUuvMG654dHiYd2hztN4dYbiG83XGv4QEWZgpsm7OP67_Tyt9Q=",
-          "title": "aichi-c.ed.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3z42QhteldPp4uWPdXkzr2IJPHHVK3RzWeGYXAZzfut7r2b-_R0J5cJvLy96ELoKQITuYnIfkovRe52GrpS4_M-KaCpJm8FUZFcBcdkPQKnwl7hGVcY0-6rOmJKo4Yhs=",
+          "title": "tcmit.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEw7JTU0MR166lbs9H2Na5Z1w98xMrydT0OvQttkMZqDvSul2CeCSatW4yAr2TXQ7Tr0QexheHQKhL_2aYHog6g6aQJ3jPhgoDesTLEbiWZ1rHhVLoumJH2Le25sfgkrNsC52ERsaHxLuqHKWalkFWqOzxFcGoM4ek6R50=",
-          "title": "agris.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-X5vTSLpVxXs2HiYk9vEaHSafyzrB87fo3fZieqaoZzVoCyKj86U7hGATJfvgmUmywj-rtHM7UT1SFRxVIza2gcvjR_KjxXqR_UiNxO6IdWCyYPrKSTLbZc7027jUEw==",
+          "title": "kokojimo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHZXOFP1Veo00y9JxA0keIoF_0w7JeWmeweyDLAo8Wjw4GXUlmqeHSmnZ7Z2Fca3r980fjOJ6SBQhAkSSpkJJyeP6wbLO1dx9KFrtFcerNnHjvHBgar6hs4Bn7XhZ4lDs8CS71WAZbsv47nZD-",
-          "title": "100nen-kankyo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwRtPjgbqCnLf0wcVIBwL-WUib6slzHoxCiiC6JeWPWMC7xzxE9m5RJRrXMoGZfrG_a-Ni9o0dfsaWIArF7WfVyxJikY8GXXqaLviAjkSJPiQknfIXn5Z9AJD2sw5RttHZ",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGShDQi0eSaawOBu93KzQbIvDtBlELkxKyiM4RYU1VE8umDiO30QVQH01VTqI87KhBSGnAFzAhaTutwKA9BkM4LA29cFpT1KQzhLswFT9cL61-QQwKJgmfqpBfL3FnFlGA1NLlP",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMY9i8xk93OG8BcwN5ycjL2vR926zUgV79r32_8xHYXd983TvwxWgO8spGpZwMJweEUj3kwLAhNwu_nceAp2G-_ZDvHZkCT1HMubGM8TZQ7LioHI_UWKm2toG3oE7QEX_8",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbF0J_3F_pI1C9xyV6SnvfNTVqEMovDL122pIeG4cqO50twX550uvL9eERWqtvWH-vEssLocbdcPd-h7w1eku27_alZwVedN0KJzrvE5i5IgLOKuW8Pf9x1yjSaDnviLIqCnMYMektIC9j5SNTmQ==",
-          "title": "kagome.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiMwHAlYy1ovlNJF1zc1WiAUHcshbVGVwdAE0LrfNa5lTilQq2ltM3HrGbbuPmFvdTIlV8p_jt10pwYBASwkh_yTIu0_VK3hrgePE5xmnMyoIHqdxSioqlWBFJMKGeXYg=",
+          "title": "zatsuneta.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvFhlGfPmLH49BUis8Rs5wnQ283g2M3o5Zff4VZgN4IglvFM5ZjS5YVa_hsQkwnHq3ojojp6GGyMxrvwW3V71noDc-FUwtEGFIpe6P2gfhv3kBRQkdXTfQVVjbHZ0=",
-          "title": "jrt.gr.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSPxYpJ3q9GAE8VW8MVKx8AsbbBGHVWgBVWdPQ3snFCbxwL6ASba_2n8hTSyLriZ9wZXDBKo5BZn6iPCpk0M2jurZNZ0ee5FEZ-dnB5U1J0LAWIDG7AfaKBPeIN1tV-DAC9-jhCNCzLOk=",
+          "title": "uraken.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn0TSGvxxuD9V1Pg7RL1ABDxmievXbXFImxhcVflpNViDEX34Gu6AAVUwTuQ1KJ0dxetsCwah3xRobMNAKafWCDhnNtqfgZ6cQ7UhbbaMVtuf0YI6P",
-          "title": "jsag.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJrDsfQJKExzgsEEtOG9PeJ6x1JegNQtSJTk3npWzark57_OttGVpOCYm2mmevYZXvU2IAusgJXosGW8DLt4tB2vW9gexGrpxGq3xDIWHaKznRcVy5HU0NWg==",
+          "title": "getnews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9k-ht79ZSU-dBkpJdaty_qqa_Q9UHCDGY48JT1q9UXLgIXc3-E_JAzLfYmKqRP3yXQfFAZpqiAUjN9kKqElffr1mLLhL99LOWPmsgLlgNUCgQzhPZFN7KmqxKUwdorRE=",
-          "title": "weathernews.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu7P5yA__MKX-gjVXFCywpNNT4vVRlhzyGNLcFnxQsXORZj-JLswfnLFOagXMV2JC7FXu5bIYOB5rRTLszW8KkQ_eKeYvIYYRAZmbqBcKW_qliXSGpHQy0xzpt5nmpLHnG",
+          "title": "nichiban-cellotape.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5xbqLZlrLkg1kpDtBy09Gdz22q2KgP-TO-nt88PQma3Kbbn6Jwe1_rPxyH66UF-cYQbvA41oHB7MS4_maUsCuFTRIX-HOMXZ-uN5eATARzbJjZ8wjYvZ05iDdh3QJKwEeea4nlsAaJfre6zQ=",
-          "title": "bunri.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw45-7Vvx5CGvgVswpJL5kvCs1UBhsCiR2EcOibITYZM4_caB7Xz2kREOLghUSRVZ_2lo-dZsoOlPI8hvM2n_iywDJ7ce6F52liwwVPRF_fAK7gSFw0snkvZaMavFmLhHVOse4pep-o10Zv3tHzeYS",
+          "title": "jst.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgQyWwVMYTK3n2RIUnABTVf-iy5NFDw62xzavZJ6kbYTJUnhQ-V_lcS6cx9vG9pUi6u0zTyltuyY9A_y8uL_zoFhz8Cs8ebigEdDaEmhiCZPWLz5eWgWbNWkxBwlLzzL6U7lU=",
-          "title": "nuas.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDuU6P-p9TlE3EdVDC6W5qLY0NfBU3mlMhBtuvXHwD0m39yYqY_iRpu1N4ArK3KEdFPITtBYYCntUhuyS6-MZqRxpoKORhF82MLT3wEQ8_m_d1yAi6OGA-kRQuAcAh_cs31dr04aYtpuFXSyfj",
-          "title": "ffpri.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVUneHwf_W09oct1myBgBdpezFHTcNqgYjrtZBGZqq_NTFpVCxa2Y-oFVv4egnIk8dUIOwNi7O0MwJ-TQQvjhJIIM2Tv5jBZ9fJaJ5tNPVGD31nMZk_daiAr609QmHtuhccGOMRw==",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmw-LVubAEyAlOYBKiRO9LyCch76KfMUDg1dO8AcYphQ7oikA8sT7qq6Y8CZohb9Q5rrwlwALEgVNbkIcm6Q2sMecBL0FEqx3W93JhLqdI4GLE72BNi6Vi9wuo3OwZb9widiIEcAETaxZ7wA4eIsoAYg==",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5rSuBw5vlnmYwprz7pbPzAERAib0Kx0bkhpiE8YzuXj6wQBRW-ASqfSri9S3y1EGT4C1j1h0eZp_cQ-Xfbjf5D7_AGkvD-cSYZDEmyOkgyB1-oRzNqacGoO8kcp03xV7BtOjMr5Jh_iQj_1bCGgllQvaXaNQxK05eLXOwFx-UDDk-uj8m2tMmzBaT2ehwZWT42xot7tHbHqKpGBm7ky-IKXes8ybOk5xSwVlri9xPpx2iuR-tQqOVzIaWAZjq",
-          "title": "hokkaido.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7EydjP1TG3aO7tGQPFjGFY4vxfgJFtR8Snv9iLu-0jeNZNp4r2j5dRy_Ry8OslWYr1nfYZGEd2d2OvtAD9R7JY_7YKGqnbL5eyOIie0XWdwpn8fCRpO3QK3aX3knuvgJ2ez3A-1hTMgb3C_iLH6lI19nQOu4igrFuAw==",
-          "title": "env.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS_aCzeJzNQRkeqczqztgFA3T95G8IEvcPpPT8pCIV8sYpI-3-w3jitz6pxCVFT6IXd0Dn761t8LLNFZzp1u6-RGU4m5x-Bvpr7biU58jx-KSTpzM4BhKxldeOZV7fLpLaD6oD3ernqjdyCqxQLX_9gE8zyg==",
-          "title": "fukushima.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx32V1wF6YKIGd1tmwoDyGjYc7h0wgHkb0-gVrFqWw2mCWcAs-enkM6_lPj36J5BF27nodwMibNbE4xUM7AAbSrz7T3f1FlFUMbjd1i8eCktsdcTvKQvTjIushLp4nDGesP30=",
+          "title": "tape-omakase-navi.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 572,
-          "endIndex": 686,
-          "text": "小原地区に咲く四季桜は、マメザクラとエドヒガンの自然交雑種とされるサクラです"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 842,
-          "endIndex": 1081,
-          "text": "しかし四季桜は、夏の間に充実した花芽の一部が休眠に入らず、秋から冬にかけて順次開花し、残った小さな花芽が冬を越して3月中旬〜4月に開花するという性質を持っています"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1123,
-          "endIndex": 1200,
-          "text": "小原地区内には**1万本以上**の四季桜が植栽されています"
-        },
-        "groundingChunkIndices": [
-          1,
-          2,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1203,
-          "endIndex": 1384,
-          "text": "春と秋の年に2回咲きますが、春は青葉と同時に小さな花が咲くのに対し、秋は落葉した後に薄紅色の小ぶりな花が一面に咲き乱れます"
-        },
-        "groundingChunkIndices": [
-          4,
-          2,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1387,
-          "endIndex": 1602,
-          "text": "そのため、緑の葉がない秋のほうが花付きが際立ち、見頃のピーク（11月中旬〜下旬）にはモミジの深紅と淡い桜色の共演という全国でも稀な絶景が生まれます"
-        },
-        "groundingChunkIndices": [
-          6,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1629,
-          "endIndex": 1780,
-          "text": "「桜といえば春」という常識を覆し、小原では**「春よりも秋のほうが花が目立って美しい」**と言われる点です"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1783,
-          "endIndex": 1948,
-          "text": "春のように一気に咲いてパッと散るのではなく、秋の彼岸頃から初冬にかけて次々と長期間咲き続けるのも大きな特徴です"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1996,
-          "endIndex": 2055,
-          "text": "ルーツは江戸時代の文政年間（1818〜1829年）"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2058,
-          "endIndex": 2296,
-          "text": "小原北町の漢方医・藤本玄碩（ふじもとげんせき）が、患者から「晩秋に花を咲かせる珍しいサクラがある」と聞き、苗をもらい受けて屋敷に植えた1本の親木から始まりました"
-        },
-        "groundingChunkIndices": [
-          4,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2299,
-          "endIndex": 2537,
-          "text": "1978（昭和53）年に当時の小原村が「村の木」に制定したことを契機に、住民や地元中学校の生徒たちが挿し木で苗木を育て、地域ぐるみで1万本を超える名所へと育て上げました"
-        },
-        "groundingChunkIndices": [
-          4,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2567,
-          "endIndex": 2705,
-          "text": "豊田市公式観光サイト「ツーリズムとよた」（コラム「山肌をピンクに染める四季桜と紅葉の共演」）"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2567,
-          "endIndex": 2741,
-          "text": "豊田市公式観光サイト「ツーリズムとよた」（コラム「山肌をピンクに染める四季桜と紅葉の共演」）、豊田市小原観光協会資料"
+          "startIndex": 605,
+          "endIndex": 780,
+          "text": "帝国データバンクの「食品主要195社」価格改定動向調査（2026年10月30日発表）によると、2026年11月の飲食料品値上げは合計1,477品目"
         },
         "groundingChunkIndices": [
           0
@@ -378,9 +225,31 @@
       },
       {
         "segment": {
-          "startIndex": 2567,
-          "endIndex": 2834,
-          "text": "豊田市公式観光サイト「ツーリズムとよた」（コラム「山肌をピンクに染める四季桜と紅葉の共演」）、豊田市小原観光協会資料、公益財団法人日本交通公社「全国観光資源台帳（小原の四季桜）」"
+          "startIndex": 783,
+          "endIndex": 937,
+          "text": "月3,000品目を超えた秋（9〜10月）のピークは越えて一服したものの、前年同月（150品目）の約10倍という高水準です"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 941,
+          "endIndex": 1074,
+          "text": "今回の大きな特徴は、全分野で最多となったのが「調味料」（644品目、全体の4割超）である点です"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1077,
+          "endIndex": 1224,
+          "text": "マヨネーズ類やソース、ドレッシングなど、毎日の自炊に欠かせない基礎調味料が軒並み引き上げられました"
         },
         "groundingChunkIndices": [
           1
@@ -388,55 +257,295 @@
       },
       {
         "segment": {
-          "startIndex": 3014,
-          "endIndex": 3200,
-          "text": "キクは、昼の長さが短く、夜（連続した暗闇）の長さが一定時間以上になると花芽を作って咲く「短日植物（たんじつしょくぶつ）」です"
+          "startIndex": 1227,
+          "endIndex": 1335,
+          "text": "要因は原材料高に加え、物流費や人件費の高騰が価格へ転嫁されているためです"
         },
         "groundingChunkIndices": [
-          8,
-          9
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 3203,
-          "endIndex": 3446,
-          "text": "電照栽培は、夜間に人工照明を3〜4時間あてて暗闇を分断することで、キクに「まだ夜が長くなっていない（＝夏だ）」と錯覚させ、**花が咲くのをストップ（抑制）**させています"
+          "startIndex": 1374,
+          "endIndex": 1446,
+          "text": "**11月の値上げ品目数**: 1,477品目（平均値上げ率17％）"
         },
         "groundingChunkIndices": [
-          8,
-          10,
-          9
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 3488,
-          "endIndex": 3639,
-          "text": "愛知県は**キクの出荷量・産出額ともに日本一**を誇り、三河地域（田原市・渥美半島など）はその一大拠点です"
+          "startIndex": 1452,
+          "endIndex": 1553,
+          "text": "**年間累計**: 1〜12月判明分で20,327品目となり、2年連続で年間2万品目を突破"
         },
         "groundingChunkIndices": [
-          11,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1613,
+          "endIndex": 1748,
+          "text": "次いでペットボトル・缶コーヒーなどの酒類・飲料が417品目、魚びん・缶詰などの加工食品が275品目"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2560,
+          "endIndex": 2696,
+          "text": "株式会社帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年11月』（2026年10月30日発表）"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3161,
+          "endIndex": 3413,
+          "text": "しかし化学的には、弱アルカリ性の重曹（炭酸水素ナトリウム）と酸性のクエン酸を混ぜると中和反応を起こし、水・クエン酸ナトリウム・二酸化炭素（炭酸ガス）に変わってしまいます"
+        },
+        "groundingChunkIndices": [
+          2,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3417,
+          "endIndex": 3570,
+          "text": "発生する泡は単なる「炭酸ガス」であり、こびりついた汚れを強力に分解・剥ぎ取るほどの物理的力はありません"
+        },
+        "groundingChunkIndices": [
+          2,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3573,
+          "endIndex": 3786,
+          "text": "むしろ、互いの長所である「重曹のアルカリ（油汚れ・皮脂を分解する力）」と「クエン酸の酸（水垢や石鹸カスを溶かす力）」を打ち消し合ってしまいます"
+        },
+        "groundingChunkIndices": [
+          2,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3858,
+          "endIndex": 3896,
+          "text": "クエン酸：pH 約2〜3（酸性）"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3858,
+          "endIndex": 4036,
+          "text": "クエン酸：pH 約2〜3（酸性） ⇒ カルシウムを含む水垢、電気ポット内部の白い汚れ、尿石などの「アルカリ性汚れ」を中和して分解"
+        },
+        "groundingChunkIndices": [
+          2,
+          4,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4044,
+          "endIndex": 4086,
+          "text": "重曹：pH 約8.4（弱アルカリ性）"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4044,
+          "endIndex": 4223,
+          "text": "重曹：pH 約8.4（弱アルカリ性） ⇒ キッチンのベタつく油汚れ、皮脂、鍋の焦げ付きなどの「酸性汚れ」を中和・加水分解して落とす"
+        },
+        "groundingChunkIndices": [
+          2,
+          4,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4229,
+          "endIndex": 4351,
+          "text": "混ぜて中和するとpHが中性付近に近づくため、化学的な分解力は単独使用時より低下します"
+        },
+        "groundingChunkIndices": [
+          2,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4394,
+          "endIndex": 4665,
+          "text": "泡の視覚的インパクトに惑わされず、**「油汚れや手垢には重曹だけ」「シンクの水垢や鏡のウロコにはクエン酸水だけ」**と単独で使い分けるのが最も汚れ落ちが良く、洗剤の無駄遣いにもなりません"
+        },
+        "groundingChunkIndices": [
+          2,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4669,
+          "endIndex": 4894,
+          "text": "（※なお、重曹の粉末にはモース硬度約2.5という「爪より少し硬い程度」の柔らかい研磨力があるため、傷をつけにくい天然クレンザーとしても単独使用が重宝します"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4922,
+          "endIndex": 5102,
+          "text": "日本では江戸時代、洗濯には石けんの代わりに「灰汁（あく＝アルカリ性）」や植物のサポニン（ムクロジなど）が使われていました"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5105,
+          "endIndex": 5249,
+          "text": "昔の人々も「油混じりの汚れはアルカリで落とす」という知恵を経験則として体得し、使い分けていました"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5273,
+          "endIndex": 5390,
+          "text": "第一石鹸株式会社『重曹・セスキ炭酸ソーダ・クエン酸・過炭酸ナトリウムの使い方』"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5439,
+          "endIndex": 5463,
+          "text": "重曹とクエン酸』"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5466,
+          "endIndex": 5535,
+          "text": "日本石鹸洗剤工業会『暮らしの中の石けん・洗剤』"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5895,
+          "endIndex": 6084,
+          "text": "安城市を含む西三河地域は、矢作川流域の温暖な気候と水はけの良い土壌に恵まれ、江戸時代から綿作が盛んな日本屈指の綿織物産地でした"
+        },
+        "groundingChunkIndices": [
+          7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6088,
+          "endIndex": 6383,
+          "text": "布を補強するために糸を細かく刺し縫いした東北地方などの手工芸「刺し子」に対し、三河では明治時代に**織機を使って布自体に太い緯糸（よこいと）を幾重にも立体的に織り込む「刺し子織」**の技術を確立しました"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6386,
+          "endIndex": 6581,
+          "text": "布の表面に規則的な凸凹の立体構造を作り出すことで、引き裂きや摩擦に対する強度が通常の平織りとは比較にならないレベルに跳ね上がります"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6743,
+          "endIndex": 7016,
+          "text": "刺し子織の生地は、引張強度や耐摩耗性に優れるため、火の粉から身を守る江戸町火消の「消防半纏」や、激しい引っ張りに耐える「柔道着」「剣道着」の定番生地として現代でも高いシェアを誇ります"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7365,
+          "endIndex": 7494,
+          "text": "西三河の機織り農家では、女性たちが夜なべをして重労働の手機（てばた）を動かしていました"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7497,
+          "endIndex": 7725,
+          "text": "その姿を見て「母や農家の重労働を少しでも楽にしてあげたい、能率を上げて生活を豊かにしたい」と一念発起したのが、のちのトヨタグループの創業者・豊田佐吉です"
+        },
+        "groundingChunkIndices": [
+          9,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7728,
+          "endIndex": 8006,
+          "text": "佐吉は三河近郊（刈谷や半田など）の織布業者と関わりながら、1890年に「豊田式木製人力織機」、1896年に日本初の動力織機「汽力織機」を開発し、日本の繊維産業と暮らしの機械化を大きく押し上げました"
+        },
+        "groundingChunkIndices": [
+          9,
           12,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3642,
-          "endIndex": 3753,
-          "text": "電照に必要な明るさはわずか**50ルクス程度**（薄暗い街灯程度）で十分反応します"
-        },
-        "groundingChunkIndices": [
+          13,
           10,
-          9
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 3756,
-          "endIndex": 3982,
-          "text": "出荷したい時期（需要が高まる正月や春の彼岸など）の約50〜60日前に照明を止めると、キクは「秋が来た」と一斉に花芽を作り始め、狙ったタイミングで出荷できます"
+          "startIndex": 8030,
+          "endIndex": 8079,
+          "text": "トヨタ産業技術記念館 展示解説資料"
         },
         "groundingChunkIndices": [
           12,
@@ -445,51 +554,9 @@
       },
       {
         "segment": {
-          "startIndex": 4009,
-          "endIndex": 4265,
-          "text": "夜に光を当てている光景を見ると、「日光の代わりに光合成をさせて早く大きく咲かせている」と思われがちですが、実は正反対で**「咲かせないように成長を焦らしている」**という点です"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4313,
-          "endIndex": 4527,
-          "text": "夜間照明でキクの開花が抑えられることは昭和初期に学術的に判明し、終戦直後の**1947（昭和22）年に愛知県渥美半島（現・田原市）で実用化**が始まりました"
-        },
-        "groundingChunkIndices": [
-          10,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4530,
-          "endIndex": 4701,
-          "text": "温暖な気候に加え、1968（昭和43）年に豊川用水が通水したことで水不足が解消され、日本を代表する花き産地へと飛躍しました"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4731,
-          "endIndex": 4852,
-          "text": "農林水産省委託プロジェクト・農研機構等編「キク電照栽培用 光源選定・導入のてびき」"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4731,
-          "endIndex": 4901,
-          "text": "農林水産省委託プロジェクト・農研機構等編「キク電照栽培用 光源選定・導入のてびき」、農業技術事典 NAROPEDIA「電照栽培」"
+          "startIndex": 8082,
+          "endIndex": 8136,
+          "text": "株式会社豊田自動織機『豊田佐吉物語』"
         },
         "groundingChunkIndices": [
           9
@@ -497,97 +564,148 @@
       },
       {
         "segment": {
-          "startIndex": 4731,
-          "endIndex": 4985,
-          "text": "農林水産省委託プロジェクト・農研機構等編「キク電照栽培用 光源選定・導入のてびき」、農業技術事典 NAROPEDIA「電照栽培」、愛知県教育情報基盤「愛知エースネット（渥美の電照菊）」"
+          "startIndex": 8139,
+          "endIndex": 8228,
+          "text": "あいち産業科学技術総合センター 三河繊維技術センター 報告資料"
         },
         "groundingChunkIndices": [
-          12
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 5171,
-          "endIndex": 5300,
-          "text": "生のサツマイモ自体には甘味成分である「麦芽糖（マルトース）」はほとんど含まれていません"
+          "startIndex": 8553,
+          "endIndex": 8762,
+          "text": "セロハンテープは透明な1枚のテープに見えますが、実は**わずか約0.05mm（50ミクロン）の厚みの中に「4つの層」が重ね合わされた高度な構造**をしています"
         },
         "groundingChunkIndices": [
           15,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5303,
-          "endIndex": 5555,
-          "text": "加熱によってイモの中のデンプンが糊化（のり状に緩む）し、そこにサツマイモ自身に含まれる消化酵素「β-アミラーゼ」が作用することで、デンプンを分解して麦芽糖へと変化させます"
-        },
-        "groundingChunkIndices": [
+          16,
           17,
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 5597,
-          "endIndex": 5710,
-          "text": "β-アミラーゼが最も活発に働くのは**「65℃〜75℃前後」**という限られた温度帯です"
+          "startIndex": 8766,
+          "endIndex": 8937,
+          "text": "表面側には粘着剤をはじく「はくり剤」が塗られており、裏面側には天然ゴムなどを主原料とする「粘着剤」が塗られています"
         },
         "groundingChunkIndices": [
-          17,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5713,
-          "endIndex": 5871,
-          "text": "電子レンジで一気に加熱すると短時間で80℃を超えてしまい、酵素が熱失活（破壊）して麦芽糖があまり作られません"
-        },
-        "groundingChunkIndices": [
-          20,
           19,
-          21
+          16,
+          20,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 5874,
-          "endIndex": 6076,
-          "text": "一方、石焼き芋は小石の蓄熱と遠赤外線によって熱が中心部へ極めてゆっくり伝わるため、この「65〜75℃」の甘み生成ゾーンを長時間キープできます"
+          "startIndex": 8940,
+          "endIndex": 9186,
+          "text": "ロール状に巻き取られていても、表面のはくり剤のおかげでテープ同士がくっつかずに軽く引き出せ、目的の場所に貼ると裏面の粘着剤が微細な隙間に入り込んで密着する仕組みです"
         },
         "groundingChunkIndices": [
+          16,
+          21,
           17,
-          20,
-          19
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 6079,
-          "endIndex": 6214,
-          "text": "実験では、じっくり加熱した芋の麦芽糖含有量は急激に加熱した場合に比べて圧倒的に高くなります"
+          "startIndex": 9225,
+          "endIndex": 9300,
+          "text": "**厚さ**: 全体でわずか**約0.05ミリ**（1ミリの約20分の1）"
         },
         "groundingChunkIndices": [
           15,
-          20
+          16,
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 6241,
-          "endIndex": 6486,
-          "text": "サツマイモの甘さは最初から畑で決まっているわけではなく、**「焼いている最中の1時間ほどの加熱コントロールによって、芋自身の酵素がその場で作り出している」**という点です"
+          "startIndex": 9330,
+          "endIndex": 9440,
+          "text": "**第1層（表面）**：はくり剤（粘着剤をはじき、スルスル引き出せるようにする）"
         },
         "groundingChunkIndices": [
-          15
+          19,
+          16,
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 6995,
-          "endIndex": 7085,
-          "text": "日本いも類研究会「おいもQ&A：焼きいもが甘いのはなぜですか？」"
+          "startIndex": 9446,
+          "endIndex": 9535,
+          "text": "**第2層（基材）**：セロハン（木材パルプ由来の植物性フィルム）"
+        },
+        "groundingChunkIndices": [
+          19,
+          16,
+          20,
+          17,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9541,
+          "endIndex": 9681,
+          "text": "**第3層（接着）**：下塗り剤（セロハンと粘着剤を強固に密着させ、テープを剥がす際に糊残りを防ぐ）"
+        },
+        "groundingChunkIndices": [
+          19,
+          16,
+          20,
+          17,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9687,
+          "endIndex": 9782,
+          "text": "**第4層（裏面）**：粘着剤（天然ゴムや松脂などの天然樹脂が主原料）"
+        },
+        "groundingChunkIndices": [
+          19,
+          20,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9813,
+          "endIndex": 9931,
+          "text": "日本で初めて国産セロハンテープ（セロテープ®）が生まれたのは終戦直後の1947〜1948年"
+        },
+        "groundingChunkIndices": [
+          19,
+          15,
+          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9934,
+          "endIndex": 10025,
+          "text": "開発のきっかけは**GHQ（連合国軍総司令部）からの緊急要請**でした"
+        },
+        "groundingChunkIndices": [
+          15,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10028,
+          "endIndex": 10343,
+          "text": "GHQのオフィスで検閲済み手紙の封かんや書類留めに使っていたアメリカ製テープの補給が途絶え、医療用絆創膏を作っていた日絆工業（現・ニチバン）に「至急作ってほしい」と依頼されたことから、試行錯誤の末に国産化されました"
         },
         "groundingChunkIndices": [
           17
@@ -595,137 +713,31 @@
       },
       {
         "segment": {
-          "startIndex": 7088,
-          "endIndex": 7157,
-          "text": "日本応用糖質科学会「続・サツマイモ澱粉のお話」"
+          "startIndex": 11419,
+          "endIndex": 11546,
+          "text": "ニチバン株式会社『セロテープ®ができるまで』『セロテープ®の歴史、製造工程、環境配慮』"
         },
         "groundingChunkIndices": [
-          18
+          19,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 7088,
-          "endIndex": 7193,
-          "text": "日本応用糖質科学会「続・サツマイモ澱粉のお話」、農研機構・品種研究報告"
+          "startIndex": 11549,
+          "endIndex": 11659,
+          "text": "科学技術振興機構（JST）Science Portal『THE MAKING（20）セロハンテープのできるまで』"
         },
         "groundingChunkIndices": [
-          15,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7388,
-          "endIndex": 7677,
-          "text": "ブナやミズナラなどのブナ科樹木が、森全体で一斉にたくさんのドングリを実らせる年（豊作）と、ほとんど実をつけない年（凶作）を周期的に繰り返す現象を生態学で**「マスティング（同調結実）」**と呼びます"
-        },
-        "groundingChunkIndices": [
-          22,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7680,
-          "endIndex": 7935,
-          "text": "実を大量に作ることで樹体内の炭水化物などの養分を使い果たすため回復期間が必要であることに加え、進化の過程で獲得した「捕食者飽食仮説（サバイバル戦略）」が理由とされています"
-        },
-        "groundingChunkIndices": [
-          24,
-          23,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7977,
-          "endIndex": 8133,
-          "text": "毎年同じ量のドングリを実らせると、それを食べるネズミやリスなどの動物が増えて実を食べ尽くされてしまいます"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8136,
-          "endIndex": 8400,
-          "text": "そこで、数年間凶作にして動物の数を減らし、数年に一度ドングリを動物の胃袋のキャパシティをはるかに超える量で一気に落とすことで、食べ残されたドングリが確実に芽吹くようにしています"
-        },
-        "groundingChunkIndices": [
-          22,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8408,
-          "endIndex": 8714,
-          "text": "森林総合研究所が東北の山地で40年以上ミズナラを観測したデータによると、**かつては「3〜4年周期」だった豊凶の間隔が、気温上昇（約40年間で0.8℃増）に伴い2000年代以降「2年周期」へと短縮化している**ことが判明しました"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8741,
-          "endIndex": 8971,
-          "text": "木が1本ずつバラバラに実をつけるのではなく、広大な山や森全体で**「同じ種類の木々がまるで連絡を取り合ったかのように一斉に」**豊作・凶作を同調させている点です"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9028,
-          "endIndex": 9376,
-          "text": "昔から里山やマタギの間で「山の成り年（なりどし）」として経験的に知られていましたが、近年はドングリの凶作がツキノワグマの人里大量出没に直結することから、林野庁や森林総合研究所が科学的な解明と出没予測モデルの構築を精力的に進めています"
-        },
-        "groundingChunkIndices": [
-          22,
-          26,
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9406,
-          "endIndex": 9549,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所「自然探訪：変わりつつあるドングリの豊作周期」"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9406,
-          "endIndex": 9591,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所「自然探訪：変わりつつあるドングリの豊作周期」、同研究所研究成果（柴田ら）"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9406,
-          "endIndex": 9666,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所「自然探訪：変わりつつあるドングリの豊作周期」、同研究所研究成果（柴田ら）、岐阜県森林研究所「林業一口メモ：ドングリの豊凶」"
-        },
-        "groundingChunkIndices": [
-          24
+          20
         ]
       }
     ],
     "webSearchQueries": [
-      "どんぐり 豊作 凶作 理由 森林総合研究所",
-      "電照菊 なぜ夜に光を当てる 短日植物 愛知県 農林水産省",
-      "小原 四季桜 なぜ秋に咲く 仕組み 豊田市",
-      "サツマイモ 焼き芋 なぜ甘くなる アミラーゼ 温度 農林水産省"
+      "重曹 クエン酸 汚れ 落ちる 仕組み 石鹸洗剤工業会",
+      "帝国データバンク 食品主要195社 11月 価格改定動向",
+      "愛知県 三河木綿 豊田佐吉 暮らしの知恵 繊維",
+      "セロハンテープ なぜくっつく ニチバン 仕組み 粘着"
     ]
   }
 }
