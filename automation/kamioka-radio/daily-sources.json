@@ -1,42 +1,44 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2501,
-  "estimated_minutes": 7.6,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2218,
+  "estimated_minutes": 6.7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "飛騨名物「漬物ステーキ」ですが、昔の人がわざわざ漬物を焼いて食べた本当の理由はどれでしょうか。1番、寒さで凍りついたから。2番、塩分を飛ばすため。3番、お肉に見せかけて家族をだますため。",
-    "answer": "正解は1番、寒さで凍りついたからでした！氷点下の冬にカチカチに凍った漬物を、囲炉裏で溶かして美味しく食べる工夫だったんやさ。決してお肉のフリをしてだまそうとしたわけじゃないんやね！",
+    "question": "岐阜の長良川などで鵜を操る鵜匠さん。実はとても意外な身分をお持ちです。次のうち正式な身分はどれでしょうか。1番、宮内庁の国家公務員。2番、岐阜県警の嘱託員。3番、鵜の国の親善大使。",
+    "answer": "正解は1番、宮内庁の国家公務員でした！皇室に鮎を納める役目があって全国で9人だけ。公務員試験はなく完全な世襲制なんだって。親善大使じゃないんやさ！",
     "source_ids": [
-      3,
-      6
+      12,
+      13,
+      15
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tf8p2jKYPOhdRmzWPhfgxB3DI55ncfzLIaJAXG7B6kAx7IMNYekVWw_panpFTL1aAoGfo4jgFqSS6TBL3tLx-Wp8AlPBlOjiypYzQy8QkQwjjS7IY0HBbZcMECA=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEctvZ2zqaxQVhiYcnvjgdeiVsLZKJibJEoC0fy6Pq-j1OfY-4AZi7Xq9iGxxILYn1TUb_4CMxKPXb0WMTGB0gsy5_h5TCqX7w1IW4LCa6R5V1hX-H7ucn4RUwikTGVTHdhpeuALzgG8jOCUNFCaNsIkuTEzDi2i61JEfXUuVVms5Zxr9qznMnw"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvFnSHlfHs9EgcNmWO3zPQkUKRu9JrM2CcnMyAJBOIV3kHNkgUNt8Umf6annRPTisz7bK7CprDI7A0ZCvIKZQsQJ4pD05PNMTqx956MuWPu-LJRNSjzl1SVOi1SnKH",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEHsMoEO5COs8TN2834UwhyZMGKlg01goCwxRYjlWPeVwd9ZAv2mdt0PmpE2uaCf9LT-oIMVY8_l-i9SbNDc3MVCs20XUF8M_VMN9B5M-UAkFN4dDpXdgpGqiuTrtxWfbZnm8t2GVzspj3NruYH3QsK_oqzSOciaDBxQnXU0DDzbA1wJ37bPLzOe7raOp2-gIjHmnQaqg=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRBGuAzLwDd_xRDdqoykbu7QJJAaSNciCOuwInudZfLnF8wVD0Jf_BcLDK0Mz2P2a5SJQRpJ3w-GDgeLRuurAXx7Y86Jpy0n565U4PLTkEcFJgILyEcIMw3cJSv5YSFBnV-xlq"
     ]
   },
   "izumi": {
-    "text": "神岡の地下といえばノーベル賞の聖地！初代カミオカンデは純水3000トンに光電子増倍管1000本で、超新星爆発のニュートリノをとらえて小柴昌俊さんがノーベル賞！続くスーパーカミオカンデは純水5万トン、光電子増倍管およそ1万3000本と、カミオカンデの約16倍にパワーアップ！大気ニュートリノ振動を発見して梶田隆章さんがまたまたノーベル賞！神岡の山の中から2回もノーベル賞が出るなんて、ほんとすごい快挙やさね！…って、話はそこで終わりじゃないんです。次に控えるハイパーカミオカンデは、なんと純水26万トン！光電子増倍管は4万本という超ウルトラサイズ！カミオカンデの3000トンから比べたら、純水の量は80倍以上！えっ、ちょっと待って、スケールが大きすぎて神岡の地下が水没しないか心配になるレベルやろー！2020年代後半の実験開始を目指す国際プロジェクトなんだけど、地下1000メートルをどこまで掘り広げて巨大化していく気なんでしょうか。現代ならスマホの容量ですらギガからテラに増えてアワアワするのに、水のトン数もセンサーの数も桁違いの爆盛り状態！しかも2020年からはスーパーカミオカンデの水にレアアースを混ぜて新発見を狙ってるっていうから、神岡の研究者のみなさんの探求心は底なし沼やさ。これ、3回目のノーベル賞が神岡から飛び出す日も、はや近いんじゃない！？世界最先端の宇宙の謎を地下で追いかける神岡の山、地元としてめちゃくちゃ自慢したくなるやさね！",
+    "text": "水曜の朝にお届けする、みおんの神岡ディープ！今日は神岡城と江馬氏の歴史にタイムスリップするよー！\n神岡のシンボルといえば、1970年に復原された神岡城やさね！でも大昔は誰のお城だったか知っとる？戦国時代、ここは江馬氏の城下町だったんだって！江馬さん、自分の城下町を作っちゃうなんて、今なら地元に巨大テーマパークを建てて王様気取りでSNSに投稿しとるようなもんやろー！\nでもその後、金森氏の領地になって鉱山開発に本腰が入ります。さらに1559年から1642年にかけて茂住宗貞さんが茂住や和佐保の銀山や銅山を開発して、鉱山の町の土台がドカンと完成したの。戦国大名からビジネス感覚の金森さんや茂住さんへの交代って、今ならベンチャーが大企業に買収されたみたいな展開やさ！\n江戸時代には幕府直轄地になって、中心の船津は宿場町として大にぎわい。1950年に船津町と阿曽布村、袖川村が合併して神岡町が生まれ、1970年にあの神岡城が復原されたわけです。\n武将が駆けた城下町から鉱山の町へ。見上げる神岡城には、戦国から続く町の誇りがぎっしり詰まっとるんやさ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-hyper",
-      "hook": "次はハイパー。26万トン、4万本。神岡の地下はどこまで大きくなるのか"
+      "id": "mine-castle",
+      "hook": "1970年に復原された神岡城と、江馬氏の城下町だったころ"
     }
   },
   "local": {
-    "text": "11月7日に道の駅スカイドーム神岡の感謝祭で、神岡中学校の生徒が考案した特別なカレーが販売されます！飛騨スパイスカレー研究所の協力のもと、市内産の有機野菜やお米、地鶏など飛騨の恵みと中学生のアイデアが詰まった一皿です。中学生の力作カレー、ぜひ味わいに行かまい！",
+    "text": "11月7日の土曜日に、道の駅スカイドーム神岡で感謝祭が開催されるよ！神岡中学校の生徒が考案して、飛騨スパイスカレー研究所の協力で完成した特別なカレーが販売されるんだって。飛騨市産の有機野菜やお米、地鶏など地元の恵みが詰まった一皿、ぜひ味わってみてね！",
     "source_ids": [
-      24,
-      26
+      31,
+      33
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
@@ -45,149 +47,197 @@
   },
   "segments": [
     {
-      "topic": "穴だらけが正解！？飛騨の伝統食「こも豆腐」の逆転マジック",
-      "text": "スーパーで豆腐を買うとき、ツルツルで滑らかな絹や木綿を選びがちですよね。でも飛騨の郷土料理コーナーに行くと、表面が波打ってて中が蜂の巣みたいに穴だらけの豆腐があるじゃないですか。そう、「こも豆腐」です！初めて見た人は「えっ、料理に失敗して鬆が入っちゃったの？」って二度見するレベルやろー！茶碗蒸しでも煮物でも、100度近い沸騰でブツブツの穴が開く「す」が入る現象って、舌触りが悪くなるから料理界では完全な大失敗扱いなんです。ところがこも豆腐は、わらを編んだ「こも」で豆腐をギュッと巻いて、わざわざ大鍋でグラグラ沸騰させて茹で上げるんです！つまり、わざと大失敗の状態を作り出してるってこと！？聞いてないんだけど！ってツッコミたくなりますが、これぞ先人の超ファインプレーなんやさ。あえて無数の穴を開けることで、豆腐がまるでキッチンスポンジのように進化するんです！出汁で煮込んだ瞬間、その穴という穴から旨味たっぷりの煮汁をこれでもかと吸い込んで、噛んだ瞬間にジュワ〜ッと口いっぱいに広がるわけです。しかも表面のギザギザ模様は、わらで強く締め上げて茹でることで煮崩れを防いで余分な水分を抜く実用的な技術！山深くて肉や魚が手に入りにくかった昔の飛騨で、貴重なたんぱく源の豆腐を日持ちさせて最高のご馳走にするために、近所同士で藁を持ち寄って作ったんだとか。失敗を逆手にとって旨味の塊に変えちゃうなんて、飛騨の人の知恵、だちかん…じゃなくて本当にすごい知恵やさね！",
+      "topic": "江戸時代は邪魔者扱い！？神岡鉱山が「東洋一の亜鉛の山」に大化けした逆転劇",
+      "text": "お城の話が出たついでに、神岡を語るなら外せんのが神岡鉱山！実はここにとんでもない逆転劇があったって知っとった？\n神岡鉱山といえば、かつて東洋一の亜鉛鉱山と呼ばれた神岡の誇りやさね。ところが！江戸時代までは、その主役の亜鉛が邪魔者として捨てられとったんだって！えっ、うそでしょ！？宝の山をゴミ扱い！？みおん、聞いてないんだけど！\n神岡の鉱山開発は奈良時代から始まって、戦国から江戸時代は銀や鉛が目当てだったの。その銀を取り出すとき、鉱石に混ざる閃亜鉛鉱が邪魔で邪魔で、不要な石としてポイポイ捨てられとったらしいの。今なら、高級メロンを食べるためにプレミアなお宝スプーンをゴミ箱に捨てるようなもんやさ！おとましいにもほどがあるやろー！…って、おとましいの使い方合っとる？\nでも明治以降、技術が進歩して亜鉛の価値が大爆発！1874年に三井組が本格開発を始めてから、2001年に採掘を終えるまでの約130年間で掘り出された鉱石は、なんと約7,500万トン！最盛期には人口2万7,000人を超えて、国内初のトロッコを廃止したトラックレスマイニングまで導入する超ハイテク鉱山に化けたんだって。\n捨てられとった石が東洋一の富を生み出すなんて、まさに超ウルトラ下克上！神岡の足元には、とんでもない大逆転の歴史が埋まっとったんやさ！",
       "source_ids": [
-        6,
-        8
+        1,
+        2,
+        4,
+        5
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEctvZ2zqaxQVhiYcnvjgdeiVsLZKJibJEoC0fy6Pq-j1OfY-4AZi7Xq9iGxxILYn1TUb_4CMxKPXb0WMTGB0gsy5_h5TCqX7w1IW4LCa6R5V1hX-H7ucn4RUwikTGVTHdhpeuALzgG8jOCUNFCaNsIkuTEzDi2i61JEfXUuVVms5Zxr9qznMnw",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfZEHMNtMWTt2q3p8-7RJpEpsZrR1y5jViFGDWRkB2n_v7AtMEagJIes1e-XtBJv3hrU71832FFr_-NbNBIhEMEobjlegdLclDCKyEWb_M39luyORB5aj8BP63"
+        "https://kotobank.jp/word/神岡",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx4IZP1x7Z56TmINb8LP_bH-mpY236-0QmXirN5AgeFFYGcrDgBbT9vqZeIZtH_J9vpYJrxy9XEfVnUhdMw1iOioe_-6mvd08RbSLjDgrDrrEoy1TEcDw6HFggkUUP-Zjf6Y8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWD51GEADUohagx_tUZ9o53EXVYZ89F5BHS0HrDKfe_i6MWxDzDg5fHrrzt1uSTZSYmBJSkmejWMYHt7VFBD6eBndHSnspP_6X7JqXbMvEFxswJ7wl0iy43oZzSnHUsKojuqq7n9cKrC2Ne1IIcCldW8gVGCJvtyFfvg==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs3LPMq0YkXdYDhfTGUJIE90Nm_lESuGLMYtOSZlsrTLBZKTBgN3HRM4iZX_EA1rq1k9YMqRh_pvx9Y8cyk2ab74fuHzEBAlgVgXtljsCG_iIIOUEQ4MPD-85N1khzLLu1qJqRGj2riBwa2AqbzaDYCcD9oobJRF-YmwwTM_otNlu91Lvza-lVO8yRonH0xepD1XOgUfGFx90="
       ]
     },
     {
-      "topic": "台所のミステリー！なぜ温かい味噌汁のフタは本気で開かなくなるのか？",
-      "text": "そういえば台所といえば、食事どきに誰もが一度は戦ったことがある「あいつ」の謎、いきますよ。アツアツの味噌汁を入れたお椀にフタをして、いざ食べようとしたら…ピタッ！ん？開かない。両手でフンッて引っ張っても、お椀ごと持ち上がってビクともしない！えっ、誰かアロンアルファでフタ接着した！？って本気で焦るやつです。あれ、大人力で真上に引っ張ってもマジで開きませんよね。みおん、手がないから力比べすら参加できんけど！実はあれ、お椀の中で超強力な物理現象が起きとるんです。熱い味噌汁を入れると中の空気が温まって膨らみ、湯気で満たされます。でも少し冷めると湯気が水滴に戻って体積が一気に激減！さらに空気も縮むから、お椀の中の気圧が外の大気圧よりグッと低くなっちゃうんです。直径10センチくらいのお椀だと、フタを上から押し付ける大気圧の力はなんと8キロから10キロ！水の入った重いバケツをフタの上にドカンと乗せられたのと同じ状態なんです！そりゃ引っ張っても開かんわけやさ！でもこれ、力任せに引っ張ったら汁が飛び散って大惨事確定ですよね。実は、一瞬で解決する魔法の裏技があるんです。お椀のフチを親指と人差し指で挟んで、かるーく横から押して楕円形に歪ませるだけ！するとフタとの間にほんの少し隙間ができて、シューッと空気が入ってポロッと片手で外れるんです。会席料理でお椀の端を押さえてフタをずらす上品なマナーも、実は気圧差をなくす物理学の知恵だったんだって！",
+      "topic": "軒下に隠された大工のサイン！飛騨古川の町家に見る「雲紋」の謎",
+      "text": "そういえば、職人のこだわりといえば、お隣の飛騨古川にも面白い秘密があるんやさ！\n古川の古い町並みを歩いとると、屋根の軒下を支える木に、波や草みたいな彫刻があるの見たことない？あれ、ただのオシャレな飾りかと思ったら、なんと大工さんの暗号だったんだって！\nあれは『雲』とか『雲紋』と呼ばれていて、大工の棟梁が『この家は俺が手掛けたぞ！』って責任と誇りを示す自筆のサインなんです。大工さんごとにデザインが違って、今確認されとるだけでも約170種類もあるんだって！170種類って、ちょっとした人気ゲームのキャラクター図鑑並みのバリエーションやろー！\n1986年の調査では、当時の古川町に123人も大工さんがおって、なんと住民の約130人に1人が大工さんだったらしいの。町中が職人だらけ！そんな町で大工たちが個別の雲を競い合って刻むようになったのは昭和29年頃からと比較的新しい文化らしいんやけど、一番笑えるのが地元の反応。1986年に調査団が来るまで、地元の人にとっては軒下の模様なんて当たり前すぎて、特別なものだと誰も気付いとらんかったんだって！\n『えっ、これ珍しいの？どこにでもあるやろー』って、すごすぎて日常に溶け込んどったわけね。飛騨の匠文化館の中庭には地元大工30人の異なる雲が並んどるから、今度古川へ行ったら軒下を見上げまい！",
       "source_ids": [
-        17
+        9,
+        11
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_wBGwboUD0bH3D6yaY00CQG09G40PPmmOixx6Jj5x6lybL6tB_hdG3OVuUpzj0fNZrKCfObjseE_6fe-Qu464rKAlLmNvDoyPpVkyx7WUE8VHDGjnSUk0LqIG0tu5s3eR"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4J_UxS0NEctd1Xm_5OA66V1hT2cSebSWCpwhaJGWrxmT2UY5KQFn_NuoSDkyJTHNtX1RI0aU-x7SOLucuVwnpO-sq_auBAJpb5A4_Gm-p4uMztuE0wbii5m47OXp63-S2b_S-WIy0NdupE29Oc6s=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTC_m4YawzjQN-rWmeUOB1TxVfGFEgydzEiRnMtcTfzzIkbWxvElyZDEo2MqWYowZ5SReAv5fCFsUI9BcYc32Nz6gnNj3m-UOeBhKYBmJgPXTwClOFSOxiQQ=="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、リスナーが家庭の食卓で思わず話したくなる「食べ物・台所の雑学」について調査メモを作成しました。地元・飛騨に深く根ざした食文化の謎を中心に、台所で誰しもが経験する日常の科学現象を交えた4件です。\n\n---\n\n### 1. なぜ漬物をわざわざ焼いて食べるの？「漬物ステーキ」誕生の知恵\n* **理由：** 飛騨地方の極寒の冬期、樽や桶に保存していた白菜などの漬物はしばしば中までガチガチに凍りついてしまいます。この凍った漬物を囲炉裏の火で溶かし、温かい状態でおいしく食べるために焼いたのが始まりです。\n* **具体的な数字や比較：** 飛騨の冬は氷点下10度近くまで冷え込むことが珍しくありません。温暖な地域では漬物は「冷たいまま食べる箸休め」ですが、氷点下の飛騨では冬場に生野菜が収穫できなかったため、漬物が貴重な野菜補給源でした。それを加熱して卵でとじることで、冷たい添え物から「温かい主菜（メインのおかず）」へと変化させました。\n* **意外な点：** 「ステーキ」と名乗っていますが肉は一切入っていません。また、乳酸発酵が進んで酸っぱくなった古い漬物でも、油で炒めて卵と醤油・味噌を合わせると酸味がまろやかになり、うま味が凝縮してコクが出るという調理科学的なメリットもあります。\n* **歴史の裏話：** もともとは囲炉裏端で、凍った白菜漬けを朴葉（ほおば）の上にのせて火にかざし、溶かしながら卵を絡めて食べていた農家の家庭料理でした。昭和の居酒屋文化が普及する過程で、居酒屋が鉄板でジュージューと焼いて提供するようになり、「漬物ステーキ（漬けステ）」というインパクトある名で定着しました。\n* **出典・根拠：** 農林水産省「うちの郷土料理（岐阜県 赤かぶ漬け・食文化解説）」、郷土料理ものがたり「漬物ステーキ（岐阜県）」。\n\n---\n\n### 2. なぜ普通の豆腐と違って穴だらけ？「こも豆腐」の知恵\n* **理由：** わらを編んだ「こも（むしろ）」で豆腐を巻き、あえて大鍋でグラグラと沸騰させて茹でることで、豆腐の内部に無数の気泡＝「す（鬆）」を立てているためです。中に穴を開けることで、煮込んだ際に出汁がスポンジのように芯までしっかり染み込むようになります。\n* **具体的な数字や比較：** 通常の料理（茶碗蒸しや煮奴など）では、100℃近い高温で加熱して「す」が入ることは舌触りが悪くなる失敗とされます。しかしこも豆腐では逆転の発想で意図的に「す」を立てます。この無数の気泡のおかげで、普通の木綿豆腐に比べて煮汁の吸水力・保持力が格段に高くなります。\n* **意外な点：** 表面にある独特のデコボコした筋模様は単なる飾りではなく、わらで強く締め上げて茹でることで形崩れを防ぎ、余分な水分を均一に押し出すための実用的な成形技術です。\n* **歴史の裏話：** 山深く肉や魚が手に入りにくかった飛騨において、豆腐は貴重なたんぱく源でした。しかし生豆腐は日持ちがしません。そこで近所同士で藁を持ち寄り、作った豆腐をこもに巻いて茹で上げることで、保存性を高めつつご馳走へと仕立て上げました。村の共同作業と助け合い（結の精神）から生まれた伝統食材です。\n* **出典・根拠：** 農林水産省「うちの郷土料理（こも豆腐・岐阜県）」、岐阜県公式特産品サイト「岐阜の極み こも豆腐」。\n\n---\n\n### 3. なぜ甘くないの？飛騨の「みだらし団子」が醤油味一本の理由\n* **理由：** 全国で一般的な「とろみのある甘辛い餡」がかかったみたらし団子は、大正時代以降に広まった新しいスタイルです。飛騨地方の「みだらし団子」は、砂糖が貴重だった江戸時代以前の「生一本の醤油を塗り、香ばしく直火で炙る」という団子の原形をそのまま残しているためです。\n* **具体的な数字や比較：** 全国の甘辛いみたらし団子のタレには多量の砂糖や水飴が使われますが、飛騨の団子に塗るタレは基本的に醤油（店によってわずかなみりん）のみで、甘味度はほぼゼロです。串には小ぶりな団子が5個刺さっており、観光客がおやつとして口にすると「甘くない！」と驚かれますが、地元では甘味というより「焼きおにぎり」に近い日常の軽食として親しまれています。\n* **意外な点：** 地元では「みたらし」ではなく「み**だ**らし」と濁音で呼ばれます。全国の甘辛いみたらし団子を見慣れている人にとっては異風に見えますが、歴史的には飛騨の醤油焼き団子のほうが古い伝統の姿を留めています。\n* **歴史の裏話：** そもそも「みたらし団子」の起源は、京都・下鴨神社の「御手洗（みたらい）池」の湧き水の泡をかたどって神前に供えた串団子とされます。大正時代に下鴨神社の門前茶屋が黒砂糖と醤油を葛粉でとろみづけした餡を考案して大ヒットし全国へ普及しましたが、山深い飛騨ではその流行に染まることなく、素朴な醤油の焦げ香を楽しむ食文化が守られ続けました。\n* **出典・根拠：** 文化庁「うちの郷土料理・和菓子文化解説」、飛騨高山観光公式サイト（みだらしだんご解説）。\n\n---\n\n### 4. 台所のミステリー：温かい味噌汁のフタが「ピタッ」と吸い付いて取れない謎\n* **理由：** 熱い味噌汁をお椀に注いでフタをすると、中の空気が温まって膨張し、湯気（水蒸気）で満たされます。その後、少し冷めることで水蒸気が水滴に戻って体積が激減し、空気も縮むため、お椀の中の気圧が外の大気圧より低くなり（減圧状態）、外側の空気によってフタが強力に押し付けられるためです。\n* **具体的な数字や比較：** 一般的な汁椀（直径約10cm）の上面積は約78.5cm²あります。お椀の中の温度が80℃から室温程度まで下がると、気圧低下によってフタを押し付ける力は約8kg〜10kg（水の入った重いバケツ1杯分に相当）に達することがあります。大人でも真上に引っ張る力だけではビクともしないのはこのためです。\n* **意外な点：** 力任せに引っ張っても開きませんが、**「お椀のフチを親指と人差し指で挟むようにして軽く楕円形にたわませる」**と、フタとの間にわずかな隙間ができて「シューッ」と空気が入り、まるで嘘のように片手でポロッと外れます。\n* **歴史の裏話：** 会席料理の作法では、吸い付いたフタを開ける際に「左手でお椀のフチを軽く押さえ、右手でフタを回すようにずらして開ける」という礼儀作法が伝わっています。一見すると上品に見せるためのマナーですが、実は物理学的に器を変形させて気圧差をなくし、汁をこぼしたり器を破損させたりしないための、非常に合理的な生活の知恵でした。\n* **出典・根拠：** 武庫川女子大学・食育実践研究会「食育と授業：蓋が開かない（水蒸気の凝縮と大気圧）」、日本化学会 教育解説資料。\n\n---\n\n### 番組で使える「3択クイズ」コーナー案\n\n**【問題】**\n飛騨の冬の定番ご当地グルメ「漬物ステーキ」！ 白菜などの漬物を鉄板でジュージューと焼いて卵でとじる香ばしい名物料理ですが、そもそも昔の飛騨の人たちが**漬物をわざわざ焼いて食べるようになった本来の理由**は何でしょうか？\n\n* **1番：** 塩辛くなりすぎた漬物の塩分を飛ばすため\n* **2番：** 寒さで漬物がカチカチに凍りついてしまったため\n* **3番：** 昔はお肉が高価だったので、見た目をステーキに似せるため\n\n**【正解】**\n**2番：寒さで漬物がカチカチに凍りついてしまったため**\n\n**【解説トーク用メモ】**\n氷点下の冷え込みが続く飛騨の冬、樽で保存していた白菜漬けは中までガチガチに凍ってしまいました。その凍った漬物を何とか美味しく食べようと、囲炉裏の火や朴葉の上で温めて溶かしたのが漬物ステーキの始まりです。「ステーキ」と名乗っていますが肉は入っておらず、過酷な冬を乗り切るための先人の知恵が生んだご当地グルメです。今夜の食卓の話題にぜひどうぞ！",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ放送に向けて、「地元の歴史・まちの発見」をテーマにした調査メモを作成しました。家族に話したくなる意外なエピソード、数字や歴史の裏話、および3択クイズ案をまとめています。\n\n---\n\n### 【話題1】江戸時代は邪魔者扱い！？神岡鉱山が「東洋一の亜鉛の山」に大化けした逆転劇\n\n* **思わず話したくなる疑問**  \n  かつて「東洋一の規模」と誇られた地元・神岡鉱山ですが、実は主力となった「亜鉛」は、江戸時代までは価値のない邪魔者として捨てられていたのをご存じですか？\n* **理由**  \n  神岡の鉱山開発は奈良時代に始まったと伝えられ、戦国時代から江戸時代にかけては主に「銀」や「鉛」を目当てに採掘されていました。当時、鉱石の中に混ざっていた「閃亜鉛鉱（亜鉛のもと）」は、当時の製錬技術では銀を取り出す邪魔になる不純物・不要な石として捨てられていたためです。明治以降に分離・精錬技術が進歩し、日露戦争などの軍需や近代工業の発展に伴って亜鉛の価値が一変しました。\n* **具体的な数字や比較**  \n  1874年（明治7年）に三井組が本格開発に乗り出して以降、2001年（平成13年）に採掘を終えるまでの約130年間で掘り出された鉱石の総量は、なんと約**7,500万トン**に達します。最盛期には人口約2万7,000人を超える活況を神岡町にもたらし、名実ともに東洋一の亜鉛鉱山へと登り詰めました。\n* **意外な点**  \n  「銀が取れなくなって衰退した」のではなく、かつて捨てていた亜鉛が技術革新によって主役に躍り出たという、技術が拓いた大逆転の歴史を持っています。\n* **歴史の裏話**  \n  神岡鉱山は、国内で初めてトロッコのレールを廃止し、坑道を斜坑で結んで大型重機を走らせる「トラックレスマイニング」を導入するなど、採掘技術の最先端を走り続けました。この強固な地下空間と高度な掘削技術があったからこそ、後の世界的観測施設などの誘致につながっています。\n* **出典・引用**  \n  * 三井金属鉱業「神岡鉱山って、どんな鉱山（やま）？」  \n  * 岐阜県地質学会「神岡鉱山（銀・銅・鉛・亜鉛）」  \n  * 富山県イタイイタイ病資料館「神岡鉱山の生産拡大」\n\n---\n\n### 【話題2】軒下に隠された大工のサイン！飛騨古川の町家に見る「雲紋」の謎\n\n* **思わず話したくなる疑問**  \n  お隣の飛騨古川の古い町並みを歩くと、屋根の軒下を支える木（小腕）に波や草のような彫刻が施されています。あれは単なる飾りではなく、大工さんの「暗号」だったのをご存じですか？\n* **理由**  \n  あの装飾は「雲（くも）」または「雲紋（くももん）」と呼ばれ、飛騨の大工棟梁が「この家は自分が手掛けた」と責任と誇りを示すための自筆のサイン（トレードマーク）です。大工ごとにオリジナルのデザインが決まっており、同じ大工が建てた家には同じ「雲」が刻まれます。\n* **具体的な数字や比較**  \n  現在確認されているだけでも「雲」のデザインは**約170種類**に及びます。「飛騨の匠文化館」の中庭には、建設に携わった地元大工**30人**の異なる「雲」が勢揃いしています。なお、1986年の調査当時、旧古川町内には123人もの大工がおり、住民の「約130人に1人が大工」という驚くべき職人の町でした。\n* **意外な点**  \n  飛騨の匠の伝統を受け継ぐものですが、大工が個別のデザインを競い合って雲を刻む流行が定着したのは、意外にも昭和29年（1954年）頃からと比較的新しい文化です。\n* **歴史の裏話**  \n  1986年（昭和61年）に日本ナショナルトラストが町並み調査に入るまで、地元の人々にとっては「軒下に模様があるのは当たり前」すぎて、特別な文化財とは意識されていませんでした。調査団が大工たちに尋ね歩いて初めて「雲」という名称やサインとしての意味が公に浮き彫りになったというエピソードがあります。\n* **出典・引用**  \n  * 飛騨市公式観光サイト「飛騨の匠文化館」  \n  * 飛騨市公式ウェブサイト「古川小6年生がかんな削り体験や町並み見学などを行いました」  \n  * 日本ナショナルトラスト町並み調査記録等（紹介記事：まちのかたち「古川」）\n\n---\n\n### 【話題3】実は国家公務員！？長良川の鵜匠が持つ「特別な身分」\n\n* **思わず話したくなる疑問**  \n  岐阜県の夏の風物詩である鵜飼。篝火のもとで鵜を巧みに操る「鵜匠（うしょう）」さんたちですが、実は彼らの身分が「国家公務員」だということをご存じでしょうか？\n* **理由**  \n  長良川の鵜匠は、宮内庁の儀式や伝統文化を司る部署に所属する「宮内庁式部職鵜匠（くないちょうしきぶしょくうしょう）」という正式な国家公務員（宮内庁職員）です。年に8回、皇室に納める鮎を捕る「御料鵜飼（ごりょううかい）」を務める公的な役務を担っているためです。\n* **具体的な数字や比較**  \n  日本国内で鵜飼が行われている地域は複数ありますが、鵜匠が宮内庁の職員（国家公務員）として任命されているのは、岐阜市の長良川（6名）と関市の小瀬（3名）の**合計9名のみ**です。\n* **意外な点**  \n  国家公務員ですが、公務員採用試験を受けて就職することはできません。代々続く鵜匠の家系に生まれた男子のみが1家に1人継承する、完全な「世襲制」です。\n* **歴史の裏話**  \n  江戸時代は尾張徳川家から手厚い保護を受けていた長良川の鵜飼ですが、明治維新の廃藩置県で後ろ盾を失い、一時存続の危機に陥りました。しかし、岐阜を訪れた明治天皇への天覧鵜飼などを経て、1890年（明治23年）に宮内省（現・宮内庁）が御料場を設置して鵜匠を職員に任用したことで、伝統が途絶えることなく現代に守られました。\n* **出典・引用**  \n  * 宮内庁「御料鵜飼」  \n  * 岐阜市ぎふ長良川鵜飼公式「鵜匠と鵜の絆」  \n  * CBCテレビ「ぎふ長良川鵜飼の『鵜匠』は国家公務員！？意外と知らない『鵜飼』の豆知識」\n\n---\n\n### 【話題4】白川郷の合掌造りは、なぜみんな「同じ方角」を向いているのか？\n\n* **思わず話したくなる疑問**  \n  展望台から白川郷（荻町集落）を眺めると、合掌造りの家々の屋根が不思議なほど同じ方角（南北）に綺麗に揃っています。なぜあのように整列して建てられたのでしょうか？\n* **理由**  \n  最大の理由は「風の抵抗を減らすこと」と「太陽光を均等に当てること」です。白川郷の谷あいには庄川に沿って南北に強い季節風が吹き抜けるため、風を受ける面積を最小限にして倒壊を防ぐよう、屋根の棟を川と風の向きに平行（南北）に通しています。\n* **具体的な数字や比較**  \n  白川郷は冬に**3メートル近く積雪**する豪雪地帯です。屋根の三角形の頂点が南北を向くことで、大きな茅葺き屋根の両面は「真東」と「真西」を向きます。もし東西に棟を通すと北側の屋根にまったく日が当たらず、雪が解けずに湿気がこもって茅がすぐに腐ってしまいますが、東と西に向けることで午前は東面、午後は西面と太陽の恵みを均等に受け、屋根を乾かします。\n* **意外な点**  \n  屋根の並びは単なる景観の美しさではなく、豪雪と強風という厳しい自然条件を生き抜くために計算し尽くされた「完全なパッシブ（自然エネルギー利用）建築」の知恵でした。\n* **歴史の裏話**  \n  合掌造りの巨大な屋根裏は、江戸から昭和初期まで村を支えた重要産業「養蚕（蚕の飼育）」の作業場でした。屋根を南北に向けると、切妻の三角窓から南北の谷風が屋根裏に吹き抜け、蚕の生育に必要な温度調節や通風が自然に確保できるという、産業上の大きな利点もありました。\n* **出典・引用**  \n  * 白川村役場「合掌造りとは/白川郷」  \n  * 森林・林業学習館「合掌造り」  \n  * 白川郷・五箇山の合掌造り集落世界遺産センター「合掌造りを知る」\n\n---\n\n### 【ラジオ向け3択クイズ】話題3（鵜匠の身分）より\n\n**【問題】**  \n岐阜の夏の伝統美といえば、1300年以上の歴史を誇る「長良川の鵜飼」です。船の上で巧みに鵜を操る鵜匠（うしょう）さんですが、実はとても珍しい身分をお持ちです。次のうち、岐阜市と関市の長良川の鵜匠さんの正式な身分はどれでしょう？\n\n* ① 岐阜県警の特別嘱託員\n* ② 宮内庁に所属する国家公務員\n* ③ 文化庁の無形文化財調査員\n\n**【正解】**  \n**② 宮内庁に所属する国家公務員**\n\n**【解説トーク案】**  \n「正解は②の『宮内庁の国家公務員』でした！  \n長良川の鵜匠さんは、正式には『宮内庁式部職鵜匠（くないちょうしきぶしょくうしょう）』という辞令を受けている国家公務員なんです。年に8回、皇室に納めるための鮎を捕る『御料鵜飼』を務めています。この特別な鵜匠さんは、日本全国探しても岐阜市の6名と関市の3名の合計9名しかいません。公務員試験で募集されることはなく、代々鵜匠の家系で一子相伝で受け継がれる特別な職務なんだそうですよ。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%91%B3%E3%81%AE%E7%B4%A0+%E6%A4%80%E3%81%AE%E8%93%8B+%E5%8F%96%E3%82%8C%E3%81%AA%E3%81%84+%E7%90%86%E7%94%B1+%E6%B0%97%E5%9C%A7&client=app-vertex-grounding&safesearch=active\">味の素 椀の蓋 取れない 理由 気圧</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E3%81%BF%E3%81%9F%E3%82%89%E3%81%97%E5%9B%A3%E5%AD%90+%E9%A3%9B%E9%A8%A8+%E9%86%A4%E6%B2%B9&client=app-vertex-grounding&safesearch=active\">農林水産省 みたらし団子 飛騨 醤油</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E6%BC%AC%E7%89%A9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD+%E9%A3%9B%E9%A8%A8+%E3%81%86%E3%81%A1%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86&client=app-vertex-grounding&safesearch=active\">農林水産省 漬物ステーキ 飛騨 うちの郷土料理</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E3%81%93%E3%82%82%E3%81%A9%E3%81%86%E3%81%B5+%E9%A3%9B%E9%A8%A8+%E3%81%86%E3%81%A1%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86&client=app-vertex-grounding&safesearch=active\">農林水産省 こもどうふ 飛騨 うちの郷土料理</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%99%BD%E5%B7%9D%E9%83%B7+%E5%90%88%E6%8E%8C%E9%80%A0%E3%82%8A+%E3%81%AA%E3%81%9C+%E5%8D%97%E5%8C%97+%E5%B1%8B%E6%A0%B9%E3%81%AE%E5%90%91%E3%81%8D+%E9%A2%A8+%E6%97%A5%E5%BD%93%E3%81%9F%E3%82%8A&client=app-vertex-grounding&safesearch=active\">白川郷 合掌造り なぜ 南北 屋根の向き 風 日当たり</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%8F%A4%E5%B7%9D+%E9%9B%B2%E7%B4%8B+%E5%A4%A7%E5%B7%A5%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%B3+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">飛騨古川 雲紋 大工のサイン 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E4%BA%9C%E9%89%9B+%E6%9D%B1%E6%B4%8B%E4%B8%80+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">神岡鉱山 亜鉛 東洋一 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%AE%E5%86%85%E5%BA%81+%E5%BC%8F%E9%83%A8%E8%81%B7+%E9%B5%9C%E5%8C%A0+%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%8B%99%E5%93%A1+%E9%95%B7%E8%89%AF%E5%B7%9D&client=app-vertex-grounding&safesearch=active\">宮内庁 式部職 鵜匠 国家公務員 長良川</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHm2FO8iSfUevgdL8-tCcWYvGyWiPLNJvWhjjDB_LZXqnUyHRO97fvwywtEv0-B_eyKuqWBDbjnEsNLwL_iP_MJe6eTzPmC94txd7mmiuZ4bUnmIj4sPagscHn2",
-          "title": "hidakara.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEx4IZP1x7Z56TmINb8LP_bH-mpY236-0QmXirN5AgeFFYGcrDgBbT9vqZeIZtH_J9vpYJrxy9XEfVnUhdMw1iOioe_-6mvd08RbSLjDgrDrrEoy1TEcDw6HFggkUUP-Zjf6Y8=",
+          "title": "mitsui-kinzoku.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3tf8p2jKYPOhdRmzWPhfgxB3DI55ncfzLIaJAXG7B6kAx7IMNYekVWw_panpFTL1aAoGfo4jgFqSS6TBL3tLx-Wp8AlPBlOjiypYzQy8QkQwjjS7IY0HBbZcMECA=",
-          "title": "kyoudo-ryouri.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaMSaWk4tK0cG8hyaMushQufde8W4cuR3GWLf6gj-8vG3blXpNSlLNc6oZC92BfaIFtLfNsc0CnE6-GMSDhwhfKoiJLA2qOzCUL6jNxrhUOr8s2HNXKqGYBK6-9yUvdOEFZilEQFyswoMX4uFY6YOZzK6rIgPeD03a7-KkUQg4LILTmS-xSpZ9ALjUCCCpHcBHxeF6tQ==",
+          "title": "kyoto-u.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDQ9Xs4EvsLNdPekgoFdbj8BGsi51G8ZlP5TtGY0y1DXL35A5yAfU5lzBZqt5Y3rdQI-zWrjquE4JZJqHWL331y_GYud2-haToXQIQH1ifOo5eCPn-2Z3GtVegle-qtHmTccltQEG-lbhjzRhlCQ8_gzFBxeUno5z3USku3NRZL1ScGJprBCcqP2Wy_UMyEteoAxUriA47l0PedOq6ObT8sjlWunV15rMK20TFulw=",
-          "title": "spa-hotel-alpina.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWD51GEADUohagx_tUZ9o53EXVYZ89F5BHS0HrDKfe_i6MWxDzDg5fHrrzt1uSTZSYmBJSkmejWMYHt7VFBD6eBndHSnspP_6X7JqXbMvEFxswJ7wl0iy43oZzSnHUsKojuqq7n9cKrC2Ne1IIcCldW8gVGCJvtyFfvg==",
+          "title": "geo-gifu.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdz-1-yn5_L1XfB7Z9RqOYtPG62WXMMCDYw9wYvOjhyF4wWdMxoOTA0Mb2-xOMOA80bahBwXTLKoLZQkC_YBYHTADS_ZmihCPZmWuWqT0hbFfnqzxiBOJIH4rKykSE",
-          "title": "croissant-online.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGs3LPMq0YkXdYDhfTGUJIE90Nm_lESuGLMYtOSZlsrTLBZKTBgN3HRM4iZX_EA1rq1k9YMqRh_pvx9Y8cyk2ab74fuHzEBAlgVgXtljsCG_iIIOUEQ4MPD-85N1khzLLu1qJqRGj2riBwa2AqbzaDYCcD9oobJRF-YmwwTM_otNlu91Lvza-lVO8yRonH0xepD1XOgUfGFx90=",
+          "title": "pref.toyama.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEctvZ2zqaxQVhiYcnvjgdeiVsLZKJibJEoC0fy6Pq-j1OfY-4AZi7Xq9iGxxILYn1TUb_4CMxKPXb0WMTGB0gsy5_h5TCqX7w1IW4LCa6R5V1hX-H7ucn4RUwikTGVTHdhpeuALzgG8jOCUNFCaNsIkuTEzDi2i61JEfXUuVVms5Zxr9qznMnw",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA-sFr9sM34hQVgDg2t4EqCoe9rx0v1Ew7XR7fLnhk6Wo6Wvlj7AY2X0IqKmvGu87wtyFPZAE-zTdImy-smkyoFchtIGNrRrJ_GSVJIfvsDPPd7j0FFSiPq7RJuDI4QTezoax3sn-KlWdtINwjI0whew==",
+          "title": "geo-gifu.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXk3AYRHrL5znlRmfwGelWcN4VLw1--feZWytNPF63Ps_2sJLSKoPYELQkJMXSuRL2eTAIXRkpuV0gsedr2o27tyL6A6GQrjh7EZL1V46ntMGRI2p7SZF_YszraTXVg7fY0jyyxMuAsWJeESu0_zz6xb_YkY6jQ8mjjf8oK2_HJYB_T3vWDRHLuEsstqFc57TP36B92WHFbFQDBBKuP76xMy7PGtEsa9k04cJxakfBxlXFyr4BrvWW-OZEYKDez8s2lz0EVLkr2XgxFEPDtw==",
-          "title": "yama-1.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECSNPMy1kEp-Uia2y9F0XAqSboc1SrYabFYl-ZK7Kp1G8EvprbfQ5ZFz_lHa7D6Pn8V9iyyDtNhzDJt54y883PDqfLvsTrNnTfg_lrt_WjKtHgVFAVvYWhc4c-kQ==",
+          "title": "4travel.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfZEHMNtMWTt2q3p8-7RJpEpsZrR1y5jViFGDWRkB2n_v7AtMEagJIes1e-XtBJv3hrU71832FFr_-NbNBIhEMEobjlegdLclDCKyEWb_M39luyORB5aj8BP63",
-          "title": "gifu-kiwami.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg4g0eedtuxClXprK0lxxm8aMtagmNCo9B-oilYtm0LPWckzsN_KB35ezF8CTJ-reAdD1iMezh04hH4ZFBB3zEaO_y9mmBfqWbNFkX2xPBVcAZet52qDBH5A686VpWJp1yuVmfv0m2",
+          "title": "main.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE36PxZ5UsE6iKDsLkb41mow6dMeojsZ-rEyXVi8DnJ5FQXsz_Op_ZEdeZGIMKfrL-tRqmEa-E-OjegUayIjBQhBon15JqWQfBh038-tnnHteT77Lc7AAeAnatfB-jgS04-zRH_ZmwrFHri8T20ZUKjfebsMuDqCNCHdn4-uji3x9ejhg3j3LC3530H",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4J_UxS0NEctd1Xm_5OA66V1hT2cSebSWCpwhaJGWrxmT2UY5KQFn_NuoSDkyJTHNtX1RI0aU-x7SOLucuVwnpO-sq_auBAJpb5A4_Gm-p4uMztuE0wbii5m47OXp63-S2b_S-WIy0NdupE29Oc6s=",
+          "title": "city.hida.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb0gwX_TpMTyqiR9D8raOFkxyAoLE3XxjE8TYOZTsWX2LXcuy2KKhWBqGIDz54TrIDJfZrxxxKyPqNG7yJdDBLS-1Xf3ps_BwuNyBYuar3czGKjU6G0MzB9ydj4lHE6yeLsMxRUKc0Dxy0GGFo3lUSV-PFPbl3NTydSGfPqLvZscZG6KZV6qn07Ua-s1DY9Np_7I8=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEVhFXTI1-hVyhqTvxWRXBnNRYosR_VwW-rknQQgJ7isuAwdMkYhOeDmsu6J8W1pBDrxogdI0tkdJDe2jkQf3uqbqFXvym7k-_3T6Ehr5k_UYV1jZ1P2Mz96zP4EJRSvXlxyqWaTt_cKdc=",
+          "title": "jalan.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZBRbWFge9VINmJy439-e7RLNqV80WgcOLXiNPdihjI6M8yzxOAuuTyFS4jY3iZbsF9OVRFqk6sgb3nl9GjnfVdgi3fe8AKhAR-vShsvyvR5uSeJqpGUF1fRcSa-kK396cgFM809-xQK3WW8fB",
-          "title": "takayama-gh.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTC_m4YawzjQN-rWmeUOB1TxVfGFEgydzEiRnMtcTfzzIkbWxvElyZDEo2MqWYowZ5SReAv5fCFsUI9BcYc32Nz6gnNj3m-UOeBhKYBmJgPXTwClOFSOxiQQ==",
+          "title": "hida-kankou.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1qyyE8qHqStiPuIwZ1DVLoaPapwELJTg6opRCrM8RMs03ZVDR8DrnI2XUmDM9Ncvrg6ys644FgtxbRUi7DFt1tjat_Jql3H3pyidfGmLEUdnlEiq2DdWftzohvqfJtmf1kqXCcQ_aIg==",
-          "title": "oceans-nadia.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvFnSHlfHs9EgcNmWO3zPQkUKRu9JrM2CcnMyAJBOIV3kHNkgUNt8Umf6annRPTisz7bK7CprDI7A0ZCvIKZQsQJ4pD05PNMTqx956MuWPu-LJRNSjzl1SVOi1SnKH",
+          "title": "ukai-gifucity.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH8vEQjJoa6Wywb8stsEgjSgabd7VLTuRBEcxDwiojm2bH76oIoN8XPfgMe0prgo1J3HiK1UASYKtZRlp_F1gg0v3JnPsu3JH9gwZ5KRiiBElHJ62puMevw_A7BkpGJMg0kQcbucdT",
-          "title": "rakuten.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEHsMoEO5COs8TN2834UwhyZMGKlg01goCwxRYjlWPeVwd9ZAv2mdt0PmpE2uaCf9LT-oIMVY8_l-i9SbNDc3MVCs20XUF8M_VMN9B5M-UAkFN4dDpXdgpGqiuTrtxWfbZnm8t2GVzspj3NruYH3QsK_oqzSOciaDBxQnXU0DDzbA1wJ37bPLzOe7raOp2-gIjHmnQaqg=",
+          "title": "hicbc.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Y9AxtXgAT-qar7NAtpOXD2lzXsVTCpszgT7QV1APaiTESF1iGcnEI6HK0n1edMv31XKjULuQIdE0M0RSKmsfk1Nkyek34qdkVNeTO7n_GBRXyEFvlhsQ5plqkxKRhlVcvulGVC0QMfXGewY7coAJYF82_AA7Lk4nFA==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAjrkz7fz_-pW-6sjLOMy0T-j-Y5acHVyFfcjQ1mvaHWZ8o_hy1eP3OeUPRjezOxaQHfytr4EmDarGj34qp9m-0eXQzMOHiu7gY37dTGfmCrFGvJVlHr160-49X2h6XUvNFvaMtO2nZZGuIHs=",
+          "title": "mlit.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRBGuAzLwDd_xRDdqoykbu7QJJAaSNciCOuwInudZfLnF8wVD0Jf_BcLDK0Mz2P2a5SJQRpJ3w-GDgeLRuurAXx7Y86Jpy0n565U4PLTkEcFJgILyEcIMw3cJSv5YSFBnV-xlq",
+          "title": "kunaicho.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1IuGzmAseFWsvkHEh2MDyFpAqeSWdAyqVc3za-WXJtuRQsG3Cmbnhy90_PkdioVzLFRcJRCjPUnj7s7x5bIgovicWEWGENf6XL2FyV9SP2OB2xYTm",
+          "title": "ukailovers.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUMADSBbk-OqgI9XOzp5J9EP6hrarz9mIC2cMA3vrsH2VHpmvE2BvvgM_vS6a_O6En0qOcSTxV_KZcC5TWViSk11jULPDGWO7VXlWuwYoF0rGxgIKV0t6XIo8NiO6BNE1ICJ0HCR244nI5vpzuDA==",
+          "title": "shinrin-ringyou.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF024fom8Ceai4z_PnO6zoAWKUZZAt6C3wpQr9l0xACTP_tpsDQBP97BA21w8rCZ05E8y0s_QjmnQByG4YH0ETxGsXVVMJJEgtkhmjTLYgX0Lhn-oJSgUcQGYq9nvaXEg==",
+          "title": "shirakawa.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0uR1IWOwGQ0zz6skMUMSAJZKB-icc1P_gLxsC9JiQqtT4oIGZ1rqk2phS_fMxc4zcT4LQNyCU7PCzxd_sqPEHTTO61reZDvl5-ZIXMk44Ee5_rVH176JZOFHj5BnVPt31aPp2xUHLc_4hp-TX84oIEraLYO22i08-YVA=",
           "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK75rt5OGB75JuPi6P3djbc1-fwFuCRUaJ9EzdP7yxlId7y34aZcahmFXySoBgnMWlthaS79_47AZaLq2nUcmdlNPdEUZbRKpWFk110aU3iyHxF3t098Y5T6CfZ68=",
-          "title": "reolyber.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkgxTGCxt7MrB40o8KCwtJQJAZwd6GfYpzqc6aN_3wNttWNMXnzNFAIWfaiuTn2ZujIjxixw9iV7kQdFC-5IkRf9LIKtvHS_PezLIxRcJyn2hzwZvStcCo2IVME1FlqnkIOcXSCj76OWb7gCuSQ0EyXqCQ7ovj",
+          "title": "web-japan.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV_f42lQ0kMQCKskps_ke7HJneGaDNsstDeMHI1_CXJi2iTDNgukxVA97bzaOO-T7-Tu41cVyozwU7HTcSPg9HVaWEKhG2hd2J5Zi2N1Ihi0o-cC9Vl4qwhv0sEgZ-OjUMPxse0psSHe8=",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFFnVFSNaQBQAP7mgzqudwOj_TOjHfn27zdHfBIaP9rZY5O5jADwA9zSCGdNx1I2xeilnr-eZkKd1EGh03r2QQmtSsvHVZBEa_WGHIBBLlKf-_BfOt3vDowN3_iEamP3g=",
+          "title": "andtrip.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_wBGwboUD0bH3D6yaY00CQG09G40PPmmOixx6Jj5x6lybL6tB_hdG3OVuUpzj0fNZrKCfObjseE_6fe-Qu464rKAlLmNvDoyPpVkyx7WUE8VHDGjnSUk0LqIG0tu5s3eR",
-          "title": "chemistry.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYL654xbdE5FMm_TV5vc4jl_XDEhXz4u7tJdzsuJOAC0MNweCcyWXSaNGgS_FO1jaNVqv_BFZ9Uf_aNDX88zH1IkQrmhIgRFHYWsoNbXTWr4PC4YYr8A29ZQ==",
+          "title": "exblog.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOj8sMplLo7mgZhOyxaklcqFJuXnftd8_zeGlz0cc4BZvEjqKQFZh2OMSWiz0GD538xs2tyHgTojJWIxAvpxA8GnIWEl-v7Ie4zVAybEqI1ERkPpV3yktV-cCLs82WNFGc",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEISO-5gL0Z5PTHFaKlIvcVUEVAR4GaRaCkOSIzUdm1aPjSeJ5mFJlXipW-N99vJIwQPxFRYFpKw0tuG9HzkOS1ZABphw0eFF7iZvTjMu6xZ4DmORI-cRHZp_pMTRBrlOll9O8=",
+          "title": "gokayama-matuya.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZos3XryyMFIKplYqSsPrjt3N2u-q-lsauLzNrUxIJhW-ZfQYe24cyL6nnolQU8RaPvuuE7PE-zNx762FyFE3yqz-j7FIWmcU3qUrz1CDvtiaL_7zYFzkiVO-WgArKYYkPydV3",
-          "title": "manabinoba.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqVdAlVBEKkAJFwBbpeHsGudWOxgpoUVecCc0WBgsa25BsOv77XQrgaEuukDTRMs8PQB8S0vsViMw4aiodqxE-q10LdTCjJW_ziyR3gOsC6NFV90uKA4B2E7tQTwtnovc1abM=",
+          "title": "whc-shirakawa-goandgokayama.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZxGZXt38C4hz72C52fYHxPeZ5eJYj0cb-Le-GP0MWKme9uUGJkikhYs2yJn_et0QQEWY6MSMPuxDX3qOVH2FaffbRyq0XNwbW2VE1-DUdrRH2Apghf6gpQfELSvp8WfGX0WrWP-rD_OUGmTj0utpY5wiXQnUpJ1zbylEXfh3O4js=",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmvDlOjXOGFoaE086IBzl-BbJB6rMCI4Pp9ZoQQMhPhd4CgOmm53PNvw10M4AlqJ1IsOVfNmuTwnajTELF8bvwEtFA4SofWzYtnVwta-7ihxFItCzXGaVdAAlT3zHaQKE6GPhrDVMg",
+          "title": "nkb89.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 620,
-          "endIndex": 752,
-          "text": "この凍った漬物を囲炉裏の火で溶かし、温かい状態でおいしく食べるために焼いたのが始まりです"
+          "startIndex": 716,
+          "endIndex": 899,
+          "text": "神岡の鉱山開発は奈良時代に始まったと伝えられ、戦国時代から江戸時代にかけては主に「銀」や「鉛」を目当てに採掘されていました"
         },
         "groundingChunkIndices": [
           0,
@@ -196,63 +246,93 @@
       },
       {
         "segment": {
-          "startIndex": 1086,
-          "endIndex": 1233,
-          "text": "それを加熱して卵でとじることで、冷たい添え物から「温かい主菜（メインのおかず）」へと変化させました"
+          "startIndex": 902,
+          "endIndex": 1115,
+          "text": "当時、鉱石の中に混ざっていた「閃亜鉛鉱（亜鉛のもと）」は、当時の製錬技術では銀を取り出す邪魔になる不純物・不要な石として捨てられていたためです"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          2,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 1239,
-          "endIndex": 1337,
-          "text": "**意外な点：** 「ステーキ」と名乗っていますが肉は一切入っていません"
+          "startIndex": 1118,
+          "endIndex": 1268,
+          "text": "明治以降に分離・精錬技術が進歩し、日露戦争などの軍需や近代工業の発展に伴って亜鉛の価値が一変しました"
         },
         "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1310,
+          "endIndex": 1540,
+          "text": "1874年（明治7年）に三井組が本格開発に乗り出して以降、2001年（平成13年）に採掘を終えるまでの約130年間で掘り出された鉱石の総量は、なんと約**7,500万トン**に達します"
+        },
+        "groundingChunkIndices": [
+          4,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1340,
-          "endIndex": 1595,
-          "text": "また、乳酸発酵が進んで酸っぱくなった古い漬物でも、油で炒めて卵と醤油・味噌を合わせると酸味がまろやかになり、うま味が凝縮してコクが出るという調理科学的なメリットもあります"
+          "startIndex": 1543,
+          "endIndex": 1693,
+          "text": "最盛期には人口約2万7,000人を超える活況を神岡町にもたらし、名実ともに東洋一の亜鉛鉱山へと登り詰めました"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          2,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 1601,
-          "endIndex": 1816,
-          "text": "**歴史の裏話：** もともとは囲炉裏端で、凍った白菜漬けを朴葉（ほおば）の上にのせて火にかざし、溶かしながら卵を絡めて食べていた農家の家庭料理でした"
+          "startIndex": 1720,
+          "endIndex": 1930,
+          "text": "「銀が取れなくなって衰退した」のではなく、かつて捨てていた亜鉛が技術革新によって主役に躍り出たという、技術が拓いた大逆転の歴史を持っています"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          1,
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 1819,
-          "endIndex": 2047,
-          "text": "昭和の居酒屋文化が普及する過程で、居酒屋が鉄板でジュージューと焼いて提供するようになり、「漬物ステーキ（漬けステ）」というインパクトある名で定着しました"
+          "startIndex": 1960,
+          "endIndex": 2200,
+          "text": "神岡鉱山は、国内で初めてトロッコのレールを廃止し、坑道を斜坑で結んで大型重機を走らせる「トラックレスマイニング」を導入するなど、採掘技術の最先端を走り続けました"
         },
         "groundingChunkIndices": [
-          3,
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2053,
-          "endIndex": 2167,
-          "text": "**出典・根拠：** 農林水産省「うちの郷土料理（岐阜県 赤かぶ漬け・食文化解説）」"
+          "startIndex": 2203,
+          "endIndex": 2350,
+          "text": "この強固な地下空間と高度な掘削技術があったからこそ、後の世界的観測施設などの誘致につながっています"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2382,
+          "endIndex": 2457,
+          "text": "三井金属鉱業「神岡鉱山って、どんな鉱山（やま）？」"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2464,
+          "endIndex": 2533,
+          "text": "岐阜県地質学会「神岡鉱山（銀・銅・鉛・亜鉛）」"
         },
         "groundingChunkIndices": [
           4
@@ -260,83 +340,112 @@
       },
       {
         "segment": {
-          "startIndex": 2053,
-          "endIndex": 2236,
-          "text": "**出典・根拠：** 農林水産省「うちの郷土料理（岐阜県 赤かぶ漬け・食文化解説）」、郷土料理ものがたり「漬物ステーキ（岐阜県）」"
+          "startIndex": 2540,
+          "endIndex": 2612,
+          "text": "富山県イタイイタイ病資料館「神岡鉱山の生産拡大」"
         },
         "groundingChunkIndices": [
-          1
+          3
         ]
       },
       {
         "segment": {
-          "startIndex": 2331,
-          "endIndex": 2564,
-          "text": "**理由：** わらを編んだ「こも（むしろ）」で豆腐を巻き、あえて大鍋でグラグラと沸騰させて茹でることで、豆腐の内部に無数の気泡＝「す（鬆）」を立てているためです"
+          "startIndex": 3045,
+          "endIndex": 3285,
+          "text": "あの装飾は「雲（くも）」または「雲紋（くももん）」と呼ばれ、飛騨の大工棟梁が「この家は自分が手掛けた」と責任と誇りを示すための自筆のサイン（トレードマーク）です"
         },
         "groundingChunkIndices": [
-          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3288,
+          "endIndex": 3423,
+          "text": "大工ごとにオリジナルのデザインが決まっており、同じ大工が建てた家には同じ「雲」が刻まれます"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3465,
+          "endIndex": 3562,
+          "text": "現在確認されているだけでも「雲」のデザインは**約170種類**に及びます"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3568,
+          "endIndex": 3700,
+          "text": "飛騨の匠文化館」の中庭には、建設に携わった地元大工**30人**の異なる「雲」が勢揃いしています"
+        },
+        "groundingChunkIndices": [
+          9,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3703,
+          "endIndex": 3870,
+          "text": "なお、1986年の調査当時、旧古川町内には123人もの大工がおり、住民の「約130人に1人が大工」という驚くべき職人の町でした"
+        },
+        "groundingChunkIndices": [
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 2567,
-          "endIndex": 2705,
-          "text": "中に穴を開けることで、煮込んだ際に出汁がスポンジのように芯までしっかり染み込むようになります"
+          "startIndex": 3897,
+          "endIndex": 4119,
+          "text": "飛騨の匠の伝統を受け継ぐものですが、大工が個別のデザインを競い合って雲を刻む流行が定着したのは、意外にも昭和29年（1954年）頃からと比較的新しい文化です"
         },
         "groundingChunkIndices": [
-          5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 2995,
-          "endIndex": 3127,
-          "text": "この無数の気泡のおかげで、普通の木綿豆腐に比べて煮汁の吸水力・保持力が格段に高くなります"
+          "startIndex": 4149,
+          "endIndex": 4395,
+          "text": "1986年（昭和61年）に日本ナショナルトラストが町並み調査に入るまで、地元の人々にとっては「軒下に模様があるのは当たり前」すぎて、特別な文化財とは意識されていませんでした"
         },
         "groundingChunkIndices": [
-          5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 3133,
-          "endIndex": 3384,
-          "text": "**意外な点：** 表面にある独特のデコボコした筋模様は単なる飾りではなく、わらで強く締め上げて茹でることで形崩れを防ぎ、余分な水分を均一に押し出すための実用的な成形技術です"
+          "startIndex": 4398,
+          "endIndex": 4575,
+          "text": "調査団が大工たちに尋ね歩いて初めて「雲」という名称やサインとしての意味が公に浮き彫りになったというエピソードがあります"
         },
         "groundingChunkIndices": [
-          5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 3390,
-          "endIndex": 3524,
-          "text": "**歴史の裏話：** 山深く肉や魚が手に入りにくかった飛騨において、豆腐は貴重なたんぱく源でした"
+          "startIndex": 4607,
+          "endIndex": 4664,
+          "text": "飛騨市公式観光サイト「飛騨の匠文化館」"
         },
         "groundingChunkIndices": [
-          5
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 3749,
-          "endIndex": 3836,
-          "text": "村の共同作業と助け合い（結の精神）から生まれた伝統食材です"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3842,
-          "endIndex": 3937,
-          "text": "**出典・根拠：** 農林水産省「うちの郷土料理（こも豆腐・岐阜県）」"
+          "startIndex": 4671,
+          "endIndex": 4792,
+          "text": "飛騨市公式ウェブサイト「古川小6年生がかんな削り体験や町並み見学などを行いました」"
         },
         "groundingChunkIndices": [
           7
@@ -344,9 +453,9 @@
       },
       {
         "segment": {
-          "startIndex": 3842,
-          "endIndex": 4007,
-          "text": "**出典・根拠：** 農林水産省「うちの郷土料理（こも豆腐・岐阜県）」、岐阜県公式特産品サイト「岐阜の極み こも豆腐」"
+          "startIndex": 4799,
+          "endIndex": 4907,
+          "text": "日本ナショナルトラスト町並み調査記録等（紹介記事：まちのかたち「古川」）"
         },
         "groundingChunkIndices": [
           6
@@ -354,171 +463,205 @@
       },
       {
         "segment": {
-          "startIndex": 4111,
-          "endIndex": 4281,
-          "text": "**理由：** 全国で一般的な「とろみのある甘辛い餡」がかかったみたらし団子は、大正時代以降に広まった新しいスタイルです"
+          "startIndex": 5301,
+          "endIndex": 5532,
+          "text": "長良川の鵜匠は、宮内庁の儀式や伝統文化を司る部署に所属する「宮内庁式部職鵜匠（くないちょうしきぶしょくうしょう）」という正式な国家公務員（宮内庁職員）です"
         },
         "groundingChunkIndices": [
-          8
+          10,
+          11,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 4284,
-          "endIndex": 4503,
-          "text": "飛騨地方の「みだらし団子」は、砂糖が貴重だった江戸時代以前の「生一本の醤油を塗り、香ばしく直火で炙る」という団子の原形をそのまま残しているためです"
+          "startIndex": 5535,
+          "endIndex": 5680,
+          "text": "年に8回、皇室に納める鮎を捕る「御料鵜飼（ごりょううかい）」を務める公的な役務を担っているためです"
         },
         "groundingChunkIndices": [
-          8
+          13,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 4509,
-          "endIndex": 4778,
-          "text": "**具体的な数字や比較：** 全国の甘辛いみたらし団子のタレには多量の砂糖や水飴が使われますが、飛騨の団子に塗るタレは基本的に醤油（店によってわずかなみりん）のみで、甘味度はほぼゼロです"
+          "startIndex": 5722,
+          "endIndex": 5972,
+          "text": "日本国内で鵜飼が行われている地域は複数ありますが、鵜匠が宮内庁の職員（国家公務員）として任命されているのは、岐阜市の長良川（6名）と関市の小瀬（3名）の**合計9名のみ**です"
         },
         "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4781,
-          "endIndex": 5040,
-          "text": "串には小ぶりな団子が5個刺さっており、観光客がおやつとして口にすると「甘くない！」と驚かれますが、地元では甘味というより「焼きおにぎり」に近い日常の軽食として親しまれています"
-        },
-        "groundingChunkIndices": [
-          8,
-          9,
+          10,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 5046,
-          "endIndex": 5157,
-          "text": "**意外な点：** 地元では「みたらし」ではなく「み**だ**らし」と濁音で呼ばれます"
+          "startIndex": 6098,
+          "endIndex": 6211,
+          "text": "代々続く鵜匠の家系に生まれた男子のみが1家に1人継承する、完全な「世襲制」です"
         },
         "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5160,
-          "endIndex": 5355,
-          "text": "全国の甘辛いみたらし団子を見慣れている人にとっては異風に見えますが、歴史的には飛騨の醤油焼き団子のほうが古い伝統の姿を留めています"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5361,
-          "endIndex": 5573,
-          "text": "**歴史の裏話：** そもそも「みたらし団子」の起源は、京都・下鴨神社の「御手洗（みたらい）池」の湧き水の泡をかたどって神前に供えた串団子とされます"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5576,
-          "endIndex": 5873,
-          "text": "大正時代に下鴨神社の門前茶屋が黒砂糖と醤油を葛粉でとろみづけした餡を考案して大ヒットし全国へ普及しましたが、山深い飛騨ではその流行に染まることなく、素朴な醤油の焦げ香を楽しむ食文化が守られ続けました"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5879,
-          "endIndex": 6031,
-          "text": "**出典・根拠：** 文化庁「うちの郷土料理・和菓子文化解説」、飛騨高山観光公式サイト（みだらしだんご解説）"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6156,
-          "endIndex": 6308,
-          "text": "**理由：** 熱い味噌汁をお椀に注いでフタをすると、中の空気が温まって膨張し、湯気（水蒸気）で満たされます"
-        },
-        "groundingChunkIndices": [
-          12,
-          13,
+          10,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 6311,
-          "endIndex": 6578,
-          "text": "その後、少し冷めることで水蒸気が水滴に戻って体積が激減し、空気も縮むため、お椀の中の気圧が外の大気圧より低くなり（減圧状態）、外側の空気によってフタが強力に押し付けられるためです"
+          "startIndex": 6241,
+          "endIndex": 6430,
+          "text": "江戸時代は尾張徳川家から手厚い保護を受けていた長良川の鵜飼ですが、明治維新の廃藩置県で後ろ盾を失い、一時存続の危機に陥りました"
         },
         "groundingChunkIndices": [
-          12,
-          13,
-          14
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 6697,
-          "endIndex": 6917,
-          "text": "お椀の中の温度が80℃から室温程度まで下がると、気圧低下によってフタを押し付ける力は約8kg〜10kg（水の入った重いバケツ1杯分に相当）に達することがあります"
-        },
-        "groundingChunkIndices": [
-          12,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6920,
-          "endIndex": 7013,
-          "text": "大人でも真上に引っ張る力だけではビクともしないのはこのためです"
-        },
-        "groundingChunkIndices": [
-          12,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7019,
-          "endIndex": 7346,
-          "text": "**意外な点：** 力任せに引っ張っても開きませんが、**「お椀のフチを親指と人差し指で挟むようにして軽く楕円形にたわませる」**と、フタとの間にわずかな隙間ができて「シューッ」と空気が入り、まるで嘘のように片手でポロッと外れます"
+          "startIndex": 6433,
+          "endIndex": 6697,
+          "text": "しかし、岐阜を訪れた明治天皇への天覧鵜飼などを経て、1890年（明治23年）に宮内省（現・宮内庁）が御料場を設置して鵜匠を職員に任用したことで、伝統が途絶えることなく現代に守られました"
         },
         "groundingChunkIndices": [
           13,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6729,
+          "endIndex": 6756,
+          "text": "宮内庁「御料鵜飼」"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6763,
+          "endIndex": 6823,
+          "text": "岐阜市ぎふ長良川鵜飼公式「鵜匠と鵜の絆」"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6905,
+          "endIndex": 6953,
+          "text": "意外と知らない『鵜飼』の豆知識」"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7368,
+          "endIndex": 7473,
+          "text": "最大の理由は「風の抵抗を減らすこと」と「太陽光を均等に当てること」です"
+        },
+        "groundingChunkIndices": [
+          15,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 7843,
-          "endIndex": 7989,
-          "text": "**出典・根拠：** 武庫川女子大学・食育実践研究会「食育と授業：蓋が開かない（水蒸気の凝縮と大気圧）」"
+          "startIndex": 7476,
+          "endIndex": 7713,
+          "text": "白川郷の谷あいには庄川に沿って南北に強い季節風が吹き抜けるため、風を受ける面積を最小限にして倒壊を防ぐよう、屋根の棟を川と風の向きに平行（南北）に通しています"
         },
         "groundingChunkIndices": [
-          17
+          17,
+          15,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 7843,
-          "endIndex": 8026,
-          "text": "**出典・根拠：** 武庫川女子大学・食育実践研究会「食育と授業：蓋が開かない（水蒸気の凝縮と大気圧）」、日本化学会 教育解説資料"
+          "startIndex": 7755,
+          "endIndex": 7826,
+          "text": "白川郷は冬に**3メートル近く積雪**する豪雪地帯です"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7829,
+          "endIndex": 7964,
+          "text": "屋根の三角形の頂点が南北を向くことで、大きな茅葺き屋根の両面は「真東」と「真西」を向きます"
+        },
+        "groundingChunkIndices": [
+          15,
+          20,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7967,
+          "endIndex": 8258,
+          "text": "もし東西に棟を通すと北側の屋根にまったく日が当たらず、雪が解けずに湿気がこもって茅がすぐに腐ってしまいますが、東と西に向けることで午前は東面、午後は西面と太陽の恵みを均等に受け、屋根を乾かします"
+        },
+        "groundingChunkIndices": [
+          17,
+          20,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8285,
+          "endIndex": 8522,
+          "text": "屋根の並びは単なる景観の美しさではなく、豪雪と強風という厳しい自然条件を生き抜くために計算し尽くされた「完全なパッシブ（自然エネルギー利用）建築」の知恵でした"
+        },
+        "groundingChunkIndices": [
+          21,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8552,
+          "endIndex": 8699,
+          "text": "合掌造りの巨大な屋根裏は、江戸から昭和初期まで村を支えた重要産業「養蚕（蚕の飼育）」の作業場でした"
+        },
+        "groundingChunkIndices": [
+          16,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8702,
+          "endIndex": 8933,
+          "text": "屋根を南北に向けると、切妻の三角窓から南北の谷風が屋根裏に吹き抜け、蚕の生育に必要な温度調節や通風が自然に確保できるという、産業上の大きな利点もありました"
+        },
+        "groundingChunkIndices": [
+          16,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8965,
+          "endIndex": 9014,
+          "text": "白川村役場「合掌造りとは/白川郷」"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9021,
+          "endIndex": 9063,
+          "text": "森林・林業学習館「合掌造り」"
         },
         "groundingChunkIndices": [
           15
@@ -526,53 +669,74 @@
       },
       {
         "segment": {
-          "startIndex": 8700,
-          "endIndex": 8777,
-          "text": "**2番：寒さで漬物がカチカチに凍りついてしまったため**"
+          "startIndex": 9070,
+          "endIndex": 9163,
+          "text": "白川郷・五箇山の合掌造り集落世界遺産センター「合掌造りを知る」"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 8814,
-          "endIndex": 8952,
-          "text": "氷点下の冷え込みが続く飛騨の冬、樽で保存していた白菜漬けは中までガチガチに凍ってしまいました"
+          "startIndex": 9263,
+          "endIndex": 9363,
+          "text": "岐阜の夏の伝統美といえば、1300年以上の歴史を誇る「長良川の鵜飼」です"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          11,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 8955,
-          "endIndex": 9114,
-          "text": "その凍った漬物を何とか美味しく食べようと、囲炉裏の火や朴葉の上で温めて溶かしたのが漬物ステーキの始まりです"
+          "startIndex": 9888,
+          "endIndex": 10074,
+          "text": "長良川の鵜匠さんは、正式には『宮内庁式部職鵜匠（くないちょうしきぶしょくうしょう）』という辞令を受けている国家公務員なんです"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 9117,
-          "endIndex": 9186,
-          "text": "「ステーキ」と名乗っていますが肉は入っておらず"
+          "startIndex": 10077,
+          "endIndex": 10168,
+          "text": "年に8回、皇室に納めるための鮎を捕る『御料鵜飼』を務めています"
         },
         "groundingChunkIndices": [
-          2
+          13,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10171,
+          "endIndex": 10291,
+          "text": "この特別な鵜匠さんは、日本全国探しても岐阜市の6名と関市の3名の合計9名しかいません"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10294,
+          "endIndex": 10441,
+          "text": "公務員試験で募集されることはなく、代々鵜匠の家系で一子相伝で受け継がれる特別な職務なんだそうですよ"
+        },
+        "groundingChunkIndices": [
+          10,
+          24
         ]
       }
     ],
     "webSearchQueries": [
-      "味の素 椀の蓋 取れない 理由 気圧",
-      "農林水産省 みたらし団子 飛騨 醤油",
-      "農林水産省 漬物ステーキ 飛騨 うちの郷土料理",
-      "農林水産省 こもどうふ 飛騨 うちの郷土料理"
+      "白川郷 合掌造り なぜ 南北 屋根の向き 風 日当たり",
+      "飛騨古川 雲紋 大工のサイン 由来",
+      "神岡鉱山 亜鉛 東洋一 歴史",
+      "宮内庁 式部職 鵜匠 国家公務員 長良川"
     ]
   }
 }
