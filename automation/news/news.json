@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T02:54:22.092Z",
+  "updated_at": "2026-11-04T01:19:43.660Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,14 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "アリーナ工事レポート",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/projectpromotion/queenseis-collaborationprojects/kenshetsu.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-11-04T08:57:47+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "令和8年度明るい選挙啓発ポスター入賞者",
       "url": "https://www.city.anjo.aichi.jp/kurasu/senkyo/akaruisenkyo/posuta.html",
@@ -74,6 +82,14 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "市営住宅（待機型）待機者数",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/sumai/shieijyutaku/shieijyutakutaiki.html",
+      "summary": "",
+      "category": "くらし",
+      "published_at": "2026-11-02T10:01:37+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "「ミカワミライラボ」第２回ワークショップ",
       "url": "https://www.city.anjo.aichi.jp/kurasu/machidukuri/projectpromotion/mikawamirailabo2.html",
       "summary": "",
@@ -130,6 +146,14 @@
       "source": "安城市公式サイト"
     },
     {
+      "title": "中学生日曜教室（音楽・美術）",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/bukatsumusicart.html",
+      "summary": "",
+      "category": "文化・スポーツ",
+      "published_at": "2026-10-31T09:56:52+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
       "title": "寄附企業のご紹介（令和8年度）",
       "url": "https://www.city.anjo.aichi.jp/shisei/joreikeikaku/kigyoubankihukigyour8.html",
       "summary": "",
@@ -162,14 +186,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "大会結果",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/sports/20th-asian-games/taikaikekka.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-10-30T15:10:26+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "地域子育て支援拠点（子育て支援センター）",
       "url": "https://www.city.anjo.aichi.jp/kurasu/kosodate/kosodateshisetsu/sien-center/index.html",
       "summary": "",
@@ -191,6 +207,14 @@
       "summary": "",
       "category": "学び",
       "published_at": "2026-10-30T14:49:00+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "安城市民ギャラリー企画展「ともに生きる生物たち－共生の姿－」",
+      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/kikakuten/r8-tomoniikiru.html",
+      "summary": "安城市民ギャラリー企画展「旅人のレンズ－風景画の世界－」市民ギャラリー収蔵品と市内小中学生から「風景」をテーマに募集した作品の展示。",
+      "category": "文化・スポーツ",
+      "published_at": "2026-10-30T13:12:14+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -303,30 +327,6 @@
       "summary": "",
       "category": "学び",
       "published_at": "2026-10-29T10:36:00+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "令和8年8月千葉豪雨に伴う災害救助・救援のために使用する車両の取扱いについて(千葉県)",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/bosaibohan/shitorikumi/r8gouuchiba.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-10-29T10:21:50+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "市民文芸まつり優秀作品を決定",
-      "url": "https://www.city.anjo.aichi.jp/tanoshimu/bunka/bosyuu/bungeimatsuriusyusakuhin.html",
-      "summary": "",
-      "category": "文化・スポーツ",
-      "published_at": "2026-10-29T10:06:07+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "明祥高齢者教室",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/meisho-koureisya.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-10-28T17:41:31+09:00",
       "source": "安城市公式サイト"
     }
   ]
