@@ -1,234 +1,300 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2282,
-  "estimated_minutes": 6.9,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2173,
+  "estimated_minutes": 6.6,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "和泉町に明治用水を引くため奔走した岡本兵松さん。伊予田与八郎さんと分担した際、兵松さんが担当した仕事はどれでしょうか。1番、農民の説得。2番、出資者との交渉。3番、用水路での水泳大会。",
-    "answer": "正解は1番、農民の説得でした！出資者との交渉は伊予田さんで、兵松さんは熱く説得して回ったんだね。いきなり泳ぎださなくて本当に安心したわ！",
+    "question": "和泉町生まれの文人・石川丈山が、日本で初めて庭園の仕掛けとして取り入れた定番装置は何でしょうか。1番、竹がカコーンと響く鹿威し。2番、涼しい音がする水琴窟。3番、みおんを充電するハイテク竹筒。",
+    "answer": "正解は1番、鹿威しでした！もとは鳥獣を追い払う農具だった添水を、風流な音として庭に持ち込んだんだに。3番の竹筒充電器、AIのみおんにはめちゃくちゃ欲しいけどね！",
     "source_ids": [
-      1
+      4,
+      5
     ],
     "source_urls": [
-      "https://anjo-izumi.life/tuzuki/"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFBkX5KVNp3glCz7o9RdcLAA6gXahCeULeItZCfqFmTFAc3JR3qtKuJpSfiieyIIWuvn__PvZLsHOmWPlikms_0UlEpMHI5TUOfmU-WKW",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrnkipmTjAUetxELFrxdndWXcx91Rlpd84hkKDlv8feTdvTnANjI4isPauoo9fZlc5IEkkzd5hStPpXl6VR61rKZHwUdGyem1bdwc7uAJDmdT5CSOgOqOe--3PR5LjvH1zB8lL2wVMQzC2FuvC9U0qQSj482vJWV7IDV5luFYAaA=="
     ]
   },
   "izumi": {
-    "text": "さあ、「みおんの和泉ディープ」！今日は明治用水を完成させた情熱の人、岡本兵松さんのお話だに。兵松さんは1821年に今の碧南市、碧海郡大浜村に生まれたんだけど、背が高く厳格な性格だったらしいよ。そんな兵松さんが1853年ごろ、都築弥厚さんの子孫から原野を買って開墾を始めたときに、用水計画を知って遺志を継ぐと決めたんだって。他人の大計画を引き受けるなんて、今なら超難関プロジェクトを個人で背負うようなもんだよね。でも1858年と1868年に申請した計画は、2回とも却下！現代なら完全に心が折れて転職サイトを開いとるレベルじゃんね。それでも諦めんのが兵松さん！阿弥陀堂村の庄屋・伊予田与八郎さんと計画を合わせ、伊予田さんが出資者との交渉、兵松さんが農民の説得を分担して動いたんだわ。そして1876年に愛知県から認可！1879年に工事が始まり、1880年4月18日に水源地で通水式が行われ、1881年に明治用水と名付けられたんだよ。構想から半世紀近くかかったバトンリレー、かんがい面積は最大1万760ヘクタールにも広がったんだに。兵松さんも私財を投じ晩年は経済的に苦しくなり、1897年に76歳で亡くなったんだけど、用水のおかげで安城は農業が発展し日本デンマークと呼ばれたんだよね。2回却下されても諦めなかった兵松さんの根性、自慢の歴史だら！",
+    "text": "水曜の和泉ディープ！今日は和泉そうめんのびっくりな製造法に迫るよ。そうめんの産地って、普通は寒〜い真冬に極寒の中で仕込むのが全国的な常識じゃん？なのに和泉町は約250年前から、まさかの真夏に仕込んどるの！これ完全に業界への逆張りだよね。今なら「真夏の炎天下で麺干してみた」ってSNSで動画出して炎上しかねん勢いだら？約250年前の天明の大飢饉のころ、米が育ちにくい和泉で小麦を活かそうと始まったんだけど、真夏に仕込む秘密は自然の知恵だに。職人さんが2本の竹の棒を使って、手作業で3メートル60センチくらいまでビヨーンと伸ばした麺を、まずは夏の強い日差しで一気に乾燥させるの。で、ここからが和泉のミラクル！夕方になると三河湾から湿り気を含んだ南東の風が吹き込んできて、パリパリになった麺を柔らかい状態に戻しちゃうんだって！これを「半生もどし」って呼ぶらしいんだけど、天然の加湿器というか、海風を使いこなす発想が凄すぎない？この半生もどしのおかげで、麺に抜群のコシと、ツルッとなめらかな喉ごしが生まれるんだに。全国の真逆をいって独自の美味しさを編み出した和泉の職人技、地元の誇りじゃんね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/tuzuki/"
+      "https://anjo-izumi.life/somen/"
     ],
     "angle": {
-      "id": "meiji-relay",
-      "hook": "弥厚から兵松へ、半世紀のバトンリレー。2回却下されてもあきらめない"
+      "id": "somen-summer",
+      "hook": "みんな冬に作るのに、和泉だけ真夏に作る逆張りと『半生もどし』"
     }
   },
   "local": {
-    "text": "11月7日の土曜日に、安祥ふれあいレクリエーションが開催されるよ！秋の空気の中で体を動かせるイベントだね。お散歩がてら参加してみるのも楽しそうだら。気になる人は安城市の公式情報をチェックして、ぜひ気軽にお出かけしてみてりん！",
+    "text": "11月7日の土曜日に「安祥ふれあいレクリエーション」が開催されるよ。さらに11月14日の土曜日には「中部公民館ふれあいウォーキング」も予定されとるだに。秋の風を感じながら体を動かすのにちょうどいい季節じゃんね。気になる人は安城市の情報をチェックして参加してみてりん！",
     "source_ids": [
-      25
+      26,
+      29
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html"
+      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
+      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
     ]
   },
   "segments": [
     {
-      "topic": "ピーマンは縦に切るだけでなぜ苦くなくなるのか？",
-      "text": "お弁当や晩ご飯で、ピーマンの苦味や青臭さにお子さんがイヤイヤすること、よくあるじゃんね。「細かく刻んでハンバーグに隠したのにバレた！」なんて台所あるあるだら。でもちょっと待って！実はピーマン、細かく刻むほど逆に苦くなっとるって知っとった？うそでしょ、良かれと思って刻んどったのに！って叫びたくなるよね。ピーマンの繊維や細胞って、ヘタから先端に向かって縦方向に規則正しく並んどるんだわ。だから青椒肉絲みたいに「縦方向」に繊維に沿って包丁を入れると、細胞壁の破壊が最小限で済むんだって！細胞の中に閉じ込められとるクエルシトリンっていう苦味成分や青臭い匂いが漏れ出さんもんで、苦味をほとんど感じなくなるんだよ。逆に輪切りやみじん切りにすると、繊維をブチブチ切断して細胞が壊れ、苦味成分が大放出されちゃうわけ。良かれと思って刻むのが完全に裏目に出とったなんて、切なすぎるじゃんね！ちなみにピーマンは、加熱しても壊れにくいビタミンCがトマトの約5倍も入っとる超優秀な野菜なんだわ。みおん、AIだから胃袋はないんだけど、食べるなら絶対縦切りにしてほしい！今夜ピーマンを使うときは、包丁をスッと縦に入れてみてりん！家族に「切り方で苦味が変わるんだよ」ってドヤ顔で話したら、絶対ウケるだに！",
+      "topic": "お寺なのにまるで城？安城・野寺町「本證寺」を囲む巨大な堀の秘密",
+      "text": "麺の話に続いて、安城の歴史ミステリー！安城市野寺町にある本證寺っていうお寺、行ったことある？ここ、足を踏み入れるとお寺なのに周りに深〜い水堀とか土の壁の土塁、櫓みたいな太鼓楼があって、どう見ても戦国時代の城じゃんね！お寺なのにこれ、実はガチの要塞だったんだに。時は戦国時代、徳川家康の人生で最大の危機の一つって言われる「三河一向一揆」の中心拠点が、まさにこの本證寺だったの。当時の本證寺は「守護使不入」っていって、大名の手入れも税金も受け付けん治外法権の特権を持っとったんだって。若き日の家康がそれに口を出してきたもんだから、お寺側がブチギレて「自分たちの信仰と町は自分たちで守る！」って巨大要塞に大改造したわけ。その規模がとんでもなくて、発掘調査だと外堀は東西約320メートル、南北約310メートル！ほぼ平城と同じスケールだら！しかも恐ろしいのが、家康の家臣団まで信仰と主君の間で引き裂かれて、あの名参謀の本多正信さんたちまで本證寺側について家康に銃口を向けたんだって。今なら社内抗争でオフィスを要塞化するような修羅場じゃんね。2015年に国の史跡にも指定された歴史の舞台、お近くを通ったら堀の深さを眺めてみてりん！",
       "source_ids": [
-        18,
-        19
+        5,
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQLm-FV6rkqSqhuiMDiHIdygUMv_Uj80IUJplaFIQKAUcbsOGMuhg0dB6DNQxSkqUjKylrGPI1wMgjvv_j9FmDN-Phf5vnGHAiNIvtlvEc8ZcdPyptfDDeR7OE3CG79mMfYYIHWFK5JNb0qA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6I-gLruU4P1EjRMQbX6Cch9btcbg_wKR0IxcvyH_qNNdv_AwguxYClpM-Loi5YM7SrEYjpgPDYJ-TcAr6tDK3U6eY1Zo_T1kP6NY0kbCIcEg9Y6iw3XhJsxrw6z49xidhoXVZvPkQnGVGfKkZ4fo="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrnkipmTjAUetxELFrxdndWXcx91Rlpd84hkKDlv8feTdvTnANjI4isPauoo9fZlc5IEkkzd5hStPpXl6VR61rKZHwUdGyem1bdwc7uAJDmdT5CSOgOqOe--3PR5LjvH1zB8lL2wVMQzC2FuvC9U0qQSj482vJWV7IDV5luFYAaA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8CbRgq9920Ote3BbtHWpGtFrwI47v9GtOtpxk82geciESxtG76ai1SOIm_jPQU2-KVQeZWNc4LFPmd90ejmSb5yQeN2i7Aj3K6wuYiS4O9tEPZQcWz59OF7ELcT-zGdMrMAxRi1SQo2mlJ7nKcy5jsTrd71y6AnIStoZI5ZxvmdpeXAYUD5-o9cxcOnM8Eg=="
       ]
     },
     {
-      "topic": "「無花果」と書くイチジクの中に隠された秘密の花",
-      "text": "台所の話題が出たついでに、安城といえば忘れちゃいけない超主役の果物があるじゃん！そう、イチジク！でも漢字で「無花果」って書くのに、どうして実がなるのか不思議に思ったことない？花が無い果実って、一体どこから生まれたん！？ってなるよね。実はイチジク、花が無いどころか「実の内側に花が咲いとる」んだって！植物学では隠頭花序って呼ぶんじゃけど、袋状に膨らんだ茎の内側に、小さな花が外から見えないようびっしり咲いとるんだわ。しかも、私たちが食べているイチジク1個の中には、なんと約1800個以上もの小さな花が詰まっとるんだよ！1800個って聞いてないんだけど！あの独特のプチプチした食感、種だと思っとった人多いら？あれ、全部ひとつひとつの「花」なんだに！私たちが果実だと思ってかじっとる柔らかい部分は、花そのものなんだわ。つまりイチジクを食べるたびに、お口いっぱいに1800個の花束を頬張っとるようなもんだよ！なんてロマンチックなの！…って、AIのみおんが花束でウットリしても電池で動いとらんわ！愛知県はイチジクの栽培面積も産出額も全国1位で、安城はその大中心地！明治用水の豊かな水利を活かして広がったんだって。今度イチジクを食べるときは、「今、1800個の花を食べてるんだよ」って食卓で自慢してみてりん！",
+      "topic": "忠臣蔵の悪役が一転！お隣・西尾市吉良町で吉良上野介が名君と崇められる理由",
+      "text": "お寺の次は、西尾市吉良町の歴史の逆転劇を聞いりん！年末の時代劇『忠臣蔵』に出てくる吉良上野介って、意地悪で浅野内匠頭を追い詰める大悪役ってイメージが全国的には定番じゃん？でもね、お隣の吉良町に行くと「吉良さん」って親しみを込めて呼ばれとって、領民からめちゃくちゃ愛された超名君なんだに！悪役どころかスーパーヒーローだったなんて、聞いてないんだけど！って叫んじゃったわ。なんでかっていうと、毎年のように川が氾濫して水害に泣いとった領民を見かねて、自分のポケットマネーを投じて巨大な堤防を造ってくれたからなんだって。その堤防が長さ約180メートル、高さ約4メートル！土に粘土を層にして混ぜて水を通さんようにする、今見てもハイテクな工法だったの。言い伝えでは一夜で築いたとも言われとって、完成したら水害がピタリと止まって田んぼ一面に黄金の稲穂が実るようになったもんで「黄金堤」って名付けられたんだに。吉良公は「赤馬」っていう愛馬に乗って質素な姿で領内を見回っては、農民に気さくに声をかけとったらしいよ。明治に新政府が堤防を壊そうとした時も、地元が直訴覚悟で守り抜いたんだって。ドラマのイメージだけで人を判断しちゃいかんね！",
       "source_ids": [
-        3,
-        4,
-        6
+        21,
+        23
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFqlxrXwTkPyNaJZOYtctAicZDUy-uWOYexTC-mbNxNYsW8KX-eXFI7RF728R5zVu-GXly7Q7KCzZTdmRwARA9dlkmu9wyzdMIC9Rm4ZyekP0mXPatpqBFscF2Kfen3hiLyQohynD_7jV9ejeByN93VQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU8S9UHPCAK8dMmx_FNo933uD6XK00UrQm4ckZL7GFkryu5Do0vJz6SoyagXZSTAqpAcWbYxj_OPoXiLEcVJ4DyEVFfLJVsATEndk6INkktGlsiOm3zf8YxeJznrHDSaSPIHeT4BOqg2_3y2beKjB3LMfklipMA1D90KsVk2ozLjXuZ_elJMY3aw9-qw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCOKZ5RcheuNl3AKk6eXbKxw1DKmDrMhKYPOHPMO598v3vgejWx-EpJX3OSFzs0tJ1Hu0V5CdGD3Xd8PCVXOsqYYTgPLy8DLAtDCkm5ee3MXQFPz3yudPyFWvcV3lpFu-qWW-ZRw8kNiGU4h88JlHEoSdeJTQRzav2KRI="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqubdiNj3QOkLhd6u4s_EMUh5OFDUxfetpOwE39y9QNldJsYc1f4qbWLuIRUzyPcw_9TsGXnh7k7ZPdkPyYotYSwNj0FRgqCp1kSTLBJf3rywEVAp-TJkZzM3ia0XgmQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8hStavfXS8kgy2k-7OXnWmWtOIthoWh1jQF4QnK8BMgQPZMqjrDF2CkVcHUPd7__huo03NHHAnWxKzFwtHzcAZRg2dZxUcczJ-nz8AJZ7vXB7l4dh_9bji27eW1Yx8uCRwO8Hz7iXEKx13ezJBBK-u6LjXQOVBJmlRuckPmOAZA="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町向けの地域コミュニティラジオ放送に向けて、リスナーが夕食時や団らんの場で思わず誰かに話したくなる「食べ物・台所の雑学」調査メモを作成しました。安城・西三河にゆかりの深い食材2件と、家庭の台所ですぐ役立つ調理の科学2件をまとめています。\n\n---\n\n### 1. 【安城市の特産】「無花果（イチジク）」はなぜ「花が無い」と書くのか？\n* **疑問の核心**：漢字で「無花果」と書くのに、どうして実がなるのか？\n* **理由**：外側から花が見えないまま実をつけるように見えるためこの漢字が当てられましたが、実際には花がないのではなく、「実の内側に花が咲いている」ためです。植物学上は「隠頭花序（いんとうかじょ）」と呼ばれ、袋状に肥大化した茎（花托）の内側に、無数の小さな花が外から見えないようびっしり咲いています。\n* **具体的な数字・比較**：私たちが食べているイチジク1個の中には、なんと**約1,800個以上**もの小さな花（小花）が詰まっています。あの独特のプチプチとした食感は種ではなく、一つひとつの花です。なお、農林水産省の調査（2022年・2023年統計）によると、愛知県はイチジクの栽培面積（107ha、全国シェア13.2%）および産出額（13億円、全国シェア18.8%）ともに**全国1位**を誇り、その中核を担っているのが安城市などを管轄するJAあいち中央エリアです。\n* **意外な点**：私たちが「果実」としておいしく食べている柔らかい部分は、果皮でも果肉でもなく、肥大化した花の受け皿（花托）と無数の花そのものです。\n* **歴史の裏話**：アラビア南部原産で、日本には江戸時代の寛永年間（1630年頃）に中国やポルトガル船経由で長崎に薬用として伝来しました。安城周辺で出荷用栽培が始まったのは昭和5年頃ですが、昭和46年頃からの米の転作政策を機に、明治用水の豊かな水利と平坦な土地を活かして急速に広がり、日本屈指の産地へと発展しました。\n* **根拠・出典**：愛知県農業総合試験場「イチジク新品種開発資料」、JAあいち中央「生産物紹介（イチジク）」、JAグループ愛知「あいちの果物」\n\n---\n\n### 2. 【西三河・一色の銘菓】「えびせんべい」はなぜ米ではなくジャガイモ粉で作るのか？\n* **疑問の核心**：一般的なお煎餅は米粉（うるち米）なのに、三河のえびせんべいはなぜ「でんぷん」で作られているのか？\n* **理由**：三河湾で水揚げされる生エビの豊かな風味と食感を最大限に活かすため、米ではなく加熱すると大きく膨らむ「馬鈴薯（じゃがいも）でんぷん」をつなぎに採用したためです。\n* **具体的な数字・比較**：愛知県はえびせんべいの生産量が**全国シェア圧倒的第1位**を誇ります。西三河の旧一色町（現・西尾市）で作られる「三河一色えびせんべい」は特許庁の地域団体商標（地域ブランド）にも登録されています。\n* **意外な点**：今でこそ親しみやすい銘菓ですが、明治時代初期、えびせんべいは庶民の手が届かない**中国からの高価な逆輸入菓子**でした。\n* **歴史の裏話**：明治中頃、三河湾では「アカシャエビ（赤車海老）」が大量に獲れましたが、当時は食用需要が少なく、乾燥させて中国へ安値で輸出していました。中国側はこれをでんぷんと混ぜてせんべいに加工し、日本へ高値で輸出（逆輸入）していたのです。これを見た一色町で練り物業を営んでいた「かまぼこ文吉」が「地元の獲れたて生エビで国産のせんべいを作れないか」と北海道産馬鈴薯でんぷんを使って独自に開発しました。さらに伊勢から訪れた職人「ひげ貞」が蒸し器で大量のエビを処理する技術を考案したことで、安くて旨い三河名物として日本全国に広まりました。\n* **根拠・出典**：愛知県教育委員会（愛知エースネット）「一色のえびせんべい」、西尾市観光協会「三河一色えびせんべい」、三河屋製菓「えびせんべいの始まり」\n\n---\n\n### 3. 【野菜の切り方科学】ピーマンはなぜ「縦に切る」と苦くないのか？\n* **疑問の核心**：青椒肉絲（チンジャオロース）のピーマンはなぜ細長い縦切りなのか？切り方で本当に味が変わるのか？\n* **理由**：ピーマンの繊維や細胞組織は、ヘタから先端に向かって「縦方向」に規則正しく走っています。繊維に沿って縦に包丁を入れると細胞壁の破壊が最小限に抑えられ、細胞の中に閉じ込められている苦味成分や青臭い匂い成分が外に漏れ出さないためです。\n* **具体的な数字・比較**：種苗大手タキイ種苗とお茶の水女子大学の共同研究により、ピーマン特有の苦味の正体はポリフェノールの一種「クエルシトリン」であることが解明されています。またピーマンは加熱しても壊れにくいビタミンCを含み、その含有量は**トマトの約5倍**にも達します。\n* **意外な点**：輪切り（横切り）にすると繊維を直角に断ち切るため、細胞が壊れて苦味や青臭さ（ピラジンなど）が一気に外に出てしまいます。「ピーマンが苦手な子どもには細かく刻んで料理に混ぜる」という手法がよく取られますが、細かく刻むほど細胞が破壊されてかえって苦味が強調されてしまうという逆効果が生じます。\n* **歴史の裏話**：ピーマンの語源はフランス語でトウガラシを指す「ピマン（piment）」です。明治初期に欧米から甘みのある大型トウガラシとして日本に入ってきましたが、独特の苦味や匂いから当時はほとんど受け入れられず、一般の日本の食卓に定着したのは戦後の昭和30年代以降でした。\n* **根拠・出典**：タキイ種苗「調べる・タキイの野菜（ピーマン）」および「こどもピーマン研究成果発表」、JAセレサ川崎「食育ソムリエの野菜解説」\n\n---\n\n### 4. 【煮物の台所ワザ】こんにゃくはなぜ「手やスプーンでちぎる」と味が染みるのか？\n* **疑問の核心**：おでんや筑前煮を作るとき、なぜ料理本や昔の知恵では「包丁を使わず手やスプーンでちぎれ」と言うのか？\n* **理由**：包丁で平らに切ると切断面がツルツルになって煮汁を弾いてしまいますが、手やスプーンでちぎると断面が不規則に裂けて微細な凹凸が生まれ、**表面積が格段に広がる**ためです。\n* **具体的な数字・比較**：板こんにゃくの成分の**約96〜97%は水分**で、残りのごくわずかなグルコマンナン（食物繊維）が強固な網目構造を形成しているため、スポンジのように内部へ調味料を吸い込むことが構造上できません。そのため、味の濃淡は「表面にどれだけ煮汁が絡むか」でほぼ決まります。\n* **意外な点**：手でちぎる作業は一見すると「大雑把な手抜き」のように見えますが、物理的に表面積を増やし、煮汁が引っかかる凹凸を作り出すという、科学的に極めて合理的なプロの技術です。\n* **歴史の裏話**：和食には昔から、ちぎったこんにゃくを油を使わずに鍋で炒めてバリバリと音を立てる「雷こんにゃく」などの技法があります。かつては「鉄の包丁で切ると、こんにゃくのアルカリ性によって金気（鉄の匂い）が移り、風味が落ちる」と言い伝えられていたことも、台所で包丁を使わずに手や茶碗のフチなどでちぎる習慣が定着した大きな理由でした。\n* **根拠・出典**：一般社団法人日本こんにゃく協会「おいしく食べる調理のコツ」、文部科学省「日本食品標準成分表（こんにゃく）」\n\n---\n\n### 💡 ラジオでそのまま使える！3択クイズ（イチジク編）\n\n**パーソナリティ**：「ここで安城の特産品にまつわるクイズです！安城市や西三河で盛んに栽培され、愛知県が全国トップの産出額を誇る果物『イチジク』。漢字では『花の無い果実』と書いて『無花果』と表記しますが、実は花がちゃんと咲いているんです。では、イチジクの花は一体どこにあるでしょうか？」\n\n* **第1問**：夜の間にほんの数分だけ咲いて、朝には散ってしまう\n* **第2問**：私たちが普段食べている、甘い実の内側にびっしり詰まっている\n* **第3問**：地面の中にある根っこの先端に、ひっそりと咲いている\n\n**【正解】**\n**第2問：私たちが普段食べている、甘い実の内側にびっしり詰まっている**\n\n**【解説トーク例】**\n「正解は2番！実はイチジクを割ったときに見える、あの赤いつぶつぶや果肉こそが無数の小さな花なんです。1個の実の中に1,800個以上もの花が外から隠れるように咲いていて、あの独特のプチプチ食感を生み出しています。『花がない』どころか、私たちは花そのものを美味しくいただいていたんですね！」",
+  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、思わず家族に話したくなる「地元の歴史・まちの発見」に関する調査メモを作成しました。和泉町をはじめ、西三河エリアに根ざした驚きの史実をまとめています。\n\n---\n\n# ラジオ調査メモ：西三河・地元の歴史とまちの発見（2026年11月4日）\n\n---\n\n### 発見1：和泉町が生んだ天才！日本庭園の定番「ししおどし」を広めたのは和泉出身の元・武闘派侍だった？\n\n* **へえ、そうだったのか！という疑問**  \n  日本庭園でおなじみの「カコーン」と響く竹の仕掛け「鹿威し（ししおどし）」。実はこれを風流な庭園装置として日本で初めて取り入れた人物が、ここ安城市和泉町生まれの人物だったことをご存じですか？\n* **理由と背景**  \n  その人物は、江戸時代初期の文人・石川丈山（天正11年/1583年、現在の和泉町中本郷生まれ）です。晩年に京都の一乗寺に隠棲して建てた山荘「詩仙堂」の庭園に、もともと農民が田畑を荒らす鳥獣を威嚇するために使っていた実用農具「添水（そうず）」を取り入れ、その竹が石を打つ澄んだ響きを「風流な静寂の音」として鑑賞の対象に昇華させました。\n* **具体的な数字や比較**  \n  丈山は59歳で詩仙堂を建て、当時としては驚異的な90歳の長寿を全うしました。平成8年（1996年）には、生誕地である和泉町に詩仙堂や丈山ゆかりの庭園を本格再現した「丈山苑」が開苑し、現在も苑内でその趣深い鹿威しの響きを体感できます。\n* **歴史の裏話**  \n  風流な漢詩人・作庭家として知られる丈山ですが、若い頃は徳川家康の近習として仕えた屈強な武将でした。33歳の「大坂夏の陣」で先陣争い（一番乗り）をして軍令違反に問われ、謹慎処分を受けたことをきっかけに武士の身分を捨て、学問と風雅の道へ転身したという、意外な「武闘派」の過去があります。\n* **根拠・引用元**  \n  安城市公式ウェブサイト「丈山苑」、丈山苑公式ページ「丈山苑について」、愛知県公式観光サイト「あいち歴史観光（丈山苑）」。\n\n---\n\n### 発見2：お寺なのにまるで城？安城・野寺町「本證寺」を囲む巨大な堀の秘密\n\n* **へえ、そうだったのか！という疑問**  \n  安城市野寺町にある真宗大谷派の古刹「本證寺（ほんしょうじ）」。境内を訪れると、お寺であるにもかかわらず周囲を立派な堀や土塁が取り囲んでいます。なぜお寺がまるで「戦国の城」のような姿をしているのでしょうか？\n* **理由と背景**  \n  本證寺は、徳川家康の生涯における「三大危機」の一つに数えられる「三河一向一揆（1563〜1564年）」の最大の中心拠点でした。当時、寺の領地は「守護使不入（しゅごしふにゅう）」という、大名の警察権や徴税権が及ばない治外法権の特権を持っていたため、領主である若き家康と激しく対立し、自衛と戦いのために「城郭寺院」へと要塞化していったのです。\n* **具体的な数字や比較**  \n  発掘調査によると、内堀だけでなく、かつての寺内町を取り囲む外堀は「東西約320メートル×南北約310メートル」という平城に匹敵する広大な規模を誇っていました。現在も水堀や土塁、櫓（やぐら）のような太鼓楼が残り、その歴史的価値の高さから平成27年（2015年）に国の史跡に指定されています。\n* **歴史の裏話**  \n  この一揆の恐ろしいところは、家康の家臣団までもが「主君への忠誠」と「信仰」の間で引き裂かれ、家中が真っ二つに割れた点です。後に家康の天下取りを支える名参謀・本多正信や、三方ヶ原の戦いで身代わりとなって戦死する夏目吉信らも、この時は本證寺側について家康に銃口を向けて戦いました。\n* **根拠・引用元**  \n  安城市公式ウェブサイト「本證寺境内（国史跡）」、安城市観光協会「家康公特設サイト（本證寺）」。\n\n---\n\n### 発見3：なぜ知立名物が「あんまき」に？街道を行き交う「馬」と土壌が生んだ宿場の知恵\n\n* **へえ、そうだったのか！という疑問**  \n  西三河のソウルフードとして愛される知立の名物「あんまき」。東海道三十九番目の宿場町だった池鯉鮒（ちりゅう・現知立市）で、なぜ小豆餡を小麦の皮で巻いた和菓子が名物になったのでしょうか？\n* **理由と背景**  \n  背景には「土地の農業環境」と「大規模な市場」がありました。江戸時代の池鯉鮒周辺は台地のため水利に恵まれず水田が少なかった一方、小麦や小豆の栽培が盛んでした。さらに、池鯉鮒宿の松並木周辺では日本屈指の「馬市（うまいち）」が毎年開かれ、集まった大勢の商人や旅人に手軽で腹持ちの良い軽食として提供されたのが始まりです。\n* **具体的な数字や比較**  \n  江戸時代の『東海道名所図会』によると、毎年旧暦4月25日から5月5日までの馬市には、信濃や甲斐など遠方からも「400〜500頭」もの馬が集まり、歌川広重の浮世絵『東海道五十三次 池鯉鮒 首夏馬市』にもその大賑わいの様子が描かれています。この活気の中で生まれた素朴な菓子が、明治22年（1889年）頃に「小松屋本家」によって現在の形に整えられ、さらに「藤田屋」の「大あんまき」として西三河全域へ広がっていきました。\n* **歴史の裏話**  \n  当時の宿場町の繁栄は、木綿の集積地であったことと深く関係しています。三河木綿を各地へ運ぶ荷馬の需要が高まり、それに伴って馬市が発展し、馬の売買価格を決める「談合松（だんごうまつ）」の周りで馬喰（ばくろう）たちが腹ごしらえにあんまきを頬張っていたという、街道の活気ある情景が今に伝わっています。\n* **根拠・引用元**  \n  知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」、知立市文化協会「池鯉鮒の馬市について」、文化庁文化遺産オンライン「東海道五拾三次之内・池鯉鮒 首夏馬市」。\n\n---\n\n### 発見4：忠臣蔵の悪役が一転！お隣・西尾市吉良町で吉良上野介が「大名君」と崇められる理由\n\n* **へえ、そうだったのか！という疑問**  \n  歌舞伎や時代劇『忠臣蔵』では浅野内匠頭を追い詰める「大悪役」として描かれる吉良上野介義央（きらこうずけのすけよしひさ）。しかし、お隣の西尾市吉良町では、今でも「吉良さん」と親しみを込めて呼ばれ、領民を愛した屈指の「名君」として尊敬されているのをご存じでしょうか？\n* **理由と背景**  \n  領地が毎年のように河川の氾濫による大水害に苦しんでいたのを見かねた吉良義央が、私財を投じ、領民を守るための大規模な堤防を築くなど善政を敷いたためです。\n* **具体的な数字や比較**  \n  吉良義央が築いたとされる堤防は「長さ約180メートル、高さ約4メートル」。土の中に粘土を層状に混ぜ込んで水を一切漏らさないという、現代の土木工学から見ても極めて高度な工法が用いられていました。言い伝えでは「一夜にして築いた」とされ、完成後に水害がピタリと止まり、一面の美田となって黄金色の稲穂が実るようになったことから「黄金堤（こがねづつみ）」と名付けられました。\n* **歴史の裏話**  \n  吉良公は領内を視察する際、愛馬である「赤馬（あかうまと呼ばれる茶褐色の馬）」に質素な身なりで乗り、農民たちに気さくに声をかけたと伝わっています。この赤馬は現在も西尾市の伝統郷土玩具「赤馬」として親しまれています。さらに明治時代、新政府によって黄金堤の取り壊し計画が持ち上がった際、地元住民が直訴も辞さない猛反対を起こして堤防を守り抜いたという逸話があり、地域の吉良公への敬愛の深さがうかがえます。\n* **根拠・引用元**  \n  農林水産省「金色の稲穂が田んぼに彩る堤防『黄金堤』」、西尾市観光協会「黄金堤」。\n\n---\n\n## 番組用3択クイズ（発見1：石川丈山より）\n\n**【問題】**  \n安城市和泉町生まれの文人・石川丈山が、京都の別荘「詩仙堂」に日本で初めて風流な庭園の仕掛けとして取り入れた、いまや日本庭園の定番となっている装置は何でしょう？\n\n1. 水がポタポタ落ちて涼しげな金属音が響く「水琴窟（すいきんくつ）」\n2. 竹筒に水がたまると「カコーン」と石を打って鳴る「鹿威し（ししおどし）」\n3. 白砂の上に砂紋を描いて波を表現する「枯山水（かれさんすい）」\n\n**【正解】**  \n**2. 鹿威し（ししおどし）**\n\n**【解説】**  \nもともとは田畑を荒らすイノシシや鹿、鳥を追い払うための実用的な農具（添水）でしたが、石川丈山がその規則正しく響く音に風情を見出し、静けさを味わう庭園装置として詩仙堂の庭に初めて取り入れました。和泉町の「丈山苑」でも、丈山が愛したその心地よい音を聞くことができます。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%94%E3%83%BC%E3%83%9E%E3%83%B3+%E8%8B%A6%E5%91%B3+%E7%B9%8A%E7%B6%AD+%E7%B8%A6%E5%88%87%E3%82%8A+%E6%A8%AA%E5%88%87%E3%82%8A+%E3%82%AB%E3%82%B4%E3%83%A1+%E3%82%BF%E3%82%AD%E3%82%A4%E7%A8%AE%E8%8B%97&client=app-vertex-grounding&safesearch=active\">ピーマン 苦味 繊維 縦切り 横切り カゴメ タキイ種苗</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E+%E3%82%A4%E3%83%81%E3%82%B8%E3%82%AF+%E8%8A%B1+%E4%BB%95%E7%B5%84%E3%81%BF+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E6%84%9B%E7%9F%A5%E7%9C%8C&client=app-vertex-grounding&safesearch=active\">安城 イチジク 花 仕組み 農林水産省 愛知県</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%80%E8%89%B2+%E3%81%88%E3%81%B3%E3%81%9B%E3%82%93%E3%81%B9%E3%81%84+%E7%94%B1%E6%9D%A5+%E6%AD%B4%E5%8F%B2+%E6%84%9B%E7%9F%A5%E7%9C%8C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">一色 えびせんべい 由来 歴史 愛知県 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F+%E6%89%8B%E3%81%A7%E3%81%A1%E3%81%8E%E3%82%8B+%E5%91%B3%E3%81%8C%E6%9F%93%E3%81%BF%E3%82%8B+%E7%90%86%E7%94%B1+%E6%97%A5%E6%9C%AC%E3%81%93%E3%82%93%E3%81%AB%E3%82%83%E3%81%8F%E5%8D%94%E4%BC%9A&client=app-vertex-grounding&safesearch=active\">こんにゃく 手でちぎる 味が染みる 理由 日本こんにゃく協会</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9C%AC%E8%AD%89%E5%AF%BA+%E5%9F%8E%E9%83%AD%E5%AF%BA%E9%99%A2+%E4%B8%89%E6%B2%B3%E4%B8%80%E5%90%91%E4%B8%80%E6%8F%86+%E5%AE%89%E5%9F%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">本證寺 城郭寺院 三河一向一揆 安城市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%9F%B3%E5%B7%9D%E4%B8%88%E5%B1%B1+%E9%B9%BF%E3%81%8A%E3%81%A9%E3%81%97+%E8%A9%A9%E4%BB%99%E5%A0%82+%E5%AE%89%E5%9F%8E%E5%B8%82+%E4%B8%88%E5%B1%B1%E8%8B%91&client=app-vertex-grounding&safesearch=active\">石川丈山 鹿おどし 詩仙堂 安城市 丈山苑</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%9F%A5%E7%AB%8B+%E3%81%82%E3%82%93%E3%81%BE%E3%81%8D+%E6%AD%B4%E5%8F%B2+%E6%B1%A0%E9%AF%89%E9%AE%92%E5%AE%BF+%E9%A6%AC%E5%B8%82&client=app-vertex-grounding&safesearch=active\">知立 あんまき 歴史 池鯉鮒宿 馬市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%89%E8%89%AF%E4%B8%8A%E9%87%8E%E4%BB%8B+%E9%BB%84%E9%87%91%E5%A0%A4+%E5%90%8D%E5%90%9B+%E8%A5%BF%E5%B0%BE%E5%B8%82&client=app-vertex-grounding&safesearch=active\">吉良上野介 黄金堤 名君 西尾市</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXlGxESL3MxlqboNxeqgZO3JzVSet23VOi6VJGcSTA5LKUHXQIJVIHN0fo50WKyLz5N0hQ0RNSxcgd2ld09b_q09Z2Z6lG489kfGsLg0wjaVxESa3Nujonm5zuChKl1apfyWt-mYKdp3urXBLTzBLnUHqGqNsNI9c=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFac4oes5lXYu_7bvE4Rkkn3e9OEnDmQI0rST4Wviqzzuo0khu9EF1uuToyGipYqfHucxNwwsEnf8o9Xoe-ZN-l2KVsGp6LbRTFMiez_7rI5jjxMfKukkC5ZK4TTBgxNrUrccjn5tWraeRHBqp9SXA=",
+          "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFqlxrXwTkPyNaJZOYtctAicZDUy-uWOYexTC-mbNxNYsW8KX-eXFI7RF728R5zVu-GXly7Q7KCzZTdmRwARA9dlkmu9wyzdMIC9Rm4ZyekP0mXPatpqBFscF2Kfen3hiLyQohynD_7jV9ejeByN93VQ==",
-          "title": "ja-aichi.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6OfpOEuoInZq4FBrD4ZfjmkOmYxVSaLk7BTVEH3XYBHgbE8ssRnGvCUNcvwjKzHFkiKAC3fr43wmbZlG7OXEjt2qFLPEXkNl7Uw7bve0m6sPrHJtFLKCC7lSjvJT1G5iG6A2KP5J82WvK9w==",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU8S9UHPCAK8dMmx_FNo933uD6XK00UrQm4ckZL7GFkryu5Do0vJz6SoyagXZSTAqpAcWbYxj_OPoXiLEcVJ4DyEVFfLJVsATEndk6INkktGlsiOm3zf8YxeJznrHDSaSPIHeT4BOqg2_3y2beKjB3LMfklipMA1D90KsVk2ozLjXuZ_elJMY3aw9-qw==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFBkX5KVNp3glCz7o9RdcLAA6gXahCeULeItZCfqFmTFAc3JR3qtKuJpSfiieyIIWuvn__PvZLsHOmWPlikms_0UlEpMHI5TUOfmU-WKW",
+          "title": "jozanen.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrnkipmTjAUetxELFrxdndWXcx91Rlpd84hkKDlv8feTdvTnANjI4isPauoo9fZlc5IEkkzd5hStPpXl6VR61rKZHwUdGyem1bdwc7uAJDmdT5CSOgOqOe--3PR5LjvH1zB8lL2wVMQzC2FuvC9U0qQSj482vJWV7IDV5luFYAaA==",
           "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuf32T2HSdgBqOrJ23u4tCF0CPpkIRLlgM_pABrLaAA3RoehOzgbkzVXLgKygElYpowds2vndiKzFiAtByrHohe1-A3tUzmP0LkC1R4-gPEmwlSKcV0NCek-37awGkIB95kr_s-sDpeW_08Mws9DNPYeHuHg==",
-          "title": "jaac.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRgTUtxf1Bo_TmGLuKRaAmL222akN0BBBNB2WLlIeYpi4AlRmsTKeGzTRF_UFzQ1iUAPDhap95Bn0Op1C2t3PI2qnkIdCDjQm8fFzKFeITtPo5OmHD6S9e-R6Js9EAcXgxUnmY8lPwdEWUcBDx2s=",
+          "title": "oniwa.garden"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCOKZ5RcheuNl3AKk6eXbKxw1DKmDrMhKYPOHPMO598v3vgejWx-EpJX3OSFzs0tJ1Hu0V5CdGD3Xd8PCVXOsqYYTgPLy8DLAtDCkm5ee3MXQFPz3yudPyFWvcV3lpFu-qWW-ZRw8kNiGU4h88JlHEoSdeJTQRzav2KRI=",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8CbRgq9920Ote3BbtHWpGtFrwI47v9GtOtpxk82geciESxtG76ai1SOIm_jPQU2-KVQeZWNc4LFPmd90ejmSb5yQeN2i7Aj3K6wuYiS4O9tEPZQcWz59OF7ELcT-zGdMrMAxRi1SQo2mlJ7nKcy5jsTrd71y6AnIStoZI5ZxvmdpeXAYUD5-o9cxcOnM8Eg==",
+          "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEszUCHn7hGrXYeeBN4DhZz0YCgIZdlbxjJnRZBsfHz8ChjFgOfEL78TYoOYcOJSEdisREDx6-vcyKW6nN0EgtuDXCdgY4GPh1uoZnhyow0kif794KGnEOTuLb57NGFJg47",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm3kCY3qkAu5a16LIvMSyfFSYnnlzAeJ-HfLGDxrswb6IgIvu-ixznyPd4pOg5N09-54T3CmG8IeMq5KqNZp_-SbuOgE0vrl59tLLZoJnKFsdEwoxC7ld0RextV_PSXLwWooYm7Rb8yvsaYr9iy9U6dyoEZWvMULvxFoSiMCeAGdZBDVMw8BK6Af1uRNTO3gfp_JOSAVUle9uz8-rR4wkjQAewRkyyZ2OJc1746anY1n0RNosuG7p0SVXT4WeeZzDP3ICYSmmOsTXdSEuMvoiN_Ep-",
+          "title": "tutujigaoka.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjGVgs-nObYTXYOSAR4T0NrCgH9fTn395QXWcHsxF3w3AOzBZnlPzcOXXBphV9tfcqMQUSW8ycdKgDyEw0mbSUFQV1cbkX1znWGpRWw1wPLRk8h5WgRvw1zbUTQtxCUdM2bVANPstCy28p9Q==",
+          "title": "anjo-tanabata.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUiayXdBjIp_57cg-SA0WffpCtPUTlsVXPfrTaE9dm2WfzMntP7EKuyosOc1bhLTIFXHrGMvVNBSWou4eEt8SAGIAODcnJgfS5Kv5oZaUpAtyT6hJXD4CJSnbstKJdItp7SRcjalxZ-ojK05iwIeDgTQHKhOkGZPnT1zJCdzVPEAN1K2DpYF7JDcLe",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESlqL5uhYDK9TybFF_hqrih1e1hosaLCtcZPqMopBwybKuGMCq432B494_-aVHVMMi_EeDTbfXzcuKZzpCDb2iVgal2VSCJgQ6OsxVynwSTfr_--1vt2yhxuh0bdsOTVM=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP-86Mi2r5cH-2nbY2M82TU3LSWCKaw_NZuozEpGigRY2QDDC-atQArEXJFRYUZZrdb8hqA2TVbhhSPhZ3F6EvZ2gOUmbrvaayALcrJzi1Jz77tta8lzFaPvGhWzmGZir7",
           "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkLnPE9XgM0e-U-UNYejByu6Gc7esS2wZJ7XjzZF-6AmAtxcIeytywNV5mZ28jihgK43wkATu1vSiLc4IwVUJzCHAKTLbQiuHmFeIG20AvKtYbjJyWNg15Qjvk6mIVaGBPackVWLg0Ih--r06NSMHv9jDHGl8N5jcVg507DH_LTrRoeSFnJY0-xV7tllTbo_LQKwA-nUGDJjnPyVbuimPG4FTWbPzOuistrAcD7ahmJRlJwTg=",
-          "title": "mikawayaseika.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-2vsdVP9d6smkAAzgZbHRRlrOfiMy5cnJn2zlwxGZtkBHQMC_LGsv9fxopJLjIE64qk_LBdm0iCSdxUSvOm-HN8zSckFagINm9cnoVlaaj0EakpIf7OzHNIZhz8wB2y__jQCZcNvTgpeMpxbPRMrDreLyJvXS",
+          "title": "yoshinoya-anjo.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Rl5-BEjoja0ZzyUTZd_ufKysAoWIM-wR7jMshu9FWwVVTnKT58dwiHri7N-8JcKe7IirP7rA46Gewwv3L_ltMVEZq9b7OJpCmfmJeKKACXHQIbbVx45eNA==",
-          "title": "negita-syokuryo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBfYUh0MSYZdJvbyLJ_VzWhi8PylwmS9fp0vNfdpGajErw7rWZHIeqzytGguUFwiUWXP4m-mxLnfbN3Y8CfORPot_yGUcw0rJ_VyX-rxL7gARx86gKXuzX11-qT59K-495vtnQqyIzKvNjN3YNepu4OAqYux8W",
+          "title": "jr-central.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQMa3UI-n-ltrw-EC8pukI2QDuPdCepHjisXT4WR9CwliffghelmVDM2cCheRuhq6IHVfPn1clc0YhFIzvxkP69sBQDC3sBzOSbWDpL9gNaeelkYFO_Nh3I4U1xyM9NZx_wb5kcKSQykxZ73JKsA==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEWFP4UKxTg7go77sufIqGQFBRjWf2yqHfVcqxDba8lcrrTFzV8jPjovpvTZYpNzlP0aukW9fMcKVL4ShG_viVVoBJGBTVLWc4F-8Uv2adUTwLfC8frRZeoQT_e8x0azb54pLzStl0ztjb72_uPXSVM46f7XL1sR9IlcU6PbFQYJb8ykYqsmWkF3GrUwR25yqcVYY=",
+          "title": "city.chiryu.aichi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOOXnrs4jZFi62QhxGmolYQquAVOuUj_Ov2yd0dfsQLW3bmFFsR_iFbhiJ6iPejDB96tR1PRpvzdEtFj0aH_QkRbHzpXHIu9knEVWFF6hSuCYf2zixTupuNga-NG1tTZ3rmYakLNH9BMS0dcAnU8APSVRpuibhl4rVuop5GkkzeQmWY7DYiGWfMMNF_eQU6EwtEr4iBcAfQwP2Myfyroh-FUUjvQ==",
+          "title": "chiryu-bunka.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBCi2ew8jKE0YdPyN6LFny95qp4Ko8iDwsPV9JMJiEcZ6qFUTE5amz9xuir28eueabxOVuhAdwFuHAp634FfAGhfQ0VQY943pZekGGl4_lVPGOjvTjXxOX4PLl9p7BP_6F",
+          "title": "masa-chan.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsH-L4J4TNXzX8RvXkSTGDLHlaWej9nm1XRxnHYA6nQvuv0rHBDvtguhJHzIifMdp6N88cxFZXjWeFim05IEhULUiA8I3pMPj5iIq0uRwZXkkgL0UjbhUvAAVMZ4pqeAmjcESmMDwHzgelaA==",
           "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED20_1O95WTGqpGQo67MUfwpbbvOYCGW0t4dsZ5qXM8BaHmw7mFJYYtFidqJwqFKEJYSe-jE47UKGjPwpnL-WfQ00tvrEZOUOyZBhH9GlYzWJdi5_wDxFnzry3cbTTKW7GQEDVPPS4Tl92H7-FAtH1lMyrIy1OhzY7xIsttA==",
-          "title": "city.nishio.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwcBK_sk1Uxo3jyGYrFZnPnIRBsQDOinOOdS8ijImSeEtiWJkEYNdTStP9T9CRpTMC_OoAuIMwYl08XBh1bW4hMyJ1wR10oZCuewiL-e3OMk1ErSzOEpeO9iEaRQ==",
+          "title": "4travel.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFB8rbUC4c7x2oKXaMLHhPQZ4rQg3zLCVQyKf6SgnAXIT-wLVfs73033Ej-LplyP2OvOv8eG45VIbGSyZFv0pI_AGPuPoWg8wZqGqWdDxYk5yfPBSbjNdrtsdvsSKZYIRCeNuExq1T1w2-X0RcyJuBJMeKMbZPz-vzFEHqj5_9mrIocvr4=",
-          "title": "aichi-c.ed.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH-JEbIDqgz2jOVJfekfu4yiC_GSnGYooES8FXFO4q811m5jhfZzk6tcbuhIUviD6rvTltMV7hgnwIdWQCSYakIkts944ff-Uh_ARIOtOoy4pDGK_2wCgJacboOK6PBGehwVIRl2SRgg==",
+          "title": "bunka.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZcrjhTUW0qnGVmXIh6SS3j5puk9j5TPqsbogB-HhhaHBbMtqdAgWfbtzafsLZW-nnpre54_FGA6Wr7Dekk-1rea34Nn1mbxuJv8PX4uB_zHs1L6k19CU9S6PKKwq1ULpSqehYJMhh",
-          "title": "isshikiya.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXtHEsDdseLazqqZxQ1cjbOhJja46hL6iViAnx0gl7AHUGGIvjSs9VxRiviI63Jy0kk3fIvAeSsNMxuSjH14EfimZyhtp6bXNcq42tmjV6-Sxy8c30yeJzI_M-sRGGZULX_YY=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqubdiNj3QOkLhd6u4s_EMUh5OFDUxfetpOwE39y9QNldJsYc1f4qbWLuIRUzyPcw_9TsGXnh7k7ZPdkPyYotYSwNj0FRgqCp1kSTLBJf3rywEVAp-TJkZzM3ia0XgmQ==",
           "title": "nishiokanko.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFxjdlQkJghMvH3cM2pp2u4OpWv-K8hIPFsGELnw25wgE5gUa8jiQjtYNbAsIvej0ORhsz4lno3_WAQjJ2eU1KtiEg8FNJkacWPIupb9MZN-d1duVji9oYf69lQ2aUHCk=",
-          "title": "grapee.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpNd0mlKQfO9zeGPS4Euo6q78uDM5MptUvC2LbDYZBWvuoLoLgV2EDRDb0e3yEKEFW8TnTf9edYUxb2KmAjpN1ivtPKI7IQSRAq75VqucsDSKT_SSudo_sGCQucQeV-twYLUJTyKJKEYEO3uPOMc0xzp74XLBQTdmc9u7f_Tq-anNBRgbP-uRnyY2dLgzoY1RxlcFd0_XpV87m3BMdA5WM6PkUMyNzP9UUvp4C_dtU6eXpE4vmSukvREDUT1Vxcex4Rre9FTgbaJnyx22kWuDXxrOiKsvj6lECKyt6f2s4sasSIlyLPVAm4nVVwirM1paODYDO4SL0OfW7QYdfqmEkSUzYEgDysGinNxxWyj8uWLYgsSfgE0AZb4Ua72KIrJxeAKdN0leT-GmiFCR6UexLvZq9tgCSDHVgi9si6zFkRwoxwh1H4kpx_3f959H5FfVLTN73X-IgJegsfzy_58o32SmeMTYJ1pBWdgIymRFjRmpmMFkoKqW66HqBavy3UUkACXT4ThXvUVw2oJFr77_9bbCiXag13aBcejp5ZAaHEC3AAEsj0AVacLjEjSNXFk12rwbvGPMcvqmVSJ4XEBrw3QgDiIAfUv2YrvQnxLwDiNlyN0-zY6eO6ZaYZSLg",
+          "title": "shinobi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF06dZkqyIzeBsXpnxlqH5kH-8fcAR471hrdw3toqTmvJAmUVAoKcPnKP11hItLEfClcQsdR-Ctp8kX3zamNqO4ob60ODiYt9fia-spByWECHQnn_KlQLtc-W7koA==",
-          "title": "tokyogrown.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8hStavfXS8kgy2k-7OXnWmWtOIthoWh1jQF4QnK8BMgQPZMqjrDF2CkVcHUPd7__huo03NHHAnWxKzFwtHzcAZRg2dZxUcczJ-nz8AJZ7vXB7l4dh_9bji27eW1Yx8uCRwO8Hz7iXEKx13ezJBBK-u6LjXQOVBJmlRuckPmOAZA=",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMr7h_r4Y0cqy9JURo23fkSyNBekcWsirjSkndPcoE2LE2OTbFA-dj0ENfhH3SpBraRYYNoqwxAW0XWNrP4Dk60mAyqKsxIANCqjlD01vSjl0ufu33ibBmYO11Dn8PukeFwcFX2DiKWBNrc3C_Ip7OKw==",
-          "title": "hyponex.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQLm-FV6rkqSqhuiMDiHIdygUMv_Uj80IUJplaFIQKAUcbsOGMuhg0dB6DNQxSkqUjKylrGPI1wMgjvv_j9FmDN-Phf5vnGHAiNIvtlvEc8ZcdPyptfDDeR7OE3CG79mMfYYIHWFK5JNb0qA==",
-          "title": "takii.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6I-gLruU4P1EjRMQbX6Cch9btcbg_wKR0IxcvyH_qNNdv_AwguxYClpM-Loi5YM7SrEYjpgPDYJ-TcAr6tDK3U6eY1Zo_T1kP6NY0kbCIcEg9Y6iw3XhJsxrw6z49xidhoXVZvPkQnGVGfKkZ4fo=",
-          "title": "takii.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwqpzVntz3Qc9X2t-TTGZV0L9SaNdT4n55E8Gppn2JEpqOm6624NcSypxk1BS8aHOg6YyBq5_J3f_1RWNc_dKoRaL-SALq5Q8vRnuAaIfjwemmAcVxD2AIzruiM9WInaL2zfz_c54Z",
-          "title": "lettuceclub.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjRISFVlzRDhz380lalQyl2rlu1d1EDmOlKQ6-5SVC6tWiuqVe_lBLJiZlGgIXbv8hgxqclcgJh-3qJSFmoarqCtkGU2h6KQmPTOosmVaiAMDuCERsvcSbylIu_KidFYXk-qimKp2yUbHSdrX2VYT1smPLGYF4Ro2JGv55MCC1lG578HEjkML0wbPf0s0gFuFenyFSvFmbe7tqc5Nb_kpTqy68rD1pZ6bHuV7gcqa9EME954pgjvi3gBlFFEOsH89faCH_B-k=",
-          "title": "konnyaku.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNNgAdrLCIDzuhtVmzAPTAee_RpDoLmPuvbXOK-uwHF-bUpCZeMZb_WGtppNYhMRZfjPbl5ZNH8ERmYz_sCDj6Mu-W_2I413wbsSgsvUN4ephLNC5Lsy6cWe32LdE1Uwc=",
-          "title": "miyabika-cr.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5T9SSv-yTRiGHr49auNqpcjbgWVsgaL6qfkH9iEhKJKMqAKeAyWnYkIt0JCmQg3KQ7oAd_MpYBgIaymFtalm4Uoe3uO5RZ5-Kfk2MicSJyO-ENgo99bLwiHxZpty-UaxkPADXX9prhIxuRWOEJg==",
-          "title": "ameblo.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzMzHPK9rliLnGJ3DiKmU3az9EfS7LCYqYoryRuIb-wCCSZiQZP51pxPpcOs-TFFxQUu97MoydfkEmptMkm9IPuAh7QzIhICAlx21ju-E06w96oJxgMN7-UriLr_S-3Jtv9kzZ",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXEu8LB5XnmpZF821Ag-eANXtJ-504dUjMi1y1xz_d6vv8p0oYSN0vgyUDe5zNU2gz6FLSMHvB8tvHpFmcRf8rp7tVZbVaVgAu88yJxbUSK-L8cTeXrE75LH7IWmr6",
           "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIqjvs92K1kQcR_8R7whSxGDWo_yxtDwynfTPgnL7IC2rliU7dPWTEZOF-jxtODWXCafbZigKHN33LTIzwua4H6NgaN7tsuuIBjdZI3C3Xr8Q=",
+          "title": "tabi-mag.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 822,
-          "endIndex": 1032,
-          "text": "植物学上は「隠頭花序（いんとうかじょ）」と呼ばれ、袋状に肥大化した茎（花托）の内側に、無数の小さな花が外から見えないようびっしり咲いています"
+          "startIndex": 716,
+          "endIndex": 884,
+          "text": "実はこれを風流な庭園装置として日本で初めて取り入れた人物が、ここ安城市和泉町生まれの人物だったことをご存じですか"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 1038,
-          "endIndex": 1214,
-          "text": "**具体的な数字・比較**：私たちが食べているイチジク1個の中には、なんと**約1,800個以上**もの小さな花（小花）が詰まっています"
+          "startIndex": 914,
+          "endIndex": 1044,
+          "text": "その人物は、江戸時代初期の文人・石川丈山（天正11年/1583年、現在の和泉町中本郷生まれ）です"
+        },
+        "groundingChunkIndices": [
+          1,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1047,
+          "endIndex": 1392,
+          "text": "晩年に京都の一乗寺に隠棲して建てた山荘「詩仙堂」の庭園に、もともと農民が田畑を荒らす鳥獣を威嚇するために使っていた実用農具「添水（そうず）」を取り入れ、その竹が石を打つ澄んだ響きを「風流な静寂の音」として鑑賞の対象に昇華させました"
+        },
+        "groundingChunkIndices": [
+          3,
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1434,
+          "endIndex": 1537,
+          "text": "丈山は59歳で詩仙堂を建て、当時としては驚異的な90歳の長寿を全うしました"
+        },
+        "groundingChunkIndices": [
+          1,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1540,
+          "endIndex": 1761,
+          "text": "平成8年（1996年）には、生誕地である和泉町に詩仙堂や丈山ゆかりの庭園を本格再現した「丈山苑」が開苑し、現在も苑内でその趣深い鹿威しの響きを体感できます"
+        },
+        "groundingChunkIndices": [
+          3,
+          0,
+          2,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1791,
+          "endIndex": 1935,
+          "text": "風流な漢詩人・作庭家として知られる丈山ですが、若い頃は徳川家康の近習として仕えた屈強な武将でした"
+        },
+        "groundingChunkIndices": [
+          3,
+          1,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1938,
+          "endIndex": 2207,
+          "text": "33歳の「大坂夏の陣」で先陣争い（一番乗り）をして軍令違反に問われ、謹慎処分を受けたことをきっかけに武士の身分を捨て、学問と風雅の道へ転身したという、意外な「武闘派」の過去があります"
         },
         "groundingChunkIndices": [
           2
@@ -236,73 +302,9 @@
       },
       {
         "segment": {
-          "startIndex": 1217,
-          "endIndex": 1307,
-          "text": "あの独特のプチプチとした食感は種ではなく、一つひとつの花です"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1310,
-          "endIndex": 1648,
-          "text": "なお、農林水産省の調査（2022年・2023年統計）によると、愛知県はイチジクの栽培面積（107ha、全国シェア13.2%）および産出額（13億円、全国シェア18.8%）ともに**全国1位**を誇り、その中核を担っているのが安城市などを管轄するJAあいち中央エリアです"
-        },
-        "groundingChunkIndices": [
-          3,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1654,
-          "endIndex": 1865,
-          "text": "**意外な点**：私たちが「果実」としておいしく食べている柔らかい部分は、果皮でも果肉でもなく、肥大化した花の受け皿（花托）と無数の花そのものです"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1871,
-          "endIndex": 2059,
-          "text": "**歴史の裏話**：アラビア南部原産で、日本には江戸時代の寛永年間（1630年頃）に中国やポルトガル船経由で長崎に薬用として伝来しました"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2062,
-          "endIndex": 2320,
-          "text": "安城周辺で出荷用栽培が始まったのは昭和5年頃ですが、昭和46年頃からの米の転作政策を機に、明治用水の豊かな水利と平坦な土地を活かして急速に広がり、日本屈指の産地へと発展しました"
-        },
-        "groundingChunkIndices": [
-          3,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2326,
-          "endIndex": 2417,
-          "text": "**根拠・出典**：愛知県農業総合試験場「イチジク新品種開発資料」"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2326,
-          "endIndex": 2476,
-          "text": "**根拠・出典**：愛知県農業総合試験場「イチジク新品種開発資料」、JAあいち中央「生産物紹介（イチジク）」"
+          "startIndex": 2240,
+          "endIndex": 2288,
+          "text": "安城市公式ウェブサイト「丈山苑」"
         },
         "groundingChunkIndices": [
           3
@@ -310,119 +312,127 @@
       },
       {
         "segment": {
-          "startIndex": 2326,
-          "endIndex": 2523,
-          "text": "**根拠・出典**：愛知県農業総合試験場「イチジク新品種開発資料」、JAあいち中央「生産物紹介（イチジク）」、JAグループ愛知「あいちの果物」"
+          "startIndex": 2240,
+          "endIndex": 2342,
+          "text": "安城市公式ウェブサイト「丈山苑」、丈山苑公式ページ「丈山苑について」"
         },
         "groundingChunkIndices": [
-          1
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 2826,
-          "endIndex": 3073,
-          "text": "**理由**：三河湾で水揚げされる生エビの豊かな風味と食感を最大限に活かすため、米ではなく加熱すると大きく膨らむ「馬鈴薯（じゃがいも）でんぷん」をつなぎに採用したためです"
+          "startIndex": 2240,
+          "endIndex": 2417,
+          "text": "安城市公式ウェブサイト「丈山苑」、丈山苑公式ページ「丈山苑について」、愛知県公式観光サイト「あいち歴史観光（丈山苑）」"
         },
         "groundingChunkIndices": [
-          6,
-          7
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 3079,
-          "endIndex": 3208,
-          "text": "**具体的な数字・比較**：愛知県はえびせんべいの生産量が**全国シェア圧倒的第1位**を誇ります"
+          "startIndex": 2808,
+          "endIndex": 2898,
+          "text": "なぜお寺がまるで「戦国の城」のような姿をしているのでしょうか"
         },
         "groundingChunkIndices": [
-          6,
-          7
+          5,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 3211,
-          "endIndex": 3394,
-          "text": "西三河の旧一色町（現・西尾市）で作られる「三河一色えびせんべい」は特許庁の地域団体商標（地域ブランド）にも登録されています"
+          "startIndex": 2928,
+          "endIndex": 3098,
+          "text": "本證寺は、徳川家康の生涯における「三大危機」の一つに数えられる「三河一向一揆（1563〜1564年）」の最大の中心拠点でした"
+        },
+        "groundingChunkIndices": [
+          7,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3101,
+          "endIndex": 3416,
+          "text": "当時、寺の領地は「守護使不入（しゅごしふにゅう）」という、大名の警察権や徴税権が及ばない治外法権の特権を持っていたため、領主である若き家康と激しく対立し、自衛と戦いのために「城郭寺院」へと要塞化していったのです"
         },
         "groundingChunkIndices": [
           8,
+          7,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3400,
-          "endIndex": 3588,
-          "text": "**意外な点**：今でこそ親しみやすい銘菓ですが、明治時代初期、えびせんべいは庶民の手が届かない**中国からの高価な逆輸入菓子**でした"
+          "startIndex": 3458,
+          "endIndex": 3679,
+          "text": "発掘調査によると、内堀だけでなく、かつての寺内町を取り囲む外堀は「東西約320メートル×南北約310メートル」という平城に匹敵する広大な規模を誇っていました"
         },
         "groundingChunkIndices": [
-          10,
-          6,
-          7
+          7,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3594,
-          "endIndex": 3814,
-          "text": "**歴史の裏話**：明治中頃、三河湾では「アカシャエビ（赤車海老）」が大量に獲れましたが、当時は食用需要が少なく、乾燥させて中国へ安値で輸出していました"
+          "startIndex": 3682,
+          "endIndex": 3862,
+          "text": "現在も水堀や土塁、櫓（やぐら）のような太鼓楼が残り、その歴史的価値の高さから平成27年（2015年）に国の史跡に指定されています"
         },
         "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3817,
-          "endIndex": 3949,
-          "text": "中国側はこれをでんぷんと混ぜてせんべいに加工し、日本へ高値で輸出（逆輸入）していたのです"
-        },
-        "groundingChunkIndices": [
-          6,
-          11,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3952,
-          "endIndex": 4189,
-          "text": "これを見た一色町で練り物業を営んでいた「かまぼこ文吉」が「地元の獲れたて生エビで国産のせんべいを作れないか」と北海道産馬鈴薯でんぷんを使って独自に開発しました"
-        },
-        "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4192,
-          "endIndex": 4390,
-          "text": "さらに伊勢から訪れた職人「ひげ貞」が蒸し器で大量のエビを処理する技術を考案したことで、安くて旨い三河名物として日本全国に広まりました"
-        },
-        "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4396,
-          "endIndex": 4505,
-          "text": "**根拠・出典**：愛知県教育委員会（愛知エースネット）「一色のえびせんべい」"
-        },
-        "groundingChunkIndices": [
+          5,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 4396,
-          "endIndex": 4565,
-          "text": "**根拠・出典**：愛知県教育委員会（愛知エースネット）「一色のえびせんべい」、西尾市観光協会「三河一色えびせんべい」"
+          "startIndex": 3892,
+          "endIndex": 4072,
+          "text": "この一揆の恐ろしいところは、家康の家臣団までもが「主君への忠誠」と「信仰」の間で引き裂かれ、家中が真っ二つに割れた点です"
+        },
+        "groundingChunkIndices": [
+          8,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4075,
+          "endIndex": 4303,
+          "text": "後に家康の天下取りを支える名参謀・本多正信や、三方ヶ原の戦いで身代わりとなって戦死する夏目吉信らも、この時は本證寺側について家康に銃口を向けて戦いました"
+        },
+        "groundingChunkIndices": [
+          8,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4336,
+          "endIndex": 4405,
+          "text": "安城市公式ウェブサイト「本證寺境内（国史跡）」"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4336,
+          "endIndex": 4474,
+          "text": "安城市公式ウェブサイト「本證寺境内（国史跡）」、安城市観光協会「家康公特設サイト（本證寺）」"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4670,
+          "endIndex": 4754,
+          "text": "西三河のソウルフードとして愛される知立の名物「あんまき」"
         },
         "groundingChunkIndices": [
           12
@@ -430,114 +440,86 @@
       },
       {
         "segment": {
-          "startIndex": 4396,
-          "endIndex": 4619,
-          "text": "**根拠・出典**：愛知県教育委員会（愛知エースネット）「一色のえびせんべい」、西尾市観光協会「三河一色えびせんべい」、三河屋製菓「えびせんべいの始まり」"
+          "startIndex": 4757,
+          "endIndex": 4940,
+          "text": "東海道三十九番目の宿場町だった池鯉鮒（ちりゅう・現知立市）で、なぜ小豆餡を小麦の皮で巻いた和菓子が名物になったのでしょうか"
         },
         "groundingChunkIndices": [
-          6
+          13,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 4895,
-          "endIndex": 5034,
-          "text": "**理由**：ピーマンの繊維や細胞組織は、ヘタから先端に向かって「縦方向」に規則正しく走っています"
+          "startIndex": 5057,
+          "endIndex": 5201,
+          "text": "江戸時代の池鯉鮒周辺は台地のため水利に恵まれず水田が少なかった一方、小麦や小豆の栽培が盛んでした"
         },
         "groundingChunkIndices": [
-          13,
-          14
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 5037,
-          "endIndex": 5247,
-          "text": "繊維に沿って縦に包丁を入れると細胞壁の破壊が最小限に抑えられ、細胞の中に閉じ込められている苦味成分や青臭い匂い成分が外に漏れ出さないためです"
+          "startIndex": 5204,
+          "endIndex": 5435,
+          "text": "さらに、池鯉鮒宿の松並木周辺では日本屈指の「馬市（うまいち）」が毎年開かれ、集まった大勢の商人や旅人に手軽で腹持ちの良い軽食として提供されたのが始まりです"
         },
         "groundingChunkIndices": [
-          13,
           14,
-          15
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 5253,
-          "endIndex": 5506,
-          "text": "**具体的な数字・比較**：種苗大手タキイ種苗とお茶の水女子大学の共同研究により、ピーマン特有の苦味の正体はポリフェノールの一種「クエルシトリン」であることが解明されています"
+          "startIndex": 5477,
+          "endIndex": 5802,
+          "text": "江戸時代の『東海道名所図会』によると、毎年旧暦4月25日から5月5日までの馬市には、信濃や甲斐など遠方からも「400〜500頭」もの馬が集まり、歌川広重の浮世絵『東海道五十三次 池鯉鮒 首夏馬市』にもその大賑わいの様子が描かれています"
         },
         "groundingChunkIndices": [
+          14,
+          15,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 5509,
-          "endIndex": 5644,
-          "text": "またピーマンは加熱しても壊れにくいビタミンCを含み、その含有量は**トマトの約5倍**にも達します"
+          "startIndex": 5805,
+          "endIndex": 6054,
+          "text": "この活気の中で生まれた素朴な菓子が、明治22年（1889年）頃に「小松屋本家」によって現在の形に整えられ、さらに「藤田屋」の「大あんまき」として西三河全域へ広がっていきました"
         },
         "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6084,
+          "endIndex": 6183,
+          "text": "当時の宿場町の繁栄は、木綿の集積地であったことと深く関係しています"
+        },
+        "groundingChunkIndices": [
+          14,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6186,
+          "endIndex": 6519,
+          "text": "三河木綿を各地へ運ぶ荷馬の需要が高まり、それに伴って馬市が発展し、馬の売買価格を決める「談合松（だんごうまつ）」の周りで馬喰（ばくろう）たちが腹ごしらえにあんまきを頬張っていたという、街道の活気ある情景が今に伝わっています"
+        },
+        "groundingChunkIndices": [
+          14,
+          15,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 5650,
-          "endIndex": 5843,
-          "text": "**意外な点**：輪切り（横切り）にすると繊維を直角に断ち切るため、細胞が壊れて苦味や青臭さ（ピラジンなど）が一気に外に出てしまいます"
-        },
-        "groundingChunkIndices": [
-          13,
-          18,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5846,
-          "endIndex": 6095,
-          "text": "「ピーマンが苦手な子どもには細かく刻んで料理に混ぜる」という手法がよく取られますが、細かく刻むほど細胞が破壊されてかえって苦味が強調されてしまうという逆効果が生じます"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6101,
-          "endIndex": 6222,
-          "text": "**歴史の裏話**：ピーマンの語源はフランス語でトウガラシを指す「ピマン（piment）」です"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6497,
-          "endIndex": 6588,
-          "text": "**根拠・出典**：タキイ種苗「調べる・タキイの野菜（ピーマン）」"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6497,
+          "startIndex": 6552,
           "endIndex": 6642,
-          "text": "**根拠・出典**：タキイ種苗「調べる・タキイの野菜（ピーマン）」および「こどもピーマン研究成果発表」"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6497,
-          "endIndex": 6701,
-          "text": "**根拠・出典**：タキイ種苗「調べる・タキイの野菜（ピーマン）」および「こどもピーマン研究成果発表」、JAセレサ川崎「食育ソムリエの野菜解説」"
+          "text": "知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」"
         },
         "groundingChunkIndices": [
           13
@@ -545,53 +527,107 @@
       },
       {
         "segment": {
-          "startIndex": 7004,
-          "endIndex": 7258,
-          "text": "**理由**：包丁で平らに切ると切断面がツルツルになって煮汁を弾いてしまいますが、手やスプーンでちぎると断面が不規則に裂けて微細な凹凸が生まれ、**表面積が格段に広がる**ためです"
+          "startIndex": 6552,
+          "endIndex": 6702,
+          "text": "知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」、知立市文化協会「池鯉鮒の馬市について」"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6552,
+          "endIndex": 6799,
+          "text": "知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」、知立市文化協会「池鯉鮒の馬市について」、文化庁文化遺産オンライン「東海道五拾三次之内・池鯉鮒 首夏馬市」"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7001,
+          "endIndex": 7178,
+          "text": "歌舞伎や時代劇『忠臣蔵』では浅野内匠頭を追い詰める「大悪役」として描かれる吉良上野介義央（きらこうずけのすけよしひさ）"
         },
         "groundingChunkIndices": [
           19,
-          20,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7181,
+          "endIndex": 7391,
+          "text": "しかし、お隣の西尾市吉良町では、今でも「吉良さん」と親しみを込めて呼ばれ、領民を愛した屈指の「名君」として尊敬されているのをご存じでしょうか"
+        },
+        "groundingChunkIndices": [
+          21,
+          22,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7421,
+          "endIndex": 7643,
+          "text": "領地が毎年のように河川の氾濫による大水害に苦しんでいたのを見かねた吉良義央が、私財を投じ、領民を守るための大規模な堤防を築くなど善政を敷いたためです"
+        },
+        "groundingChunkIndices": [
+          19,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7685,
+          "endIndex": 7785,
+          "text": "吉良義央が築いたとされる堤防は「長さ約180メートル、高さ約4メートル」"
+        },
+        "groundingChunkIndices": [
+          19,
           21
         ]
       },
       {
         "segment": {
-          "startIndex": 7264,
-          "endIndex": 7568,
-          "text": "**具体的な数字・比較**：板こんにゃくの成分の**約96〜97%は水分**で、残りのごくわずかなグルコマンナン（食物繊維）が強固な網目構造を形成しているため、スポンジのように内部へ調味料を吸い込むことが構造上できません"
+          "startIndex": 7788,
+          "endIndex": 7962,
+          "text": "土の中に粘土を層状に混ぜ込んで水を一切漏らさないという、現代の土木工学から見ても極めて高度な工法が用いられていました"
         },
         "groundingChunkIndices": [
-          19,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7571,
-          "endIndex": 7670,
-          "text": "そのため、味の濃淡は「表面にどれだけ煮汁が絡むか」でほぼ決まります"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7676,
-          "endIndex": 7938,
-          "text": "**意外な点**：手でちぎる作業は一見すると「大雑把な手抜き」のように見えますが、物理的に表面積を増やし、煮汁が引っかかる凹凸を作り出すという、科学的に極めて合理的なプロの技術です"
-        },
-        "groundingChunkIndices": [
-          20,
           21
         ]
       },
       {
         "segment": {
-          "startIndex": 8140,
-          "endIndex": 8440,
-          "text": "かつては「鉄の包丁で切ると、こんにゃくのアルカリ性によって金気（鉄の匂い）が移り、風味が落ちる」と言い伝えられていたことも、台所で包丁を使わずに手や茶碗のフチなどでちぎる習慣が定着した大きな理由でした"
+          "startIndex": 7965,
+          "endIndex": 8220,
+          "text": "言い伝えでは「一夜にして築いた」とされ、完成後に水害がピタリと止まり、一面の美田となって黄金色の稲穂が実るようになったことから「黄金堤（こがねづつみ）」と名付けられました"
+        },
+        "groundingChunkIndices": [
+          19,
+          21,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8250,
+          "endIndex": 8463,
+          "text": "吉良公は領内を視察する際、愛馬である「赤馬（あかうまと呼ばれる茶褐色の馬）」に質素な身なりで乗り、農民たちに気さくに声をかけたと伝わっています"
+        },
+        "groundingChunkIndices": [
+          22,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8466,
+          "endIndex": 8565,
+          "text": "この赤馬は現在も西尾市の伝統郷土玩具「赤馬」として親しまれています"
         },
         "groundingChunkIndices": [
           20
@@ -599,20 +635,71 @@
       },
       {
         "segment": {
-          "startIndex": 8446,
-          "endIndex": 8555,
-          "text": "**根拠・出典**：一般社団法人日本こんにゃく協会「おいしく食べる調理のコツ」"
+          "startIndex": 8568,
+          "endIndex": 8841,
+          "text": "さらに明治時代、新政府によって黄金堤の取り壊し計画が持ち上がった際、地元住民が直訴も辞さない猛反対を起こして堤防を守り抜いたという逸話があり、地域の吉良公への敬愛の深さがうかがえます"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8874,
+          "endIndex": 8952,
+          "text": "農林水産省「金色の稲穂が田んぼに彩る堤防『黄金堤』」"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8874,
+          "endIndex": 8991,
+          "text": "農林水産省「金色の稲穂が田んぼに彩る堤防『黄金堤』」、西尾市観光協会「黄金堤」"
         },
         "groundingChunkIndices": [
           19
         ]
+      },
+      {
+        "segment": {
+          "startIndex": 9081,
+          "endIndex": 9315,
+          "text": "安城市和泉町生まれの文人・石川丈山が、京都の別荘「詩仙堂」に日本で初めて風流な庭園の仕掛けとして取り入れた、いまや日本庭園の定番となっている装置は何でしょう"
+        },
+        "groundingChunkIndices": [
+          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9701,
+          "endIndex": 9986,
+          "text": "もともとは田畑を荒らすイノシシや鹿、鳥を追い払うための実用的な農具（添水）でしたが、石川丈山がその規則正しく響く音に風情を見出し、静けさを味わう庭園装置として詩仙堂の庭に初めて取り入れました"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9989,
+          "endIndex": 10094,
+          "text": "和泉町の「丈山苑」でも、丈山が愛したその心地よい音を聞くことができます"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
       }
     ],
     "webSearchQueries": [
-      "ピーマン 苦味 繊維 縦切り 横切り カゴメ タキイ種苗",
-      "安城 イチジク 花 仕組み 農林水産省 愛知県",
-      "一色 えびせんべい 由来 歴史 愛知県 農林水産省",
-      "こんにゃく 手でちぎる 味が染みる 理由 日本こんにゃく協会"
+      "本證寺 城郭寺院 三河一向一揆 安城市",
+      "石川丈山 鹿おどし 詩仙堂 安城市 丈山苑",
+      "知立 あんまき 歴史 池鯉鮒宿 馬市",
+      "吉良上野介 黄金堤 名君 西尾市"
     ]
   }
 }
