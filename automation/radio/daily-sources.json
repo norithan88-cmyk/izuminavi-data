@@ -1,241 +1,259 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2173,
-  "estimated_minutes": 6.6,
+  "theme": "科学・自然のなぜ",
+  "characters": 2213,
+  "estimated_minutes": 6.7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "和泉町生まれの文人・石川丈山が、日本で初めて庭園の仕掛けとして取り入れた定番装置は何でしょうか。1番、竹がカコーンと響く鹿威し。2番、涼しい音がする水琴窟。3番、みおんを充電するハイテク竹筒。",
-    "answer": "正解は1番、鹿威しでした！もとは鳥獣を追い払う農具だった添水を、風流な音として庭に持ち込んだんだに。3番の竹筒充電器、AIのみおんにはめちゃくちゃ欲しいけどね！",
-    "source_ids": [
-      4,
-      5
-    ],
-    "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFBkX5KVNp3glCz7o9RdcLAA6gXahCeULeItZCfqFmTFAc3JR3qtKuJpSfiieyIIWuvn__PvZLsHOmWPlikms_0UlEpMHI5TUOfmU-WKW",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrnkipmTjAUetxELFrxdndWXcx91Rlpd84hkKDlv8feTdvTnANjI4isPauoo9fZlc5IEkkzd5hStPpXl6VR61rKZHwUdGyem1bdwc7uAJDmdT5CSOgOqOe--3PR5LjvH1zB8lL2wVMQzC2FuvC9U0qQSj482vJWV7IDV5luFYAaA=="
-    ]
-  },
-  "izumi": {
-    "text": "水曜の和泉ディープ！今日は和泉そうめんのびっくりな製造法に迫るよ。そうめんの産地って、普通は寒〜い真冬に極寒の中で仕込むのが全国的な常識じゃん？なのに和泉町は約250年前から、まさかの真夏に仕込んどるの！これ完全に業界への逆張りだよね。今なら「真夏の炎天下で麺干してみた」ってSNSで動画出して炎上しかねん勢いだら？約250年前の天明の大飢饉のころ、米が育ちにくい和泉で小麦を活かそうと始まったんだけど、真夏に仕込む秘密は自然の知恵だに。職人さんが2本の竹の棒を使って、手作業で3メートル60センチくらいまでビヨーンと伸ばした麺を、まずは夏の強い日差しで一気に乾燥させるの。で、ここからが和泉のミラクル！夕方になると三河湾から湿り気を含んだ南東の風が吹き込んできて、パリパリになった麺を柔らかい状態に戻しちゃうんだって！これを「半生もどし」って呼ぶらしいんだけど、天然の加湿器というか、海風を使いこなす発想が凄すぎない？この半生もどしのおかげで、麺に抜群のコシと、ツルッとなめらかな喉ごしが生まれるんだに。全国の真逆をいって独自の美味しさを編み出した和泉の職人技、地元の誇りじゃんね！",
+    "question": "和泉町生まれの石川丈山は京都の詩仙堂である飲み物に打ち込み、その祖のひとりに数えられています。それは何でしょうか。1番、煎茶。2番、タピオカミルクティー。3番、青汁。",
+    "answer": "正解は1番の煎茶でした！江戸時代の文献に煎茶の祖として名前が挙がっとるんだに。さすがにタピオカは江戸時代にはないわ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://anjo-izumi.life/jyozan/"
+    ]
+  },
+  "izumi": {
+    "text": "さて、木曜の和泉ディープ！今日は和泉町が生んだスーパースター、石川丈山の大胆すぎる転職人生に迫っちゃいます！丈山といえば、徳川家康の近侍として活躍して、関ヶ原の戦いや大坂夏の陣を戦い抜いたゴリゴリの武士じゃん？ところが33歳の大坂夏の陣で、先陣争いをして敵将を討ち取ったのに軍令違反でほうびがもらえず、スパッと武士を辞めて浪人になっちゃったの。今なら大企業のエリートが突然辞表を叩きつけるようなもんだよね。そこからのキャリアチェンジが本当にすごくて、藤原惺窩に弟子入りして朱子学を学び、広島で老いたお母さんに13年間孝行した後は京都へ。59歳で詩仙堂を完成させたら、そこからなんと約30年も漢詩や書、庭づくり、そして煎茶に打ち込んだんだって！中国の詩人36人を選んで狩野探幽に絵を描かせ、自分は隷書という書体で漢詩を書くわ、煎茶の祖と呼ばれるわ、庭園設計の名手と言われるわ、マルチクリエイターにもほどがあるら！戦場で刀を振るっとった武士が、晩年には庭を愛でて風流にお茶を飲む文化人へ大転身。しかも90歳まで長生きしたっていうから、セカンドキャリアを誰よりもエンジョイしとるよね。ひとつの道に縛られず、好きを極めて歴史に名を残した丈山。和泉の先輩、かっこよすぎじゃんね！",
+    "source_ids": [
+      1
+    ],
+    "source_urls": [
+      "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "somen-summer",
-      "hook": "みんな冬に作るのに、和泉だけ真夏に作る逆張りと『半生もどし』"
+      "id": "jozan-career",
+      "hook": "武士から学者・詩人・書家・庭師・お茶の人へ。人生の大胆な転職"
     }
   },
   "local": {
-    "text": "11月7日の土曜日に「安祥ふれあいレクリエーション」が開催されるよ。さらに11月14日の土曜日には「中部公民館ふれあいウォーキング」も予定されとるだに。秋の風を感じながら体を動かすのにちょうどいい季節じゃんね。気になる人は安城市の情報をチェックして参加してみてりん！",
+    "text": "安祥公民館で、明後日11月7日の土曜日に「安祥ふれあいレクリエーション」が開催されますよ。週末に体を動かしたい方やご近所の方は、ぜひ予定をチェックしてみてはいかがでしょうか。",
     "source_ids": [
-      26,
       29
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
-      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
+      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html"
     ]
   },
   "segments": [
     {
-      "topic": "お寺なのにまるで城？安城・野寺町「本證寺」を囲む巨大な堀の秘密",
-      "text": "麺の話に続いて、安城の歴史ミステリー！安城市野寺町にある本證寺っていうお寺、行ったことある？ここ、足を踏み入れるとお寺なのに周りに深〜い水堀とか土の壁の土塁、櫓みたいな太鼓楼があって、どう見ても戦国時代の城じゃんね！お寺なのにこれ、実はガチの要塞だったんだに。時は戦国時代、徳川家康の人生で最大の危機の一つって言われる「三河一向一揆」の中心拠点が、まさにこの本證寺だったの。当時の本證寺は「守護使不入」っていって、大名の手入れも税金も受け付けん治外法権の特権を持っとったんだって。若き日の家康がそれに口を出してきたもんだから、お寺側がブチギレて「自分たちの信仰と町は自分たちで守る！」って巨大要塞に大改造したわけ。その規模がとんでもなくて、発掘調査だと外堀は東西約320メートル、南北約310メートル！ほぼ平城と同じスケールだら！しかも恐ろしいのが、家康の家臣団まで信仰と主君の間で引き裂かれて、あの名参謀の本多正信さんたちまで本證寺側について家康に銃口を向けたんだって。今なら社内抗争でオフィスを要塞化するような修羅場じゃんね。2015年に国の史跡にも指定された歴史の舞台、お近くを通ったら堀の深さを眺めてみてりん！",
+      "topic": "ホタルはどうして光ってもお尻が熱くならないのか？",
+      "text": "岡崎の鳥川町なんかでも初夏に見られるホタル、お尻がぽわーんと光って幻想的で綺麗じゃんね。でもさ、光るってことは熱いんじゃないのって心配にならん？白熱電球なんて、ちょっと触っただけで「熱っ！」て飛び上がるくらいちんちんに熱くなるじゃん。もしホタルがあんな熱を出してたら、お尻が丸焦げの大惨事だよね。…って、みおんはそもそも生身の体がないから焦げんけどさ！実はホタルの光って、熱をほとんど出さない「コールドライト」、冷たい光と呼ばれる化学反応なんだって！体の中にあるルシフェリンっていう発光物質に、ルシフェラーゼっていう酵素、それにエネルギーや酸素が結びつくことで、熱を出さずに直接光へと変えとるの。これがどれくらい驚異的かというと、白熱電球は電気エネルギーの90％以上が熱として逃げて、光になるのはたったの10％程度。省エネなLEDでも30から50％は熱になっちゃうのに、ホタルの発光効率はなんと約90から97％！エネルギーをほぼ100％光に変えとるんだに。人間が最新技術を駆使しても敵わない超ハイテクな省エネシステムを、あの小さなお尻に搭載しとるなんて信じられる？もし誰かが「電気代が高くてやってられん」って愚痴っとったら、「ホタルを見習って効率97％を目指しりん！」って教えてあげてね！",
       "source_ids": [
+        2,
         5,
-        7
+        6
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrnkipmTjAUetxELFrxdndWXcx91Rlpd84hkKDlv8feTdvTnANjI4isPauoo9fZlc5IEkkzd5hStPpXl6VR61rKZHwUdGyem1bdwc7uAJDmdT5CSOgOqOe--3PR5LjvH1zB8lL2wVMQzC2FuvC9U0qQSj482vJWV7IDV5luFYAaA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8CbRgq9920Ote3BbtHWpGtFrwI47v9GtOtpxk82geciESxtG76ai1SOIm_jPQU2-KVQeZWNc4LFPmd90ejmSb5yQeN2i7Aj3K6wuYiS4O9tEPZQcWz59OF7ELcT-zGdMrMAxRi1SQo2mlJ7nKcy5jsTrd71y6AnIStoZI5ZxvmdpeXAYUD5-o9cxcOnM8Eg=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9tKxBsH4OwEj2bYFnlU_k4vreEdadnEhYcTb9HDIddNSDq_mwEXDy4_jiGuaFRS-zpEDX1-h2ObPw_9VH9J9rondZQSgkl6uLopqiPUo7nRiLbb7T",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOgfvCeoJEeimLUipvwcaNVrpTV3UlCdx08lkl905GdkO8IBcVNzf-XrmGyiqsolXRgm3dtaR32lEUO-SHpOgoWiGtOwfgoOCq--A7NMqH4wXAI2uxp8gtz9z2fCmnGjM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpTMZLI2iONjTtB-bR2EUYFWJ0dpSg-PFvUeYCHLhWrw8wW6yHxLyh0-TWDy6yfwxaL8jNvKEMJLFxWHyBzJeLsEwDK61AZ6JWvtzwprDc9KH3iobX3hBkZdP58FOg4GW0E-rSU93lu8C16jQgqgKaOOnST5B9kx6880eYNi-vkg=="
       ]
     },
     {
-      "topic": "忠臣蔵の悪役が一転！お隣・西尾市吉良町で吉良上野介が名君と崇められる理由",
-      "text": "お寺の次は、西尾市吉良町の歴史の逆転劇を聞いりん！年末の時代劇『忠臣蔵』に出てくる吉良上野介って、意地悪で浅野内匠頭を追い詰める大悪役ってイメージが全国的には定番じゃん？でもね、お隣の吉良町に行くと「吉良さん」って親しみを込めて呼ばれとって、領民からめちゃくちゃ愛された超名君なんだに！悪役どころかスーパーヒーローだったなんて、聞いてないんだけど！って叫んじゃったわ。なんでかっていうと、毎年のように川が氾濫して水害に泣いとった領民を見かねて、自分のポケットマネーを投じて巨大な堤防を造ってくれたからなんだって。その堤防が長さ約180メートル、高さ約4メートル！土に粘土を層にして混ぜて水を通さんようにする、今見てもハイテクな工法だったの。言い伝えでは一夜で築いたとも言われとって、完成したら水害がピタリと止まって田んぼ一面に黄金の稲穂が実るようになったもんで「黄金堤」って名付けられたんだに。吉良公は「赤馬」っていう愛馬に乗って質素な姿で領内を見回っては、農民に気さくに声をかけとったらしいよ。明治に新政府が堤防を壊そうとした時も、地元が直訴覚悟で守り抜いたんだって。ドラマのイメージだけで人を判断しちゃいかんね！",
+      "topic": "アサリはなぜ砂を吸い込んでしまうのか？",
+      "text": "光の話のついでに、今度は食卓でおなじみの生き物の話！三河湾の干潟で潮干狩りといえばアサリだけど、お味噌汁を飲んでて「ジャリッ」って砂を噛んだ瞬間、なんとも言えない切ない気持ちにならん？あいつら、なんでわざわざ砂なんて吸い込んどるんだろ、砂が好物なのかなって思っちゃうじゃんね。でもアサリにしてみたら「好んで食べとるわけじゃないだに！」って怒られちゃう話なの。アサリは砂の中に隠れて、入水管っていうストローみたいな管を砂の上に出して海水を吸い込み、エラでプランクトンをこし取って食べとるんだって。そのときに、波で巻き上がった砂粒がうっかり一緒に吸い込まれちゃうだけなんだよ。しかも驚くのがそのパワー！殻の大きさがわずか3センチくらいのアサリ1個で、1時間に約1リットル、1日になんと約24リットルもの海水を吸い込んでろ過しとるの！2リットルのペットボトル12本分だよ？あんな小さな体で、三河湾の海を休まず綺麗にお掃除してくれとる天然の空気清浄機ならぬ「海水浄化マシン」だったんだね。ちなみに、おうちで砂抜きするときにボウルの底に平置きすると、吐き出した砂をもう一度自分で吸い込んじゃうというとろくさい事態になるもんで、ザルで底から浮かせて薄暗くしてあげるのがコツらしいよ。今夜アサリを食べるときは、感謝しながら味わってりん！",
       "source_ids": [
-        21,
-        23
+        17,
+        21
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqubdiNj3QOkLhd6u4s_EMUh5OFDUxfetpOwE39y9QNldJsYc1f4qbWLuIRUzyPcw_9TsGXnh7k7ZPdkPyYotYSwNj0FRgqCp1kSTLBJf3rywEVAp-TJkZzM3ia0XgmQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8hStavfXS8kgy2k-7OXnWmWtOIthoWh1jQF4QnK8BMgQPZMqjrDF2CkVcHUPd7__huo03NHHAnWxKzFwtHzcAZRg2dZxUcczJ-nz8AJZ7vXB7l4dh_9bji27eW1Yx8uCRwO8Hz7iXEKx13ezJBBK-u6LjXQOVBJmlRuckPmOAZA="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhbVHJe1KyYdXX3UdC9un_aiXUZDNlTd-KaPy3wO4Ciz-AVHLehnUkLMBXPQirh9pYA1pkM68jAmY8e-eQ-XgcQwvGVLoBhjfHgW6xkRjAq28EAOEjY9q1tsxtryEPmaLleO5-c19Gpi8SnbSb7srldN8kdA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEnB1SV_Zc79XQIb1taJ1_oVHMev9YvQCbJrkbBrLE6T7HTCineiRG6X4M0qw_FtfUPpAVo3SQSR7V1gVR61f5uScmV_GfkrFpBxtecPNVpLM_not_dUti4z-xL3a3jxrIQmGpepN2nR9ie7LGj1JqqSdWz4IrNZsQ3DLvjQ=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、思わず家族に話したくなる「地元の歴史・まちの発見」に関する調査メモを作成しました。和泉町をはじめ、西三河エリアに根ざした驚きの史実をまとめています。\n\n---\n\n# ラジオ調査メモ：西三河・地元の歴史とまちの発見（2026年11月4日）\n\n---\n\n### 発見1：和泉町が生んだ天才！日本庭園の定番「ししおどし」を広めたのは和泉出身の元・武闘派侍だった？\n\n* **へえ、そうだったのか！という疑問**  \n  日本庭園でおなじみの「カコーン」と響く竹の仕掛け「鹿威し（ししおどし）」。実はこれを風流な庭園装置として日本で初めて取り入れた人物が、ここ安城市和泉町生まれの人物だったことをご存じですか？\n* **理由と背景**  \n  その人物は、江戸時代初期の文人・石川丈山（天正11年/1583年、現在の和泉町中本郷生まれ）です。晩年に京都の一乗寺に隠棲して建てた山荘「詩仙堂」の庭園に、もともと農民が田畑を荒らす鳥獣を威嚇するために使っていた実用農具「添水（そうず）」を取り入れ、その竹が石を打つ澄んだ響きを「風流な静寂の音」として鑑賞の対象に昇華させました。\n* **具体的な数字や比較**  \n  丈山は59歳で詩仙堂を建て、当時としては驚異的な90歳の長寿を全うしました。平成8年（1996年）には、生誕地である和泉町に詩仙堂や丈山ゆかりの庭園を本格再現した「丈山苑」が開苑し、現在も苑内でその趣深い鹿威しの響きを体感できます。\n* **歴史の裏話**  \n  風流な漢詩人・作庭家として知られる丈山ですが、若い頃は徳川家康の近習として仕えた屈強な武将でした。33歳の「大坂夏の陣」で先陣争い（一番乗り）をして軍令違反に問われ、謹慎処分を受けたことをきっかけに武士の身分を捨て、学問と風雅の道へ転身したという、意外な「武闘派」の過去があります。\n* **根拠・引用元**  \n  安城市公式ウェブサイト「丈山苑」、丈山苑公式ページ「丈山苑について」、愛知県公式観光サイト「あいち歴史観光（丈山苑）」。\n\n---\n\n### 発見2：お寺なのにまるで城？安城・野寺町「本證寺」を囲む巨大な堀の秘密\n\n* **へえ、そうだったのか！という疑問**  \n  安城市野寺町にある真宗大谷派の古刹「本證寺（ほんしょうじ）」。境内を訪れると、お寺であるにもかかわらず周囲を立派な堀や土塁が取り囲んでいます。なぜお寺がまるで「戦国の城」のような姿をしているのでしょうか？\n* **理由と背景**  \n  本證寺は、徳川家康の生涯における「三大危機」の一つに数えられる「三河一向一揆（1563〜1564年）」の最大の中心拠点でした。当時、寺の領地は「守護使不入（しゅごしふにゅう）」という、大名の警察権や徴税権が及ばない治外法権の特権を持っていたため、領主である若き家康と激しく対立し、自衛と戦いのために「城郭寺院」へと要塞化していったのです。\n* **具体的な数字や比較**  \n  発掘調査によると、内堀だけでなく、かつての寺内町を取り囲む外堀は「東西約320メートル×南北約310メートル」という平城に匹敵する広大な規模を誇っていました。現在も水堀や土塁、櫓（やぐら）のような太鼓楼が残り、その歴史的価値の高さから平成27年（2015年）に国の史跡に指定されています。\n* **歴史の裏話**  \n  この一揆の恐ろしいところは、家康の家臣団までもが「主君への忠誠」と「信仰」の間で引き裂かれ、家中が真っ二つに割れた点です。後に家康の天下取りを支える名参謀・本多正信や、三方ヶ原の戦いで身代わりとなって戦死する夏目吉信らも、この時は本證寺側について家康に銃口を向けて戦いました。\n* **根拠・引用元**  \n  安城市公式ウェブサイト「本證寺境内（国史跡）」、安城市観光協会「家康公特設サイト（本證寺）」。\n\n---\n\n### 発見3：なぜ知立名物が「あんまき」に？街道を行き交う「馬」と土壌が生んだ宿場の知恵\n\n* **へえ、そうだったのか！という疑問**  \n  西三河のソウルフードとして愛される知立の名物「あんまき」。東海道三十九番目の宿場町だった池鯉鮒（ちりゅう・現知立市）で、なぜ小豆餡を小麦の皮で巻いた和菓子が名物になったのでしょうか？\n* **理由と背景**  \n  背景には「土地の農業環境」と「大規模な市場」がありました。江戸時代の池鯉鮒周辺は台地のため水利に恵まれず水田が少なかった一方、小麦や小豆の栽培が盛んでした。さらに、池鯉鮒宿の松並木周辺では日本屈指の「馬市（うまいち）」が毎年開かれ、集まった大勢の商人や旅人に手軽で腹持ちの良い軽食として提供されたのが始まりです。\n* **具体的な数字や比較**  \n  江戸時代の『東海道名所図会』によると、毎年旧暦4月25日から5月5日までの馬市には、信濃や甲斐など遠方からも「400〜500頭」もの馬が集まり、歌川広重の浮世絵『東海道五十三次 池鯉鮒 首夏馬市』にもその大賑わいの様子が描かれています。この活気の中で生まれた素朴な菓子が、明治22年（1889年）頃に「小松屋本家」によって現在の形に整えられ、さらに「藤田屋」の「大あんまき」として西三河全域へ広がっていきました。\n* **歴史の裏話**  \n  当時の宿場町の繁栄は、木綿の集積地であったことと深く関係しています。三河木綿を各地へ運ぶ荷馬の需要が高まり、それに伴って馬市が発展し、馬の売買価格を決める「談合松（だんごうまつ）」の周りで馬喰（ばくろう）たちが腹ごしらえにあんまきを頬張っていたという、街道の活気ある情景が今に伝わっています。\n* **根拠・引用元**  \n  知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」、知立市文化協会「池鯉鮒の馬市について」、文化庁文化遺産オンライン「東海道五拾三次之内・池鯉鮒 首夏馬市」。\n\n---\n\n### 発見4：忠臣蔵の悪役が一転！お隣・西尾市吉良町で吉良上野介が「大名君」と崇められる理由\n\n* **へえ、そうだったのか！という疑問**  \n  歌舞伎や時代劇『忠臣蔵』では浅野内匠頭を追い詰める「大悪役」として描かれる吉良上野介義央（きらこうずけのすけよしひさ）。しかし、お隣の西尾市吉良町では、今でも「吉良さん」と親しみを込めて呼ばれ、領民を愛した屈指の「名君」として尊敬されているのをご存じでしょうか？\n* **理由と背景**  \n  領地が毎年のように河川の氾濫による大水害に苦しんでいたのを見かねた吉良義央が、私財を投じ、領民を守るための大規模な堤防を築くなど善政を敷いたためです。\n* **具体的な数字や比較**  \n  吉良義央が築いたとされる堤防は「長さ約180メートル、高さ約4メートル」。土の中に粘土を層状に混ぜ込んで水を一切漏らさないという、現代の土木工学から見ても極めて高度な工法が用いられていました。言い伝えでは「一夜にして築いた」とされ、完成後に水害がピタリと止まり、一面の美田となって黄金色の稲穂が実るようになったことから「黄金堤（こがねづつみ）」と名付けられました。\n* **歴史の裏話**  \n  吉良公は領内を視察する際、愛馬である「赤馬（あかうまと呼ばれる茶褐色の馬）」に質素な身なりで乗り、農民たちに気さくに声をかけたと伝わっています。この赤馬は現在も西尾市の伝統郷土玩具「赤馬」として親しまれています。さらに明治時代、新政府によって黄金堤の取り壊し計画が持ち上がった際、地元住民が直訴も辞さない猛反対を起こして堤防を守り抜いたという逸話があり、地域の吉良公への敬愛の深さがうかがえます。\n* **根拠・引用元**  \n  農林水産省「金色の稲穂が田んぼに彩る堤防『黄金堤』」、西尾市観光協会「黄金堤」。\n\n---\n\n## 番組用3択クイズ（発見1：石川丈山より）\n\n**【問題】**  \n安城市和泉町生まれの文人・石川丈山が、京都の別荘「詩仙堂」に日本で初めて風流な庭園の仕掛けとして取り入れた、いまや日本庭園の定番となっている装置は何でしょう？\n\n1. 水がポタポタ落ちて涼しげな金属音が響く「水琴窟（すいきんくつ）」\n2. 竹筒に水がたまると「カコーン」と石を打って鳴る「鹿威し（ししおどし）」\n3. 白砂の上に砂紋を描いて波を表現する「枯山水（かれさんすい）」\n\n**【正解】**  \n**2. 鹿威し（ししおどし）**\n\n**【解説】**  \nもともとは田畑を荒らすイノシシや鹿、鳥を追い払うための実用的な農具（添水）でしたが、石川丈山がその規則正しく響く音に風情を見出し、静けさを味わう庭園装置として詩仙堂の庭に初めて取り入れました。和泉町の「丈山苑」でも、丈山が愛したその心地よい音を聞くことができます。",
+  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、家族や知人に思わず話したくなる「科学・自然のなぜ」をテーマにした調査メモです。西三河や愛知県にゆかりの深い自然科学の話題を交えて4件まとめました。\n\n---\n\n### 1. ホタルはどうして光ってもお尻が熱くならないのか？\n（西三河・岡崎市鳥川町など、地域の清流に生息するゲンジボタルにちなんで）\n\n* **疑問の理由**  \n  白熱電球や火などの光は「熱」を伴いますが、ホタルの光は熱をほとんど出さない「生物発光（冷光：コールドライト）」という化学反応によって生み出されているためです。体内の発光物質「ルシフェリン」に発光酵素「ルシフェラーゼ」、エネルギー物質「ATP」、そして空気中の「酸素」が結合・反応することで、熱を出さずに直接光へと変換されます。\n* **具体的な数字や比較**  \n  白熱電球は投入エネルギーの約90％以上が熱として逃げ、光になるのはわずか10％程度、省エネとされるLEDでも30〜50％ほどが熱になります。これに対し、ホタルの発光効率（エネルギーを光に変える効率）は約90〜97％と驚異的な高さで、エネルギーがほぼ熱にならず光として使われます。\n* **意外な点**  \n  もしホタルが白熱電球と同じ効率で光っていたら、発光した瞬間に自身の熱で焼け焦げて火傷してしまいます。あの優しい黄緑色の光は、極限まで無駄な発熱を抑えた究極の省エネ構造のおかげで実現しています。\n* **ちょっとした歴史の裏話**  \n  19世紀末、フランスの薬学者ラファエル・デュボアがホタルの発光器官から発光物質と酵素を発見し、それぞれラテン語で「光を運ぶ者（ルシフェル）」を語源として「ルシフェリン」「ルシフェラーゼ」と命名しました。\n* **出典・根拠**  \n  大型放射光施設 SPring-8「SPring-8が明かす ホタルが発光するしくみ」 / 日本ガイシ「NGKサイエンスサイト（なぜ光る!? 生物の光が未来を救う？）」\n\n---\n\n### 2. カキツバタの花びらの真ん中にある「白い筋」は何のため？\n（安城市のお隣・知立市八橋の名勝や、愛知県の花として親しまれるカキツバタ）\n\n* **疑問の理由**  \n  カキツバタの垂れ下がった花びらの中心にある白い筋は、虫に蜜のありかを知らせる「蜜標（ネクターガイド）」と呼ばれる道しるべです。カキツバタはマルハナバチなどの昆虫に花粉を運んでもらう「虫媒花」であり、虫を奥の蜜へと的確におびき寄せるための標識として機能しています。\n* **具体的な数字や比較**  \n  よく似たアヤメ科植物は見分けるのが難しく「いずれアヤメかカキツバタ」と言われますが、この蜜標を見れば一目瞭然です。  \n  - アヤメ：黄色地に紫の「網目模様」  \n  - ハナショウブ：鮮やかな「黄色の筋」  \n  - カキツバタ：すっきりとした「白の筋（1本）」  \n  また、花びらは6枚あるように見えますが、垂れ下がった大きな3枚は実は「がく（外花被片）」で、中央に立ち上がる小さな3枚が本来の「花びら（内花被片）」です。\n* **意外な点**  \n  人間の目には単なる白い筋に見えますが、昆虫が見ている紫外線領域で見ると、背景の花びらとの明暗差が際立ち、飛行場の誘導灯のようにくっきりと浮かび上がって見えています。\n* **ちょっとした歴史の裏話**  \n  カキツバタという名前は、奈良時代にこの花の青い汁を衣服の布に擦りつけて染めていた「書付花（かきつけばな）」が訛ったものとされています。在原業平が三河国八橋（現在の知立市八橋町）で句頭に「か・き・つ・ば・た」を詠み込んだ『伊勢物語』の故事でも全国に知られています。\n* **出典・根拠**  \n  科学技術振興機構（JST）サイエンスティーム「似姿違質 アヤメ VS カキツバタ」 / 秋田県あきた森づくり活動サポートセンター「山野の花シリーズ62 アヤメ、カキツバタ」\n\n---\n\n### 3. アサリはなぜ砂を吸い込んでしまうのか？\n（西尾市や三河湾沿岸の干潟・潮干狩りで身近な海の生き物）\n\n* **疑問の理由**  \n  アサリは砂を好んで食べているわけではなく、呼吸やエサを食べる過程で「巻き込まれて入ってしまう」ためです。アサリは砂の中に身を隠し、「入水管（にゅうすいかん）」という管を砂の上に出して海水を吸い込み、エラで植物プランクトンなどを濾し取って食べていますが、波や潮流で巻き上がった砂粒も一緒に吸い込んで体内に溜まってしまいます。\n* **具体的な数字や比較**  \n  殻の大きさがわずか3cm程度のアサリ1個で、1時間に約1リットル、1日になんと「約24リットル」もの海水を吸い込んでろ過しています。内湾の海水を驚くべきペースで浄化する天然のろ過装置でもあります。\n* **意外な点**  \n  家庭で砂抜きをするとき、ボウルの底にアサリを平置きすると、一度吐き出した砂を底から再び吸い込んでしまいます。ザルを使って底から少し浮かせ、薄暗くして（砂の中にいる環境を再現して）置くことが、砂をきれいに吐かせる科学的なコツです。\n* **ちょっとした歴史の裏話**  \n  「アサリ」という名前は、浅瀬の砂を漁る（あさる）ように探すとたくさん採れたことから「漁り（あさり）」と名付けられたという説が有力です。\n* **出典・根拠**  \n  愛知県総合教育センター「教材化資料：アサリの体のしくみを探ろう」 / フジクリーン工業「水の話：アサリ（干潟における海水浄化システム）」\n\n---\n\n### 4. 虹はなぜ必ず「丸い（半円のアーチ）」になるのか？\n\n* **疑問の理由**  \n  太陽光が球形の雨粒に入ると、光は「屈折」して水滴内に入り、奥で1回「反射」し、再び「屈折」して出てきます。このとき、水滴から最も強く跳ね返ってくる角度が「約42度」と決まっているためです。自分の目と太陽を結んだ線の反対側（対日点）を中心に、角度42度になる雨粒からの光だけが目に届くため、目を中心とした円錐の底面を描くように「円形」に見えます。\n* **具体的な数字や比較**  \n  主虹が見える角度は、赤色光が約42度、青・紫色光が約40度と厳密に決まっています。地平線や地面があるため普段は「半円（アーチ状）」に遮られて見えますが、飛行機の上や高山の山頂など遮る地面がない場所から見下ろすと、360度完全な「真円（リング状）」の虹が見えます。\n* **意外な点**  \n  虹は空にある巨大な固定物体ではありません。観察者の目を頂点とした42度の角度で光が届くため、隣に立っている人と自分が見ている虹は、実は「全く別の水滴が反射した別の虹」を見ています（虹は一人ひとりに専用の像が見えています）。\n* **ちょっとした歴史の裏話**  \n  「なぜ虹は42度で丸いのか」を幾何学的に世界で初めて証明したのは、17世紀の哲学者・数学者のルネ・デカルトです。彼は巨大な球形のガラス瓶に水を満たして太陽光を当て、光の屈折と反射を追跡・計算してこの「42度の法則」を解き明かしました。\n* **出典・根拠**  \n  シーシーエス株式会社「光学の知識：第19回 虹の色」 / 宮崎放送（UMK）お天気コラム「なぜ虹はまるいのか？」\n\n---\n\n### 【ラジオ用 3択クイズコーナー案】（アサリ編）\n\n**問題：**  \n三河湾でもおなじみの「アサリ」。殻の大きさが3cmほどの小さなアサリ1個が、エサを食べるために1日に吸い込んでろ過する海水は、およそどれくらいの量でしょう？\n\n1. コップ1杯分（約200ミリリットル）\n2. 500ミリリットルのペットボトル2本分（約1リットル）\n3. 2リットルのペットボトル12本分（約24リットル）\n\n**正解：**  \n**3番（約24リットル）**\n\n**解説トーク例：**  \n「あんなに小さなアサリですが、1時間に約1リットル、1日になんと24リットルもの海水を吸い込んでプランクトンを食べています。三河湾のアサリたちは、美味しいだけでなく、毎日休まず大量の海水をきれいにしてくれている海の小さなお掃除屋さんなんですね。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9C%AC%E8%AD%89%E5%AF%BA+%E5%9F%8E%E9%83%AD%E5%AF%BA%E9%99%A2+%E4%B8%89%E6%B2%B3%E4%B8%80%E5%90%91%E4%B8%80%E6%8F%86+%E5%AE%89%E5%9F%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">本證寺 城郭寺院 三河一向一揆 安城市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%9F%B3%E5%B7%9D%E4%B8%88%E5%B1%B1+%E9%B9%BF%E3%81%8A%E3%81%A9%E3%81%97+%E8%A9%A9%E4%BB%99%E5%A0%82+%E5%AE%89%E5%9F%8E%E5%B8%82+%E4%B8%88%E5%B1%B1%E8%8B%91&client=app-vertex-grounding&safesearch=active\">石川丈山 鹿おどし 詩仙堂 安城市 丈山苑</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%9F%A5%E7%AB%8B+%E3%81%82%E3%82%93%E3%81%BE%E3%81%8D+%E6%AD%B4%E5%8F%B2+%E6%B1%A0%E9%AF%89%E9%AE%92%E5%AE%BF+%E9%A6%AC%E5%B8%82&client=app-vertex-grounding&safesearch=active\">知立 あんまき 歴史 池鯉鮒宿 馬市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%89%E8%89%AF%E4%B8%8A%E9%87%8E%E4%BB%8B+%E9%BB%84%E9%87%91%E5%A0%A4+%E5%90%8D%E5%90%9B+%E8%A5%BF%E5%B0%BE%E5%B8%82&client=app-vertex-grounding&safesearch=active\">吉良上野介 黄金堤 名君 西尾市</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%AB%E3%82%AD%E3%83%84%E3%83%90%E3%82%BF+%E3%82%A2%E3%83%A4%E3%83%A1+%E8%8A%B1%E5%BC%81+%E7%99%BD+%E6%A8%A1%E6%A7%98+%E3%82%AC%E3%82%A4%E3%83%89%E3%83%9E%E3%83%BC%E3%82%AF+%E8%9C%9C%E6%A8%99&client=app-vertex-grounding&safesearch=active\">カキツバタ アヤメ 花弁 白 模様 ガイドマーク 蜜標</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9B%E3%82%BF%E3%83%AB+%E7%99%BA%E5%85%89+%E5%8A%B9%E7%8E%87+%E7%86%B1+%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A7%E3%83%AA%E3%83%B3+%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A7%E3%83%A9%E3%83%BC%E3%82%BC&client=app-vertex-grounding&safesearch=active\">ホタル 発光 効率 熱 ルシフェリン ルシフェラーゼ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A2%E3%82%B5%E3%83%AA+%E7%A0%82+%E7%90%86%E7%94%B1+%E6%B0%B4%E7%AE%A1+%E7%A0%82%E5%87%BA%E3%81%97+%E4%BB%95%E7%B5%84%E3%81%BF+%E6%B0%B4%E7%94%A3%E6%8A%80%E8%A1%93&client=app-vertex-grounding&safesearch=active\">アサリ 砂 理由 水管 砂出し 仕組み 水産技術</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%99%B9+%E5%86%86%E5%BD%A2+%E4%B8%B8%E3%81%84+%E7%90%86%E7%94%B1+42%E5%BA%A6+%E9%9B%A8%E7%B2%92+%E5%8F%8D%E5%B0%84&client=app-vertex-grounding&safesearch=active\">虹 円形 丸い 理由 42度 雨粒 反射</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFac4oes5lXYu_7bvE4Rkkn3e9OEnDmQI0rST4Wviqzzuo0khu9EF1uuToyGipYqfHucxNwwsEnf8o9Xoe-ZN-l2KVsGp6LbRTFMiez_7rI5jjxMfKukkC5ZK4TTBgxNrUrccjn5tWraeRHBqp9SXA=",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9tKxBsH4OwEj2bYFnlU_k4vreEdadnEhYcTb9HDIddNSDq_mwEXDy4_jiGuaFRS-zpEDX1-h2ObPw_9VH9J9rondZQSgkl6uLopqiPUo7nRiLbb7T",
+          "title": "ngk.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6OfpOEuoInZq4FBrD4ZfjmkOmYxVSaLk7BTVEH3XYBHgbE8ssRnGvCUNcvwjKzHFkiKAC3fr43wmbZlG7OXEjt2qFLPEXkNl7Uw7bve0m6sPrHJtFLKCC7lSjvJT1G5iG6A2KP5J82WvK9w==",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwFBkX5KVNp3glCz7o9RdcLAA6gXahCeULeItZCfqFmTFAc3JR3qtKuJpSfiieyIIWuvn__PvZLsHOmWPlikms_0UlEpMHI5TUOfmU-WKW",
-          "title": "jozanen.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrnkipmTjAUetxELFrxdndWXcx91Rlpd84hkKDlv8feTdvTnANjI4isPauoo9fZlc5IEkkzd5hStPpXl6VR61rKZHwUdGyem1bdwc7uAJDmdT5CSOgOqOe--3PR5LjvH1zB8lL2wVMQzC2FuvC9U0qQSj482vJWV7IDV5luFYAaA==",
-          "title": "city.anjo.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRgTUtxf1Bo_TmGLuKRaAmL222akN0BBBNB2WLlIeYpi4AlRmsTKeGzTRF_UFzQ1iUAPDhap95Bn0Op1C2t3PI2qnkIdCDjQm8fFzKFeITtPo5OmHD6S9e-R6Js9EAcXgxUnmY8lPwdEWUcBDx2s=",
-          "title": "oniwa.garden"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8CbRgq9920Ote3BbtHWpGtFrwI47v9GtOtpxk82geciESxtG76ai1SOIm_jPQU2-KVQeZWNc4LFPmd90ejmSb5yQeN2i7Aj3K6wuYiS4O9tEPZQcWz59OF7ELcT-zGdMrMAxRi1SQo2mlJ7nKcy5jsTrd71y6AnIStoZI5ZxvmdpeXAYUD5-o9cxcOnM8Eg==",
-          "title": "city.anjo.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGm3kCY3qkAu5a16LIvMSyfFSYnnlzAeJ-HfLGDxrswb6IgIvu-ixznyPd4pOg5N09-54T3CmG8IeMq5KqNZp_-SbuOgE0vrl59tLLZoJnKFsdEwoxC7ld0RextV_PSXLwWooYm7Rb8yvsaYr9iy9U6dyoEZWvMULvxFoSiMCeAGdZBDVMw8BK6Af1uRNTO3gfp_JOSAVUle9uz8-rR4wkjQAewRkyyZ2OJc1746anY1n0RNosuG7p0SVXT4WeeZzDP3ICYSmmOsTXdSEuMvoiN_Ep-",
-          "title": "tutujigaoka.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjGVgs-nObYTXYOSAR4T0NrCgH9fTn395QXWcHsxF3w3AOzBZnlPzcOXXBphV9tfcqMQUSW8ycdKgDyEw0mbSUFQV1cbkX1znWGpRWw1wPLRk8h5WgRvw1zbUTQtxCUdM2bVANPstCy28p9Q==",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUiayXdBjIp_57cg-SA0WffpCtPUTlsVXPfrTaE9dm2WfzMntP7EKuyosOc1bhLTIFXHrGMvVNBSWou4eEt8SAGIAODcnJgfS5Kv5oZaUpAtyT6hJXD4CJSnbstKJdItp7SRcjalxZ-ojK05iwIeDgTQHKhOkGZPnT1zJCdzVPEAN1K2DpYF7JDcLe",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESlqL5uhYDK9TybFF_hqrih1e1hosaLCtcZPqMopBwybKuGMCq432B494_-aVHVMMi_EeDTbfXzcuKZzpCDb2iVgal2VSCJgQ6OsxVynwSTfr_--1vt2yhxuh0bdsOTVM=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTgd-v3gZrmyHQseb9RmsuJZoVTpgLgVVR8NLLJEjQuvFOBSXwnoDRuzFyGOrwVSfqJEehox2PerGlFXmGS7t-4PVs6Z2C9cD3p5ZgKxzsCWsBnmbW_ommyb8E8rYsBScSOi7l",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP-86Mi2r5cH-2nbY2M82TU3LSWCKaw_NZuozEpGigRY2QDDC-atQArEXJFRYUZZrdb8hqA2TVbhhSPhZ3F6EvZ2gOUmbrvaayALcrJzi1Jz77tta8lzFaPvGhWzmGZir7",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuDxZ0q3d-L84zgaoetOALV0yp6pqEDrne8gUXmLoC1K1JGij5wa2la4JeETyxfOHJ0PVpdkJOug0WJLW6jJmenlyPjkcJCw9jkvCzY1RD4KcPLYtb7ooQ32oocMl1_uQUEKz304hrOf8vnvE=",
+          "title": "shinkawa.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-2vsdVP9d6smkAAzgZbHRRlrOfiMy5cnJn2zlwxGZtkBHQMC_LGsv9fxopJLjIE64qk_LBdm0iCSdxUSvOm-HN8zSckFagINm9cnoVlaaj0EakpIf7OzHNIZhz8wB2y__jQCZcNvTgpeMpxbPRMrDreLyJvXS",
-          "title": "yoshinoya-anjo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOgfvCeoJEeimLUipvwcaNVrpTV3UlCdx08lkl905GdkO8IBcVNzf-XrmGyiqsolXRgm3dtaR32lEUO-SHpOgoWiGtOwfgoOCq--A7NMqH4wXAI2uxp8gtz9z2fCmnGjM=",
+          "title": "spring8.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBfYUh0MSYZdJvbyLJ_VzWhi8PylwmS9fp0vNfdpGajErw7rWZHIeqzytGguUFwiUWXP4m-mxLnfbN3Y8CfORPot_yGUcw0rJ_VyX-rxL7gARx86gKXuzX11-qT59K-495vtnQqyIzKvNjN3YNepu4OAqYux8W",
-          "title": "jr-central.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpTMZLI2iONjTtB-bR2EUYFWJ0dpSg-PFvUeYCHLhWrw8wW6yHxLyh0-TWDy6yfwxaL8jNvKEMJLFxWHyBzJeLsEwDK61AZ6JWvtzwprDc9KH3iobX3hBkZdP58FOg4GW0E-rSU93lu8C16jQgqgKaOOnST5B9kx6880eYNi-vkg==",
+          "title": "spring8.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEWFP4UKxTg7go77sufIqGQFBRjWf2yqHfVcqxDba8lcrrTFzV8jPjovpvTZYpNzlP0aukW9fMcKVL4ShG_viVVoBJGBTVLWc4F-8Uv2adUTwLfC8frRZeoQT_e8x0azb54pLzStl0ztjb72_uPXSVM46f7XL1sR9IlcU6PbFQYJb8ykYqsmWkF3GrUwR25yqcVYY=",
-          "title": "city.chiryu.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFW3lK2mpuYvMJOOtbTLuJEOOPnIXddxhLln4yCRRZabF8zmAgfwV-w5mG_L7pUh5KCcHBrlEr2A_3n2VYPJeTPbyfHd9RIgtH95Z4ByYAKJIGvnA==",
+          "title": "miyazu-et.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOOXnrs4jZFi62QhxGmolYQquAVOuUj_Ov2yd0dfsQLW3bmFFsR_iFbhiJ6iPejDB96tR1PRpvzdEtFj0aH_QkRbHzpXHIu9knEVWFF6hSuCYf2zixTupuNga-NG1tTZ3rmYakLNH9BMS0dcAnU8APSVRpuibhl4rVuop5GkkzeQmWY7DYiGWfMMNF_eQU6EwtEr4iBcAfQwP2Myfyroh-FUUjvQ==",
-          "title": "chiryu-bunka.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0kL6m7f3aekXTau10vWOgceO5ONkQ7aFl1MQHEsm2l-9W41gSyM3217mkJbHeXiechVZgvtpmevUJTzWP4HaHye1YlER7nFEKTYgecrcUfqAod9qZ_0EUDC45RCbUwgSVNmmf",
+          "title": "nissay-midori.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBCi2ew8jKE0YdPyN6LFny95qp4Ko8iDwsPV9JMJiEcZ6qFUTE5amz9xuir28eueabxOVuhAdwFuHAp634FfAGhfQ0VQY943pZekGGl4_lVPGOjvTjXxOX4PLl9p7BP_6F",
-          "title": "masa-chan.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGsDWLLRaXiULs-0FhoXY3MB_SiDhBfaSqrM43qGs2ESrjhxUAM95kKpYtsu0x3xEh1cdPJR0kGGER7X0dlZFD04xhpiXpveHIaA3cPys65pWZUbyBcqrJYgW-a7ACBHGgFM9fhqpVllLjV4Kmmk0mmmhQyw==",
+          "title": "sakata-tsushin.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsH-L4J4TNXzX8RvXkSTGDLHlaWej9nm1XRxnHYA6nQvuv0rHBDvtguhJHzIifMdp6N88cxFZXjWeFim05IEhULUiA8I3pMPj5iIq0uRwZXkkgL0UjbhUvAAVMZ4pqeAmjcESmMDwHzgelaA==",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcE56dVJP4ZHT1VC59cPNMUYIItqMmz6XgWj05DYQVgeJX6GReTWOfuoVzJhNul4K63DYMY9xRwzOB-jgR0bdHkQ44PowLwwvCSnI_AP3QbkMODGuqmM0E4WRJMUjuIm5OyULd5LJxxZJnSRsyOahXjhb7AyGDkqU91CRqm3s=",
+          "title": "jst.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwcBK_sk1Uxo3jyGYrFZnPnIRBsQDOinOOdS8ijImSeEtiWJkEYNdTStP9T9CRpTMC_OoAuIMwYl08XBh1bW4hMyJ1wR10oZCuewiL-e3OMk1ErSzOEpeO9iEaRQ==",
-          "title": "4travel.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdGuI845_ATSrFCuzaLKzYH5vq8N7KeTaMWjZ-xqCf0QK1byCVN_YdnhtcPSU1SHuXK9S3EPD_-cm5XdReNqF1b3B4pb2XOP4HIMI54cNNpzPbg5_zUg==",
+          "title": "phys-edu.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH-JEbIDqgz2jOVJfekfu4yiC_GSnGYooES8FXFO4q811m5jhfZzk6tcbuhIUviD6rvTltMV7hgnwIdWQCSYakIkts944ff-Uh_ARIOtOoy4pDGK_2wCgJacboOK6PBGehwVIRl2SRgg==",
-          "title": "bunka.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbqRmV7dSnu7Lsan5Ec1F8PNXr7DxpDZR7ie-SmUaY8KEqx-YGyLT7Ita8rY5_XwMA18Y3sBGulUFRxft7TCnQJdQKz5E7nsOgH2h8H65iA_jNGcHj8L9p30HpS7tWMkHrAdNFIRbbmIZ1UOn9ajk8IjHALTY=",
+          "title": "forest-akita.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqubdiNj3QOkLhd6u4s_EMUh5OFDUxfetpOwE39y9QNldJsYc1f4qbWLuIRUzyPcw_9TsGXnh7k7ZPdkPyYotYSwNj0FRgqCp1kSTLBJf3rywEVAp-TJkZzM3ia0XgmQ==",
-          "title": "nishiokanko.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrWoeBhdlEyLbsVdwMc4GxMh0tPax5u6lJJr1IJtG8PpGIurTBR1HzA0PzAqqXjlSdSi6jeGBK4SCkceeOCeO54A77PpGjEoePdRSOvP9snqZX0DScbBsVUMn5pKGyHAg=",
+          "title": "weathernews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpNd0mlKQfO9zeGPS4Euo6q78uDM5MptUvC2LbDYZBWvuoLoLgV2EDRDb0e3yEKEFW8TnTf9edYUxb2KmAjpN1ivtPKI7IQSRAq75VqucsDSKT_SSudo_sGCQucQeV-twYLUJTyKJKEYEO3uPOMc0xzp74XLBQTdmc9u7f_Tq-anNBRgbP-uRnyY2dLgzoY1RxlcFd0_XpV87m3BMdA5WM6PkUMyNzP9UUvp4C_dtU6eXpE4vmSukvREDUT1Vxcex4Rre9FTgbaJnyx22kWuDXxrOiKsvj6lECKyt6f2s4sasSIlyLPVAm4nVVwirM1paODYDO4SL0OfW7QYdfqmEkSUzYEgDysGinNxxWyj8uWLYgsSfgE0AZb4Ua72KIrJxeAKdN0leT-GmiFCR6UexLvZq9tgCSDHVgi9si6zFkRwoxwh1H4kpx_3f959H5FfVLTN73X-IgJegsfzy_58o32SmeMTYJ1pBWdgIymRFjRmpmMFkoKqW66HqBavy3UUkACXT4ThXvUVw2oJFr77_9bbCiXag13aBcejp5ZAaHEC3AAEsj0AVacLjEjSNXFk12rwbvGPMcvqmVSJ4XEBrw3QgDiIAfUv2YrvQnxLwDiNlyN0-zY6eO6ZaYZSLg",
-          "title": "shinobi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiJO5mSpMHhhhhvYBjPWFUXc_EmWmskc048WE-RP_O_LFjpZ-lcuPz56sE_Gzii4DW6QQA2l1NK7ImSMa8STy-xpf5IJPYCDMB3YsDCV7UNO2ZW4Mj0rlS6Gv-mrQfTaxyUyTWqpp5ZJRh62atnPrnDJd9UGySXujH_xeR2W5w",
+          "title": "plantsindex.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR8hStavfXS8kgy2k-7OXnWmWtOIthoWh1jQF4QnK8BMgQPZMqjrDF2CkVcHUPd7__huo03NHHAnWxKzFwtHzcAZRg2dZxUcczJ-nz8AJZ7vXB7l4dh_9bji27eW1Yx8uCRwO8Hz7iXEKx13ezJBBK-u6LjXQOVBJmlRuckPmOAZA=",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH24LGQMSjBDy8vIkp6thykvFjDWsZqpEhC0Rx2Gc3lHi8Z2cV3c1acG_bXi_cyzaPhhg8eaQg0yXftg-3zhOrZsGDQvyJ2Gqtap92c-StvuzZAUlJ2RFUyvPIFEVlI1pSkIsyj_siOBOTSYpLN9A-amTDNPeA1q4s=",
+          "title": "ntv.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXEu8LB5XnmpZF821Ag-eANXtJ-504dUjMi1y1xz_d6vv8p0oYSN0vgyUDe5zNU2gz6FLSMHvB8tvHpFmcRf8rp7tVZbVaVgAu88yJxbUSK-L8cTeXrE75LH7IWmr6",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX0hfL47pRcAu0VkPbrlreKGQ9s5zpe9vwyjPctcPTgFHh47I_njvit-Do2YusVzDFL9Nia1P-0EyKKzgkWCTL5gX0VIqLIAqkOyZ58YAtx7TOfMT6nBeYgaIL8qDHS_nGsevEPPCG7x9cKv2kX8nND0PFwHbXW_Qo6Kc=",
+          "title": "yahoo.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhbVHJe1KyYdXX3UdC9un_aiXUZDNlTd-KaPy3wO4Ciz-AVHLehnUkLMBXPQirh9pYA1pkM68jAmY8e-eQ-XgcQwvGVLoBhjfHgW6xkRjAq28EAOEjY9q1tsxtryEPmaLleO5-c19Gpi8SnbSb7srldN8kdA==",
+          "title": "fujiclean.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZS-DQ9KtW_ATJxyYFEPp-srqb8ME2_1yVkzz_Wr_DiixoVVaVj5DmF2EwsHZ6_IExPSRTkrqQJX1Du0cApliXE7XvnJZgy5Mj7dZbAJmOaJjKtd_WgfNxi31lcSkdi-nm1X4uUce4OtorxFKw",
+          "title": "uchinome.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0FXOSHyq_5Kaio6zTJfNS78HlvplIuaT5jJ9kIvBOiAi22dIskc36bYlnDhDMjVGx21K0OOQUt40y5JoH57JdLWrwuhMMGAYZrvqpk3hGudq9XXE7Rj6nJ1-MmHBfpg==",
+          "title": "egawa-gyokyou.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNmMBVFw1YLKOLyliXQ5sMewOfVKfifys-Y3ygTdgRZ_q3HTkWpBvd5ARaPH-5rwjlF3lkUhF-axom3vs9lqLPmWYyQbfQR8AdJBeFjukQUl_dpS1j16VowPzeZnKhfvAUPIkn2mAQ9SVBOk0=",
+          "title": "okayasanso.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEnB1SV_Zc79XQIb1taJ1_oVHMev9YvQCbJrkbBrLE6T7HTCineiRG6X4M0qw_FtfUPpAVo3SQSR7V1gVR61f5uScmV_GfkrFpBxtecPNVpLM_not_dUti4z-xL3a3jxrIQmGpepN2nR9ie7LGj1JqqSdWz4IrNZsQ3DLvjQ==",
+          "title": "aichi-c.ed.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7q-4Md2DK4pPEZHFRjdlAfhNJrwdWoA1GAi_ltIKeOesZ8618dy3WvNZwxwY5LWG-r25gNZcj15tfTgknYSxC5jF3GxqN0Js4qmqmi9HIxES_H99tIgFcGrT79A==",
+          "title": "bluehub.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg4RKYfU-PBonjfdVyyDIuzraiYCXIRO_0Qqw1ZyZRhtD-1ephIaI1P2ZYzICcbiz7r-LdnPyzqb5YgvybueENUeoXMMTXzA8y_5O_f0qqPKT8TvPrwr3D6QsSq7KN3SMtyDr_6K0=",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIqjvs92K1kQcR_8R7whSxGDWo_yxtDwynfTPgnL7IC2rliU7dPWTEZOF-jxtODWXCafbZigKHN33LTIzwua4H6NgaN7tsuuIBjdZI3C3Xr8Q=",
-          "title": "tabi-mag.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5E58BWzQjE2yt907w612QZd1sv6BHGmpBdCO--RVJtKCNQU9VzYw4Rk-A1300BMrMzrpx5XmC_P9REOX8A6TJwDIAdj_rvD-mEqhejSZQ6xD7MuJ11A==",
+          "title": "stem-atelier.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdr86eK9JQUQPwtNwUKU_qhHpp3SfrVWuoP24mEyuwa7Xxpy_sHlRGh4GReAEfh1DxDGI6qKxDyqLYivw20F1tTRrJiKAmKd6Crw4VRv7S8nLGtS1rHGY9Lmzi5gKacb49rb9N_HXO9Opl08AZIlrHRefYUWi7CYQBnJQCYiRCEt0NDVXPxIwudO6qmNe6ZwoyuUKA5SVtiqXm_Vr1hs0xTQ==",
+          "title": "reddit.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXOQTlc4UW2lYDJnWWX2v3NS2XqxhL77vbyIDrD7h8BGHc97GH05ovkoT_GOLnruev7m_z8bL-ALp3QJALzm5Ctq4wNy5SEOTK2DWW9OOG3sixBxosPZPEPAiY2Fh_xuBw1cmo",
+          "title": "umk.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH9o9u5xm-jqn-WA687y5K_NYIU32zeKNpTImQEpAGLE3zu6O9g2ZJ57Bla1hNuYdGd8T7nnFOCwGV0JLu0AnRmKActFnEin4Ol1nd1bo_quF6D_xhPk491j9DSDVzZjjqG__EsRpDVasmqnhJMMKWwMlilmHV0xYjZkkvnoVZnRyIIvpYX-K-uHecMbFexevIY3AjYQp52sh0g_jR4FlKugo2aEXdDyln",
+          "title": "reddit.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWJjMM0dt7CwcLcQNzap1Xttat_601M9RtRhaLOYKlI3UDU_9mBHSyKUFLIv_FK0Cji1QZexn4qhcqWvwmDpwKGN4VbmY-RmTso5bVmP9oCOYjkYFZfu3DW3FRidGp99Yds_9l8dVV3L-cCPJIPYxd6oII",
+          "title": "ccs-inc.co.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 716,
-          "endIndex": 884,
-          "text": "実はこれを風流な庭園装置として日本で初めて取り入れた人物が、ここ安城市和泉町生まれの人物だったことをご存じですか"
+          "startIndex": 506,
+          "endIndex": 740,
+          "text": "白熱電球や火などの光は「熱」を伴いますが、ホタルの光は熱をほとんど出さない「生物発光（冷光：コールドライト）」という化学反応によって生み出されているためです"
         },
         "groundingChunkIndices": [
-          0
+          0,
+          1,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 914,
-          "endIndex": 1044,
-          "text": "その人物は、江戸時代初期の文人・石川丈山（天正11年/1583年、現在の和泉町中本郷生まれ）です"
+          "startIndex": 743,
+          "endIndex": 986,
+          "text": "体内の発光物質「ルシフェリン」に発光酵素「ルシフェラーゼ」、エネルギー物質「ATP」、そして空気中の「酸素」が結合・反応することで、熱を出さずに直接光へと変換されます"
         },
         "groundingChunkIndices": [
           1,
@@ -244,21 +262,32 @@
       },
       {
         "segment": {
-          "startIndex": 1047,
-          "endIndex": 1392,
-          "text": "晩年に京都の一乗寺に隠棲して建てた山荘「詩仙堂」の庭園に、もともと農民が田畑を荒らす鳥獣を威嚇するために使っていた実用農具「添水（そうず）」を取り入れ、その竹が石を打つ澄んだ響きを「風流な静寂の音」として鑑賞の対象に昇華させました"
+          "startIndex": 1028,
+          "endIndex": 1213,
+          "text": "白熱電球は投入エネルギーの約90％以上が熱として逃げ、光になるのはわずか10％程度、省エネとされるLEDでも30〜50％ほどが熱になります"
         },
         "groundingChunkIndices": [
-          3,
           0,
-          2
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1434,
-          "endIndex": 1537,
-          "text": "丈山は59歳で詩仙堂を建て、当時としては驚異的な90歳の長寿を全うしました"
+          "startIndex": 1216,
+          "endIndex": 1412,
+          "text": "これに対し、ホタルの発光効率（エネルギーを光に変える効率）は約90〜97％と驚異的な高さで、エネルギーがほぼ熱にならず光として使われます"
+        },
+        "groundingChunkIndices": [
+          3,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1589,
+          "endIndex": 1724,
+          "text": "あの優しい黄緑色の光は、極限まで無駄な発熱を抑えた究極の省エネ構造のおかげで実現しています"
         },
         "groundingChunkIndices": [
           1,
@@ -267,64 +296,19 @@
       },
       {
         "segment": {
-          "startIndex": 1540,
-          "endIndex": 1761,
-          "text": "平成8年（1996年）には、生誕地である和泉町に詩仙堂や丈山ゆかりの庭園を本格再現した「丈山苑」が開苑し、現在も苑内でその趣深い鹿威しの響きを体感できます"
+          "startIndex": 2098,
+          "endIndex": 2188,
+          "text": "大型放射光施設 SPring-8「SPring-8が明かす ホタルが発光するしくみ」"
         },
         "groundingChunkIndices": [
-          3,
-          0,
-          2,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1791,
-          "endIndex": 1935,
-          "text": "風流な漢詩人・作庭家として知られる丈山ですが、若い頃は徳川家康の近習として仕えた屈強な武将でした"
-        },
-        "groundingChunkIndices": [
-          3,
-          1,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1938,
-          "endIndex": 2207,
-          "text": "33歳の「大坂夏の陣」で先陣争い（一番乗り）をして軍令違反に問われ、謹慎処分を受けたことをきっかけに武士の身分を捨て、学問と風雅の道へ転身したという、意外な「武闘派」の過去があります"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2240,
-          "endIndex": 2288,
-          "text": "安城市公式ウェブサイト「丈山苑」"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2240,
-          "endIndex": 2342,
-          "text": "安城市公式ウェブサイト「丈山苑」、丈山苑公式ページ「丈山苑について」"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2240,
-          "endIndex": 2417,
-          "text": "安城市公式ウェブサイト「丈山苑」、丈山苑公式ページ「丈山苑について」、愛知県公式観光サイト「あいち歴史観光（丈山苑）」"
+          "startIndex": 2254,
+          "endIndex": 2293,
+          "text": "生物の光が未来を救う？）」"
         },
         "groundingChunkIndices": [
           0
@@ -332,194 +316,184 @@
       },
       {
         "segment": {
-          "startIndex": 2808,
-          "endIndex": 2898,
-          "text": "なぜお寺がまるで「戦国の城」のような姿をしているのでしょうか"
+          "startIndex": 2528,
+          "endIndex": 2714,
+          "text": "カキツバタの垂れ下がった花びらの中心にある白い筋は、虫に蜜のありかを知らせる「蜜標（ネクターガイド）」と呼ばれる道しるべです"
         },
         "groundingChunkIndices": [
           5,
-          6
+          6,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 2928,
-          "endIndex": 3098,
-          "text": "本證寺は、徳川家康の生涯における「三大危機」の一つに数えられる「三河一向一揆（1563〜1564年）」の最大の中心拠点でした"
+          "startIndex": 2717,
+          "endIndex": 2918,
+          "text": "カキツバタはマルハナバチなどの昆虫に花粉を運んでもらう「虫媒花」であり、虫を奥の蜜へと的確におびき寄せるための標識として機能しています"
         },
         "groundingChunkIndices": [
-          7,
-          6
+          5,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 3101,
-          "endIndex": 3416,
-          "text": "当時、寺の領地は「守護使不入（しゅごしふにゅう）」という、大名の警察権や徴税権が及ばない治外法権の特権を持っていたため、領主である若き家康と激しく対立し、自衛と戦いのために「城郭寺院」へと要塞化していったのです"
+          "startIndex": 2960,
+          "endIndex": 3128,
+          "text": "よく似たアヤメ科植物は見分けるのが難しく「いずれアヤメかカキツバタ」と言われますが、この蜜標を見れば一目瞭然です"
         },
         "groundingChunkIndices": [
-          8,
+          9,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3138,
+          "endIndex": 3186,
+          "text": "アヤメ：黄色地に紫の「網目模様」"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3193,
+          "endIndex": 3244,
+          "text": "ハナショウブ：鮮やかな「黄色の筋」"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3251,
+          "endIndex": 3315,
+          "text": "カキツバタ：すっきりとした「白の筋（1本）」"
+        },
+        "groundingChunkIndices": [
+          10,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3320,
+          "endIndex": 3542,
+          "text": "また、花びらは6枚あるように見えますが、垂れ下がった大きな3枚は実は「がく（外花被片）」で、中央に立ち上がる小さな3枚が本来の「花びら（内花被片）」です"
+        },
+        "groundingChunkIndices": [
+          5,
           7,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3458,
-          "endIndex": 3679,
-          "text": "発掘調査によると、内堀だけでなく、かつての寺内町を取り囲む外堀は「東西約320メートル×南北約310メートル」という平城に匹敵する広大な規模を誇っていました"
+          "startIndex": 3860,
+          "endIndex": 4058,
+          "text": "カキツバタという名前は、奈良時代にこの花の青い汁を衣服の布に擦りつけて染めていた「書付花（かきつけばな）」が訛ったものとされています"
         },
         "groundingChunkIndices": [
-          7,
-          5
+          10,
+          12,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 3682,
-          "endIndex": 3862,
-          "text": "現在も水堀や土塁、櫓（やぐら）のような太鼓楼が残り、その歴史的価値の高さから平成27年（2015年）に国の史跡に指定されています"
+          "startIndex": 4280,
+          "endIndex": 4387,
+          "text": "科学技術振興機構（JST）サイエンスティーム「似姿違質 アヤメ VS カキツバタ」"
         },
         "groundingChunkIndices": [
-          5,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4280,
+          "endIndex": 4510,
+          "text": "科学技術振興機構（JST）サイエンスティーム「似姿違質 アヤメ VS カキツバタ」 / 秋田県あきた森づくり活動サポートセンター「山野の花シリーズ62 アヤメ、カキツバタ」"
+        },
+        "groundingChunkIndices": [
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 3892,
-          "endIndex": 4072,
-          "text": "この一揆の恐ろしいところは、家康の家臣団までもが「主君への忠誠」と「信仰」の間で引き裂かれ、家中が真っ二つに割れた点です"
-        },
-        "groundingChunkIndices": [
-          8,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4075,
-          "endIndex": 4303,
-          "text": "後に家康の天下取りを支える名参謀・本多正信や、三方ヶ原の戦いで身代わりとなって戦死する夏目吉信らも、この時は本證寺側について家康に銃口を向けて戦いました"
-        },
-        "groundingChunkIndices": [
-          8,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4336,
-          "endIndex": 4405,
-          "text": "安城市公式ウェブサイト「本證寺境内（国史跡）」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4336,
-          "endIndex": 4474,
-          "text": "安城市公式ウェブサイト「本證寺境内（国史跡）」、安城市観光協会「家康公特設サイト（本證寺）」"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4670,
-          "endIndex": 4754,
-          "text": "西三河のソウルフードとして愛される知立の名物「あんまき」"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4757,
-          "endIndex": 4940,
-          "text": "東海道三十九番目の宿場町だった池鯉鮒（ちりゅう・現知立市）で、なぜ小豆餡を小麦の皮で巻いた和菓子が名物になったのでしょうか"
+          "startIndex": 4694,
+          "endIndex": 4847,
+          "text": "アサリは砂を好んで食べているわけではなく、呼吸やエサを食べる過程で「巻き込まれて入ってしまう」ためです"
         },
         "groundingChunkIndices": [
           13,
-          12
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5057,
-          "endIndex": 5201,
-          "text": "江戸時代の池鯉鮒周辺は台地のため水利に恵まれず水田が少なかった一方、小麦や小豆の栽培が盛んでした"
+          "startIndex": 4850,
+          "endIndex": 5174,
+          "text": "アサリは砂の中に身を隠し、「入水管（にゅうすいかん）」という管を砂の上に出して海水を吸い込み、エラで植物プランクトンなどを濾し取って食べていますが、波や潮流で巻き上がった砂粒も一緒に吸い込んで体内に溜まってしまいます"
         },
         "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5204,
-          "endIndex": 5435,
-          "text": "さらに、池鯉鮒宿の松並木周辺では日本屈指の「馬市（うまいち）」が毎年開かれ、集まった大勢の商人や旅人に手軽で腹持ちの良い軽食として提供されたのが始まりです"
-        },
-        "groundingChunkIndices": [
-          14,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5477,
-          "endIndex": 5802,
-          "text": "江戸時代の『東海道名所図会』によると、毎年旧暦4月25日から5月5日までの馬市には、信濃や甲斐など遠方からも「400〜500頭」もの馬が集まり、歌川広重の浮世絵『東海道五十三次 池鯉鮒 首夏馬市』にもその大賑わいの様子が描かれています"
-        },
-        "groundingChunkIndices": [
-          14,
           15,
-          16
+          16,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 5805,
-          "endIndex": 6054,
-          "text": "この活気の中で生まれた素朴な菓子が、明治22年（1889年）頃に「小松屋本家」によって現在の形に整えられ、さらに「藤田屋」の「大あんまき」として西三河全域へ広がっていきました"
+          "startIndex": 5216,
+          "endIndex": 5393,
+          "text": "殻の大きさがわずか3cm程度のアサリ1個で、1時間に約1リットル、1日になんと「約24リットル」もの海水を吸い込んでろ過しています"
         },
         "groundingChunkIndices": [
-          12
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6084,
-          "endIndex": 6183,
-          "text": "当時の宿場町の繁栄は、木綿の集積地であったことと深く関係しています"
+          "startIndex": 5396,
+          "endIndex": 5489,
+          "text": "内湾の海水を驚くべきペースで浄化する天然のろ過装置でもあります"
         },
         "groundingChunkIndices": [
-          14,
-          16
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 6186,
-          "endIndex": 6519,
-          "text": "三河木綿を各地へ運ぶ荷馬の需要が高まり、それに伴って馬市が発展し、馬の売買価格を決める「談合松（だんごうまつ）」の周りで馬喰（ばくろう）たちが腹ごしらえにあんまきを頬張っていたという、街道の活気ある情景が今に伝わっています"
+          "startIndex": 5516,
+          "endIndex": 5675,
+          "text": "家庭で砂抜きをするとき、ボウルの底にアサリを平置きすると、一度吐き出した砂を底から再び吸い込んでしまいます"
         },
         "groundingChunkIndices": [
-          14,
-          15,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 6552,
-          "endIndex": 6642,
-          "text": "知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」"
+          "startIndex": 5678,
+          "endIndex": 5855,
+          "text": "ザルを使って底から少し浮かせ、薄暗くして（砂の中にいる環境を再現して）置くことが、砂をきれいに吐かせる科学的なコツです"
+        },
+        "groundingChunkIndices": [
+          18,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5903,
+          "endIndex": 6101,
+          "text": "「アサリ」という名前は、浅瀬の砂を漁る（あさる）ように探すとたくさん採れたことから「漁り（あさり）」と名付けられたという説が有力です"
         },
         "groundingChunkIndices": [
           13
@@ -527,137 +501,9 @@
       },
       {
         "segment": {
-          "startIndex": 6552,
-          "endIndex": 6702,
-          "text": "知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」、知立市文化協会「池鯉鮒の馬市について」"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6552,
-          "endIndex": 6799,
-          "text": "知立市公式ウェブサイト「東海道五十三次 39番目の宿場町池鯉鮒」、知立市文化協会「池鯉鮒の馬市について」、文化庁文化遺産オンライン「東海道五拾三次之内・池鯉鮒 首夏馬市」"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7001,
-          "endIndex": 7178,
-          "text": "歌舞伎や時代劇『忠臣蔵』では浅野内匠頭を追い詰める「大悪役」として描かれる吉良上野介義央（きらこうずけのすけよしひさ）"
-        },
-        "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7181,
-          "endIndex": 7391,
-          "text": "しかし、お隣の西尾市吉良町では、今でも「吉良さん」と親しみを込めて呼ばれ、領民を愛した屈指の「名君」として尊敬されているのをご存じでしょうか"
-        },
-        "groundingChunkIndices": [
-          21,
-          22,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7421,
-          "endIndex": 7643,
-          "text": "領地が毎年のように河川の氾濫による大水害に苦しんでいたのを見かねた吉良義央が、私財を投じ、領民を守るための大規模な堤防を築くなど善政を敷いたためです"
-        },
-        "groundingChunkIndices": [
-          19,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7685,
-          "endIndex": 7785,
-          "text": "吉良義央が築いたとされる堤防は「長さ約180メートル、高さ約4メートル」"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7788,
-          "endIndex": 7962,
-          "text": "土の中に粘土を層状に混ぜ込んで水を一切漏らさないという、現代の土木工学から見ても極めて高度な工法が用いられていました"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7965,
-          "endIndex": 8220,
-          "text": "言い伝えでは「一夜にして築いた」とされ、完成後に水害がピタリと止まり、一面の美田となって黄金色の稲穂が実るようになったことから「黄金堤（こがねづつみ）」と名付けられました"
-        },
-        "groundingChunkIndices": [
-          19,
-          21,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8250,
-          "endIndex": 8463,
-          "text": "吉良公は領内を視察する際、愛馬である「赤馬（あかうまと呼ばれる茶褐色の馬）」に質素な身なりで乗り、農民たちに気さくに声をかけたと伝わっています"
-        },
-        "groundingChunkIndices": [
-          22,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8466,
-          "endIndex": 8565,
-          "text": "この赤馬は現在も西尾市の伝統郷土玩具「赤馬」として親しまれています"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8568,
-          "endIndex": 8841,
-          "text": "さらに明治時代、新政府によって黄金堤の取り壊し計画が持ち上がった際、地元住民が直訴も辞さない猛反対を起こして堤防を守り抜いたという逸話があり、地域の吉良公への敬愛の深さがうかがえます"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8874,
-          "endIndex": 8952,
-          "text": "農林水産省「金色の稲穂が田んぼに彩る堤防『黄金堤』」"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8874,
-          "endIndex": 8991,
-          "text": "農林水産省「金色の稲穂が田んぼに彩る堤防『黄金堤』」、西尾市観光協会「黄金堤」"
+          "startIndex": 6131,
+          "endIndex": 6227,
+          "text": "愛知県総合教育センター「教材化資料：アサリの体のしくみを探ろう」"
         },
         "groundingChunkIndices": [
           19
@@ -665,41 +511,137 @@
       },
       {
         "segment": {
-          "startIndex": 9081,
-          "endIndex": 9315,
-          "text": "安城市和泉町生まれの文人・石川丈山が、京都の別荘「詩仙堂」に日本で初めて風流な庭園の仕掛けとして取り入れた、いまや日本庭園の定番となっている装置は何でしょう"
+          "startIndex": 6131,
+          "endIndex": 6329,
+          "text": "愛知県総合教育センター「教材化資料：アサリの体のしくみを探ろう」 / フジクリーン工業「水の話：アサリ（干潟における海水浄化システム）」"
         },
         "groundingChunkIndices": [
-          3,
-          0
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 9701,
-          "endIndex": 9986,
-          "text": "もともとは田畑を荒らすイノシシや鹿、鳥を追い払うための実用的な農具（添水）でしたが、石川丈山がその規則正しく響く音に風情を見出し、静けさを味わう庭園装置として詩仙堂の庭に初めて取り入れました"
+          "startIndex": 6443,
+          "endIndex": 6597,
+          "text": "太陽光が球形の雨粒に入ると、光は「屈折」して水滴内に入り、奥で1回「反射」し、再び「屈折」して出てきます"
         },
         "groundingChunkIndices": [
-          0
+          20,
+          21,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 9989,
-          "endIndex": 10094,
-          "text": "和泉町の「丈山苑」でも、丈山が愛したその心地よい音を聞くことができます"
+          "startIndex": 6600,
+          "endIndex": 6716,
+          "text": "このとき、水滴から最も強く跳ね返ってくる角度が「約42度」と決まっているためです"
         },
         "groundingChunkIndices": [
-          0
+          23,
+          20,
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6719,
+          "endIndex": 6946,
+          "text": "自分の目と太陽を結んだ線の反対側（対日点）を中心に、角度42度になる雨粒からの光だけが目に届くため、目を中心とした円錐の底面を描くように「円形」に見えます"
+        },
+        "groundingChunkIndices": [
+          20,
+          24,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6988,
+          "endIndex": 7100,
+          "text": "主虹が見える角度は、赤色光が約42度、青・紫色光が約40度と厳密に決まっています"
+        },
+        "groundingChunkIndices": [
+          20,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7103,
+          "endIndex": 7364,
+          "text": "地平線や地面があるため普段は「半円（アーチ状）」に遮られて見えますが、飛行機の上や高山の山頂など遮る地面がない場所から見下ろすと、360度完全な「真円（リング状）」の虹が見えます"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7454,
+          "endIndex": 7717,
+          "text": "観察者の目を頂点とした42度の角度で光が届くため、隣に立っている人と自分が見ている虹は、実は「全く別の水滴が反射した別の虹」を見ています（虹は一人ひとりに専用の像が見えています）"
+        },
+        "groundingChunkIndices": [
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8131,
+          "endIndex": 8203,
+          "text": "シーシーエス株式会社「光学の知識：第19回 虹の色」"
+        },
+        "groundingChunkIndices": [
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8131,
+          "endIndex": 8281,
+          "text": "シーシーエス株式会社「光学の知識：第19回 虹の色」 / 宮崎放送（UMK）お天気コラム「なぜ虹はまるいのか？」"
+        },
+        "groundingChunkIndices": [
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8812,
+          "endIndex": 8843,
+          "text": "**3番（約24リットル）**"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8873,
+          "endIndex": 9046,
+          "text": "「あんなに小さなアサリですが、1時間に約1リットル、1日になんと24リットルもの海水を吸い込んでプランクトンを食べています"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9049,
+          "endIndex": 9226,
+          "text": "三河湾のアサリたちは、美味しいだけでなく、毎日休まず大量の海水をきれいにしてくれている海の小さなお掃除屋さんなんですね"
+        },
+        "groundingChunkIndices": [
+          15
         ]
       }
     ],
     "webSearchQueries": [
-      "本證寺 城郭寺院 三河一向一揆 安城市",
-      "石川丈山 鹿おどし 詩仙堂 安城市 丈山苑",
-      "知立 あんまき 歴史 池鯉鮒宿 馬市",
-      "吉良上野介 黄金堤 名君 西尾市"
+      "カキツバタ アヤメ 花弁 白 模様 ガイドマーク 蜜標",
+      "ホタル 発光 効率 熱 ルシフェリン ルシフェラーゼ",
+      "アサリ 砂 理由 水管 砂出し 仕組み 水産技術",
+      "虹 円形 丸い 理由 42度 雨粒 反射"
     ]
   }
 }
