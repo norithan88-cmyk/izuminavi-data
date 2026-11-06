@@ -1,278 +1,211 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "科学・自然のなぜ",
-  "characters": 2302,
-  "estimated_minutes": 7,
+  "theme": "週末のお出かけ・楽しみ",
+  "characters": 2099,
+  "estimated_minutes": 6.4,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "清流の魚アユはスイカのような爽やかな香りがしますが、その成分の一つは人間の何と同じでしょうか。1番、赤ちゃんの頭の匂い。2番、お父さんの加齢臭。3番、みおんの電子回路が焦げた匂い。",
-    "answer": "正解は2番、加齢臭でした！トランス-2-ノネナールという同じ物質なんやさ。お父さんにアユの香りがするねって言ったら怒られるけな！",
+    "question": "日本唯一の２階建てゴンドラがある新穂高ロープウェイ。実は最初の計画では、山を越えてどこまで直結させるというとんでもない構想だったでしょうか。１番、長野県の上高地。２番、富山県の黒部ダム。３番、富士山頂。",
+    "answer": "正解は１番の長野県の上高地！北アルプスの山々を一気にまたぐ予定だったんだって。もし実現してたら、神岡からロープウェイ一本で上高地へお出かけできてたかもね！",
     "source_ids": [
-      2,
-      6,
-      8
+      8,
+      11,
+      13
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_z69i-i1GTPDFaGoNTD93WngDUH3g91XnqDKpPtRLGQXtHqxDTalJ0BWOZ0_5yE6YbGzBUn4pG03HYCJ9qSoma9Nkigd8PAbjFK6FSz4tVKRkTl2Ts-UHuP-8C7_qwLrWIKriXkceCHMFVoORUYEqUrxf8csUXYGDtQt5A65g5SlVia3PUnD7Rc5jHefiHuVQUaQ47TXj1_mo11zk6LoRLdu0zDz0QozOCmn_zMNV0wE_VzekMtJl9i4lIzSU24iMkvpnbtjcA_YH_Ip-koWw4NDOqt7u4cLzl6l-6QUN7WJhhpQoiWZxzJqc8bJfPoFOZtGN7O6yPScF1UvdEwsDJVl42FQY1sD8EjbncsNZ4A==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiA9-niIGmDw7176E9HEFyuw_4X-GmXQGBMKUw9MAjLS-XW59AJofnVTa8bjDSY9SQ8-lBrs68RjcbTfnf6Hjm4DqqFWEZx3pL54w2zb4tpCYK-6RM9PQ2FwzkjR0DyOYsQFnFlYZio4HznZDpcau3IoGz9i1AZT3dU9PmGGs3Q4D2In5bU1jcIUGAuKgTCHdNuU-42OKXUsiACD-aLJsc8-0AlRcUqI9ArDekYy8nTOat4_uQwZdXajNEXhrE70wHcbvxFL8yV0LkzA9U3Rw-93vSS8wNpiC7R2ZgLF21Mk_4GlszukwRzzCIn-Ei_4QToNxk3_BP0zC6qGkQTfGLLQwzByhKL8viL_0Uo5WJz-YSoD8aglI=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcfBEiyNhULwwWw0Lt0Mpa08bIYl-wE_pOGW3zdbUeyi20noENGT8XL0jVwXvsDoheFZqJxU434a5kR9Aa3D9sH-rJHT7J0q9L8LFsujpNSkqfqjFohBNZANf7f-gZsYN-594="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3_hKD45_Z5tsFqZTeS_fIJ5m8If23u-AiR-iekjOLeVKnNVSBjJydGLPfB5xwRY5FphtJqmYlWJQLlf5JaTFa2kKCj5_DzUZGNLrcNauACIzAI0_advIpkbRoKj_StgEEdcxYqnmC1ldrMI6jO2W6x0cXpRNk3ZAtFBk55b5dti9kCIpPD--vypQ8FUUHQJVO9p6k2gTtwbfGzdOo_j7Iqs_3yb934Bfmjr4GSltq-s=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bR3NigavbNRjFajECClGIPj3uHgcLOGosEcNdrywCT0GyBmW-iJto4wOsAswTDWbl5HANqigCxkrpz8LaVZgcNdVwjJZ-DhAF5leXAhrxNfTqP-urt0kWW-S",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwzDFVCWYR2oDvR17hKIRVlDP19If-BufCiLZyobSWu4-Dgdt88Y0FzEDi3qYwkU8PnyuHC3I8SdnssBr5S_Iz1IrgJEu7u3NmWe_98FYqKCYkdJoJEX-YI9CjcyxZ0wuTS8="
     ]
   },
   "izumi": {
-    "text": "神岡の誇り、地下1000メートルにあるスーパーカミオカンデ！初代カミオカンデが1983年に動き始めて1996年まで観測しとったんやけど、そのスケールアップっぷりがとんでもないんやさ。初代は純水が3000トン、光をとらえる光電子増倍管が1000本やったのが、1996年4月に観測を始めたスーパーカミオカンデは、なんと純水が約16倍の5万トン！光のセンサーも約1万3000本！…ちょっと待って、5万トンって水の量、桁が違いすぎて想像つかんわ！今ならSNSで「神岡の地下に巨大水たまり出現」って大バズりしとるレベルやろー！でもこの桁外れのスケールだからこそ、1998年に大気ニュートリノの観測からニュートリノ振動を発見できて、当時の所長の梶田隆章さんが2015年にノーベル物理学賞を受賞したんやさね。初代でも1987年2月23日に超新星爆発からのニュートリノを世界初観測して、小柴昌俊さんが2002年にノーベル賞をもらっとるから、神岡の山の中から2回もノーベル賞が出とるんやよ。今は純水にレアアースを加えて観測しとるし、次は純水26万トン、センサー4万本のハイパーカミオカンデが2020年代後半の実験開始を目指しとるんやって。世界中の科学者が神岡に注目しとるなんて、めちゃくちゃ胸を張れる最高の自慢やさね！",
+    "text": "神岡を語るならこの人を外すわけにはいかんよね！戦国時代に茂住や和佐保の銀山や銅山を切り拓いた男、茂住宗貞のお話やさ。１５５９年から１６４２年まで生きた人物で、神岡を「鉱山の町」へと押し上げた、いわば初代社長みたいな存在なんだって！戦国時代の飛騨は、もともと江馬氏が神岡を治めとって、そのあと金森氏の領地になったんだけど、宗貞さんはその激動の時代に鉱山の開発に全力を注いだわけ。これ、現代で例えたら、社長交代とか会社の買収劇に巻き込まれながらも「自分は山を掘って町を潤すんだ！」って事業を大成功させた超敏腕プロデューサーやろー！もし今なら、経済番組に引っ張りだこで特集されて、ビジネス雑誌の表紙を飾っとったはずやさ。神岡鉱山といえば、後に亜鉛や鉛、銀などを産出して日本を支える大鉱山になって、２００１年に採掘を終えたあとは、地下にスーパーカミオカンデが作られて世界の宇宙物理学の聖地になったよね。そんな世界的な拠点の歴史をぐーんと遡ると、なんと戦国時代の茂住宗貞にたどり着くんだからロマンがすごすぎん！？神岡の地下に眠る奇跡の物語は、この初代社長の熱い挑戦から始まったんやさ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-water",
-      "hook": "地下1000メートルに5万トンの水。初代の約16倍、光のセンサー1万3000本というスケール感"
+      "id": "mine-sadamune",
+      "hook": "戦国時代の茂住宗貞。銀山を開いた、いわば神岡の初代社長"
     }
   },
   "local": {
-    "text": "11月7日の土曜日、道の駅スカイドーム神岡の感謝祭で、神岡中学校の生徒が考案した特別なカレーが販売されるんやさ！飛騨スパイスカレー研究所の協力で完成したカレーで、市内産の有機野菜やお米、地鶏など、飛騨の恵みと中学生のアイデアが詰まった一皿になっとるよ。ぜひ味わってみてね！",
+    "text": "明日１１月７日の土曜日は、道の駅スカイドーム神岡で「スカイドーム神岡感謝祭」が開催されます！神岡中学校の生徒が考案した飛騨市産食材を使った特別なカレーも販売されるんだって。さらに「神岡化石フォーラム２０２６」も同じ日に開催されるよ。週末のお出かけにぴったりやさね！",
     "source_ids": [
-      35,
-      37
+      24,
+      25,
+      26
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
+      "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
       "https://www.city.hida.gifu.jp/soshiki/57/88534.html"
     ]
   },
   "segments": [
     {
-      "topic": "足元に20億年前のタイムカプセル！？七宗町の上麻生礫岩ミステリー",
-      "text": "飛騨川の河原に転がっとる石って、普通の石に見えるやろー？でも実は、岐阜県七宗町の飛水峡にある「上麻生礫岩」には、日本列島の常識を覆す大物が潜んどるんやさ！日本列島はプレートの動きでできたから、地層の多くは数千万年から数億年前と比較的新しいんやけど、七宗町のこの岩の中には、なんと約20億年前という桁違いに古い石の粒が含まれとるんやよ！…えっ、ちょっと待って！20億年前！？地球が生まれて約46億年やから、歴史の半分近く生きとるやん！聞いてないんだけど！さらに名古屋大学の分析では、微小な鉱物ジルコンから30億年から35億6000万年前という超古代の記録まで出とるんやさ。なんでそんな太古の石があるかというと、日本列島がアジア大陸の一部だった中生代ジュラ紀、約1億6000万年から2億年前に、大陸奥地の20億年前の岩が削られ、大河で運ばれて砂泥と一緒に固まったからなんやって。つまり、比較的新しい岩石のタイムカプセルに、20億年前の石が具材として入っとる入れ子構造なわけ！これ、1970年に大学院生だった足立守さんが、地質調査の帰りに「まだ見てない河原があるけどどうしよう」と迷って立ち寄り偶然発見したんだって。帰り道の寄り道で日本最古を見つけちゃうなんて奇跡すぎるやろー！足元の石も、ひょっとしたら地球の長老かもしれんよ！",
+      "topic": "飛騨の「みだらし団子」はなぜ甘くない？",
+      "text": "週末のドライブやお出かけで高山や古川へ行くと、香ばしい匂いに誘われてついつい買っちゃうのが「みだらし団子」やさね！でも、ちょっと待って？全国のみたらし団子って、砂糖と醤油に片栗粉でとろみをつけた「甘辛い餡」がたっぷりかかっとるよね。なのに、飛騨のみだらし団子は「生醤油」を塗って直火で香ばしく焼くだけ。甘みが一切ないやさ！初めて食べた県外の人が「えっ、甘くないんだけど！？」って目を丸くするやつ。…って、実は全国の甘辛い団子のほうが後から流行った新しいスタイルで、飛騨の甘くない醤油味こそが、みたらし団子の本来の原形なんだって！京都の下鴨神社から昔伝わってきた当時の素朴な焼き団子の味が、飛騨の人の好みにぴったり合って、大正時代に京都で甘い餡が大流行してもブレずにずっと守り続けられたらしいよ。全国ではスイーツ扱いだけど、飛騨ではお米１００パーセントの小粒な５玉に生醤油だから、おやつというより焼きおにぎりみたいな軽食・主食感覚！「みたらし」じゃなくて濁って「みだらし」って呼ぶのも愛着があっていいよね。週末に出かけたら、この日本最古の味を噛み締めながら一本食べまい！",
       "source_ids": [
-        21,
-        23,
-        24
+        2,
+        3,
+        4
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED5iBAyFlywKwdFXYKVqCsFk9h_h1k22y2vgguket23H4ybBI9sEteD-gGWmm0WhbQOWPyK72LXqk_OA54ufCdh2ZuhSiwHLV4m2jAQxrB-SXnjn1e4F2FLNbzBRdYC5s-IYTxrWa01f6KfA4BB4XN3SGC",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6vHegnZiObLNyO_0xFjHO494nrM1jv4h6pHsd2Gf7vBFUyKcvOAmvqBakl6q8IFXKo3wbZTm_BnlpKaxTbMJRMti2zuanLUIFSSAtP9-7TNabr28wXLDCytDafjE_Az6zfjhII-ZgKLA=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xIosrdbbNHf3Sj-5uMt7cBsVb_JDbgaYFCVk5fB-e4NvyJv_Fn0wx-KI9NrR0ZgOWpi7aT50nf8fkVXz7K1haSNo568dUFAlPCv9G9y_0EbL9O5ZCw5vyYsIEEkD-GErArRVd-SgURgAZcrhRJx86F--BrrYOGIA"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWYis0q-RvLZoYAjesA_NRrkT3FIqSf0lGlMrQ7JZRH6bUkrQ99lSVJQBV8gE7wxb3K_obbv15t9RJIJg8NBZmyScE9MJh2OaFveadKIscDPsJlL4kfgJofOZ4ilwcddu7zuXqlwm-SPIOlPM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFORACZBPXnrQhmEKBDFlCN2nYPhFu56EaNCsaS_OfBGWeB65QNNVHZY15E4G_XbANK-XWgnPSd7eFTKzKqDy7Daz2XcsRWhWMofjEbazQSc7NCbJGQBxtPYla2",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnf2_WIq3u62CQxDDT556uHK7bTAkSjDLjWw0G_zsw2Z4bZHi6arWY6o_Ix2SUOlyMHmKd_-vMPFy7DHEwNM7eFLkhSfVPAomIqf8S3c886fDc_b4k_EiOeEaa4sbMutrpcVpH"
       ]
     },
     {
-      "topic": "起きたら春が終わってた！？「春の女神」ギフチョウの驚異の二度寝",
-      "text": "石の長生きにも驚いたけど、生き物の「二度寝」の記録も負けとらんのやさ。岐阜県の名がついた美しいアゲハチョウ「ギフチョウ」。春に舞う姿から「春の女神」と呼ばれるけど、その生活がめちゃくちゃ極端なんやさ！成虫として飛べるのは、なんと1年のうちわずか10日から2週間程度！地域全体でも1か月弱くらいなんやよ。じゃあ残りの300日以上は何をしとるかというと、土際や落ち葉の下でサナギのまま、ずーっと眠り続けとるんやって！10か月以上寝て2週間だけ起きるって、どんだけ二度寝が好きなんやろー！みおんなら完全に怒られるやつやさ。しかも天候不順のリスクに備えて、一部のサナギは1年どころか、2冬、3冬と何年も眠り続ける「長期休眠」っていうウルトラ二度寝スキルまで持っとるんやよ！何年越しの目覚まし時計なんやろーね。これを発見したのが、1883年に岐阜県祖師野、今の下呂市金山町で採集した名和靖さん。岐阜公園にある日本最古の昆虫専門博物館、名和昆虫博物館を作ったレジェンドやさ。農家を苦しめる害虫被害を見て、人の役に立つ研究をしようと立ち上がった情熱の人なんやって。春の女神の優雅な姿の裏には、何百日もの超人的なお昼寝があったなんてびっくりやろー？今度春に見かけたら「よく起きたねー！」って声をかけてあげまい！…って使い方合っとる？",
+      "topic": "秋の森でキャラメルの匂い！？カツラの落ち葉のミステリー",
+      "text": "お団子の香ばしい匂いも最高だけど、秋の森の匂いも不思議やさ！この時期、週末に紅葉狩りや山歩きをしとると、周りにカフェも屋台もないのに、どこからか「焼きたてのキャラメル」や「わたあめ」みたいな甘ーい匂いがふわっと漂ってくること、ない？「えっ、山奥で誰かプリン作っとるの！？」って鼻をクンクンさせちゃうやつ。あれ、幻覚でも誰かのつまみ食いでもなくて、実は「カツラ」の木の落ち葉の匂いなんだって！春や夏の青い葉っぱのときは全然匂わないのに、秋になって葉っぱが黄色くなって地面に落ちてカラカラに乾燥すると、細胞の中で「マルトール」っていう甘い香気成分が一気に生まれるらしいよ。その量、なんと乾燥した葉っぱの重さの約２パーセントにもなるんだとか！このマルトール、実際にお菓子やパンの香料として使われとる本物の甘い香り成分だから、私たちの鼻が「キャラメルだ！」って反応するのは科学的に百点満点の大正解やさ。木についてる葉っぱをもいでも無臭で、地面でパリッと乾いた落ち葉を踏んだときに一番強く香るんだって。週末に森を歩くときは、足元の黄色いハート型の葉っぱをぜひ探してみてね！",
       "source_ids": [
-        14,
-        15,
-        17
+        12,
+        14
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY5i_KRRLHblSu6ixdFxdG6ZZI7yJ2rm-LeBjS7hpj3olWV8bl8DjqRjrccOpZmfVNr_arN7MNvvKT75n8dRdJBgsQxL3p_ze8rCzsT8zDDbfpoKWlUzwSOR9zGcTOZtAM0gKstxUiBzqJgkNqBUoJ7wBaSPuTiMiGXlIJI277_VMwl2U8XcNvHSPbB7f_m8s9",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdgjTJoqSM0YZ7mECtdkqAsTVdUD-eTlnO2cRlnTwLyKrqdaDfdc9AkKVUUKskN0cPzgzvote-LlABRF8O6a7qcBzHZ7_4BwrWUSB9XMwSBacQQ5YhpCqcaRgqQdQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXLp9ypmTb2auos5mJ7PSxuBq2ca1Xxm7dbujcYgIvcma7P-iOs18X_lZ6DOkEUosO0AjqegeW-Lwwsq78_DC5OyKKwJyM0bgDKLt3ayu8mgRJ3Xf3MqOF2fLZXTfhg6o="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPl4bBfBIfkCR75PcdXQZA9wKgb5tf24OGLdlolaMjsqtJsDLjWi74Y6R4EIm_dXmpnOkUeSrIwzpNpz4SQLxt2xyPf-8n_kL9AbRMWZuUkWP1-yoHMw8WxQ3LfSELnBm5zkgBscL0GebetvBubZZ4kAlwri_4Ug==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpg-qTF1WivIMWJzADP1hl0uFOcSCmIlG1mI6dNtpyFwQ7Jqs0AvBjRBFMwZ3Y744VgJAxWU-_uDej47x05fjMAUJnc5aeQY3TzaZBk0WeTZmtHQF0GLb2_IIWIc-KNoJZdVDyOZE6qA=="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、身近な自然や岐阜の豊かな自然・大地にまつわる「科学・自然のなぜ」をテーマにした調査メモを作成しました。家族で思わず話したくなる驚きの科学的根拠や歴史のエピソードを交えています。\n\n---\n\n# 「科学・自然のなぜ」ラジオ放送用リサーチメモ\n\n---\n\n## 1. なぜアユは魚なのに「スイカやキュウリ」の爽やかな香りがするのか？\n\n### 【理由（メカニズム）】\nアユは別名「香魚（こうぎょ）」と呼ばれます。アユが清涼感のある独特な香りを放つのは、川底の石に付着した「珪藻（けいそう）」などの藻類を主食としているためです。珪藻には高度不飽和脂肪酸が多く含まれており、アユがこれを消化・吸収したあと、体内の酵素（リポキシゲナーゼなど）によって酸化・分解される過程で、スイカやキュウリに似た揮発性の香り成分（不飽和アルコールやアルデヒド類）が皮膚などで生成されます。\n\n### 【具体的な数字や比較】\nアユの体から立ち上る香り成分を分析すると、実に**約51種類**もの成分が検出されます。キュウリのような香りの主成分は「キュウリアルコール」や「キュウリアルデヒド」と呼ばれる化合物です。人工配合飼料で育つ養殖アユに比べて、川石の良質な天然のコケをたっぷり食べて育った天然アユのほうが、この香り成分が強く際立ちます。\n\n### 【意外な点】\nアユの爽やかなスイカ・キュウリの香り成分の一つに含まれる「トランス-2-ノネナール」という物質は、実は**人間の「加齢臭」の主成分と全く同一の化学物質**です。濃度の違いや他の青葉アルコールなどの配合比率によって、人間には「清涼感のある爽やかなスイカの香り」として心地よく感じられます。\n\n### 【ちょっとした歴史の裏話】\n中国では、アユは生まれてから1年で一生を終えることから古くから「年魚（ねんぎょ）」と呼ばれていました。しかし、日本の清流に育つアユがあまりにも芳醇で甘い芳香を放つことから、日本では平安時代などの古文書にも「香魚」という独自の美しい雅名が当てられ、夏の風物詩として珍重されてきました。\n\n* 出典・根拠：独立行政法人水産総合研究センター（現・水産研究・教育機構）研究資料、つくばね鮎毛鉤研究所（魚類香気成分分析）、食の科学解説資料\n\n---\n\n## 2. なぜ「春の女神」ギフチョウは岐阜で発見され、蛹（サナギ）のまま何年も眠れるのか？\n\n### 【理由（メカニズム）】\n岐阜県の名を冠する日本固有の美しいアゲハチョウ「ギフチョウ」。成虫として春の野山を美しく舞うのはわずか数週間で、その後産卵を終えると、初夏から翌年の春までの長い期間をサナギの状態でじっと過ごします（休眠）。さらに自然界の寒暖差や天候不順のリスクに備え、一部のサナギは1年だけでなく**2冬・3冬と何年も続けて休眠し続ける「長期休眠（複数年休眠）」**という驚異的なサバイバル能力を持っています。\n\n### 【具体的な数字や比較】\nギフチョウが美しい羽を広げて成虫として活動できるのは**1年のうちわずか10日から2週間程度**（地域全体でも3月下旬〜4月下旬の約1か月弱）です。残りの**300日以上（約10か月以上）を土際や落ち葉の下のサナギの状態でじっと耐えて**過ごします。この驚くべき生態のため、春の訪れを一瞬だけ告げて去る「春の女神（スプリング・エフェメラル）」と呼ばれます。\n\n### 【意外な点】\nこれほど鮮やかで特徴的な縞模様を持つアゲハチョウが、江戸時代までの長い歴史の中で公式に新種として見落とされていた理由は、まさに「春先の極めて短い期間、山間部にしか姿を現さない」ためでした。\n\n### 【ちょっとした歴史の裏話】\nギフチョウを1883（明治16）年に岐阜県祖師野（現・下呂市金山町祖師野）で採集・新種発見したのは、日本の昆虫学の先駆者である**名和靖（なわ やすし）**です。岐阜公園にある**「名和昆虫博物館」（大正8年開館）は、現存する日本最古の昆虫専門博物館**として知られています。名和靖はもともと昆虫好きの少年でしたが、農家を苦しめる害虫被害を目の当たりにし、「農業と人々の生活に役立つ昆虫研究をしたい」と志して昆虫研究所を立ち上げたという実学の歴史があります。\n\n* 出典・根拠：名和昆虫博物館公式記録、岐阜市公式「名和昆虫博物館」解説、日本応用動物昆虫学会等（ギフチョウの蛹休眠性研究）\n\n---\n\n## 3. なぜ日本列島に「20億年前」の石があるのか？（岐阜県七宗町のミステリー）\n\n### 【理由（メカニズム）】\n日本列島は、プレートの沈み込みによって海底の堆積物や火山島などが大陸の縁に押し付けられてできた「付加体」がベースになっているため、列島そのものの地層は数千万年〜数億年前と比較的新しいものです。しかし、岐阜県加茂郡七宗町（ひちそうちょう）の飛騨川河床に見られる「上麻生礫岩（かみあそうれきがん）」には、約20億年前という桁違いの古い年代を示す片麻岩の小石（礫）が含まれています。これは、中生代ジュラ紀（約1億6000万〜2億年前）に日本列島がまだアジア大陸の一部だった時代、北方の大陸内部にあった20億年前の基盤岩が削られ、大河によって河口に流し込まれて砂泥と一緒に固まったためです。\n\n### 【具体的な数字や比較】\n地球の年齢は約46億年ですが、この石は約**20億年前（先カンブリア時代）**のものです。日本列島で一般的に見られる岩石の大半が数千万年〜数億年前であることを考えると、ケタ違いの古さです。さらに名古屋大学の超微小領域年代測定（CHIME法）による分析では、この岩石の中に含まれる微小な鉱物「ジルコン」から、**約30億年〜35億6000万年前**という超古代の年代値まで確認されています。\n\n### 【意外な点】\n「日本最古の石」と呼ばれる岩石ですが、**岩石全体（礫岩）ができた時期は約1億6000万〜2億年前**であり、**その中に埋め込まれている小石の粒だけが20億年前のもの**という「入れ子構造」のタイムカプセルになっています。\n\n### 【ちょっとした歴史の裏話】\nこの岩石は、1970（昭和45）年3月、当時名古屋大学の大学院生だった足立守氏（現名誉教授）によって発見されました。七宗町の飛水峡で地質調査を終えて帰ろうとした際、「まだ見ていない河原の箇所があるが、どうしようか」と迷った末に立ち寄ったことで偶然発見されたという、まさに奇跡的なドラマから見つかったものです。現在、七宗町には「日本最古の石博物館」が建てられています。\n\n* 出典・根拠：岐阜県博物館 収蔵資料データベース（資料ID:120195 上麻生礫岩）、産業技術総合研究所 地質調査総合センター（5万分の1地質図幅「金山」）、名古屋大学基盤研究部門年代測定研究部、七宗町公式ホームページ\n\n---\n\n## 4. なぜ冬の朝、霜柱は地面から「ニョキニョキ生えて」小石を持ち上げるのか？\n\n### 【理由（メカニズム）】\n冬の朝、地面からニョキニョキと生える「霜柱（しもばしら）」。空中の水蒸気が葉や地面に凍りつく「霜」とは全く異なり、**土の中の水分が凍ったもの**です。地表が氷点下まで冷え込み、地中が0℃以上のプラスの温度に保たれているとき、土の粒の隙間にある水が**「毛細管現象（細い管を液体が重力に逆らって吸い上げられる現象）」**によって地表へと吸い上げられます。地表に届いた水が次々に凍り、その根元に下から上がってきた水が加わって凍ることで、すでに凍っている氷をグイグイと下から押し上げていくため、柱状に伸びていきます。\n\n### 【具体的な数字や比較】\n氷の柱は下からどんどん新しい水が供給されて凍るため、長いものでは**10cm以上**にまで成長することがあります。成長する氷の圧力は非常に強力で、地表にある土の粒だけでなく、数ミリ〜数センチの重い小石まで軽々と上に持ち上げてしまいます。\n\n### 【意外な点】\n霜柱はつららのように「上から下に向かって垂れ下がって凍る」のではなく、**「一番下の根元で凍りながら、上の氷を空に向かって押し上げている」**という真逆の伸び方をします。霜柱のてっぺんをよく見ると必ず黒っぽい土がちょこんと乗っているのは、地面の表面がそのまま持ち上げられた証拠です。また、雪が積もる地域では雪が布団（断熱材）になって地表が冷え切らないため、実は豪雪地帯よりも「冬に晴天が多く放射冷却で冷え込む地域」の火山灰土などでよく発達します。\n\n### 【ちょっとした歴史・科学の裏話】\n霜柱が土を持ち上げる力は、地球物理学では**「凍上（とうじょう）」**と呼ばれます。畑の土をサクサクに耕してくれる自然の恵みでもある一方、寒冷地では土を持ち上げる強大な力によって道路を波打たせたり、建物の基礎や線路を押し曲げてしまう破壊的な力としても知られ、長年土木工学の研究対象になってきました。\n\n* 出典・根拠：名古屋市科学館（NGKサイエンスサイト「氷が土からはえてくる！？」佐伯平二学芸員監修）、ウェザーニュース「冬の風物詩、霜柱にまつわる豆知識」\n\n---\n\n# ラジオで出せる！3択クイズ（アユの香りの秘密編）\n\n**パーソナリティの出題例：**\n「さて、ここで飛騨の清流の魚・アユにまつわるサイエンスクイズです！\nアユは『香魚』と呼ばれるほど、スイカやキュウリのような清涼感のある良い香りがすることで有名ですよね。\n実はこのアユの良い香りの成分、人間の“あるニオイ”と全く同じ物質であることが科学的に分かっています。それは一体、次のうちどれでしょう？」\n\n* **第1問（A）：赤ちゃんの頭の甘い匂い**\n* **第2問（B）：お父さんたちの「加齢臭」**\n* **第3問（C）：激しい運動をした後の「汗の匂い」**\n\n---\n\n**【正解】**\n**第2問（B）のお父さんたちの「加齢臭」**\n\n**【解説トークのポイント】**\n「なんと正解はBの『加齢臭』なんです！\nアユが石のコケを食べることで体内で作られる爽やかなスイカの香り成分の中には、『2-ノネナール』という物質が含まれています。実はこれ、大人の加齢臭の原因物質と化学的に全く同じ成分なんだそうです。\n匂いというのは不思議なもので、濃度の違いや他の若草のような香り成分と混ざることで、アユでは『なんて爽やかで美味しそうな香りなんだ！』と感じるんですね。今度ご家族でお父さんに何か言われたら、『お父さん、清流のアユと同じ香り成分が出ているよ！』とフォローしてあげてみてはいかがでしょうか！」",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、晩秋（11月上旬）の「週末のお出かけ・楽しみ」をテーマにした調査メモを作成しました。家族や友人に思わず話したくなる「へえ、そうだったのか！」という4つのトピックです。\n\n---\n\n# 週末のお出かけ・行楽がもっと楽しくなる調査メモ（4選）\n\n---\n\n### 1. 飛騨の「みだらし団子」はなぜ甘くない？ 〜全国の甘辛ダレとは真逆の素朴な醤油味〜\n\n* **疑問**  \n  週末に高山や古川へ出かけると必ず立ち寄りたくなる団子屋さん。全国のみたらし団子はとろりとした甘辛い餡（葛餡）が定番なのに、なぜ飛騨のみだらし団子は「甘くない生醤油のつけ焼き」なのでしょうか？\n* **理由**  \n  実は「醤油だけで香ばしく焼く」スタイルこそが、みたらし団子の本来の原形です。京都から伝わった当時の素朴な焼き団子の味が、飛騨の風土や人々の好みに合致し、時代が変わってもそのまま受け継がれたためです。\n* **具体的な数字や比較**  \n  全国で一般的なみたらし団子は「醤油＋砂糖＋葛粉（片栗粉）」でできた甘いとろみ餡を絡めますが、飛騨の団子は米粉（うるち米等）100％の団子に「生醤油」を刷毛で塗り、直火で焦げ目をつけるだけ。甘み成分を足さないため、ご飯とお醤油のような香ばしさと米本来のほのかな甘みが際立ちます。串に刺さる玉の数は、関西の5玉文化を受け継ぐ一口サイズの小粒5玉が主流です。\n* **意外な点**  \n  地元では「みたらし」と澄んだ発音ではなく、「み**だ**らし」と濁って呼ばれます。全国の感覚では「和スイーツ」ですが、飛騨ではおやつというより「小腹を満たす軽食・主食感覚」として愛されてきました。\n* **歴史の裏話**  \n  みたらし団子のルーツは京都の下鴨神社（御手洗祭）の神饌菓子とされ、当時は生醤油のつけ焼きでした。現在全国に広まる甘辛いタレは、大正時代に京都の茶屋（加茂みたらし茶屋）が黒砂糖を使って考案し爆発的に流行した比較的新しいものです。飛騨には大正以前の古い製法が伝わった後、甘いタレに染まることなく「お醤油の焼き立てが一番旨い」という素朴な文化がそのまま残りました。\n* **出典・根拠**  \n  * コイケコーポレーション（小池風流軒）「みたらし団子の歴史」\n  * 高山グリーンホテル 観光情報webマガジン「陣屋だんご」\n\n---\n\n### 2. なぜ日本で唯一？ 新穂高ロープウェイ「2階建てゴンドラ」の誕生秘話\n\n* **疑問**  \n  神岡からも近い奥飛騨温泉郷の名所「新穂高ロープウェイ」。ここで運行されている「2階建てゴンドラ」は日本でここだけですが、なぜ2階建てという珍しい構造が選ばれたのでしょうか？\n* **理由**  \n  北アルプスの険しい尾根を登る山岳ロープウェイでは、定員を増やそうと車体を横や前後に大型化すると、横風の影響を強く受けて運行停止リスクが高まり、駅舎や支柱などの設備も大規模化して中部山岳国立公園の自然環境に負荷をかけてしまいます。横に広げず「縦に重ねる（2階建て）」ことで、風の抵抗と設備負荷を抑えつつ一度に大量の乗客を安全に運ぶ技術的解決策として導入されました。\n* **具体的な数字や比較**  \n  新穂高ロープウェイ（第2ロープウェイ）は、しらかば平駅（標高1,308m）から西穂高口駅（標高2,156m）までの高低差約848mを一気に登ります。第1・第2を合わせた総高低差は1,035m、全長3,171mと日本屈指のスケールです。乗車定員は105名（1998年の初代2階建てゴンドラは121名）を誇り、2階建てゴンドラは日本全国のロープウェイの中で新穂高の1箇所のみです。\n* **意外な点**  \n  2階建てゴンドラは展望の良さだけでなく、乗車位置によって体験が全く異なります。2階席は遮るもののない大パノラマと浮遊感が味わえ、1階席は迫り来る岩肌や原生林の近さを体感できる設計になっています。\n* **歴史の裏話**  \n  1960年代初頭の設立当初、奥飛騨開発公社が掲げていた当初の計画は、なんと新穂高から穂高連峰の稜線を越え、長野県の「上高地（河童橋付近）」までロープウェイを直結させるという壮大な越境ルート（西穂高ロープウェイ構想）でした。国立公園保護や過酷な気象条件との長期の協議を経て現在の千石尾根ルートへと変更され、1970年に開業しました。\n* **出典・根拠**  \n  * 奥飛観光開発株式会社 公式note「標高2000mの絶景へ。新穂高ロープウェイ誕生秘話」（2026年9月）\n  * 新穂高ロープウェイ公式HP「ロープウェイの歴史」\n  * 岐阜女子大学 デジタルアーカイブ研究所「新穂高ロープウェイ」\n\n---\n\n### 3. 秋の森でキャラメルの匂い！？ カツラの落ち葉が甘く香る化学の不思議\n\n* **疑問**  \n  秋の週末に飛騨の山林や公園の遊歩道を歩いていると、売店もないのにふと「焼きたてのキャラメル」や「綿菓子」のような甘いお菓子の匂いが漂ってくることがあります。なぜ木の葉からお菓子の香りがするのでしょうか？\n* **理由**  \n  香りの正体は「カツラ（桂）」の落ち葉です。葉が黄色く色づいて落葉し乾燥する過程で、細胞内で「マルトール」という香気成分が生成され、大気中に揮発するためです。\n* **具体的な数字や比較**  \n  春から夏にかけての青々とした緑の葉にはマルトールはほとんど含まれていません。葉が寿命を迎え、黄色くなって地面でカラカラに乾燥すると急増し、乾燥葉の重さの約2％近くに達することもあります。マルトールは実際にパンやお菓子、香料の製造過程で甘い風味を引き立てる成分として広く使われており、人間の鼻が「キャラメルの香り」と認識するのは極めて正確な反応です。\n* **意外な点**  \n  木についている生きた葉をもいでも全く甘い香りはしません。地面に落ちてパリッと乾いた落ち葉を踏んだり、手にとって揉んだりした瞬間に最も強い香りを放ちます。\n* **歴史の裏話**  \n  昔の人々もこの香りに気付いており、東北地方などではカツラの木を「お香の木」「しょうゆの木」「まっこー（抹香）の木」と呼んでいました。乾燥させたカツラの葉を粉末にし、お線香やお香の貴重な原料（つなぎ・香料）として古くから利用していました。「カツラ」という名前自体も、甘い香りが出る「香出（かづ）る」に由来するという語源説があります。\n* **出典・根拠**  \n  * 国立研究開発法人 森林研究・整備機構 森林総合研究所 多摩森林科学園「カツラの甘い香り」\n  * 日本植物生理学会 植物Q&A「カツラの甘い香り」\n\n---\n\n### 4. 武田軍を全滅の危機から救った！？ 平湯温泉の「白猿伝説」と火山ガス\n\n* **疑問**  \n  週末の温泉ドライブでおなじみの奥飛騨温泉郷・平湯温泉。開湯伝説に登場する「白い猿」のモニュメントや民話を見かけますが、なぜ白猿が温泉を見つける話が今に伝わっているのでしょうか？\n* **理由**  \n  戦国時代、武田信玄の軍勢が北アルプス越えの過酷な行軍中、活火山の火山ガス（毒霧）に巻き込まれて倒れた際、傷を負った白猿が湯だまりに浸かって元気に飛び去るのを目撃し、兵士たちも入浴して命を救われたという出来事が起源とされているためです。\n* **具体的な数字や比較**  \n  平湯温泉は標高約1,250mに位置し、奥飛騨温泉郷の中で最も古い歴史を持つ温泉地です。現在も温泉街周辺には約40本もの豊富な源泉井戸があり、毎分膨大な湯量を誇っています。\n* **意外な点**  \n  単なるおとぎ話ではなく、江戸時代末期に飛騨国の歴史や地理を記録した公的な地誌『飛州志（ひしゅうし）』の「平湯温泉記」にも、武田軍の落命危機と老いた白猿の導きが正式に記録されています。\n* **歴史の裏話**  \n  永禄年間、信濃から飛騨・越中への侵攻を命じられた武田の猛将・山県昌景（やまがたまさかげ）の軍勢は、難所である安房峠を越える際に硫黄岳（現在の焼岳山系）の火山性ガスに巻かれ、呼吸困難と疲労でバタバタと倒れ全滅寸前でした。極限状態の中で出会った温泉の温熱と豊かなミネラルが、硫黄ガスで傷ついた兵士たちの呼吸器や疲弊した体を蘇らせました。大自然の脅威と恵みが表裏一体となった、飛騨山脈ならではのリアルな歴史が背景にあります。\n* **出典・根拠**  \n  * 岐阜女子大学 デジタルアーカイブ研究所「平湯温泉（飛州志・平湯温泉記）」\n  * 一般社団法人 奥飛騨温泉郷観光協会「平湯温泉の歴史と伝説」\n\n---\n\n# ラジオ用 3択クイズコーナー案\n\n**【問題】**  \n奥飛騨温泉郷にある「新穂高ロープウェイ」は、日本で唯一の2階建てゴンドラが人気です。  \n実は、1960年代初頭の計画が始まった当初、北アルプスを越えて「ある超有名観光地」までロープウェイを直結させようというとんでもない壮大な構想がありました。その行き先とは、次のうちどこでしょう？\n\n1. 長野県の「上高地（河童橋付近）」\n2. 富山県の「黒部ダム」\n3. 富士山の山頂\n\n---\n\n**【正解】**  \n**1. 長野県の「上高地（河童橋付近）」**\n\n**【解説トークのポイント】**  \n1961年に奥飛騨開発公社が設立された当初のプロジェクト名は「西穂高ロープウェイ構想」でした。新穂高温泉から西穂高の稜線を越え、長野県信州側の上高地・河童橋の西側まで、穂高連峰を一気にまたいで岐阜県と長野県を結ぶという前代未聞の計画だったのです。  \nその後、国立公園の自然保護や過酷な気象条件を考慮して現在のルートに変更され、1970年に開業しました。もし最初の計画通りだったら、神岡や奥飛騨から上高地までロープウェイ一本で行き来できていたかもしれませんね！",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%AE%E3%83%95%E3%83%81%E3%83%A7%E3%82%A6+%E5%90%8D%E5%92%8C%E6%98%86%E8%99%AB%E5%8D%9A%E7%89%A9%E9%A4%A8+%E7%99%BA%E8%A6%8B+%E6%AD%B4%E5%8F%B2+%E4%BC%91%E7%9C%A0&client=app-vertex-grounding&safesearch=active\">ギフチョウ 名和昆虫博物館 発見 歴史 休眠</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A2%E3%83%A6+%E3%82%AD%E3%83%A5%E3%82%A6%E3%83%AA+%E3%82%B9%E3%82%A4%E3%82%AB+%E9%A6%99%E3%82%8A+%E7%90%86%E7%94%B1+%E7%8F%AA%E8%97%BB+%E4%B8%8D%E9%A3%BD%E5%92%8C%E8%84%82%E8%82%AA%E9%85%B8&client=app-vertex-grounding&safesearch=active\">アユ キュウリ スイカ 香り 理由 珪藻 不飽和脂肪酸</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%8F%A4%E3%81%AE%E7%9F%B3+%E4%B8%83%E5%AE%97%E7%94%BA+20%E5%84%84%E5%B9%B4+%E7%94%A3%E7%B7%8F%E7%A0%94+%E4%B8%8A%E9%BA%BB%E7%94%9F%E7%A4%AB%E5%B2%A9&client=app-vertex-grounding&safesearch=active\">日本最古の石 七宗町 20億年 産総研 上麻生礫岩</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9C%9C%E6%9F%B1+%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0+%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1+%E3%81%AA%E3%81%9C+%E7%94%9F%E3%81%88%E3%82%8B&client=app-vertex-grounding&safesearch=active\">霜柱 メカニズム 毛細管現象 なぜ 生える</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%AB%E3%83%84%E3%83%A9+%E8%90%BD%E3%81%A1%E8%91%89+%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%81%AE%E9%A6%99%E3%82%8A+%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%83%AB&client=app-vertex-grounding&safesearch=active\">カツラ 落ち葉 キャラメルの香り マルトール</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E3%81%BF%E3%81%9F%E3%82%89%E3%81%97%E3%81%A0%E3%82%93%E3%81%94+%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84+%E9%86%A4%E6%B2%B9+%E7%90%86%E7%94%B1+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">飛騨 みたらしだんご 甘くない 醤油 理由 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E7%A9%82%E9%AB%98%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4+%E6%97%A5%E6%9C%AC%E5%94%AF%E4%B8%80+2%E9%9A%8E%E5%BB%BA%E3%81%A6%E3%82%B4%E3%83%B3%E3%83%89%E3%83%A9+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">新穂高ロープウェイ 日本唯一 2階建てゴンドラ 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B9%B3%E6%B9%AF%E6%B8%A9%E6%B3%89+%E7%99%BD%E7%8C%BF%E4%BC%9D%E8%AA%AC+%E6%AD%A6%E7%94%B0%E4%BF%A1%E7%8E%84+%E5%B1%B1%E7%9C%8C%E6%98%8C%E6%99%AF+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">平湯温泉 白猿伝説 武田信玄 山県昌景 歴史</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_z69i-i1GTPDFaGoNTD93WngDUH3g91XnqDKpPtRLGQXtHqxDTalJ0BWOZ0_5yE6YbGzBUn4pG03HYCJ9qSoma9Nkigd8PAbjFK6FSz4tVKRkTl2Ts-UHuP-8C7_qwLrWIKriXkceCHMFVoORUYEqUrxf8csUXYGDtQt5A65g5SlVia3PUnD7Rc5jHefiHuVQUaQ47TXj1_mo11zk6LoRLdu0zDz0QozOCmn_zMNV0wE_VzekMtJl9i4lIzSU24iMkvpnbtjcA_YH_Ip-koWw4NDOqt7u4cLzl6l-6QUN7WJhhpQoiWZxzJqc8bJfPoFOZtGN7O6yPScF1UvdEwsDJVl42FQY1sD8EjbncsNZ4A==",
-          "title": "kaminagaseyana.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWYis0q-RvLZoYAjesA_NRrkT3FIqSf0lGlMrQ7JZRH6bUkrQ99lSVJQBV8gE7wxb3K_obbv15t9RJIJg8NBZmyScE9MJh2OaFveadKIscDPsJlL4kfgJofOZ4ilwcddu7zuXqlwm-SPIOlPM=",
+          "title": "takayama-gh.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaEgVJzSVdfqP68OOFTuVpPXkHwb9h4pysAt_EyLZ6fhXHz5Vb_OPjEnUS-l1HyHOqrZzJ0wUSRpgxjvngLYsTDIW5nMuWq78wQW4VF1mw3NxAV7DVId0YtxjfXTWf7Xqow12Xd7THN8yQcIsKlxFO8QoxH5KpwxijQ4DHlOJF_JlTy9qwXvBeGbc=",
-          "title": "u-tokyo.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFORACZBPXnrQhmEKBDFlCN2nYPhFu56EaNCsaS_OfBGWeB65QNNVHZY15E4G_XbANK-XWgnPSd7eFTKzKqDy7Daz2XcsRWhWMofjEbazQSc7NCbJGQBxtPYla2",
+          "title": "mitarashi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvbcufS46s6lrPDm3dSolQh1DlwUg0FFgVapVOPK_j9-eOxNSRbUonzDzGCC2R5nkTqBFhUDKPF19qNzvl11kNA69pIsx7IJxlb4ROECe6-_i0Tmv2C0WyUDYNuvdzzxgX8xM7UGYpPU9L6qM=",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnf2_WIq3u62CQxDDT556uHK7bTAkSjDLjWw0G_zsw2Z4bZHi6arWY6o_Ix2SUOlyMHmKd_-vMPFy7DHEwNM7eFLkhSfVPAomIqf8S3c886fDc_b4k_EiOeEaa4sbMutrpcVpH",
+          "title": "koikef.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH068UDiyvIS3X7tf_pBnrhDN6_3PGs0no0OCLJTwK0ZQQO7sFHC1DT-a2U1FHBWgh5Fe-PWcSTkXk1913IkOphg9jFlUnj7OLLFne2kz_tyvrCIi691Au_d6YN5n--KTDLGMEIng==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsYii2Ez7Arer4YdPhv1J1iWAXRRTotEdJFdQKyureMHOc-tV3qRR-aRps2B1QGvU7IDkiT-eBSVs09LxAF2I6PPBQA_qP-xSGRFsRe5dA9v_vnJmLiQWyrQzY_b_aETsvSCk=",
+          "title": "hotel-around.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7w-J6e1A9OH2JfH9aLJRo6Ovap5K4WqkLJCvfwG1IJLlMYz2kCA0VI7yHlY84oqE2xBsSoZkHngr216VTZ7ZCiFq4KIlAub_KL9rfV6AISGS_UE5NNb-6LCkH7vmF0BI=",
+          "title": "meitetsu.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBEHybP6AR7NL5AsThgRM103qYvORxtucTvHFcjy1CKKwPhY0YuUeFJnK7Ip1koL1S6VZ2SHgMeimQEorGjgnPWsAOY1TupSjht5tsvUuo6nXhqISmAOy0d28YhhcLLEGYDKtUrZCkg94NVlvDERyXkdcPZftbktgqAaXToyylQj1hDBkGF4xFuLXjX09wW1ssnlfNycGToo9bTH7UgKumj4QbMA==",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3_hKD45_Z5tsFqZTeS_fIJ5m8If23u-AiR-iekjOLeVKnNVSBjJydGLPfB5xwRY5FphtJqmYlWJQLlf5JaTFa2kKCj5_DzUZGNLrcNauACIzAI0_advIpkbRoKj_StgEEdcxYqnmC1ldrMI6jO2W6x0cXpRNk3ZAtFBk55b5dti9kCIpPD--vypQ8FUUHQJVO9p6k2gTtwbfGzdOo_j7Iqs_3yb934Bfmjr4GSltq-s=",
+          "title": "digitalarchiveproject.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzgdUKtOLa7RtDlBz15fBX2U4B3aQwtEqK-O0qZEYQZ_WC7Z6QSVfy3OC_biwGptbZx1Eku6Bdyw7KnLn76VR1sKp_4xz-QhcyCEYoHqUxWU0L1FkN1g==",
+          "title": "trafficnews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-7GIHjP67F9g5_MPkUn1A0S1JSb04IpnkzIydMw_0e7k4G_3wbzfha0Dh14YjNo62GttChq1Mznw-P-w2AwXNwBay7RstdriKyr1x9lfrVvTzGKxYMzwSdUGcMLf7vOAHg21p8vPeodTTwsNb7yR2WNYB3eRKB0=",
+          "title": "trip.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bR3NigavbNRjFajECClGIPj3uHgcLOGosEcNdrywCT0GyBmW-iJto4wOsAswTDWbl5HANqigCxkrpz8LaVZgcNdVwjJZ-DhAF5leXAhrxNfTqP-urt0kWW-S",
+          "title": "shinhotaka-ropeway.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPl4bBfBIfkCR75PcdXQZA9wKgb5tf24OGLdlolaMjsqtJsDLjWi74Y6R4EIm_dXmpnOkUeSrIwzpNpz4SQLxt2xyPf-8n_kL9AbRMWZuUkWP1-yoHMw8WxQ3LfSELnBm5zkgBscL0GebetvBubZZ4kAlwri_4Ug==",
+          "title": "ffpri.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwzDFVCWYR2oDvR17hKIRVlDP19If-BufCiLZyobSWu4-Dgdt88Y0FzEDi3qYwkU8PnyuHC3I8SdnssBr5S_Iz1IrgJEu7u3NmWe_98FYqKCYkdJoJEX-YI9CjcyxZ0wuTS8=",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiA9-niIGmDw7176E9HEFyuw_4X-GmXQGBMKUw9MAjLS-XW59AJofnVTa8bjDSY9SQ8-lBrs68RjcbTfnf6Hjm4DqqFWEZx3pL54w2zb4tpCYK-6RM9PQ2FwzkjR0DyOYsQFnFlYZio4HznZDpcau3IoGz9i1AZT3dU9PmGGs3Q4D2In5bU1jcIUGAuKgTCHdNuU-42OKXUsiACD-aLJsc8-0AlRcUqI9ArDekYy8nTOat4_uQwZdXajNEXhrE70wHcbvxFL8yV0LkzA9U3Rw-93vSS8wNpiC7R2ZgLF21Mk_4GlszukwRzzCIn-Ei_4QToNxk3_BP0zC6qGkQTfGLLQwzByhKL8viL_0Uo5WJz-YSoD8aglI=",
-          "title": "yokohama-maruuo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpg-qTF1WivIMWJzADP1hl0uFOcSCmIlG1mI6dNtpyFwQ7Jqs0AvBjRBFMwZ3Y744VgJAxWU-_uDej47x05fjMAUJnc5aeQY3TzaZBk0WeTZmtHQF0GLb2_IIWIc-KNoJZdVDyOZE6qA==",
+          "title": "jspp.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGes66ZcIzR1j3naqdDP64ZUKYgdjxE8uzN-oxlKSp3SdQKTJPJUsIkvIgXIfW1ns_1iuH8tVTpFQl9nKbRkWXSXrH20oGF0xb0fm_i7PFGAhOs009QcFc7BFOfzSBc",
-          "title": "love-spo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMTwzbgfwc1vBfzJnqg9MuRyAeAlwtC9QzwmW9KBG5wbDS3NXLpYnNcOsjrZJbzxsKyZHN-8Lug3aNxtRdcJUQaQlODwVXDrIWmRx-aXVKMKmDH9sNL_0f-qAXn0WlDv9Sa-iRjKe7o1yeB0iJHS7-_X3DP8w7uyASNt3dWCZWDJKIkbhgRiE=",
+          "title": "digitalarchiveproject.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcfBEiyNhULwwWw0Lt0Mpa08bIYl-wE_pOGW3zdbUeyi20noENGT8XL0jVwXvsDoheFZqJxU434a5kR9Aa3D9sH-rJHT7J0q9L8LFsujpNSkqfqjFohBNZANf7f-gZsYN-594=",
-          "title": "ogata-ayu.online"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk7PggTKoJ8s7Dne8cG4PKEOFRRACuhKmoRGoi_UsVkhk48bV32bZzCZY_6Jxw0OulnU-xvzbOG-3N1wOM2lPk9XZTH3I0JW2RWZVdOq-KVQctbrUlCijtHpstT_OvU4A9zobjIfMmQw==",
+          "title": "iza-yoi.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExPUqFdwi1mMMXkLDr87LUIpVthkaoCJJS5Ca-73Rdm3Dl2FLkIpQR9en0p3N1V84RTJBnIt6P4UaD3jGFyyngAVMOSQUM00iupj9ZvyNShAL35lKb5oC68oedRMh02XXX5Ybmb0M=",
-          "title": "flat-gifu.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGPaSvY1ATDW0_z1mHlCSp9hlPJmSyOjWg0NHlwN-TM_XA63reS-j8BIiA0GWYF23WMByrCbunGFfQz7g4znWcuOu5YhaWdSep6vEWYTJCdvb2KVaG-wOTDPzccnE3cUWS80OVgg6bCWBMcg==",
+          "title": "hidatakayama.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGasBtRZMgaD_piSEoJa_f0RLMgCEp8P9dGRnufyj4hFJRnsCC3NwxIef-8GO-Kl_ro5eEs5Vz3ZzYMvblusGWsK-EtdagTGR0ZLHztqvbrgkwHnaEPdt3rMmGp6og-kTjtA7KBf5qCKhyfM4vXEZupYPXP2pZmcKiqnJmjdel-jJPqXPH41iY9EBYykTv_",
-          "title": "japan.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQzPHOJWMUx4VSDZXj9ohGYAp3VKtmRiKUJEP126LCC8udMKR1k8GMZQOT4S14dJW2TYvel19V9IdSQRl6ETmS5I9NhFRdYWprfNleFesbRxOBhrjZ2Y8YPiutSPTbQwgIbw==",
+          "title": "1onsen.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRO9dOEowraYBcQvTcKsz3B1UbAgmeb42TP8WItVcwOdKnnkymoBEH70Famx6HGU0X72NPYfvG0sd7hzrRWpiiaej6TwRUJHW__OuwUup_abzdIgHImhyIGfnaF_WnUsu2-tuXKpirch7-",
-          "title": "fmgifu.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ92dqVQIwVDmEPcsu_UFnSrVeDE5mHugEFty_IbLx7ZQJ6HXExQ2xVbWY7KIc5F-49hlDKCoVldmPjgFK-Klb3DEmYaynm6Wvki7tVb_aIsmvYQkpEfCNIB30SUDlqZBMuhhJkGc1",
-          "title": "homes.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEkJCtaiTppMzDGNI1zcZAyqms0i_hVjqBg3cvezo0JXllElGZFa8nW1aPfExNyEbeUKqHe9rhHt5lNJWcKebN4wpmnFrUr4UTye0-K7O2LnImEuAi-_KfCyudXO-7d0k=",
-          "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY5i_KRRLHblSu6ixdFxdG6ZZI7yJ2rm-LeBjS7hpj3olWV8bl8DjqRjrccOpZmfVNr_arN7MNvvKT75n8dRdJBgsQxL3p_ze8rCzsT8zDDbfpoKWlUzwSOR9zGcTOZtAM0gKstxUiBzqJgkNqBUoJ7wBaSPuTiMiGXlIJI277_VMwl2U8XcNvHSPbB7f_m8s9",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdgjTJoqSM0YZ7mECtdkqAsTVdUD-eTlnO2cRlnTwLyKrqdaDfdc9AkKVUUKskN0cPzgzvote-LlABRF8O6a7qcBzHZ7_4BwrWUSB9XMwSBacQQ5YhpCqcaRgqQdQ=",
-          "title": "nawakon.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES6Ccu-gyR6NE_jL1gnVdqbnj6ZAVjFuBeacBuucthHQpuBEnd-9AsXfm7pzu3gTlZMb8du4UX_q6b8rrjAfDhKrwNZv0M3VdVozgnKz03J73-wHv3_zJwrwEQan_GKOKGxnmAox9abEfNlb_K3ZstR9uquMPMYtl78U6W",
-          "title": "fc2.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXLp9ypmTb2auos5mJ7PSxuBq2ca1Xxm7dbujcYgIvcma7P-iOs18X_lZ6DOkEUosO0AjqegeW-Lwwsq78_DC5OyKKwJyM0bgDKLt3ayu8mgRJ3Xf3MqOF2fLZXTfhg6o=",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8a2spXil7j_yXdWlz1BQYVOWXeMx4CZumQqGRzlWVe1wIZcyWior5tHpzTlV2UfqkJRDbzqBdgC7-N9-uerzCEjGyJAKYKbs2gsh8qMX4-0hVk2mKVwVrZiAUV8dn4tl9gx_xcENvSlGwWg==",
-          "title": "jmapps.ne.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoslNRvMPb5OYjYbfF8AY5ja4b7xPrUI7acoY2g4SQO0dg_LLZBImxGwDjaxQB3bNmc68h6scuwm8HWepHlMCTEUKki9knhpWxrQoDDvYwYjUUEOnAP5_S3dPcKf2VWPJ6e_pmAxs=",
-          "title": "kankou-gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNg1ITDIhvxwFdWwj9iy-sCTm2hCG5s6pJMwqi6WvQwN0iABVs01P7knsdz8kXer0SlWEd6hsPWTXjO8-OToax8vkOplOJWmQR89U0P42OmDIpYz9kwlTt58R5iYrJZ7bEv6yaUys=",
-          "title": "flat-gifu.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED5iBAyFlywKwdFXYKVqCsFk9h_h1k22y2vgguket23H4ybBI9sEteD-gGWmm0WhbQOWPyK72LXqk_OA54ufCdh2ZuhSiwHLV4m2jAQxrB-SXnjn1e4F2FLNbzBRdYC5s-IYTxrWa01f6KfA4BB4XN3SGC",
-          "title": "nagoya-u.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUmj4kVgyoIpdm9LTdjskv7k1NSKZEWVAlvWstHCcJcikeGWWZtXscCud_8b7bNng499j5IUaX2hifuh07p1LPZ5DE3LriQ_qRX6DEcWLpwI0MSabiWkJM81Nbl9-NEtDXJU_epeZ2nZxL2BE=",
-          "title": "fmgifu.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6vHegnZiObLNyO_0xFjHO494nrM1jv4h6pHsd2Gf7vBFUyKcvOAmvqBakl6q8IFXKo3wbZTm_BnlpKaxTbMJRMti2zuanLUIFSSAtP9-7TNabr28wXLDCytDafjE_Az6zfjhII-ZgKLA=",
-          "title": "hichiso.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xIosrdbbNHf3Sj-5uMt7cBsVb_JDbgaYFCVk5fB-e4NvyJv_Fn0wx-KI9NrR0ZgOWpi7aT50nf8fkVXz7K1haSNo568dUFAlPCv9G9y_0EbL9O5ZCw5vyYsIEEkD-GErArRVd-SgURgAZcrhRJx86F--BrrYOGIA",
-          "title": "web-gis.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPQsKYd0t20YMpplhuZieDbKIJzmCEhy7GeFzSMLjqcWz_G_SD1iH3HQarSQaqHz9O80eURn0jZ_34po9Q-ul08F-Iv-mzdH3XDEqs5IejkoXTRNbR6A==",
-          "title": "phys-edu.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGg2rXRxsmsJ4SymPp1fSfVSZY0t8WRHzGHXPU2XRKK5eC2PAO1XArArPqXV0RkmgeuwTe-Mc54umEU81cUA1QCBpE-yLK9vdxJbqn5B0VysddaRq-WVeBwI7ZrmQJfCLi0niVLTkgiA==",
-          "title": "nissei-web.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvSdD9akPbKLF6J71dnP4LBhTIX77uBz86mJudiCxR3CvQ9FcK4K2rhuLkYJdTBYWsScVNmNfreTsFriNQ85-USytAc1UpykwM8Nk0gFpARRORetcpphRh_-CS0k6bnOuzWw43",
-          "title": "weathernews.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL7SyYAo4urgzGgelIQhOAhr026rYEzbcOUomx5pQudwjIZPCR2sng-5gJNj3Hc_RFcHbOEAMANmgWxK2dRn-a7TIrN9cwzGj1u0tz4zCm8RQzwhvwUg==",
-          "title": "ngk.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH26w9hIuUv60lImnBvbg9MRJVrWNpZiENJrmE9BdyqKrQhVoe14O1vW4R5ZIbI86FiEDs8psQzN7zwMr88c-EeAVHbfKL3OHTDiyQXm9XbNstZy1OYVj8zopKu-ntYAWW9zVlDrKv_cA==",
-          "title": "livedoor.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV33cxj167cZqqMhtLeK1PIuoVBABb17KOO3Q1UArLA5k1ER7nVDJ5CiBV-g8dpj7G0CzfUv_u4eKJw46B0JGLPu8sxhcVZEvmB_v_CrpyPLNOIPa38CAHQSDKCJrOtfdYIW_OClI=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7a3-DfQDN-X5zQ2ncjpnEIdPJNxhV3OAb3V_3haBPgMxsxOb1qwDXU_Zb9VDO91eu08wv7UDY9q0J9xjXNtR4pxqk3TawretbddJvX03-KECdJ1NebieLnuv8ZWYdwR-5Rw4=",
+          "title": "hirayuonsen.or.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 617,
-          "endIndex": 785,
-          "text": "アユが清涼感のある独特な香りを放つのは、川底の石に付着した「珪藻（けいそう）」などの藻類を主食としているためです"
+          "startIndex": 1454,
+          "endIndex": 1583,
+          "text": "甘み成分を足さないため、ご飯とお醤油のような香ばしさと米本来のほのかな甘みが際立ちます"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 788,
-          "endIndex": 1145,
-          "text": "珪藻には高度不飽和脂肪酸が多く含まれており、アユがこれを消化・吸収したあと、体内の酵素（リポキシゲナーゼなど）によって酸化・分解される過程で、スイカやキュウリに似た揮発性の香り成分（不飽和アルコールやアルデヒド類）が皮膚などで生成されます"
+          "startIndex": 1586,
+          "endIndex": 1693,
+          "text": "串に刺さる玉の数は、関西の5玉文化を受け継ぐ一口サイズの小粒5玉が主流です"
         },
         "groundingChunkIndices": [
           1,
@@ -281,9 +214,31 @@
       },
       {
         "segment": {
-          "startIndex": 1188,
-          "endIndex": 1305,
-          "text": "アユの体から立ち上る香り成分を分析すると、実に**約51種類**もの成分が検出されます"
+          "startIndex": 1720,
+          "endIndex": 1832,
+          "text": "地元では「みたらし」と澄んだ発音ではなく、「み**だ**らし」と濁って呼ばれます"
+        },
+        "groundingChunkIndices": [
+          0,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2033,
+          "endIndex": 2174,
+          "text": "みたらし団子のルーツは京都の下鴨神社（御手洗祭）の神饌菓子とされ、当時は生醤油のつけ焼きでした"
+        },
+        "groundingChunkIndices": [
+          1,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2177,
+          "endIndex": 2369,
+          "text": "現在全国に広まる甘辛いタレは、大正時代に京都の茶屋（加茂みたらし茶屋）が黒砂糖を使って考案し爆発的に流行した比較的新しいものです"
         },
         "groundingChunkIndices": [
           2
@@ -291,9 +246,9 @@
       },
       {
         "segment": {
-          "startIndex": 1308,
-          "endIndex": 1452,
-          "text": "キュウリのような香りの主成分は「キュウリアルコール」や「キュウリアルデヒド」と呼ばれる化合物です"
+          "startIndex": 2372,
+          "endIndex": 2567,
+          "text": "飛騨には大正以前の古い製法が伝わった後、甘いタレに染まることなく「お醤油の焼き立てが一番旨い」という素朴な文化がそのまま残りました"
         },
         "groundingChunkIndices": [
           2
@@ -301,105 +256,84 @@
       },
       {
         "segment": {
-          "startIndex": 1455,
-          "endIndex": 1644,
-          "text": "人工配合飼料で育つ養殖アユに比べて、川石の良質な天然のコケをたっぷり食べて育った天然アユのほうが、この香り成分が強く際立ちます"
+          "startIndex": 2599,
+          "endIndex": 2686,
+          "text": "コイケコーポレーション（小池風流軒）「みたらし団子の歴史」"
         },
         "groundingChunkIndices": [
-          3,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1672,
-          "endIndex": 1895,
-          "text": "アユの爽やかなスイカ・キュウリの香り成分の一つに含まれる「トランス-2-ノネナール」という物質は、実は**人間の「加齢臭」の主成分と全く同一の化学物質**です"
+          "startIndex": 2691,
+          "endIndex": 2767,
+          "text": "高山グリーンホテル 観光情報webマガジン「陣屋だんご」"
         },
         "groundingChunkIndices": [
-          4,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2133,
-          "endIndex": 2281,
-          "text": "中国では、アユは生まれてから1年で一生を終えることから古くから「年魚（ねんぎょ）」と呼ばれていました"
-        },
-        "groundingChunkIndices": [
-          6,
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 2284,
-          "endIndex": 2551,
-          "text": "しかし、日本の清流に育つアユがあまりにも芳醇で甘い芳香を放つことから、日本では平安時代などの古文書にも「香魚」という独自の美しい雅名が当てられ、夏の風物詩として珍重されてきました"
+          "startIndex": 3509,
+          "endIndex": 3705,
+          "text": "横に広げず「縦に重ねる（2階建て）」ことで、風の抵抗と設備負荷を抑えつつ一度に大量の乗客を安全に運ぶ技術的解決策として導入されました"
         },
         "groundingChunkIndices": [
+          4,
           5,
-          0
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 2558,
-          "endIndex": 2738,
-          "text": "出典・根拠：独立行政法人水産総合研究センター（現・水産研究・教育機構）研究資料、つくばね鮎毛鉤研究所（魚類香気成分分析）"
+          "startIndex": 3747,
+          "endIndex": 3932,
+          "text": "新穂高ロープウェイ（第2ロープウェイ）は、しらかば平駅（標高1,308m）から西穂高口駅（標高2,156m）までの高低差約848mを一気に登ります"
         },
         "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2558,
-          "endIndex": 2765,
-          "text": "出典・根拠：独立行政法人水産総合研究センター（現・水産研究・教育機構）研究資料、つくばね鮎毛鉤研究所（魚類香気成分分析）、食の科学解説資料"
-        },
-        "groundingChunkIndices": [
-          4,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2938,
-          "endIndex": 3028,
-          "text": "岐阜県の名を冠する日本固有の美しいアゲハチョウ「ギフチョウ」"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3031,
-          "endIndex": 3244,
-          "text": "成虫として春の野山を美しく舞うのはわずか数週間で、その後産卵を終えると、初夏から翌年の春までの長い期間をサナギの状態でじっと過ごします（休眠）"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3247,
-          "endIndex": 3512,
-          "text": "さらに自然界の寒暖差や天候不順のリスクに備え、一部のサナギは1年だけでなく**2冬・3冬と何年も続けて休眠し続ける「長期休眠（複数年休眠）」**という驚異的なサバイバル能力を持っています"
-        },
-        "groundingChunkIndices": [
+          7,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 3555,
-          "endIndex": 3752,
-          "text": "ギフチョウが美しい羽を広げて成虫として活動できるのは**1年のうちわずか10日から2週間程度**（地域全体でも3月下旬〜4月下旬の約1か月弱）です"
+          "startIndex": 3935,
+          "endIndex": 4033,
+          "text": "第1・第2を合わせた総高低差は1,035m、全長3,171mと日本屈指のスケールです"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4036,
+          "endIndex": 4220,
+          "text": "乗車定員は105名（1998年の初代2階建てゴンドラは121名）を誇り、2階建てゴンドラは日本全国のロープウェイの中で新穂高の1箇所のみです"
+        },
+        "groundingChunkIndices": [
+          4,
+          7,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4362,
+          "endIndex": 4529,
+          "text": "2階席は遮るもののない大パノラマと浮遊感が味わえ、1階席は迫り来る岩肌や原生林の近さを体感できる設計になっています"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4559,
+          "endIndex": 4881,
+          "text": "1960年代初頭の設立当初、奥飛騨開発公社が掲げていた当初の計画は、なんと新穂高から穂高連峰の稜線を越え、長野県の「上高地（河童橋付近）」までロープウェイを直結させるという壮大な越境ルート（西穂高ロープウェイ構想）でした"
         },
         "groundingChunkIndices": [
           9
@@ -407,74 +341,168 @@
       },
       {
         "segment": {
-          "startIndex": 3890,
-          "endIndex": 4046,
-          "text": "この驚くべき生態のため、春の訪れを一瞬だけ告げて去る「春の女神（スプリング・エフェメラル）」と呼ばれます"
+          "startIndex": 4884,
+          "endIndex": 5035,
+          "text": "国立公園保護や過酷な気象条件との長期の協議を経て現在の千石尾根ルートへと変更され、1970年に開業しました"
         },
         "groundingChunkIndices": [
-          7,
-          10
+          4,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 4074,
-          "endIndex": 4353,
-          "text": "これほど鮮やかで特徴的な縞模様を持つアゲハチョウが、江戸時代までの長い歴史の中で公式に新種として見落とされていた理由は、まさに「春先の極めて短い期間、山間部にしか姿を現さない」ためでした"
+          "startIndex": 5137,
+          "endIndex": 5196,
+          "text": "新穂高ロープウェイ誕生秘話」（2026年9月）"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5201,
+          "endIndex": 5269,
+          "text": "新穂高ロープウェイ公式HP「ロープウェイの歴史」"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5274,
+          "endIndex": 5362,
+          "text": "岐阜女子大学 デジタルアーカイブ研究所「新穂高ロープウェイ」"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5813,
+          "endIndex": 5873,
+          "text": "香りの正体は「カツラ（桂）」の落ち葉です"
         },
         "groundingChunkIndices": [
           10,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4402,
-          "endIndex": 4620,
-          "text": "ギフチョウを1883（明治16）年に岐阜県祖師野（現・下呂市金山町祖師野）で採集・新種発見したのは、日本の昆虫学の先駆者である**名和靖（なわ やすし）**です"
-        },
-        "groundingChunkIndices": [
-          8,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 4623,
-          "endIndex": 4781,
-          "text": "岐阜公園にある**「名和昆虫博物館」（大正8年開館）は、現存する日本最古の昆虫専門博物館**として知られています"
+          "startIndex": 5876,
+          "endIndex": 6044,
+          "text": "葉が黄色く色づいて落葉し乾燥する過程で、細胞内で「マルトール」という香気成分が生成され、大気中に揮発するためです"
         },
         "groundingChunkIndices": [
-          11,
-          7
+          10,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 4784,
-          "endIndex": 5054,
-          "text": "名和靖はもともと昆虫好きの少年でしたが、農家を苦しめる害虫被害を目の当たりにし、「農業と人々の生活に役立つ昆虫研究をしたい」と志して昆虫研究所を立ち上げたという実学の歴史があります"
+          "startIndex": 6086,
+          "endIndex": 6197,
+          "text": "春から夏にかけての青々とした緑の葉にはマルトールはほとんど含まれていません"
         },
         "groundingChunkIndices": [
-          12,
+          10,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6200,
+          "endIndex": 6360,
+          "text": "葉が寿命を迎え、黄色くなって地面でカラカラに乾燥すると急増し、乾燥葉の重さの約2％近くに達することもあります"
+        },
+        "groundingChunkIndices": [
+          10,
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6363,
+          "endIndex": 6603,
+          "text": "マルトールは実際にパンやお菓子、香料の製造過程で甘い風味を引き立てる成分として広く使われており、人間の鼻が「キャラメルの香り」と認識するのは極めて正確な反応です"
+        },
+        "groundingChunkIndices": [
+          10,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6630,
+          "endIndex": 6711,
+          "text": "木についている生きた葉をもいでも全く甘い香りはしません"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6714,
+          "endIndex": 6855,
+          "text": "地面に落ちてパリッと乾いた落ち葉を踏んだり、手にとって揉んだりした瞬間に最も強い香りを放ちます"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6885,
+          "endIndex": 7080,
+          "text": "昔の人々もこの香りに気付いており、東北地方などではカツラの木を「お香の木」「しょうゆの木」「まっこー（抹香）の木」と呼んでいました"
+        },
+        "groundingChunkIndices": [
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 5061,
-          "endIndex": 5112,
-          "text": "出典・根拠：名和昆虫博物館公式記録"
+          "startIndex": 7083,
+          "endIndex": 7236,
+          "text": "乾燥させたカツラの葉を粉末にし、お線香やお香の貴重な原料（つなぎ・香料）として古くから利用していました"
         },
         "groundingChunkIndices": [
-          13
+          10,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 5061,
-          "endIndex": 5163,
-          "text": "出典・根拠：名和昆虫博物館公式記録、岐阜市公式「名和昆虫博物館」解説"
+          "startIndex": 7242,
+          "endIndex": 7377,
+          "text": "カツラ」という名前自体も、甘い香りが出る「香出（かづ）る」に由来するという語源説があります"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7409,
+          "endIndex": 7535,
+          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所 多摩森林科学園「カツラの甘い香り」"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7540,
+          "endIndex": 7604,
+          "text": "日本植物生理学会 植物Q&A「カツラの甘い香り」"
         },
         "groundingChunkIndices": [
           12
@@ -482,305 +510,126 @@
       },
       {
         "segment": {
-          "startIndex": 5061,
-          "endIndex": 5241,
-          "text": "出典・根拠：名和昆虫博物館公式記録、岐阜市公式「名和昆虫博物館」解説、日本応用動物昆虫学会等（ギフチョウの蛹休眠性研究）"
+          "startIndex": 8016,
+          "endIndex": 8364,
+          "text": "戦国時代、武田信玄の軍勢が北アルプス越えの過酷な行軍中、活火山の火山ガス（毒霧）に巻き込まれて倒れた際、傷を負った白猿が湯だまりに浸かって元気に飛び去るのを目撃し、兵士たちも入浴して命を救われたという出来事が起源とされているためです"
         },
         "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5398,
-          "endIndex": 5683,
-          "text": "日本列島は、プレートの沈み込みによって海底の堆積物や火山島などが大陸の縁に押し付けられてできた「付加体」がベースになっているため、列島そのものの地層は数千万年〜数億年前と比較的新しいものです"
-        },
-        "groundingChunkIndices": [
+          13,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 5686,
-          "endIndex": 5955,
-          "text": "しかし、岐阜県加茂郡七宗町（ひちそうちょう）の飛騨川河床に見られる「上麻生礫岩（かみあそうれきがん）」には、約20億年前という桁違いの古い年代を示す片麻岩の小石（礫）が含まれています"
+          "startIndex": 8406,
+          "endIndex": 8520,
+          "text": "平湯温泉は標高約1,250mに位置し、奥飛騨温泉郷の中で最も古い歴史を持つ温泉地です"
         },
         "groundingChunkIndices": [
           15,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8523,
+          "endIndex": 8642,
+          "text": "現在も温泉街周辺には約40本もの豊富な源泉井戸があり、毎分膨大な湯量を誇っています"
+        },
+        "groundingChunkIndices": [
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 5958,
-          "endIndex": 6248,
-          "text": "これは、中生代ジュラ紀（約1億6000万〜2億年前）に日本列島がまだアジア大陸の一部だった時代、北方の大陸内部にあった20億年前の基盤岩が削られ、大河によって河口に流し込まれて砂泥と一緒に固まったためです"
+          "startIndex": 8669,
+          "endIndex": 8939,
+          "text": "単なるおとぎ話ではなく、江戸時代末期に飛騨国の歴史や地理を記録した公的な地誌『飛州志（ひしゅうし）』の「平湯温泉記」にも、武田軍の落命危機と老いた白猿の導きが正式に記録されています"
         },
         "groundingChunkIndices": [
-          14,
-          16
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 6291,
-          "endIndex": 6407,
-          "text": "地球の年齢は約46億年ですが、この石は約**20億年前（先カンブリア時代）**のものです"
+          "startIndex": 8969,
+          "endIndex": 9293,
+          "text": "永禄年間、信濃から飛騨・越中への侵攻を命じられた武田の猛将・山県昌景（やまがたまさかげ）の軍勢は、難所である安房峠を越える際に硫黄岳（現在の焼岳山系）の火山性ガスに巻かれ、呼吸困難と疲労でバタバタと倒れ全滅寸前でした"
         },
         "groundingChunkIndices": [
-          17,
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6557,
-          "endIndex": 6820,
-          "text": "さらに名古屋大学の超微小領域年代測定（CHIME法）による分析では、この岩石の中に含まれる微小な鉱物「ジルコン」から、**約30億年〜35億6000万年前**という超古代の年代値まで確認されています"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6848,
-          "endIndex": 7149,
-          "text": "「日本最古の石」と呼ばれる岩石ですが、**岩石全体（礫岩）ができた時期は約1億6000万〜2億年前**であり、**その中に埋め込まれている小石の粒だけが20億年前のもの**という「入れ子構造」のタイムカプセルになっています"
-        },
-        "groundingChunkIndices": [
-          14,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7198,
-          "endIndex": 7355,
-          "text": "この岩石は、1970（昭和45）年3月、当時名古屋大学の大学院生だった足立守氏（現名誉教授）によって発見されました"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7358,
-          "endIndex": 7643,
-          "text": "七宗町の飛水峡で地質調査を終えて帰ろうとした際、「まだ見ていない河原の箇所があるが、どうしようか」と迷った末に立ち寄ったことで偶然発見されたという、まさに奇跡的なドラマから見つかったものです"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7646,
-          "endIndex": 7730,
-          "text": "現在、七宗町には「日本最古の石博物館」が建てられています"
-        },
-        "groundingChunkIndices": [
-          21,
+          13,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 7737,
-          "endIndex": 7841,
-          "text": "出典・根拠：岐阜県博物館 収蔵資料データベース（資料ID:120195 上麻生礫岩）"
+          "startIndex": 9296,
+          "endIndex": 9464,
+          "text": "極限状態の中で出会った温泉の温熱と豊かなミネラルが、硫黄ガスで傷ついた兵士たちの呼吸器や疲弊した体を蘇らせました"
         },
         "groundingChunkIndices": [
-          16
+          13,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 7737,
-          "endIndex": 7943,
-          "text": "出典・根拠：岐阜県博物館 収蔵資料データベース（資料ID:120195 上麻生礫岩）、産業技術総合研究所 地質調査総合センター（5万分の1地質図幅「金山」）"
+          "startIndex": 9625,
+          "endIndex": 9731,
+          "text": "岐阜女子大学 デジタルアーカイブ研究所「平湯温泉（飛州志・平湯温泉記）」"
         },
         "groundingChunkIndices": [
-          22
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 7737,
-          "endIndex": 8000,
-          "text": "出典・根拠：岐阜県博物館 収蔵資料データベース（資料ID:120195 上麻生礫岩）、産業技術総合研究所 地質調査総合センター（5万分の1地質図幅「金山」）、名古屋大学基盤研究部門年代測定研究部"
+          "startIndex": 9736,
+          "endIndex": 9821,
+          "text": "一般社団法人 奥飛騨温泉郷観光協会「平湯温泉の歴史と伝説」"
         },
         "groundingChunkIndices": [
-          19
+          17,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 7737,
-          "endIndex": 8036,
-          "text": "出典・根拠：岐阜県博物館 収蔵資料データベース（資料ID:120195 上麻生礫岩）、産業技術総合研究所 地質調査総合センター（5万分の1地質図幅「金山」）、名古屋大学基盤研究部門年代測定研究部、七宗町公式ホームページ"
+          "startIndex": 10534,
+          "endIndex": 10664,
+          "text": "1961年に奥飛騨開発公社が設立された当初のプロジェクト名は「西穂高ロープウェイ構想」でした"
         },
         "groundingChunkIndices": [
-          21
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 8194,
-          "endIndex": 8281,
-          "text": "冬の朝、地面からニョキニョキと生える「霜柱（しもばしら）」"
+          "startIndex": 10667,
+          "endIndex": 10892,
+          "text": "新穂高温泉から西穂高の稜線を越え、長野県信州側の上高地・河童橋の西側まで、穂高連峰を一気にまたいで岐阜県と長野県を結ぶという前代未聞の計画だったのです"
         },
         "groundingChunkIndices": [
-          23,
-          24
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 8284,
-          "endIndex": 8411,
-          "text": "空中の水蒸気が葉や地面に凍りつく「霜」とは全く異なり、**土の中の水分が凍ったもの**です"
-        },
-        "groundingChunkIndices": [
-          25,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8414,
-          "endIndex": 8704,
-          "text": "地表が氷点下まで冷え込み、地中が0℃以上のプラスの温度に保たれているとき、土の粒の隙間にある水が**「毛細管現象（細い管を液体が重力に逆らって吸い上げられる現象）」**によって地表へと吸い上げられます"
-        },
-        "groundingChunkIndices": [
-          23,
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8707,
-          "endIndex": 8941,
-          "text": "地表に届いた水が次々に凍り、その根元に下から上がってきた水が加わって凍ることで、すでに凍っている氷をグイグイと下から押し上げていくため、柱状に伸びていきます"
-        },
-        "groundingChunkIndices": [
-          23,
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8984,
-          "endIndex": 9136,
-          "text": "氷の柱は下からどんどん新しい水が供給されて凍るため、長いものでは**10cm以上**にまで成長することがあります"
-        },
-        "groundingChunkIndices": [
-          27,
-          28
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9139,
-          "endIndex": 9319,
-          "text": "成長する氷の圧力は非常に強力で、地表にある土の粒だけでなく、数ミリ〜数センチの重い小石まで軽々と上に持ち上げてしまいます"
-        },
-        "groundingChunkIndices": [
-          27,
-          28
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9347,
-          "endIndex": 9591,
-          "text": "霜柱はつららのように「上から下に向かって垂れ下がって凍る」のではなく、**「一番下の根元で凍りながら、上の氷を空に向かって押し上げている」**という真逆の伸び方をします"
-        },
-        "groundingChunkIndices": [
-          23,
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9594,
-          "endIndex": 9759,
-          "text": "霜柱のてっぺんをよく見ると必ず黒っぽい土がちょこんと乗っているのは、地面の表面がそのまま持ち上げられた証拠です"
-        },
-        "groundingChunkIndices": [
-          26,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9762,
-          "endIndex": 10005,
-          "text": "また、雪が積もる地域では雪が布団（断熱材）になって地表が冷え切らないため、実は豪雪地帯よりも「冬に晴天が多く放射冷却で冷え込む地域」の火山灰土などでよく発達します"
-        },
-        "groundingChunkIndices": [
-          25,
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10063,
-          "endIndex": 10178,
-          "text": "霜柱が土を持ち上げる力は、地球物理学では**「凍上（とうじょう）」**と呼ばれます"
-        },
-        "groundingChunkIndices": [
-          28
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10181,
-          "endIndex": 10499,
-          "text": "畑の土をサクサクに耕してくれる自然の恵みでもある一方、寒冷地では土を持ち上げる強大な力によって道路を波打たせたり、建物の基礎や線路を押し曲げてしまう破壊的な力としても知られ、長年土木工学の研究対象になってきました"
-        },
-        "groundingChunkIndices": [
-          28
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10617,
-          "endIndex": 10647,
-          "text": "佐伯平二学芸員監修）"
-        },
-        "groundingChunkIndices": [
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10617,
-          "endIndex": 10728,
-          "text": "佐伯平二学芸員監修）、ウェザーニュース「冬の風物詩、霜柱にまつわる豆知識」"
-        },
-        "groundingChunkIndices": [
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12320,
-          "endIndex": 12389,
-          "text": "とフォローしてあげてみてはいかがでしょうか！」"
+          "startIndex": 10898,
+          "endIndex": 11040,
+          "text": "その後、国立公園の自然保護や過酷な気象条件を考慮して現在のルートに変更され、1970年に開業しました"
         },
         "groundingChunkIndices": [
           4,
-          5
+          9
         ]
       }
     ],
     "webSearchQueries": [
-      "ギフチョウ 名和昆虫博物館 発見 歴史 休眠",
-      "アユ キュウリ スイカ 香り 理由 珪藻 不飽和脂肪酸",
-      "日本最古の石 七宗町 20億年 産総研 上麻生礫岩",
-      "霜柱 メカニズム 毛細管現象 なぜ 生える"
+      "カツラ 落ち葉 キャラメルの香り マルトール",
+      "飛騨 みたらしだんご 甘くない 醤油 理由 由来",
+      "新穂高ロープウェイ 日本唯一 2階建てゴンドラ 理由",
+      "平湯温泉 白猿伝説 武田信玄 山県昌景 歴史"
     ]
   }
 }
