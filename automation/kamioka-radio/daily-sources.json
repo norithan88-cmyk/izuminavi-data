@@ -1,274 +1,281 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2099,
-  "estimated_minutes": 6.4,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 2573,
+  "estimated_minutes": 7.8,
+  "saturday_story": "story-04",
   "listener_notes": [],
   "quiz": {
-    "question": "日本唯一の２階建てゴンドラがある新穂高ロープウェイ。実は最初の計画では、山を越えてどこまで直結させるというとんでもない構想だったでしょうか。１番、長野県の上高地。２番、富山県の黒部ダム。３番、富士山頂。",
-    "answer": "正解は１番の長野県の上高地！北アルプスの山々を一気にまたぐ予定だったんだって。もし実現してたら、神岡からロープウェイ一本で上高地へお出かけできてたかもね！",
-    "source_ids": [
-      8,
-      11,
-      13
-    ],
-    "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3_hKD45_Z5tsFqZTeS_fIJ5m8If23u-AiR-iekjOLeVKnNVSBjJydGLPfB5xwRY5FphtJqmYlWJQLlf5JaTFa2kKCj5_DzUZGNLrcNauACIzAI0_advIpkbRoKj_StgEEdcxYqnmC1ldrMI6jO2W6x0cXpRNk3ZAtFBk55b5dti9kCIpPD--vypQ8FUUHQJVO9p6k2gTtwbfGzdOo_j7Iqs_3yb934Bfmjr4GSltq-s=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bR3NigavbNRjFajECClGIPj3uHgcLOGosEcNdrywCT0GyBmW-iJto4wOsAswTDWbl5HANqigCxkrpz8LaVZgcNdVwjJZ-DhAF5leXAhrxNfTqP-urt0kWW-S",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwzDFVCWYR2oDvR17hKIRVlDP19If-BufCiLZyobSWu4-Dgdt88Y0FzEDi3qYwkU8PnyuHC3I8SdnssBr5S_Iz1IrgJEu7u3NmWe_98FYqKCYkdJoJEX-YI9CjcyxZ0wuTS8="
-    ]
-  },
-  "izumi": {
-    "text": "神岡を語るならこの人を外すわけにはいかんよね！戦国時代に茂住や和佐保の銀山や銅山を切り拓いた男、茂住宗貞のお話やさ。１５５９年から１６４２年まで生きた人物で、神岡を「鉱山の町」へと押し上げた、いわば初代社長みたいな存在なんだって！戦国時代の飛騨は、もともと江馬氏が神岡を治めとって、そのあと金森氏の領地になったんだけど、宗貞さんはその激動の時代に鉱山の開発に全力を注いだわけ。これ、現代で例えたら、社長交代とか会社の買収劇に巻き込まれながらも「自分は山を掘って町を潤すんだ！」って事業を大成功させた超敏腕プロデューサーやろー！もし今なら、経済番組に引っ張りだこで特集されて、ビジネス雑誌の表紙を飾っとったはずやさ。神岡鉱山といえば、後に亜鉛や鉛、銀などを産出して日本を支える大鉱山になって、２００１年に採掘を終えたあとは、地下にスーパーカミオカンデが作られて世界の宇宙物理学の聖地になったよね。そんな世界的な拠点の歴史をぐーんと遡ると、なんと戦国時代の茂住宗貞にたどり着くんだからロマンがすごすぎん！？神岡の地下に眠る奇跡の物語は、この初代社長の熱い挑戦から始まったんやさ！",
+    "question": "レールマウンテンバイク誕生のきっかけとなった、神岡の有志が体験した旅行先はどこでしょうか。1番、南国のサイパン島。2番、極寒の南極大陸。3番、月面基地。",
+    "answer": "正解は1番、サイパン島でした！南国で線路を自転車で走るツアーを見て神岡でもやれると閃いたんだって。月面行っとったら無重力で飛んでっちゃうところやさ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡"
+      "https://tabi-mag.jp/gi0335/"
+    ]
+  },
+  "izumi": {
+    "text": "みおんの神岡ディープ！今や大人気のガッタンゴー、実は始まりがめちゃくちゃ意外なんやさ！1984年10月1日に国鉄神岡線を引き継いで第三セクターとして開業した神岡鉄道なんだけど、惜しまれつつ2006年12月1日に猪谷から奥飛騨温泉口までが廃止されちゃったんだよね。普通なら「線路がなくなって寂しいな」で終わるところやろー？ところが神岡の人たちは違ったの！なんと廃線の翌年、2007年に地元の有志が集まって、線路の上を自転車で走る「レールマウンテンバイク」を始めちゃったんです！そのきっかけが、なんと常夏のサイパン島旅行！サイパンで線路の上を自転車で走るツアーを体験して「これ、神岡の線路でもできるやん！」って思いついちゃったんだって。サイパンの青い海から山奥の廃線へアイデア直輸入って、発想がグローバルすぎてみおん腰抜かしかけたわ！最初は手作り感満載だったのが、2011年からはNPO法人神岡・町づくりネットワークが運営して本格化。奥飛騨温泉口駅から神岡鉱山前駅までの往復5.8キロを40分から50分ほどで走る「まちなかコース」では、神岡第1トンネル、神岡第2トンネル、神岡橋梁を駆け抜ける大迫力！さらに2018年には、旧漆山駅から二ツ屋トンネルまでの往復6.6キロを走る「渓谷コース」も仲間入りしました。今は自転車も全部電動アシスト付きでスイスイ！渓谷コースでは11月初めに綺麗な紅葉も楽しめちゃうんだよ。水曜日がお休みだけど、祝日やゴールデンウィーク、8月は営業しとるそうです。南国のひらめきと廃線を宝に変えた神岡のバイタリティ、本当に誇らしいやさね！",
+    "source_ids": [
+      1
+    ],
+    "source_urls": [
+      "https://tabi-mag.jp/gi0335/"
     ],
     "angle": {
-      "id": "mine-sadamune",
-      "hook": "戦国時代の茂住宗貞。銀山を開いた、いわば神岡の初代社長"
+      "id": "gt-saipan",
+      "hook": "サイパン旅行の思いつきから始まった、廃線を自転車で走る遊び"
     }
   },
   "local": {
-    "text": "明日１１月７日の土曜日は、道の駅スカイドーム神岡で「スカイドーム神岡感謝祭」が開催されます！神岡中学校の生徒が考案した飛騨市産食材を使った特別なカレーも販売されるんだって。さらに「神岡化石フォーラム２０２６」も同じ日に開催されるよ。週末のお出かけにぴったりやさね！",
+    "text": "今日11月7日、道の駅スカイドーム神岡の感謝祭で、神岡中学校の生徒が考案した特別なカレーが販売されるんやって！飛騨スパイスカレー研究所の協力で完成した一皿で、市内産の有機野菜やお米、地鶏など飛騨の恵みがたっぷり詰まっとるそうです。中学生のアイデアカレー、ぜひ味わいに行ってみてね！",
     "source_ids": [
-      24,
       25,
-      26
+      27
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87763.html",
-      "https://www.city.hida.gifu.jp/soshiki/47/87758.html",
       "https://www.city.hida.gifu.jp/soshiki/57/88534.html"
     ]
   },
   "segments": [
     {
-      "topic": "飛騨の「みだらし団子」はなぜ甘くない？",
-      "text": "週末のドライブやお出かけで高山や古川へ行くと、香ばしい匂いに誘われてついつい買っちゃうのが「みだらし団子」やさね！でも、ちょっと待って？全国のみたらし団子って、砂糖と醤油に片栗粉でとろみをつけた「甘辛い餡」がたっぷりかかっとるよね。なのに、飛騨のみだらし団子は「生醤油」を塗って直火で香ばしく焼くだけ。甘みが一切ないやさ！初めて食べた県外の人が「えっ、甘くないんだけど！？」って目を丸くするやつ。…って、実は全国の甘辛い団子のほうが後から流行った新しいスタイルで、飛騨の甘くない醤油味こそが、みたらし団子の本来の原形なんだって！京都の下鴨神社から昔伝わってきた当時の素朴な焼き団子の味が、飛騨の人の好みにぴったり合って、大正時代に京都で甘い餡が大流行してもブレずにずっと守り続けられたらしいよ。全国ではスイーツ扱いだけど、飛騨ではお米１００パーセントの小粒な５玉に生醤油だから、おやつというより焼きおにぎりみたいな軽食・主食感覚！「みたらし」じゃなくて濁って「みだらし」って呼ぶのも愛着があっていいよね。週末に出かけたら、この日本最古の味を噛み締めながら一本食べまい！",
+      "topic": "激渋の柿がメロンの4倍甘くなる？干し柿の王様「堂上蜂屋柿」の科学マジック",
+      "text": "ガッタンゴーで風を切ったあとは、甘いものでも食べてほっこりしたい季節やさね。秋の神岡の軒先でも見かける干し柿、あれ不思議に思ったことない？そのままかじったら口の中が砂漠になるくらい渋い柿が、なんで干すだけで羊羹みたいにとろっと甘くなるんやろー！えっ、干しただけで甘くなるとか、みおん聞いてないんだけど！実は岐阜が誇る干し柿の王様、美濃加茂市の「堂上蜂屋柿」の秘密を調べたら、衝撃の事実が分かっちゃいました。なんと渋柿って、もともと甘柿よりも糖分が多いんだって！生の時点の糖度は約18度で、普通の甘柿の約14度より甘いんです。じゃあなんであんなに口が曲がるほど渋いのかっていうと、唾液に溶ける「可溶性タンニン」っていう渋みの親玉が大量におるから。舌の上が渋みで完全ジャックされて、甘みを感じられんくなっとるだけなんやさ。そこで昔の人は、皮をむいて約40日間、お日様に当てて風に通し、さらに優しく手もみをしたわけです。すると、乾燥と酵素のダブルの働きで、タンニンが水に溶けない「不溶性タンニン」に変身！唾液に溶けなくなるから、舌が渋みを感じなくなっちゃうんです。つまり、渋みが消えたんじゃなくて、舌に気付かれないように姿をくらましただけ！その瞬間、隠れとった糖分が本気を出します。水分が抜けて、重さは生の頃の250グラムから300グラムあったのが、完成時にはおよそ26パーセントから28パーセント、だいたい80グラムから100グラム前後にまでギュギューッと凝縮！その結果、糖度はなんと55度から65度まで跳ね上がります！これ、高級メロンの糖度14度から16度と比べたら約4倍ですよ！メロン4個分の甘さが小さな干し柿1個に詰まっとるって、糖分の満員電車やろー！ちなみに表面に吹く綺麗な白い粉、あれカビやなくて果肉からにじみ出たブドウ糖と果糖の天然の結晶なんやって。おとましい、もったいないからって洗い落としちゃだちかんよ！この堂上蜂屋柿、歴史も桁違いで千年以上前からあって、源頼朝に献上されたときは「蜂蜜のように甘い」って絶賛されて蜂屋の名をもらったし、関ヶ原の戦いの前には徳川家康に献上されて「大柿、つまり美濃の大垣城が手に入る！」って縁起担ぎで家康が大喜びしたんだとか。さらには1900年のパリ万博で銀杯、1904年のセントルイス万博で金杯を受賞して世界中をうならせとるんです。あんなに渋くて食べられん柿を、世界最高峰のスイーツに大化けさせた昔の人の知恵、凄すぎんけな！今度干し柿を見かけたら、「お前、メロン4個分の甘さ隠しとるやろ」って心の中でツッコミを入れてあげてね！",
       "source_ids": [
         2,
         3,
-        4
+        4,
+        5,
+        6
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWYis0q-RvLZoYAjesA_NRrkT3FIqSf0lGlMrQ7JZRH6bUkrQ99lSVJQBV8gE7wxb3K_obbv15t9RJIJg8NBZmyScE9MJh2OaFveadKIscDPsJlL4kfgJofOZ4ilwcddu7zuXqlwm-SPIOlPM=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFORACZBPXnrQhmEKBDFlCN2nYPhFu56EaNCsaS_OfBGWeB65QNNVHZY15E4G_XbANK-XWgnPSd7eFTKzKqDy7Daz2XcsRWhWMofjEbazQSc7NCbJGQBxtPYla2",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnf2_WIq3u62CQxDDT556uHK7bTAkSjDLjWw0G_zsw2Z4bZHi6arWY6o_Ix2SUOlyMHmKd_-vMPFy7DHEwNM7eFLkhSfVPAomIqf8S3c886fDc_b4k_EiOeEaa4sbMutrpcVpH"
-      ]
-    },
-    {
-      "topic": "秋の森でキャラメルの匂い！？カツラの落ち葉のミステリー",
-      "text": "お団子の香ばしい匂いも最高だけど、秋の森の匂いも不思議やさ！この時期、週末に紅葉狩りや山歩きをしとると、周りにカフェも屋台もないのに、どこからか「焼きたてのキャラメル」や「わたあめ」みたいな甘ーい匂いがふわっと漂ってくること、ない？「えっ、山奥で誰かプリン作っとるの！？」って鼻をクンクンさせちゃうやつ。あれ、幻覚でも誰かのつまみ食いでもなくて、実は「カツラ」の木の落ち葉の匂いなんだって！春や夏の青い葉っぱのときは全然匂わないのに、秋になって葉っぱが黄色くなって地面に落ちてカラカラに乾燥すると、細胞の中で「マルトール」っていう甘い香気成分が一気に生まれるらしいよ。その量、なんと乾燥した葉っぱの重さの約２パーセントにもなるんだとか！このマルトール、実際にお菓子やパンの香料として使われとる本物の甘い香り成分だから、私たちの鼻が「キャラメルだ！」って反応するのは科学的に百点満点の大正解やさ。木についてる葉っぱをもいでも無臭で、地面でパリッと乾いた落ち葉を踏んだときに一番強く香るんだって。週末に森を歩くときは、足元の黄色いハート型の葉っぱをぜひ探してみてね！",
-      "source_ids": [
-        12,
-        14
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPl4bBfBIfkCR75PcdXQZA9wKgb5tf24OGLdlolaMjsqtJsDLjWi74Y6R4EIm_dXmpnOkUeSrIwzpNpz4SQLxt2xyPf-8n_kL9AbRMWZuUkWP1-yoHMw8WxQ3LfSELnBm5zkgBscL0GebetvBubZZ4kAlwri_4Ug==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpg-qTF1WivIMWJzADP1hl0uFOcSCmIlG1mI6dNtpyFwQ7Jqs0AvBjRBFMwZ3Y744VgJAxWU-_uDej47x05fjMAUJnc5aeQY3TzaZBk0WeTZmtHQF0GLb2_IIWIc-KNoJZdVDyOZE6qA=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZdvp-nkwJtWrVkTeC1s-uJXFMF-_0LFNR0tUTHcHGlXSDBEw9uL4nsqu75ZpVTpi5X-1NW3gDBR-dbmPmL5YcpK3tL_N7-vVvw1MAmx_hO2X5rS4iN-fFCfNWQQTetB081qKCatnLjw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMBXksaoKz_zwyGkrRX676maYH6Y2pzJwswNJESjMDn2kkzsXlUWAtpkwA_MjYoJE60wYuTi3E56cT-eebqySeklX9X_RrE3n4U5IFtOLJo2a7tfyBfWAup7Bkj9RHFfCS0qrlT5DktjzVsPLTL2LTmStKaNO5jUl_wwggjiIShWoniBn-9yc=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpePb3BqwSg0bA3Ek2YNJJjC4QCMFcxED7uq7KMGzvGlMAg-6HMv3fJ3TXvEeVJxEHmGrPzW71hQzizFQvExp8QHgU9Pzz62wDksGMxGnBbP4zzaGFSXGug4v2vHMemKyxIUZVltnqwMJH",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcy0foFqPxNe34Fhqz6cVZ92kQ87uHY13ikM5UYmLtlFmd0eBFIXSCA6XsOXbtMJztz6YhKNTVugtwMRH0X2AIhKXCEsiFkXNJwKI77iWi3ft7Z36qvNxkrUM4LIwjJwCZ6jinqAo=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3Unf1u-tRgz76FTFZiuilfabQBXLw4IbFH4XtaAlE5pv2e7vB35FPOzPKu3WXlDUtOj2R9-TzJHW-yFr5L-xxvbIaT7mwlya78jW4SkNL5c6fdI9MtCASaFJQ5HvsRzkEmb7J4Y5RpJs_Nbn0itCElW13zMP1QJ7wTdSJv2l_u_ZmSNkzg=="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、晩秋（11月上旬）の「週末のお出かけ・楽しみ」をテーマにした調査メモを作成しました。家族や友人に思わず話したくなる「へえ、そうだったのか！」という4つのトピックです。\n\n---\n\n# 週末のお出かけ・行楽がもっと楽しくなる調査メモ（4選）\n\n---\n\n### 1. 飛騨の「みだらし団子」はなぜ甘くない？ 〜全国の甘辛ダレとは真逆の素朴な醤油味〜\n\n* **疑問**  \n  週末に高山や古川へ出かけると必ず立ち寄りたくなる団子屋さん。全国のみたらし団子はとろりとした甘辛い餡（葛餡）が定番なのに、なぜ飛騨のみだらし団子は「甘くない生醤油のつけ焼き」なのでしょうか？\n* **理由**  \n  実は「醤油だけで香ばしく焼く」スタイルこそが、みたらし団子の本来の原形です。京都から伝わった当時の素朴な焼き団子の味が、飛騨の風土や人々の好みに合致し、時代が変わってもそのまま受け継がれたためです。\n* **具体的な数字や比較**  \n  全国で一般的なみたらし団子は「醤油＋砂糖＋葛粉（片栗粉）」でできた甘いとろみ餡を絡めますが、飛騨の団子は米粉（うるち米等）100％の団子に「生醤油」を刷毛で塗り、直火で焦げ目をつけるだけ。甘み成分を足さないため、ご飯とお醤油のような香ばしさと米本来のほのかな甘みが際立ちます。串に刺さる玉の数は、関西の5玉文化を受け継ぐ一口サイズの小粒5玉が主流です。\n* **意外な点**  \n  地元では「みたらし」と澄んだ発音ではなく、「み**だ**らし」と濁って呼ばれます。全国の感覚では「和スイーツ」ですが、飛騨ではおやつというより「小腹を満たす軽食・主食感覚」として愛されてきました。\n* **歴史の裏話**  \n  みたらし団子のルーツは京都の下鴨神社（御手洗祭）の神饌菓子とされ、当時は生醤油のつけ焼きでした。現在全国に広まる甘辛いタレは、大正時代に京都の茶屋（加茂みたらし茶屋）が黒砂糖を使って考案し爆発的に流行した比較的新しいものです。飛騨には大正以前の古い製法が伝わった後、甘いタレに染まることなく「お醤油の焼き立てが一番旨い」という素朴な文化がそのまま残りました。\n* **出典・根拠**  \n  * コイケコーポレーション（小池風流軒）「みたらし団子の歴史」\n  * 高山グリーンホテル 観光情報webマガジン「陣屋だんご」\n\n---\n\n### 2. なぜ日本で唯一？ 新穂高ロープウェイ「2階建てゴンドラ」の誕生秘話\n\n* **疑問**  \n  神岡からも近い奥飛騨温泉郷の名所「新穂高ロープウェイ」。ここで運行されている「2階建てゴンドラ」は日本でここだけですが、なぜ2階建てという珍しい構造が選ばれたのでしょうか？\n* **理由**  \n  北アルプスの険しい尾根を登る山岳ロープウェイでは、定員を増やそうと車体を横や前後に大型化すると、横風の影響を強く受けて運行停止リスクが高まり、駅舎や支柱などの設備も大規模化して中部山岳国立公園の自然環境に負荷をかけてしまいます。横に広げず「縦に重ねる（2階建て）」ことで、風の抵抗と設備負荷を抑えつつ一度に大量の乗客を安全に運ぶ技術的解決策として導入されました。\n* **具体的な数字や比較**  \n  新穂高ロープウェイ（第2ロープウェイ）は、しらかば平駅（標高1,308m）から西穂高口駅（標高2,156m）までの高低差約848mを一気に登ります。第1・第2を合わせた総高低差は1,035m、全長3,171mと日本屈指のスケールです。乗車定員は105名（1998年の初代2階建てゴンドラは121名）を誇り、2階建てゴンドラは日本全国のロープウェイの中で新穂高の1箇所のみです。\n* **意外な点**  \n  2階建てゴンドラは展望の良さだけでなく、乗車位置によって体験が全く異なります。2階席は遮るもののない大パノラマと浮遊感が味わえ、1階席は迫り来る岩肌や原生林の近さを体感できる設計になっています。\n* **歴史の裏話**  \n  1960年代初頭の設立当初、奥飛騨開発公社が掲げていた当初の計画は、なんと新穂高から穂高連峰の稜線を越え、長野県の「上高地（河童橋付近）」までロープウェイを直結させるという壮大な越境ルート（西穂高ロープウェイ構想）でした。国立公園保護や過酷な気象条件との長期の協議を経て現在の千石尾根ルートへと変更され、1970年に開業しました。\n* **出典・根拠**  \n  * 奥飛観光開発株式会社 公式note「標高2000mの絶景へ。新穂高ロープウェイ誕生秘話」（2026年9月）\n  * 新穂高ロープウェイ公式HP「ロープウェイの歴史」\n  * 岐阜女子大学 デジタルアーカイブ研究所「新穂高ロープウェイ」\n\n---\n\n### 3. 秋の森でキャラメルの匂い！？ カツラの落ち葉が甘く香る化学の不思議\n\n* **疑問**  \n  秋の週末に飛騨の山林や公園の遊歩道を歩いていると、売店もないのにふと「焼きたてのキャラメル」や「綿菓子」のような甘いお菓子の匂いが漂ってくることがあります。なぜ木の葉からお菓子の香りがするのでしょうか？\n* **理由**  \n  香りの正体は「カツラ（桂）」の落ち葉です。葉が黄色く色づいて落葉し乾燥する過程で、細胞内で「マルトール」という香気成分が生成され、大気中に揮発するためです。\n* **具体的な数字や比較**  \n  春から夏にかけての青々とした緑の葉にはマルトールはほとんど含まれていません。葉が寿命を迎え、黄色くなって地面でカラカラに乾燥すると急増し、乾燥葉の重さの約2％近くに達することもあります。マルトールは実際にパンやお菓子、香料の製造過程で甘い風味を引き立てる成分として広く使われており、人間の鼻が「キャラメルの香り」と認識するのは極めて正確な反応です。\n* **意外な点**  \n  木についている生きた葉をもいでも全く甘い香りはしません。地面に落ちてパリッと乾いた落ち葉を踏んだり、手にとって揉んだりした瞬間に最も強い香りを放ちます。\n* **歴史の裏話**  \n  昔の人々もこの香りに気付いており、東北地方などではカツラの木を「お香の木」「しょうゆの木」「まっこー（抹香）の木」と呼んでいました。乾燥させたカツラの葉を粉末にし、お線香やお香の貴重な原料（つなぎ・香料）として古くから利用していました。「カツラ」という名前自体も、甘い香りが出る「香出（かづ）る」に由来するという語源説があります。\n* **出典・根拠**  \n  * 国立研究開発法人 森林研究・整備機構 森林総合研究所 多摩森林科学園「カツラの甘い香り」\n  * 日本植物生理学会 植物Q&A「カツラの甘い香り」\n\n---\n\n### 4. 武田軍を全滅の危機から救った！？ 平湯温泉の「白猿伝説」と火山ガス\n\n* **疑問**  \n  週末の温泉ドライブでおなじみの奥飛騨温泉郷・平湯温泉。開湯伝説に登場する「白い猿」のモニュメントや民話を見かけますが、なぜ白猿が温泉を見つける話が今に伝わっているのでしょうか？\n* **理由**  \n  戦国時代、武田信玄の軍勢が北アルプス越えの過酷な行軍中、活火山の火山ガス（毒霧）に巻き込まれて倒れた際、傷を負った白猿が湯だまりに浸かって元気に飛び去るのを目撃し、兵士たちも入浴して命を救われたという出来事が起源とされているためです。\n* **具体的な数字や比較**  \n  平湯温泉は標高約1,250mに位置し、奥飛騨温泉郷の中で最も古い歴史を持つ温泉地です。現在も温泉街周辺には約40本もの豊富な源泉井戸があり、毎分膨大な湯量を誇っています。\n* **意外な点**  \n  単なるおとぎ話ではなく、江戸時代末期に飛騨国の歴史や地理を記録した公的な地誌『飛州志（ひしゅうし）』の「平湯温泉記」にも、武田軍の落命危機と老いた白猿の導きが正式に記録されています。\n* **歴史の裏話**  \n  永禄年間、信濃から飛騨・越中への侵攻を命じられた武田の猛将・山県昌景（やまがたまさかげ）の軍勢は、難所である安房峠を越える際に硫黄岳（現在の焼岳山系）の火山性ガスに巻かれ、呼吸困難と疲労でバタバタと倒れ全滅寸前でした。極限状態の中で出会った温泉の温熱と豊かなミネラルが、硫黄ガスで傷ついた兵士たちの呼吸器や疲弊した体を蘇らせました。大自然の脅威と恵みが表裏一体となった、飛騨山脈ならではのリアルな歴史が背景にあります。\n* **出典・根拠**  \n  * 岐阜女子大学 デジタルアーカイブ研究所「平湯温泉（飛州志・平湯温泉記）」\n  * 一般社団法人 奥飛騨温泉郷観光協会「平湯温泉の歴史と伝説」\n\n---\n\n# ラジオ用 3択クイズコーナー案\n\n**【問題】**  \n奥飛騨温泉郷にある「新穂高ロープウェイ」は、日本で唯一の2階建てゴンドラが人気です。  \n実は、1960年代初頭の計画が始まった当初、北アルプスを越えて「ある超有名観光地」までロープウェイを直結させようというとんでもない壮大な構想がありました。その行き先とは、次のうちどこでしょう？\n\n1. 長野県の「上高地（河童橋付近）」\n2. 富山県の「黒部ダム」\n3. 富士山の山頂\n\n---\n\n**【正解】**  \n**1. 長野県の「上高地（河童橋付近）」**\n\n**【解説トークのポイント】**  \n1961年に奥飛騨開発公社が設立された当初のプロジェクト名は「西穂高ロープウェイ構想」でした。新穂高温泉から西穂高の稜線を越え、長野県信州側の上高地・河童橋の西側まで、穂高連峰を一気にまたいで岐阜県と長野県を結ぶという前代未聞の計画だったのです。  \nその後、国立公園の自然保護や過酷な気象条件を考慮して現在のルートに変更され、1970年に開業しました。もし最初の計画通りだったら、神岡や奥飛騨から上高地までロープウェイ一本で行き来できていたかもしれませんね！",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、秋が深まるこの季節にぴったりな「懐かしい暮らし・心が和む話」の調査メモを作成しました。家族やご近所さんとの団らんで思わず話したくなる生活の知恵と歴史の裏話を4件お届けします。\n\n---\n\n# 【ラジオ企画調査メモ】懐かしい暮らしと心が和む生活の知恵\n\n---\n\n## 1. 干し柿の王様「堂上蜂屋柿」：なぜ激渋の柿がメロンの4倍も甘くなるのか？\n\n* **疑問**  \n  そのままでは口が曲がるほど渋くて食べられない渋柿が、なぜ干すだけで羊羹やジャムのように濃厚な甘さになるのでしょうか？\n* **理由**  \n  渋柿の強烈な渋みのもとは、唾液に溶け出す「可溶性タンニン」です。皮をむいて天日干しや陰干しを重ね、さらに丁寧な「手もみ」を行うことで、乾燥と酵素の働きによってタンニンが水に溶けない「不溶性タンニン」へと変化します。渋みが舌で感じられなくなり、もともと果実の中に蓄えられていた甘みだけが際立つためです。\n* **具体的な数字や比較**  \n  原料となる生柿の糖度は約18度で、一般的な甘柿（平核無柿の約14度）よりも糖分が高くなっています。これを約40日かけて干し上げると水分が抜け、完成時には糖度「55〜65度」にまで跳ね上がります。これは一般的な高級メロン（糖度14〜16度）の約4倍に匹敵する甘さです。重量も生果（約250〜300g）から完成時にはおよそ26〜28％（80〜100g程度）にまで凝縮されます。\n* **意外な点**  \n  実は、渋柿は「甘柿よりも糖分（ブドウ糖や果糖）を多く含んでいる」という事実です。強い渋みに隠されていただけでした。また、干し柿の表面に吹く上品な白い粉は、カビや添加物ではなく、果肉からにじみ出たブドウ糖と果糖が結晶化した天然の糖分です。\n* **歴史の裏話**  \n  美濃加茂市蜂屋町原産の「堂上蜂屋柿」は1000年以上の歴史を誇ります。平安時代に朝廷へ献上されたほか、源頼朝に献上した際には「蜂蜜のように甘い」と絶賛され、村の名と柿の名を「蜂屋」と賜ったと伝えられます。さらに、関ヶ原の戦いの前、徳川家康に献上された際に「大柿（大垣）が手に入る」と縁起を担いで大いに喜ばれたという逸話も残っています。明治時代にはパリ万博（1900年）で銀杯、セントルイス万博（1904年）で金杯を受賞し、世界でもその甘さが絶賛されました。\n* **引用・出典**  \n  > 「乾燥によって渋みのもととなる可溶性タンニンが不溶性に変化し、渋柿でもおいしく食べられるようになります。（中略）1900年のパリ万国博覧会で銀杯、1904年のセントルイス万国博覧会で金杯を受賞したとされ、国内外で高い評価を得てきました」  \n  > ――岐阜県公式観光情報『堂上蜂屋柿』  \n  > 「糖度は18％程度であり、渋柿の主力品種である『平核無』(糖度14％程度)よりも甘味が強い。（中略）糖度は55～65％程度となるが、しつこさがない自然な甘味との評価を得ている」  \n  > ――農林水産省地理的表示保護制度登録仕様書『堂上蜂屋柿』\n\n---\n\n## 2. 囲炉裏の「自在鉤」：なぜ鍋の上に木彫りの魚がぶら下がっているのか？\n\n* **疑問**  \n  昔の日本家屋や神岡の古民家にも見られる囲炉裏。鍋や鉄瓶を吊るす「自在鉤（じざいかぎ）」の横木には、なぜ決まって立派な魚（鯛や鯉）の木彫りがついているのでしょうか？\n* **理由**  \n  大きく分けて2つの生活の知恵と信仰が込められています。  \n  ①「火除け（火防）の祈願」：水の中に棲む魚は「水」そのものを象徴しており、木造家屋にとって最大の脅威である火事を出さないための魔除け・おまじないでした。  \n  ②「寝ずの番（火の番）」：魚にはまぶたがなく、眠っているときも目を閉じないことから、「夜も居眠りをせず、絶えず囲炉裏の火を見守って火災を防いでくれる」という火の番の象徴とされました。\n* **具体的な数字や比較**  \n  囲炉裏は江戸時代から昭和30年代に家庭の電化・プロパンガスが普及するまでの数百年間、日本の住まいの暖房・調理・照明の中心でした。自在鉤は、鍋の高さをミリ単位・センチ単位で自在に調整し、薪の火力を無駄なく鍋底に伝える省エネ道具でもありました。\n* **意外な点**  \n  魚の木彫りはただの飾りではなく、内部に通した棒との「摩擦力（テコの原理）」を利用して重い鉄鍋を空中でピタッと止める精密なブレーキ装置（ストッパー）です。さらに民俗行事では、正月に自在鉤の先端の向きで吉方（恵方）を占ったり、落とし物をした際に紙を結びつけて願掛けをしたりと、自在鉤そのものが「神様の依り代」として扱われていました。\n* **歴史の裏話**  \n  昔の囲炉裏端には座る位置に厳格なルールがありました。主人が座る「横座」、台所に近く主婦が座る「嬶座（かかざ）」、来客や子どもが座る「客座」に分かれており、一家の秩序と家族団らんの場でした。自在鉤の魚は、毎日火を扱う家族が「今日も火事を起こさず無事に過ごせますように」と祈りを捧げる暮らしの守り神だったのです。\n* **引用・出典**  \n  > 「自在鉤の横木『小猿』には鯉や鯛など魚の意匠が多く見られ、水に通じることから火除けの意味があるとされる」  \n  > ――中川武『日本の家』解説資料（MCF JAPAN『自在鉤』）  \n  > 「腕木に魚型が好まれるようになった理由は『魚が水のものだから』、つまり囲炉裏の火が燃え過ぎて火事にならないためのおまじない、ブレーキの役割なのだと言われています。（中略）魚には瞼がないことから眠らない、居眠りして火を絶やさないという意味があるとも言われています」  \n  > ――佐藤健一郎・田村善次郎『藁の力―民具の心と形』関連民俗記録\n\n---\n\n## 3. 昔の台所の知恵「木のおひつ」：なぜ冷めたご飯のほうが甘くてモチモチなのか？\n\n* **疑問**  \n  炊飯器の保温機能に長く入れておくとご飯がパサついたり黄色くなったりするのに、昔ながらの「木のおひつ（お櫃）」に移しておくと、なぜ冷めてもご飯がべちゃつかず、ふっくらモチモチとして美味しいのでしょうか？\n* **理由**  \n  白木（無塗装の木材）が持つ天然の「調湿機能（呼吸）」によるものです。炊きたての熱いご飯を入れると、木材の無数の導管が余分な水蒸気を素早く吸い取って米粒の周りに水滴がつくのを防ぎます（べちゃつき防止）。そしてご飯が冷めて乾燥し始めると、今度は木が蓄えた水分をご飯へ適度に戻すため、パサつかずにふっくらした状態が保たれます。\n* **具体的な数字や比較**  \n  炊飯器で数時間保温したご飯は熱によって水分蒸発やデンプンの劣化が進みますが、おひつに入れたご飯は常温で半日〜1日経っても米の理想的な水分比率（約60〜65％）が保たれます。また、ご飯はゆっくり冷めることでデンプンの一部が「難消化性デンプン（レジスタントスターチ）」に変化し、噛むほどに米本来の甘みが引き立ちます。\n* **意外な点**  \n  おひつにはヒノキ（檜）ではなく、「サワラ（椹）」という木材が多く使われます。ヒノキは香りが強すぎてご飯の香りを邪魔してしまいますが、サワラは香りが穏やか（ほのかな木香）で、さらに耐水性・耐酸性に優れ、余分な湿気だけを調整するのに最適な樹種だからです。\n* **歴史の裏話**  \n  かまどと羽釜でご飯を炊いていた時代、火起こしから炊き上げまでは大変な重労働で、ご飯を炊くのは1日1〜2回でした。家族全員が朝・昼・晩と美味しいご飯を食べるため、電気も冷蔵庫もない時代に先人たちが行き着いた究極のエコ保存容器がおひつでした。\n* **引用・出典**  \n  > 「木は加工されてからも生きています。常に呼吸し適度な水分調整をしてくれます。おひつは、ご飯が温かいうちは余分な水分を吸収し、冷めてくると今度はご飯が硬くならないように水分を補います」  \n  > ――信州木曽木工・志水木材産業技術資料  \n  > 「おひつに使われている材は“さわら”です。吸水性がよく、炊き立てのご飯の余分な水分を吸ってサラッと仕上がります。ひのきのように強い芳香ではなく、わずかに香る木の香りがごはんのおいしさを引き立てます」  \n  > ――木工工芸専門解説資料\n\n---\n\n## 4. 1300年経っても破れない「美濃和紙」：洋紙は100年なのに奈良時代の戸籍が今も読める謎\n\n* **疑問**  \n  現代の本やノート（洋紙）は100年も経つと黄色くなってボロボロになるのに、なぜ岐阜県の美濃和紙は1300年以上前のものが今も破れず、当時の文字がはっきりと残っているのでしょうか？\n* **理由**  \n  主原料である「楮（こうぞ）」の繊維が非常に長く強靭であること、そして製造工程で薬品（硫酸など）を使わず草木灰などの天然アルカリで煮て酸性化を防ぐ「中性」の紙であるためです。さらに、漉き舟の中で縦だけでなく横にも揺する「美濃漉き（流し漉き）」によって、繊維が縦横無尽に複雑に絡み合っているため、極めて薄くても破れにくい強靭な組織が生まれます。\n* **具体的な数字や比較**  \n  木材パルプで作る近代の洋紙（酸性紙）は、19世紀中頃の書物の約3分の1がすでに修復困難なほど劣化していると言われます。対して、奈良の正倉院に現存する日本最古の紙である「大宝2年（702年）」の美濃国戸籍用紙は、1320年以上が経過した現在でも白さと柔軟性を保ち、墨で書かれた戸籍の文字が鮮明に読めます。\n* **意外な点**  \n  正倉院には美濃・筑前・豊前の3国の戸籍が残っていますが、その中でも美濃国の紙が最も漉きムラがなく白く、当時の最高峰の技術を示していたと記録されています。また、美濃和紙は時が経つほど自然の光（紫外線）によって植物繊維の自然漂白が進み、むしろ「白さが増す」という驚きの性質を持っています。\n* **歴史の裏話**  \n  江戸時代にはその美しさと丈夫さから障子紙の最高峰「美濃判」として徳川幕府の御用紙となり、全国の障子や紙の規格サイズ（美濃判）の語源になりました。2014年には手漉き技術（本美濃紙）がユネスコ無形文化遺産に登録され、東京2020オリンピック・パラリンピックの入賞表彰状にも美濃手すき和紙が採用されました。\n* **引用・出典**  \n  > 「奈良の正倉院には、日本最古の紙として、大宝2年(702年)の美濃、筑前、豊前3国の戸籍用紙が所蔵されています。このことからも、美濃和紙は1300年以上の歴史を有すると考えられます。（中略）美濃和紙は、柔らかみのある繊細な風合いをもちながら、強靭で耐久性があり、薄くムラがないことです」  \n  > ――美濃市・美濃手すき和紙協同組合資料  \n  > 「紙を漉く際に、通常の『縦揺り』に、ゆったりとした『横揺り』を加えて繊維を絡み合わせるという、美濃和紙の産地特有の技法によって生み出されるものです。職人の手によって漉かれた美濃和紙は、時を経るほどにその白さが増すと言われています」  \n  > ――外務省広報資料『美濃和紙について』\n\n---\n\n## 【番組用3択クイズコーナー案】（話題2：囲炉裏の自在鉤より）\n\n**リスナーへの出題トーク例：**  \n「神岡の古いお宅や旅先の古民家などで、囲炉裏の上に木で彫った『魚』がぶら下がっているのを見たことはありませんか？ 鍋を吊るす自在鉤についているあの魚、実はある深い願いが込められているんです。さて、なぜ魚の形をしているのでしょうか？」\n\n* **第1問（選択肢）：**  \n  1. 昔、あの場所で川魚を煙で燻製にしていた名残  \n  2. 水に棲み、目を開けたまま眠る魚に「火の用心」を祈願したから  \n  3. 今夜の夕飯のおかずが魚料理であることを知らせる合図だった  \n\n* **正解：**  \n  **2番「水に棲み、目を開けたまま眠る魚に『火の用心』を祈願したから」**\n\n* **解説トーク：**  \n  魚は水の中に棲んでいるため「火事を消す・防ぐ」という水のおまじないでした。さらに、魚には人間のようなまぶたがなく、寝ている間も目を閉じないことから「夜も寝ないで火の番をしてくれる守り神」として大切にされていたんですね。毎日の温かいご飯と家族の安全を願った、昔の人の温かい知恵でした。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%AB%E3%83%84%E3%83%A9+%E8%90%BD%E3%81%A1%E8%91%89+%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%81%AE%E9%A6%99%E3%82%8A+%E3%83%9E%E3%83%AB%E3%83%88%E3%83%BC%E3%83%AB&client=app-vertex-grounding&safesearch=active\">カツラ 落ち葉 キャラメルの香り マルトール</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E3%81%BF%E3%81%9F%E3%82%89%E3%81%97%E3%81%A0%E3%82%93%E3%81%94+%E7%94%98%E3%81%8F%E3%81%AA%E3%81%84+%E9%86%A4%E6%B2%B9+%E7%90%86%E7%94%B1+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">飛騨 みたらしだんご 甘くない 醤油 理由 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%96%B0%E7%A9%82%E9%AB%98%E3%83%AD%E3%83%BC%E3%83%97%E3%82%A6%E3%82%A7%E3%82%A4+%E6%97%A5%E6%9C%AC%E5%94%AF%E4%B8%80+2%E9%9A%8E%E5%BB%BA%E3%81%A6%E3%82%B4%E3%83%B3%E3%83%89%E3%83%A9+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">新穂高ロープウェイ 日本唯一 2階建てゴンドラ 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B9%B3%E6%B9%AF%E6%B8%A9%E6%B3%89+%E7%99%BD%E7%8C%BF%E4%BC%9D%E8%AA%AC+%E6%AD%A6%E7%94%B0%E4%BF%A1%E7%8E%84+%E5%B1%B1%E7%9C%8C%E6%98%8C%E6%99%AF+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">平湯温泉 白猿伝説 武田信玄 山県昌景 歴史</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99+%E6%AD%A3%E5%80%89%E9%99%A2+%E6%88%B8%E7%B1%8D+1300%E5%B9%B4+%E7%90%86%E7%94%B1+%E7%B9%8A%E7%B6%AD&client=app-vertex-grounding&safesearch=active\">美濃和紙 正倉院 戸籍 1300年 理由 繊維</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%8A%E3%81%B2%E3%81%A4+%E3%81%94%E9%A3%AF+%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%84+%E7%90%86%E7%94%B1+%E7%A7%91%E5%AD%A6+%E6%B0%B4%E5%88%86+%E6%9C%A8&client=app-vertex-grounding&safesearch=active\">おひつ ご飯 美味しい 理由 科学 水分 木</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%A0%82%E4%B8%8A%E8%9C%82%E5%B1%8B%E6%9F%BF+%E6%AD%B4%E5%8F%B2+%E7%BE%8E%E6%BF%83%E5%8A%A0%E8%8C%82%E5%B8%82+%E7%B3%96%E5%BA%A6+%E3%82%BF%E3%83%B3%E3%83%8B%E3%83%B3&client=app-vertex-grounding&safesearch=active\">堂上蜂屋柿 歴史 美濃加茂市 糖度 タンニン</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%87%AA%E5%9C%A8%E9%89%A4+%E9%AD%9A+%E7%90%86%E7%94%B1+%E5%9B%B2%E7%82%89%E8%A3%8F+%E6%B0%91%E4%BF%97+%E7%81%AB%E9%98%B2&client=app-vertex-grounding&safesearch=active\">自在鉤 魚 理由 囲炉裏 民俗 火防</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWYis0q-RvLZoYAjesA_NRrkT3FIqSf0lGlMrQ7JZRH6bUkrQ99lSVJQBV8gE7wxb3K_obbv15t9RJIJg8NBZmyScE9MJh2OaFveadKIscDPsJlL4kfgJofOZ4ilwcddu7zuXqlwm-SPIOlPM=",
-          "title": "takayama-gh.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZdvp-nkwJtWrVkTeC1s-uJXFMF-_0LFNR0tUTHcHGlXSDBEw9uL4nsqu75ZpVTpi5X-1NW3gDBR-dbmPmL5YcpK3tL_N7-vVvw1MAmx_hO2X5rS4iN-fFCfNWQQTetB081qKCatnLjw==",
+          "title": "mytabi.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFORACZBPXnrQhmEKBDFlCN2nYPhFu56EaNCsaS_OfBGWeB65QNNVHZY15E4G_XbANK-XWgnPSd7eFTKzKqDy7Daz2XcsRWhWMofjEbazQSc7NCbJGQBxtPYla2",
-          "title": "mitarashi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMBXksaoKz_zwyGkrRX676maYH6Y2pzJwswNJESjMDn2kkzsXlUWAtpkwA_MjYoJE60wYuTi3E56cT-eebqySeklX9X_RrE3n4U5IFtOLJo2a7tfyBfWAup7Bkj9RHFfCS0qrlT5DktjzVsPLTL2LTmStKaNO5jUl_wwggjiIShWoniBn-9yc=",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnf2_WIq3u62CQxDDT556uHK7bTAkSjDLjWw0G_zsw2Z4bZHi6arWY6o_Ix2SUOlyMHmKd_-vMPFy7DHEwNM7eFLkhSfVPAomIqf8S3c886fDc_b4k_EiOeEaa4sbMutrpcVpH",
-          "title": "koikef.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpePb3BqwSg0bA3Ek2YNJJjC4QCMFcxED7uq7KMGzvGlMAg-6HMv3fJ3TXvEeVJxEHmGrPzW71hQzizFQvExp8QHgU9Pzz62wDksGMxGnBbP4zzaGFSXGug4v2vHMemKyxIUZVltnqwMJH",
+          "title": "minokamo.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsYii2Ez7Arer4YdPhv1J1iWAXRRTotEdJFdQKyureMHOc-tV3qRR-aRps2B1QGvU7IDkiT-eBSVs09LxAF2I6PPBQA_qP-xSGRFsRe5dA9v_vnJmLiQWyrQzY_b_aETsvSCk=",
-          "title": "hotel-around.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcy0foFqPxNe34Fhqz6cVZ92kQ87uHY13ikM5UYmLtlFmd0eBFIXSCA6XsOXbtMJztz6YhKNTVugtwMRH0X2AIhKXCEsiFkXNJwKI77iWi3ft7Z36qvNxkrUM4LIwjJwCZ6jinqAo=",
+          "title": "gifu-tisan.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7w-J6e1A9OH2JfH9aLJRo6Ovap5K4WqkLJCvfwG1IJLlMYz2kCA0VI7yHlY84oqE2xBsSoZkHngr216VTZ7ZCiFq4KIlAub_KL9rfV6AISGS_UE5NNb-6LCkH7vmF0BI=",
-          "title": "meitetsu.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER3Unf1u-tRgz76FTFZiuilfabQBXLw4IbFH4XtaAlE5pv2e7vB35FPOzPKu3WXlDUtOj2R9-TzJHW-yFr5L-xxvbIaT7mwlya78jW4SkNL5c6fdI9MtCASaFJQ5HvsRzkEmb7J4Y5RpJs_Nbn0itCElW13zMP1QJ7wTdSJv2l_u_ZmSNkzg==",
+          "title": "forest.minokamo.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBEHybP6AR7NL5AsThgRM103qYvORxtucTvHFcjy1CKKwPhY0YuUeFJnK7Ip1koL1S6VZ2SHgMeimQEorGjgnPWsAOY1TupSjht5tsvUuo6nXhqISmAOy0d28YhhcLLEGYDKtUrZCkg94NVlvDERyXkdcPZftbktgqAaXToyylQj1hDBkGF4xFuLXjX09wW1ssnlfNycGToo9bTH7UgKumj4QbMA==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY9ii2kKvRoe3BQQABm2X-SkiBOc8PkY0nQbDAzcOt4bWIw75kgqGMS-FyIfWf6juwZfT2UQIIIfckV1GTXsOJhMC-Wm53xx3uljrHAuKpmvy7ylkfrt2v87n04trwFtYivXw1NCE=",
+          "title": "mcfjapan.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuD8NOHFOnSAs1JQHKv7CSqwO30D9tDNRbZMzChKpVM_I0Q2ircQdErzJ8EaoNZrIHPVTrm9KbYoSCcAAd4dUrhRoxHTOEA8Qdqz9Rb8pB1wBMbspyij88WSDRMiRbA8EuXUcko9uCJrLosYj2FQ==",
+          "title": "fc2.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc3oXKan8BsxUxr_lQCiDQWr9Cz9pa-rWMgA6mMGsL5aj6x-IgbjVtgD_f2E077jSwTV2qzXphuGofP3LqTiTruNmH2fwobZlytdzY_TGilRj-vtCPexeVUDhB7SbC2-MWd7Dn3IHRnSV1hVXcfY57BOebUTkLpv0n1g==",
+          "title": "yahoo.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyveDSN8yx3ynJXMXvWMi6ze6ZMdd7wYjPg762o69f46GAieolbjDZhZipjesu7FO0oKQ7KdUM0XW35C68CpCVEb6czBTRCTLispVmDPwXlFZulH0FuB__uDBZ-i0cDL0WDwF0zin7Ec4QU-VoQmY=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd3_hKD45_Z5tsFqZTeS_fIJ5m8If23u-AiR-iekjOLeVKnNVSBjJydGLPfB5xwRY5FphtJqmYlWJQLlf5JaTFa2kKCj5_DzUZGNLrcNauACIzAI0_advIpkbRoKj_StgEEdcxYqnmC1ldrMI6jO2W6x0cXpRNk3ZAtFBk55b5dti9kCIpPD--vypQ8FUUHQJVO9p6k2gTtwbfGzdOo_j7Iqs_3yb934Bfmjr4GSltq-s=",
-          "title": "digitalarchiveproject.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3MWfaoZwuoqt8qXlMxH1RTdP2pAJGGvygMbsUrhQistrOzHAagFzLOrCqEyTAh-D9P1gEmTi-AWBM0dGl-IR5DuxZFiNYuciZOKZXg2ZhqyKgASZJbCg46RaB8BBh3mKaerdEi8H1_vVDyO_RKoE=",
+          "title": "ameblo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzgdUKtOLa7RtDlBz15fBX2U4B3aQwtEqK-O0qZEYQZ_WC7Z6QSVfy3OC_biwGptbZx1Eku6Bdyw7KnLn76VR1sKp_4xz-QhcyCEYoHqUxWU0L1FkN1g==",
-          "title": "trafficnews.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAAyFN-kUqdsH2d37idRGkjaP1J5mEug071Vm-ngNvqNXzqgc04Hs4KKqdctMkTfdFo6H89iSFhrCo-V0xDws9PGOxC4roqr0I6LapnsAZAuO1glHYkRNHdctuQTL2u4zAmZiImS30de6MyIHG5-8l9lW9VRynAggU2A==",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv-7GIHjP67F9g5_MPkUn1A0S1JSb04IpnkzIydMw_0e7k4G_3wbzfha0Dh14YjNo62GttChq1Mznw-P-w2AwXNwBay7RstdriKyr1x9lfrVvTzGKxYMzwSdUGcMLf7vOAHg21p8vPeodTTwsNb7yR2WNYB3eRKB0=",
-          "title": "trip.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVZd6j4m-hzHLbPMTIg6kSzJTsEmyfbB6qmq2UdKH680M7QM6gLXCVqMkmF-JO1ToP6T19ui8BgaXPXIZBFc4tCArRUJWVw0zrHZubfnE2ffPVmxsdpbmqnkvAsA==",
+          "title": "aidca.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bR3NigavbNRjFajECClGIPj3uHgcLOGosEcNdrywCT0GyBmW-iJto4wOsAswTDWbl5HANqigCxkrpz8LaVZgcNdVwjJZ-DhAF5leXAhrxNfTqP-urt0kWW-S",
-          "title": "shinhotaka-ropeway.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb3W5EWb4T9CtZoRwn3bDPC8JnEbrjjod3cghMOSkJZ_VsIxqup1VTG493sh36S14P8IwefOa_h4U5CT7CoZV9QhkJ6HbU7GtLlny3WahMGedUt9xuYWg6kAcyH-JVfU4wk3aH-GdFk12X",
+          "title": "cookingclass.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPl4bBfBIfkCR75PcdXQZA9wKgb5tf24OGLdlolaMjsqtJsDLjWi74Y6R4EIm_dXmpnOkUeSrIwzpNpz4SQLxt2xyPf-8n_kL9AbRMWZuUkWP1-yoHMw8WxQ3LfSELnBm5zkgBscL0GebetvBubZZ4kAlwri_4Ug==",
-          "title": "ffpri.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtpF2E7NqLJ1dtw514IHsuZHtH6Ap68tQKGuGUjM7bmNSMkurNBuAzcqae2nnfzSQE5V75vv9MLAHCDtIFCtbJ5JOjqM6E36eiJcLpRevFM5rWx5TrjRI9Y6UeWv0s8Ep2r1yF0SBMRWFByX4wkcOKMG1bNVoQTHh_0_bwuMn3iKsTU3bPsP-nkmq4utsLDJCkIYJTU9tjnmAfi1aVXAxNeltMh1lYrqjLtBrImkQl--nlBMzWD4jFx0W6MhUy6v7047ihlbX3GIVrEHBsYifITbxNxMuXI8iqNFV4ph-wlvUloWRp00ECjwB8sGUUsnXACIN9KdjWGF418CowgMhgYyvjWy2mk_7xw3a6A1fEjSBDlZODbxvq0qQ0UP6WkUO5dklsZ74zBZwk_xYZ4ABodjn2fUuuz_CNnaKXLJ67MYuYtA==",
+          "title": "nurimon.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwzDFVCWYR2oDvR17hKIRVlDP19If-BufCiLZyobSWu4-Dgdt88Y0FzEDi3qYwkU8PnyuHC3I8SdnssBr5S_Iz1IrgJEu7u3NmWe_98FYqKCYkdJoJEX-YI9CjcyxZ0wuTS8=",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGveUB2_vQdqq7cFxn_O4M-u8OPBoW4B6xABTOUfmTEy-8nq8uiLBStnT0aNX7mxmAChg46ckAWN_kzqxhzE6V-C4fTb5yp7qWROpL9sWuitPGYcPNoKe1miQ9_8RfVciaNIF2l",
+          "title": "furukawashiko.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpg-qTF1WivIMWJzADP1hl0uFOcSCmIlG1mI6dNtpyFwQ7Jqs0AvBjRBFMwZ3Y744VgJAxWU-_uDej47x05fjMAUJnc5aeQY3TzaZBk0WeTZmtHQF0GLb2_IIWIc-KNoJZdVDyOZE6qA==",
-          "title": "jspp.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFMMUFOPTkogUs1FBxFeq13JXYzBBaXTkQGLlKhnuty6-xHnilvVQ2StrH7ScziI_YN9COPyS_Bt17Nkiv_UY08gYsAQzS7hUO05MM4OidNquZIWk7e0YvWoGGUTO1cba7zbPUmHQ=",
+          "title": "amina-co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMTwzbgfwc1vBfzJnqg9MuRyAeAlwtC9QzwmW9KBG5wbDS3NXLpYnNcOsjrZJbzxsKyZHN-8Lug3aNxtRdcJUQaQlODwVXDrIWmRx-aXVKMKmDH9sNL_0f-qAXn0WlDv9Sa-iRjKe7o1yeB0iJHS7-_X3DP8w7uyASNt3dWCZWDJKIkbhgRiE=",
-          "title": "digitalarchiveproject.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVqvUmYrnHZ5f_KZQVDnALq-LfAF3vBi8JH1hIKbErAXX0cHjsgWTEq_ZTwk-3uzGQ1pNq1qZ7KH4XxAn1qdef8Cob72E1zTkCHO1iU2tu7tbXeyrVd48IqxXLMKRDMehf2hdOWUWke4T5LwA8tyts3Q==",
+          "title": "mofa.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGk7PggTKoJ8s7Dne8cG4PKEOFRRACuhKmoRGoi_UsVkhk48bV32bZzCZY_6Jxw0OulnU-xvzbOG-3N1wOM2lPk9XZTH3I0JW2RWZVdOq-KVQctbrUlCijtHpstT_OvU4A9zobjIfMmQw==",
-          "title": "iza-yoi.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-HKldGoyWyb1WctyJ4o1peyaarD1rSPvQxhPSyggF4jY-YTtVOF60yEYVeUdZTT6dGUm2zSMl4yLphsEFuPRJeGuX82BRmtLh4fxKxQ7YGAq5rk5dbKgZ48JlMB7QW3Mov8SsEHV4Cg2Pvp13qL0ytDX3b2nVCSnJ1wFWvFWikB4CGG3CkMac1r1yZq9PdrM1DGt8KFKuyd71Pg==",
+          "title": "minowashi.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGPaSvY1ATDW0_z1mHlCSp9hlPJmSyOjWg0NHlwN-TM_XA63reS-j8BIiA0GWYF23WMByrCbunGFfQz7g4znWcuOu5YhaWdSep6vEWYTJCdvb2KVaG-wOTDPzccnE3cUWS80OVgg6bCWBMcg==",
-          "title": "hidatakayama.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfHGLnO6Sac-gbM6k0s1tBqQZDmngeKev9Bup4msU-Xb009hXFccyQYE-FMuA0EViXQsQ_pPD0-8Dcv-jqUVDxVXTEJqoeMS1n1JKfOFmSFOYE3Qh6xhVqO1HwkjqZlBAwn5JDIBjGHg==",
+          "title": "bunka.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQzPHOJWMUx4VSDZXj9ohGYAp3VKtmRiKUJEP126LCC8udMKR1k8GMZQOT4S14dJW2TYvel19V9IdSQRl6ETmS5I9NhFRdYWprfNleFesbRxOBhrjZ2Y8YPiutSPTbQwgIbw==",
-          "title": "1onsen.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7a3-DfQDN-X5zQ2ncjpnEIdPJNxhV3OAb3V_3haBPgMxsxOb1qwDXU_Zb9VDO91eu08wv7UDY9q0J9xjXNtR4pxqk3TawretbddJvX03-KECdJ1NebieLnuv8ZWYdwR-5Rw4=",
-          "title": "hirayuonsen.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE30FaT-mzBjFiUrDkSEe-CABMqJa4_Aop3lYxjb2SrT8B292OVXlGK58G-T2BziTCA0SX9MmTlMCuTXQqKOGbpr8L3lpmftgmh3IIMXl-SkF2UEMG0SX_fqLkpNyt08Dzs0Haed2Z7jrc2Q3k=",
+          "title": "nakagawa-masashichi.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 1454,
-          "endIndex": 1583,
-          "text": "甘み成分を足さないため、ご飯とお醤油のような香ばしさと米本来のほのかな甘みが際立ちます"
+          "startIndex": 1057,
+          "endIndex": 1183,
+          "text": "渋みが舌で感じられなくなり、もともと果実の中に蓄えられていた甘みだけが際立つためです"
         },
         "groundingChunkIndices": [
-          0
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1586,
-          "endIndex": 1693,
-          "text": "串に刺さる玉の数は、関西の5玉文化を受け継ぐ一口サイズの小粒5玉が主流です"
+          "startIndex": 1225,
+          "endIndex": 1361,
+          "text": "原料となる生柿の糖度は約18度で、一般的な甘柿（平核無柿の約14度）よりも糖分が高くなっています"
         },
         "groundingChunkIndices": [
-          1,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1364,
+          "endIndex": 1493,
+          "text": "これを約40日かけて干し上げると水分が抜け、完成時には糖度「55〜65度」にまで跳ね上がります"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1594,
+          "endIndex": 1716,
+          "text": "重量も生果（約250〜300g）から完成時にはおよそ26〜28％（80〜100g程度）にまで凝縮されます"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1914,
+          "endIndex": 2094,
+          "text": "また、干し柿の表面に吹く上品な白い粉は、カビや添加物ではなく、果肉からにじみ出たブドウ糖と果糖が結晶化した天然の糖分です"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2124,
+          "endIndex": 2218,
+          "text": "美濃加茂市蜂屋町原産の「堂上蜂屋柿」は1000年以上の歴史を誇ります"
+        },
+        "groundingChunkIndices": [
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1720,
-          "endIndex": 1832,
-          "text": "地元では「みたらし」と澄んだ発音ではなく、「み**だ**らし」と濁って呼ばれます"
+          "startIndex": 2221,
+          "endIndex": 2419,
+          "text": "平安時代に朝廷へ献上されたほか、源頼朝に献上した際には「蜂蜜のように甘い」と絶賛され、村の名と柿の名を「蜂屋」と賜ったと伝えられます"
         },
         "groundingChunkIndices": [
-          0,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 2033,
-          "endIndex": 2174,
-          "text": "みたらし団子のルーツは京都の下鴨神社（御手洗祭）の神饌菓子とされ、当時は生醤油のつけ焼きでした"
+          "startIndex": 2422,
+          "endIndex": 2614,
+          "text": "さらに、関ヶ原の戦いの前、徳川家康に献上された際に「大柿（大垣）が手に入る」と縁起を担いで大いに喜ばれたという逸話も残っています"
         },
         "groundingChunkIndices": [
-          1,
-          2
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 2177,
-          "endIndex": 2369,
-          "text": "現在全国に広まる甘辛いタレは、大正時代に京都の茶屋（加茂みたらし茶屋）が黒砂糖を使って考案し爆発的に流行した比較的新しいものです"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2372,
-          "endIndex": 2567,
-          "text": "飛騨には大正以前の古い製法が伝わった後、甘いタレに染まることなく「お醤油の焼き立てが一番旨い」という素朴な文化がそのまま残りました"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2599,
-          "endIndex": 2686,
-          "text": "コイケコーポレーション（小池風流軒）「みたらし団子の歴史」"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2691,
-          "endIndex": 2767,
-          "text": "高山グリーンホテル 観光情報webマガジン「陣屋だんご」"
+          "startIndex": 2617,
+          "endIndex": 2781,
+          "text": "明治時代にはパリ万博（1900年）で銀杯、セントルイス万博（1904年）で金杯を受賞し、世界でもその甘さが絶賛されました"
         },
         "groundingChunkIndices": [
           0
@@ -276,182 +283,198 @@
       },
       {
         "segment": {
-          "startIndex": 3509,
-          "endIndex": 3705,
-          "text": "横に広げず「縦に重ねる（2階建て）」ことで、風の抵抗と設備負荷を抑えつつ一度に大量の乗客を安全に運ぶ技術的解決策として導入されました"
+          "startIndex": 3158,
+          "endIndex": 3212,
+          "text": "――岐阜県公式観光情報『堂上蜂屋柿』"
         },
         "groundingChunkIndices": [
-          4,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3470,
+          "endIndex": 3554,
+          "text": "――農林水産省地理的表示保護制度登録仕様書『堂上蜂屋柿』"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4030,
+          "endIndex": 4255,
+          "text": "①「火除け（火防）の祈願」：水の中に棲む魚は「水」そのものを象徴しており、木造家屋にとって最大の脅威である火事を出さないための魔除け・おまじないでした"
+        },
+        "groundingChunkIndices": [
           5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 3747,
-          "endIndex": 3932,
-          "text": "新穂高ロープウェイ（第2ロープウェイ）は、しらかば平駅（標高1,308m）から西穂高口駅（標高2,156m）までの高低差約848mを一気に登ります"
+          "startIndex": 4263,
+          "endIndex": 4533,
+          "text": "②「寝ずの番（火の番）」：魚にはまぶたがなく、眠っているときも目を閉じないことから、「夜も居眠りをせず、絶えず囲炉裏の火を見守って火災を防いでくれる」という火の番の象徴とされました"
         },
         "groundingChunkIndices": [
-          7,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4575,
+          "endIndex": 4760,
+          "text": "囲炉裏は江戸時代から昭和30年代に家庭の電化・プロパンガスが普及するまでの数百年間、日本の住まいの暖房・調理・照明の中心でした"
+        },
+        "groundingChunkIndices": [
+          5,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 3935,
-          "endIndex": 4033,
-          "text": "第1・第2を合わせた総高低差は1,035m、全長3,171mと日本屈指のスケールです"
+          "startIndex": 4763,
+          "endIndex": 4928,
+          "text": "自在鉤は、鍋の高さをミリ単位・センチ単位で自在に調整し、薪の火力を無駄なく鍋底に伝える省エネ道具でもありました"
         },
         "groundingChunkIndices": [
-          4
+          5,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 4036,
-          "endIndex": 4220,
-          "text": "乗車定員は105名（1998年の初代2階建てゴンドラは121名）を誇り、2階建てゴンドラは日本全国のロープウェイの中で新穂高の1箇所のみです"
+          "startIndex": 4955,
+          "endIndex": 5180,
+          "text": "魚の木彫りはただの飾りではなく、内部に通した棒との「摩擦力（テコの原理）」を利用して重い鉄鍋を空中でピタッと止める精密なブレーキ装置（ストッパー）です"
         },
         "groundingChunkIndices": [
-          4,
-          7,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5183,
+          "endIndex": 5444,
+          "text": "さらに民俗行事では、正月に自在鉤の先端の向きで吉方（恵方）を占ったり、落とし物をした際に紙を結びつけて願掛けをしたりと、自在鉤そのものが「神様の依り代」として扱われていました"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5552,
+          "endIndex": 5753,
+          "text": "主人が座る「横座」、台所に近く主婦が座る「嬶座（かかざ）」、来客や子どもが座る「客座」に分かれており、一家の秩序と家族団らんの場でした"
+        },
+        "groundingChunkIndices": [
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 4362,
-          "endIndex": 4529,
-          "text": "2階席は遮るもののない大パノラマと浮遊感が味わえ、1階席は迫り来る岩肌や原生林の近さを体感できる設計になっています"
+          "startIndex": 5756,
+          "endIndex": 5933,
+          "text": "自在鉤の魚は、毎日火を扱う家族が「今日も火事を起こさず無事に過ごせますように」と祈りを捧げる暮らしの守り神だったのです"
         },
         "groundingChunkIndices": [
+          5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 4559,
-          "endIndex": 4881,
-          "text": "1960年代初頭の設立当初、奥飛騨開発公社が掲げていた当初の計画は、なんと新穂高から穂高連峰の稜線を越え、長野県の「上高地（河童橋付近）」までロープウェイを直結させるという壮大な越境ルート（西穂高ロープウェイ構想）でした"
+          "startIndex": 6128,
+          "endIndex": 6203,
+          "text": "――中川武『日本の家』解説資料（MCF JAPAN『自在鉤』）"
         },
         "groundingChunkIndices": [
-          9
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 4884,
-          "endIndex": 5035,
-          "text": "国立公園保護や過酷な気象条件との長期の協議を経て現在の千石尾根ルートへと変更され、1970年に開業しました"
+          "startIndex": 6610,
+          "endIndex": 6703,
+          "text": "――佐藤健一郎・田村善次郎『藁の力―民具の心と形』関連民俗記録"
         },
         "groundingChunkIndices": [
-          4,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5137,
-          "endIndex": 5196,
-          "text": "新穂高ロープウェイ誕生秘話」（2026年9月）"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5201,
-          "endIndex": 5269,
-          "text": "新穂高ロープウェイ公式HP「ロープウェイの歴史」"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5274,
-          "endIndex": 5362,
-          "text": "岐阜女子大学 デジタルアーカイブ研究所「新穂高ロープウェイ」"
-        },
-        "groundingChunkIndices": [
+          7,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 5813,
-          "endIndex": 5873,
-          "text": "香りの正体は「カツラ（桂）」の落ち葉です"
+          "startIndex": 7164,
+          "endIndex": 7263,
+          "text": "白木（無塗装の木材）が持つ天然の「調湿機能（呼吸）」によるものです"
         },
         "groundingChunkIndices": [
-          10,
-          11
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 5876,
-          "endIndex": 6044,
-          "text": "葉が黄色く色づいて落葉し乾燥する過程で、細胞内で「マルトール」という香気成分が生成され、大気中に揮発するためです"
-        },
-        "groundingChunkIndices": [
-          10,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6086,
-          "endIndex": 6197,
-          "text": "春から夏にかけての青々とした緑の葉にはマルトールはほとんど含まれていません"
-        },
-        "groundingChunkIndices": [
-          10,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6200,
-          "endIndex": 6360,
-          "text": "葉が寿命を迎え、黄色くなって地面でカラカラに乾燥すると急増し、乾燥葉の重さの約2％近くに達することもあります"
-        },
-        "groundingChunkIndices": [
-          10,
-          11,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6363,
-          "endIndex": 6603,
-          "text": "マルトールは実際にパンやお菓子、香料の製造過程で甘い風味を引き立てる成分として広く使われており、人間の鼻が「キャラメルの香り」と認識するのは極めて正確な反応です"
-        },
-        "groundingChunkIndices": [
-          10,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6630,
-          "endIndex": 6711,
-          "text": "木についている生きた葉をもいでも全く甘い香りはしません"
+          "startIndex": 7266,
+          "endIndex": 7461,
+          "text": "炊きたての熱いご飯を入れると、木材の無数の導管が余分な水蒸気を素早く吸い取って米粒の周りに水滴がつくのを防ぎます（べちゃつき防止）"
         },
         "groundingChunkIndices": [
           11,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7464,
+          "endIndex": 7641,
+          "text": "そしてご飯が冷めて乾燥し始めると、今度は木が蓄えた水分をご飯へ適度に戻すため、パサつかずにふっくらした状態が保たれます"
+        },
+        "groundingChunkIndices": [
+          9,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 6714,
-          "endIndex": 6855,
-          "text": "地面に落ちてパリッと乾いた落ち葉を踏んだり、手にとって揉んだりした瞬間に最も強い香りを放ちます"
+          "startIndex": 7683,
+          "endIndex": 7928,
+          "text": "炊飯器で数時間保温したご飯は熱によって水分蒸発やデンプンの劣化が進みますが、おひつに入れたご飯は常温で半日〜1日経っても米の理想的な水分比率（約60〜65％）が保たれます"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7931,
+          "endIndex": 8138,
+          "text": "また、ご飯はゆっくり冷めることでデンプンの一部が「難消化性デンプン（レジスタントスターチ）」に変化し、噛むほどに米本来の甘みが引き立ちます"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8165,
+          "endIndex": 8276,
+          "text": "おひつにはヒノキ（檜）ではなく、「サワラ（椹）」という木材が多く使われます"
+        },
+        "groundingChunkIndices": [
+          11,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8279,
+          "endIndex": 8537,
+          "text": "ヒノキは香りが強すぎてご飯の香りを邪魔してしまいますが、サワラは香りが穏やか（ほのかな木香）で、さらに耐水性・耐酸性に優れ、余分な湿気だけを調整するのに最適な樹種だからです"
         },
         "groundingChunkIndices": [
           11
@@ -459,82 +482,60 @@
       },
       {
         "segment": {
-          "startIndex": 6885,
-          "endIndex": 7080,
-          "text": "昔の人々もこの香りに気付いており、東北地方などではカツラの木を「お香の木」「しょうゆの木」「まっこー（抹香）の木」と呼んでいました"
+          "startIndex": 8567,
+          "endIndex": 8726,
+          "text": "かまどと羽釜でご飯を炊いていた時代、火起こしから炊き上げまでは大変な重労働で、ご飯を炊くのは1日1〜2回でした"
         },
         "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7083,
-          "endIndex": 7236,
-          "text": "乾燥させたカツラの葉を粉末にし、お線香やお香の貴重な原料（つなぎ・香料）として古くから利用していました"
-        },
-        "groundingChunkIndices": [
-          10,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7242,
-          "endIndex": 7377,
-          "text": "カツラ」という名前自体も、甘い香りが出る「香出（かづ）る」に由来するという語源説があります"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7409,
-          "endIndex": 7535,
-          "text": "国立研究開発法人 森林研究・整備機構 森林総合研究所 多摩森林科学園「カツラの甘い香り」"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7540,
-          "endIndex": 7604,
-          "text": "日本植物生理学会 植物Q&A「カツラの甘い香り」"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8016,
-          "endIndex": 8364,
-          "text": "戦国時代、武田信玄の軍勢が北アルプス越えの過酷な行軍中、活火山の火山ガス（毒霧）に巻き込まれて倒れた際、傷を負った白猿が湯だまりに浸かって元気に飛び去るのを目撃し、兵士たちも入浴して命を救われたという出来事が起源とされているためです"
-        },
-        "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8406,
-          "endIndex": 8520,
-          "text": "平湯温泉は標高約1,250mに位置し、奥飛騨温泉郷の中で最も古い歴史を持つ温泉地です"
-        },
-        "groundingChunkIndices": [
-          15,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 8523,
-          "endIndex": 8642,
-          "text": "現在も温泉街周辺には約40本もの豊富な源泉井戸があり、毎分膨大な湯量を誇っています"
+          "startIndex": 8729,
+          "endIndex": 8915,
+          "text": "家族全員が朝・昼・晩と美味しいご飯を食べるため、電気も冷蔵庫もない時代に先人たちが行き着いた究極のエコ保存容器がおひつでした"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9227,
+          "endIndex": 9284,
+          "text": "――信州木曽木工・志水木材産業技術資料"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9595,
+          "endIndex": 9631,
+          "text": "――木工工芸専門解説資料"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10052,
+          "endIndex": 10307,
+          "text": "主原料である「楮（こうぞ）」の繊維が非常に長く強靭であること、そして製造工程で薬品（硫酸など）を使わず草木灰などの天然アルカリで煮て酸性化を防ぐ「中性」の紙であるためです"
+        },
+        "groundingChunkIndices": [
+          14,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10310,
+          "endIndex": 10559,
+          "text": "さらに、漉き舟の中で縦だけでなく横にも揺する「美濃漉き（流し漉き）」によって、繊維が縦横無尽に複雑に絡み合っているため、極めて薄くても破れにくい強靭な組織が生まれます"
         },
         "groundingChunkIndices": [
           16
@@ -542,94 +543,94 @@
       },
       {
         "segment": {
-          "startIndex": 8669,
-          "endIndex": 8939,
-          "text": "単なるおとぎ話ではなく、江戸時代末期に飛騨国の歴史や地理を記録した公的な地誌『飛州志（ひしゅうし）』の「平湯温泉記」にも、武田軍の落命危機と老いた白猿の導きが正式に記録されています"
+          "startIndex": 10601,
+          "endIndex": 10767,
+          "text": "木材パルプで作る近代の洋紙（酸性紙）は、19世紀中頃の書物の約3分の1がすでに修復困難なほど劣化していると言われます"
         },
         "groundingChunkIndices": [
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8969,
-          "endIndex": 9293,
-          "text": "永禄年間、信濃から飛騨・越中への侵攻を命じられた武田の猛将・山県昌景（やまがたまさかげ）の軍勢は、難所である安房峠を越える際に硫黄岳（現在の焼岳山系）の火山性ガスに巻かれ、呼吸困難と疲労でバタバタと倒れ全滅寸前でした"
-        },
-        "groundingChunkIndices": [
-          13,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 9296,
-          "endIndex": 9464,
-          "text": "極限状態の中で出会った温泉の温熱と豊かなミネラルが、硫黄ガスで傷ついた兵士たちの呼吸器や疲弊した体を蘇らせました"
-        },
-        "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9625,
-          "endIndex": 9731,
-          "text": "岐阜女子大学 デジタルアーカイブ研究所「平湯温泉（飛州志・平湯温泉記）」"
-        },
-        "groundingChunkIndices": [
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9736,
-          "endIndex": 9821,
-          "text": "一般社団法人 奥飛騨温泉郷観光協会「平湯温泉の歴史と伝説」"
+          "startIndex": 10770,
+          "endIndex": 11027,
+          "text": "対して、奈良の正倉院に現存する日本最古の紙である「大宝2年（702年）」の美濃国戸籍用紙は、1320年以上が経過した現在でも白さと柔軟性を保ち、墨で書かれた戸籍の文字が鮮明に読めます"
         },
         "groundingChunkIndices": [
           17,
-          13
+          14,
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 10534,
-          "endIndex": 10664,
-          "text": "1961年に奥飛騨開発公社が設立された当初のプロジェクト名は「西穂高ロープウェイ構想」でした"
+          "startIndex": 11054,
+          "endIndex": 11277,
+          "text": "正倉院には美濃・筑前・豊前の3国の戸籍が残っていますが、その中でも美濃国の紙が最も漉きムラがなく白く、当時の最高峰の技術を示していたと記録されています"
         },
         "groundingChunkIndices": [
-          9
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 10667,
-          "endIndex": 10892,
-          "text": "新穂高温泉から西穂高の稜線を越え、長野県信州側の上高地・河童橋の西側まで、穂高連峰を一気にまたいで岐阜県と長野県を結ぶという前代未聞の計画だったのです"
+          "startIndex": 11280,
+          "endIndex": 11475,
+          "text": "また、美濃和紙は時が経つほど自然の光（紫外線）によって植物繊維の自然漂白が進み、むしろ「白さが増す」という驚きの性質を持っています"
         },
         "groundingChunkIndices": [
-          9
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 10898,
-          "endIndex": 11040,
-          "text": "その後、国立公園の自然保護や過酷な気象条件を考慮して現在のルートに変更され、1970年に開業しました"
+          "startIndex": 11505,
+          "endIndex": 11718,
+          "text": "江戸時代にはその美しさと丈夫さから障子紙の最高峰「美濃判」として徳川幕府の御用紙となり、全国の障子や紙の規格サイズ（美濃判）の語源になりました"
         },
         "groundingChunkIndices": [
-          4,
-          9
+          19,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11721,
+          "endIndex": 11939,
+          "text": "2014年には手漉き技術（本美濃紙）がユネスコ無形文化遺産に登録され、東京2020オリンピック・パラリンピックの入賞表彰状にも美濃手すき和紙が採用されました"
+        },
+        "groundingChunkIndices": [
+          19,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12385,
+          "endIndex": 12442,
+          "text": "――美濃市・美濃手すき和紙協同組合資料"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12801,
+          "endIndex": 12858,
+          "text": "――外務省広報資料『美濃和紙について』"
+        },
+        "groundingChunkIndices": [
+          16
         ]
       }
     ],
     "webSearchQueries": [
-      "カツラ 落ち葉 キャラメルの香り マルトール",
-      "飛騨 みたらしだんご 甘くない 醤油 理由 由来",
-      "新穂高ロープウェイ 日本唯一 2階建てゴンドラ 理由",
-      "平湯温泉 白猿伝説 武田信玄 山県昌景 歴史"
+      "美濃和紙 正倉院 戸籍 1300年 理由 繊維",
+      "おひつ ご飯 美味しい 理由 科学 水分 木",
+      "堂上蜂屋柿 歴史 美濃加茂市 糖度 タンニン",
+      "自在鉤 魚 理由 囲炉裏 民俗 火防"
     ]
   }
 }
