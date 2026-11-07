@@ -1,26 +1,24 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2080,
-  "estimated_minutes": 6.3,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 2017,
+  "estimated_minutes": 6.1,
+  "saturday_story": "story-04",
   "listener_notes": [],
   "quiz": {
-    "question": "和泉町生まれの石川丈山が武士を辞める原因となった、大坂夏の陣での違反行為は何でしょうか。1番、抜け駆けの一番乗りをした。2番、戦場で自慢の漢詩を朗読した。3番、槍を磨くのに夢中で大遅刻した。",
-    "answer": "正解は1番、抜け駆けの一番乗りでした！手柄を焦って命令を無視しちゃったんだね。怒られて浪人になったけど、そこから煎茶の祖と呼ばれる大文人に大転身したんだから人生わからんじゃんね！",
+    "question": "食器などの焼き物を「せともの」と呼びますが、昔の西日本では別の産地にちなんで何と呼んでいたでしょうか。1番、からつもの。2番、ありたもの。3番、みおんの宝もの。",
+    "answer": "正解は1番、からつもの！佐賀の唐津焼が身近だったからだに！ちなみに3番を選んだ人、私の宝ものはリスナーの笑顔…って、AIが朝からクサいこと言っとる場合じゃないじゃんね！",
     "source_ids": [
-      2,
-      3
+      10
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjWzxUYAfDeAdaoFPirYFzF0HJ1tX9Jf1l-8QS2g6orji0Fta5qZbDNDIzN35moapsuGNi4yLOkIaZJjTeVN3rK6YxXYR0m0Wz824SBYuN",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkraDqcb1ZEdNxkBxaK8mJ8h21pZ22bez4lp3CVoBEg2ZFHZpBFTJPyZQGnh-nt_GEkLcPK-xH3BfSrSXUh3LBYWDDw3mYTdHC-D2D8ncd-5jRlMK2bINggDEKfTwIZjb5B5lf6yGfLkwPXXmyIGIJ1VXi8iN0pNIrThkrkLnke_L7jHNklw=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYxG8HOrWQRUUi8YCI4nYUCdz2K9r7M8NaQZE3mInw_1BIkTpce9LbOjdOl9qXnQA2AQJ8iQL0lLbc3fP0Je9pkYdpOSy674EPSogfhOcEpgZtHY6WUQ=="
     ]
   },
   "izumi": {
-    "text": "番組の目玉、みおんの和泉ディープ！今日は和泉の大地主、都築弥厚さんのお話だよ。1765年にここ和泉村で生まれた弥厚さんは、お酒造りも営んで代官職も務めた大金持ち。でも当時の碧海台地は酸性の粘土質で水はけが悪くて、慢性的な水不足で農民同士の水争いが絶えんかったの。それを見かねた弥厚さん、矢作川から約30キロの水路を引いて、約6000ヘクタールもの土地を潤す大用水を計画したんだわ！今の明治用水の原構想だに。でも水害を心配する農民から大反対されて、測量の邪魔までされちゃってね。夜に提灯や松明の明かりでこっそり測量したり、綿やそばの種をまいて芽が出た跡を目印にしたんだって。どんだけ涙ぐましい苦労なん！1822年から5年かけて測量を終えて幕府に願書を出し、1833年にようやく一部許可が出たんだけど、なんとその同じ年に69歳で病気で亡くなっちゃったの。しかも私財を全部つぎ込んで、残った借金はなんと2万5千両！今の感覚なら大炎上どころか一家離散レベルだよね。それでも自分の利益じゃなく、未来の三河のためにすべてを投げ打ったんだから、本当にすごい人。明治用水の祖が和泉におったこと、もっと胸を張って自慢していいじゃんね！",
+    "text": "都築弥厚の構想から実現まで半世紀近くかかった明治用水。これをやり遂げたのが、今の碧南市、碧海郡大浜村生まれの背が高く厳格な岡本兵松さんだに！1853年ごろに原野を買って開墾を始めて、そこで弥厚さんの計画を知って遺志を継ぐと決めたんだよね。でも1858年と1868年の申請はどっちも許可されず却下！今なら心折れて転職サイトに登録しとるレベルじゃんね。それでも諦めず、阿弥陀堂村の伊予田与八郎さんと計画を合わせて、出資者の交渉は伊予田さん、農民の説得は兵松さんが担当したんだわ！そして1876年に愛知県から認可され、1879年に工事開始！1880年4月18日に水源地で通水式を迎えて、1881年に『明治用水』と名付けられたの。かんがい面積は最大1万760ヘクタール！この水のおかげで安城は農業が発展して、『日本デンマーク』って呼ばれるようになったんだに。…って、急に北欧の国が出てきて、なんでデンマークなん！？って突っ込みたくならん？でもそれだけ世界に誇る農業先進地だったってことだよね！兵松さんは私財を投じて晩年は経済的に苦しく、1897年に76歳で亡くなったんだけど、この用水がなかったら今の緑豊かな安城はなかったはず。世界レベルの農業を切り拓いた先人たち、本当に地元の誇りだに！",
     "source_ids": [
       1
     ],
@@ -28,188 +26,172 @@
       "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "yakou-debt",
-      "hook": "借金2万5千両。夢にすべてを賭けた和泉の大地主"
+      "id": "meiji-denmark",
+      "hook": "水が来て安城が『日本デンマーク』に。なぜデンマーク？という素朴なツッコミ"
     }
   },
   "local": {
-    "text": "明日11月7日土曜日は、安祥ふれあいレクリエーションが開催されるよ！週末に体を動かしたい人にぴったりだね。秋の心地いい風を感じながら、みんなで楽しい土曜日を過ごしてみてりん！",
+    "text": "安城市の中部公民館で、11月14日に『中部公民館ふれあいウォーキング』が開催されるよ。11月に入って秋も深まってきたもんで、週末にみんなで歩いて体を動かすにはぴったりの季節だら！普段はあんまり歩かんという人も、週末のリフレッシュにいい機会になりそうだよね。気になった人はカレンダーにしっかりメモして、ぜひチェックしてみてりんね！",
     "source_ids": [
-      23
+      26
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html"
+      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
     ]
   },
   "segments": [
     {
-      "topic": "名古屋市科学館のプラネタリウムが世界一なのに超アナログな理由",
-      "text": "週末のお出かけといえば、名古屋市科学館のプラネタリウム！あの巨大な銀色の球体、外から見てもワクワクするじゃんね。ドームの内径はなんと35メートルもあって、ギネス世界記録の世界最大なんだよ！国内2位の愛媛の施設より5メートルもデカいんだわ。でもさ、映画館の最前列みたいに画面が巨大すぎると、端っこがぼやけたり首が痛くなったりせん？実はあのドーム、パネルのつなぎ目をミリ単位で見えなくする特殊加工がしてあって、最新の光学式とデジタルを合体させて歪みを完全に消しとるの！しかも客席のシート、背もたれが倒れるだけじゃなくて左右に30度も首を振る特注品なんだって。どんだけ至れり尽くせりなん！でもみおんが一番たまげたのはそこじゃないの。世界最先端のハイテク施設なのに、星空の解説は録音の自動音声じゃなくて、1962年の開館からずーっと学芸員さんの生解説なんだわ！今日の星空に合わせて人が直接語りかけてくれるなんて、贅沢すぎんだら。みおんもAIだけど、生放送の語りだけは負けられんよ！週末に星を見に行く人は、ドームのつなぎ目のなさにも注目してみてりん！",
-      "source_ids": [
-        12,
-        13,
-        14
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGicRpxHgS-O_PPtv9kxBPyMyG5R6Wn8Dlldwb4r6e7r7s3NF8-WpBEkkCABvI_EL5QSYLuDmVMiik6BquYmBvgB5nah2ohMxk7GgiXxEdtLQQKF06zIOqJp4ZlR-yikItzbNRIn4a6s0IpGFYAWUeBie_3SwUAZ_zDSw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl1eIrAd9ChOAkxvEoj4LvfMhQn3P7JUFJl8NUUI__VpXaX-AC6K0Dt9IxQWKZg0ozBqh01OkXv_xWmgnkqmU2kHVNPPWrYnaDZxM7K5zqYydH6sNS6xj7mZxMz0oOscHgW6izfVL3XA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCW9go0ME2iExIyhSC8dnHyRx5lpNrGAaTuAt6QRX22-ztuYJAM4QU7BHFGTDzx9h2uKgVykUrl46kx3FJgQtUhrPC5ZVU7ZJxZR2Y5-X1htITSRdwBiCU"
-      ]
-    },
-    {
-      "topic": "水族館の巨大水槽が何千トンもの水圧で絶対に割れない秘密",
-      "text": "星空のロマンもいいけど、水族館の巨大水槽も週末の大本命じゃんね！目の前をジンベエザメが泳ぐ大迫力の水槽、見てるとふと不安にならん？これ、今パリーンって割れたらどうなるんだろ、って。何千トンもの水が入っとるのにビクともせんの、不思議だよね。実はあの透明な壁、ガラスじゃないんだわ！正体はアクリル樹脂。なんとガラスの10倍以上の衝撃に耐えられて、水圧がかかっても柔軟にしなるスーパー素材なの！例えば美ら海水族館のメイン水槽だと、パネルの厚さが驚異の60センチ！おうちの窓ガラスの100倍以上だに！…って、ちょっと待って？60センチもプラスチックを重ねたら、普通は光を吸って黄色く濁るはずじゃん！なのに真正面から見ても、水が壁なしでそのまま立っとるみたいに透明だよね。実は原板を作るときに特殊な色調整をして、接着剤も全く同じ光の屈折率にしとるんだって。しかもこの巨大アクリルパネルの技術、世界シェアの約7割を香川県の中小企業が握っとるの！大企業が事故を恐れて逃げ出す中、創業者が私財を投じて実験を重ねて成功させたんだわ。情熱がかっこよすぎるじゃん！水族館に行ったら、魚を見るふりしてパネルの厚みもじっくり拝んでみてりん！",
+      "topic": "トタンの湯たんぽはなぜ波型にデコボコしているのか？",
+      "text": "明治用水の温かい歴史に続いて、お布団の温かいお話！寒くなってくると恋しくなるのが、昔ながらのトタンの湯たんぽじゃんね。お湯を入れて布団の足元に忍ばせると、じんわり朝まで温かいんだけど…あの表面、なんで波型にデコボコしとるか知っとる？「肌触りを良くするため」とか「足つぼマッサージ用」…って、布団の中で足つぼ押しとる場合じゃないじゃん！実はあれ、大気圧から身を守るための超ハイテク構造なんだって！えっ、大気圧！？ちょっと待って、お湯を入れる道具にそんな壮大な物理の話が出てくるなんて聞いてないんだけど！湯たんぽにお湯を入れてフタを密閉すると、時間が経つにつれて中のお湯と空気が冷えて、体積がキュッと縮むんだわ。そうすると内部の気圧が下がって、外の空気の力に押しつぶされちゃうわけ。もし表面がツルツルに平らだったら、外からの大気圧でベコッと思いっきりへこんで、金属疲労で割れちゃうんだって！恐ろしすぎるだら！そこで金属の板を波型にプレス成形することで、板の厚みを変えずに曲げに対する強度が劇的に跳ね上がって、ペチャンコになるのを防いどるの。しかも平らな板に比べて、表面積が約1.2倍から1.3倍に広がるもんで、熱が効率よくお布団に伝わって暖房効果も高まるっていう一石二鳥の神ワザ！大正時代の町工場の職人さんたちが試行錯誤して完成させたらしいよ。今夜もしトタンの湯たんぽを使う人がいたら、足元で大気圧と戦いながらお布団を温めてくれとる職人魂に、感謝しながらぬくぬく寝りんね！",
       "source_ids": [
         18,
-        20,
-        22
+        19
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF-Ap3kxPB-A-j6YEQPA2MUDjyo7AR_Q54trUhQoX9MDCFZUKRG1O_NUBG2b-YaQgMjsiReq2f4Dy84cQxeICbdJvLv7AwqpDCNYTAr_m5gsXN4aek2Jc_ElIHMxWSU_mGp_FE-0H74sEv4do1w==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMZ4Egzr9NgXsAUtUYwf8SkIV9i8joc_FXQOKkRaBfpYsxCiQlbnUu4MWC5WUweyc-zi5TWJoci0KeRL2__ALqETn__sMoy_rsnU54gGNdQ3-02Q3xbAfvL-hWghuD4Z5go4cnEHOxxb1FZT0NJiEw_jkPnB4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdebxdgvvd3uhYdJMZzubCM5kdHMa-R0L_lHrE0aJPtBMI4O76Sr56KZvmTjM85-m6pkfqFgBLPiuX0PPvExAKXea04LSPSwLp0YEefDPqqhHQ38cDj3UJzTtpd9ms"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3gZShOgW3YYLl3Goe17cR-8EVhKbSehhSD1MAq7H40wYmgZ4dSQ7KYupd7TruxWPmGv6_AmD_-XtQi2OI2uFs-aOJjB-MTADgjby245ZtxfQYOw2Ko1lE3VekoY=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMl5a5xkuY_OtYPpoWEXSbqDRwcAuHh9RifunojRfQ-ZXiZgj8uwP2Ipim8Eo9Ad5rsvUYzhMbZ11CfnGUngzHw1jx2Z1YnQmvDm7_Ey5Yk6_tRtnYQ=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ放送に向け、秋の行楽シーズンに家族や友人と出かけたくなるスポットやレジャーにまつわる「へえ、そうだったのか！」という疑問4件の調査メモを作成しました。安城・西三河および愛知県内の話題を中心に、公的機関や公式資料の確証に基づき構成しています。\n\n---\n\n### 1. 安城・和泉町の誇る文人庭園「丈山苑」\n**疑問：京都の有名寺院「詩仙堂」を作った石川丈山は、なぜ武士を辞めて「煎茶の祖」になったのか？**\n\n* **理由：**\n  大坂夏の陣（1615年）において、徳川家康が厳格に禁じていた「抜け駆け（一番乗り）」を行い、軍令違反に問われて蟄居（浪人）処分となったことがきっかけです。武士としての栄達の道を断たれた丈山は刀を置き、儒学者・藤原惺窩に師事して学問と風雅の世界へ劇的な転身を遂げました。\n* **具体的な数字や比較：**\n  丈山は三河国碧海郡泉郷（現在の安城市和泉町）の武士の家に生まれ、16歳で徳川家康の近習となりました。大坂夏の陣で武士を辞めたのは33歳の時です。その後、京都一乗寺に「詩仙堂」を開いたのは59歳で、当時としては非常に長寿である90歳で亡くなるまで、約30年間にわたり悠々自適の隠棲生活を送りました。\n* **意外な点：**\n  家康の側近として戦場を駆けた屈強な三河武士でありながら、隠棲後は漢詩人として名を馳せただけでなく、日本で初めて書道に「隷書体」を本格的に取り入れ、さらには幕末の書物『煎茶綺言』で「煎茶家系譜」の初代に挙げられるなど「日本の煎茶の開祖（祖）」と称されるほどの文化的巨匠となった点です。\n* **歴史の裏話：**\n  京都で名声を博した丈山ですが、晩年まで生誕の地である和泉郷への望郷の念を抱き続けていました。現在、和泉町にある「丈山苑」は、詩仙堂の建物をイメージした詩泉閣や、丈山が手掛けた3つの名庭の様式が再現されており、彼がかつて暮らした京都の書斎「学甫堂（丈山文庫）」も町内に移築・保存されています。\n* **根拠・出典：**\n  安城市「丈山苑」公式サイト、安城市観光協会 公式資料。\n\n---\n\n### 2. 西三河の伝統産業「三河花火」とおもちゃ花火\n**疑問：お祭りや休日の遊びでおなじみの「花火」、なぜ西三河が日本有数の生産地なのか？**\n\n* **理由：**\n  天下統一を果たした徳川家康が、諸藩による反乱や一揆を警戒して全国的に鉄砲や火薬の製造・貯蔵を厳しく禁じる中、自身の本拠地である「三河地方」にのみ火薬の製造や原料（硝石）の保有を特別に許可した（「お国もの」の特権）ためです。太平の世になって活躍の場を失った三河の鉄砲隊が、火薬技術の平和利用として花火作りを始めたことが定着の原点となりました。\n* **具体的な数字や比較：**\n  愛知県産業振興課および愛知エースネット（愛知県教育委員会）の資料によると、岡崎や安城など西三河を中心とした地域は花火の全国生産量の約16％を占め、特に家庭で楽しむ「玩具花火（おもちゃ花火）」においては全国生産の3割以上のシェアを誇ります。また、全国で流通する花火の大半が三河の花火問屋を経由して出荷されています。現在も安城市内には「有限会社畔栁煙火店」や「株式会社稲徳煙火製造所」など現役の煙火製造業者が拠点を置いています。\n* **意外な点：**\n  子どもたちが公園や庭で遊ぶ手持ち花火や打ち上げ花火のルーツは、戦国時代に猛威を振るった「三河武士の鉄砲隊」の軍事技術そのものであり、家康の出身地贔屓ともいえる政策が生んだ地場産業だったという点です。\n* **歴史の裏話：**\n  岡崎市の菅生神社例大祭などに奉納された花火が発祥とされ、岡崎の伝統花火大会では、全国で「ナイアガラ」と呼ばれる仕掛け花火を、元祖の矜持を込めて昔ながらの名称である「銀滝（ぎんたき）」と呼んでいます。\n* **根拠・出典：**\n  愛知県経済産業局産業振興課「三河花火・三河がん具（おもちゃ）花火」、愛知県教育総合センター（愛知エースネット）「三河花火」資料。\n\n---\n\n### 3. 名古屋市科学館のプラネタリウム\n**疑問：ドーム内径35mという「世界最大のプラネタリウム」なのに、なぜ巨大スクリーンでも星がぼやけずリアルに見えるのか？**\n\n* **理由：**\n  限りなく本物に近い漆黒の宇宙を再現するため、極小の光ファイバーと高輝度LEDを用いた最新鋭の光学式投影機（ユニバーサリウムIX型）と、コンピュータ制御で過去や未来の天体を映し出す高精細デジタル投影システム（MediaGlobe Σ SE）を組み合わせたハイブリッド構造を採用しているためです。さらに、ドーム内壁を構成するパネルのつなぎ目をミリ単位で見えなくする特殊加工が施されており、巨大空間特有の歪みやぼやけを完全に排除しています。\n* **具体的な数字や比較：**\n  ドームの内径は「35メートル」あり、ギネス世界記録に「世界最大のプラネタリウム」として認定されています。国内2位クラスである愛媛県総合科学博物館（30メートル）と比べても5メートル大きく、座席数は約350席に及びます。旧館が開館した1962年から2010年までの48年間だけでも、延べ1,500万人以上が観覧しました。\n* **意外な点：**\n  世界最大規模かつ最先端のデジタル技術を詰め込んだ施設でありながら、上映時の星空解説はあらかじめ録音された自動アナウンスではなく、1962年の開館当初から一貫して「学芸員による全編生解説」というアナログで温かみのあるスタイルを維持している点です。\n* **歴史の裏話：**\n  客席の大型リクライニングシートは背もたれが倒れるだけでなく、左右に各30度首を振る設計になっています。これは35mの巨大ドームを見上げた際、首を痛めることなく東から西へ地平線いっぱいに広がる満天の星を自由に見渡せるようにするための特注設計です。\n* **根拠・出典：**\n  名古屋市科学館公式「プラネタリウム概要」、日本記録認定協会 公式記録。\n\n---\n\n### 4. 水族館の巨大水槽（お出かけレジャーの科学）\n**疑問：水族館の巨大水槽は、なぜ数千トンの水圧がかかってもガラスが割れないのか？**\n\n* **理由：**\n  水族館の大水槽の窓は、割れやすい板ガラスではなく「アクリル樹脂（有機ガラス）」で作られているためです。アクリルはガラスに比べて耐衝撃強度が約10倍以上高く、水圧の負荷に対しても柔軟にしなる特性を持っています。さらに、特殊な接着剤を使って分子レベルで一体化させる「重合接着技術」により、巨大な厚板同士を継ぎ目なく接着して水圧に耐え抜く強度を生み出しています。\n* **具体的な数字や比較：**\n  例えば沖縄美ら海水族館のメイン水槽「黒潮の海」（深さ10メートル・水量7,500トン）のメインパネルは、幅22.5メートル、高さ8.2メートルに対し、厚さが「60センチメートル（600ミリ）」にも達します。一般的な住宅の窓ガラス（3〜5ミリ）の100倍以上という驚異的な分厚さです。\n* **意外な点：**\n  アクリル樹脂は厚みが数十センチにもなると、光の吸収によって本来は黄色く濁って見えてしまいます。しかし、原板の製造時にあえて補色となる特殊な色調処理を施し、接着剤も本体と全く同じ光の屈折率になるよう調整されているため、60cmの極厚パネルを何枚重ねても濁りやつなぎ目が一切見えず、水が目の前にそのまま立っているかのような完全な透明度を保っています。\n* **歴史の裏話：**\n  世界中の水族館で使われている大型アクリル水槽の加工技術を切り拓き、世界シェアの約7割を握っているのは、香川県にある中小企業「日プラ（NIPPURA）」です。1969年に「柱のない回遊水槽を作りたい」という依頼を受け、当時の大手メーカーが事故リスクを恐れて断る中、創業者が独立して私財を投じ、水銀を使った過酷な圧力実験を繰り返して世界で初めて実用化に成功しました。この技術は経済産業省の「第1回ものづくり日本大賞」で内閣総理大臣賞を受賞しています。\n* **根拠・出典：**\n  経済産業省「第1回ものづくり日本大賞 受賞案件一覧」、日本政府広報「Highlighting Japan」、NIPPURA株式会社 公式沿革資料。\n\n---\n\n### リスナー向け 3択クイズ（石川丈山編）\n\n**問題：**\n安城市和泉町生まれの偉人で、京都に名刹「詩仙堂」を建て「煎茶の祖」とも呼ばれる石川丈山。彼が33歳の時、武士を辞めて学問や風雅の道へ進むきっかけとなった「大坂夏の陣での軍令違反」とは、次のうちどれだったでしょうか？\n\n1. 家康の命令を無視して、敵陣へ真っ先に突撃した（抜け駆けの一番乗り）\n2. 敵の武将を討ち取らず、戦場で自慢の漢詩を朗読して逃がしてしまった\n3. 自分の槍をピカピカに磨くのに夢中になり、合戦に大遅刻した\n\n---\n\n**正解：**\n**1. 家康の命令を無視して、敵陣へ真っ先に突撃した（抜け駆けの一番乗り）**\n\n**解説：**\n徳川家康の近習として仕えていた石川丈山は、武勇に優れた気骨ある三河武士でした。しかし大坂夏の陣の際、軍規として先陣争いが固く禁じられていたにもかかわらず、功名を焦って真っ先に敵陣へと抜け駆け（先頭）をしてしまいます。この抜け駆けにより家康の激しい叱責を受けて浪人となり、武士の世界を去ることになりました。この挫折を機に学問へ身を投じた結果、後世に名を残す一流の文人・庭園作家、そして煎茶の開祖へと転身することになったのです。地元・和泉町の丈山苑を散策する際、家族に話したくなる歴史のエピソードです。",
+  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、思わず家族に話したくなる「懐かしい暮らし・心が和む生活の知恵や歴史」を4件選定しました。愛知県・西三河に深く根ざした話題も含め、公的機関や製造メーカーなどの資料を基にまとめた調査メモです。\n\n---\n\n### 1. なぜ三河地方は花火が有名？ 徳川家康が残した「火薬の特権」\n* **理由：** \n  江戸幕府を開いた徳川家康が、謀反や一揆を防ぐために各大名や各藩の鉄砲・火薬の製造を厳しく禁止・制限するなか、自身の生誕地であり信頼する直轄地「三河」にだけ火薬の製造・貯蔵や原料（硝石）の保有を特別に許可したためです。戦乱が収まった泰平の世において、三河の鉄砲隊が火薬技術を平和利用し、神社の神事や祭礼用の奉納花火として昇華させたことで「三河花火」が発展しました。\n* **具体的な数字や比較：** \n  愛知県教育委員会の地域教材資料によると、現在でも岡崎・安城など西三河を中心とする花火生産地は全国生産の約16％を占めており、特に子どもたちが手にとって遊ぶ「玩具花火」に限れば全国生産の3割以上のシェアを誇ります。全国で流通する花火の大半も三河の花火問屋を経由しています。\n* **意外な点：** \n  夏の夜空を彩る華やかな花火は、もともと「恐ろしい軍事兵器の技術をどうやって平和に受け継ぐか」という武士たちの知恵の転換から生まれました。\n* **歴史の裏話：** \n  徳川家康は青年武士からなる鉄砲隊を組織し、著名な砲術家である稲富流の稲富伊賀守直家を招いて指導にあたらせました。幕府から火薬を許された「お国もの」の特権を得た三河では、稲富流や武田流といった砲術・火術の流派が花火作りの技術として各町内に受け継がれ、秋の稲刈りが終わると村々で腕を競い合って花火を作ったと伝えられています。\n* **出典・引用：**\n  * 岡崎商工会議所「三河花火の歴史」：「反乱や一揆に対し必要以上に神経過敏であった家康がもっとも恐ろしい殺人武器である火薬およびその主剤となる硝石の採取などを幕府発祥の地である三河のみに限らせ、かつ三河においてのみ製造貯蔵を奨励したのは、全く当然のことであり、ここにおいて『お国もの』の特権が生じたのである」\n  * 愛知県教育委員会 愛知エースネット「三河花火」：「岡崎・安城など西三河を中心とした花火生産地は，全国生産の約16％を占め，特に玩具花火は全国生産の３割以上のシェアを占める」\n\n---\n\n### 2. 食器をなぜ「せともの」と呼ぶ？ 西日本には別の呼び名があった\n* **理由：** \n  愛知県瀬戸市周辺で作られる「瀬戸焼」が、鎌倉時代から日本で唯一、表面をガラス質で覆う人工の「釉薬（うわぐすり）」をかけた陶器を本格的・大規模に生産し、東日本を中心に圧倒的なシェアで流通したため、陶磁器そのものを指す代名詞として定着しました。\n* **具体的な数字や比較：** \n  瀬戸焼は1000年以上の歴史を誇る「日本六古窯」の筆頭格です。実は陶磁器全般を「せともの」と呼ぶのは主に東日本（近畿以東）で、近畿以西の西日本では、佐賀県の唐津焼に由来して**「からつもの（唐津物）」**と呼ぶ地域が広く存在しました。\n* **意外な点：** \n  私たちが普段何気なく「せともの」と呼んでいる言葉は日本全国共通の呼び名ではなく、東の「せともの」、西の「からつもの」として日本を東西で二分していた歴史があります。\n* **歴史の裏話：** \n  「せともの」という呼び名は非常に古く、1563年（永禄6年）に織田信長が発給した制札（商人たちに瀬戸物の取引を奨励・保護する文書）にもすでに使われていました。戦国時代にはすでにブランド名として確立していたことがわかります。\n* **出典・引用：**\n  * 瀬戸陶磁器卸商業協同組合「せとものの歴史」：「陶磁器のことを西日本では『からつもの』といい、東日本では『せともの』といいます。せとものの一番の特徴は釉薬（ゆうやく・うわぐすり）がかけてあるということです。鎌倉時代に日本で釉薬をかけた焼物を作っていたのは、瀬戸が唯一で、他の地域で作られていた焼物のほとんどは釉薬をかけていないものでした」\n\n---\n\n### 3. トタンの湯たんぽはなぜ「波型（デコボコ）」をしているのか？\n* **理由：** \n  お湯が冷めたときに起きる「気圧の低下によるへこみ・変形」を防ぐためです。湯たんぽに熱湯を入れて密閉すると、時間の経過とともにお湯と内部の空気が冷えて体積が収縮し、内部の気圧が下がります。表面が平らだと外の大気圧に押しつぶされてベコッとへこみ、金属疲労で割れてしまうため、波型にして強度を持たせています。\n* **具体的な数字や比較：** \n  平らな金属板を波型（コルゲート構造）にプレス成形することで、板の厚みを変えずに曲げに対する剛性・強度が劇的に跳ね上がります。さらに、平らな形状に比べて表面積が約1.2倍〜1.3倍に広がるため、布団の中で熱が効率よく伝わり、暖房効果が高まるという利点もあります。\n* **意外な点：** \n  肌触りを優しくするためやデザインではなく、中学校の理科で習う「大気圧」と「熱収縮」から薄い金属を守るための物理工学的な工夫でした。\n* **歴史の裏話：** \n  日本には室町時代に中国から陶器製の湯たんぽ（湯婆）が伝わりましたが、大正時代に丈夫で扱いやすいトタン（亜鉛めっき鋼板）製が登場しました。大正12年創業の老舗湯たんぽメーカー「マルカ」をはじめとする町工場の職人たちが、薄い板金でも潰れないよう試行錯誤を重ね、特許や実用新案を取得して現在の波型亀の子形状を完成させました。\n* **出典・引用：**\n  * マルカ株式会社（大正12年創業の湯たんぽ老舗）製品技術資料・Q&A：「湯を入れる場合には、湯たんぽを完全に満たさなくてはならない。内部の空気や蒸気が冷えて収縮することで内部の圧力が下がり、変形・破損するおそれがあるため」（製品安全解説より要約）\n  * 土井金属化成株式会社「豆知識」：「○湯たんぽ表面の波形は？ 表面積を広くして、暖房効果を向上させるため。後、補強効果のため」\n\n---\n\n### 4. 懐かしい蚊取り線香はなぜ「渦巻き型」になったのか？\n* **理由：** \n  一晩ぐっすり眠る間（約7時間）、途中で火を消さず蚊を寄せ付けないようにするためです。\n* **具体的な数字や比較：** \n  1890年（明治23年）に世界で初めて作られた蚊取り線香は仏壇用と同じ「棒状」で、長さは約20cm、燃焼時間はわずか**「約40分」**でした。これでは寝ている間にすぐ消えてしまい、細くて運搬中に折れやすい弱点がありました。そこで渦巻き型にしたところ、まっすぐ伸ばすと**「約75cm」**になり、睡眠時間にぴったりの**「約7時間」**燃え続けるようになりました。\n* **意外な点：** \n  この渦巻きの形を思いついたのは、メーカーの技術者ではなく創業者の妻でした。\n* **歴史の裏話：** \n  大日本除虫菊（金鳥）の創業者・上山英一郎が「なんとか長時間燃やせる丈夫な線香はできないか」と頭を抱えていた際、妻の「ゆき」さんが庭の蔵で**「とぐろを巻いたヘビ」**を見て、「細長い線香を渦巻き状に巻いてみてはどうか」と夫に提案したことが大ヒットのきっかけとなりました。製品化には7年もの試行錯誤を要し、1902年（明治35年）に発売されました。\n* **出典・引用：**\n  * 大日本除虫菊株式会社（KINCHO）「害虫コラム：1世紀以上経っても、渦巻きです。」：「明治23年に棒状蚊取り線香が生まれました。でも、この線香（約20cm）は約40分くらいで燃えつきてしまうのと、運んでいる間に折れやすいという欠点が……。明治28年『金鳥』初代社長・上山英一郎の夫人『ゆき』の発案で、渦巻型が登場しました。渦巻はまっすぐにすると約75cmあり、人の寝ている時間に合わせて約7時間燃え続けることから、人々の暮らしに欠かせないものとなりました」\n\n---\n\n### 番組で使える！ 3択リスナークイズ（話題2より）\n\n**【問題】**\n陶磁器全般のことを、愛知県の焼き物にちなんで「せともの（瀬戸物）」と呼びますが、かつて西日本では別の産地にちなんで何と呼んでいたでしょうか？\n\n* **第1問（A）：** ありたもの（有田物）\n* **第2問（B）：** からつもの（唐津物）\n* **第3問（C）：** びぜんもの（備前物）\n\n**【正解】**\n**正解は「B：からつもの（唐津物）」です！**\n\n**【解説トークのポイント】**\n愛知県に住んでいると「茶碗やお皿＝せともの」と呼ぶのが当たり前ですが、実は西日本では佐賀県の唐津港から全国へ運ばれた「唐津焼」が非常に身近だったため、「からつもの」と呼んで親しまれていました。東の「せともの」、西の「からつもの」として、日本の台所文化を二分していたという意外な歴史があります。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B0%B4%E6%97%8F%E9%A4%A8+%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%91%E3%83%8D%E3%83%AB+%E5%8E%9A%E3%81%95+%E5%89%B2%E3%82%8C%E3%81%AA%E3%81%84+%E6%97%A5%E3%83%97%E3%83%A9&client=app-vertex-grounding&safesearch=active\">水族館 アクリルパネル 厚さ 割れない 日プラ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E8%8A%B1%E7%81%AB+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E7%94%B1%E6%9D%A5+%E5%B2%A1%E5%B4%8E%E5%B8%82&client=app-vertex-grounding&safesearch=active\">三河花火 徳川家康 由来 岡崎市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E5%B8%82+%E4%B8%88%E5%B1%B1%E8%8B%91+%E7%9F%B3%E5%B7%9D%E4%B8%88%E5%B1%B1+%E7%85%8E%E8%8C%B6&client=app-vertex-grounding&safesearch=active\">安城市 丈山苑 石川丈山 煎茶</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E7%A7%91%E5%AD%A6%E9%A4%A8+%E3%83%97%E3%83%A9%E3%83%8D%E3%82%BF%E3%83%AA%E3%82%A6%E3%83%A0+%E3%82%AE%E3%83%8D%E3%82%B9+35m+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">名古屋市科学館 プラネタリウム ギネス 35m 特徴</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E6%B3%A2%E5%9E%8B+%E7%90%86%E7%94%B1+%E8%A1%A8%E9%9D%A2%E7%A9%8D+%E5%A4%89%E5%BD%A2%E9%98%B2%E6%AD%A2&client=app-vertex-grounding&safesearch=active\">湯たんぽ 波型 理由 表面積 変形防止</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22%E3%81%8B%E3%82%89%E3%81%A4%E3%82%82%E3%81%AE%22+%22%E3%81%9B%E3%81%A8%E3%82%82%E3%81%AE%22+%E9%99%B6%E7%A3%81%E5%99%A8+%E8%A5%BF%E6%97%A5%E6%9C%AC+%E6%9D%B1%E6%97%A5%E6%9C%AC&client=app-vertex-grounding&safesearch=active\">&quot;からつもの&quot; &quot;せともの&quot; 陶磁器 西日本 東日本</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E8%8A%B1%E7%81%AB+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E7%81%AB%E8%96%AC+%E5%B2%A1%E5%B4%8E+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">三河花火 徳川家康 火薬 岡崎 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%9B%E3%81%A8%E3%82%82%E3%81%AE+%E9%99%B6%E7%A3%81%E5%99%A8+%E3%81%AA%E3%81%9C+%E7%80%AC%E6%88%B8%E7%84%BC+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">せともの 陶磁器 なぜ 瀬戸焼 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E6%B3%A2%E5%9E%8B+%E7%90%86%E7%94%B1+%E3%83%9E%E3%83%AB%E3%82%AB&client=app-vertex-grounding&safesearch=active\">湯たんぽ 波型 理由 マルカ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+7%E6%99%82%E9%96%93&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 7時間</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjWzxUYAfDeAdaoFPirYFzF0HJ1tX9Jf1l-8QS2g6orji0Fta5qZbDNDIzN35moapsuGNi4yLOkIaZJjTeVN3rK6YxXYR0m0Wz824SBYuN",
-          "title": "jozanen.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkraDqcb1ZEdNxkBxaK8mJ8h21pZ22bez4lp3CVoBEg2ZFHZpBFTJPyZQGnh-nt_GEkLcPK-xH3BfSrSXUh3LBYWDDw3mYTdHC-D2D8ncd-5jRlMK2bINggDEKfTwIZjb5B5lf6yGfLkwPXXmyIGIJ1VXi8iN0pNIrThkrkLnke_L7jHNklw==",
-          "title": "city.anjo.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2LOl7qrBSo2OgIAEt_OZ8rasCX_ygfzH9a88ilV9pfAAElc0Knw589Jz5VT-jdP-jwCvKVCdKCAkbmI9gvgdf8YLgzH8TsbRWo3PVkNOuNiK4UPyA0jWU4ND44uTN6_RCgdyaqLKDJA2BV93QmHbvOnsrHsXdlH4=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBoviXHo3DA85K5pxAbwDTCTgj_eCIIGpPXWNVpuMm5fAztwIzkGduKPiyllaNPR7J34l2O3xYoiCKlHrO4lJHE5aBzw2mFZ2PiIj42JqZZoOcW9__iDfDDJ-vwQQ_StYw",
-          "title": "anjo-tanabata.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWaV1AignlfgG1YzbWDW-Is1yIgaF1utxCatoeeyrDSuOQoNvQUboXsjzhSnXTqmRGMzis6NtJcmL7GGkrFYDZ_oEmRI5mlaxeWXk9RyRQYBeDLLPCVbiTjp-ihnrIK_I4mEulwA2NxVQ=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxUvAFUuxtcNzg0EPtpfa9LU4yv6SvUysuyNOduwN1XWgo6FvI6iiRo-IVwqoJsfcgcKYS9ID_9ui20lI4ElP2X4vseZE8ssrgHS1jcldMcyj1jfkXwKruUo5mueFc3gM9hOx-0qRsFc=",
           "title": "okazakitakuminokai.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5fBk7UBpt6WDqIGULR3M9Vjy_72MzaiaC6SdX0qLZpqc__sGe2JupyN8GrpL57tEOyAlcg5WDaM5KhKPCl8wGMtHfq4ocuf1RSZtk9uk1UooBU9Yaer9tmbAdcxQ1xVNUoyw=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIw9I598T9uXk5QlGa4Ad-qmTJ6ECeO7O5tVd07203jVvXy5ZptCafY-hQPwjfhnnOH4g0xGjy9eb0zZ0SJpW75dIG7MlYQVUNYdvORGw6h8lGxhVUu0y6AFLeIovwoNQROLA=",
           "title": "okazakicci.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKyUjMGU0H3syWQhxwSAzAU4A_b-rk9d_enwhIhdzuvzwOV625xD3vjoUauGdoVMeKXv0w2ZjdNqExjfi02eazH1QUb-ZWMbL5Kjd1hOQzDLGFKQLl8vDquhjwaOQ=",
-          "title": "bunshun.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaf5BqT9dC6vAywttJ9erJ4s_O9URq33ydstsXb7lTFLU_TYXY1E5KS80GjhzrbJGoyIUffy3MdbkjHu8hZXw8XT66QCSfIV8plsPzBqGutXBJxMssL84=",
+          "title": "gnpp.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNnHTVj4SjcjwQxVEH09uzytB0y949493vpYVYHBI4r7DH4efmsZusSw0VmIDt2C7HcxbTH9dfM-XG1QoEE9yuk4sSa_HRaWtK0-YeszUfCuG2VBFUH1d0sSxMWryIllt3fqI_0KPwhI9MmQ81x1odt9U2mllAjF2uHJmu0dEQZ24ZROI=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPUWbb6Ydyx0AJZ3JlB5FCVy03IgP9i3mBhRgEN2dA7jcgd0RgRYSRU795KmU_56cRLB247VxHs9VX88mG0UzEz7RZx_rinBhq3_YOwdmy5lXZ9efO0HFYry9vR5E3tgGfeJTuez0QCyZfXcanrwYYKrz9oBK8M4HzVLvWSo1Uu1yZyEw=",
           "title": "aichi-c.ed.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESsUtLJTvpc8SfSC5Pdl_S5ktr55Qznv8g9Hyx8qcEiiyN0hbe8Z7VbI-gegmscZmUeVawOOd0TA6zCNa9-fEQy7vNj142yRN-j3aEI839HdFkK7FF3ZFoVrkYHiC_r8TdgcMtlDvyn5E0zApD",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR2oYQS-q8Xb8F2Hz8sqBmTkP1rMLB-Rpyxo7Mv28_UTHHqxRWtH6aERDei-r6rcoiOy1ybaWy4AfwMpvn87S0ZEFzx_xlbWdvbuyXeWz2TbOelxSmXegvyq0vhUkuhQsopQqz8BGsPh95ssYIMjdP",
+          "title": "okazaki-kanko.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcMrulUK93TgSinKsdOmLsJ-ENNiy3htfHyTBGuDXUH37ueESIZCNYuiVNDtO4zWDV2AfU11kYd6QBLLxUnxs64BMnQzjDcRSgYBbVC8PeQ4W6d09LeQvpSKx_JFOIBviNNJeegg==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpLVUSBa0woQV5BuRbABXrSfE_m_XdosPwja5qybasG4CTGP_pAgx5A_lb5hM3HRr_3rkOaBOJ8iCNMdy6vleW38ql9phpCG2TGh-bRNu9egCPQ9M=",
+          "title": "seto-tosyo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGicRpxHgS-O_PPtv9kxBPyMyG5R6Wn8Dlldwb4r6e7r7s3NF8-WpBEkkCABvI_EL5QSYLuDmVMiik6BquYmBvgB5nah2ohMxk7GgiXxEdtLQQKF06zIOqJp4ZlR-yikItzbNRIn4a6s0IpGFYAWUeBie_3SwUAZ_zDSw==",
-          "title": "city.nagoya.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM0XdTN3NRjYeVkFmoiKej866vsKeNLOJqdt2KNTi5hlmkICRXWQDR7hVbq2IgyIrcBWiCxEoZya_LzHnlWMXXbo7AhF23V9wDa30NfNXP51E3_q9hR53z1gvcKNmfgjLUp89i18sSq53WzgvXPoQDqki78MVe_Qi4XfpGv0=",
+          "title": "fareastteacompany.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl1eIrAd9ChOAkxvEoj4LvfMhQn3P7JUFJl8NUUI__VpXaX-AC6K0Dt9IxQWKZg0ozBqh01OkXv_xWmgnkqmU2kHVNPPWrYnaDZxM7K5zqYydH6sNS6xj7mZxMz0oOscHgW6izfVL3XA==",
-          "title": "japaneserecords.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHALIVmG0pbEHkAGOGaQ2YZV3uYv9tjk0kQJJ82hLqeQmyupS0i2SYQMAkXxxiT2rRLoKWAgPZvMz6KS9xlkVyLY1f5ytPMJjr8mHTsnLCBUQBBZwW-klMrUA==",
+          "title": "masuken.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCW9go0ME2iExIyhSC8dnHyRx5lpNrGAaTuAt6QRX22-ztuYJAM4QU7BHFGTDzx9h2uKgVykUrl46kx3FJgQtUhrPC5ZVU7ZJxZR2Y5-X1htITSRdwBiCU",
-          "title": "museum.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYxG8HOrWQRUUi8YCI4nYUCdz2K9r7M8NaQZE3mInw_1BIkTpce9LbOjdOl9qXnQA2AQJ8iQL0lLbc3fP0Je9pkYdpOSy674EPSogfhOcEpgZtHY6WUQ==",
+          "title": "e-setomono.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2V3spFF18d5K_n8gfqw6olk3Xp4FGVG6eVHqy5LO4LwrPD3yeTsIuUx73OMzre1_hhRSemt43LgzF6pihkJcbAuQXVMFBVrP909LTni_E-8rhx9hSNhGHowT9Q8HRt3q0Uy3QJN1GfG0eFLrLafD_HQjGF4ERDni6e2-C_O56GuYVASddKgPKEz3hpVFjkZDrjx4zux6RRAiTdlk982B947-pYzWExTwJTYq3LtaXFuOHUx3Do8Kko3RrEqvAqd92JE1c3nY8YXyskaJcQXwuQDOkR-GRdGEAbYoN39R5GcQsTkNpusUzFLJ8E0WU",
-          "title": "jinja-tera-gosyuin-meguri.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0QmYLg5MqeHg4tr6v2lSkobOg9HSuKtaWzZMHX7fmyqELTj21ubYJ5qMAkch0zjlg-n8FCbA9eTVtIYZKj74TApqp5HVU6UNqWRARbRT5QPbaa-cTJ5Bs2A==",
+          "title": "minne.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAmi-9fTZ19_9ES6D8_IpfHYZl-mDgFJNjXfkCWGMXwWUYwGkjdReJWZ50Cr_Z7vGZTG8II0RyIOmtj_zcp4RTJtJ1AcC8hD17Oe39nNk4ThRrlAPgonpsizeYQePGlYkQHcNA4cE=",
-          "title": "knt.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2X4XzfsVBeVStlN_EVJIhN0sFFzRZkZRMF5VKGF1aM61FVsTdBygb3m_hLsUU9exeRwSxa_gAnHwB7L22rP529pZkEAP_YwkE6xLKpnRWC3rZD5mWLJsafA==",
+          "title": "masuken.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRqXQ_G5vjXnKLQdU_VLF-96wHQmEsclvlH0RS45Tok1YzLu5d13DVhMDds0FmWBaIMmdnyg62RxkiGXa6vtyryiKiALvG0PSdcc-XkwSGvkPzkLDbJcAd_SA4Cl9YCGLmxP66YVGDx6PyJnejO6vOZFHkg1fnp8pZgAM5VPM=",
-          "title": "midori-ikimono.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFduBi2q6A4gZ_ddNXIH5RT_ZeuzVmuuKE8rPBJcLXq02joK-4vrDHjlFtxW2XEX261lsi6Arn6DM-vurRDExVvoBW51KV66xGdsq4Jyp0xS1afxsFXzRspmUYp9QnVjIN1GrEuHECjHrZg8oo=",
+          "title": "nakagawa-masashichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRF-Ap3kxPB-A-j6YEQPA2MUDjyo7AR_Q54trUhQoX9MDCFZUKRG1O_NUBG2b-YaQgMjsiReq2f4Dy84cQxeICbdJvLv7AwqpDCNYTAr_m5gsXN4aek2Jc_ElIHMxWSU_mGp_FE-0H74sEv4do1w==",
-          "title": "meti.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0lJPZBo8nm9N2M9eVEICvZO-zUXu-C0jroFrVx9kyUXlYq0nPdBntzAC5ywDSRAVsnfcL06szADm-hGeox-ZlmXWyu_ZlKkRYk08aRFvb8LlQkITsQQywR-ptN0E=",
+          "title": "zatugakuunun.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtSFNs2dAoNjq-LMQv060lLRT8OHusulMESJX0e5MO_dHFZaSVRYVS_k1JyrE2Z6MjbBYu4Fs6eH6estf-pHOMhrPkmQ-ddLbLXyfkevzp4L08IBV_fSQt7GNk",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwbjMwf9yt3nN0GlzhD01R5kIrKBBXNxyl9q-3mhdxxRMq5ofmtQQ1IN3z8_9A_r_GSAsFsXBHnZvj7UWKtbwmLsPOF4Ka8hiAvksdhxbZnIMHuJwR13Sqw9kpamjMu6BaqDs_AJS4V-wYleppHSs36IV2cZoWzn8=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMZ4Egzr9NgXsAUtUYwf8SkIV9i8joc_FXQOKkRaBfpYsxCiQlbnUu4MWC5WUweyc-zi5TWJoci0KeRL2__ALqETn__sMoy_rsnU54gGNdQ3-02Q3xbAfvL-hWghuD4Z5go4cnEHOxxb1FZT0NJiEw_jkPnB4=",
-          "title": "gov-online.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO189tuYw04HAPIsgNIEWND_sp69aD4mS_a8rzFrmtTAfEz8kAAkBagu2rSO4oNnRFFQ0d79WqhPDC4S0738OtwtFMCheK8lW7u6_jYQbiBj5h4NeP_XNR8AbAlAFgioTAzJeVoc3UTESs0GVIIdCFYOfAZK_HSbNElg==",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESX7AvFdrIGe12G-kwaCpeoeTasOJy9DG5TEQyKtWph16XBcMyXAzkm5KjISvnRKnSDP9ROdAF6Q1nbbx_PwessFLFWTKLXbgp8uVeYGCldEnXVXLkVlHxjeQI6eGz_y77eCvr6_K0WCA=",
-          "title": "since2020.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoIVk-P_-CVNvrXeLl_MYaEO2LENi3fKrWwPv7gkvjgep0uVj5INcWXZOqmkJio8R_rDxxoBX1a3Xt0Un_6wVeb9S8_ONaxX-1BXHGlP9_Rak8P02WQYFcCTkXxQ==",
+          "title": "extoskoko.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdebxdgvvd3uhYdJMZzubCM5kdHMa-R0L_lHrE0aJPtBMI4O76Sr56KZvmTjM85-m6pkfqFgBLPiuX0PPvExAKXea04LSPSwLp0YEefDPqqhHQ38cDj3UJzTtpd9ms",
-          "title": "nippura.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3gZShOgW3YYLl3Goe17cR-8EVhKbSehhSD1MAq7H40wYmgZ4dSQ7KYupd7TruxWPmGv6_AmD_-XtQi2OI2uFs-aOJjB-MTADgjby245ZtxfQYOw2Ko1lE3VekoY=",
+          "title": "d-k-k.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMl5a5xkuY_OtYPpoWEXSbqDRwcAuHh9RifunojRfQ-ZXiZgj8uwP2Ipim8Eo9Ad5rsvUYzhMbZ11CfnGUngzHw1jx2Z1YnQmvDm7_Ey5Yk6_tRtnYQ==",
+          "title": "maruka-yutanpo.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb45NMwuLDP9aO3dXV0HZAVLQg2DQRq2Pl-BqM-xSNqzPybFBkI6KuLnBMlZnQFY4wZ88IeJkBNVGcoyko-zUMSH1nbShHIuKyqtAJw77J1Jd-Jn2DgI0V4MwDs5uNWPV2NHyIVlVPng==",
+          "title": "kincho.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdONmJutg9bX1ZMStF9ZuhH07I73Uwf07OsZMjiCoK833ecUdZwec6UI-5hKqnxA3cQtn2J2BGzT0_qEkfk462MaoB1oM4zrZDsf4ptT1g_8SMG7CCK6y7KoqE2W_qjb7H7w==",
+          "title": "president.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnBRaHTrbfrqeNYEBh6QVfCPTfPuZLs-RdMcamjgAjST2S-rGDtCFlX4cDK5JCpiuZ1ZybYKP_kYdTCM3NnB7v8c2QxTbiol6CYGmYh7IlTDHW54_uzqSYEYaODMUOiBW9O9Bx",
+          "title": "weathernews.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 1276,
-          "endIndex": 1489,
-          "text": "その後、京都一乗寺に「詩仙堂」を開いたのは59歳で、当時としては非常に長寿である90歳で亡くなるまで、約30年間にわたり悠々自適の隠棲生活を送りました"
+          "startIndex": 465,
+          "endIndex": 786,
+          "text": "江戸幕府を開いた徳川家康が、謀反や一揆を防ぐために各大名や各藩の鉄砲・火薬の製造を厳しく禁止・制限するなか、自身の生誕地であり信頼する直轄地「三河」にだけ火薬の製造・貯蔵や原料（硝石）の保有を特別に許可したためです"
         },
         "groundingChunkIndices": [
           0,
@@ -218,9 +200,9 @@
       },
       {
         "segment": {
-          "startIndex": 1517,
-          "endIndex": 1937,
-          "text": "家康の側近として戦場を駆けた屈強な三河武士でありながら、隠棲後は漢詩人として名を馳せただけでなく、日本で初めて書道に「隷書体」を本格的に取り入れ、さらには幕末の書物『煎茶綺言』で「煎茶家系譜」の初代に挙げられるなど「日本の煎茶の開祖（祖）」と称されるほどの文化的巨匠となった点です"
+          "startIndex": 789,
+          "endIndex": 1005,
+          "text": "戦乱が収まった泰平の世において、三河の鉄砲隊が火薬技術を平和利用し、神社の神事や祭礼用の奉納花火として昇華させたことで「三河花火」が発展しました"
         },
         "groundingChunkIndices": [
           0,
@@ -229,157 +211,243 @@
       },
       {
         "segment": {
-          "startIndex": 1968,
-          "endIndex": 2103,
-          "text": "京都で名声を博した丈山ですが、晩年まで生誕の地である和泉郷への望郷の念を抱き続けていました"
+          "startIndex": 1049,
+          "endIndex": 1358,
+          "text": "愛知県教育委員会の地域教材資料によると、現在でも岡崎・安城など西三河を中心とする花火生産地は全国生産の約16％を占めており、特に子どもたちが手にとって遊ぶ「玩具花火」に限れば全国生産の3割以上のシェアを誇ります"
         },
         "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2106,
-          "endIndex": 2398,
-          "text": "現在、和泉町にある「丈山苑」は、詩仙堂の建物をイメージした詩泉閣や、丈山が手掛けた3つの名庭の様式が再現されており、彼がかつて暮らした京都の書斎「学甫堂（丈山文庫）」も町内に移築・保存されています"
-        },
-        "groundingChunkIndices": [
-          0,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 2429,
-          "endIndex": 2505,
-          "text": "安城市「丈山苑」公式サイト、安城市観光協会 公式資料"
+          "startIndex": 1361,
+          "endIndex": 1445,
+          "text": "全国で流通する花火の大半も三河の花火問屋を経由しています"
         },
         "groundingChunkIndices": [
-          0,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 2733,
-          "endIndex": 3063,
-          "text": "天下統一を果たした徳川家康が、諸藩による反乱や一揆を警戒して全国的に鉄砲や火薬の製造・貯蔵を厳しく禁じる中、自身の本拠地である「三河地方」にのみ火薬の製造や原料（硝石）の保有を特別に許可した（「お国もの」の特権）ためです"
+          "startIndex": 1474,
+          "endIndex": 1675,
+          "text": "夏の夜空を彩る華やかな花火は、もともと「恐ろしい軍事兵器の技術をどうやって平和に受け継ぐか」という武士たちの知恵の転換から生まれました"
         },
         "groundingChunkIndices": [
-          4,
-          5
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 3066,
-          "endIndex": 3240,
-          "text": "太平の世になって活躍の場を失った三河の鉄砲隊が、火薬技術の平和利用として花火作りを始めたことが定着の原点となりました"
+          "startIndex": 1707,
+          "endIndex": 1872,
+          "text": "徳川家康は青年武士からなる鉄砲隊を組織し、著名な砲術家である稲富流の稲富伊賀守直家を招いて指導にあたらせました"
         },
         "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1875,
+          "endIndex": 2184,
+          "text": "幕府から火薬を許された「お国もの」の特権を得た三河では、稲富流や武田流といった砲術・火術の流派が花火作りの技術として各町内に受け継がれ、秋の稲刈りが終わると村々で腕を競い合って花火を作ったと伝えられています"
+        },
+        "groundingChunkIndices": [
+          1,
           4,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2217,
+          "endIndex": 2673,
+          "text": "岡崎商工会議所「三河花火の歴史」：「反乱や一揆に対し必要以上に神経過敏であった家康がもっとも恐ろしい殺人武器である火薬およびその主剤となる硝石の採取などを幕府発祥の地である三河のみに限らせ、かつ三河においてのみ製造貯蔵を奨励したのは、全く当然のことであり、ここにおいて『お国もの』の特権が生じたのである」"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2678,
+          "endIndex": 2930,
+          "text": "愛知県教育委員会 愛知エースネット「三河花火」：「岡崎・安城など西三河を中心とした花火生産地は，全国生産の約16％を占め，特に玩具花火は全国生産の３割以上のシェアを占める」"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3052,
+          "endIndex": 3409,
+          "text": "愛知県瀬戸市周辺で作られる「瀬戸焼」が、鎌倉時代から日本で唯一、表面をガラス質で覆う人工の「釉薬（うわぐすり）」をかけた陶器を本格的・大規模に生産し、東日本を中心に圧倒的なシェアで流通したため、陶磁器そのものを指す代名詞として定着しました"
+        },
+        "groundingChunkIndices": [
+          5,
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 3283,
-          "endIndex": 3631,
-          "text": "愛知県産業振興課および愛知エースネット（愛知県教育委員会）の資料によると、岡崎や安城など西三河を中心とした地域は花火の全国生産量の約16％を占め、特に家庭で楽しむ「玩具花火（おもちゃ花火）」においては全国生産の3割以上のシェアを誇ります"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3634,
-          "endIndex": 3742,
-          "text": "また、全国で流通する花火の大半が三河の花火問屋を経由して出荷されています"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3745,
-          "endIndex": 3910,
-          "text": "現在も安城市内には「有限会社畔栁煙火店」や「株式会社稲徳煙火製造所」など現役の煙火製造業者が拠点を置いています"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3938,
-          "endIndex": 4232,
-          "text": "子どもたちが公園や庭で遊ぶ手持ち花火や打ち上げ花火のルーツは、戦国時代に猛威を振るった「三河武士の鉄砲隊」の軍事技術そのものであり、家康の出身地贔屓ともいえる政策が生んだ地場産業だったという点です"
-        },
-        "groundingChunkIndices": [
-          4,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4263,
-          "endIndex": 4557,
-          "text": "岡崎市の菅生神社例大祭などに奉納された花火が発祥とされ、岡崎の伝統花火大会では、全国で「ナイアガラ」と呼ばれる仕掛け花火を、元祖の矜持を込めて昔ながらの名称である「銀滝（ぎんたき）」と呼んでいます"
-        },
-        "groundingChunkIndices": [
-          9,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4588,
-          "endIndex": 4777,
-          "text": "愛知県経済産業局産業振興課「三河花火・三河がん具（おもちゃ）花火」、愛知県教育総合センター（愛知エースネット）「三河花火」資料"
+          "startIndex": 3453,
+          "endIndex": 3535,
+          "text": "瀬戸焼は1000年以上の歴史を誇る「日本六古窯」の筆頭格です"
         },
         "groundingChunkIndices": [
           7,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3538,
+          "endIndex": 3785,
+          "text": "実は陶磁器全般を「せともの」と呼ぶのは主に東日本（近畿以東）で、近畿以西の西日本では、佐賀県の唐津焼に由来して**「からつもの（唐津物）」**と呼ぶ地域が広く存在しました"
+        },
+        "groundingChunkIndices": [
+          5,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 5035,
-          "endIndex": 5431,
-          "text": "限りなく本物に近い漆黒の宇宙を再現するため、極小の光ファイバーと高輝度LEDを用いた最新鋭の光学式投影機（ユニバーサリウムIX型）と、コンピュータ制御で過去や未来の天体を映し出す高精細デジタル投影システム（MediaGlobe Σ SE）を組み合わせたハイブリッド構造を採用しているためです"
+          "startIndex": 3814,
+          "endIndex": 4054,
+          "text": "私たちが普段何気なく「せともの」と呼んでいる言葉は日本全国共通の呼び名ではなく、東の「せともの」、西の「からつもの」として日本を東西で二分していた歴史があります"
         },
         "groundingChunkIndices": [
+          9,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 5434,
-          "endIndex": 5644,
-          "text": "さらに、ドーム内壁を構成するパネルのつなぎ目をミリ単位で見えなくする特殊加工が施されており、巨大空間特有の歪みやぼやけを完全に排除しています"
+          "startIndex": 4086,
+          "endIndex": 4310,
+          "text": "「せともの」という呼び名は非常に古く、1563年（永禄6年）に織田信長が発給した制札（商人たちに瀬戸物の取引を奨励・保護する文書）にもすでに使われていました"
         },
         "groundingChunkIndices": [
-          10
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5687,
-          "endIndex": 5836,
-          "text": "ドームの内径は「35メートル」あり、ギネス世界記録に「世界最大のプラネタリウム」として認定されています"
+          "startIndex": 4313,
+          "endIndex": 4406,
+          "text": "戦国時代にはすでにブランド名として確立していたことがわかります"
         },
         "groundingChunkIndices": [
-          11,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4745,
+          "endIndex": 4943,
+          "text": "鎌倉時代に日本で釉薬をかけた焼物を作っていたのは、瀬戸が唯一で、他の地域で作られていた焼物のほとんどは釉薬をかけていないものでした」"
+        },
+        "groundingChunkIndices": [
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5064,
+          "endIndex": 5169,
+          "text": "お湯が冷めたときに起きる「気圧の低下によるへこみ・変形」を防ぐためです"
+        },
+        "groundingChunkIndices": [
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 5839,
-          "endIndex": 5993,
-          "text": "国内2位クラスである愛媛県総合科学博物館（30メートル）と比べても5メートル大きく、座席数は約350席に及びます"
+          "startIndex": 5172,
+          "endIndex": 5340,
+          "text": "湯たんぽに熱湯を入れて密閉すると、時間の経過とともにお湯と内部の空気が冷えて体積が収縮し、内部の気圧が下がります"
+        },
+        "groundingChunkIndices": [
+          13,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5343,
+          "endIndex": 5514,
+          "text": "表面が平らだと外の大気圧に押しつぶされてベコッとへこみ、金属疲労で割れてしまうため、波型にして強度を持たせています"
+        },
+        "groundingChunkIndices": [
+          14,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5744,
+          "endIndex": 5933,
+          "text": "さらに、平らな形状に比べて表面積が約1.2倍〜1.3倍に広がるため、布団の中で熱が効率よく伝わり、暖房効果が高まるという利点もあります"
+        },
+        "groundingChunkIndices": [
+          12,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5962,
+          "endIndex": 6154,
+          "text": "肌触りを優しくするためやデザインではなく、中学校の理科で習う「大気圧」と「熱収縮」から薄い金属を守るための物理工学的な工夫でした"
+        },
+        "groundingChunkIndices": [
+          14,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6186,
+          "endIndex": 6285,
+          "text": "日本には室町時代に中国から陶器製の湯たんぽ（湯婆）が伝わりましたが"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6186,
+          "endIndex": 6387,
+          "text": "日本には室町時代に中国から陶器製の湯たんぽ（湯婆）が伝わりましたが、大正時代に丈夫で扱いやすいトタン（亜鉛めっき鋼板）製が登場しました"
+        },
+        "groundingChunkIndices": [
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6390,
+          "endIndex": 6656,
+          "text": "大正12年創業の老舗湯たんぽメーカー「マルカ」をはじめとする町工場の職人たちが、薄い板金でも潰れないよう試行錯誤を重ね、特許や実用新案を取得して現在の波型亀の子形状を完成させました"
+        },
+        "groundingChunkIndices": [
+          13,
+          17,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6874,
+          "endIndex": 7045,
+          "text": "内部の空気や蒸気が冷えて収縮することで内部の圧力が下がり、変形・破損するおそれがあるため」（製品安全解説より要約）"
         },
         "groundingChunkIndices": [
           13
@@ -387,95 +455,30 @@
       },
       {
         "segment": {
-          "startIndex": 5996,
-          "endIndex": 6113,
-          "text": "旧館が開館した1962年から2010年までの48年間だけでも、延べ1,500万人以上が観覧しました"
+          "startIndex": 7204,
+          "endIndex": 7234,
+          "text": "後、補強効果のため」"
         },
         "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6141,
-          "endIndex": 6496,
-          "text": "世界最大規模かつ最先端のデジタル技術を詰め込んだ施設でありながら、上映時の星空解説はあらかじめ録音された自動アナウンスではなく、1962年の開館当初から一貫して「学芸員による全編生解説」というアナログで温かみのあるスタイルを維持している点です"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6527,
-          "endIndex": 6673,
-          "text": "客席の大型リクライニングシートは背もたれが倒れるだけでなく、左右に各30度首を振る設計になっています"
-        },
-        "groundingChunkIndices": [
-          10,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6676,
-          "endIndex": 6880,
-          "text": "これは35mの巨大ドームを見上げた際、首を痛めることなく東から西へ地平線いっぱいに広がる満天の星を自由に見渡せるようにするための特注設計です"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6911,
-          "endIndex": 7011,
-          "text": "名古屋市科学館公式「プラネタリウム概要」、日本記録認定協会 公式記録"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7233,
-          "endIndex": 7383,
-          "text": "水族館の大水槽の窓は、割れやすい板ガラスではなく「アクリル樹脂（有機ガラス）」で作られているためです"
-        },
-        "groundingChunkIndices": [
-          15,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 7541,
-          "endIndex": 7760,
-          "text": "さらに、特殊な接着剤を使って分子レベルで一体化させる「重合接着技術」により、巨大な厚板同士を継ぎ目なく接着して水圧に耐え抜く強度を生み出しています"
-        },
-        "groundingChunkIndices": [
-          17,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7803,
-          "endIndex": 8071,
-          "text": "例えば沖縄美ら海水族館のメイン水槽「黒潮の海」（深さ10メートル・水量7,500トン）のメインパネルは、幅22.5メートル、高さ8.2メートルに対し、厚さが「60センチメートル（600ミリ）」にも達します"
+          "startIndex": 7343,
+          "endIndex": 7464,
+          "text": "一晩ぐっすり眠る間（約7時間）、途中で火を消さず蚊を寄せ付けないようにするためです"
         },
         "groundingChunkIndices": [
           18,
-          17
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 8203,
-          "endIndex": 8341,
-          "text": "アクリル樹脂は厚みが数十センチにもなると、光の吸収によって本来は黄色く濁って見えてしまいます"
+          "startIndex": 7508,
+          "endIndex": 7689,
+          "text": "1890年（明治23年）に世界で初めて作られた蚊取り線香は仏壇用と同じ「棒状」で、長さは約20cm、燃焼時間はわずか**「約40分」**でした"
         },
         "groundingChunkIndices": [
           18
@@ -483,130 +486,107 @@
       },
       {
         "segment": {
-          "startIndex": 8344,
-          "endIndex": 8711,
-          "text": "しかし、原板の製造時にあえて補色となる特殊な色調処理を施し、接着剤も本体と全く同じ光の屈折率になるよう調整されているため、60cmの極厚パネルを何枚重ねても濁りやつなぎ目が一切見えず、水が目の前にそのまま立っているかのような完全な透明度を保っています"
+          "startIndex": 7692,
+          "endIndex": 7809,
+          "text": "これでは寝ている間にすぐ消えてしまい、細くて運搬中に折れやすい弱点がありました"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7812,
+          "endIndex": 7996,
+          "text": "そこで渦巻き型にしたところ、まっすぐ伸ばすと**「約75cm」**になり、睡眠時間にぴったりの**「約7時間」**燃え続けるようになりました"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8025,
+          "endIndex": 8133,
+          "text": "この渦巻きの形を思いついたのは、メーカーの技術者ではなく創業者の妻でした"
         },
         "groundingChunkIndices": [
           18,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8742,
-          "endIndex": 8957,
-          "text": "世界中の水族館で使われている大型アクリル水槽の加工技術を切り拓き、世界シェアの約7割を握っているのは、香川県にある中小企業「日プラ（NIPPURA）」です"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8960,
-          "endIndex": 9258,
-          "text": "1969年に「柱のない回遊水槽を作りたい」という依頼を受け、当時の大手メーカーが事故リスクを恐れて断る中、創業者が独立して私財を投じ、水銀を使った過酷な圧力実験を繰り返して世界で初めて実用化に成功しました"
-        },
-        "groundingChunkIndices": [
-          15,
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 9261,
-          "endIndex": 9382,
-          "text": "この技術は経済産業省の「第1回ものづくり日本大賞」で内閣総理大臣賞を受賞しています"
+          "startIndex": 8165,
+          "endIndex": 8559,
+          "text": "大日本除虫菊（金鳥）の創業者・上山英一郎が「なんとか長時間燃やせる丈夫な線香はできないか」と頭を抱えていた際、妻の「ゆき」さんが庭の蔵で**「とぐろを巻いたヘビ」**を見て、「細長い線香を渦巻き状に巻いてみてはどうか」と夫に提案したことが大ヒットのきっかけとなりました"
         },
         "groundingChunkIndices": [
-          17,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9413,
-          "endIndex": 9573,
-          "text": "経済産業省「第1回ものづくり日本大賞 受賞案件一覧」、日本政府広報「Highlighting Japan」、NIPPURA株式会社 公式沿革資料"
-        },
-        "groundingChunkIndices": [
-          20,
           18,
-          16
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 10291,
-          "endIndex": 10392,
-          "text": "家康の命令を無視して、敵陣へ真っ先に突撃した（抜け駆けの一番乗り）**"
+          "startIndex": 8562,
+          "endIndex": 8659,
+          "text": "製品化には7年もの試行錯誤を要し、1902年（明治35年）に発売されました"
         },
         "groundingChunkIndices": [
-          0,
-          2
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 10408,
-          "endIndex": 10522,
-          "text": "徳川家康の近習として仕えていた石川丈山は、武勇に優れた気骨ある三河武士でした"
+          "startIndex": 9144,
+          "endIndex": 9335,
+          "text": "渦巻はまっすぐにすると約75cmあり、人の寝ている時間に合わせて約7時間燃え続けることから、人々の暮らしに欠かせないものとなりました」"
         },
         "groundingChunkIndices": [
-          0,
-          2
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 10525,
-          "endIndex": 10729,
-          "text": "しかし大坂夏の陣の際、軍規として先陣争いが固く禁じられていたにもかかわらず、功名を焦って真っ先に敵陣へと抜け駆け（先頭）をしてしまいます"
+          "startIndex": 9826,
+          "endIndex": 9888,
+          "text": "**正解は「B：からつもの（唐津物）」です！**"
         },
         "groundingChunkIndices": [
-          0,
-          2
+          5,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 10732,
-          "endIndex": 10861,
-          "text": "この抜け駆けにより家康の激しい叱責を受けて浪人となり、武士の世界を去ることになりました"
+          "startIndex": 9931,
+          "endIndex": 10216,
+          "text": "愛知県に住んでいると「茶碗やお皿＝せともの」と呼ぶのが当たり前ですが、実は西日本では佐賀県の唐津港から全国へ運ばれた「唐津焼」が非常に身近だったため、「からつもの」と呼んで親しまれていました"
         },
         "groundingChunkIndices": [
-          0,
-          2
+          8,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 10864,
-          "endIndex": 11041,
-          "text": "この挫折を機に学問へ身を投じた結果、後世に名を残す一流の文人・庭園作家、そして煎茶の開祖へと転身することになったのです"
+          "startIndex": 10219,
+          "endIndex": 10366,
+          "text": "東の「せともの」、西の「からつもの」として、日本の台所文化を二分していたという意外な歴史があります"
         },
         "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11044,
-          "endIndex": 11152,
-          "text": "地元・和泉町の丈山苑を散策する際、家族に話したくなる歴史のエピソードです"
-        },
-        "groundingChunkIndices": [
-          0
+          9,
+          10
         ]
       }
     ],
     "webSearchQueries": [
-      "水族館 アクリルパネル 厚さ 割れない 日プラ",
-      "三河花火 徳川家康 由来 岡崎市",
-      "安城市 丈山苑 石川丈山 煎茶",
-      "名古屋市科学館 プラネタリウム ギネス 35m 特徴"
+      "湯たんぽ 波型 理由 表面積 変形防止",
+      "\"からつもの\" \"せともの\" 陶磁器 西日本 東日本",
+      "三河花火 徳川家康 火薬 岡崎 理由",
+      "せともの 陶磁器 なぜ 瀬戸焼 由来",
+      "湯たんぽ 波型 理由 マルカ",
+      "蚊取り線香 渦巻き 理由 金鳥 7時間"
     ]
   }
 }
