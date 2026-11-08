@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T00:55:51.051Z",
+  "updated_at": "2026-11-08T00:34:17.609Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -14,7 +14,7 @@
       "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-r4gyouji.html",
       "summary": "",
       "category": "市政",
-      "published_at": "2026-11-06T16:39:20+09:00",
+      "published_at": "2026-11-07T16:41:31+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -22,7 +22,7 @@
       "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/ansho-kominkant.html",
       "summary": "",
       "category": "市政",
-      "published_at": "2026-11-06T16:30:08+09:00",
+      "published_at": "2026-11-07T15:25:21+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -151,6 +151,14 @@
       "summary": "",
       "category": "学び",
       "published_at": "2026-11-05T16:08:02+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "声の広報あんじょう令和8年11月号",
+      "url": "https://www.city.anjo.aichi.jp/shisei/koho/202611/koeindex.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-11-05T14:24:08+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -303,14 +311,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-11-04T10:18:09+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "報道発表資料",
-      "url": "https://www.city.anjo.aichi.jp/shisei/pressrelease/pressreleaseindex.html",
-      "summary": "安城市が報道発表した資料です。",
-      "category": "市政",
-      "published_at": "2026-11-04T10:10:56+09:00",
       "source": "安城市公式サイト"
     },
     {

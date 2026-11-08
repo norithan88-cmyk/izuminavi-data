@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-11-07T09:55:47.200+09:00",
+  "updated_at": "2026-11-08T09:34:15.338+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=12&type=2&year=2026"
   ],
-  "event_count": 16,
+  "event_count": 15,
   "events": [
-    {
-      "title": "安祥ふれあいレクリエーション",
-      "url": "https://www.city.anjo.aichi.jp/event/r8anshou-fureai02.html",
-      "start_date": "2026-11-07",
-      "end_date": "2026-11-07",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
     {
       "title": "あんじょう健康大学 第3講",
       "url": "https://www.city.anjo.aichi.jp/event/202611kenkodaigaku3.html",
