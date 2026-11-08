@@ -1,197 +1,257 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "懐かしい暮らし・心が和む話",
-  "characters": 2017,
-  "estimated_minutes": 6.1,
-  "saturday_story": "story-04",
+  "theme": "季節・趣味・ゆったりした話題",
+  "characters": 2253,
+  "estimated_minutes": 6.8,
+  "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "食器などの焼き物を「せともの」と呼びますが、昔の西日本では別の産地にちなんで何と呼んでいたでしょうか。1番、からつもの。2番、ありたもの。3番、みおんの宝もの。",
-    "answer": "正解は1番、からつもの！佐賀の唐津焼が身近だったからだに！ちなみに3番を選んだ人、私の宝ものはリスナーの笑顔…って、AIが朝からクサいこと言っとる場合じゃないじゃんね！",
-    "source_ids": [
-      10
-    ],
-    "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYxG8HOrWQRUUi8YCI4nYUCdz2K9r7M8NaQZE3mInw_1BIkTpce9LbOjdOl9qXnQA2AQJ8iQL0lLbc3fP0Je9pkYdpOSy674EPSogfhOcEpgZtHY6WUQ=="
-    ]
-  },
-  "izumi": {
-    "text": "都築弥厚の構想から実現まで半世紀近くかかった明治用水。これをやり遂げたのが、今の碧南市、碧海郡大浜村生まれの背が高く厳格な岡本兵松さんだに！1853年ごろに原野を買って開墾を始めて、そこで弥厚さんの計画を知って遺志を継ぐと決めたんだよね。でも1858年と1868年の申請はどっちも許可されず却下！今なら心折れて転職サイトに登録しとるレベルじゃんね。それでも諦めず、阿弥陀堂村の伊予田与八郎さんと計画を合わせて、出資者の交渉は伊予田さん、農民の説得は兵松さんが担当したんだわ！そして1876年に愛知県から認可され、1879年に工事開始！1880年4月18日に水源地で通水式を迎えて、1881年に『明治用水』と名付けられたの。かんがい面積は最大1万760ヘクタール！この水のおかげで安城は農業が発展して、『日本デンマーク』って呼ばれるようになったんだに。…って、急に北欧の国が出てきて、なんでデンマークなん！？って突っ込みたくならん？でもそれだけ世界に誇る農業先進地だったってことだよね！兵松さんは私財を投じて晩年は経済的に苦しく、1897年に76歳で亡くなったんだけど、この用水がなかったら今の緑豊かな安城はなかったはず。世界レベルの農業を切り拓いた先人たち、本当に地元の誇りだに！",
+    "question": "和泉の手延べ長そうめんは、2本の竹の棒を使って手作業でどこまで伸ばすでしょうか。1番、3メートル60センチ。2番、新幹線1両分。3番、東京タワーのてっぺんまで。",
+    "answer": "正解は1番、3メートル60センチでした！2階から吊るせる長さだに！新幹線サイズはさすがに茹でる鍋がないわ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/tuzuki/"
+      "https://anjo-izumi.life/somen/"
+    ]
+  },
+  "izumi": {
+    "text": "さて、やってきました『みおんの和泉ディープ』！今朝は和泉そうめんの誕生秘話に迫るよ！約250年の歴史がある和泉の手延べそうめん、実は天明の大飢饉がきっかけで生まれたって言われとるの。当時、米が育ちにくかった和泉町で、お米がだめなら小麦でいこう！ってものすごい発想の転換からそうめん作りが広まったんだって。えっ、ちょっと待って？大ピンチのときに『じゃあ麺打つか！』って切り替えるメンタルの強さ、凄すぎん？今なら完全にSNSで大バズりする事業転換じゃんね！そうやって始まった和泉そうめんは、多くの産地が冬に仕込むのに対して、なんと夏に仕込むんだわ。夏の強い日差しで乾かして、夕方から吹く三河湾の湿った南東の風で麺を半生の状態に戻す、その名も『半生もどし』！2本の竹の棒を使って手作業で3メートル60センチほどまで伸ばすから、コシの強さとなめらかでツルっとした喉ごしが生まれるんだに。間杉手延製麺所の和泉手延長そうめんなんて、3メートル以上のまま商品にした日本一長い手延べそうめんだからね！お米がないなら小麦を限界まで伸ばせばいいじゃんっていう、大ピンチを大発明に変えた和泉の先人たち、めちゃくちゃ自慢したくなるよね！",
+    "source_ids": [
+      1
+    ],
+    "source_urls": [
+      "https://anjo-izumi.life/somen/"
     ],
     "angle": {
-      "id": "meiji-denmark",
-      "hook": "水が来て安城が『日本デンマーク』に。なぜデンマーク？という素朴なツッコミ"
+      "id": "somen-origin",
+      "hook": "天明の大飢饉から生まれた。米がだめなら小麦でいこう、の発想"
     }
   },
   "local": {
-    "text": "安城市の中部公民館で、11月14日に『中部公民館ふれあいウォーキング』が開催されるよ。11月に入って秋も深まってきたもんで、週末にみんなで歩いて体を動かすにはぴったりの季節だら！普段はあんまり歩かんという人も、週末のリフレッシュにいい機会になりそうだよね。気になった人はカレンダーにしっかりメモして、ぜひチェックしてみてりんね！",
+    "text": "音楽の秋を楽しみたい人にぴったりの話題だよ。11月22日に、市民公募文化事業『第19回ビッグ・ラバーズ・オーケストラ定期演奏会』が予定されとるよ！生の楽器の響きをゆったり味わえる絶好の機会じゃんね。芸術の秋のお出かけに、カレンダーをチェックしてみてりん！",
     "source_ids": [
-      26
+      35
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
+      "https://www.city.anjo.aichi.jp/tanoshimu/bunka/koubojigyou/2026blo19.html"
     ]
   },
   "segments": [
     {
-      "topic": "トタンの湯たんぽはなぜ波型にデコボコしているのか？",
-      "text": "明治用水の温かい歴史に続いて、お布団の温かいお話！寒くなってくると恋しくなるのが、昔ながらのトタンの湯たんぽじゃんね。お湯を入れて布団の足元に忍ばせると、じんわり朝まで温かいんだけど…あの表面、なんで波型にデコボコしとるか知っとる？「肌触りを良くするため」とか「足つぼマッサージ用」…って、布団の中で足つぼ押しとる場合じゃないじゃん！実はあれ、大気圧から身を守るための超ハイテク構造なんだって！えっ、大気圧！？ちょっと待って、お湯を入れる道具にそんな壮大な物理の話が出てくるなんて聞いてないんだけど！湯たんぽにお湯を入れてフタを密閉すると、時間が経つにつれて中のお湯と空気が冷えて、体積がキュッと縮むんだわ。そうすると内部の気圧が下がって、外の空気の力に押しつぶされちゃうわけ。もし表面がツルツルに平らだったら、外からの大気圧でベコッと思いっきりへこんで、金属疲労で割れちゃうんだって！恐ろしすぎるだら！そこで金属の板を波型にプレス成形することで、板の厚みを変えずに曲げに対する強度が劇的に跳ね上がって、ペチャンコになるのを防いどるの。しかも平らな板に比べて、表面積が約1.2倍から1.3倍に広がるもんで、熱が効率よくお布団に伝わって暖房効果も高まるっていう一石二鳥の神ワザ！大正時代の町工場の職人さんたちが試行錯誤して完成させたらしいよ。今夜もしトタンの湯たんぽを使う人がいたら、足元で大気圧と戦いながらお布団を温めてくれとる職人魂に、感謝しながらぬくぬく寝りんね！",
+      "topic": "モミジとイチョウで起きている真逆の紅葉ドラマ",
+      "text": "そういえば、木々が綺麗に色づいてきたじゃんね。モミジの赤とイチョウの黄色、葉っぱの中で起きとることが完全に『真逆』だって知っとった？同じ紅葉なのに真逆ってどういうこと！？って叫んじゃったんだけど、これ聞いて驚いたわ！まずイチョウの黄色。あれは新しく色づいたわけじゃないの。実は春も夏も、最初っから葉っぱの中に黄色い色素『カロテノイド』がおったんだわ。夏は光合成をする緑色の色素『クロロフィル』が多すぎて隠れとっただけ！秋に緑が分解されたもんで、隠れキャラの黄色が表に出てきただけなんだって。…って、今まで素顔を隠しとっただけかい！ところがモミジの赤色は真逆！夏の間は赤い色素なんて葉の中に一切存在せんのだに。枯れ落ちる直前の葉が、エネルギーを使ってわざわざ新しく赤色を作り出しとるんだわ！なんでそんな面倒なことをするのん？実は木は葉が落ちる前に、中の大事な栄養を枝に回収しとるの。でも衰えた葉に強い直射日光が当たると、有害な活性酸素が出て栄養を回収しきる前に葉が落ちちゃうんだって。だからモミジは、赤い日傘、いわばサングラスを急いで手作りして、光から身を守りながら栄養を集めとるんだわ！最低気温が8度を下回ると色づきの準備が進むらしいよ。イチョウはお片付け、モミジは必死のサングラス作り！今度見たら『お疲れ様！』って声かけりんね！",
       "source_ids": [
-        18,
-        19
+        2,
+        3,
+        4,
+        5
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3gZShOgW3YYLl3Goe17cR-8EVhKbSehhSD1MAq7H40wYmgZ4dSQ7KYupd7TruxWPmGv6_AmD_-XtQi2OI2uFs-aOJjB-MTADgjby245ZtxfQYOw2Ko1lE3VekoY=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMl5a5xkuY_OtYPpoWEXSbqDRwcAuHh9RifunojRfQ-ZXiZgj8uwP2Ipim8Eo9Ad5rsvUYzhMbZ11CfnGUngzHw1jx2Z1YnQmvDm7_Ey5Yk6_tRtnYQ=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOQ4dLa7OvY3wwPz_e01O0Ra5yi0aJywvkRmMfryT3q_DTB_fr_o80yvd8PvD9MwuuXSF9O8NOA2gFTcOfEo9cG70M3HgDv4Eb0nzwPBNdSOlPCmc1heDYidRjW9zrfA=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtJ6f9PZ4f21yNpZWZsQWAxuUC00m7tNY3O6WmG6fbQ4d741dQN6j0GqrL7chbnrsZ4nt8LIHhWqSsGmGbGw67I0s0yLFnczYNqEYUd_PL67HCwIgYODzpLSgOHs=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQRZW2Sb3V5c-pjeOBVMMSrDi5OSgHt6UsRxmXiesQw6AvuQrF5B0z0TO7pu4uACn9bRZonY4xgSV6whSQqoUk_X8vUjXG_eRt1-QR82TnBaXxM401Z-E_pyE10jmdpwoH2cfGe2mG0w==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGcZx5rwpqtRLglS8tUtqpts6ptYbG8F6nqVB6tok9h6mvvpXdc8py-icr6Pqnu4SE47dWinQGgoYtwe3IR14aIaloKbD5EwhTWiALqVbnO91wZ6iifVitzj23P9u_0Yw-haTz5DzEZcOT2Judd0rJ0Da"
+      ]
+    },
+    {
+      "topic": "三味線職人が独学で作った日本初バイオリンの奇跡",
+      "text": "木々の話が出たついでに、木を削って世界を驚かせた愛知のすごい職人さんの話、聞いてみん？優雅なクラシック音楽のバイオリン。実は、日本で初めて量産化して世界トップシェアを握ったメーカーのふるさとって、愛知県なんだわ！今はお隣の大府市に工房がある『鈴木バイオリン製造』なんだけど、始まりが信じられんくらい破天荒なの！創業者の鈴木政吉さんは、もともと三味線職人だったんだって。明治20年に知人が持っとった西洋のバイオリンを見て、一瞬で心を奪われちゃったらしいの。ここからが凄くて、三味線作りをすっぱり辞めて、バイオリンを一晩だけ借りて徹夜で寸法をメモ！道具も作り方も分からん状態から、たった1週間で独学の第1号バイオリンを削り出しちゃったんだに！…いや、行動力ありすぎでしょ！みおんなら説明書を3日眺めて終わるわ！しかも政吉さん、『良いものを安くたくさんの子どもたちへ』って、専用の木工機械まで自分で考案したの。最盛期には従業員1000人以上、毎日500本、年間10万本以上も世界へ輸出しとったんだって！さらに日本に来たあの物理学者アインシュタイン博士にバイオリンを贈ったら、音色を絶賛する自筆の礼状まで届いたんだわ！三味線職人の情熱がアインシュタインまで届くなんて夢があるじゃんね！音楽室で見かけたら愛知の職人魂を思い出して自慢しりんね！",
+      "source_ids": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ],
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJEI_tjKgfDBLSthgAjgB6HqIElInrmBAwXpAFQBXklmXk1KbPeBGiVkgLkcSlmVEQJjE9j7gxw6ks2sOWPJjdKSV5b2LPaqJkYXvCDgWs_L6sYlW-YCNkiXKWp3SQV3Jjd_Q3rNySrFsC7Lsc2qGMBmFZDoVoAVuVmgj9",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZZm0pHIeQ1wuOIBHzxGITAjLBv6kQVwichBn9CPmcVnBhelHnPG5QQfB7qkcKrvi7TmJpsncqSme22-VU_m4E8f2caraERTvL5noSKs9mfGz4hBgtnfRMdrM963xsw3xPD6pZfr8VVKmt3AJcL2HeqqwGHXyzw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDE-JKA917F5JKl312cuXWmfRY9jiAp1kgvGZ9LVSgSI1WLquuUK-bqq_ScE7UvSGjpuaPLbun2E6qqhxqSH7ZNli7PXFqcBd1j72fqH0LeQwwpdzQeSNYPbE-Ge8j8bs9ucb9VUfCYw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4kUs9qnGUEzK86dPIi7NY7uZWYVf9LZ0Y6J8mGm17iejhVrdR5wonBG4ZBk8wJi9menvvIdzooehpzaIvV1Rw9TM5agb06cIatFSDYmSA-d6U5z-MVqo6kTAkHmL_6Qd1umzsVfcsLtUXPc9gaH8RTSWmMmwg8aM=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUbFqwCtVLpeAi4bVnpJl3T9Cs2Rz8gcUrrXmN_uMTU-FoPW8zkpmvgeHMAdrFk0sBXaPNTekvUamA7CgmD5fW22oNISBvrwf0NzmC34fGryr_x9FK1l-AGAkwLq293AiJZwJWpZtzVTLSCWwvz8K5UC2tAoBQZ3Yobegn9XovqG8N_U=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-FRMkNfaXG0M5TZ-_8irMcuIdEsJLUinCz62qhIluM3408GAIMdnzH19xW4ICxRTepl6Hr2S8WzTmc_ip41kll6e8WycWfmb5HdHDXqC9G-zkVWSQb3AAXIVNbBvmDcoOcv1CBqj5aJU3fHhpx4lL6VmG9giQg=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、思わず家族に話したくなる「懐かしい暮らし・心が和む生活の知恵や歴史」を4件選定しました。愛知県・西三河に深く根ざした話題も含め、公的機関や製造メーカーなどの資料を基にまとめた調査メモです。\n\n---\n\n### 1. なぜ三河地方は花火が有名？ 徳川家康が残した「火薬の特権」\n* **理由：** \n  江戸幕府を開いた徳川家康が、謀反や一揆を防ぐために各大名や各藩の鉄砲・火薬の製造を厳しく禁止・制限するなか、自身の生誕地であり信頼する直轄地「三河」にだけ火薬の製造・貯蔵や原料（硝石）の保有を特別に許可したためです。戦乱が収まった泰平の世において、三河の鉄砲隊が火薬技術を平和利用し、神社の神事や祭礼用の奉納花火として昇華させたことで「三河花火」が発展しました。\n* **具体的な数字や比較：** \n  愛知県教育委員会の地域教材資料によると、現在でも岡崎・安城など西三河を中心とする花火生産地は全国生産の約16％を占めており、特に子どもたちが手にとって遊ぶ「玩具花火」に限れば全国生産の3割以上のシェアを誇ります。全国で流通する花火の大半も三河の花火問屋を経由しています。\n* **意外な点：** \n  夏の夜空を彩る華やかな花火は、もともと「恐ろしい軍事兵器の技術をどうやって平和に受け継ぐか」という武士たちの知恵の転換から生まれました。\n* **歴史の裏話：** \n  徳川家康は青年武士からなる鉄砲隊を組織し、著名な砲術家である稲富流の稲富伊賀守直家を招いて指導にあたらせました。幕府から火薬を許された「お国もの」の特権を得た三河では、稲富流や武田流といった砲術・火術の流派が花火作りの技術として各町内に受け継がれ、秋の稲刈りが終わると村々で腕を競い合って花火を作ったと伝えられています。\n* **出典・引用：**\n  * 岡崎商工会議所「三河花火の歴史」：「反乱や一揆に対し必要以上に神経過敏であった家康がもっとも恐ろしい殺人武器である火薬およびその主剤となる硝石の採取などを幕府発祥の地である三河のみに限らせ、かつ三河においてのみ製造貯蔵を奨励したのは、全く当然のことであり、ここにおいて『お国もの』の特権が生じたのである」\n  * 愛知県教育委員会 愛知エースネット「三河花火」：「岡崎・安城など西三河を中心とした花火生産地は，全国生産の約16％を占め，特に玩具花火は全国生産の３割以上のシェアを占める」\n\n---\n\n### 2. 食器をなぜ「せともの」と呼ぶ？ 西日本には別の呼び名があった\n* **理由：** \n  愛知県瀬戸市周辺で作られる「瀬戸焼」が、鎌倉時代から日本で唯一、表面をガラス質で覆う人工の「釉薬（うわぐすり）」をかけた陶器を本格的・大規模に生産し、東日本を中心に圧倒的なシェアで流通したため、陶磁器そのものを指す代名詞として定着しました。\n* **具体的な数字や比較：** \n  瀬戸焼は1000年以上の歴史を誇る「日本六古窯」の筆頭格です。実は陶磁器全般を「せともの」と呼ぶのは主に東日本（近畿以東）で、近畿以西の西日本では、佐賀県の唐津焼に由来して**「からつもの（唐津物）」**と呼ぶ地域が広く存在しました。\n* **意外な点：** \n  私たちが普段何気なく「せともの」と呼んでいる言葉は日本全国共通の呼び名ではなく、東の「せともの」、西の「からつもの」として日本を東西で二分していた歴史があります。\n* **歴史の裏話：** \n  「せともの」という呼び名は非常に古く、1563年（永禄6年）に織田信長が発給した制札（商人たちに瀬戸物の取引を奨励・保護する文書）にもすでに使われていました。戦国時代にはすでにブランド名として確立していたことがわかります。\n* **出典・引用：**\n  * 瀬戸陶磁器卸商業協同組合「せとものの歴史」：「陶磁器のことを西日本では『からつもの』といい、東日本では『せともの』といいます。せとものの一番の特徴は釉薬（ゆうやく・うわぐすり）がかけてあるということです。鎌倉時代に日本で釉薬をかけた焼物を作っていたのは、瀬戸が唯一で、他の地域で作られていた焼物のほとんどは釉薬をかけていないものでした」\n\n---\n\n### 3. トタンの湯たんぽはなぜ「波型（デコボコ）」をしているのか？\n* **理由：** \n  お湯が冷めたときに起きる「気圧の低下によるへこみ・変形」を防ぐためです。湯たんぽに熱湯を入れて密閉すると、時間の経過とともにお湯と内部の空気が冷えて体積が収縮し、内部の気圧が下がります。表面が平らだと外の大気圧に押しつぶされてベコッとへこみ、金属疲労で割れてしまうため、波型にして強度を持たせています。\n* **具体的な数字や比較：** \n  平らな金属板を波型（コルゲート構造）にプレス成形することで、板の厚みを変えずに曲げに対する剛性・強度が劇的に跳ね上がります。さらに、平らな形状に比べて表面積が約1.2倍〜1.3倍に広がるため、布団の中で熱が効率よく伝わり、暖房効果が高まるという利点もあります。\n* **意外な点：** \n  肌触りを優しくするためやデザインではなく、中学校の理科で習う「大気圧」と「熱収縮」から薄い金属を守るための物理工学的な工夫でした。\n* **歴史の裏話：** \n  日本には室町時代に中国から陶器製の湯たんぽ（湯婆）が伝わりましたが、大正時代に丈夫で扱いやすいトタン（亜鉛めっき鋼板）製が登場しました。大正12年創業の老舗湯たんぽメーカー「マルカ」をはじめとする町工場の職人たちが、薄い板金でも潰れないよう試行錯誤を重ね、特許や実用新案を取得して現在の波型亀の子形状を完成させました。\n* **出典・引用：**\n  * マルカ株式会社（大正12年創業の湯たんぽ老舗）製品技術資料・Q&A：「湯を入れる場合には、湯たんぽを完全に満たさなくてはならない。内部の空気や蒸気が冷えて収縮することで内部の圧力が下がり、変形・破損するおそれがあるため」（製品安全解説より要約）\n  * 土井金属化成株式会社「豆知識」：「○湯たんぽ表面の波形は？ 表面積を広くして、暖房効果を向上させるため。後、補強効果のため」\n\n---\n\n### 4. 懐かしい蚊取り線香はなぜ「渦巻き型」になったのか？\n* **理由：** \n  一晩ぐっすり眠る間（約7時間）、途中で火を消さず蚊を寄せ付けないようにするためです。\n* **具体的な数字や比較：** \n  1890年（明治23年）に世界で初めて作られた蚊取り線香は仏壇用と同じ「棒状」で、長さは約20cm、燃焼時間はわずか**「約40分」**でした。これでは寝ている間にすぐ消えてしまい、細くて運搬中に折れやすい弱点がありました。そこで渦巻き型にしたところ、まっすぐ伸ばすと**「約75cm」**になり、睡眠時間にぴったりの**「約7時間」**燃え続けるようになりました。\n* **意外な点：** \n  この渦巻きの形を思いついたのは、メーカーの技術者ではなく創業者の妻でした。\n* **歴史の裏話：** \n  大日本除虫菊（金鳥）の創業者・上山英一郎が「なんとか長時間燃やせる丈夫な線香はできないか」と頭を抱えていた際、妻の「ゆき」さんが庭の蔵で**「とぐろを巻いたヘビ」**を見て、「細長い線香を渦巻き状に巻いてみてはどうか」と夫に提案したことが大ヒットのきっかけとなりました。製品化には7年もの試行錯誤を要し、1902年（明治35年）に発売されました。\n* **出典・引用：**\n  * 大日本除虫菊株式会社（KINCHO）「害虫コラム：1世紀以上経っても、渦巻きです。」：「明治23年に棒状蚊取り線香が生まれました。でも、この線香（約20cm）は約40分くらいで燃えつきてしまうのと、運んでいる間に折れやすいという欠点が……。明治28年『金鳥』初代社長・上山英一郎の夫人『ゆき』の発案で、渦巻型が登場しました。渦巻はまっすぐにすると約75cmあり、人の寝ている時間に合わせて約7時間燃え続けることから、人々の暮らしに欠かせないものとなりました」\n\n---\n\n### 番組で使える！ 3択リスナークイズ（話題2より）\n\n**【問題】**\n陶磁器全般のことを、愛知県の焼き物にちなんで「せともの（瀬戸物）」と呼びますが、かつて西日本では別の産地にちなんで何と呼んでいたでしょうか？\n\n* **第1問（A）：** ありたもの（有田物）\n* **第2問（B）：** からつもの（唐津物）\n* **第3問（C）：** びぜんもの（備前物）\n\n**【正解】**\n**正解は「B：からつもの（唐津物）」です！**\n\n**【解説トークのポイント】**\n愛知県に住んでいると「茶碗やお皿＝せともの」と呼ぶのが当たり前ですが、実は西日本では佐賀県の唐津港から全国へ運ばれた「唐津焼」が非常に身近だったため、「からつもの」と呼んで親しまれていました。東の「せともの」、西の「からつもの」として、日本の台所文化を二分していたという意外な歴史があります。",
+  "research": "安城市和泉町向けの地域ラジオ番組で活用できる、11月8日の晩秋にぴったりの「季節・趣味・ゆったりした話題」の調査メモを作成しました。家族や近所の方に話したくなる「へえ、そうだったのか！」という驚きや裏話を中心にまとめています。\n\n---\n\n# ラジオ放送用調査メモ（2026年11月8日放送向け）\n\n---\n\n### 話題1：【季節・自然】\n**「モミジとイチョウ、同じ紅葉なのに葉の中で起きていることは『真逆』だった？」**\n\n* **家族に話したくなる疑問**  \n  秋になるとイチョウは鮮やかな黄色になり、モミジは真っ赤に染まります。どちらも「葉が色づく」現象ですが、実は葉の中で起きている仕組みが全く逆であることをご存じでしょうか。\n* **理由と意外な点**  \n  イチョウの黄色は、もともと春や夏から葉の中にあった黄色い色素「カロテノイド」です。夏の間は光合成を行う緑色の色素「クロロフィル」の量が圧倒的に多いため緑に見えますが、秋になってクロロフィルが分解されると、隠れていた黄色が表に現れます。  \n  一方、モミジの赤色（アントシアニン）は、夏の間は葉の中に一切存在しません。秋になり、もうすぐ枯れ落ちる直前の葉が「わざわざエネルギーを使って新しく作り出している」のです。\n* **なぜわざわざ赤くするのか？（科学の裏話と数字）**  \n  落葉樹は冬を迎える前に、葉に残された貴重な窒素などの栄養分を分解して幹や枝へ回収します。しかし、葉が衰えていく時期に秋の強い直射日光を浴びると、光を処理しきれずに有害な「活性酸素」が発生し、栄養の回収が終わる前に葉が傷んで落ちてしまいます。  \n  そこでカエデなどは、光を遮る「日傘（サングラス）」のような役割を果たす赤い色素アントシアニンを急いで合成し、光の害から葉を守りながら最後まで栄養を回収していることが近年の研究で明らかになっています（国立研究開発法人森林総合研究所などの研究）。イチョウが「不要な緑を片付けてもとの色を出している」のに対し、モミジは「大切な栄養を守るために赤い盾を作っている」という違いがあります。最低気温がおよそ8℃を下回ると、この色づきの準備が一気に進みます。\n* **出典・根拠**  \n  * 国立研究開発法人 森林総合研究所 研究成果「紅葉もたらす色素、デンプンに代わって糖上昇抑え早期落葉回避」（2024年）\n  * ウェザーニュース 専門家解説（森林総合研究所 樹木生理研究室 北尾光俊氏インタビュー）\n\n---\n\n### 話題2：【西三河・食と歴史】\n**「なぜ海辺の町が日本一に？三河一色うなぎを育てた『専用水道』と台風の歴史」**\n\n* **家族に話したくなる疑問**  \n  安城のお隣、西尾市一色町といえば全国に名を馳せる「一色産うなぎ」の産地です。しかし、川魚であるウナギの養殖が、なぜ海に面した一色町で全国トップクラスの規模になったのでしょうか？\n* **理由と具体的な数字**  \n  西尾市（旧一色町）は、市町村単位での養殖ウナギ生産量が昭和58年から現在まで全国第1位を誇り、国産ウナギのおよそ5尾に1尾（全国シェア約20％、愛知県内の約7〜8割）が一色町で育てられています。\n* **歴史の裏話と意外な点**  \n  一色町の養鰻（ようまん）の始まりは明治時代（1904年・明治37年頃）にさかのぼります。もともと矢作川の河口デルタ地帯には広大な「塩田」が広がっていました。塩分が強く米作りに適さない土地の活用法として、塩分に強いウナギの養殖池が作られたのがきっかけです。  \n  さらに決定打となったのが、昭和34年（1959年）の伊勢湾台風でした。甚大な塩害を受けた農地を養殖池へと転換する動きが進み、昭和36〜38年には全国でも唯一となる「養鰻専用水道」を町に敷設しました。地下水ではなく、矢作川水系の清らかな河川水を直接養殖池へ引き込む大工事を行ったことで、ウナギが天然河川に近いストレスのない環境で育ち、良質な脂と柔らかな皮を持つブランドへと急成長を遂げました。\n* **出典・根拠**  \n  * 西尾市公式ウェブサイト「全国トップクラスの一色産うなぎ」\n  * 一色うなぎ漁業協同組合「うなぎの歴史と生産量」\n  * 国土交通省 豊橋河川事務所「なんでも水循環！矢作川の恵みとうなぎ」\n\n---\n\n### 話題3：【愛知・ゆったり喫茶文化】\n**「愛知の喫茶店モーニング、誕生の引き金は工場の『すさまじい騒音』だった？」**\n\n* **家族に話したくなる疑問**  \n  朝、喫茶店でコーヒーを頼むと、トーストやゆで卵が無料でついてくる愛知名物「モーニングサービス」。今ではゆったり過ごす朝の定番ですが、なぜドリンク1杯の値段でこれほど豪華なサービスを付ける文化が生まれたのでしょうか？\n* **意外な理由と歴史の裏話**  \n  発祥地とされる愛知県一宮市は、昭和30年代に繊維産業の全盛期を迎え、「織機をガチャンと動かせば万の金が儲かる」という意味で「ガチャマン景気」と呼ばれていました。  \n  全国から多くの商談客が訪れましたが、当時の工場内は無数の機織り機がガチャンガチャンと凄まじい音を立てており、社内の応接室では大声を出しても会話が聞き取れませんでした。そこで機屋の社長たちは、取引先を連れて近所の喫茶店へ行き、喫茶店を「応接室や会議室代わり」にして商談を行っていました。\n* **サービス誕生の瞬間**  \n  1日に朝・昼・夕と何度も商談で足を運んでくれる機屋の常連客に対して、昭和31年（1956年）頃、ある喫茶店の店主が「いつも来てくれてありがとう」という感謝と労いの気持ちから、コーヒーにゆで卵とピーナッツを無料で添えて出したのが始まりとされています。集客のための値下げ競争ではなく、地場産業を支える職人さんたちへの「おもてなしの心」から生まれた文化でした。\n* **出典・根拠**  \n  * 一宮商工会議所・一宮モーニング協議会 資料\n  * 名古屋市・愛知県の喫茶文化史（大竹敏之氏の研究・CBCテレビ解説）\n\n---\n\n### 話題4：【趣味・音楽とものづくり】\n**「日本初のバイオリンは愛知生まれ！三味線職人の独学とアインシュタインの礼状」**\n\n* **家族に話したくなる疑問**  \n  優雅なクラシック音楽を奏でるバイオリン。日本で初めて量産化され、世界のトップシェアを握った国産バイオリンのふるさとが、西三河のお隣・大府市や名古屋などの愛知県にあることをご存じでしょうか。\n* **意外な点と歴史の裏話**  \n  日本初の弦楽器メーカー「鈴木バイオリン製造」（創業1887年・現在は大府市に本社工房）の創業者・鈴木政吉（すずき・まさきち）は、もともと尾張藩の下級武士の家に生まれた三味線職人でした。  \n  明治20年、知人が持っていた西洋のバイオリンを目にして一瞬で魅了された政吉は、三味線作りをすっぱり辞めることを決意します。現物をたった一夜だけ借りて徹夜で各部の寸法を書き写し、道具も作り方も分からない状態から、わずか1週間で独学の第1号バイオリンを削り出しました。\n* **驚きの数字と世界的エピソード**  \n  政吉は「良いものを安く多くの子どもたちへ」と専用の木工機械を自ら考案し、最盛期には従業員1,000人以上、毎日500本、年間10万本以上のバイオリンを世界中へ輸出する世界的メーカーへと育て上げました。  \n  その音色の美しさは世界に響き、来日したあの物理学者アルバート・アインシュタイン博士へ政吉作のバイオリンが贈呈された際には、アインシュタイン本人からその精巧さと音色を絶賛する自筆の礼状が届きました（礼状は大府市歴史民俗資料館等に関連展示）。日本の学校教育用バイオリンの礎は、愛知の職人魂から築かれたものでした。\n* **出典・根拠**  \n  * 大府市公式ウェブサイト「鈴木政吉像」および大府市歴史民俗資料館展示解説\n  * 大府市観光協会「鈴木バイオリン製造の歴史」\n\n---\n\n## 番組で使える3択リスナー温まりクイズ\n\n**【話題3・愛知の喫茶店モーニングより】**\n\n* **問題**  \n  「愛知県で喫茶店の『モーニングサービス』が生まれたきっかけには、昭和30年代の一宮市などの工場が抱えていたある悩みが関係していました。その悩みとは次のうちどれでしょう？」\n  * ① 従業員が朝寝坊ばかりして朝食を作る時間がなかった\n  * ② 機織り機（はたおりき）の音がうるさすぎて社内で商談ができなかった\n  * ③ 休憩室の水道がよく止まり、お茶を沸かせなかった\n\n* **正解**  \n  **② 機織り機の音がうるさすぎて社内で商談ができなかった**\n\n* **トーク用プチ解説**  \n  「当時の繊維工場は『ガチャマン景気』と言って、機械を動かすだけで大儲けできる大忙しの時代でした。ただ、機織り機の『ガチャンガチャン！』という音が社内に響き渡って会話ができなかったため、静かに話ができる近所の喫茶店を商談室代わりに使ったんですね。その常連さんたちへマスターが感謝を込めて卵やピーナッツをサービスしたのが、今に続くモーニングの始まりなんです」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E6%B3%A2%E5%9E%8B+%E7%90%86%E7%94%B1+%E8%A1%A8%E9%9D%A2%E7%A9%8D+%E5%A4%89%E5%BD%A2%E9%98%B2%E6%AD%A2&client=app-vertex-grounding&safesearch=active\">湯たんぽ 波型 理由 表面積 変形防止</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%22%E3%81%8B%E3%82%89%E3%81%A4%E3%82%82%E3%81%AE%22+%22%E3%81%9B%E3%81%A8%E3%82%82%E3%81%AE%22+%E9%99%B6%E7%A3%81%E5%99%A8+%E8%A5%BF%E6%97%A5%E6%9C%AC+%E6%9D%B1%E6%97%A5%E6%9C%AC&client=app-vertex-grounding&safesearch=active\">&quot;からつもの&quot; &quot;せともの&quot; 陶磁器 西日本 東日本</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E8%8A%B1%E7%81%AB+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E7%81%AB%E8%96%AC+%E5%B2%A1%E5%B4%8E+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">三河花火 徳川家康 火薬 岡崎 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%9B%E3%81%A8%E3%82%82%E3%81%AE+%E9%99%B6%E7%A3%81%E5%99%A8+%E3%81%AA%E3%81%9C+%E7%80%AC%E6%88%B8%E7%84%BC+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">せともの 陶磁器 なぜ 瀬戸焼 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E6%B3%A2%E5%9E%8B+%E7%90%86%E7%94%B1+%E3%83%9E%E3%83%AB%E3%82%AB&client=app-vertex-grounding&safesearch=active\">湯たんぽ 波型 理由 マルカ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+7%E6%99%82%E9%96%93&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 7時間</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3+%E9%88%B4%E6%9C%A8%E6%94%BF%E5%90%89+%E5%A4%A7%E5%BA%9C%E5%B8%82+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">スズキバイオリン 鈴木政吉 大府市 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C+%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0+%E7%99%BA%E7%A5%A5+%E6%A9%9F%E7%B9%94%E3%82%8A+%E9%A8%92%E9%9F%B3&client=app-vertex-grounding&safesearch=active\">愛知県 モーニング 発祥 機織り 騒音</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%B4%85%E8%91%89+%E3%81%AA%E3%81%9C+%E8%B5%A4%E3%81%84+%E9%BB%84%E8%89%B2+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">紅葉 なぜ 赤い 黄色 アントシアニン 森林総合研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%80%E8%89%B2+%E9%B0%BB+%E9%A4%8A%E6%AE%96+%E6%AD%B4%E5%8F%B2+%E6%98%8E%E6%B2%BB+%E5%A1%A9%E7%94%B0+%E7%9F%A2%E4%BD%9C%E5%B7%9D&client=app-vertex-grounding&safesearch=active\">一色 鰻 養殖 歴史 明治 塩田 矢作川</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERxUvAFUuxtcNzg0EPtpfa9LU4yv6SvUysuyNOduwN1XWgo6FvI6iiRo-IVwqoJsfcgcKYS9ID_9ui20lI4ElP2X4vseZE8ssrgHS1jcldMcyj1jfkXwKruUo5mueFc3gM9hOx-0qRsFc=",
-          "title": "okazakitakuminokai.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOQ4dLa7OvY3wwPz_e01O0Ra5yi0aJywvkRmMfryT3q_DTB_fr_o80yvd8PvD9MwuuXSF9O8NOA2gFTcOfEo9cG70M3HgDv4Eb0nzwPBNdSOlPCmc1heDYidRjW9zrfA=",
+          "title": "weathernews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIw9I598T9uXk5QlGa4Ad-qmTJ6ECeO7O5tVd07203jVvXy5ZptCafY-hQPwjfhnnOH4g0xGjy9eb0zZ0SJpW75dIG7MlYQVUNYdvORGw6h8lGxhVUu0y6AFLeIovwoNQROLA=",
-          "title": "okazakicci.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtJ6f9PZ4f21yNpZWZsQWAxuUC00m7tNY3O6WmG6fbQ4d741dQN6j0GqrL7chbnrsZ4nt8LIHhWqSsGmGbGw67I0s0yLFnczYNqEYUd_PL67HCwIgYODzpLSgOHs=",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaf5BqT9dC6vAywttJ9erJ4s_O9URq33ydstsXb7lTFLU_TYXY1E5KS80GjhzrbJGoyIUffy3MdbkjHu8hZXw8XT66QCSfIV8plsPzBqGutXBJxMssL84=",
-          "title": "gnpp.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQRZW2Sb3V5c-pjeOBVMMSrDi5OSgHt6UsRxmXiesQw6AvuQrF5B0z0TO7pu4uACn9bRZonY4xgSV6whSQqoUk_X8vUjXG_eRt1-QR82TnBaXxM401Z-E_pyE10jmdpwoH2cfGe2mG0w==",
+          "title": "shinrin-ringyou.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPUWbb6Ydyx0AJZ3JlB5FCVy03IgP9i3mBhRgEN2dA7jcgd0RgRYSRU795KmU_56cRLB247VxHs9VX88mG0UzEz7RZx_rinBhq3_YOwdmy5lXZ9efO0HFYry9vR5E3tgGfeJTuez0QCyZfXcanrwYYKrz9oBK8M4HzVLvWSo1Uu1yZyEw=",
-          "title": "aichi-c.ed.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGcZx5rwpqtRLglS8tUtqpts6ptYbG8F6nqVB6tok9h6mvvpXdc8py-icr6Pqnu4SE47dWinQGgoYtwe3IR14aIaloKbD5EwhTWiALqVbnO91wZ6iifVitzj23P9u_0Yw-haTz5DzEZcOT2Judd0rJ0Da",
+          "title": "ffpri.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR2oYQS-q8Xb8F2Hz8sqBmTkP1rMLB-Rpyxo7Mv28_UTHHqxRWtH6aERDei-r6rcoiOy1ybaWy4AfwMpvn87S0ZEFzx_xlbWdvbuyXeWz2TbOelxSmXegvyq0vhUkuhQsopQqz8BGsPh95ssYIMjdP",
-          "title": "okazaki-kanko.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFstNJRML-snRziHMRBHLhuvwq75sSPTtonsRoBQKqLc6kUliwHdshCgAfSB4UvNbNN7WqQws8OKEXVzb0P4Xc5N-TSCfiUByPzQNZGu8XodcczIsoMt0T9hAgNwBl-fIWeLhT64IrZ",
+          "title": "kurashi-data.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpLVUSBa0woQV5BuRbABXrSfE_m_XdosPwja5qybasG4CTGP_pAgx5A_lb5hM3HRr_3rkOaBOJ8iCNMdy6vleW38ql9phpCG2TGh-bRNu9egCPQ9M=",
-          "title": "seto-tosyo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbBcQX1o-NPPJoDr5HNaW04nBEnN0alhCvyQ76xFGl34BfeV8gtHHDIeXJiqe5NW8t9kDe8A_Do8hA4HH5sY7Mlh0CmuVz6x0EmkyIuPZDqJOyAh1arwWMtgPAxkWdtLl3f1UerBrdRs4ivoGNys=",
+          "title": "mikawasuisankakou.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuM0XdTN3NRjYeVkFmoiKej866vsKeNLOJqdt2KNTi5hlmkICRXWQDR7hVbq2IgyIrcBWiCxEoZya_LzHnlWMXXbo7AhF23V9wDa30NfNXP51E3_q9hR53z1gvcKNmfgjLUp89i18sSq53WzgvXPoQDqki78MVe_Qi4XfpGv0=",
-          "title": "fareastteacompany.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ_8JPDdh92flR8E62zowPtHbuTl9UabSsXyCQTsXrqF6dFUw2PK3gNlSCB3pG_oN0qhuf_IbuFv3nVN98t9TS8mtXcm30AbQ4Ee7-dVrBF3-tQmKG730I1HQ45NEW1w==",
+          "title": "nishiokanko.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHALIVmG0pbEHkAGOGaQ2YZV3uYv9tjk0kQJJ82hLqeQmyupS0i2SYQMAkXxxiT2rRLoKWAgPZvMz6KS9xlkVyLY1f5ytPMJjr8mHTsnLCBUQBBZwW-klMrUA==",
-          "title": "masuken.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNbYf_W4cYIXCFspZ5lVEDqcjxW-OBFUeh5EQLZWugzU_Of5wnx7gN2-OA8MVa9SAYTS9OWcvj_zkCYCwSezWA5qpNQWXE0qC3OiZQMeP87xHWG0J3qjUj-gVNRKsZpjKLdQPJjvD1RadopX0bIxNwl0e6",
+          "title": "rakuten.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYxG8HOrWQRUUi8YCI4nYUCdz2K9r7M8NaQZE3mInw_1BIkTpce9LbOjdOl9qXnQA2AQJ8iQL0lLbc3fP0Je9pkYdpOSy674EPSogfhOcEpgZtHY6WUQ==",
-          "title": "e-setomono.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMJYgJ701umQNMfLU_NuCxbtGPWFhBj5wZm3E5n-YQzuODJGIhXjqdJxSNbr3yWDhrWdZGT4kW0DKHrHtsglHsoYUfNhFQdWvANXMU3xdVA-gu4Jy9eJNwodSKDY3c1H56RLQB",
+          "title": "katch.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0QmYLg5MqeHg4tr6v2lSkobOg9HSuKtaWzZMHX7fmyqELTj21ubYJ5qMAkch0zjlg-n8FCbA9eTVtIYZKj74TApqp5HVU6UNqWRARbRT5QPbaa-cTJ5Bs2A==",
-          "title": "minne.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Yw7Omb0MguHmEwR2_krtE6n8y2gClEjuvOH4_mC1_r-Kdfpy3mUutXZCy_t65rPcwrgxB4vwTFadiljYS4uRYiTRkCDwdmqOXQ95iXlNYMzX_GgLsjjR73G0OdYhFkuo9Mxd6dI=",
+          "title": "tohogas.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2X4XzfsVBeVStlN_EVJIhN0sFFzRZkZRMF5VKGF1aM61FVsTdBygb3m_hLsUU9exeRwSxa_gAnHwB7L22rP529pZkEAP_YwkE6xLKpnRWC3rZD5mWLJsafA==",
-          "title": "masuken.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhRSUfAeH_YrEAkXVjP-jF6RqZwTaM1MiXKV0wxUqBlxFocou2FXtT9p8vl_kKTvSoofMDx3loHrW0ln6SZ1Bp2S8fl7JPa0JQxCl8kzZOYJg9ZipS0dlPQ4piihy5tGiN",
+          "title": "sandai-japan.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFduBi2q6A4gZ_ddNXIH5RT_ZeuzVmuuKE8rPBJcLXq02joK-4vrDHjlFtxW2XEX261lsi6Arn6DM-vurRDExVvoBW51KV66xGdsq4Jyp0xS1afxsFXzRspmUYp9QnVjIN1GrEuHECjHrZg8oo=",
-          "title": "nakagawa-masashichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-mdzQcQTvoKFh-D6FsGCiP1qBIJALbhuuV-k-KPRHx4kUmRpgg2QbveIkgehc3knZQ_UPcBJeLhYMz0xkdULq0OP54mnmCv9nGFHJrnPRu9KWDM8E3hCMHmwbZiWoY26HzN7Bkby6MxEIiafe_bnPKN6-qC4HNI0JZSM=",
+          "title": "mlit.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0lJPZBo8nm9N2M9eVEICvZO-zUXu-C0jroFrVx9kyUXlYq0nPdBntzAC5ywDSRAVsnfcL06szADm-hGeox-ZlmXWyu_ZlKkRYk08aRFvb8LlQkITsQQywR-ptN0E=",
-          "title": "zatugakuunun.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOfcBroOzZA-z9IXLuo2CwcBL19rRpRVOqw6GfpiH7gmB5DbOsMhe5nC8ZnDDb2pZ2sbMMGOOVApQEqqG5_A8v3uYL2x-a60IVDouJMPYSoEb714_zQH8iCxcrs609VfLJPF_gEi9pR2MFDDxGqYr5FzGIpi3Vh3KXEFV5o1g=",
+          "title": "city.nishio.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwbjMwf9yt3nN0GlzhD01R5kIrKBBXNxyl9q-3mhdxxRMq5ofmtQQ1IN3z8_9A_r_GSAsFsXBHnZvj7UWKtbwmLsPOF4Ka8hiAvksdhxbZnIMHuJwR13Sqw9kpamjMu6BaqDs_AJS4V-wYleppHSs36IV2cZoWzn8=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEvqzoaTgFZq92nqMVQZbRD4zzOlwGEjFNUwtUB0JHMrdlfYgQ67P2grKztyECHhhyPXC0lwCBwa93ON-lU-e-lm10q-0PwAxyfXQ28jsMZ8R_B9KAXJOxQ3Z47Cqa",
+          "title": "cbj.earth"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDMnTLd1gyCzcoGXxb9vp5OyEQclIDCzMwYoy5ZYfFkJW6bWL98CtolRw3joMEQUUDO54Ugy9d_P10oakfXJYGKQHV4STmrYJAMxiRJ4BlMGddeZBYPJT8IcfiZi_hJ0-zKPo0",
+          "title": "toda-ya.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6cjNJebQP5yl33hqQtxJX7PQSURnaVGHKfQ0m5cpy_h0Mtd6DlJRdKFhNaqRtUIlCdt1M0ZbJzwKH4h1Da41rRabAgwJf9zk-pdV8HvyEnbYHRV1Z4gVwhXu0dTV40EYscg74_aemxA==",
+          "title": "e-aidem.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpTx_QtA3wGMDORK8IQBAt-jEAj4oAPgn2yVqWvFQXntcMEev1S1rLTCM7Ddv3GCrPO51mbgFVbaPIQh5CRq7eGLH5bHkCY76NYkwUDGtSk1U2L7b_N8JaugsbebTu",
+          "title": "izumi-jp.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbbg6JgvUx4cUc1AND88WbVH57asZqDavQQaPEbkOjtFmqTa4qT2IhQYIwCV_qsgEMqMq7lkQhbCFKq2vG5OTn1XdCMKic0hkMAcHR_KZ6VjTTCXmsEj-G-cIcRYx_vPr7boHG1PSPe_XmA6k52URCTy9xPLsO",
+          "title": "hicbc.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuu1uDtnvZ1P5rAYTrNuA0xPXXnJSc6q7PjGkA5mve93KboJ9jthlMX6ZpkQDSK_X5mxcuRg4GJJCZP-mVNH8K-v-xLWyd6l2lSf2CzMuLKEa9cRYkcuUWvVfg4h7ZTkFImEHJBw==",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHismMw_-DXZWtjWaxDUnVRt0cM1we0zfpCkJKTHee1JfUTEk1bvwLW30wKyS0TfAjNirgzWU_UTPuU5iZw9sDinhgL1Q64rS34DPbNsWABimqm_NP_DHg7iJDVXJgPQhP-xU8=",
+          "title": "ameba.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhNLKiDLL7TqIlJuN2YF7H9zrIv8Jq7xsENwySESI9iI4ceccfcpIa8WaOcbSPughouIhSK8nIflU64EgZx4XGs5UtJ44PZMY_yOF-VzJhGnRW4qMaZ91c0SM5Bya1XCgnjEiv8hK-",
+          "title": "homes.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJEI_tjKgfDBLSthgAjgB6HqIElInrmBAwXpAFQBXklmXk1KbPeBGiVkgLkcSlmVEQJjE9j7gxw6ks2sOWPJjdKSV5b2LPaqJkYXvCDgWs_L6sYlW-YCNkiXKWp3SQV3Jjd_Q3rNySrFsC7Lsc2qGMBmFZDoVoAVuVmgj9",
+          "title": "city.obu.aichi.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZZm0pHIeQ1wuOIBHzxGITAjLBv6kQVwichBn9CPmcVnBhelHnPG5QQfB7qkcKrvi7TmJpsncqSme22-VU_m4E8f2caraERTvL5noSKs9mfGz4hBgtnfRMdrM963xsw3xPD6pZfr8VVKmt3AJcL2HeqqwGHXyzw==",
+          "title": "obu-kankou.gr.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDE-JKA917F5JKl312cuXWmfRY9jiAp1kgvGZ9LVSgSI1WLquuUK-bqq_ScE7UvSGjpuaPLbun2E6qqhxqSH7ZNli7PXFqcBd1j72fqH0LeQwwpdzQeSNYPbE-Ge8j8bs9ucb9VUfCYw==",
+          "title": "100years-company.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4kUs9qnGUEzK86dPIi7NY7uZWYVf9LZ0Y6J8mGm17iejhVrdR5wonBG4ZBk8wJi9menvvIdzooehpzaIvV1Rw9TM5agb06cIatFSDYmSA-d6U5z-MVqo6kTAkHmL_6Qd1umzsVfcsLtUXPc9gaH8RTSWmMmwg8aM=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO189tuYw04HAPIsgNIEWND_sp69aD4mS_a8rzFrmtTAfEz8kAAkBagu2rSO4oNnRFFQ0d79WqhPDC4S0738OtwtFMCheK8lW7u6_jYQbiBj5h4NeP_XNR8AbAlAFgioTAzJeVoc3UTESs0GVIIdCFYOfAZK_HSbNElg==",
-          "title": "yahoo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUbFqwCtVLpeAi4bVnpJl3T9Cs2Rz8gcUrrXmN_uMTU-FoPW8zkpmvgeHMAdrFk0sBXaPNTekvUamA7CgmD5fW22oNISBvrwf0NzmC34fGryr_x9FK1l-AGAkwLq293AiJZwJWpZtzVTLSCWwvz8K5UC2tAoBQZ3Yobegn9XovqG8N_U=",
+          "title": "city.obu.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoIVk-P_-CVNvrXeLl_MYaEO2LENi3fKrWwPv7gkvjgep0uVj5INcWXZOqmkJio8R_rDxxoBX1a3Xt0Un_6wVeb9S8_ONaxX-1BXHGlP9_Rak8P02WQYFcCTkXxQ==",
-          "title": "extoskoko.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI3gZShOgW3YYLl3Goe17cR-8EVhKbSehhSD1MAq7H40wYmgZ4dSQ7KYupd7TruxWPmGv6_AmD_-XtQi2OI2uFs-aOJjB-MTADgjby245ZtxfQYOw2Ko1lE3VekoY=",
-          "title": "d-k-k.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwMl5a5xkuY_OtYPpoWEXSbqDRwcAuHh9RifunojRfQ-ZXiZgj8uwP2Ipim8Eo9Ad5rsvUYzhMbZ11CfnGUngzHw1jx2Z1YnQmvDm7_Ey5Yk6_tRtnYQ==",
-          "title": "maruka-yutanpo.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb45NMwuLDP9aO3dXV0HZAVLQg2DQRq2Pl-BqM-xSNqzPybFBkI6KuLnBMlZnQFY4wZ88IeJkBNVGcoyko-zUMSH1nbShHIuKyqtAJw77J1Jd-Jn2DgI0V4MwDs5uNWPV2NHyIVlVPng==",
-          "title": "kincho.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdONmJutg9bX1ZMStF9ZuhH07I73Uwf07OsZMjiCoK833ecUdZwec6UI-5hKqnxA3cQtn2J2BGzT0_qEkfk462MaoB1oM4zrZDsf4ptT1g_8SMG7CCK6y7KoqE2W_qjb7H7w==",
-          "title": "president.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnBRaHTrbfrqeNYEBh6QVfCPTfPuZLs-RdMcamjgAjST2S-rGDtCFlX4cDK5JCpiuZ1ZybYKP_kYdTCM3NnB7v8c2QxTbiol6CYGmYh7IlTDHW54_uzqSYEYaODMUOiBW9O9Bx",
-          "title": "weathernews.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-FRMkNfaXG0M5TZ-_8irMcuIdEsJLUinCz62qhIluM3408GAIMdnzH19xW4ICxRTepl6Hr2S8WzTmc_ip41kll6e8WycWfmb5HdHDXqC9G-zkVWSQb3AAXIVNbBvmDcoOcv1CBqj5aJU3fHhpx4lL6VmG9giQg==",
+          "title": "kuruto.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 465,
-          "endIndex": 786,
-          "text": "江戸幕府を開いた徳川家康が、謀反や一揆を防ぐために各大名や各藩の鉄砲・火薬の製造を厳しく禁止・制限するなか、自身の生誕地であり信頼する直轄地「三河」にだけ火薬の製造・貯蔵や原料（硝石）の保有を特別に許可したためです"
+          "startIndex": 1021,
+          "endIndex": 1246,
+          "text": "夏の間は光合成を行う緑色の色素「クロロフィル」の量が圧倒的に多いため緑に見えますが、秋になってクロロフィルが分解されると、隠れていた黄色が表に現れます"
         },
         "groundingChunkIndices": [
           0,
@@ -200,40 +260,64 @@
       },
       {
         "segment": {
-          "startIndex": 789,
-          "endIndex": 1005,
-          "text": "戦乱が収まった泰平の世において、三河の鉄砲隊が火薬技術を平和利用し、神社の神事や祭礼用の奉納花火として昇華させたことで「三河花火」が発展しました"
+          "startIndex": 1254,
+          "endIndex": 1362,
+          "text": "一方、モミジの赤色（アントシアニン）は、夏の間は葉の中に一切存在しません"
+        },
+        "groundingChunkIndices": [
+          2,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1365,
+          "endIndex": 1506,
+          "text": "秋になり、もうすぐ枯れ落ちる直前の葉が「わざわざエネルギーを使って新しく作り出している」のです"
         },
         "groundingChunkIndices": [
           0,
-          2
+          3,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1049,
-          "endIndex": 1358,
-          "text": "愛知県教育委員会の地域教材資料によると、現在でも岡崎・安城など西三河を中心とする花火生産地は全国生産の約16％を占めており、特に子どもたちが手にとって遊ぶ「玩具花火」に限れば全国生産の3割以上のシェアを誇ります"
+          "startIndex": 1590,
+          "endIndex": 1719,
+          "text": "落葉樹は冬を迎える前に、葉に残された貴重な窒素などの栄養分を分解して幹や枝へ回収します"
         },
         "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1722,
+          "endIndex": 1947,
+          "text": "しかし、葉が衰えていく時期に秋の強い直射日光を浴びると、光を処理しきれずに有害な「活性酸素」が発生し、栄養の回収が終わる前に葉が傷んで落ちてしまいます"
+        },
+        "groundingChunkIndices": [
+          2,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 1361,
-          "endIndex": 1445,
-          "text": "全国で流通する花火の大半も三河の花火問屋を経由しています"
+          "startIndex": 1955,
+          "endIndex": 2315,
+          "text": "そこでカエデなどは、光を遮る「日傘（サングラス）」のような役割を果たす赤い色素アントシアニンを急いで合成し、光の害から葉を守りながら最後まで栄養を回収していることが近年の研究で明らかになっています（国立研究開発法人森林総合研究所などの研究）"
         },
         "groundingChunkIndices": [
+          0,
           3
         ]
       },
       {
         "segment": {
-          "startIndex": 1474,
-          "endIndex": 1675,
-          "text": "夏の夜空を彩る華やかな花火は、もともと「恐ろしい軍事兵器の技術をどうやって平和に受け継ぐか」という武士たちの知恵の転換から生まれました"
+          "startIndex": 2318,
+          "endIndex": 2519,
+          "text": "イチョウが「不要な緑を片付けてもとの色を出している」のに対し、モミジは「大切な栄養を守るために赤い盾を作っている」という違いがあります"
         },
         "groundingChunkIndices": [
           0,
@@ -242,41 +326,19 @@
       },
       {
         "segment": {
-          "startIndex": 1707,
-          "endIndex": 1872,
-          "text": "徳川家康は青年武士からなる鉄砲隊を組織し、著名な砲術家である稲富流の稲富伊賀守直家を招いて指導にあたらせました"
+          "startIndex": 2522,
+          "endIndex": 2616,
+          "text": "最低気温がおよそ8℃を下回ると、この色づきの準備が一気に進みます"
         },
         "groundingChunkIndices": [
-          1
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 1875,
-          "endIndex": 2184,
-          "text": "幕府から火薬を許された「お国もの」の特権を得た三河では、稲富流や武田流といった砲術・火術の流派が花火作りの技術として各町内に受け継がれ、秋の稲刈りが終わると村々で腕を競い合って花火を作ったと伝えられています"
-        },
-        "groundingChunkIndices": [
-          1,
-          4,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2217,
-          "endIndex": 2673,
-          "text": "岡崎商工会議所「三河花火の歴史」：「反乱や一揆に対し必要以上に神経過敏であった家康がもっとも恐ろしい殺人武器である火薬およびその主剤となる硝石の採取などを幕府発祥の地である三河のみに限らせ、かつ三河においてのみ製造貯蔵を奨励したのは、全く当然のことであり、ここにおいて『お国もの』の特権が生じたのである」"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2678,
-          "endIndex": 2930,
-          "text": "愛知県教育委員会 愛知エースネット「三河花火」：「岡崎・安城など西三河を中心とした花火生産地は，全国生産の約16％を占め，特に玩具花火は全国生産の３割以上のシェアを占める」"
+          "startIndex": 2648,
+          "endIndex": 2813,
+          "text": "国立研究開発法人 森林総合研究所 研究成果「紅葉もたらす色素、デンプンに代わって糖上昇抑え早期落葉回避」（2024年）"
         },
         "groundingChunkIndices": [
           3
@@ -284,9 +346,19 @@
       },
       {
         "segment": {
-          "startIndex": 3052,
-          "endIndex": 3409,
-          "text": "愛知県瀬戸市周辺で作られる「瀬戸焼」が、鎌倉時代から日本で唯一、表面をガラス質で覆う人工の「釉薬（うわぐすり）」をかけた陶器を本格的・大規模に生産し、東日本を中心に圧倒的なシェアで流通したため、陶磁器そのものを指す代名詞として定着しました"
+          "startIndex": 2818,
+          "endIndex": 2941,
+          "text": "ウェザーニュース 専門家解説（森林総合研究所 樹木生理研究室 北尾光俊氏インタビュー）"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3268,
+          "endIndex": 3415,
+          "text": "しかし、川魚であるウナギの養殖が、なぜ海に面した一色町で全国トップクラスの規模になったのでしょうか"
         },
         "groundingChunkIndices": [
           5,
@@ -295,72 +367,86 @@
       },
       {
         "segment": {
-          "startIndex": 3453,
-          "endIndex": 3535,
-          "text": "瀬戸焼は1000年以上の歴史を誇る「日本六古窯」の筆頭格です"
+          "startIndex": 3457,
+          "endIndex": 3727,
+          "text": "西尾市（旧一色町）は、市町村単位での養殖ウナギ生産量が昭和58年から現在まで全国第1位を誇り、国産ウナギのおよそ5尾に1尾（全国シェア約20％、愛知県内の約7〜8割）が一色町で育てられています"
         },
         "groundingChunkIndices": [
           7,
-          6
+          8,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 3538,
-          "endIndex": 3785,
-          "text": "実は陶磁器全般を「せともの」と呼ぶのは主に東日本（近畿以東）で、近畿以西の西日本では、佐賀県の唐津焼に由来して**「からつもの（唐津物）」**と呼ぶ地域が広く存在しました"
+          "startIndex": 3772,
+          "endIndex": 3889,
+          "text": "一色町の養鰻（ようまん）の始まりは明治時代（1904年・明治37年頃）にさかのぼります"
+        },
+        "groundingChunkIndices": [
+          10,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3892,
+          "endIndex": 3991,
+          "text": "もともと矢作川の河口デルタ地帯には広大な「塩田」が広がっていました"
         },
         "groundingChunkIndices": [
           5,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3994,
+          "endIndex": 4138,
+          "text": "塩分が強く米作りに適さない土地の活用法として、塩分に強いウナギの養殖池が作られたのがきっかけです"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4146,
+          "endIndex": 4236,
+          "text": "さらに決定打となったのが、昭和34年（1959年）の伊勢湾台風でした"
+        },
+        "groundingChunkIndices": [
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 3814,
-          "endIndex": 4054,
-          "text": "私たちが普段何気なく「せともの」と呼んでいる言葉は日本全国共通の呼び名ではなく、東の「せともの」、西の「からつもの」として日本を東西で二分していた歴史があります"
+          "startIndex": 4239,
+          "endIndex": 4420,
+          "text": "甚大な塩害を受けた農地を養殖池へと転換する動きが進み、昭和36〜38年には全国でも唯一となる「養鰻専用水道」を町に敷設しました"
         },
         "groundingChunkIndices": [
-          9,
-          10
+          7,
+          8,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 4086,
-          "endIndex": 4310,
-          "text": "「せともの」という呼び名は非常に古く、1563年（永禄6年）に織田信長が発給した制札（商人たちに瀬戸物の取引を奨励・保護する文書）にもすでに使われていました"
+          "startIndex": 4423,
+          "endIndex": 4708,
+          "text": "地下水ではなく、矢作川水系の清らかな河川水を直接養殖池へ引き込む大工事を行ったことで、ウナギが天然河川に近いストレスのない環境で育ち、良質な脂と柔らかな皮を持つブランドへと急成長を遂げました"
         },
         "groundingChunkIndices": [
-          11
+          6,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 4313,
-          "endIndex": 4406,
-          "text": "戦国時代にはすでにブランド名として確立していたことがわかります"
-        },
-        "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4745,
-          "endIndex": 4943,
-          "text": "鎌倉時代に日本で釉薬をかけた焼物を作っていたのは、瀬戸が唯一で、他の地域で作られていた焼物のほとんどは釉薬をかけていないものでした」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5064,
-          "endIndex": 5169,
-          "text": "お湯が冷めたときに起きる「気圧の低下によるへこみ・変形」を防ぐためです"
+          "startIndex": 4740,
+          "endIndex": 4824,
+          "text": "西尾市公式ウェブサイト「全国トップクラスの一色産うなぎ」"
         },
         "groundingChunkIndices": [
           12
@@ -368,63 +454,50 @@
       },
       {
         "segment": {
-          "startIndex": 5172,
-          "endIndex": 5340,
-          "text": "湯たんぽに熱湯を入れて密閉すると、時間の経過とともにお湯と内部の空気が冷えて体積が収縮し、内部の気圧が下がります"
+          "startIndex": 4829,
+          "endIndex": 4898,
+          "text": "一色うなぎ漁業協同組合「うなぎの歴史と生産量」"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4967,
+          "endIndex": 5000,
+          "text": "矢作川の恵みとうなぎ」"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5222,
+          "endIndex": 5363,
+          "text": "朝、喫茶店でコーヒーを頼むと、トーストやゆで卵が無料でついてくる愛知名物「モーニングサービス」"
         },
         "groundingChunkIndices": [
           13,
-          12
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5343,
-          "endIndex": 5514,
-          "text": "表面が平らだと外の大気圧に押しつぶされてベコッとへこみ、金属疲労で割れてしまうため、波型にして強度を持たせています"
+          "startIndex": 5366,
+          "endIndex": 5538,
+          "text": "今ではゆったり過ごす朝の定番ですが、なぜドリンク1杯の値段でこれほど豪華なサービスを付ける文化が生まれたのでしょうか"
         },
         "groundingChunkIndices": [
-          14,
-          12
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 5744,
-          "endIndex": 5933,
-          "text": "さらに、平らな形状に比べて表面積が約1.2倍〜1.3倍に広がるため、布団の中で熱が効率よく伝わり、暖房効果が高まるという利点もあります"
-        },
-        "groundingChunkIndices": [
-          12,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5962,
-          "endIndex": 6154,
-          "text": "肌触りを優しくするためやデザインではなく、中学校の理科で習う「大気圧」と「熱収縮」から薄い金属を守るための物理工学的な工夫でした"
-        },
-        "groundingChunkIndices": [
-          14,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6186,
-          "endIndex": 6285,
-          "text": "日本には室町時代に中国から陶器製の湯たんぽ（湯婆）が伝わりましたが"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6186,
-          "endIndex": 6387,
-          "text": "日本には室町時代に中国から陶器製の湯たんぽ（湯婆）が伝わりましたが、大正時代に丈夫で扱いやすいトタン（亜鉛めっき鋼板）製が登場しました"
+          "startIndex": 5586,
+          "endIndex": 5819,
+          "text": "発祥地とされる愛知県一宮市は、昭和30年代に繊維産業の全盛期を迎え、「織機をガチャンと動かせば万の金が儲かる」という意味で「ガチャマン景気」と呼ばれていました"
         },
         "groundingChunkIndices": [
           15,
@@ -433,31 +506,44 @@
       },
       {
         "segment": {
-          "startIndex": 6390,
-          "endIndex": 6656,
-          "text": "大正12年創業の老舗湯たんぽメーカー「マルカ」をはじめとする町工場の職人たちが、薄い板金でも潰れないよう試行錯誤を重ね、特許や実用新案を取得して現在の波型亀の子形状を完成させました"
+          "startIndex": 5827,
+          "endIndex": 6073,
+          "text": "全国から多くの商談客が訪れましたが、当時の工場内は無数の機織り機がガチャンガチャンと凄まじい音を立てており、社内の応接室では大声を出しても会話が聞き取れませんでした"
         },
         "groundingChunkIndices": [
           13,
           17,
-          14
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 6874,
-          "endIndex": 7045,
-          "text": "内部の空気や蒸気が冷えて収縮することで内部の圧力が下がり、変形・破損するおそれがあるため」（製品安全解説より要約）"
+          "startIndex": 6076,
+          "endIndex": 6250,
+          "text": "そこで機屋の社長たちは、取引先を連れて近所の喫茶店へ行き、喫茶店を「応接室や会議室代わり」にして商談を行っていました"
         },
         "groundingChunkIndices": [
-          13
+          13,
+          16
         ]
       },
       {
         "segment": {
-          "startIndex": 7204,
-          "endIndex": 7234,
-          "text": "後、補強効果のため」"
+          "startIndex": 6292,
+          "endIndex": 6647,
+          "text": "1日に朝・昼・夕と何度も商談で足を運んでくれる機屋の常連客に対して、昭和31年（1956年）頃、ある喫茶店の店主が「いつも来てくれてありがとう」という感謝と労いの気持ちから、コーヒーにゆで卵とピーナッツを無料で添えて出したのが始まりとされています"
+        },
+        "groundingChunkIndices": [
+          14,
+          18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6650,
+          "endIndex": 6806,
+          "text": "集客のための値下げ競争ではなく、地場産業を支える職人さんたちへの「おもてなしの心」から生まれた文化でした"
         },
         "groundingChunkIndices": [
           16
@@ -465,128 +551,174 @@
       },
       {
         "segment": {
-          "startIndex": 7343,
-          "endIndex": 7464,
-          "text": "一晩ぐっすり眠る間（約7時間）、途中で火を消さず蚊を寄せ付けないようにするためです"
+          "startIndex": 6838,
+          "endIndex": 6899,
+          "text": "一宮商工会議所・一宮モーニング協議会 資料"
         },
         "groundingChunkIndices": [
-          18,
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 7508,
-          "endIndex": 7689,
-          "text": "1890年（明治23年）に世界で初めて作られた蚊取り線香は仏壇用と同じ「棒状」で、長さは約20cm、燃焼時間はわずか**「約40分」**でした"
+          "startIndex": 6904,
+          "endIndex": 6997,
+          "text": "名古屋市・愛知県の喫茶文化史（大竹敏之氏の研究・CBCテレビ解説）"
         },
         "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7692,
-          "endIndex": 7809,
-          "text": "これでは寝ている間にすぐ消えてしまい、細くて運搬中に折れやすい弱点がありました"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7812,
-          "endIndex": 7996,
-          "text": "そこで渦巻き型にしたところ、まっすぐ伸ばすと**「約75cm」**になり、睡眠時間にぴったりの**「約7時間」**燃え続けるようになりました"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8025,
-          "endIndex": 8133,
-          "text": "この渦巻きの形を思いついたのは、メーカーの技術者ではなく創業者の妻でした"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8165,
-          "endIndex": 8559,
-          "text": "大日本除虫菊（金鳥）の創業者・上山英一郎が「なんとか長時間燃やせる丈夫な線香はできないか」と頭を抱えていた際、妻の「ゆき」さんが庭の蔵で**「とぐろを巻いたヘビ」**を見て、「細長い線香を渦巻き状に巻いてみてはどうか」と夫に提案したことが大ヒットのきっかけとなりました"
-        },
-        "groundingChunkIndices": [
-          18,
+          17,
           20
         ]
       },
       {
         "segment": {
-          "startIndex": 8562,
-          "endIndex": 8659,
-          "text": "製品化には7年もの試行錯誤を要し、1902年（明治35年）に発売されました"
+          "startIndex": 7282,
+          "endIndex": 7501,
+          "text": "日本で初めて量産化され、世界のトップシェアを握った国産バイオリンのふるさとが、西三河のお隣・大府市や名古屋などの愛知県にあることをご存じでしょうか"
         },
         "groundingChunkIndices": [
-          19
+          21,
+          22,
+          23
         ]
       },
       {
         "segment": {
-          "startIndex": 9144,
-          "endIndex": 9335,
-          "text": "渦巻はまっすぐにすると約75cmあり、人の寝ている時間に合わせて約7時間燃え続けることから、人々の暮らしに欠かせないものとなりました」"
+          "startIndex": 7546,
+          "endIndex": 7811,
+          "text": "日本初の弦楽器メーカー「鈴木バイオリン製造」（創業1887年・現在は大府市に本社工房）の創業者・鈴木政吉（すずき・まさきち）は、もともと尾張藩の下級武士の家に生まれた三味線職人でした"
         },
         "groundingChunkIndices": [
-          18
+          21,
+          24,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 9826,
-          "endIndex": 9888,
-          "text": "**正解は「B：からつもの（唐津物）」です！**"
+          "startIndex": 7819,
+          "endIndex": 7995,
+          "text": "明治20年、知人が持っていた西洋のバイオリンを目にして一瞬で魅了された政吉は、三味線作りをすっぱり辞めることを決意します"
         },
         "groundingChunkIndices": [
-          5,
-          8
+          21,
+          25
         ]
       },
       {
         "segment": {
-          "startIndex": 9931,
-          "endIndex": 10216,
-          "text": "愛知県に住んでいると「茶碗やお皿＝せともの」と呼ぶのが当たり前ですが、実は西日本では佐賀県の唐津港から全国へ運ばれた「唐津焼」が非常に身近だったため、「からつもの」と呼んで親しまれていました"
+          "startIndex": 7998,
+          "endIndex": 8204,
+          "text": "現物をたった一夜だけ借りて徹夜で各部の寸法を書き写し、道具も作り方も分からない状態から、わずか1週間で独学の第1号バイオリンを削り出しました"
         },
         "groundingChunkIndices": [
-          8,
-          10
+          26
         ]
       },
       {
         "segment": {
-          "startIndex": 10219,
-          "endIndex": 10366,
-          "text": "東の「せともの」、西の「からつもの」として、日本の台所文化を二分していたという意外な歴史があります"
+          "startIndex": 8261,
+          "endIndex": 8538,
+          "text": "政吉は「良いものを安く多くの子どもたちへ」と専用の木工機械を自ら考案し、最盛期には従業員1,000人以上、毎日500本、年間10万本以上のバイオリンを世界中へ輸出する世界的メーカーへと育て上げました"
         },
         "groundingChunkIndices": [
-          9,
-          10
+          21,
+          26,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8546,
+          "endIndex": 8900,
+          "text": "その音色の美しさは世界に響き、来日したあの物理学者アルバート・アインシュタイン博士へ政吉作のバイオリンが贈呈された際には、アインシュタイン本人からその精巧さと音色を絶賛する自筆の礼状が届きました（礼状は大府市歴史民俗資料館等に関連展示）"
+        },
+        "groundingChunkIndices": [
+          21,
+          26,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8903,
+          "endIndex": 9005,
+          "text": "日本の学校教育用バイオリンの礎は、愛知の職人魂から築かれたものでした"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9037,
+          "endIndex": 9142,
+          "text": "大府市公式ウェブサイト「鈴木政吉像」および大府市歴史民俗資料館展示解説"
+        },
+        "groundingChunkIndices": [
+          21,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9147,
+          "endIndex": 9210,
+          "text": "大府市観光協会「鈴木バイオリン製造の歴史」"
+        },
+        "groundingChunkIndices": [
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9886,
+          "endIndex": 9969,
+          "text": "**② 機織り機の音がうるさすぎて社内で商談ができなかった**"
+        },
+        "groundingChunkIndices": [
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10006,
+          "endIndex": 10147,
+          "text": "「当時の繊維工場は『ガチャマン景気』と言って、機械を動かすだけで大儲けできる大忙しの時代でした"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10207,
+          "endIndex": 10369,
+          "text": "という音が社内に響き渡って会話ができなかったため、静かに話ができる近所の喫茶店を商談室代わりに使ったんですね"
+        },
+        "groundingChunkIndices": [
+          13,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10372,
+          "endIndex": 10537,
+          "text": "その常連さんたちへマスターが感謝を込めて卵やピーナッツをサービスしたのが、今に続くモーニングの始まりなんです」"
+        },
+        "groundingChunkIndices": [
+          18,
+          16
         ]
       }
     ],
     "webSearchQueries": [
-      "湯たんぽ 波型 理由 表面積 変形防止",
-      "\"からつもの\" \"せともの\" 陶磁器 西日本 東日本",
-      "三河花火 徳川家康 火薬 岡崎 理由",
-      "せともの 陶磁器 なぜ 瀬戸焼 由来",
-      "湯たんぽ 波型 理由 マルカ",
-      "蚊取り線香 渦巻き 理由 金鳥 7時間"
+      "スズキバイオリン 鈴木政吉 大府市 歴史",
+      "愛知県 モーニング 発祥 機織り 騒音",
+      "紅葉 なぜ 赤い 黄色 アントシアニン 森林総合研究所",
+      "一色 鰻 養殖 歴史 明治 塩田 矢作川"
     ]
   }
 }

@@ -310,5 +310,17 @@
     "izumi_angle": "meiji-denmark",
     "saturday_story": "story-04",
     "listener_notes": []
+  },
+  {
+    "date": "2026-11-08",
+    "topics": [
+      "モミジとイチョウで起きている真逆の紅葉ドラマ",
+      "三味線職人が独学で作った日本初バイオリンの奇跡"
+    ],
+    "opening": "モミジを見て綺麗だなあってため息ついとるそこのあなた、葉っぱの必死の努力、知っとる？",
+    "quiz": "和泉の手延べ長そうめんは、2本の竹の棒を使って手作業でどこまで伸ばすでしょうか。1番、3メートル60センチ。2番、新幹線1両分。3番、東京タワーのてっぺんまで。",
+    "izumi_angle": "somen-origin",
+    "saturday_story": null,
+    "listener_notes": []
   }
 ]
