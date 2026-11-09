@@ -1,39 +1,39 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2135,
-  "estimated_minutes": 6.5,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2034,
+  "estimated_minutes": 6.2,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "関市の人気名所、通称モネの池。透き通る水の中を泳ぐ錦鯉は、もともと誰が入れたでしょうか。1番、観光協会が放流した。2番、近所の人が家で飼えなくなって入れた。3番、みおんがペットショップで買った。",
-    "answer": "正解は2番、近所の人が家で飼えなくなって入れたでした！まさかの里親探し！偶然が重なってあの絵画のような絶景ができたなんてびっくりやさね！",
+    "question": "梱包でおなじみの「プチプチ」。1957年にアメリカで開発された当初、何として売ろうとしていたでしょうか。1番、立体壁紙。2番、宇宙飛行士のクッション。3番、みおんの防寒チョッキ。",
+    "answer": "正解は1番、立体壁紙でした！モダンで汚れが拭き取れる壁紙を目指したのに全然売れず、まさかの世界的大ヒット緩衝材に化けたんだって！",
     "source_ids": [
-      4
+      10
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk4Z_0oSrRT1D-59Na2gWPoyWbvRbBVoANfF7T6ALFrFw4lEqqHrJ3rD9j7TAXywOG858tkw6UTKRSlo_fWsU-B-ZXDciPe3n5ONbT-WopQlmDNpIjbuzgtlC9hUPwahBGnJM4HwjfmFv6VPya78SIKKIL_Tls7MFHqx5rEGu9DRWKXjCPO0KKDGI="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZyujJ-nnWpFlzPZm8HcUu66Jpah_iMHvCu_AcADYSTAPEzqf9gY-ruS7Pn2oWCG1Ej8Na0VG-x0ODU2J8XoEv5cr76ijGcO0MbSpftrBlDo2ewPYoDnNYhAegWK9"
     ]
   },
   "izumi": {
-    "text": "神岡の地下から宇宙の謎に迫る、みおんの神岡ディープ！今日は1987年に起きた大事件の話やさ！神岡鉱山の地下千メートルにあるカミオカンデ。純水3000トンと光電子増倍管1000本を備えて1983年から観測しとったんやけど、1987年2月23日、とんでもないものを捕まえたんやさ。なんと、大マゼラン星雲で星が大爆発したときに飛んできた素粒子ニュートリノを、世界で初めてキャッチしたんやって！大マゼラン星雲って、地球から途方もなく離れた宇宙やよ？そんなはるか彼方の爆発の瞬間を、真っ暗な神岡の地下深くで待ち構えて見事に捉えちゃうなんて、スナイパーもびっくりやろー！これ、現代のスマホの通知で例えたら、宇宙の向こうから届いた超レアなメッセージを誰よりも早く既読つけたようなもんやさね。この大発見の成果などで、小柴昌俊さんが2002年にノーベル物理学賞を受賞！神岡の山の中からノーベル賞が生まれる伝説の幕開けになったんやさ。世界中の科学者が度肝を抜かれた大舞台がこの足元にあったなんて、神岡のみんな、思いっきり胸を張ってええと思うよ！",
+    "text": "月曜の朝から神岡の歴史の深みにダイブする、みおんの神岡ディープ！今日のテーマは、宿場町・船津のにぎわいやさ！神岡といえば鉱山の町だけど、江戸時代の船津は飛騨街道の宿場町として、ものすごい熱気だったんだって！もともと戦国時代は江馬氏の城下町で、その後に金森氏の領地になって鉱山開発が進められたんだけど、江戸時代になると幕府の直轄地、いわゆる天領になったの。茂住宗貞さんが茂住や和佐保の銀山や銅山を開発して鉱山の土台をガッチリ築いたこともあって、街道を行き交う商人や旅人、鉱山関係者で船津の宿場町は毎日のように大にぎわい！今で言えば、超人気インフルエンサーのポップアップストアと人気観光地が合体したような大フィーバーぶりやさね。もし江戸時代にSNSがあったら「船津なう！人多すぎて宿取れん！」ってトレンド入りしとったかも！旅籠からは笑い声が溢れて、街道には荷物を運ぶ人の列がずらり。山深い飛騨の真ん中なのに、神岡の船津は人や物資が集まる大動脈のホットスポットだったわけです。自分たちの町が何百年も前から街道の要所として人を惹きつけていたって、めっちゃ誇らしい歴史やろー！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-1987",
-      "hook": "1987年、大マゼラン星雲の星の爆発から来た粒子を、世界で初めて神岡の地下でキャッチした話"
+      "id": "mine-funatsu",
+      "hook": "宿場町・船津のにぎわい。江戸時代の神岡は通り道の人気スポット"
     }
   },
   "local": {
-    "text": "ここでちょっと、神岡のまちの話。11月14日に飛騨神岡Kids未来プロジェクト主催の「みかお2026ファミリーフェスタ in Kamioka」が開催されるんやって！親子で楽しめる企画が盛りだくさんらしいから、週末のお出かけにチェックしてみてな！",
+    "text": "11月14日の土曜日に、飛騨神岡Kids未来プロジェクト主催の「ファミリーフェスタ in 神岡2026」が開催されます。親子で楽しめる企画が盛りだくさんのイベントだそうですよ。",
     "source_ids": [
-      30
+      27
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87967.html"
@@ -41,260 +41,181 @@
   },
   "segments": [
     {
-      "topic": "ヘチマみたいに長すぎる！？「宿儺かぼちゃ」の秘密",
-      "text": "八百屋さんや直売所で「宿儺かぼちゃ」を見かけると、二度見せん？カボチャって言われとるのに、丸くなくてヘチマみたいにひょろーんと長いやろー！一般的な黒皮栗カボチャは直径15センチから20センチ、重さも2キロくらいなんやけど、宿儺かぼちゃは長さが約50センチから80センチ、重さは約2.5キロから5キロもあるんやさ！赤ちゃんの身長くらいあるやん！なんでこんな形かというと、高山市丹生川町で代々受け継がれてきた在来品種だからなんやって。普段スーパーに並ぶカボチャは丸く品種改良されとるけど、昔ながらの遺伝的な特徴をそのまま残しとるから細長いんやってさ。しかもこの形、めちゃくちゃありがたい特徴があって、皮がすっごく薄いんやさ！普通、カボチャを切るときって「えらい（疲れる）」思いして渾身の力で包丁を入れて、抜けんなって焦るやろ？でも宿儺かぼちゃならスッと刃が入るんやって！そのうえ糖質のスクロースが多くて細胞壁が薄いから、加熱すると栗みたいにホクホク甘い！名前がついたのは2001年で、飛騨を開いた英雄・両面宿儺から名付けられたんやって。それまでは農家さんの門外不出で市場に出んかった激レア野菜、今夜のおかずに見まい！…あ、「見てみよう」って意味やさね！",
+      "topic": "窓に貼るプチプチ、凸凹はどっち向き？",
+      "text": "はや11月も中旬に入って、朝晩の冷え込みが本気出してきましたね！寒さ対策で窓ガラスに気泡緩衝材、いわゆるプチプチを貼るお家も多いはず。でもちょっと待って！あのプチプチ、ボコボコした凸凹面と平らなツルツル面、どっちを窓ガラスに向けて貼っとる？えっ、ツルツルを窓にピタッと密着させとる？…それ、だちかん！ダメやさ！実はメーカー推奨の正解は「凸凹面をガラス側」に向けることなんだって！うそでしょ、逆貼っとったわ！って声が聞こえてきそうだけど、これにはちゃんとした科学のワケがあるの。冬の暖房時、家から逃げる熱のなんと約58パーセント、約6割が窓などの開口部から逃げていくんだって。逃げすぎやろー！そこでプチプチの出番。空気って熱を伝えにくい性質があって、動かない空気の熱の伝えにくさは、なんとガラスの40倍から50倍！凸凹をガラスに向けると、気泡の中の空気だけじゃなくて、気泡と気泡のすき間にも密閉された空気の層ができて、二重の断熱バリアができるんだって。しかも室内側がツルツルになるから、溝にホコリがたまらなくて掃除もラク！今日帰ったら、家のプチプチの向き、こっそり確認してみて！",
       "source_ids": [
-        2
+        9,
+        10
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0d4zLqjvH_2KBaaYrEYzVjIKWz23aCZPOjmNN_R3m6Ex6xAY19fFWpdCxPSxLLa4x6329pLhPle8YIQn07bmCOjToe4iVjgCnvFGsqqqTR39XWssW7AuIePKSGbrJFv1HXK0CGQwL-x_XbMi8HmY="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXJdnEB4kSRiWX_ce-BNTo6E_8TA0aa6E-YYfY30dhIv7g9KGlgFAaULTnFbegr4HRM4zcuRkwLIk6TwIL6S5c85mp50RM5RV4ml8UWq2bPRO-hQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZyujJ-nnWpFlzPZm8HcUu66Jpah_iMHvCu_AcADYSTAPEzqf9gY-ruS7Pn2oWCG1Ej8Na0VG-x0ODU2J8XoEv5cr76ijGcO0MbSpftrBlDo2ewPYoDnNYhAegWK9"
       ]
     },
     {
-      "topic": "なぜ雪が降ると街全体が「シーン」と静まり返るのか？",
-      "text": "そういえば、季節はそろそろ冬支度。初雪の朝や雪がシンシンと降る夜って、外がびっくりするくらい「シーン」と静まり返るの、経験あるよね？車が通る音も人の声も消えて、世界から音がログアウトしたみたいになるやつ！あれ、寒さで耳がおかしくなったわけでも気のせいでもないんやさ！実は、降り積もったばかりの新雪が「天然の吸音材」になっとるんやって！固まった氷と違って、降ったばかりの新雪は体積の90パーセント以上が空気の隙間なんやさ。音がその無数の小さな隙間に入り込むと、空気が細かく振動して摩擦が起きて、音のエネルギーが熱に変わって消えちゃうんやって。これ、音楽室の壁に貼ってあるギザギザの吸音パネルとまったく同じ仕組みやさ！つまり、雪が降った街は、町中まるごと超高級な録音スタジオの壁で囲まれた状態になっとるってわけ！特に人の話し声みたいな高めの音をごっそり吸い取ってくれるんやってさ。ただし、吸音してくれるのは結晶の隙間が多いふわふわの新雪やぼたん雪だけで、踏み固められた雪やカチカチのアイスバーンになると隙間が潰れて、逆に音をカキーンと反射しちゃうんやって。今度雪が降って静かになったら「いま街が録音スタジオ化しとるな」って家族にドヤ顔で教えてあげてな！",
+      "topic": "なぜ飛騨では漬物を焼いて卵でとじるのか？",
+      "text": "窓の防寒の話が出たついでに、雪国ならではの台所の知恵に注目してみまい！神岡をはじめ飛騨の居酒屋や食卓でおなじみのソウルフード「漬物ステーキ」。白菜漬けを油で炒めて卵でとじたアレだけど、冷静に考えてみて？漬物ってそのまま食べるものなのに、なんでわざわざ焼いて卵でとじるの？しかもお肉ゼロなのに「ステーキ」って堂々と名乗る強気さ！聞いてないんだけど！ってツッコミを入れたくなるけど、実はこれ、厳しい冬を生き抜くための雪国の超絶サバイバル術だったの。飛騨の冬って氷点下までガッツリ冷え込むよね。昔は台所や漬物部屋に置いた漬物樽がカチカチに凍りついて、表面に分厚い氷が張っちゃうことも日常茶飯事。凍った漬物は冷たいし塩辛いしで、そのままじゃとても食べられない。そこでおとましい、つまりもったいない精神で、凍った漬物を囲炉裏の火で焼いて温めて食べたのが始まりなんだって！さらに、乳酸発酵が進んで酸っぱくなった古漬けも、油で炒めると酸味がふわっと和らいで旨みに変わるの。昔は朴葉の上で炙っとったのが、昭和に卵が手に入りやすくなって卵とじスタイルに進化したんだとか。先人の知恵が生んだ最強のあったかごちそう、今夜のおかずにどう？",
       "source_ids": [
-        8
+        3,
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbu4EgjXx7GnSDbMDVxRmo0GLWL94kmNjggXRWgWUaeeyaPZz2IBH4_BVKiZGFFEHooifg-Y64AQpXnF6a8fR5Fhh9kWvVDpBO-sFr-QPbdHiVeb11R61vRtSVohdUJKkduDaQvw_EPiUh9sIzciuazbdZUPOH9L3QzevdtYRi9xJ-qCeJUpldF22EX18TE-ezp4swER9X4aRHf9sb6vAi43FeOpeaivm4MtI_vLdE8V_Gh1caOj_B9acdvxZka3c"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyNXCLEkZ4Jj_8TOHlNbbkKqLm6lQTf2CE1bTJ3F3BkonFqKCVI0zkPmpXgPEAjoiv9kKdmt6L2AV-HhHtLDXnzDHE2rajIS01n0OEXr5MGBYFrY0MkdjvnJc9mD8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTTZbUSNohYskVGR36v-j33h-6NEn7AfGw_ZUs1Icfd12TN0oIhXzc1jcssDeSeicRrBNQS31qBfckPpHnQcBvLR51ay6Je8RflNoMtbb-_6zskdHAtO07xSBTGRoduX_Xdg5vxuSgKRYBrvpHvS5M4c8saqLMfiux4pYAhjZ-6xB4xCbB"
       ]
     }
   ],
-  "research": "日本時間2026年11月、晩秋から初冬へと移り変わり、コタツや暖かな料理、冬支度の話題が恋しくなる季節です。岐阜県飛騨市神岡町の地域ラジオで、リスナーが家族との団らん中に「へえ、そうだったのか！」と思わず話したくなるような4つの調査メモを作成しました。\n\n岐阜県・飛騨地方の身近な話題を中心に、科学や歴史の裏話を盛り込んでいます。\n\n---\n\n### 調査メモ1：【飛騨の伝統野菜】なぜ「宿儺（すくな）かぼちゃ」はカボチャなのにヘチマのように細長いのか？\n\n* **疑問**  \n  飛騨の郷土料理や産直市場でおなじみの「宿儺かぼちゃ」。一般的な丸いカボチャとはまったく違い、なぜヘチマのようにひょろりと細長い形をしているのか？\n* **理由**  \n  もともと高山市丹生川町（旧丹生川村）で代々自家用として種を継いできた在来品種（固定種）であり、品種改良によって丸く均一に整えられた現代の西洋カボチャと異なり、古くから伝わる固有の遺伝的特徴（細長い果形）をそのまま残しているためです。\n* **具体的な数字や比較**  \n  一般的な黒皮栗カボチャが直径15〜20cm程度の扁平な球形（重さ1.5〜2kg）であるのに対し、宿儺かぼちゃは長さ**約50cm〜80cm**、重さ**約2.5kg〜5kg**にも達します。成分面でも、他のかぼちゃと比べて糖質の一種である「スクロース（ショ糖）」が多く含まれ、細胞壁が薄いという特徴があります。そのため、加熱するとキメが細かく、栗のようにホクホクとした強い甘みが出ます。\n* **意外な点**  \n  見た目の大きさに反して皮が非常に薄く、カボチャ特有の「切るときに硬くて刃が立たない」という苦労がほとんどありません。また、かつては門外不出の「自家用野菜」として農家の庭先だけで消費されており、市場には一切出回っていませんでした。\n* **歴史の裏話**  \n  現在の「宿儺かぼちゃ」という名前がついたのは、実は比較的最近の**2001年（平成13年）**のことです。特産品化にあたり当初は「長かぼちゃ」「ひょうたんかぼちゃ」といった案も出ましたが、飛騨を拓いたとされる丹生川ゆかりの古代の英雄「両面宿儺（りょうめんすくな）」のように地域で長く親しまれてほしいという願いから命名されました。\n* **出典・根拠**  \n  岐阜県公式ウェブサイト「飛騨伝統野菜と特産野菜 宿儺かぼちゃ」、岐阜県観光公式サイト「宿儺かぼちゃ」。\n\n---\n\n### 調査メモ2：【初冬の自然現象】なぜ雪が降ると、外の音が消えて「シーン」と静まり返るのか？\n\n* **疑問**  \n  これから神岡町でも初雪の便りが届く季節になりますが、雪が降り積もった朝や雪がシンシンと降る夜、街や山が普段と比べて驚くほど「シーン」と静まり返るのはなぜか？\n* **理由**  \n  新雪が「天然の吸音材」として周囲の音を吸収してしまうためです。雪の結晶が互いに絡み合いながら積もると、無数の微細な隙間（空気層）が生まれます。音（空気の振動）がその隙間に入り込むと、微細な空気層が激しく振動して摩擦が起き、音エネルギーが熱エネルギーへと変換されて音が減衰します。\n* **具体的な数字や比較**  \n  固まった氷の密度は1リットルあたり約0.9kgですが、降り積もったばかりの新雪は密度がその約10分の1（体積あたりの空気の割合が**90％以上**）に達します。この多孔質構造は、音楽室や録音スタジオの壁に貼る「グラスウール吸音材」や多孔質吸音パネルとまったく同じ仕組みです。特に人の声や生活騒音に含まれる高音域の音ほど吸収されやすい性質を持っています。\n* **意外な点**  \n  雪なら何でも静かになるわけではありません。吸音効果が最も高いのは、結晶の隙間が多い「ふわふわの新雪」や比較的気温が高いときに降る「ぼたん雪」です。時間が経って踏み固められた圧雪や凍りついたアイスバーンになると、空気の隙間が潰れるため吸音効果は失われ、逆に音を硬く反射するようになります。\n* **歴史・科学の裏話**  \n  世界で初めて人工雪の作製に成功した中谷宇吉郎の研究をはじめ、日本建築学会の『雪と建築』や各大学の音響実験でも、昔から「積雪による音響減衰」が科学的に計測・実証されてきました。雪国で感じる「静寂」は、単なる寒さによる心理的な錯覚ではなく、物理的な音響現象です。\n* **出典・根拠**  \n  日本建築学会編『雪と建築』（技報堂出版）コラム「雪の吸音効果」、中谷宇吉郎 雪の科学館展示解説「雪と音、眠りについて」。\n\n---\n\n### 調査メモ3：【岐阜の名所】関市板取「モネの池」はなぜ絵画のように底まで透き通っているのか？\n\n* **疑問**  \n  まるでクロード・モネの絵画『睡蓮』のように、錦鯉が宙に浮いているかのように見える関市板取の「名もなき池（通称：モネの池）」。普通の池は水が濁るのに、なぜ底まで完全に透き通っているのか？\n* **理由**  \n  水源である高賀山（こうかさん）の伏流水が極めて「貧栄養（ひんえいよう）」な湧水だからです。高賀山の山体が流紋岩（りゅうもんがん）類で構成されており、そこを通り抜けて湧き出る水には微生物やアオコ・藻類のエサとなる養分（リンや窒素など）がほとんど含まれていません。そのため、水を濁らせる微生物やプランクトンが繁殖できず、極限の透明度が保たれています。\n* **具体的な数字や比較**  \n  池の面積はテニスコートより少し大きい程度の**約400平方メートル**、最大水深は約0.5メートルです。伏流水が常に湧き出しているため、池の水温は年間を通じて**約14℃**でほぼ一定に保たれています。そのため、冬でも水草（コウホネなど）が枯れにくく、冬枯れせずに鮮やかな景観が続きます。\n* **意外な点**  \n  この幻想的な景観は、行政や観光業者が巨費を投じて計画的に作ったものではなく、「偶然が重なってできた産物」です。もともとは1980年頃に作られた農業用の貯水池（溜池）で、当時は雑草が生い茂っていました。1999年に近隣の花苗生産者が除草して睡蓮を植え、さらに近所の住民が自宅で飼えなくなった錦鯉を放したことで、現在の奇跡的な景観が偶然完成しました。\n* **歴史の裏話**  \n  地元では昔から「根道神社の池」や単に「池」と呼ばれており、正式名称はいまもありません。フランスのモネ財団による承認を得た公称ではないため、権利上の配慮から、岐阜県や関市の公式観光案内では一貫して「名もなき池（通称：モネの池）」と表記されています。\n* **出典・根拠**  \n  関市観光協会観光情報、岐阜県観光連盟「名もなき池（通称：モネの池）」案内、関市板取地域資料。\n\n---\n\n### 調査メモ4：【岐阜の伝統文化】「洋紙は100年、和紙は1000年」！？正倉院に1300年前の「美濃和紙」が今も残る秘密\n\n* **疑問**  \n  現代の新聞紙や文庫本は数十年で黄色く変色してボロボロになるのに、なぜ美濃和紙は1300年以上前の奈良時代の文字が、今も鮮明に読める状態で残っているのか？\n* **理由**  \n  「原料の繊維の長さ」と「酸性薬品を使わない製法」にあります。一般的な洋紙（木材パルプ紙）は短くすり潰した繊維を酸性の薬品等で固めて作るため「自己加水分解（酸性劣化）」が進みます。一方、美濃和紙は「楮（こうぞ）」の強靭で非常に長い植物繊維を傷つけずに使用し、灰汁（アルカリ性）で煮て不純物を除き、清流（長良川・板取川）に晒して漉くため中性〜弱アルカリ性に保たれ、繊維同士が強固に絡み合って劣化しません。\n* **具体的な数字や比較**  \n  奈良・東大寺の正倉院に収蔵されている日本最古の紙は、**大宝2年（702年）**の「美濃国戸籍用紙（加毛郡半布里／現在の富加町などの戸籍）」です。実に**1320年以上前**の紙ですが、漉きムラがなく破れもせず、当時の文字が黒々と残っています。当時、朝廷へ納められた諸国の戸籍用紙のなかでも美濃国の紙が最も優秀であったと記録されています。\n* **意外な点**  \n  薄く漉かれているにもかかわらず引っ張っても破れない強靭さを持つため、現在ではルーブル美術館や大英博物館など世界の名だたる美術館で、レオナルド・ダ・ヴィンチのデッサンやレンブラントの版画といった「国宝級の西洋美術・文化財の修復用紙」として本美濃紙が指名・使用されています。\n* **歴史の裏話**  \n  江戸時代には、幕府の御用障子紙として美濃の紙が最上と定められました。その規格寸法が「美濃判（みのばん）」として全国の障子の基準サイズになり、当時は障子のこと自体を「みの」と呼ぶほど生活に定着していました。\n* **出典・根拠**  \n  文化庁 文化遺産オンライン「本美濃紙」、富加町「奈良正倉院に残る最古の戸籍（半布里戸籍）」資料、美濃和紙の里会館歴史資料。\n\n---\n\n### 【ラジオ用 3択クイズコーナー案】（モネの池より）\n\n**問題**  \n「岐阜県関市にある大人気スポット『名もなき池』、通称『モネの池』。透き通る水の中を優雅に泳ぐ色鮮やかな錦鯉がまるで絵画のようですが、この錦鯉たちは、もともと誰が池に入れたものでしょうか？」\n\n* **1番：** モネの絵画を再現するために、観光協会が放流した\n* **2番：** 地元の住民が、自宅で飼えなくなって持ち込んだ\n* **3番：** 近くの板取川が氾濫したとき、天然の鯉が偶然迷い込んできた\n\n**正解：** **2番（地元の住民が、自宅で飼えなくなって持ち込んだ）**\n\n**解説（トーク用一口メモ）**  \n「実はあの美しい錦鯉たち、観光用に計画して放流されたものではありません。1990年代の終わりに、近所の花苗屋さんが善意でスイレンを植えていたところ、近所の人たちが『家で飼えなくなっちゃったから』と鯉を池に持ち込んだのが始まりだったそうです。湧水が綺麗で微生物が少なく、鯉が元気に泳ぎ回ることで、まるでモネの睡蓮のような奇跡の風景が偶然生まれたんですね」",
+  "research": "日本時間2026年11月9日（月）の岐阜県飛騨市神岡町向け地域ラジオ放送に向けて、「暮らしの知恵・身近な工夫」をテーマにした調査メモを作成しました。家族に話したくなる身近な疑問と科学・歴史の裏付けをまとめています。\n\n---\n\n# 地域ラジオ用調査メモ：暮らしの知恵・身近な工夫（2026年11月9日）\n\n---\n\n## 1. 【飛騨の知恵】なぜ飛騨では「漬物」を焼いて卵でとじるのか？\n（飛騨の冬の知恵「漬物ステーキ」の誕生秘話）\n\n* **疑問**  \n  「なぜ飛騨では、そのまま食べるはずの白菜漬けをわざわざフライパンや鉄板で炒め、卵でとじて『ステーキ』と呼ぶのか？」\n* **理由**  \n  飛騨の冬は氷点下まで冷え込み、台所や漬物部屋に置いた漬物樽が凍りついてしまいます。カチカチに凍った漬物を解凍して温かく食べるために、囲炉裏の火で焼いたのが発祥です。また、乳酸発酵が進んで酸味が強くなった古漬けも、油で炒めることで酸味が和らぎ、旨みが引き立ちます。\n* **具体的な数字や比較**  \n  飛騨の家庭で冬に仕込む「切り漬け」は、野菜重量の約3％の塩分で漬けられることが多く、冬場の厳しい寒さの中では樽の表面に分厚い氷が張るほど冷え込みます。凍ったままでは塩辛さと冷たさで食べにくい漬物も、加熱して卵（水分と脂質）で包むことで、塩分刺激がまろやかになり、立派な主菜に変わります。\n* **意外な点**  \n  「ステーキ」と名乗っていますが、お肉は一切入っていません。厳しい冬を乗り切るための雪国のサバイバル術から生まれた家庭料理です。\n* **歴史の裏話**  \n  かつては鉄板ではなく、囲炉裏の灰の上で「朴葉（ほおば）」の上に凍った漬物をのせて炙って食べていました。昭和期に鶏卵が手頃な価格で手に入るようになってから「卵でとじる」スタイルが定着し、現在では神岡や飛騨各地の居酒屋や家庭で親しまれる定番料理となりました。\n* **出典・根拠**  \n  農林水産省『うちの郷土料理（岐阜県：煮たくもじ／赤かぶ漬け等）』、郷土料理ものがたり『漬物ステーキ』\n\n---\n\n## 2. 【防寒の知恵】窓に貼る「プチプチ」、凸凹（気泡）は部屋側？それともガラス側？\n（窓のプチプチ断熱マジックと誕生秘話）\n\n* **疑問**  \n  「冬の寒さ対策として窓に気泡緩衝材（プチプチ）を貼るとき、ボコボコした凸凹面は部屋側とガラス側のどちらに向けるのが正解なのか？」\n* **理由**  \n  正解は「凸凹面をガラス側」に向けます。凸凹面をガラスに当てることで、気泡の中の空気に加え、気泡と気泡のすき間にも「密閉された空気の層」が二重に形成され、断熱効果がより高まるためです。また、室内側を平らな面にすることで、埃や汚れが溝に溜まるのを防ぐ衛生上のメリットもあります。\n* **具体的な数字や比較**  \n  冬の暖房時、家から逃げていく熱の約58％（約6割）は「窓などの開口部」から流出すると言われています（経済産業省 資源エネルギー庁資料より）。空気は非常に熱を伝えにくい性質（静止空気の熱伝導率はガラスの約40分の1〜50分の1）を持っており、プチプチで窓際に動かない空気層を作ることは、手軽ながら理にかなった断熱法です。\n* **意外な点**  \n  平らな面を窓にピタッと密着させたくなるのが人情ですが、実は「凸凹を窓側に向ける」のがメーカー推奨の正しい貼り方です。\n* **歴史の裏話**  \n  「プチプチ」は川上産業株式会社の登録商標です。この素材は1957年にアメリカの技術者2人が開発したのですが、最初は緩衝材ではなく全く別の用途として作られました（※クイズ参照）。\n\n### ★リスナー向け3択クイズ\n**問題：**  \n窓の断熱や荷物の梱包でおなじみの「プチプチ」。1957年にアメリカで最初に開発されたとき、もともとは何として販売しようとしていたでしょうか？  \n1. 宇宙飛行士の訓練用クッション  \n2. 簡単に汚れが拭き取れる「立体壁紙（凸凹のある壁紙）」  \n3. プールに浮かべて遊ぶ「レジャーマット」  \n\n**正解：** **2. 簡単に汚れが拭き取れる「立体壁紙」**  \n**解説：**  \n開発者はプラスチックでできた「モダンでお手入れが簡単な壁紙」を目指して試作したものの、壁紙としては全く売れませんでした。その後、温室の保温シートとしての用途を模索したのち、精密機械を衝撃から守る梱包用緩衝材として世界中で大ヒットしました。\n* **出典・根拠**  \n  川上産業株式会社（プチプチの登録商標・製品情報）、DDG JAPAN『窓へのプチプチの貼り方をチェック！』\n\n---\n\n## 3. 【身だしなみの知恵】冬の「バチッ！」を防ぐ重ね着、何を合わせれば起きない？\n（静電気を防ぐ「帯電列」の組み合わせルール）\n\n* **疑問**  \n  「冬場にセーターやコートを着たとき、激しくバチバチ静電気が起きる日と、全く起きない日があるのはなぜか？」\n* **理由**  \n  静電気は服同士のこすれ合いで生じますが、素材によって「プラスの電気を帯びやすい素材」と「マイナスの電気を帯びやすい素材」が決まっています。この性質の差を順に並べたものを「帯電列（たいでんれつ）」と呼びます。プラス極の素材とマイナス極の素材を重ね着すると激しい放電（バチッ）が起きますが、似た性質同士を組み合わせれば静電気はほとんど発生しません。\n* **具体的な数字や比較**  \n  * プラスに帯電しやすい：ウール（羊毛）、ナイロン\n  * マイナスに帯電しやすい：ポリエステル、アクリル\n  * どちらにも偏りにくい：綿（コットン）、絹（シルク）、麻  \n  たとえば「ウールのセーター（＋）」の下に「ポリエステルの機能性インナー（ー）」を着ると、帯電列の両端同士が擦れ合って最大級の静電気が起きます。逆に「ウールのセーター（＋）」に「ナイロンのジャケット（＋）」なら、擦れ合っても電位差が小さいため静電気が起きにくくなります。\n* **意外な点**  \n  冬の定番である「あったかインナー」は化学繊維（ポリエステルやアクリル）が多いため、良かれと思って天然のウールセーターを重ねると、最も静電気が起きやすい組み合わせになってしまいます。中間に「綿100％のシャツ」を1枚挟むだけで、天然の緩衝材となって静電気を遮断できます。\n* **歴史の裏話**  \n  電気を表す英語「Electricity」の語源は、古代ギリシャ語の琥珀（エーレクトロン）です。紀元前600年頃、哲学者のタレスが琥珀を布でこすると羽毛やホコリを引き寄せる現象を発見したことが、人類の電気研究の第一歩となりました。\n* **出典・根拠**  \n  東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』、地方独立行政法人 東京都立産業技術研究センター（繊維帯電性試験関連資料）、ライオン株式会社『エレガード（静電気が発生しやすいコーディネート）』\n\n---\n\n## 4. 【月曜・家計の日】今月（11月）の食品値上げ動向と、熱を逃さない「鍋底ひと拭き」省エネ術\n\n* **疑問**  \n  「11月の食品値上げはどう動いているのか？ 日常の調理で手軽にできる家計防衛策はあるのか？」\n* **値上げの動き（公表データ）**  \n  帝国データバンクが公表した主要食品メーカー195社の価格改定動向調査によると、**2026年11月の値上げは1,477品目**に上り、前年同月（約150品目）の約10倍の規模となりました。これにより、2026年の年間累計値上げ品目数は2万品目を突破（2万327品目）しています。10月のピークに比べると勢いは一服したものの、包装資材や物流費の高止まり、原材料価格の転嫁が依然として続いています。\n* **関係する家計のやりくり知恵：鍋底の水滴を拭き取ってから火にかける**  \n  調味料や食材の値上げが続く今、調理時の光熱費を最小限に抑える身近な工夫が「鍋やフライパンの底を洗った後、しっかり水滴を拭いてから火にかけること」です。\n* **理由**  \n  鍋底に水滴がついたまま火にかけると、ガスコンロの熱エネルギーが「鍋底についた冷たい水滴を蒸発させること（気化熱）」に真っ先に奪われてしまい、鍋の中身を温める熱効率が大きく落ちてしまうためです。\n* **具体的な数字や比較**  \n  水が蒸発するときに奪う気化熱は1グラムあたり約540カロリーと非常に大きく、濡れた鍋底は火力を無駄遣いする原因になります。資源エネルギー庁の試算によると、炎が鍋底からはみ出さないよう中火に調整し、水滴を拭いて熱効率を維持するだけでも、年間で数千円規模のガス代節約につながります。\n* **歴史の裏話**  \n  日本の伝統的なかまど炊きの知恵でも、「底濡れ鍋は薪（まき）を喰う」と言われ、鍋底が濡れたままかまどにかけると余計な薪を消費して煮え立ちが遅くなるため、乾いた布巾で底を払ってから火にかけるのが台所の鉄則とされていました。\n* **出典・根拠**  \n  帝国データバンク『「食品主要195社」価格改定動向調査―2026年11月』（2026年10月30日公表）、経済産業省 資源エネルギー庁『省エネポータルサイト（無理のない省エネ節約：キッチン）』",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9B%AA%E3%81%8C%E9%99%8D%E3%82%8B%E3%81%A8%E9%9D%99%E3%81%8B%E3%81%AB%E3%81%AA%E3%82%8B+%E7%90%86%E7%94%B1+%E5%90%B8%E9%9F%B3%E7%8E%87+%E6%B0%97%E8%B1%A1%E5%BA%81+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">雪が降ると静かになる 理由 吸音率 気象庁 科学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%BF%E5%84%BA%E3%81%8B%E3%81%BC%E3%81%A1%E3%82%83+%E7%94%B1%E6%9D%A5+%E7%89%B9%E5%BE%B4+%E9%A3%9B%E9%A8%A8&client=app-vertex-grounding&safesearch=active\">宿儺かぼちゃ 由来 特徴 飛騨</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%A2%E3%83%8D%E3%81%AE%E6%B1%A0+%E9%80%8F%E6%98%8E%E5%BA%A6+%E7%90%86%E7%94%B1+%E9%96%A2%E5%B8%82+%E6%B9%A7%E6%B0%B4+%E9%A4%8A%E5%88%86&client=app-vertex-grounding&safesearch=active\">モネの池 透明度 理由 関市 湧水 養分</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99+%E6%AD%A3%E5%80%89%E9%99%A2+%E6%9C%80%E5%8F%A4+%E6%88%B8%E7%B1%8D+%E3%81%AA%E3%81%9C+%E6%AE%8B%E3%82%8B+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">美濃和紙 正倉院 最古 戸籍 なぜ 残る 理由</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81195%E7%A4%BE+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB+2024%E5%B9%B411%E6%9C%88&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要195社 価格改定動向調査 2024年11月</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9D%99%E9%9B%BB%E6%B0%97+%E6%9C%8D+%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B+%E5%B8%AF%E9%9B%BB%E5%88%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&client=app-vertex-grounding&safesearch=active\">静電気 服 組み合わせ 帯電列 東京都立産業技術研究センター</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E3%81%86%E3%81%A1%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86+%E5%B2%90%E9%98%9C%E7%9C%8C+%E6%BC%AC%E7%89%A9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD&client=app-vertex-grounding&safesearch=active\">農林水産省 うちの郷土料理 岐阜県 漬物ステーキ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B7%9D%E4%B8%8A%E7%94%A3%E6%A5%AD+%E3%83%97%E3%83%81%E3%83%97%E3%83%81+%E7%AA%93+%E6%96%AD%E7%86%B1+%E5%87%B8%E5%87%B9+%E5%90%91%E3%81%8D&client=app-vertex-grounding&safesearch=active\">川上産業 プチプチ 窓 断熱 凸凹 向き</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0d4zLqjvH_2KBaaYrEYzVjIKWz23aCZPOjmNN_R3m6Ex6xAY19fFWpdCxPSxLLa4x6329pLhPle8YIQn07bmCOjToe4iVjgCnvFGsqqqTR39XWssW7AuIePKSGbrJFv1HXK0CGQwL-x_XbMi8HmY=",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWe3yYYvXjZYqjSc3yNecUnThON4z_9V7cDCnpDLZC10heEfugd9-TpbL2USIt25P0IjAsb0T-5h3pWqBZzDMZmvsvwUhvqYBK-j1rJlk9SP7JnEsZvhVBk435GDVjePsRpwM5PIA=",
+          "title": "papersky.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9qannVXTGZIS1T3E2_TDKvw0uFMQ5d3vdwWFAU2orlwmQ1SMydJxI2s7Odvhk4ob6lNrOi2XeJhwJaDEBsM4eUcn3OtB5_VKvXoeKAqHbYoJj4oyPHH-OVh63SeiVamI=",
-          "title": "mytabi.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyNXCLEkZ4Jj_8TOHlNbbkKqLm6lQTf2CE1bTJ3F3BkonFqKCVI0zkPmpXgPEAjoiv9kKdmt6L2AV-HhHtLDXnzDHE2rajIS01n0OEXr5MGBYFrY0MkdjvnJc9mD8=",
+          "title": "kyoudo-ryouri.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk4Z_0oSrRT1D-59Na2gWPoyWbvRbBVoANfF7T6ALFrFw4lEqqHrJ3rD9j7TAXywOG858tkw6UTKRSlo_fWsU-B-ZXDciPe3n5ONbT-WopQlmDNpIjbuzgtlC9hUPwahBGnJM4HwjfmFv6VPya78SIKKIL_Tls7MFHqx5rEGu9DRWKXjCPO0KKDGI=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXgiovmBIp-uEib1ojWDY5knnoTeOzG3LtaH6XbxnrghgKu0ELv5xGnZW2lwsw5cAXx-WzZ5bLaxrJhIXCD7ngy5w_ftri-ck3mW5TvXoS40-wUHeFegfu-OWs7QI=",
+          "title": "yoshima.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETCEjURaFBuJ_hcZ1gZyRks0nHhxl180PYT7zFPIaoIasRF1q2_08G5lE6Ai3vaMzfl6bxHZ9Cq49NdAlF1qbgZOPPL03bJ5XGP6hvfTr4PqF7WUHIdAU5TFPS60bmO4MIuEfZUsARWV8-qw==",
-          "title": "hidatakayama.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvH4-AyOnSkX1imE-vX7g-xjvQbLM07GFU1RoegmH1i3w1amQg7nYv_Vn4oAzxf4v5DQIKQOigX0zYAcyIqeJkObj2LiJvIajo0gQeFg_4u1_GSKFzimtUzNn_pJoNDGXFFJBOyZgGqmE=",
+          "title": "delishkitchen.tv"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzPG99VNidLVOGg95VQaJMDeXzaNpZkkr7-gvUYcnKaqxs9iQniXgTievg-p_ii1JV5Ifdef2746ZBI_ovkbrCAMkeFtjxOFzhphK725GWQs3Oa7B4YJHdgplYGUdALq7g9Ng6Ql5Erg2zxIJjLWI=",
-          "title": "haradaeigo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx8OlJcAMxBaFcVPbqC3hZNzU8Oad9_22qrwWxslzD2wvE-qKHqP2gt9Hg0w3hhb8jJ8x8vRvyt0qMb-xl1dOFtyz7bdNcyq1wU7PUQFHhMj0hbG4oA5yrxuXkISPMXQnW83pJW8xrCHushCx0ycbsnG_UqRtcCHU51fjb7x2iCAQDsfQL9srlpvOr_XF6RAbOyhHwYNx_Cluf-0nbyL3uDiScsjy7meBqV6ZKlys=",
+          "title": "spa-hotel-alpina.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGClP24d5WUpwvYjYAcb1w3jBTs3P0MZfBwR-VnF-LjMVzHAfteWDfcrOLuMZPDVyGRm3ZVDCZX5cPxAU_ZmNsY45hq2Wr_aFCLK9wlzDm1SVeQiIyj9UZvL1vbIvaOn0T5ymwF3usPMYtvktucmaRQN2r3tEVbVVOaI1mbmxABT8Q=",
-          "title": "ndl.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTTZbUSNohYskVGR36v-j33h-6NEn7AfGw_ZUs1Icfd12TN0oIhXzc1jcssDeSeicRrBNQS31qBfckPpHnQcBvLR51ay6Je8RflNoMtbb-_6zskdHAtO07xSBTGRoduX_Xdg5vxuSgKRYBrvpHvS5M4c8saqLMfiux4pYAhjZ-6xB4xCbB",
+          "title": "maff.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpbu4EgjXx7GnSDbMDVxRmo0GLWL94kmNjggXRWgWUaeeyaPZz2IBH4_BVKiZGFFEHooifg-Y64AQpXnF6a8fR5Fhh9kWvVDpBO-sFr-QPbdHiVeb11R61vRtSVohdUJKkduDaQvw_EPiUh9sIzciuazbdZUPOH9L3QzevdtYRi9xJ-qCeJUpldF22EX18TE-ezp4swER9X4aRHf9sb6vAi43FeOpeaivm4MtI_vLdE8V_Gh1caOj_B9acdvxZka3c",
-          "title": "kagashi-ss.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZx0IbKjTwGN0Gq8maCv-p-mz1CqJeB41X-GgRgNl1c-4pWr9kjqXAZvAviI1wiDAaQmkwtQGpSuaFMC5Ykg9T_h-mb_iUoIdH2rrDtVDPRrKXkQYA_8t1avKoorHbU5E_Rg==",
+          "title": "mac-glass.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOFHWlxkGB05cuhKaXHX3y8hQX3CR_wGbgz76oYOW75zjKiq4HvzGZxtRVRnYpx_AEFIgbjFAIVsZc78QMEt4DkBoP7B9vse-SvGDkdbntD2ZnqByQR8lJXXyg3Bnt7OYed5yzu0gFLVJqsYDJ9lquH2HnjNBxp7PB5g==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXJdnEB4kSRiWX_ce-BNTo6E_8TA0aa6E-YYfY30dhIv7g9KGlgFAaULTnFbegr4HRM4zcuRkwLIk6TwIL6S5c85mp50RM5RV4ml8UWq2bPRO-hQ=",
+          "title": "ddgjapan.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZyujJ-nnWpFlzPZm8HcUu66Jpah_iMHvCu_AcADYSTAPEzqf9gY-ruS7Pn2oWCG1Ej8Na0VG-x0ODU2J8XoEv5cr76ijGcO0MbSpftrBlDo2ewPYoDnNYhAegWK9",
+          "title": "putiputi.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSGkQ9EBiJPUfYx_9Wm6iQ-EwDlkH4VgHjOo9AaMbOgDM90qQ0GUp4f2JK--bzkjBVXbY68xe_-nehKPKjFS9fmXh7QtU11HYvRW4Y5GcguCmvkZG-YA==",
+          "title": "phys-edu.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUejPVWUBnbWOUYxBk1T9YjQTwbAlH1bUp5TcaLZqcOt84qfoIqTkzaEGlAFwnJC4_bCqs2QBJm3aKpZtIFuc3xg8w-0p9jtGHO-gEJgl5yyW3ygbTLOLQW_LfqPYaVofhME5fJvBOAPVC7vUtxu1b",
+          "title": "perfect-s.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFam9SnBA6jZEeVQTApHA_ZCR4TzXWgi-ClrpBRFyTUn5YmbCnv-HiwNaJRPyGP_YPnKW5nDbFJcuQ5cBY-qc9bD6kQfImUqfN1J1e2HNm8at0aQK64p4WVBFuuGWJ-7LY=",
+          "title": "slouch.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf71RgvY8cagIPzDaJIRXKQChlVILFCnGu04_0YMPKBhNHAr5t9T6KBPM86eF-CTYAjaNnlqL17GGHuH8vQWjmwp_Bwo2nIaCOJRE2sdv3asuLpLF1HZ0YGMBshN6kFqj02O69nuMRx-A=",
+          "title": "tokyo929.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0yI6ZNnZrhkqP9Lwzhmog5j9OkmDlsk0Dcbvw530inXwLxCki-HQhxwWE8NW9EZoIK24RcW-vbx8UUyWpJao31ogDvkPWDdlPjbtoU3B47RZ63uHM-4-B5uF7a6umsvp8xjCr",
+          "title": "weathernews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwC5z5Ov5hZvhlcBR900kzwnsJTw7q3ydju6xcPgextF9hBE7_sfxVFFiZhCgtA4c04j3_K-ZV3SlM8pwsd-M_UxH63Zi99dOYFa68R4KYjdo3WGkKTevBZ4p9hSj7nKamHtAW3dl9HEVmjIAVFZui384Y",
+          "title": "iri-tokyo.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzMWEleLDNFU8lNU52BRv4CLkp6AKETTTp6jRmMFJo2WI7V14EC-U0bwGYM9z7tnD2dcKdxF05UPNEH0YAgoap-58fCddQf7BGU1PAu_nbbVqUO5MO9TiEYINHBAAmAKXLxHw=",
+          "title": "lion.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpLeHI2CSaWYcZYAh9DtZqvtvXV7-u3P9bkqXhw_5L9rrfsvsjJuoQQC8nKbA7LDpQfFN5pXwbQkYJi_8WfLditdAVEfuoYjTfS50Sd2QqM9Z9MbylFQFqTfcfWSJ9D1iHUTvJBvpVLyU4wOod50aEIqgHHuC_CYbCYVOz0FUPesNOMZn10g==",
           "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ-_2UTtx2_Xh9rQXuTRQw-HsD1bJrtHE8h8nPDxtRJRWSY7z-UEmzP1ivj3Jy41_3tgnTkm5Hc0lK5goXI-y-cfRxCSK6Qh1G0hK1eydh6JiZJwt-MO1-gYpc-wqz_fl3pr3o",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkLkrurLG82MCMANdFw3z9Xq9Lxw6dIV2EkqJT65eJ1uW9BQ7TzZxwyCLeUrve-WMK2trWPzZKur4S-sT_aoWXxKJF9AjqNpvTge76ciSDyJw3G7tSUcyDjNZ4QbOK5KdO8ZRu1ck=",
+          "title": "mynavi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzm91s5wzoAwZKaMdfOTHOKUfhsEnYvQ5SrH-9gwJwY4xJdToKqJJCRdHwwH4S3HMttOHeF2442n1LB_-1BwH0vylbOrrBocCl1zJZTJQWhGR4",
-          "title": "denon.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj8rmq8ws1mCwi1BrMv5aQYi5s4S22Wk1AJi93bhfAjcxFN8DzhiSgTlXWxBxTiL9wFjkc3Bo2hMYCeErZOHGpDT9jrxqLoOygTUpGJkRpgVLQ0MqGIxa71Pm3CEZEqytb9Gh-lFqfkw==",
+          "title": "chiba-tv.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwrjHk3oMTXM7Hca0SAwaE1z5r-tjxfr3Jhamit1WLanq386o-kPxv12vpedM4kN77bJ55RnTLuQVKQMQ1GjUuTWIIJW6WmqcIiUwAXHg0hOpTtuGkUPsu2LrLtxLCn02RTn1NyRK7-ijKjiiiMMVaDb9KGpmTXwc=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVHyfPdOTRcZXRVyXYuqbPee_165v4_xlnBcrQwulge5yFZYl_iDeBS7V4ckmthy4ST6kmi_pJRKIg4l57ZxTq9naDc9Twx333MpGSMma2FY79ZNy_k1ofNi-vfx_EDKFQGNNiyTSk",
+          "title": "livedoor.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgHu-IlN3POuqMhJAirHLnAISDVAI3lFHo6DeGaxXvHELXwlRpYONmD29b1InL4Ywe8yCnNriGbAPtswKL1HWmejWRhrYIHiJEJqbn2_qxUrEr-zq8gSNjmz3cmdjKt3qVdfar",
-          "title": "madeinlocal.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhV9ror37EEgV41qWphG90G2tZI3dDz16Q6hM4AX3Y1YYHBtEQhQsBdI50_lVF276UvkmJHZKhX1HRWJzr9iQh8FfTEMbMoyG_aHzefiH-G2ZxpwdlWizLdaCkdA==",
-          "title": "4travel.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXUFupHcTD8QUnZt-5EJkqTRpwYM5Kd8rqmohsGqlgDnxfljqmPVTLVWhxsOHOhKL2VBQPoNYrhzoRtF09du408OMfusWxjEnWs0fLbMyK1MA6jzCkSVZkgayqtUTDkzEz2jYSx7CXC6o0_oWPZJspN1cPZvfM",
-          "title": "nousagiblog.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe9ECAxwzUMFPECjCmHK-O_pnY3Jlf4nyhYL9bOAesr2DMznCWJbo04Qkk80745pLnJE0nEjUMYuK5i5fxD3iPBl0J6e9PmFwF4mCxZ_GBMc5BHlpVWKV3jTTwO0m3g2TSBg==",
-          "title": "tabiiro.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEth5lZahcJrGA60TQPuweDREaTclHSZ1qoTOV1GgaZL_MqC3593q-XpvTb3B0O24fxlgiTnzIS7FOmjFW0ubR-0ZlUSrLstrhvo8xDbghNc0-BRrPqmb9IvQYvkA2SZEds0w==",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEULTBC7qkMnJA2DRO9vqYyFkUlIWFNJsOvdbu80Oxf3mHNYf6bnVLT7WD11zS7DkHY2w1XoxgBHpR2KcHziz3AkoDmvDOhDgcSdCosH1Cew_MHmgWT7A9Gv_PXrltvPTJo8s3O",
-          "title": "furukawashiko.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeH5RVsViOhQAyitQLDmo9m_ZkPSfpIn4VldHvrfxBzLgSacUnKO9VC32XA8CVh5AzzKibVrKw90cRGWoiigXSJjjl879plRnDfU63QBpLRJSPeyjAsQh4Nw3VvcnDEIxTFC6-gQ==",
-          "title": "resol-hotel.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3dV8KvBYNhLByn8TmbypCbLXAphqgOXbWBOCPp9U201DBfTc6IDE0JgReNNBf8QcQ3lme8dyB8FsjzDYNcR1nSv6MfOxcRrYt4Zh3RGp4rRYqqxZ-3e9ZVY2CzdmEi43vNtgQGP8vyv1aeNfQy06XsSXZLfnzTVhVC0f5SGbcQnQQE2l3Pt8wobUbg3EyduJiQcko2xmAQpGIog==",
-          "title": "minowashi.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQeKhEAdGBg3GjFw1195UvUl-aqUz9IPkkLy6aW4hkWfV2BfwMxCIPEnlFHCIcX3NUoA2zHDE_6rECYk1tQjgnkYKgktQGOG254tqA-fETycYdtGgbVv0ikm8-hKcwDbE1D4k=",
-          "title": "town.tomika.gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvalQgdGjVGxrd2cRBQAc4F95uXR8vftbhAQHRel8I_fxp1M67AnVRtL2wdaEqIhDIFo6DZQQolhxH_OeTVDXKM3seUQ0vS-uZ53YywQ_NG5I7CLdxje3Ms9FHxZOfVUYVe8uu0ZY5vA==",
-          "title": "bunka.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4yfUnmX5h6PRr4dgmgzaT3I1KzjvDnKGtwHGNKevo9H7sOWSIpnWvCh8GSeVRlKGG6j5T_rsgKar3tCrKPLcQNYNMTI_LWks9gKZZ-IMjuSfv-FZDHA8KClYMH5wMDOl9qNy9TaOQIwlfzw==",
-          "title": "city.mino.gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUTSMeSpgfMlQkTT-rtUchQeLo8bFNsAyE-rWiU4kmzhKMKmkLHNyqHwTWU-PP-UXaiwCMQh5YhJfcuRsy8o2LTBL8jNJbDpFNCHqdURHzcP_0eQX_PC_fN9w-dFf_EOlc-t3j7O8zoUxUksU=",
-          "title": "nakagawa-masashichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyyN0nd2XVaF-Ltk91C5Jie3Nwhdr4dUI4c59Uq_Ja2AaNapXKZNILPllfVR_yLK2qBPC2S8mtLnxr-o9TdHBiGPKYQeELiPu5sqZl50AN7c9aZ_gwrhz6HwBaDHIwOQ_MZzC2AnY7eXi1cMzf",
-          "title": "japias.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMGQXXWAnAtDvdjJhXox1WGl721UFr0YtVN-LNcR5QWJTUdmhIZ7-MxA3yUEduxFSxixGlAGzpuLh0J3I2JKiJVva-WPncxlM5_ITW5l12Knh1Nl8B4XOfBNqWn5m27DDkdFC4",
+          "title": "ecnomikata.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 892,
-          "endIndex": 1237,
-          "text": "もともと高山市丹生川町（旧丹生川村）で代々自家用として種を継いできた在来品種（固定種）であり、品種改良によって丸く均一に整えられた現代の西洋カボチャと異なり、古くから伝わる固有の遺伝的特徴（細長い果形）をそのまま残しているためです"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1279,
-          "endIndex": 1489,
-          "text": "一般的な黒皮栗カボチャが直径15〜20cm程度の扁平な球形（重さ1.5〜2kg）であるのに対し、宿儺かぼちゃは長さ**約50cm〜80cm**、重さ**約2.5kg〜5kg**にも達します"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1492,
-          "endIndex": 1669,
-          "text": "成分面でも、他のかぼちゃと比べて糖質の一種である「スクロース（ショ糖）」が多く含まれ、細胞壁が薄いという特徴があります"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1672,
-          "endIndex": 1783,
-          "text": "そのため、加熱するとキメが細かく、栗のようにホクホクとした強い甘みが出ます"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1984,
-          "endIndex": 2149,
-          "text": "また、かつては門外不出の「自家用野菜」として農家の庭先だけで消費されており、市場には一切出回っていませんでした"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2179,
-          "endIndex": 2315,
-          "text": "現在の「宿儺かぼちゃ」という名前がついたのは、実は比較的最近の**2001年（平成13年）**のことです"
-        },
-        "groundingChunkIndices": [
-          0,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2318,
-          "endIndex": 2648,
-          "text": "特産品化にあたり当初は「長かぼちゃ」「ひょうたんかぼちゃ」といった案も出ましたが、飛騨を拓いたとされる丹生川ゆかりの古代の英雄「両面宿儺（りょうめんすくな）」のように地域で長く親しまれてほしいという願いから命名されました"
+          "startIndex": 1028,
+          "endIndex": 1172,
+          "text": "また、乳酸発酵が進んで酸味が強くなった古漬けも、油で炒めることで酸味が和らぎ、旨みが引き立ちます"
         },
         "groundingChunkIndices": [
           0,
           1,
-          3
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 2678,
-          "endIndex": 2769,
-          "text": "岐阜県公式ウェブサイト「飛騨伝統野菜と特産野菜 宿儺かぼちゃ」"
+          "startIndex": 1214,
+          "endIndex": 1335,
+          "text": "飛騨の家庭で冬に仕込む「切り漬け」は、野菜重量の約3％の塩分で漬けられることが多く"
         },
         "groundingChunkIndices": [
           0
@@ -302,9 +223,40 @@
       },
       {
         "segment": {
-          "startIndex": 2678,
-          "endIndex": 2826,
-          "text": "岐阜県公式ウェブサイト「飛騨伝統野菜と特産野菜 宿儺かぼちゃ」、岐阜県観光公式サイト「宿儺かぼちゃ」"
+          "startIndex": 1214,
+          "endIndex": 1434,
+          "text": "飛騨の家庭で冬に仕込む「切り漬け」は、野菜重量の約3％の塩分で漬けられることが多く、冬場の厳しい寒さの中では樽の表面に分厚い氷が張るほど冷え込みます"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1437,
+          "endIndex": 1638,
+          "text": "凍ったままでは塩辛さと冷たさで食べにくい漬物も、加熱して卵（水分と脂質）で包むことで、塩分刺激がまろやかになり、立派な主菜に変わります"
+        },
+        "groundingChunkIndices": [
+          3,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1665,
+          "endIndex": 1749,
+          "text": "「ステーキ」と名乗っていますが、お肉は一切入っていません"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1881,
+          "endIndex": 2031,
+          "text": "かつては鉄板ではなく、囲炉裏の灰の上で「朴葉（ほおば）」の上に凍った漬物をのせて炙って食べていました"
         },
         "groundingChunkIndices": [
           1
@@ -312,72 +264,51 @@
       },
       {
         "segment": {
-          "startIndex": 3241,
-          "endIndex": 3331,
-          "text": "新雪が「天然の吸音材」として周囲の音を吸収してしまうためです"
+          "startIndex": 2034,
+          "endIndex": 2259,
+          "text": "昭和期に鶏卵が手頃な価格で手に入るようになってから「卵でとじる」スタイルが定着し、現在では神岡や飛騨各地の居酒屋や家庭で親しまれる定番料理となりました"
         },
         "groundingChunkIndices": [
-          4
+          0,
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 3334,
-          "endIndex": 3451,
-          "text": "雪の結晶が互いに絡み合いながら積もると、無数の微細な隙間（空気層）が生まれます"
+          "startIndex": 2289,
+          "endIndex": 2385,
+          "text": "農林水産省『うちの郷土料理（岐阜県：煮たくもじ／赤かぶ漬け等）』"
         },
         "groundingChunkIndices": [
-          5,
-          6
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3454,
-          "endIndex": 3655,
-          "text": "音（空気の振動）がその隙間に入り込むと、微細な空気層が激しく振動して摩擦が起き、音エネルギーが熱エネルギーへと変換されて音が減衰します"
+          "startIndex": 2289,
+          "endIndex": 2439,
+          "text": "農林水産省『うちの郷土料理（岐阜県：煮たくもじ／赤かぶ漬け等）』、郷土料理ものがたり『漬物ステーキ』"
         },
         "groundingChunkIndices": [
-          5,
-          4
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 3697,
-          "endIndex": 3904,
-          "text": "固まった氷の密度は1リットルあたり約0.9kgですが、降り積もったばかりの新雪は密度がその約10分の1（体積あたりの空気の割合が**90％以上**）に達します"
+          "startIndex": 2853,
+          "endIndex": 2907,
+          "text": "正解は「凸凹面をガラス側」に向けます"
         },
         "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3907,
-          "endIndex": 4075,
-          "text": "この多孔質構造は、音楽室や録音スタジオの壁に貼る「グラスウール吸音材」や多孔質吸音パネルとまったく同じ仕組みです"
-        },
-        "groundingChunkIndices": [
-          4,
+          6,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 4078,
-          "endIndex": 4192,
-          "text": "特に人の声や生活騒音に含まれる高音域の音ほど吸収されやすい性質を持っています"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4282,
-          "endIndex": 4435,
-          "text": "吸音効果が最も高いのは、結晶の隙間が多い「ふわふわの新雪」や比較的気温が高いときに降る「ぼたん雪」です"
+          "startIndex": 2910,
+          "endIndex": 3123,
+          "text": "凸凹面をガラスに当てることで、気泡の中の空気に加え、気泡と気泡のすき間にも「密閉された空気の層」が二重に形成され、断熱効果がより高まるためです"
         },
         "groundingChunkIndices": [
           6
@@ -385,51 +316,9 @@
       },
       {
         "segment": {
-          "startIndex": 4438,
-          "endIndex": 4645,
-          "text": "時間が経って踏み固められた圧雪や凍りついたアイスバーンになると、空気の隙間が潰れるため吸音効果は失われ、逆に音を硬く反射するようになります"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4684,
-          "endIndex": 4942,
-          "text": "世界で初めて人工雪の作製に成功した中谷宇吉郎の研究をはじめ、日本建築学会の『雪と建築』や各大学の音響実験でも、昔から「積雪による音響減衰」が科学的に計測・実証されてきました"
-        },
-        "groundingChunkIndices": [
-          5,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4945,
-          "endIndex": 5068,
-          "text": "雪国で感じる「静寂」は、単なる寒さによる心理的な錯覚ではなく、物理的な音響現象です"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5098,
-          "endIndex": 5191,
-          "text": "日本建築学会編『雪と建築』（技報堂出版）コラム「雪の吸音効果」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5098,
-          "endIndex": 5273,
-          "text": "日本建築学会編『雪と建築』（技報堂出版）コラム「雪の吸音効果」、中谷宇吉郎 雪の科学館展示解説「雪と音、眠りについて」"
+          "startIndex": 3126,
+          "endIndex": 3261,
+          "text": "また、室内側を平らな面にすることで、埃や汚れが溝に溜まるのを防ぐ衛生上のメリットもあります"
         },
         "groundingChunkIndices": [
           6
@@ -437,333 +326,249 @@
       },
       {
         "segment": {
-          "startIndex": 5439,
-          "endIndex": 5622,
-          "text": "まるでクロード・モネの絵画『睡蓮』のように、錦鯉が宙に浮いているかのように見える関市板取の「名もなき池（通称：モネの池）」"
+          "startIndex": 3505,
+          "endIndex": 3757,
+          "text": "空気は非常に熱を伝えにくい性質（静止空気の熱伝導率はガラスの約40分の1〜50分の1）を持っており、プチプチで窓際に動かない空気層を作ることは、手軽ながら理にかなった断熱法です"
         },
         "groundingChunkIndices": [
-          10,
-          11
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 5733,
-          "endIndex": 5865,
-          "text": "水源である高賀山（こうかさん）の伏流水が極めて「貧栄養（ひんえいよう）」な湧水だからです"
+          "startIndex": 3784,
+          "endIndex": 3955,
+          "text": "平らな面を窓にピタッと密着させたくなるのが人情ですが、実は「凸凹を窓側に向ける」のがメーカー推奨の正しい貼り方です"
         },
         "groundingChunkIndices": [
-          10,
-          12,
-          13
+          6,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 5868,
-          "endIndex": 6120,
-          "text": "高賀山の山体が流紋岩（りゅうもんがん）類で構成されており、そこを通り抜けて湧き出る水には微生物やアオコ・藻類のエサとなる養分（リンや窒素など）がほとんど含まれていません"
+          "startIndex": 3985,
+          "endIndex": 4051,
+          "text": "「プチプチ」は川上産業株式会社の登録商標です"
         },
         "groundingChunkIndices": [
-          12,
-          13
+          6,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 6123,
-          "endIndex": 6249,
-          "text": "そのため、水を濁らせる微生物やプランクトンが繁殖できず、極限の透明度が保たれています"
+          "startIndex": 5172,
+          "endIndex": 5244,
+          "text": "川上産業株式会社（プチプチの登録商標・製品情報）"
         },
         "groundingChunkIndices": [
-          14,
-          12,
-          13
+          6,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 6291,
-          "endIndex": 6424,
-          "text": "池の面積はテニスコートより少し大きい程度の**約400平方メートル**、最大水深は約0.5メートルです"
+          "startIndex": 5172,
+          "endIndex": 5313,
+          "text": "川上産業株式会社（プチプチの登録商標・製品情報）、DDG JAPAN『窓へのプチプチの貼り方をチェック！』"
         },
         "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5697,
+          "endIndex": 5901,
+          "text": "静電気は服同士のこすれ合いで生じますが、素材によって「プラスの電気を帯びやすい素材」と「マイナスの電気を帯びやすい素材」が決まっています"
+        },
+        "groundingChunkIndices": [
+          9,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 6427,
-          "endIndex": 6559,
-          "text": "伏流水が常に湧き出しているため、池の水温は年間を通じて**約14℃**でほぼ一定に保たれています"
+          "startIndex": 5904,
+          "endIndex": 6003,
+          "text": "この性質の差を順に並べたものを「帯電列（たいでんれつ）」と呼びます"
         },
         "groundingChunkIndices": [
-          10,
+          9,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6006,
+          "endIndex": 6210,
+          "text": "プラス極の素材とマイナス極の素材を重ね着すると激しい放電（バチッ）が起きますが、似た性質同士を組み合わせれば静電気はほとんど発生しません"
+        },
+        "groundingChunkIndices": [
           12,
+          9,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 6562,
-          "endIndex": 6688,
-          "text": "そのため、冬でも水草（コウホネなど）が枯れにくく、冬枯れせずに鮮やかな景観が続きます"
+          "startIndex": 6254,
+          "endIndex": 6323,
+          "text": "プラスに帯電しやすい：ウール（羊毛）、ナイロン"
         },
         "groundingChunkIndices": [
-          10,
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6328,
+          "endIndex": 6397,
+          "text": "マイナスに帯電しやすい：ポリエステル、アクリル"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6402,
+          "endIndex": 6483,
+          "text": "どちらにも偏りにくい：綿（コットン）、絹（シルク）、麻"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6488,
+          "endIndex": 6698,
+          "text": "たとえば「ウールのセーター（＋）」の下に「ポリエステルの機能性インナー（ー）」を着ると、帯電列の両端同士が擦れ合って最大級の静電気が起きます"
+        },
+        "groundingChunkIndices": [
+          9,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6701,
+          "endIndex": 6887,
+          "text": "逆に「ウールのセーター（＋）」に「ナイロンのジャケット（＋）」なら、擦れ合っても電位差が小さいため静電気が起きにくくなります"
+        },
+        "groundingChunkIndices": [
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 6715,
-          "endIndex": 6877,
-          "text": "この幻想的な景観は、行政や観光業者が巨費を投じて計画的に作ったものではなく、「偶然が重なってできた産物」です"
+          "startIndex": 6914,
+          "endIndex": 7181,
+          "text": "冬の定番である「あったかインナー」は化学繊維（ポリエステルやアクリル）が多いため、良かれと思って天然のウールセーターを重ねると、最も静電気が起きやすい組み合わせになってしまいます"
         },
         "groundingChunkIndices": [
-          10,
+          9,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7184,
+          "endIndex": 7305,
+          "text": "中間に「綿100％のシャツ」を1枚挟むだけで、天然の緩衝材となって静電気を遮断できます"
+        },
+        "groundingChunkIndices": [
+          9,
           11,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6880,
-          "endIndex": 7004,
-          "text": "もともとは1980年頃に作られた農業用の貯水池（溜池）で、当時は雑草が生い茂っていました"
-        },
-        "groundingChunkIndices": [
-          10,
-          12,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 7007,
-          "endIndex": 7215,
-          "text": "1999年に近隣の花苗生産者が除草して睡蓮を植え、さらに近所の住民が自宅で飼えなくなった錦鯉を放したことで、現在の奇跡的な景観が偶然完成しました"
+          "startIndex": 7676,
+          "endIndex": 7772,
+          "text": "東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』"
         },
         "groundingChunkIndices": [
-          10,
-          11,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7245,
-          "endIndex": 7371,
-          "text": "地元では昔から「根道神社の池」や単に「池」と呼ばれており、正式名称はいまもありません"
-        },
-        "groundingChunkIndices": [
-          10,
-          12,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7374,
-          "endIndex": 7611,
-          "text": "フランスのモネ財団による承認を得た公称ではないため、権利上の配慮から、岐阜県や関市の公式観光案内では一貫して「名もなき池（通称：モネの池）」と表記されています"
-        },
-        "groundingChunkIndices": [
-          10,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7641,
-          "endIndex": 7749,
-          "text": "関市観光協会観光情報、岐阜県観光連盟「名もなき池（通称：モネの池）」案内"
-        },
-        "groundingChunkIndices": [
-          10,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 7641,
-          "endIndex": 7776,
-          "text": "関市観光協会観光情報、岐阜県観光連盟「名もなき池（通称：モネの池）」案内、関市板取地域資料"
+          "startIndex": 7676,
+          "endIndex": 7881,
+          "text": "東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』、地方独立行政法人 東京都立産業技術研究センター（繊維帯電性試験関連資料）"
         },
         "groundingChunkIndices": [
-          10,
-          13
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 8200,
-          "endIndex": 8287,
-          "text": "「原料の繊維の長さ」と「酸性薬品を使わない製法」にあります"
+          "startIndex": 7676,
+          "endIndex": 7986,
+          "text": "東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』、地方独立行政法人 東京都立産業技術研究センター（繊維帯電性試験関連資料）、ライオン株式会社『エレガード（静電気が発生しやすいコーディネート）』"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8329,
+          "endIndex": 8562,
+          "text": "帝国データバンクが公表した主要食品メーカー195社の価格改定動向調査によると、**2026年11月の値上げは1,477品目**に上り、前年同月（約150品目）の約10倍の規模となりました"
         },
         "groundingChunkIndices": [
           16,
-          17
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 8290,
-          "endIndex": 8464,
-          "text": "一般的な洋紙（木材パルプ紙）は短くすり潰した繊維を酸性の薬品等で固めて作るため「自己加水分解（酸性劣化）」が進みます"
+          "startIndex": 8565,
+          "endIndex": 8679,
+          "text": "これにより、2026年の年間累計値上げ品目数は2万品目を突破（2万327品目）しています"
         },
         "groundingChunkIndices": [
-          16,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8467,
-          "endIndex": 8797,
-          "text": "一方、美濃和紙は「楮（こうぞ）」の強靭で非常に長い植物繊維を傷つけずに使用し、灰汁（アルカリ性）で煮て不純物を除き、清流（長良川・板取川）に晒して漉くため中性〜弱アルカリ性に保たれ、繊維同士が強固に絡み合って劣化しません"
-        },
-        "groundingChunkIndices": [
-          18,
-          16,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8839,
-          "endIndex": 9039,
-          "text": "奈良・東大寺の正倉院に収蔵されている日本最古の紙は、**大宝2年（702年）**の「美濃国戸籍用紙（加毛郡半布里／現在の富加町などの戸籍）」です"
-        },
-        "groundingChunkIndices": [
-          18,
           19,
-          16
+          17,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9042,
-          "endIndex": 9170,
-          "text": "実に**1320年以上前**の紙ですが、漉きムラがなく破れもせず、当時の文字が黒々と残っています"
+          "startIndex": 8682,
+          "endIndex": 8849,
+          "text": "10月のピークに比べると勢いは一服したものの、包装資材や物流費の高止まり、原材料価格の転嫁が依然として続いています"
         },
         "groundingChunkIndices": [
-          18,
-          20
+          20,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9173,
-          "endIndex": 9311,
-          "text": "当時、朝廷へ納められた諸国の戸籍用紙のなかでも美濃国の紙が最も優秀であったと記録されています"
+          "startIndex": 10320,
+          "endIndex": 10442,
+          "text": "帝国データバンク『「食品主要195社」価格改定動向調査―2026年11月』（2026年10月30日公表）"
         },
         "groundingChunkIndices": [
-          21,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9338,
-          "endIndex": 9740,
-          "text": "薄く漉かれているにもかかわらず引っ張っても破れない強靭さを持つため、現在ではルーブル美術館や大英博物館など世界の名だたる美術館で、レオナルド・ダ・ヴィンチのデッサンやレンブラントの版画といった「国宝級の西洋美術・文化財の修復用紙」として本美濃紙が指名・使用されています"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9770,
-          "endIndex": 9869,
-          "text": "江戸時代には、幕府の御用障子紙として美濃の紙が最上と定められました"
-        },
-        "groundingChunkIndices": [
-          18,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9872,
-          "endIndex": 10073,
-          "text": "その規格寸法が「美濃判（みのばん）」として全国の障子の基準サイズになり、当時は障子のこと自体を「みの」と呼ぶほど生活に定着していました"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10103,
-          "endIndex": 10158,
-          "text": "文化庁 文化遺産オンライン「本美濃紙」"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10103,
-          "endIndex": 10242,
-          "text": "文化庁 文化遺産オンライン「本美濃紙」、富加町「奈良正倉院に残る最古の戸籍（半布里戸籍）」資料"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10103,
-          "endIndex": 10281,
-          "text": "文化庁 文化遺産オンライン「本美濃紙」、富加町「奈良正倉院に残る最古の戸籍（半布里戸籍）」資料、美濃和紙の里会館歴史資料"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11069,
-          "endIndex": 11174,
-          "text": "「実はあの美しい錦鯉たち、観光用に計画して放流されたものではありません"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11177,
-          "endIndex": 11418,
-          "text": "1990年代の終わりに、近所の花苗屋さんが善意でスイレンを植えていたところ、近所の人たちが『家で飼えなくなっちゃったから』と鯉を池に持ち込んだのが始まりだったそうです"
-        },
-        "groundingChunkIndices": [
-          10,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11421,
-          "endIndex": 11586,
-          "text": "湧水が綺麗で微生物が少なく、鯉が元気に泳ぎ回ることで、まるでモネの睡蓮のような奇跡の風景が偶然生まれたんですね"
-        },
-        "groundingChunkIndices": [
-          10,
-          14,
-          11
+          18
         ]
       }
     ],
     "webSearchQueries": [
-      "雪が降ると静かになる 理由 吸音率 気象庁 科学",
-      "宿儺かぼちゃ 由来 特徴 飛騨",
-      "モネの池 透明度 理由 関市 湧水 養分",
-      "美濃和紙 正倉院 最古 戸籍 なぜ 残る 理由"
+      "帝国データバンク 食品主要195社 価格改定動向調査 2024年11月",
+      "静電気 服 組み合わせ 帯電列 東京都立産業技術研究センター",
+      "農林水産省 うちの郷土料理 岐阜県 漬物ステーキ",
+      "川上産業 プチプチ 窓 断熱 凸凹 向き"
     ]
   }
 }
