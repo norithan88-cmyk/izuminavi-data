@@ -1,291 +1,211 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "季節・趣味・ゆったりした話題",
-  "characters": 2253,
-  "estimated_minutes": 6.8,
+  "theme": "暮らしの知恵・身近な工夫",
+  "characters": 2270,
+  "estimated_minutes": 6.9,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "和泉の手延べ長そうめんは、2本の竹の棒を使って手作業でどこまで伸ばすでしょうか。1番、3メートル60センチ。2番、新幹線1両分。3番、東京タワーのてっぺんまで。",
-    "answer": "正解は1番、3メートル60センチでした！2階から吊るせる長さだに！新幹線サイズはさすがに茹でる鍋がないわ！",
+    "question": "台所のアルミホイル、表がピカピカで裏がつや消しなのはなぜでしょうか。1番、熱を反射するため。2番、薄すぎて破れるので2枚重ねで延ばしたから。3番、みおんの顔を映すため。",
+    "answer": "正解は2番！髪の毛の約7分の1の薄さまで延ばすとき、破れないよう2枚重ねて機械を通すからなんだって。外側だけピカピカになるだけで、実は裏表どっちを使っても性能に差はないんだに！",
     "source_ids": [
-      1
+      12,
+      13
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUzaL7GQldJN8hSwWCEnT37K-WJnETSUV1QMxvsCZ43lnPqNe7JBR6gnBY6cHFu-EFL4IEgke2jz-8vROqD-VcwfG5Qn28gJkaFMJ-77KS4czMU371MhMbXd3SDZO3GRA=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsU_ZxZFoEw5Nw32augx2CFMCRdcVlSuWpb-YWjpC4eeUgi32r5OQoOscdVo_ZAC5QpR_8aCkzWeAg8-TdGoWetwkShIkv2kO98YOqOlbBLj3OQG71UX1gTFpE4P0onabfzJuoz2jgdCPxAFok7CrnuYiBh1jEpw=="
     ]
   },
   "izumi": {
-    "text": "さて、やってきました『みおんの和泉ディープ』！今朝は和泉そうめんの誕生秘話に迫るよ！約250年の歴史がある和泉の手延べそうめん、実は天明の大飢饉がきっかけで生まれたって言われとるの。当時、米が育ちにくかった和泉町で、お米がだめなら小麦でいこう！ってものすごい発想の転換からそうめん作りが広まったんだって。えっ、ちょっと待って？大ピンチのときに『じゃあ麺打つか！』って切り替えるメンタルの強さ、凄すぎん？今なら完全にSNSで大バズりする事業転換じゃんね！そうやって始まった和泉そうめんは、多くの産地が冬に仕込むのに対して、なんと夏に仕込むんだわ。夏の強い日差しで乾かして、夕方から吹く三河湾の湿った南東の風で麺を半生の状態に戻す、その名も『半生もどし』！2本の竹の棒を使って手作業で3メートル60センチほどまで伸ばすから、コシの強さとなめらかでツルっとした喉ごしが生まれるんだに。間杉手延製麺所の和泉手延長そうめんなんて、3メートル以上のまま商品にした日本一長い手延べそうめんだからね！お米がないなら小麦を限界まで伸ばせばいいじゃんっていう、大ピンチを大発明に変えた和泉の先人たち、めちゃくちゃ自慢したくなるよね！",
+    "text": "和泉町が生んだスーパースター、石川丈山のコーナー！大坂夏の陣で抜け駆けの一番乗りをしちゃって浪人になった丈山さん。35歳で朱子学を学んだあとは、いろんな大名家から『うちで武士として働かん？』って、引く手あまたのモテモテ状態だったんだよね。今で言えば超一流エリートに転職サイトのスカウト通知が鳴り止まん感じ！でも丈山さん、『自分の志に反するわ』って全部バッサリ断り続けとったの。どんだけ頑固なんって話じゃんね。ところが！そんなツンツンだった丈山さんが、コロッと態度を変えた相手が、なんとお母さん！年老いたお母さんに親孝行するためならと、あっさり浅野家に仕えて広島でなんと13年間も過ごしたんだに！あんなに『俺のポリシーに合わん』って突っぱねとったのに、お母さんのためなら13年もきっちりサラリーマン生活を送るって、ギャップがすごすぎん？お母さんへの愛が深すぎるだら！武士の意地よりも、自分のこだわりよりも、親への感謝を一番大切にした丈山さん。お母さんが亡くなったらサッと京都へ戻っちゃう引き際の良さも含めて、めちゃくちゃカッコいいじゃんね。自分の信念を貫きつつ家族をとことん大事にするその生き方、和泉の誇りとして自慢したくなっちゃうよね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "somen-origin",
-      "hook": "天明の大飢饉から生まれた。米がだめなら小麦でいこう、の発想"
+      "id": "jozan-mother",
+      "hook": "仕官の誘いは断り続けたのに、お母さんのためなら広島で13年。親孝行エピソード"
     }
   },
   "local": {
-    "text": "音楽の秋を楽しみたい人にぴったりの話題だよ。11月22日に、市民公募文化事業『第19回ビッグ・ラバーズ・オーケストラ定期演奏会』が予定されとるよ！生の楽器の響きをゆったり味わえる絶好の機会じゃんね。芸術の秋のお出かけに、カレンダーをチェックしてみてりん！",
+    "text": "ここでちょっと、和泉のまちの話。明日11月10日は、安城市公式の『あんじょう健康大学 第3講』が開催されるよ。さらに今週末の11月14日土曜日には『中部公民館ふれあいウォーキング』や『あんじょう健康大学 第4講』も予定されとるんだって。寒さに負けず元気に体を動かしていこまい！",
     "source_ids": [
-      35
+      22,
+      23,
+      24
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/tanoshimu/bunka/koubojigyou/2026blo19.html"
+      "https://www.city.anjo.aichi.jp/event/202611kenkodaigaku3.html",
+      "https://www.city.anjo.aichi.jp/event/202611114kenkodaigaku.html",
+      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
     ]
   },
   "segments": [
     {
-      "topic": "モミジとイチョウで起きている真逆の紅葉ドラマ",
-      "text": "そういえば、木々が綺麗に色づいてきたじゃんね。モミジの赤とイチョウの黄色、葉っぱの中で起きとることが完全に『真逆』だって知っとった？同じ紅葉なのに真逆ってどういうこと！？って叫んじゃったんだけど、これ聞いて驚いたわ！まずイチョウの黄色。あれは新しく色づいたわけじゃないの。実は春も夏も、最初っから葉っぱの中に黄色い色素『カロテノイド』がおったんだわ。夏は光合成をする緑色の色素『クロロフィル』が多すぎて隠れとっただけ！秋に緑が分解されたもんで、隠れキャラの黄色が表に出てきただけなんだって。…って、今まで素顔を隠しとっただけかい！ところがモミジの赤色は真逆！夏の間は赤い色素なんて葉の中に一切存在せんのだに。枯れ落ちる直前の葉が、エネルギーを使ってわざわざ新しく赤色を作り出しとるんだわ！なんでそんな面倒なことをするのん？実は木は葉が落ちる前に、中の大事な栄養を枝に回収しとるの。でも衰えた葉に強い直射日光が当たると、有害な活性酸素が出て栄養を回収しきる前に葉が落ちちゃうんだって。だからモミジは、赤い日傘、いわばサングラスを急いで手作りして、光から身を守りながら栄養を集めとるんだわ！最低気温が8度を下回ると色づきの準備が進むらしいよ。イチョウはお片付け、モミジは必死のサングラス作り！今度見たら『お疲れ様！』って声かけりんね！",
+      "topic": "葉物野菜を爪楊枝で眠らせる家計のやりくり術",
+      "text": "11月に入っても食品の値上げが止まらんじゃんね。帝国データバンクの調査によると、今月だけで1477品目も値上がりしとるんだって！前年と比べても高水準が続いとるもんで、キャベツや白菜みたいな葉物野菜は最後の1枚まで無駄なく使い切りたいよね。そこで今すぐ試してほしいのが、野菜をまるごと冬眠させちゃう裏技！やり方は超簡単で、キャベツの芯のところに爪楊枝を三角形を描くように3本、深さ1〜2センチくらいブスッと刺すだけ。えっ、野菜を傷つけたら痛んで腐っちゃうんじゃないの？って思うじゃん。実は野菜って、収穫された後も『自分、まだまだ大きくなりますんで！』って芯にある成長点に向かって、葉っぱの糖分や水分を吸い上げ続けとるんだって。だから爪楊枝を刺してその成長点を物理的にストップさせてあげると、野菜が『あ、もう成長しなくていいのね』ってお休みモード、いわば冬眠状態に入ってくれるわけ。普通に冷蔵庫へ入れたら1週間でしなびちゃうキャベツが、芯を止めてポリ袋に入れるだけで約3倍以上の3〜4週間もシャキシャキのまんま保てるんだに！刺すだけで長持ちするなんて、爪楊枝3本のコスパ最強すぎん？爪楊枝、うちには手がないもんで刺せんのだけど…って誰がAIの手先の不器用さを心配しろと言った！みんなはぜひ台所で試してみてりん！",
       "source_ids": [
         2,
-        3,
-        4,
-        5
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOQ4dLa7OvY3wwPz_e01O0Ra5yi0aJywvkRmMfryT3q_DTB_fr_o80yvd8PvD9MwuuXSF9O8NOA2gFTcOfEo9cG70M3HgDv4Eb0nzwPBNdSOlPCmc1heDYidRjW9zrfA=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtJ6f9PZ4f21yNpZWZsQWAxuUC00m7tNY3O6WmG6fbQ4d741dQN6j0GqrL7chbnrsZ4nt8LIHhWqSsGmGbGw67I0s0yLFnczYNqEYUd_PL67HCwIgYODzpLSgOHs=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQRZW2Sb3V5c-pjeOBVMMSrDi5OSgHt6UsRxmXiesQw6AvuQrF5B0z0TO7pu4uACn9bRZonY4xgSV6whSQqoUk_X8vUjXG_eRt1-QR82TnBaXxM401Z-E_pyE10jmdpwoH2cfGe2mG0w==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGcZx5rwpqtRLglS8tUtqpts6ptYbG8F6nqVB6tok9h6mvvpXdc8py-icr6Pqnu4SE47dWinQGgoYtwe3IR14aIaloKbD5EwhTWiALqVbnO91wZ6iifVitzj23P9u_0Yw-haTz5DzEZcOT2Judd0rJ0Da"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlEHtAbz50Xj-r2BuVZpAbOCXQiv9SxJ__VxctRCssa2EYhRAbtNWHc48G7CieWcD5XStfLOJlIfgZDf5NZpaV7dgz01LMrG0NuhTEvRE8wuZXEptqsXSu2iETC4utRCwSj2rjAIxtVj6iDfqgBJyJwmzqK9RuT_VRTxtFJqrmeXDyoVWsrk5ZMtgiWhIRwlPHaA8OYmM6RPkJ39U8yXHuAJPhx6_7zjlzUV-04IJ4sygW5MdEKev_kGo2agggMDrRynGCXcgwaS9Y7e7wOPSIZ7pjoAjS2fftYEECkv-v-g0lcq6PGg6uXj1MQfQpz0mbT6fPrX56ea8-NGvMltoKioCPvrG-zz3jrbQm5dk6lCb6r3L7PMcqkBYy2dP8Hp5aNant",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEOXosdY0c-yE_bGQVn0h4TkHprM70fCugcqmQ0wtunTehDeg6IUHIiUsqaUTU-A5Fk_CoHApVQKmKuH7F-WxJbZFmZ2t7xyA2q4epwmYRJrDwXuiY64MvP4P7ktKM0LNykpEU-cP6vA=="
       ]
     },
     {
-      "topic": "三味線職人が独学で作った日本初バイオリンの奇跡",
-      "text": "木々の話が出たついでに、木を削って世界を驚かせた愛知のすごい職人さんの話、聞いてみん？優雅なクラシック音楽のバイオリン。実は、日本で初めて量産化して世界トップシェアを握ったメーカーのふるさとって、愛知県なんだわ！今はお隣の大府市に工房がある『鈴木バイオリン製造』なんだけど、始まりが信じられんくらい破天荒なの！創業者の鈴木政吉さんは、もともと三味線職人だったんだって。明治20年に知人が持っとった西洋のバイオリンを見て、一瞬で心を奪われちゃったらしいの。ここからが凄くて、三味線作りをすっぱり辞めて、バイオリンを一晩だけ借りて徹夜で寸法をメモ！道具も作り方も分からん状態から、たった1週間で独学の第1号バイオリンを削り出しちゃったんだに！…いや、行動力ありすぎでしょ！みおんなら説明書を3日眺めて終わるわ！しかも政吉さん、『良いものを安くたくさんの子どもたちへ』って、専用の木工機械まで自分で考案したの。最盛期には従業員1000人以上、毎日500本、年間10万本以上も世界へ輸出しとったんだって！さらに日本に来たあの物理学者アインシュタイン博士にバイオリンを贈ったら、音色を絶賛する自筆の礼状まで届いたんだわ！三味線職人の情熱がアインシュタインまで届くなんて夢があるじゃんね！音楽室で見かけたら愛知の職人魂を思い出して自慢しりんね！",
+      "topic": "羽毛布団と毛布の重ね順で暖かさが激変する秘密",
+      "text": "そういえば、朝晩の冷え込みが厳しくなってきて、朝お布団から出るのがえらい季節になってきたよね。ところでみんな、寝るときに羽毛布団と毛布、どっちを体の上にしとる？良かれと思って『肌触りがいいから毛布を一番下にして、その上に羽毛布団！』って重ねとる人、いませんか。寝具の西川によると、アクリルやポリエステルみたいな化学繊維の毛布を使う場合、実は『羽毛布団が下で、毛布が上』が正解なんだって！えーっ、毛布を上に乗せるの！？ってびっくりするよね。羽毛布団って、人の体温が直接羽毛に伝わることでふわーっと膨らんで、空気の断熱ベッドを作って熱を閉じ込める仕組みなんだわ。体と羽毛の間に化学繊維の毛布を挟んじゃうと、せっかくの体温が遮断されて羽毛が十分に温まらんの。逆に羽毛布団の上に毛布を掛けると、温まった空気のフタになって熱が逃げんくなるんだに！実験でも、毛布を上に掛けた方が布団の中の温度が約1.6度も高くなって、温まるスピードも段違いだったらしいよ。昭和の綿布団は重くて隙間風が入るもんで毛布を下にするのが常識だったけど、羽毛布団では順番が真逆になったんだって。ただし、ウールや綿みたいな天然素材の毛布なら下でもオッケーらしいよ。今夜寝るとき、お布団の順番をくるっと入れ替えてみてりん！",
       "source_ids": [
-        23,
-        24,
-        25,
-        26,
-        27,
-        28
+        5,
+        6,
+        8
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJEI_tjKgfDBLSthgAjgB6HqIElInrmBAwXpAFQBXklmXk1KbPeBGiVkgLkcSlmVEQJjE9j7gxw6ks2sOWPJjdKSV5b2LPaqJkYXvCDgWs_L6sYlW-YCNkiXKWp3SQV3Jjd_Q3rNySrFsC7Lsc2qGMBmFZDoVoAVuVmgj9",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZZm0pHIeQ1wuOIBHzxGITAjLBv6kQVwichBn9CPmcVnBhelHnPG5QQfB7qkcKrvi7TmJpsncqSme22-VU_m4E8f2caraERTvL5noSKs9mfGz4hBgtnfRMdrM963xsw3xPD6pZfr8VVKmt3AJcL2HeqqwGHXyzw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDE-JKA917F5JKl312cuXWmfRY9jiAp1kgvGZ9LVSgSI1WLquuUK-bqq_ScE7UvSGjpuaPLbun2E6qqhxqSH7ZNli7PXFqcBd1j72fqH0LeQwwpdzQeSNYPbE-Ge8j8bs9ucb9VUfCYw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4kUs9qnGUEzK86dPIi7NY7uZWYVf9LZ0Y6J8mGm17iejhVrdR5wonBG4ZBk8wJi9menvvIdzooehpzaIvV1Rw9TM5agb06cIatFSDYmSA-d6U5z-MVqo6kTAkHmL_6Qd1umzsVfcsLtUXPc9gaH8RTSWmMmwg8aM=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUbFqwCtVLpeAi4bVnpJl3T9Cs2Rz8gcUrrXmN_uMTU-FoPW8zkpmvgeHMAdrFk0sBXaPNTekvUamA7CgmD5fW22oNISBvrwf0NzmC34fGryr_x9FK1l-AGAkwLq293AiJZwJWpZtzVTLSCWwvz8K5UC2tAoBQZ3Yobegn9XovqG8N_U=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-FRMkNfaXG0M5TZ-_8irMcuIdEsJLUinCz62qhIluM3408GAIMdnzH19xW4ICxRTepl6Hr2S8WzTmc_ip41kll6e8WycWfmb5HdHDXqC9G-zkVWSQb3AAXIVNbBvmDcoOcv1CBqj5aJU3fHhpx4lL6VmG9giQg=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QAhqNcQycdJCiPBbC6t-AWtMc8MD8OmRCukCsfW55dQceIUN67aNlie_zUTeKEWBFVgVRVPWxU5pk8qixbdTIUFXtzipcJRS6yHU5ggIP7BRAS3uBj_fe6P-vXHP8t6lOFk_kT81GVCXyFwt5-8=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5oa8XCIvRozI0B3GbB411GU1z4gomF5qWweA_lK_T9lKpdk0MvOCAbvbvY-w-KfVcyuoz6NmD-1g_fuCx7ipvDGi0HK5M4TcuFcfhtUbcZ77aPjsCIa2Kbh1ocjOqV9M=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXwLS9nWTlPYxO50B9FF9_ZG0CmhosT73JPloSrnOn6H6KQFUWh1aco5FWiwRXtNtJaMop-VbGqhHKNK77fk1uXpy8LtaPXd6_PvjiWcHTj1QcicCgXSxUO_K6ZaMvpV4VEkWU"
       ]
     }
   ],
-  "research": "安城市和泉町向けの地域ラジオ番組で活用できる、11月8日の晩秋にぴったりの「季節・趣味・ゆったりした話題」の調査メモを作成しました。家族や近所の方に話したくなる「へえ、そうだったのか！」という驚きや裏話を中心にまとめています。\n\n---\n\n# ラジオ放送用調査メモ（2026年11月8日放送向け）\n\n---\n\n### 話題1：【季節・自然】\n**「モミジとイチョウ、同じ紅葉なのに葉の中で起きていることは『真逆』だった？」**\n\n* **家族に話したくなる疑問**  \n  秋になるとイチョウは鮮やかな黄色になり、モミジは真っ赤に染まります。どちらも「葉が色づく」現象ですが、実は葉の中で起きている仕組みが全く逆であることをご存じでしょうか。\n* **理由と意外な点**  \n  イチョウの黄色は、もともと春や夏から葉の中にあった黄色い色素「カロテノイド」です。夏の間は光合成を行う緑色の色素「クロロフィル」の量が圧倒的に多いため緑に見えますが、秋になってクロロフィルが分解されると、隠れていた黄色が表に現れます。  \n  一方、モミジの赤色（アントシアニン）は、夏の間は葉の中に一切存在しません。秋になり、もうすぐ枯れ落ちる直前の葉が「わざわざエネルギーを使って新しく作り出している」のです。\n* **なぜわざわざ赤くするのか？（科学の裏話と数字）**  \n  落葉樹は冬を迎える前に、葉に残された貴重な窒素などの栄養分を分解して幹や枝へ回収します。しかし、葉が衰えていく時期に秋の強い直射日光を浴びると、光を処理しきれずに有害な「活性酸素」が発生し、栄養の回収が終わる前に葉が傷んで落ちてしまいます。  \n  そこでカエデなどは、光を遮る「日傘（サングラス）」のような役割を果たす赤い色素アントシアニンを急いで合成し、光の害から葉を守りながら最後まで栄養を回収していることが近年の研究で明らかになっています（国立研究開発法人森林総合研究所などの研究）。イチョウが「不要な緑を片付けてもとの色を出している」のに対し、モミジは「大切な栄養を守るために赤い盾を作っている」という違いがあります。最低気温がおよそ8℃を下回ると、この色づきの準備が一気に進みます。\n* **出典・根拠**  \n  * 国立研究開発法人 森林総合研究所 研究成果「紅葉もたらす色素、デンプンに代わって糖上昇抑え早期落葉回避」（2024年）\n  * ウェザーニュース 専門家解説（森林総合研究所 樹木生理研究室 北尾光俊氏インタビュー）\n\n---\n\n### 話題2：【西三河・食と歴史】\n**「なぜ海辺の町が日本一に？三河一色うなぎを育てた『専用水道』と台風の歴史」**\n\n* **家族に話したくなる疑問**  \n  安城のお隣、西尾市一色町といえば全国に名を馳せる「一色産うなぎ」の産地です。しかし、川魚であるウナギの養殖が、なぜ海に面した一色町で全国トップクラスの規模になったのでしょうか？\n* **理由と具体的な数字**  \n  西尾市（旧一色町）は、市町村単位での養殖ウナギ生産量が昭和58年から現在まで全国第1位を誇り、国産ウナギのおよそ5尾に1尾（全国シェア約20％、愛知県内の約7〜8割）が一色町で育てられています。\n* **歴史の裏話と意外な点**  \n  一色町の養鰻（ようまん）の始まりは明治時代（1904年・明治37年頃）にさかのぼります。もともと矢作川の河口デルタ地帯には広大な「塩田」が広がっていました。塩分が強く米作りに適さない土地の活用法として、塩分に強いウナギの養殖池が作られたのがきっかけです。  \n  さらに決定打となったのが、昭和34年（1959年）の伊勢湾台風でした。甚大な塩害を受けた農地を養殖池へと転換する動きが進み、昭和36〜38年には全国でも唯一となる「養鰻専用水道」を町に敷設しました。地下水ではなく、矢作川水系の清らかな河川水を直接養殖池へ引き込む大工事を行ったことで、ウナギが天然河川に近いストレスのない環境で育ち、良質な脂と柔らかな皮を持つブランドへと急成長を遂げました。\n* **出典・根拠**  \n  * 西尾市公式ウェブサイト「全国トップクラスの一色産うなぎ」\n  * 一色うなぎ漁業協同組合「うなぎの歴史と生産量」\n  * 国土交通省 豊橋河川事務所「なんでも水循環！矢作川の恵みとうなぎ」\n\n---\n\n### 話題3：【愛知・ゆったり喫茶文化】\n**「愛知の喫茶店モーニング、誕生の引き金は工場の『すさまじい騒音』だった？」**\n\n* **家族に話したくなる疑問**  \n  朝、喫茶店でコーヒーを頼むと、トーストやゆで卵が無料でついてくる愛知名物「モーニングサービス」。今ではゆったり過ごす朝の定番ですが、なぜドリンク1杯の値段でこれほど豪華なサービスを付ける文化が生まれたのでしょうか？\n* **意外な理由と歴史の裏話**  \n  発祥地とされる愛知県一宮市は、昭和30年代に繊維産業の全盛期を迎え、「織機をガチャンと動かせば万の金が儲かる」という意味で「ガチャマン景気」と呼ばれていました。  \n  全国から多くの商談客が訪れましたが、当時の工場内は無数の機織り機がガチャンガチャンと凄まじい音を立てており、社内の応接室では大声を出しても会話が聞き取れませんでした。そこで機屋の社長たちは、取引先を連れて近所の喫茶店へ行き、喫茶店を「応接室や会議室代わり」にして商談を行っていました。\n* **サービス誕生の瞬間**  \n  1日に朝・昼・夕と何度も商談で足を運んでくれる機屋の常連客に対して、昭和31年（1956年）頃、ある喫茶店の店主が「いつも来てくれてありがとう」という感謝と労いの気持ちから、コーヒーにゆで卵とピーナッツを無料で添えて出したのが始まりとされています。集客のための値下げ競争ではなく、地場産業を支える職人さんたちへの「おもてなしの心」から生まれた文化でした。\n* **出典・根拠**  \n  * 一宮商工会議所・一宮モーニング協議会 資料\n  * 名古屋市・愛知県の喫茶文化史（大竹敏之氏の研究・CBCテレビ解説）\n\n---\n\n### 話題4：【趣味・音楽とものづくり】\n**「日本初のバイオリンは愛知生まれ！三味線職人の独学とアインシュタインの礼状」**\n\n* **家族に話したくなる疑問**  \n  優雅なクラシック音楽を奏でるバイオリン。日本で初めて量産化され、世界のトップシェアを握った国産バイオリンのふるさとが、西三河のお隣・大府市や名古屋などの愛知県にあることをご存じでしょうか。\n* **意外な点と歴史の裏話**  \n  日本初の弦楽器メーカー「鈴木バイオリン製造」（創業1887年・現在は大府市に本社工房）の創業者・鈴木政吉（すずき・まさきち）は、もともと尾張藩の下級武士の家に生まれた三味線職人でした。  \n  明治20年、知人が持っていた西洋のバイオリンを目にして一瞬で魅了された政吉は、三味線作りをすっぱり辞めることを決意します。現物をたった一夜だけ借りて徹夜で各部の寸法を書き写し、道具も作り方も分からない状態から、わずか1週間で独学の第1号バイオリンを削り出しました。\n* **驚きの数字と世界的エピソード**  \n  政吉は「良いものを安く多くの子どもたちへ」と専用の木工機械を自ら考案し、最盛期には従業員1,000人以上、毎日500本、年間10万本以上のバイオリンを世界中へ輸出する世界的メーカーへと育て上げました。  \n  その音色の美しさは世界に響き、来日したあの物理学者アルバート・アインシュタイン博士へ政吉作のバイオリンが贈呈された際には、アインシュタイン本人からその精巧さと音色を絶賛する自筆の礼状が届きました（礼状は大府市歴史民俗資料館等に関連展示）。日本の学校教育用バイオリンの礎は、愛知の職人魂から築かれたものでした。\n* **出典・根拠**  \n  * 大府市公式ウェブサイト「鈴木政吉像」および大府市歴史民俗資料館展示解説\n  * 大府市観光協会「鈴木バイオリン製造の歴史」\n\n---\n\n## 番組で使える3択リスナー温まりクイズ\n\n**【話題3・愛知の喫茶店モーニングより】**\n\n* **問題**  \n  「愛知県で喫茶店の『モーニングサービス』が生まれたきっかけには、昭和30年代の一宮市などの工場が抱えていたある悩みが関係していました。その悩みとは次のうちどれでしょう？」\n  * ① 従業員が朝寝坊ばかりして朝食を作る時間がなかった\n  * ② 機織り機（はたおりき）の音がうるさすぎて社内で商談ができなかった\n  * ③ 休憩室の水道がよく止まり、お茶を沸かせなかった\n\n* **正解**  \n  **② 機織り機の音がうるさすぎて社内で商談ができなかった**\n\n* **トーク用プチ解説**  \n  「当時の繊維工場は『ガチャマン景気』と言って、機械を動かすだけで大儲けできる大忙しの時代でした。ただ、機織り機の『ガチャンガチャン！』という音が社内に響き渡って会話ができなかったため、静かに話ができる近所の喫茶店を商談室代わりに使ったんですね。その常連さんたちへマスターが感謝を込めて卵やピーナッツをサービスしたのが、今に続くモーニングの始まりなんです」",
+  "research": "日本時間2026年11月9日、愛知県安城市和泉町周辺のリスナーの皆様に向けた地域ラジオ用の調査メモを作成しました。月曜日のテーマである「家計の知恵」をはじめ、家庭ですぐに試したくなる工夫や、お隣の西三河地域（碧南市・高浜市など）に根付く伝統的な暮らしの知恵を、公的機関や専門メーカーの公式資料をもとにまとめています。\n\n---\n\n### 1. 【家計の日】11月の食品値上げラッシュと「葉物野菜を眠らせる」家計のやりくり術\n\n* **疑問**: 今月はどれくらい値上げされる？ 調味料や食費がかさむ冬を乗り切る、身近な食材の長持ちの工夫とは？\n* **値上げの動向（帝国データバンク資料）**:\n  株式会社帝国データバンクの「『食品主要195社』価格改定動向調査（2026年11月）」によると、2026年11月の飲食料品値上げは**合計1,477品目**となりました。単月の値上げ品目数が3,000品目を下回ったのは3か月ぶりで秋の大規模な値上げラッシュは一服したものの、前年同月（143〜150品目水準）の約10倍規模に達しており、高水準が続いています。また、2026年通年の値上げ判明分は20,327品目となり、2年連続で2万品目を超えるなど家計への負担が続いています。内訳では冷凍食品などの加工食品や調味料の値上げが目立ちます。\n* **家計のやりくり豆知識（理由と科学）**:\n  冬場に価格が安定しやすいキャベツや白菜などの葉物野菜は、鍋やスープのかさ増しに重宝します。しかし、使い切る前に傷んでしまうと家計のロスになります。これを防ぐ知恵が「芯に爪楊枝を刺す（または芯をくり抜く）」という工夫です。\n  野菜は収穫後も生きており、芯にある「成長点」に外側の葉の糖分や水分を吸い上げて成長を続けようとします。爪楊枝を芯の奥（深さ約1〜2cm）に3角形を描くように3本ほど刺して成長点を物理的に破壊すると、栄養の消費活動が止まり、いわば「冬眠状態」にできます。\n* **具体的な数字と効果の比較**:\n  農林水産省や保存研究によると、そのまま冷蔵庫の野菜室に入れたキャベツは1週間ほどで外葉がしなびてビタミンや水分が失われますが、成長点を止めてポリ袋に入れると約3〜4週間近くみずみずしさとシャキシャキ感が保たれます（日持ちは約3倍以上）。\n* **意外な点**:\n  「野菜を傷つけると早く腐る」と思われがちですが、植物ホルモン（エチレン）や成長活動をコントロールする観点では、芯の生長点だけをあえて壊す方が長持ちします。\n* **歴史の裏話**:\n  かつて物流や冷蔵設備がなかった江戸〜明治時代の冬の保存法では、野菜の呼吸を抑えるために「土の中に逆さまに埋める」知恵が使われていました。根や芯の活動を抑えて休眠させる原理は、現代の冷蔵庫でも爪楊枝という身近な道具でそのまま応用されています。\n* **根拠・引用**:\n  * 帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年11月』（2026年10月30日公表）\n  * 農林水産省「野菜の保存方法（キャベツ・白菜の生長点抑制）」\n\n---\n\n### 2. 【暮らしの暖房節約】羽毛布団と毛布、どっちを上にするのが本当に暖かい？\n\n* **疑問**: 寒くなってきた今の時期、羽毛布団と毛布は「どちらを上」にして寝るのが正解なのか？\n* **理由（科学的な仕組み）**:\n  寝具大手の西川株式会社の解説によると、一般的なアクリルやポリエステルなどの**化学繊維の毛布を使う場合、「羽毛布団が下（肌側）、毛布が上」**が正解です。\n  羽毛布団は、人の体温が羽毛（ダウン）に直接伝わることで膨らみ、空気の断熱層を作って熱を閉じ込めます。体と羽毛布団の間に毛布を挟むと熱伝導が遮断され、羽毛が十分に温まりません。毛布を羽毛布団の上に掛けることで、羽毛布団が抱え込んだ温かい空気層に「フタ」をし、熱の放出を防ぐことができます。\n* **具体的な数字と温度の比較**:\n  寝具の検証実験（室温約22℃の環境下）において、70分後の布団内部の最高温度を測定したところ、「羽毛布団の下に毛布」を入れた場合は31.4℃（9.5℃上昇）にとどまったのに対し、「羽毛布団の上に毛布」を掛けた場合は33.0℃（10.2℃上昇）に達し、約1.6℃高く、暖まるスピードも格段に早いことが確認されています。\n* **意外な点（素材による逆転現象）**:\n  「どんな毛布でも上が正解」ではありません。ウール（羊毛）や綿、カシミヤなどの**「天然繊維」の毛布は、羽毛布団の「下（肌側）」**に使うのが推奨されます。天然繊維は吸湿発熱性や放湿性に優れており、寝汗を熱に変えつつ余分な湿気を逃がすため、肌に触れる位置にある方が蒸れずにポカポカ快適に眠れます。さらに、最も保温力を高める裏技は「毛布を体の上に掛けず、敷布団の上に敷く（下からの底冷えを防ぐ）」ことです。\n* **歴史の裏話**:\n  かつて日本の主流だった綿（木綿）の掛け布団は、重くて体に密着しにくく隙間風が入りやすかったため、「肌に直接毛布を掛けて隙間を埋める」のが昭和の常識でした。昭和後期から軽くて体温で膨らむ羽毛布団が一般家庭に普及したことで、重ねる順番の物理的な正解が180度逆転したという経緯があります。\n* **根拠・引用**:\n  * 西川株式会社「みんなの眠ラボ：毛布は、羽毛布団の上下どちらに掛けるのがおすすめ？」「睡眠Q&A」\n  * 昭和西川公式解説（羽毛布団と毛布の保温構造）\n\n---\n\n### 3. 【キッチンの謎】アルミホイルのピカピカ面とつや消し面、どっちが表？（クイズ対象）\n\n* **疑問**: アルミホイルにはツヤツヤと光る面と、曇ったマットな面があるが、どちらを表にして食材を包むべきなのか？\n* **理由（製造の仕組み）**:\n  家庭用アルミ箔トップメーカーの東洋アルミ（東洋アルミニウム株式会社）公式回答によると、**「裏表はなく、どちらの面を使っても機能・熱伝導に差はない」**というのが真実です。\n  見た目が異なる理由は製造工程の都合です。アルミ箔は非常に薄く、1枚だけでローラーを通すと千切れてしまいます。そのため、製造の最終工程で「2枚重ねて」ローラーで一気に押し延ば（圧延）します。このとき、ピカピカに磨かれた鉄製ローラーに接触した外側の面は鏡のように光沢面になり、アルミ同士が向かい合って擦れ合った内側の面は細かい凹凸ができて光を乱反射する「つや消し（マット）面」になります。\n* **具体的な数字と厚さの比較**:\n  一般的な家庭用アルミホイルの厚さは、わずか**約11〜12マイクロメートル（0.011〜0.012ミリ）**です。これは人間の髪の毛（平均約0.08ミリ）の約7分の1という極薄サイズです。この薄さを高速機械で破らずに均一に伸ばすために、2枚重ねの手法が不可欠となっています。\n* **意外な点**:\n  「光っている方が熱を反射するから食品側」「曇っている方がくっつきにくい」といった様々な都市伝説がありますが、純アルミニウムとしての熱伝導率や食品への影響は両面まったく同じです（※片面にシリコーン加工されたフライパン用ホイルなど、特殊加工品を除く）。\n* **歴史の裏話**:\n  20世紀初頭まで、薄い金属箔といえば「スズ（錫）箔」が使われていました。しかしスズは食材に独特の金属臭や味を移してしまう難点がありました。1910年にスイスでアルミ箔の量産が成功し、「無臭で食品の風味を一切邪魔しない夢の包装材」として一気に世界中の台所を席巻しました。\n* **根拠・引用**:\n  * 東洋アルミニウム株式会社「アルミホイルQ&A①～アルミホイルの裏表はあるの？」\n  * 一般社団法人日本アルミニウム協会「アルミ箔の製造工程」\n\n---\n\n#### 【番組用 3択リスナープレゼントクイズ】\n* **問題**:\n  「お料理でよく使うアルミホイル。表がピカピカ、裏がつや消しのマットになっていますが、なぜ両面の見た目が違うのでしょう？」\n* **選択肢**:\n  1. 熱を吸収する面と反射する面で使い分けるため\n  2. 薄すぎて破れてしまうため、2枚重ねてローラーで延ばしたから\n  3. 表と裏を区別して、食品がくっつくのを防ぐ目印にするため\n* **正解**: **2番**\n* **解説トーク**:\n  正解は2番！実はアルミホイルに表裏の性能差はなく、どちらを使っても同じなんです。髪の毛の約7分の1という薄さまで延ばすとき、1枚だと破れてしまうため「2枚重ね」にして機械を通します。そのときローラーに触れた外側がピカピカ、重なり合った内側が曇りガラスのようになって出てくる製造上の理由だったんですね。\n\n---\n\n### 4. 【西三河の知恵】お隣・碧南市で作られる「三河焼七輪」が二重構造の理由\n\n* **疑問**: お隣の碧南市や高浜市などで作られる伝統の「三河焼（三河七輪・黒七輪）」は、なぜ外側と内側が違う土で作られているのか？\n* **理由（二重構造の科学）**:\n  愛知県碧南市・高浜市周辺は、良質な「三河粘土」を産出する日本有数の窯業地帯です。この地域の伝統的な七輪は、**「外側＝三河土（粘土）」と「内側＝能登の珪藻土（けいそうど）」を組み合わせた特殊な二重構造**で作られています。\n  珪藻土は植物性プランクトンの化石からなる多孔質素材で、熱伝導率が極めて低く、加熱されると強い赤外線を放つため、少ない木炭で効率よく食材を中までふっくら焼き上げる理想の素材です。しかし珪藻土は水や衝撃に弱く、割れやすい欠点があります。そこで外側に三州瓦の技術を応用した頑丈で水・熱に強い「三河土」を焼き合わせることで、驚異的な断熱性と耐久性を両立させました。\n* **具体的な数字と歴史の規模**:\n  愛知県の公式資料等によると、江戸末期の天保年間（1830〜1844年）に長州から移住した岡本銀造が碧南の新川地区で七輪やこんろの製造を始めたのが三河焼の起源です。昭和初期には碧南・高浜周辺に**156軒もの陶土器工場**が存在し、石川県や香川県と並んで「七輪の日本三大産地」として全国の家庭の台所や暖房を支えました。\n* **意外な点**:\n  七輪の故障原因で最も多いのは「空気口（風穴）」です。一般的な安価な七輪はここが金属板で作られており、炭の熱や湿気ですぐに錆びたり外れたりします。しかし三河の伝統的な黒七輪は、**空気口まで職人が手作業で「三河の土」をくり抜いて土製で作っている**ため、金属のように錆びることがなく、親から子へと何十年も使い続けられる耐久性を誇ります。\n* **歴史の裏話**:\n  碧南市が七輪の一大産地になった背景には、西三河の物流がありました。矢作川の河口に位置し、船による海上輸送が容易だったため、北陸（能登・七尾）から珪藻土を船で三河へ運び入れ、地元の三河土と融合させて完成品を全国へ出荷するという、海運と職人技のハイブリッドによって生まれた地域の知恵でした。\n* **根拠・引用**:\n  * 愛知県 産業労働部 産業振興課「三河焼について（沿革・特徴）」\n  * 三河陶器協同組合 資料（碧南市・高浜市におけるコンロ・七輪の歴史と構造）\n  * 碧南市指定伝統工房（杉松製陶・亀島製陶所）三河黒七輪の二重構造解説",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%B9%E3%82%BA%E3%82%AD%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AA%E3%83%B3+%E9%88%B4%E6%9C%A8%E6%94%BF%E5%90%89+%E5%A4%A7%E5%BA%9C%E5%B8%82+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">スズキバイオリン 鈴木政吉 大府市 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C+%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0+%E7%99%BA%E7%A5%A5+%E6%A9%9F%E7%B9%94%E3%82%8A+%E9%A8%92%E9%9F%B3&client=app-vertex-grounding&safesearch=active\">愛知県 モーニング 発祥 機織り 騒音</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%B4%85%E8%91%89+%E3%81%AA%E3%81%9C+%E8%B5%A4%E3%81%84+%E9%BB%84%E8%89%B2+%E3%82%A2%E3%83%B3%E3%83%88%E3%82%B7%E3%82%A2%E3%83%8B%E3%83%B3+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80&client=app-vertex-grounding&safesearch=active\">紅葉 なぜ 赤い 黄色 アントシアニン 森林総合研究所</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%80%E8%89%B2+%E9%B0%BB+%E9%A4%8A%E6%AE%96+%E6%AD%B4%E5%8F%B2+%E6%98%8E%E6%B2%BB+%E5%A1%A9%E7%94%B0+%E7%9F%A2%E4%BD%9C%E5%B7%9D&client=app-vertex-grounding&safesearch=active\">一色 鰻 養殖 歴史 明治 塩田 矢作川</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A2%E3%83%AB%E3%83%9F%E3%83%9B%E3%82%A4%E3%83%AB+%E8%A1%A8%E8%A3%8F+%E9%81%95%E3%81%84+%E6%9D%B1%E6%B4%8B%E3%82%A2%E3%83%AB%E3%83%9F+%E7%90%86%E7%94%B1+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">アルミホイル 表裏 違い 東洋アルミ 理由 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81195%E7%A4%BE+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91+11%E6%9C%88&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要195社 価格改定動向 11月</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%BE%BD%E6%AF%9B%E5%B8%83%E5%9B%A3+%E6%AF%9B%E5%B8%83+%E9%A0%86%E7%95%AA+%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%8C%E4%B8%8A+%E8%A5%BF%E5%B7%9D+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">羽毛布団 毛布 順番 どっちが上 西川 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3+%E4%B8%83%E8%BC%AA+%E4%BA%8C%E9%87%8D%E6%A7%8B%E9%80%A0+%E7%8F%AA%E8%97%BB%E5%9C%9F+%E7%A2%A7%E5%8D%97&client=app-vertex-grounding&safesearch=active\">三河 七輪 二重構造 珪藻土 碧南</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOQ4dLa7OvY3wwPz_e01O0Ra5yi0aJywvkRmMfryT3q_DTB_fr_o80yvd8PvD9MwuuXSF9O8NOA2gFTcOfEo9cG70M3HgDv4Eb0nzwPBNdSOlPCmc1heDYidRjW9zrfA=",
-          "title": "weathernews.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlEHtAbz50Xj-r2BuVZpAbOCXQiv9SxJ__VxctRCssa2EYhRAbtNWHc48G7CieWcD5XStfLOJlIfgZDf5NZpaV7dgz01LMrG0NuhTEvRE8wuZXEptqsXSu2iETC4utRCwSj2rjAIxtVj6iDfqgBJyJwmzqK9RuT_VRTxtFJqrmeXDyoVWsrk5ZMtgiWhIRwlPHaA8OYmM6RPkJ39U8yXHuAJPhx6_7zjlzUV-04IJ4sygW5MdEKev_kGo2agggMDrRynGCXcgwaS9Y7e7wOPSIZ7pjoAjS2fftYEECkv-v-g0lcq6PGg6uXj1MQfQpz0mbT6fPrX56ea8-NGvMltoKioCPvrG-zz3jrbQm5dk6lCb6r3L7PMcqkBYy2dP8Hp5aNant",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtJ6f9PZ4f21yNpZWZsQWAxuUC00m7tNY3O6WmG6fbQ4d741dQN6j0GqrL7chbnrsZ4nt8LIHhWqSsGmGbGw67I0s0yLFnczYNqEYUd_PL67HCwIgYODzpLSgOHs=",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG1apWrkc0MlUkm6ug0HeKP4rJ45cpsZfFdbXib60i-25OdQcWvxdz-_kjnFNe8cQygstQfSEzkKozSIYFaEMYTIhGKqXypmzgu5nWz7ng_EqSweBMv8pMgG5Z9mV5dqiBHm0IVsG5252keIr1FAml",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQRZW2Sb3V5c-pjeOBVMMSrDi5OSgHt6UsRxmXiesQw6AvuQrF5B0z0TO7pu4uACn9bRZonY4xgSV6whSQqoUk_X8vUjXG_eRt1-QR82TnBaXxM401Z-E_pyE10jmdpwoH2cfGe2mG0w==",
-          "title": "shinrin-ringyou.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATlZYGCZz2PM52SKDHiJVCCPKe9KSMFj58lOjauiOXfuGVZHEvTp4JCRDLXstwY8lod5NXru7JhYteio0aXeFFEZScII8A0i-ey_9rKj1RXYz0imgco1nQ3iiRl7R5qkXT3GDxXGwnJext2BbD6Yg",
+          "title": "tdb.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpGcZx5rwpqtRLglS8tUtqpts6ptYbG8F6nqVB6tok9h6mvvpXdc8py-icr6Pqnu4SE47dWinQGgoYtwe3IR14aIaloKbD5EwhTWiALqVbnO91wZ6iifVitzj23P9u_0Yw-haTz5DzEZcOT2Judd0rJ0Da",
-          "title": "ffpri.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2QAhqNcQycdJCiPBbC6t-AWtMc8MD8OmRCukCsfW55dQceIUN67aNlie_zUTeKEWBFVgVRVPWxU5pk8qixbdTIUFXtzipcJRS6yHU5ggIP7BRAS3uBj_fe6P-vXHP8t6lOFk_kT81GVCXyFwt5-8=",
+          "title": "nishikawa1566.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFstNJRML-snRziHMRBHLhuvwq75sSPTtonsRoBQKqLc6kUliwHdshCgAfSB4UvNbNN7WqQws8OKEXVzb0P4Xc5N-TSCfiUByPzQNZGu8XodcczIsoMt0T9hAgNwBl-fIWeLhT64IrZ",
-          "title": "kurashi-data.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5oa8XCIvRozI0B3GbB411GU1z4gomF5qWweA_lK_T9lKpdk0MvOCAbvbvY-w-KfVcyuoz6NmD-1g_fuCx7ipvDGi0HK5M4TcuFcfhtUbcZ77aPjsCIa2Kbh1ocjOqV9M=",
+          "title": "watakyu-kaimin.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbBcQX1o-NPPJoDr5HNaW04nBEnN0alhCvyQ76xFGl34BfeV8gtHHDIeXJiqe5NW8t9kDe8A_Do8hA4HH5sY7Mlh0CmuVz6x0EmkyIuPZDqJOyAh1arwWMtgPAxkWdtLl3f1UerBrdRs4ivoGNys=",
-          "title": "mikawasuisankakou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEOXosdY0c-yE_bGQVn0h4TkHprM70fCugcqmQ0wtunTehDeg6IUHIiUsqaUTU-A5Fk_CoHApVQKmKuH7F-WxJbZFmZ2t7xyA2q4epwmYRJrDwXuiY64MvP4P7ktKM0LNykpEU-cP6vA==",
+          "title": "grapee.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQ_8JPDdh92flR8E62zowPtHbuTl9UabSsXyCQTsXrqF6dFUw2PK3gNlSCB3pG_oN0qhuf_IbuFv3nVN98t9TS8mtXcm30AbQ4Ee7-dVrBF3-tQmKG730I1HQ45NEW1w==",
-          "title": "nishiokanko.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXwLS9nWTlPYxO50B9FF9_ZG0CmhosT73JPloSrnOn6H6KQFUWh1aco5FWiwRXtNtJaMop-VbGqhHKNK77fk1uXpy8LtaPXd6_PvjiWcHTj1QcicCgXSxUO_K6ZaMvpV4VEkWU",
+          "title": "nishikawa-store.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNbYf_W4cYIXCFspZ5lVEDqcjxW-OBFUeh5EQLZWugzU_Of5wnx7gN2-OA8MVa9SAYTS9OWcvj_zkCYCwSezWA5qpNQWXE0qC3OiZQMeP87xHWG0J3qjUj-gVNRKsZpjKLdQPJjvD1RadopX0bIxNwl0e6",
-          "title": "rakuten.ne.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsh2QfHtFjxAYFEMBDGGgNaVKmjm_lupa2wJrOb0j9pks-iVHAvCGv2vx78N70XatQiY9EB_3cz0cmY1GkrTjuKqann3zCP4fDlUsQTOHaXMDG3KVJG94CQUJfK5I0PBhy",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMJYgJ701umQNMfLU_NuCxbtGPWFhBj5wZm3E5n-YQzuODJGIhXjqdJxSNbr3yWDhrWdZGT4kW0DKHrHtsglHsoYUfNhFQdWvANXMU3xdVA-gu4Jy9eJNwodSKDY3c1H56RLQB",
-          "title": "katch.ne.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmisSvmGkPmtIi7ZO_K8MgJMn0t_Ru1T0m7z3xnxqep3Lq8wRtDT72Xy25PCF1B2sdyDq7VphDEdIFhfHaKq0Opc4herQ3lJm2AXNpkRW_WkOZ7pPPldU8m5rdTwU_TLQ=",
+          "title": "bunshun.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Yw7Omb0MguHmEwR2_krtE6n8y2gClEjuvOH4_mC1_r-Kdfpy3mUutXZCy_t65rPcwrgxB4vwTFadiljYS4uRYiTRkCDwdmqOXQ95iXlNYMzX_GgLsjjR73G0OdYhFkuo9Mxd6dI=",
-          "title": "tohogas.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq_lTPQaTX_TZQ5guQxtGY_t3AOiZ8Bj9o2cEpDmw7y3hXwnBANQcmLufhLHZTqZEu591epcn0e56bMOqsU3dshg1aa34qC5E3hHCerJr4PfbbmUyQlgMKPs42QhinHylV3HSaOMtMqw==",
+          "title": "fnn.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhRSUfAeH_YrEAkXVjP-jF6RqZwTaM1MiXKV0wxUqBlxFocou2FXtT9p8vl_kKTvSoofMDx3loHrW0ln6SZ1Bp2S8fl7JPa0JQxCl8kzZOYJg9ZipS0dlPQ4piihy5tGiN",
-          "title": "sandai-japan.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUzaL7GQldJN8hSwWCEnT37K-WJnETSUV1QMxvsCZ43lnPqNe7JBR6gnBY6cHFu-EFL4IEgke2jz-8vROqD-VcwfG5Qn28gJkaFMJ-77KS4czMU371MhMbXd3SDZO3GRA=",
+          "title": "toyoalumi-ekco.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-mdzQcQTvoKFh-D6FsGCiP1qBIJALbhuuV-k-KPRHx4kUmRpgg2QbveIkgehc3knZQ_UPcBJeLhYMz0xkdULq0OP54mnmCv9nGFHJrnPRu9KWDM8E3hCMHmwbZiWoY26HzN7Bkby6MxEIiafe_bnPKN6-qC4HNI0JZSM=",
-          "title": "mlit.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsU_ZxZFoEw5Nw32augx2CFMCRdcVlSuWpb-YWjpC4eeUgi32r5OQoOscdVo_ZAC5QpR_8aCkzWeAg8-TdGoWetwkShIkv2kO98YOqOlbBLj3OQG71UX1gTFpE4P0onabfzJuoz2jgdCPxAFok7CrnuYiBh1jEpw==",
+          "title": "cucanshozai.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOfcBroOzZA-z9IXLuo2CwcBL19rRpRVOqw6GfpiH7gmB5DbOsMhe5nC8ZnDDb2pZ2sbMMGOOVApQEqqG5_A8v3uYL2x-a60IVDouJMPYSoEb714_zQH8iCxcrs609VfLJPF_gEi9pR2MFDDxGqYr5FzGIpi3Vh3KXEFV5o1g=",
-          "title": "city.nishio.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0Fa0eUfvy53RKt_oHMUH_RcarX8697tRtoY1BBG9XdaKxoqxZoQcR4o9fcA0lWPZqC67TFgjgVvnDIe9U6CeaF-PXrqTGKKe8VVfDH4aoa6LjuzQ=",
+          "title": "yomuno.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEvqzoaTgFZq92nqMVQZbRD4zzOlwGEjFNUwtUB0JHMrdlfYgQ67P2grKztyECHhhyPXC0lwCBwa93ON-lU-e-lm10q-0PwAxyfXQ28jsMZ8R_B9KAXJOxQ3Z47Cqa",
-          "title": "cbj.earth"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcHlqxIhb8bO7nr30cX-5f_6xnll1Jwy9ecOeEhTT4Q6GREXcq5zdXloBlMSVXAh8KARoFXIE5J0RWLHWMDwpKfloaYOXNLvT-o5u72eCzMVkcaAOo5dop2Pp5Nxc=",
+          "title": "a-def.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDMnTLd1gyCzcoGXxb9vp5OyEQclIDCzMwYoy5ZYfFkJW6bWL98CtolRw3joMEQUUDO54Ugy9d_P10oakfXJYGKQHV4STmrYJAMxiRJ4BlMGddeZBYPJT8IcfiZi_hJ0-zKPo0",
-          "title": "toda-ya.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFsKuPL8DHThmOCOIt5hBFLZI_0GkczhDg1Kl7yW3bw-8OBqA_s1Mkbp0ybkKfKhKkFWpH6JEtxjLbYnL1Y9CI4P-MiXm1tq0n0OGrXPrL0gKrwoRoJr_f",
+          "title": "kaneyoshi.biz"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6cjNJebQP5yl33hqQtxJX7PQSURnaVGHKfQ0m5cpy_h0Mtd6DlJRdKFhNaqRtUIlCdt1M0ZbJzwKH4h1Da41rRabAgwJf9zk-pdV8HvyEnbYHRV1Z4gVwhXu0dTV40EYscg74_aemxA==",
-          "title": "e-aidem.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUwCo1EJoer4jZ-FJ-UGNQJ5iDQ8ExA5MNTNk3kpN6vNp9lWIH4Lyu0WolXaqD2A9CDfHV3miCrkCL4Fh-8u31SVYWuhjVygy2J8_G9t--iDlc3tm7phIjrw==",
+          "title": "tokonameenkel.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpTx_QtA3wGMDORK8IQBAt-jEAj4oAPgn2yVqWvFQXntcMEev1S1rLTCM7Ddv3GCrPO51mbgFVbaPIQh5CRq7eGLH5bHkCY76NYkwUDGtSk1U2L7b_N8JaugsbebTu",
-          "title": "izumi-jp.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7G_jqk0pSDOxNZNadn4uEazpM3pUaJcEGWtmOv24so5uVvFJZAOiGfctRAht-MoxsLJsa35ooGw_ubOXdzf6b3Iu5-qABwx_lOMPqh0iGyiJTkDVpqfRU0xZ8TKHUk9SsKyH2KU5ZzTAnnFhGvjiJee_gEBr8eiqltIUQjWUjk4c=",
+          "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbbg6JgvUx4cUc1AND88WbVH57asZqDavQQaPEbkOjtFmqTa4qT2IhQYIwCV_qsgEMqMq7lkQhbCFKq2vG5OTn1XdCMKic0hkMAcHR_KZ6VjTTCXmsEj-G-cIcRYx_vPr7boHG1PSPe_XmA6k52URCTy9xPLsO",
-          "title": "hicbc.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEX-ypaX23G5PlcvBf3QHiJCdDUvz9-oZgSJNyMHWX6uZ_3Y6UajdyvQvtEr83nMKUrx8ZOYOhjYq0kxGbriUMTVE6u91bwvoZ1MWP687_OMACo_dpVpIEhweuj71AQG07B",
+          "title": "shop-pro.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuu1uDtnvZ1P5rAYTrNuA0xPXXnJSc6q7PjGkA5mve93KboJ9jthlMX6ZpkQDSK_X5mxcuRg4GJJCZP-mVNH8K-v-xLWyd6l2lSf2CzMuLKEa9cRYkcuUWvVfg4h7ZTkFImEHJBw==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2dpCkU6ZhkiJGLW5vC9yBo-gfiITks6_nApui4K3IPtu9lkAZWWnx8Y1xW5R8XquAAnA3wTd1YtEgvGAa03EYrsxhBoCTpoqqduV5pKB5kQ--Gg==",
+          "title": "e-hn.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHismMw_-DXZWtjWaxDUnVRt0cM1we0zfpCkJKTHee1JfUTEk1bvwLW30wKyS0TfAjNirgzWU_UTPuU5iZw9sDinhgL1Q64rS34DPbNsWABimqm_NP_DHg7iJDVXJgPQhP-xU8=",
-          "title": "ameba.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhNLKiDLL7TqIlJuN2YF7H9zrIv8Jq7xsENwySESI9iI4ceccfcpIa8WaOcbSPughouIhSK8nIflU64EgZx4XGs5UtJ44PZMY_yOF-VzJhGnRW4qMaZ91c0SM5Bya1XCgnjEiv8hK-",
-          "title": "homes.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJEI_tjKgfDBLSthgAjgB6HqIElInrmBAwXpAFQBXklmXk1KbPeBGiVkgLkcSlmVEQJjE9j7gxw6ks2sOWPJjdKSV5b2LPaqJkYXvCDgWs_L6sYlW-YCNkiXKWp3SQV3Jjd_Q3rNySrFsC7Lsc2qGMBmFZDoVoAVuVmgj9",
-          "title": "city.obu.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZZm0pHIeQ1wuOIBHzxGITAjLBv6kQVwichBn9CPmcVnBhelHnPG5QQfB7qkcKrvi7TmJpsncqSme22-VU_m4E8f2caraERTvL5noSKs9mfGz4hBgtnfRMdrM963xsw3xPD6pZfr8VVKmt3AJcL2HeqqwGHXyzw==",
-          "title": "obu-kankou.gr.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDE-JKA917F5JKl312cuXWmfRY9jiAp1kgvGZ9LVSgSI1WLquuUK-bqq_ScE7UvSGjpuaPLbun2E6qqhxqSH7ZNli7PXFqcBd1j72fqH0LeQwwpdzQeSNYPbE-Ge8j8bs9ucb9VUfCYw==",
-          "title": "100years-company.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4kUs9qnGUEzK86dPIi7NY7uZWYVf9LZ0Y6J8mGm17iejhVrdR5wonBG4ZBk8wJi9menvvIdzooehpzaIvV1Rw9TM5agb06cIatFSDYmSA-d6U5z-MVqo6kTAkHmL_6Qd1umzsVfcsLtUXPc9gaH8RTSWmMmwg8aM=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzUbFqwCtVLpeAi4bVnpJl3T9Cs2Rz8gcUrrXmN_uMTU-FoPW8zkpmvgeHMAdrFk0sBXaPNTekvUamA7CgmD5fW22oNISBvrwf0NzmC34fGryr_x9FK1l-AGAkwLq293AiJZwJWpZtzVTLSCWwvz8K5UC2tAoBQZ3Yobegn9XovqG8N_U=",
-          "title": "city.obu.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJ-FRMkNfaXG0M5TZ-_8irMcuIdEsJLUinCz62qhIluM3408GAIMdnzH19xW4ICxRTepl6Hr2S8WzTmc_ip41kll6e8WycWfmb5HdHDXqC9G-zkVWSQb3AAXIVNbBvmDcoOcv1CBqj5aJU3fHhpx4lL6VmG9giQg==",
-          "title": "kuruto.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBHrYO4TuFSi6UucPCUzSV0_zJzE_DkESClg7IBSTz4H3YLWmMA100Rz-9e-46w2naJ4NlDVSaUY-AGO7SbCLOTFIyIfzgsl4kSh9HZakEtivBHPctc_BlmG8JUA7gm_W7Inerbg==",
+          "title": "casabrutus.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 1021,
-          "endIndex": 1246,
-          "text": "夏の間は光合成を行う緑色の色素「クロロフィル」の量が圧倒的に多いため緑に見えますが、秋になってクロロフィルが分解されると、隠れていた黄色が表に現れます"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1254,
-          "endIndex": 1362,
-          "text": "一方、モミジの赤色（アントシアニン）は、夏の間は葉の中に一切存在しません"
-        },
-        "groundingChunkIndices": [
-          2,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1365,
-          "endIndex": 1506,
-          "text": "秋になり、もうすぐ枯れ落ちる直前の葉が「わざわざエネルギーを使って新しく作り出している」のです"
-        },
-        "groundingChunkIndices": [
-          0,
-          3,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1590,
-          "endIndex": 1719,
-          "text": "落葉樹は冬を迎える前に、葉に残された貴重な窒素などの栄養分を分解して幹や枝へ回収します"
+          "startIndex": 810,
+          "endIndex": 1014,
+          "text": "株式会社帝国データバンクの「『食品主要195社』価格改定動向調査（2026年11月）」によると、2026年11月の飲食料品値上げは**合計1,477品目**となりました"
         },
         "groundingChunkIndices": [
           0
@@ -293,31 +213,9 @@
       },
       {
         "segment": {
-          "startIndex": 1722,
-          "endIndex": 1947,
-          "text": "しかし、葉が衰えていく時期に秋の強い直射日光を浴びると、光を処理しきれずに有害な「活性酸素」が発生し、栄養の回収が終わる前に葉が傷んで落ちてしまいます"
-        },
-        "groundingChunkIndices": [
-          2,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1955,
-          "endIndex": 2315,
-          "text": "そこでカエデなどは、光を遮る「日傘（サングラス）」のような役割を果たす赤い色素アントシアニンを急いで合成し、光の害から葉を守りながら最後まで栄養を回収していることが近年の研究で明らかになっています（国立研究開発法人森林総合研究所などの研究）"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2318,
-          "endIndex": 2519,
-          "text": "イチョウが「不要な緑を片付けてもとの色を出している」のに対し、モミジは「大切な栄養を守るために赤い盾を作っている」という違いがあります"
+          "startIndex": 1017,
+          "endIndex": 1268,
+          "text": "単月の値上げ品目数が3,000品目を下回ったのは3か月ぶりで秋の大規模な値上げラッシュは一服したものの、前年同月（143〜150品目水準）の約10倍規模に達しており、高水準が続いています"
         },
         "groundingChunkIndices": [
           0,
@@ -326,39 +224,71 @@
       },
       {
         "segment": {
-          "startIndex": 2522,
-          "endIndex": 2616,
-          "text": "最低気温がおよそ8℃を下回ると、この色づきの準備が一気に進みます"
+          "startIndex": 1271,
+          "endIndex": 1421,
+          "text": "また、2026年通年の値上げ判明分は20,327品目となり、2年連続で2万品目を超えるなど家計への負担が続いています"
         },
         "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1424,
+          "endIndex": 1511,
+          "text": "内訳では冷凍食品などの加工食品や調味料の値上げが目立ちます"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3336,
+          "endIndex": 3460,
+          "text": "帝国データバンク『「食品主要195社」価格改定動向調査 ― 2026年11月』（2026年10月30日公表）"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3851,
+          "endIndex": 4071,
+          "text": "寝具大手の西川株式会社の解説によると、一般的なアクリルやポリエステルなどの**化学繊維の毛布を使う場合、「羽毛布団が下（肌側）、毛布が上」**が正解です"
+        },
+        "groundingChunkIndices": [
+          3,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 2648,
-          "endIndex": 2813,
-          "text": "国立研究開発法人 森林総合研究所 研究成果「紅葉もたらす色素、デンプンに代わって糖上昇抑え早期落葉回避」（2024年）"
+          "startIndex": 4077,
+          "endIndex": 4224,
+          "text": "羽毛布団は、人の体温が羽毛（ダウン）に直接伝わることで膨らみ、空気の断熱層を作って熱を閉じ込めます"
         },
         "groundingChunkIndices": [
-          3
+          5,
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 2818,
-          "endIndex": 2941,
-          "text": "ウェザーニュース 専門家解説（森林総合研究所 樹木生理研究室 北尾光俊氏インタビュー）"
+          "startIndex": 4227,
+          "endIndex": 4335,
+          "text": "体と羽毛布団の間に毛布を挟むと熱伝導が遮断され、羽毛が十分に温まりません"
         },
         "groundingChunkIndices": [
-          0
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 3268,
-          "endIndex": 3415,
-          "text": "しかし、川魚であるウナギの養殖が、なぜ海に面した一色町で全国トップクラスの規模になったのでしょうか"
+          "startIndex": 4338,
+          "endIndex": 4503,
+          "text": "毛布を羽毛布団の上に掛けることで、羽毛布団が抱え込んだ温かい空気層に「フタ」をし、熱の放出を防ぐことができます"
         },
         "groundingChunkIndices": [
           5,
@@ -367,106 +297,126 @@
       },
       {
         "segment": {
-          "startIndex": 3457,
-          "endIndex": 3727,
-          "text": "西尾市（旧一色町）は、市町村単位での養殖ウナギ生産量が昭和58年から現在まで全国第1位を誇り、国産ウナギのおよそ5尾に1尾（全国シェア約20％、愛知県内の約7〜8割）が一色町で育てられています"
+          "startIndex": 4553,
+          "endIndex": 4980,
+          "text": "寝具の検証実験（室温約22℃の環境下）において、70分後の布団内部の最高温度を測定したところ、「羽毛布団の下に毛布」を入れた場合は31.4℃（9.5℃上昇）にとどまったのに対し、「羽毛布団の上に毛布」を掛けた場合は33.0℃（10.2℃上昇）に達し、約1.6℃高く、暖まるスピードも格段に早いことが確認されています"
         },
         "groundingChunkIndices": [
-          7,
-          8,
-          9
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3772,
-          "endIndex": 3889,
-          "text": "一色町の養鰻（ようまん）の始まりは明治時代（1904年・明治37年頃）にさかのぼります"
+          "startIndex": 5102,
+          "endIndex": 5259,
+          "text": "ウール（羊毛）や綿、カシミヤなどの**「天然繊維」の毛布は、羽毛布団の「下（肌側）」**に使うのが推奨されます"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5262,
+          "endIndex": 5469,
+          "text": "天然繊維は吸湿発熱性や放湿性に優れており、寝汗を熱に変えつつ余分な湿気を逃がすため、肌に触れる位置にある方が蒸れずにポカポカ快適に眠れます"
+        },
+        "groundingChunkIndices": [
+          3,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5472,
+          "endIndex": 5631,
+          "text": "さらに、最も保温力を高める裏技は「毛布を体の上に掛けず、敷布団の上に敷く（下からの底冷えを防ぐ）」ことです"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6234,
+          "endIndex": 6246,
+          "text": "睡眠Q&A」"
+        },
+        "groundingChunkIndices": [
+          3,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6251,
+          "endIndex": 6317,
+          "text": "昭和西川公式解説（羽毛布団と毛布の保温構造）"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6658,
+          "endIndex": 6905,
+          "text": "家庭用アルミ箔トップメーカーの東洋アルミ（東洋アルミニウム株式会社）公式回答によると、**「裏表はなく、どちらの面を使っても機能・熱伝導に差はない」**というのが真実です"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6971,
+          "endIndex": 7068,
+          "text": "アルミ箔は非常に薄く、1枚だけでローラーを通すと千切れてしまいます"
         },
         "groundingChunkIndices": [
           10,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3892,
-          "endIndex": 3991,
-          "text": "もともと矢作川の河口デルタ地帯には広大な「塩田」が広がっていました"
-        },
-        "groundingChunkIndices": [
-          5,
           11
         ]
       },
       {
         "segment": {
-          "startIndex": 3994,
-          "endIndex": 4138,
-          "text": "塩分が強く米作りに適さない土地の活用法として、塩分に強いウナギの養殖池が作られたのがきっかけです"
+          "startIndex": 7071,
+          "endIndex": 7186,
+          "text": "そのため、製造の最終工程で「2枚重ねて」ローラーで一気に押し延ば（圧延）します"
         },
         "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4146,
-          "endIndex": 4236,
-          "text": "さらに決定打となったのが、昭和34年（1959年）の伊勢湾台風でした"
-        },
-        "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4239,
-          "endIndex": 4420,
-          "text": "甚大な塩害を受けた農地を養殖池へと転換する動きが進み、昭和36〜38年には全国でも唯一となる「養鰻専用水道」を町に敷設しました"
-        },
-        "groundingChunkIndices": [
-          7,
-          8,
+          10,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 4423,
-          "endIndex": 4708,
-          "text": "地下水ではなく、矢作川水系の清らかな河川水を直接養殖池へ引き込む大工事を行ったことで、ウナギが天然河川に近いストレスのない環境で育ち、良質な脂と柔らかな皮を持つブランドへと急成長を遂げました"
+          "startIndex": 7189,
+          "endIndex": 7480,
+          "text": "このとき、ピカピカに磨かれた鉄製ローラーに接触した外側の面は鏡のように光沢面になり、アルミ同士が向かい合って擦れ合った内側の面は細かい凹凸ができて光を乱反射する「つや消し（マット）面」になります"
         },
         "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4740,
-          "endIndex": 4824,
-          "text": "西尾市公式ウェブサイト「全国トップクラスの一色産うなぎ」"
-        },
-        "groundingChunkIndices": [
+          10,
           12
         ]
       },
       {
         "segment": {
-          "startIndex": 4829,
-          "endIndex": 4898,
-          "text": "一色うなぎ漁業協同組合「うなぎの歴史と生産量」"
+          "startIndex": 7914,
+          "endIndex": 8283,
+          "text": "「光っている方が熱を反射するから食品側」「曇っている方がくっつきにくい」といった様々な都市伝説がありますが、純アルミニウムとしての熱伝導率や食品への影響は両面まったく同じです（※片面にシリコーン加工されたフライパン用ホイルなど、特殊加工品を除く）"
         },
         "groundingChunkIndices": [
-          8
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4967,
-          "endIndex": 5000,
-          "text": "矢作川の恵みとうなぎ」"
+          "startIndex": 8312,
+          "endIndex": 8413,
+          "text": "20世紀初頭まで、薄い金属箔といえば「スズ（錫）箔」が使われていました"
         },
         "groundingChunkIndices": [
           11
@@ -474,9 +424,72 @@
       },
       {
         "segment": {
-          "startIndex": 5222,
-          "endIndex": 5363,
-          "text": "朝、喫茶店でコーヒーを頼むと、トーストやゆで卵が無料でついてくる愛知名物「モーニングサービス」"
+          "startIndex": 8416,
+          "endIndex": 8512,
+          "text": "しかしスズは食材に独特の金属臭や味を移してしまう難点がありました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8515,
+          "endIndex": 8699,
+          "text": "1910年にスイスでアルミ箔の量産が成功し、「無臭で食品の風味を一切邪魔しない夢の包装材」として一気に世界中の台所を席巻しました"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8730,
+          "endIndex": 8841,
+          "text": "東洋アルミニウム株式会社「アルミホイルQ&A①～アルミホイルの裏表はあるの？」"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9521,
+          "endIndex": 9620,
+          "text": "実はアルミホイルに表裏の性能差はなく、どちらを使っても同じなんです"
+        },
+        "groundingChunkIndices": [
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9623,
+          "endIndex": 9765,
+          "text": "髪の毛の約7分の1という薄さまで延ばすとき、1枚だと破れてしまうため「2枚重ね」にして機械を通します"
+        },
+        "groundingChunkIndices": [
+          10,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9768,
+          "endIndex": 9942,
+          "text": "そのときローラーに触れた外側がピカピカ、重なり合った内側が曇りガラスのようになって出てくる製造上の理由だったんですね"
+        },
+        "groundingChunkIndices": [
+          10,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10295,
+          "endIndex": 10412,
+          "text": "愛知県碧南市・高浜市周辺は、良質な「三河粘土」を産出する日本有数の窯業地帯です"
         },
         "groundingChunkIndices": [
           13,
@@ -485,207 +498,32 @@
       },
       {
         "segment": {
-          "startIndex": 5366,
-          "endIndex": 5538,
-          "text": "今ではゆったり過ごす朝の定番ですが、なぜドリンク1杯の値段でこれほど豪華なサービスを付ける文化が生まれたのでしょうか"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5586,
-          "endIndex": 5819,
-          "text": "発祥地とされる愛知県一宮市は、昭和30年代に繊維産業の全盛期を迎え、「織機をガチャンと動かせば万の金が儲かる」という意味で「ガチャマン景気」と呼ばれていました"
+          "startIndex": 10415,
+          "endIndex": 10617,
+          "text": "この地域の伝統的な七輪は、**「外側＝三河土（粘土）」と「内側＝能登の珪藻土（けいそうど）」を組み合わせた特殊な二重構造**で作られています"
         },
         "groundingChunkIndices": [
           15,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5827,
-          "endIndex": 6073,
-          "text": "全国から多くの商談客が訪れましたが、当時の工場内は無数の機織り機がガチャンガチャンと凄まじい音を立てており、社内の応接室では大声を出しても会話が聞き取れませんでした"
-        },
-        "groundingChunkIndices": [
-          13,
-          17,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6076,
-          "endIndex": 6250,
-          "text": "そこで機屋の社長たちは、取引先を連れて近所の喫茶店へ行き、喫茶店を「応接室や会議室代わり」にして商談を行っていました"
-        },
-        "groundingChunkIndices": [
           13,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 6292,
-          "endIndex": 6647,
-          "text": "1日に朝・昼・夕と何度も商談で足を運んでくれる機屋の常連客に対して、昭和31年（1956年）頃、ある喫茶店の店主が「いつも来てくれてありがとう」という感謝と労いの気持ちから、コーヒーにゆで卵とピーナッツを無料で添えて出したのが始まりとされています"
+          "startIndex": 10623,
+          "endIndex": 10884,
+          "text": "珪藻土は植物性プランクトンの化石からなる多孔質素材で、熱伝導率が極めて低く、加熱されると強い赤外線を放つため、少ない木炭で効率よく食材を中までふっくら焼き上げる理想の素材です"
         },
         "groundingChunkIndices": [
-          14,
-          18,
-          16
+          15,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 6650,
-          "endIndex": 6806,
-          "text": "集客のための値下げ競争ではなく、地場産業を支える職人さんたちへの「おもてなしの心」から生まれた文化でした"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6838,
-          "endIndex": 6899,
-          "text": "一宮商工会議所・一宮モーニング協議会 資料"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6904,
-          "endIndex": 6997,
-          "text": "名古屋市・愛知県の喫茶文化史（大竹敏之氏の研究・CBCテレビ解説）"
-        },
-        "groundingChunkIndices": [
-          17,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7282,
-          "endIndex": 7501,
-          "text": "日本で初めて量産化され、世界のトップシェアを握った国産バイオリンのふるさとが、西三河のお隣・大府市や名古屋などの愛知県にあることをご存じでしょうか"
-        },
-        "groundingChunkIndices": [
-          21,
-          22,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7546,
-          "endIndex": 7811,
-          "text": "日本初の弦楽器メーカー「鈴木バイオリン製造」（創業1887年・現在は大府市に本社工房）の創業者・鈴木政吉（すずき・まさきち）は、もともと尾張藩の下級武士の家に生まれた三味線職人でした"
-        },
-        "groundingChunkIndices": [
-          21,
-          24,
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7819,
-          "endIndex": 7995,
-          "text": "明治20年、知人が持っていた西洋のバイオリンを目にして一瞬で魅了された政吉は、三味線作りをすっぱり辞めることを決意します"
-        },
-        "groundingChunkIndices": [
-          21,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7998,
-          "endIndex": 8204,
-          "text": "現物をたった一夜だけ借りて徹夜で各部の寸法を書き写し、道具も作り方も分からない状態から、わずか1週間で独学の第1号バイオリンを削り出しました"
-        },
-        "groundingChunkIndices": [
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8261,
-          "endIndex": 8538,
-          "text": "政吉は「良いものを安く多くの子どもたちへ」と専用の木工機械を自ら考案し、最盛期には従業員1,000人以上、毎日500本、年間10万本以上のバイオリンを世界中へ輸出する世界的メーカーへと育て上げました"
-        },
-        "groundingChunkIndices": [
-          21,
-          26,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8546,
-          "endIndex": 8900,
-          "text": "その音色の美しさは世界に響き、来日したあの物理学者アルバート・アインシュタイン博士へ政吉作のバイオリンが贈呈された際には、アインシュタイン本人からその精巧さと音色を絶賛する自筆の礼状が届きました（礼状は大府市歴史民俗資料館等に関連展示）"
-        },
-        "groundingChunkIndices": [
-          21,
-          26,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8903,
-          "endIndex": 9005,
-          "text": "日本の学校教育用バイオリンの礎は、愛知の職人魂から築かれたものでした"
-        },
-        "groundingChunkIndices": [
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9037,
-          "endIndex": 9142,
-          "text": "大府市公式ウェブサイト「鈴木政吉像」および大府市歴史民俗資料館展示解説"
-        },
-        "groundingChunkIndices": [
-          21,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9147,
-          "endIndex": 9210,
-          "text": "大府市観光協会「鈴木バイオリン製造の歴史」"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9886,
-          "endIndex": 9969,
-          "text": "**② 機織り機の音がうるさすぎて社内で商談ができなかった**"
-        },
-        "groundingChunkIndices": [
-          13,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10006,
-          "endIndex": 10147,
-          "text": "「当時の繊維工場は『ガチャマン景気』と言って、機械を動かすだけで大儲けできる大忙しの時代でした"
+          "startIndex": 10887,
+          "endIndex": 10968,
+          "text": "しかし珪藻土は水や衝撃に弱く、割れやすい欠点があります"
         },
         "groundingChunkIndices": [
           15
@@ -693,32 +531,116 @@
       },
       {
         "segment": {
-          "startIndex": 10207,
-          "endIndex": 10369,
-          "text": "という音が社内に響き渡って会話ができなかったため、静かに話ができる近所の喫茶店を商談室代わりに使ったんですね"
+          "startIndex": 10971,
+          "endIndex": 11154,
+          "text": "そこで外側に三州瓦の技術を応用した頑丈で水・熱に強い「三河土」を焼き合わせることで、驚異的な断熱性と耐久性を両立させました"
         },
         "groundingChunkIndices": [
-          13,
-          17
+          15,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 10372,
-          "endIndex": 10537,
-          "text": "その常連さんたちへマスターが感謝を込めて卵やピーナッツをサービスしたのが、今に続くモーニングの始まりなんです」"
+          "startIndex": 11204,
+          "endIndex": 11428,
+          "text": "愛知県の公式資料等によると、江戸末期の天保年間（1830〜1844年）に長州から移住した岡本銀造が碧南の新川地区で七輪やこんろの製造を始めたのが三河焼の起源です"
         },
         "groundingChunkIndices": [
-          18,
+          16,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11431,
+          "endIndex": 11645,
+          "text": "昭和初期には碧南・高浜周辺に**156軒もの陶土器工場**が存在し、石川県や香川県と並んで「七輪の日本三大産地」として全国の家庭の台所や暖房を支えました"
+        },
+        "groundingChunkIndices": [
+          15,
+          16,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11671,
+          "endIndex": 11746,
+          "text": "七輪の故障原因で最も多いのは「空気口（風穴）」です"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11749,
+          "endIndex": 11884,
+          "text": "一般的な安価な七輪はここが金属板で作られており、炭の熱や湿気ですぐに錆びたり外れたりします"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11887,
+          "endIndex": 12161,
+          "text": "しかし三河の伝統的な黒七輪は、**空気口まで職人が手作業で「三河の土」をくり抜いて土製で作っている**ため、金属のように錆びることがなく、親から子へと何十年も使い続けられる耐久性を誇ります"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12289,
+          "endIndex": 12616,
+          "text": "矢作川の河口に位置し、船による海上輸送が容易だったため、北陸（能登・七尾）から珪藻土を船で三河へ運び入れ、地元の三河土と融合させて完成品を全国へ出荷するという、海運と職人技のハイブリッドによって生まれた地域の知恵でした"
+        },
+        "groundingChunkIndices": [
+          16,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12647,
+          "endIndex": 12736,
+          "text": "愛知県 産業労働部 産業振興課「三河焼について（沿革・特徴）」"
+        },
+        "groundingChunkIndices": [
           16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12741,
+          "endIndex": 12847,
+          "text": "三河陶器協同組合 資料（碧南市・高浜市におけるコンロ・七輪の歴史と構造）"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12852,
+          "endIndex": 12951,
+          "text": "碧南市指定伝統工房（杉松製陶・亀島製陶所）三河黒七輪の二重構造解説"
+        },
+        "groundingChunkIndices": [
+          13,
+          19
         ]
       }
     ],
     "webSearchQueries": [
-      "スズキバイオリン 鈴木政吉 大府市 歴史",
-      "愛知県 モーニング 発祥 機織り 騒音",
-      "紅葉 なぜ 赤い 黄色 アントシアニン 森林総合研究所",
-      "一色 鰻 養殖 歴史 明治 塩田 矢作川"
+      "アルミホイル 表裏 違い 東洋アルミ 理由 歴史",
+      "帝国データバンク 食品主要195社 価格改定動向 11月",
+      "羽毛布団 毛布 順番 どっちが上 西川 理由",
+      "三河 七輪 二重構造 珪藻土 碧南"
     ]
   }
 }
