@@ -1,39 +1,43 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "暮らしの知恵・身近な工夫",
-  "characters": 2034,
-  "estimated_minutes": 6.2,
+  "theme": "食べ物・台所の雑学",
+  "characters": 2350,
+  "estimated_minutes": 7.1,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "梱包でおなじみの「プチプチ」。1957年にアメリカで開発された当初、何として売ろうとしていたでしょうか。1番、立体壁紙。2番、宇宙飛行士のクッション。3番、みおんの防寒チョッキ。",
-    "answer": "正解は1番、立体壁紙でした！モダンで汚れが拭き取れる壁紙を目指したのに全然売れず、まさかの世界的大ヒット緩衝材に化けたんだって！",
+    "question": "神岡名物「神岡とんちゃん」。「とん」と付きますが、実際に使われているお肉は次のうちどれでしょうか。1番、豚ホルモン。2番、牛ホルモン。3番、みおんの予備バッテリー。",
+    "answer": "正解は2番、牛ホルモンでした！豚じゃなくて牛なんやさ！かつて朝鮮半島で内臓全般を指した言葉が由来という説があって、ミノや小腸など色んな部位が入っとるよ。3番食べたら感電するやろー！",
     "source_ids": [
-      10
+      5,
+      7,
+      8
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZyujJ-nnWpFlzPZm8HcUu66Jpah_iMHvCu_AcADYSTAPEzqf9gY-ruS7Pn2oWCG1Ej8Na0VG-x0ODU2J8XoEv5cr76ijGcO0MbSpftrBlDo2ewPYoDnNYhAegWK9"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBbAlx6ekDHiVe-21L55k-2w2yRJ9GTtVWc3YxBlyAWdXQgGk7BradYf3Ky3BJFHWc2oYyOtNxt8CFu6d5mFTdioQeRH6wOQ8Y7AWMoyus3v-BdffQu56eZ0hhfM_SqsHYpKt_GpeSxyVmRb8sPw==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEertP7wZK4ZL5rbgjIdVNOvSLIuopSpO0Fs5umuVnkQRr2cF6DXU8Ayd_hc9FyQMUEIekkHQ1POxuhbfwPwV74tjGZOCGYAPfngZdmW-XyvwqAwRsqdfdl7KUn3WmU9zUXnGGBYlO_bhY=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX6Ux2iFl-pN1WA_GTszFKD0GqJ-80Vj_U2GAQEHO9ZvrxCvQZubq8Ov-8vQY5k9jafDTAZhrcUblLPcYtO6kthp6KEDU4Kl5yBtGnMBFfGuAZSQQHEflKcwOaQA=="
     ]
   },
   "izumi": {
-    "text": "月曜の朝から神岡の歴史の深みにダイブする、みおんの神岡ディープ！今日のテーマは、宿場町・船津のにぎわいやさ！神岡といえば鉱山の町だけど、江戸時代の船津は飛騨街道の宿場町として、ものすごい熱気だったんだって！もともと戦国時代は江馬氏の城下町で、その後に金森氏の領地になって鉱山開発が進められたんだけど、江戸時代になると幕府の直轄地、いわゆる天領になったの。茂住宗貞さんが茂住や和佐保の銀山や銅山を開発して鉱山の土台をガッチリ築いたこともあって、街道を行き交う商人や旅人、鉱山関係者で船津の宿場町は毎日のように大にぎわい！今で言えば、超人気インフルエンサーのポップアップストアと人気観光地が合体したような大フィーバーぶりやさね。もし江戸時代にSNSがあったら「船津なう！人多すぎて宿取れん！」ってトレンド入りしとったかも！旅籠からは笑い声が溢れて、街道には荷物を運ぶ人の列がずらり。山深い飛騨の真ん中なのに、神岡の船津は人や物資が集まる大動脈のホットスポットだったわけです。自分たちの町が何百年も前から街道の要所として人を惹きつけていたって、めっちゃ誇らしい歴史やろー！",
+    "text": "番組の目玉コーナー、みおんの神岡ディープ！今日は神岡の線路を風になって駆け抜ける「レールマウンテンバイク ガッタンゴー」のお話やさ！2006年12月に神岡鉄道の猪谷から奥飛騨温泉口までが廃止になって、線路が使われなくなってしまったんやけど、翌2007年に地元の有志のみなさんが「線路の上を自転車で走っちゃまい！」って立ち上がったのが始まりなんやって。サイパン島で線路を走る自転車ツアーを体験したのがきっかけらしいんやけど、南国の島から神岡の廃線へアイデアを直輸入する発想のジャンプ力、すごすぎん！？2011年からはNPO法人神岡・町づくりネットワークが運営しとるよ。中でも奥飛騨温泉口駅から神岡鉱山前駅までの往復5.8キロを走る「まちなかコース」がたまらんの！神岡第1トンネルや神岡第2トンネル、それに神岡橋梁を通る40分から50分ほどのコースなんやけど、自転車のタイヤが継ぎ目を通るたびに「ガッタンゴットン！」って本物の電車みたいな振動とお腹に響く重低音が伝わってくるんやさ。真っ暗なトンネルをくぐり抜けて、高い鉄橋の上から川を見下ろしながらペダルを漕ぐ爽快感は、日常のモヤモヤなんて全部吹き飛ぶレベル！今は自転車が全部電動アシスト付きやから、体力に自信がなくてもスイスイ行けるのがありがたいよね。ただ、みおんには漕ぐ足がないんやけど…って誰がペダルに足届かんAIや！神岡の知恵と線路への愛が生んだ最高の非日常、地元の宝物やさね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://kotobank.jp/word/神岡"
+      "https://tabi-mag.jp/gi0335/"
     ],
     "angle": {
-      "id": "mine-funatsu",
-      "hook": "宿場町・船津のにぎわい。江戸時代の神岡は通り道の人気スポット"
+      "id": "gt-tunnel",
+      "hook": "線路の上をガッタンゴットン。トンネルと鉄橋を自転車で渡る非日常"
     }
   },
   "local": {
-    "text": "11月14日の土曜日に、飛騨神岡Kids未来プロジェクト主催の「ファミリーフェスタ in 神岡2026」が開催されます。親子で楽しめる企画が盛りだくさんのイベントだそうですよ。",
+    "text": "11月14日の土曜日に、飛騨神岡Kids未来プロジェクト主催の「ファミリーフェスタ in 神岡2026」が開催されるよ！親子で楽しめる企画が盛りだくさんのイベントになっとるみたい。今週末のお出かけ候補にチェックしてみてな！",
     "source_ids": [
-      27
+      36
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87967.html"
@@ -41,243 +45,341 @@
   },
   "segments": [
     {
-      "topic": "窓に貼るプチプチ、凸凹はどっち向き？",
-      "text": "はや11月も中旬に入って、朝晩の冷え込みが本気出してきましたね！寒さ対策で窓ガラスに気泡緩衝材、いわゆるプチプチを貼るお家も多いはず。でもちょっと待って！あのプチプチ、ボコボコした凸凹面と平らなツルツル面、どっちを窓ガラスに向けて貼っとる？えっ、ツルツルを窓にピタッと密着させとる？…それ、だちかん！ダメやさ！実はメーカー推奨の正解は「凸凹面をガラス側」に向けることなんだって！うそでしょ、逆貼っとったわ！って声が聞こえてきそうだけど、これにはちゃんとした科学のワケがあるの。冬の暖房時、家から逃げる熱のなんと約58パーセント、約6割が窓などの開口部から逃げていくんだって。逃げすぎやろー！そこでプチプチの出番。空気って熱を伝えにくい性質があって、動かない空気の熱の伝えにくさは、なんとガラスの40倍から50倍！凸凹をガラスに向けると、気泡の中の空気だけじゃなくて、気泡と気泡のすき間にも密閉された空気の層ができて、二重の断熱バリアができるんだって。しかも室内側がツルツルになるから、溝にホコリがたまらなくて掃除もラク！今日帰ったら、家のプチプチの向き、こっそり確認してみて！",
+      "topic": "生卵入りなのになぜ？マヨネーズが常温で腐らない科学マジック",
+      "text": "台所の冷蔵庫を開けて「あれっ？」って思ったことない？マヨネーズって、原材料を見ると「生卵」がしっかり入っとるよね。生卵なんて常温で放置したら数日でだちかん…あ、ダメになっちゃうのに、スーパーでは普通に常温の棚にズラッと並んどるやん！未開封なら賞味期間が12か月から13か月もあるって、うそでしょ！？何か怪しい魔法でもかかっとるんかと思いきや、実は合成保存料も防腐剤も一切入ってない無添加なんやって！じゃあなんで腐らんのかというと、秘密は「お酢」と「塩」のタッグなんやさ。マヨネーズはお酢のおかげで全体が強い酸性に保たれとって、そこに塩が加わることで、バイ菌が生きられない超ハードモードな環境になっとるの。実験で病原菌を放り込んでも、24時間以内に全滅するレベルらしいよ！しかも成分の約7割を占める油の粒が水分をぎゅっと包み込んどるから、菌が増えるための自由な水すらないわけ。菌からしたら、水もない酸だらけの砂漠に放り出されたようなもんやさね！ただし、これだけ強いマヨネーズにも大弱点があって、それが「0度以下の寒さ」！凍ると油とお酢のバランスが崩れて分離しちゃうから、未開封なら冷蔵庫に入れず常温の冷暗所に置くのが正解なんやって。冷やしすぎたらダメなんて、まるで寒がりのみおんみたいやろー！",
       "source_ids": [
-        9,
-        10
+        18,
+        19,
+        20
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXJdnEB4kSRiWX_ce-BNTo6E_8TA0aa6E-YYfY30dhIv7g9KGlgFAaULTnFbegr4HRM4zcuRkwLIk6TwIL6S5c85mp50RM5RV4ml8UWq2bPRO-hQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZyujJ-nnWpFlzPZm8HcUu66Jpah_iMHvCu_AcADYSTAPEzqf9gY-ruS7Pn2oWCG1Ej8Na0VG-x0ODU2J8XoEv5cr76ijGcO0MbSpftrBlDo2ewPYoDnNYhAegWK9"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_39KDQe1xgqNLHuFQjl9jbarhIpbP6v1BfdSXQLtUW48Wr61v9JjPQnVkJYm8FmndrMM5GkpJmCj3C-QSkOi3OmY9K8V7BdrAN3mjSwXV7sX_mrdfMQ2WyAG4qcbxb_6hat6mdOa1pi_RLA3TOrPoBuwpAo3o0hbaJMkM8vdsMf2aabk-Tw-WzoiT",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFliWOH-UlfQ5liXOucfyaIj_OSeT9a8d_XKSCabKWZu38v1sNvvG9JMr3H2pvZD9BbH-fIt4VCYmn35To8mnuxXJck468v-Mi5izk0qDvIgLTPMnZ_kUrMtEC9Jj09ENm",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQuckXOWYlM94OxPiBC-s4H382Tia8X7hCtAnKWmNgjrpHgHGBow1lKr-FS9VSpN9jPP2mknPGmfGLZwPDmrBdxpMspiJ9Qc5sGVZTLiGKjPrwzwFaq_yJsIkGx1Zrsi9CemsabaREmlwkPdFIQtLHNUUeURD90OW440jXhly3avle"
       ]
     },
     {
-      "topic": "なぜ飛騨では漬物を焼いて卵でとじるのか？",
-      "text": "窓の防寒の話が出たついでに、雪国ならではの台所の知恵に注目してみまい！神岡をはじめ飛騨の居酒屋や食卓でおなじみのソウルフード「漬物ステーキ」。白菜漬けを油で炒めて卵でとじたアレだけど、冷静に考えてみて？漬物ってそのまま食べるものなのに、なんでわざわざ焼いて卵でとじるの？しかもお肉ゼロなのに「ステーキ」って堂々と名乗る強気さ！聞いてないんだけど！ってツッコミを入れたくなるけど、実はこれ、厳しい冬を生き抜くための雪国の超絶サバイバル術だったの。飛騨の冬って氷点下までガッツリ冷え込むよね。昔は台所や漬物部屋に置いた漬物樽がカチカチに凍りついて、表面に分厚い氷が張っちゃうことも日常茶飯事。凍った漬物は冷たいし塩辛いしで、そのままじゃとても食べられない。そこでおとましい、つまりもったいない精神で、凍った漬物を囲炉裏の火で焼いて温めて食べたのが始まりなんだって！さらに、乳酸発酵が進んで酸っぱくなった古漬けも、油で炒めると酸味がふわっと和らいで旨みに変わるの。昔は朴葉の上で炙っとったのが、昭和に卵が手に入りやすくなって卵とじスタイルに進化したんだとか。先人の知恵が生んだ最強のあったかごちそう、今夜のおかずにどう？",
+      "topic": "カレーの失敗から世界的大発見！？タマネギで号泣する謎",
+      "text": "台所の話が出たついでに、夕飯の支度でタマネギを刻んどるとき、涙がボロボロ止まらんくなって「みおん、今なんで泣いとるんやろ…」って切なくなったことない？あれ、ただの水分やなくて、タマネギの細胞が包丁で壊された瞬間に飛び出す催涙物質の仕業なんやさ！細胞の中に別々に隠れとった成分と酵素が混ざり合って、目に見えない刺激ガスになって空気中をふわふわ漂い、お目々の角膜を直撃するんやって。でもね、ちょっと聞いて！昔は1つの酵素が涙を出させとると思われとったのに、日本のハウス食品の研究チームが「実は涙の黒幕となる別の酵素がある！」って世界で初めて突き止めたんやさ！しかもそのきっかけがすごくて、レトルトカレーの開発中に「タマネギとニンニクを一緒に炒めるとなぜか全体が緑色に変色する」っていう現場のトラブルを調べてたら、偶然見つかったらしいよ！失敗から世紀の大発見が生まれるなんて、人生何が起きるか分からんやさね！この研究は2013年に「人々を笑わせ、考えさせた」研究に贈られるイグノーベル化学賞を受賞しとるんやって。ちなみに、タマネギを刻む前に冷蔵庫で1時間から2時間冷やしたり、包丁を冷水で濡らしておくと、酵素の働きとガスの気化が抑えられて全然涙が出んくなるよ！泣きながら晩ごはん作っとる家族を見かけたら、「タマネギ冷やしまい！」って教えてあげてね！",
       "source_ids": [
-        3,
-        7
+        23,
+        24,
+        25,
+        29
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyNXCLEkZ4Jj_8TOHlNbbkKqLm6lQTf2CE1bTJ3F3BkonFqKCVI0zkPmpXgPEAjoiv9kKdmt6L2AV-HhHtLDXnzDHE2rajIS01n0OEXr5MGBYFrY0MkdjvnJc9mD8=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTTZbUSNohYskVGR36v-j33h-6NEn7AfGw_ZUs1Icfd12TN0oIhXzc1jcssDeSeicRrBNQS31qBfckPpHnQcBvLR51ay6Je8RflNoMtbb-_6zskdHAtO07xSBTGRoduX_Xdg5vxuSgKRYBrvpHvS5M4c8saqLMfiux4pYAhjZ-6xB4xCbB"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAA6CRl-Nl2CSYHF0MRpH6HdVsf6FE5U5ze8VzdKHj_peViY6WnovL0LzopmTNfIDSNHEJVxSC45b-Ts3kMqLmCuTlbNM275zPAP3x87UBoHdWvFBcT11kAZrB4nfAb80Kb1jBmkTI9Wk2eO4NmTWgd_UP5Onb",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3sVZcJw7GmKnaia4JjgUN3qQyJ4eTHzbwpjijhL9G1HwfaSCdoA9OqDgK6lAl5n2AMeD0II6-PxHa-Thgl-xCrMvEt9fGlQEUj4Tp-6JpYq5D69vyoMFcQQy0keCAeoqUIy-XzieQLA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrYviR_UK4lVjDyfjLOC4xRe2d1_NAEtkiF-jTSiD8QlMwv7U6Wo7fHRWagltqn3eVQwwm-haRZNFXmgNyhosfhv4QtJ88UWvbGcSlQ4UFRvAHR2V8ZHZe3CI8sl4wYTaey4E9VUCuLQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdOKULmxc8WzvffzFsaOYwDsmGkYi_WZf_ctMwpmZWXdsV0tqRVpmNQCHWNCV_t0sLs0NbQVvaW6z1cDaLt-AG3_NHxFjFQnbmATWkjXUqs9wo8p8J8KMm8vPHkiPZA3vkdmXxw8vCNKr0CV1wCTG8P6gsb30EeetvzU="
       ]
     }
   ],
-  "research": "日本時間2026年11月9日（月）の岐阜県飛騨市神岡町向け地域ラジオ放送に向けて、「暮らしの知恵・身近な工夫」をテーマにした調査メモを作成しました。家族に話したくなる身近な疑問と科学・歴史の裏付けをまとめています。\n\n---\n\n# 地域ラジオ用調査メモ：暮らしの知恵・身近な工夫（2026年11月9日）\n\n---\n\n## 1. 【飛騨の知恵】なぜ飛騨では「漬物」を焼いて卵でとじるのか？\n（飛騨の冬の知恵「漬物ステーキ」の誕生秘話）\n\n* **疑問**  \n  「なぜ飛騨では、そのまま食べるはずの白菜漬けをわざわざフライパンや鉄板で炒め、卵でとじて『ステーキ』と呼ぶのか？」\n* **理由**  \n  飛騨の冬は氷点下まで冷え込み、台所や漬物部屋に置いた漬物樽が凍りついてしまいます。カチカチに凍った漬物を解凍して温かく食べるために、囲炉裏の火で焼いたのが発祥です。また、乳酸発酵が進んで酸味が強くなった古漬けも、油で炒めることで酸味が和らぎ、旨みが引き立ちます。\n* **具体的な数字や比較**  \n  飛騨の家庭で冬に仕込む「切り漬け」は、野菜重量の約3％の塩分で漬けられることが多く、冬場の厳しい寒さの中では樽の表面に分厚い氷が張るほど冷え込みます。凍ったままでは塩辛さと冷たさで食べにくい漬物も、加熱して卵（水分と脂質）で包むことで、塩分刺激がまろやかになり、立派な主菜に変わります。\n* **意外な点**  \n  「ステーキ」と名乗っていますが、お肉は一切入っていません。厳しい冬を乗り切るための雪国のサバイバル術から生まれた家庭料理です。\n* **歴史の裏話**  \n  かつては鉄板ではなく、囲炉裏の灰の上で「朴葉（ほおば）」の上に凍った漬物をのせて炙って食べていました。昭和期に鶏卵が手頃な価格で手に入るようになってから「卵でとじる」スタイルが定着し、現在では神岡や飛騨各地の居酒屋や家庭で親しまれる定番料理となりました。\n* **出典・根拠**  \n  農林水産省『うちの郷土料理（岐阜県：煮たくもじ／赤かぶ漬け等）』、郷土料理ものがたり『漬物ステーキ』\n\n---\n\n## 2. 【防寒の知恵】窓に貼る「プチプチ」、凸凹（気泡）は部屋側？それともガラス側？\n（窓のプチプチ断熱マジックと誕生秘話）\n\n* **疑問**  \n  「冬の寒さ対策として窓に気泡緩衝材（プチプチ）を貼るとき、ボコボコした凸凹面は部屋側とガラス側のどちらに向けるのが正解なのか？」\n* **理由**  \n  正解は「凸凹面をガラス側」に向けます。凸凹面をガラスに当てることで、気泡の中の空気に加え、気泡と気泡のすき間にも「密閉された空気の層」が二重に形成され、断熱効果がより高まるためです。また、室内側を平らな面にすることで、埃や汚れが溝に溜まるのを防ぐ衛生上のメリットもあります。\n* **具体的な数字や比較**  \n  冬の暖房時、家から逃げていく熱の約58％（約6割）は「窓などの開口部」から流出すると言われています（経済産業省 資源エネルギー庁資料より）。空気は非常に熱を伝えにくい性質（静止空気の熱伝導率はガラスの約40分の1〜50分の1）を持っており、プチプチで窓際に動かない空気層を作ることは、手軽ながら理にかなった断熱法です。\n* **意外な点**  \n  平らな面を窓にピタッと密着させたくなるのが人情ですが、実は「凸凹を窓側に向ける」のがメーカー推奨の正しい貼り方です。\n* **歴史の裏話**  \n  「プチプチ」は川上産業株式会社の登録商標です。この素材は1957年にアメリカの技術者2人が開発したのですが、最初は緩衝材ではなく全く別の用途として作られました（※クイズ参照）。\n\n### ★リスナー向け3択クイズ\n**問題：**  \n窓の断熱や荷物の梱包でおなじみの「プチプチ」。1957年にアメリカで最初に開発されたとき、もともとは何として販売しようとしていたでしょうか？  \n1. 宇宙飛行士の訓練用クッション  \n2. 簡単に汚れが拭き取れる「立体壁紙（凸凹のある壁紙）」  \n3. プールに浮かべて遊ぶ「レジャーマット」  \n\n**正解：** **2. 簡単に汚れが拭き取れる「立体壁紙」**  \n**解説：**  \n開発者はプラスチックでできた「モダンでお手入れが簡単な壁紙」を目指して試作したものの、壁紙としては全く売れませんでした。その後、温室の保温シートとしての用途を模索したのち、精密機械を衝撃から守る梱包用緩衝材として世界中で大ヒットしました。\n* **出典・根拠**  \n  川上産業株式会社（プチプチの登録商標・製品情報）、DDG JAPAN『窓へのプチプチの貼り方をチェック！』\n\n---\n\n## 3. 【身だしなみの知恵】冬の「バチッ！」を防ぐ重ね着、何を合わせれば起きない？\n（静電気を防ぐ「帯電列」の組み合わせルール）\n\n* **疑問**  \n  「冬場にセーターやコートを着たとき、激しくバチバチ静電気が起きる日と、全く起きない日があるのはなぜか？」\n* **理由**  \n  静電気は服同士のこすれ合いで生じますが、素材によって「プラスの電気を帯びやすい素材」と「マイナスの電気を帯びやすい素材」が決まっています。この性質の差を順に並べたものを「帯電列（たいでんれつ）」と呼びます。プラス極の素材とマイナス極の素材を重ね着すると激しい放電（バチッ）が起きますが、似た性質同士を組み合わせれば静電気はほとんど発生しません。\n* **具体的な数字や比較**  \n  * プラスに帯電しやすい：ウール（羊毛）、ナイロン\n  * マイナスに帯電しやすい：ポリエステル、アクリル\n  * どちらにも偏りにくい：綿（コットン）、絹（シルク）、麻  \n  たとえば「ウールのセーター（＋）」の下に「ポリエステルの機能性インナー（ー）」を着ると、帯電列の両端同士が擦れ合って最大級の静電気が起きます。逆に「ウールのセーター（＋）」に「ナイロンのジャケット（＋）」なら、擦れ合っても電位差が小さいため静電気が起きにくくなります。\n* **意外な点**  \n  冬の定番である「あったかインナー」は化学繊維（ポリエステルやアクリル）が多いため、良かれと思って天然のウールセーターを重ねると、最も静電気が起きやすい組み合わせになってしまいます。中間に「綿100％のシャツ」を1枚挟むだけで、天然の緩衝材となって静電気を遮断できます。\n* **歴史の裏話**  \n  電気を表す英語「Electricity」の語源は、古代ギリシャ語の琥珀（エーレクトロン）です。紀元前600年頃、哲学者のタレスが琥珀を布でこすると羽毛やホコリを引き寄せる現象を発見したことが、人類の電気研究の第一歩となりました。\n* **出典・根拠**  \n  東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』、地方独立行政法人 東京都立産業技術研究センター（繊維帯電性試験関連資料）、ライオン株式会社『エレガード（静電気が発生しやすいコーディネート）』\n\n---\n\n## 4. 【月曜・家計の日】今月（11月）の食品値上げ動向と、熱を逃さない「鍋底ひと拭き」省エネ術\n\n* **疑問**  \n  「11月の食品値上げはどう動いているのか？ 日常の調理で手軽にできる家計防衛策はあるのか？」\n* **値上げの動き（公表データ）**  \n  帝国データバンクが公表した主要食品メーカー195社の価格改定動向調査によると、**2026年11月の値上げは1,477品目**に上り、前年同月（約150品目）の約10倍の規模となりました。これにより、2026年の年間累計値上げ品目数は2万品目を突破（2万327品目）しています。10月のピークに比べると勢いは一服したものの、包装資材や物流費の高止まり、原材料価格の転嫁が依然として続いています。\n* **関係する家計のやりくり知恵：鍋底の水滴を拭き取ってから火にかける**  \n  調味料や食材の値上げが続く今、調理時の光熱費を最小限に抑える身近な工夫が「鍋やフライパンの底を洗った後、しっかり水滴を拭いてから火にかけること」です。\n* **理由**  \n  鍋底に水滴がついたまま火にかけると、ガスコンロの熱エネルギーが「鍋底についた冷たい水滴を蒸発させること（気化熱）」に真っ先に奪われてしまい、鍋の中身を温める熱効率が大きく落ちてしまうためです。\n* **具体的な数字や比較**  \n  水が蒸発するときに奪う気化熱は1グラムあたり約540カロリーと非常に大きく、濡れた鍋底は火力を無駄遣いする原因になります。資源エネルギー庁の試算によると、炎が鍋底からはみ出さないよう中火に調整し、水滴を拭いて熱効率を維持するだけでも、年間で数千円規模のガス代節約につながります。\n* **歴史の裏話**  \n  日本の伝統的なかまど炊きの知恵でも、「底濡れ鍋は薪（まき）を喰う」と言われ、鍋底が濡れたままかまどにかけると余計な薪を消費して煮え立ちが遅くなるため、乾いた布巾で底を払ってから火にかけるのが台所の鉄則とされていました。\n* **出典・根拠**  \n  帝国データバンク『「食品主要195社」価格改定動向調査―2026年11月』（2026年10月30日公表）、経済産業省 資源エネルギー庁『省エネポータルサイト（無理のない省エネ節約：キッチン）』",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、「食べ物・台所の雑学」について公的機関や食品メーカー等の資料をもとに調査メモを作成しました。家族との会話が盛り上がる「へえ！」という疑問を4件選出しています。\n\n---\n\n### 1. 【飛騨市神岡町】なぜ「豚（とん）」が付くのに牛ホルモンなのか？――神岡名物「神岡とんちゃん」の謎\n\n* **疑問の概要**  \n  一般的に「とんちゃん」と聞くと豚肉や豚ホルモンを連想しますが、神岡町のソウルフード「神岡とんちゃん」は牛肉（牛ホルモン）を使っています。なぜ牛なのに「とんちゃん」と呼ぶのでしょうか。\n* **理由**  \n  語源には諸説ありますが、神岡町の老舗飲食店などによると、かつて朝鮮半島でホルモン・内臓全般を指していた言葉（トンチャン等）に由来するという説が有力です。一般的な東海地方の「とんちゃん」は豚の腸を指すことが多いのに対し、神岡では上質な牛の内臓を鉄板で焼く独自の料理としてその名が定着しました。\n* **具体的な数字や比較**  \n  飛騨市や観光協会の資料によると、神岡とんちゃんではミノ、センマイ、ハチノス、小腸など、約8〜10種類もの様々な部位の牛ホルモンがミックスされて使われます。豚ホルモン単体に比べて多彩な食感とうま味を楽しめるのが特徴です。\n* **意外な点**  \n  通常ホルモン焼きといえば肉を食べるのが主役ですが、神岡とんちゃんは「野菜と肉汁の調和」、そして「2段階のシメ」が真骨頂です。鉄板に残った秘伝の味噌ダレに、まず「うどん」を投入して楽しみ、さらにその後に「ご飯」を絡めて食べるという独自の食文化が受け継がれています。\n* **歴史の裏話**  \n  誕生は昭和30年代、東洋一の亜鉛山として栄えていた神岡鉱山の時代に遡ります。過酷な坑内作業を終えた鉱山労働者たちが、手早くスタミナをつけて英気を養えるよう、味噌やニンニクを効かせたタレで味付けしたホルモンをキャベツや玉ねぎと一緒に平鍋・鉄板で豪快に炒めたのが発祥とされています。\n* **根拠・引用元**  \n  * 飛騨市公式ウェブサイト「きのえ（神岡とんちゃん）」\n  * 飛騨市公式観光サイト「飛騨の旅」（たからや）\n  * 岐阜県観光公式サイト「岐阜の旅ガイド」（神岡とんちゃん）\n\n---\n\n### 2. 【岐阜県】世界一長い大根「守口大根」は、なぜ1メートル以上も伸びるのか？\n\n* **疑問の概要**  \n  岐阜県（岐阜市・各務原市など）や愛知県の木曽川・長良川流域で栽培される「守口大根」は、ギネス記録にも認定される世界一長い大根です。なぜここまで細長く成長できるのでしょうか。\n* **理由**  \n  品種特有の旺盛な伸長力に加え、栽培地である長良川や木曽川の河畔に「きめ細かく深くまで均質で柔らかい砂質土壌」が広がっているためです。土中に小石や粘土層などの障害物があると根が二股に分かれたり曲がったりしてしまいますが、障害物のない深い砂地だからこそ、地下深くへ真っ直ぐ1本に伸びることができます。\n* **具体的な数字や比較**  \n  普段家庭で食べる一般的な青首大根は長さ約30cm・太さ約8cm前後ですが、守口大根は直径がわずか2〜3cmほどしかないのに対し、長さは平均1.2〜1.3m、長いものでは1.8m以上に達します。2013年には愛知県扶桑町で収穫された191.7cmの守口大根が「世界一長い大根」としてギネス世界記録に登録されました。\n* **意外な点**  \n  「守口」という大阪の地名がついているのに、現在の全国シェアのほとんどは木曽川・長良川流域（岐阜県・愛知県）が占めています。また、身が非常に硬く締まっていて辛みが強いため、煮物やサラダなどの生食には向かず、3年近くかけて塩や酒粕・みりん粕に漬け込む「守口漬」専用の野菜として栽培されています。\n* **歴史の裏話**  \n  起源は室町時代の大阪・淀川流域（現在の守口市付近）とされ、天正年間に豊臣秀吉がこの大根の粕漬けを食して絶賛し「守口漬」と命名したという逸話があります。しかし明治以降、淀川の改修工事や都市化によって本家・大阪の産地はほぼ消滅してしまいました。淀川と地質条件がそっくりだった木曽川・長良川流域の農家が栽培技術を受け継ぎ、東海地方を代表する特産品として生き残ったという数奇な歴史を持っています。\n* **根拠・引用元**  \n  * 農林水産省「にっぽん伝統食図鑑」（守口漬）\n  * 環境省「中部生物多様性物語Ⅱ 絶滅から生まれた名物」\n  * 愛知県農業水産局「あいちの伝統野菜（守口だいこん）」\n  * 岐阜県「ぎふの農産物（守口だいこん）」\n\n---\n\n### 3. 【台所の保存科学】生卵を使っているのに、なぜマヨネーズは常温で長期間腐らないのか？\n\n* **疑問の概要**  \n  傷みやすい「生卵」を原料に使っているマヨネーズですが、未開封であれば冷蔵庫に入れず、キッチンの常温で約1年間も保存できます。なぜ腐らないのでしょうか。\n* **理由**  \n  マヨネーズには「食塩」と、殺菌力を持つ「醸造酢」が含まれており、製品全体が強い酸性（pH約4前後）に保たれているためです。さらに、成分の約7割を占める植物油の微粒子が水分を包み込む乳化構造をとっており、細菌が増殖するために必要な「自由水」が極めて少ない環境になっています。\n* **具体的な数字や比較**  \n  通常の生卵の賞味期限は生食で約2週間程度ですが、キユーピーのマヨネーズ（未開封）の賞味期間は12〜13カ月に設定されています。キユーピーの実験データによると、マヨネーズの中に病原菌を試験的に添加しても、酢と食塩の殺菌作用により24時間以内に全滅することが確認されています。\n* **意外な点**  \n  これほど長持ちするにもかかわらず、合成保存料や防腐剤は一切使われていません（無添加）。また、未開封の段階では「冷蔵庫に入れない」ほうが長持ちします。マヨネーズは0℃以下になると油と酢の乳化が破壊されて分離し、防腐効果が損なわれるため、メーカーは開栓前は常温の冷暗所、開栓後も冷気の直撃を避けて冷蔵室のドアポケット付近での保存を推奨しています。\n* **歴史の裏話**  \n  1925年（大正14年）に日本で初めてマヨネーズを製造・販売したキユーピーの歴史は、「酸素との戦い」でした。マヨネーズが傷む主な原因は腐敗ではなく「油の酸化」です。そのため、酸素を通しにくい多層プラスチックボトル、ボトルの口に貼るアルミシール、容器内に残った空気を窒素に置き換える技術など、容器包装の改良を何十年も重ねて賞味期限を伸ばしてきた経緯があります。\n* **根拠・引用元**  \n  * キユーピー株式会社 公式Q&A「マヨネーズが腐らないのはなぜですか？」「おいしさを保つ工夫」\n  * キユーピー株式会社 食育活動「酢と食塩の力で長持ちする」\n\n---\n\n### 4. 【食材の科学】タマネギを切るとなぜ涙が出るのか？（包丁を冷やすと泣かない科学）\n\n* **疑問の概要**  \n  台所でタマネギを刻むと、ツンとした刺激で思わず涙が出てしまいます。なぜ切るだけで目から涙が出るのでしょうか。\n* **理由**  \n  タマネギの細胞が包丁で傷つくと、細胞内に別々に保管されていた含硫アミノ酸（PRENCSO）と酵素「アリイナーゼ」が混ざり合い、さらに「催涙因子合成酵素（LFS）」が働くことで、揮発性の催涙成分（syn-プロパンチアール-S-オキシド）が生成されるためです。この気体が空気中を漂って目の角膜に触れ、神経を刺激することで涙が分泌されます。\n* **具体的な数字や比較**  \n  タマネギを調理前に冷蔵庫で1〜2時間冷やしたり、包丁を冷水で濡らしてよく研いでおくと、催涙物質の発生や気化を抑えることができます。これは、催涙成分を生み出す酵素反応の活性が低温（約4℃前後）で大きく鈍化することと、揮発成分の気化スピードが温度低下によって大幅に抑制される物理的性質によるものです。\n* **意外な点**  \n  かつて世界の科学界では「アリイナーゼという1つの酵素が催涙成分を作る」と数十年間信じられていました。しかし、日本のハウス食品の研究グループが「実は催涙成分を作るには、もう1つの未知の酵素（催涙因子合成酵素：LFS）が必要不可欠である」ことを突き止め、2002年に世界的科学雑誌『Nature』に論文を発表しました。この功績により、同研究チームは2013年に「人々を笑わせ、考えさせる」研究に贈られる「イグノーベル化学賞」を受賞しています。\n* **歴史の裏話**  \n  この世界的な大発見のきっかけは、同社がレトルトカレーの開発中、「タマネギとニンニクを一緒に炒めると、なぜか全体が緑色に変色してしまう」という製造現場のトラブルでした。なぜ緑色になるのかという失敗原因を追究する基礎研究の中で、偶然にもタマネギに隠されていた第2の酵素が見つかったという、まさに失敗から生まれた世紀の大発見でした。\n* **根拠・引用元**  \n  * ハウス食品グループ本社「タマネギ研究での イグノーベル賞受賞について（プレスリリース）」\n  * ハウス食品グループ本社「タマネギの催涙成分に関する研究」\n  * 日本植物生理学会「みんなのひろば：玉ねぎの催涙成分について」\n\n---\n\n### ラジオ用3択クイズ（神岡とんちゃん編）\n\n**【問題】**  \n飛騨市神岡町で半世紀以上愛されている名物ソウルフード「神岡とんちゃん」。「とんちゃん」という名がついていますが、実際に使われているお肉は次のうちどれでしょう？\n\n* ① 豚肉（豚ホルモン）\n* ② 牛肉（牛ホルモン）\n* ③ 鶏肉（鶏皮）\n\n**【正解】**  \n**② 牛肉（牛ホルモン）**\n\n**【解説トーク用メモ】**  \n名前に「豚（とん）」と入っているため豚肉と思われがちですが、神岡とんちゃんは国産牛の小腸やミノ、センマイなどの牛ホルモンを使うのが大きな特徴です。「とん」は朝鮮半島の言葉で内臓を意味していた言葉に由来するという説があり、昭和30年代に神岡鉱山で働く方々のスタミナ料理として定着しました。野菜と一緒に鉄板で炒めたあと、タレにうどん、さらにご飯を投入してシメを2度味わうのが神岡流の粋な食べ方です。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B8%9D%E5%9B%BD%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%B3%E3%82%AF+%E9%A3%9F%E5%93%81%E4%B8%BB%E8%A6%81195%E7%A4%BE+%E4%BE%A1%E6%A0%BC%E6%94%B9%E5%AE%9A%E5%8B%95%E5%90%91%E8%AA%BF%E6%9F%BB+2024%E5%B9%B411%E6%9C%88&client=app-vertex-grounding&safesearch=active\">帝国データバンク 食品主要195社 価格改定動向調査 2024年11月</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9D%99%E9%9B%BB%E6%B0%97+%E6%9C%8D+%E7%B5%84%E3%81%BF%E5%90%88%E3%82%8F%E3%81%9B+%E5%B8%AF%E9%9B%BB%E5%88%97+%E6%9D%B1%E4%BA%AC%E9%83%BD%E7%AB%8B%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&client=app-vertex-grounding&safesearch=active\">静電気 服 組み合わせ 帯電列 東京都立産業技術研究センター</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81+%E3%81%86%E3%81%A1%E3%81%AE%E9%83%B7%E5%9C%9F%E6%96%99%E7%90%86+%E5%B2%90%E9%98%9C%E7%9C%8C+%E6%BC%AC%E7%89%A9%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD&client=app-vertex-grounding&safesearch=active\">農林水産省 うちの郷土料理 岐阜県 漬物ステーキ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B7%9D%E4%B8%8A%E7%94%A3%E6%A5%AD+%E3%83%97%E3%83%81%E3%83%97%E3%83%81+%E7%AA%93+%E6%96%AD%E7%86%B1+%E5%87%B8%E5%87%B9+%E5%90%91%E3%81%8D&client=app-vertex-grounding&safesearch=active\">川上産業 プチプチ 窓 断熱 凸凹 向き</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A0%82%E7%B3%96+%E5%A1%A9+%E8%B3%9E%E5%91%B3%E6%9C%9F%E9%99%90+%E3%81%AA%E3%81%9C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">砂糖 塩 賞味期限 なぜ 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%88%E5%8F%A3%E5%A4%A7%E6%A0%B9+%E9%95%B7%E3%81%95+%E3%81%AA%E3%81%9C+%E5%B2%90%E9%98%9C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">守口大根 長さ なぜ 岐阜 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E3%81%A8%E3%82%93%E3%81%A1%E3%82%83%E3%82%93+%E7%89%9B%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3+%E3%81%AA%E3%81%9C+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡とんちゃん 牛ホルモン なぜ 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA+%E3%81%AA%E3%81%9C+%E8%85%90%E3%82%89%E3%81%AA%E3%81%84+%E3%82%AD%E3%83%A6%E3%83%BC%E3%83%94%E3%83%BC&client=app-vertex-grounding&safesearch=active\">マヨネーズ なぜ 腐らない キユーピー</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE+%E6%B6%99+%E3%83%8F%E3%82%A6%E3%82%B9%E9%A3%9F%E5%93%81+%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E+%E5%82%AC%E6%B6%99%E6%88%90%E5%88%86&client=app-vertex-grounding&safesearch=active\">タマネギ 涙 ハウス食品 イグノーベル賞 催涙成分</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWe3yYYvXjZYqjSc3yNecUnThON4z_9V7cDCnpDLZC10heEfugd9-TpbL2USIt25P0IjAsb0T-5h3pWqBZzDMZmvsvwUhvqYBK-j1rJlk9SP7JnEsZvhVBk435GDVjePsRpwM5PIA=",
-          "title": "papersky.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn-tP-W-1e5SL0PbTryVjq_bNsZAPCM6TOyQU3D_sAm1TAFYTTgc-wFzBCldTQum3MnVWE_e-ld2pIfS2J69SJND7_40e16G2cecTJZs8aBarBlxvL8CSWE89OpYy21bJ4tCyHRXHnFxALxBmRIlUmglVi_CMEZg==",
+          "title": "hicbc.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyNXCLEkZ4Jj_8TOHlNbbkKqLm6lQTf2CE1bTJ3F3BkonFqKCVI0zkPmpXgPEAjoiv9kKdmt6L2AV-HhHtLDXnzDHE2rajIS01n0OEXr5MGBYFrY0MkdjvnJc9mD8=",
-          "title": "kyoudo-ryouri.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl1csWdpfuYWwtJXNA4e3ewGpQeWu9AGNEM0oWTaw3h8m6_43RS38mcvGIupMxYnLwBf2NuBnIX2auQukEKjS-mDkqFIE9cnKRuzKkvv33Adf78Z3NHwyzDpZM",
+          "title": "hida-ootsubo.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXgiovmBIp-uEib1ojWDY5knnoTeOzG3LtaH6XbxnrghgKu0ELv5xGnZW2lwsw5cAXx-WzZ5bLaxrJhIXCD7ngy5w_ftri-ck3mW5TvXoS40-wUHeFegfu-OWs7QI=",
-          "title": "yoshima.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnZkZKaqt5mTZgovfjX7MkYHdRnpAilh1zfd0WvxFroRGB-ScCWM6r-VHG8mOCaDuYw_z5ceocetW_vZXZ1GsjeTd7eClEI2ftsO_o19AH2qcJqu69pysPsqtd0QI=",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvH4-AyOnSkX1imE-vX7g-xjvQbLM07GFU1RoegmH1i3w1amQg7nYv_Vn4oAzxf4v5DQIKQOigX0zYAcyIqeJkObj2LiJvIajo0gQeFg_4u1_GSKFzimtUzNn_pJoNDGXFFJBOyZgGqmE=",
-          "title": "delishkitchen.tv"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBbAlx6ekDHiVe-21L55k-2w2yRJ9GTtVWc3YxBlyAWdXQgGk7BradYf3Ky3BJFHWc2oYyOtNxt8CFu6d5mFTdioQeRH6wOQ8Y7AWMoyus3v-BdffQu56eZ0hhfM_SqsHYpKt_GpeSxyVmRb8sPw==",
+          "title": "city.hida.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx8OlJcAMxBaFcVPbqC3hZNzU8Oad9_22qrwWxslzD2wvE-qKHqP2gt9Hg0w3hhb8jJ8x8vRvyt0qMb-xl1dOFtyz7bdNcyq1wU7PUQFHhMj0hbG4oA5yrxuXkISPMXQnW83pJW8xrCHushCx0ycbsnG_UqRtcCHU51fjb7x2iCAQDsfQL9srlpvOr_XF6RAbOyhHwYNx_Cluf-0nbyL3uDiScsjy7meBqV6ZKlys=",
-          "title": "spa-hotel-alpina.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGam9SkCXoht6MxhZlNeErIdOrOOPzs-AHHA1MR_4KQ-AEoKJaraA3GU46BM3aQMetBb_pFHAxOYvFrNxa_FKgqzB8COsG8sXpXKT_Jh5VC7g==",
+          "title": "keichan-us.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTTZbUSNohYskVGR36v-j33h-6NEn7AfGw_ZUs1Icfd12TN0oIhXzc1jcssDeSeicRrBNQS31qBfckPpHnQcBvLR51ay6Je8RflNoMtbb-_6zskdHAtO07xSBTGRoduX_Xdg5vxuSgKRYBrvpHvS5M4c8saqLMfiux4pYAhjZ-6xB4xCbB",
-          "title": "maff.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEertP7wZK4ZL5rbgjIdVNOvSLIuopSpO0Fs5umuVnkQRr2cF6DXU8Ayd_hc9FyQMUEIekkHQ1POxuhbfwPwV74tjGZOCGYAPfngZdmW-XyvwqAwRsqdfdl7KUn3WmU9zUXnGGBYlO_bhY=",
+          "title": "kankou-gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZx0IbKjTwGN0Gq8maCv-p-mz1CqJeB41X-GgRgNl1c-4pWr9kjqXAZvAviI1wiDAaQmkwtQGpSuaFMC5Ykg9T_h-mb_iUoIdH2rrDtVDPRrKXkQYA_8t1avKoorHbU5E_Rg==",
-          "title": "mac-glass.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX6Ux2iFl-pN1WA_GTszFKD0GqJ-80Vj_U2GAQEHO9ZvrxCvQZubq8Ov-8vQY5k9jafDTAZhrcUblLPcYtO6kthp6KEDU4Kl5yBtGnMBFfGuAZSQQHEflKcwOaQA==",
+          "title": "hida-kankou.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXJdnEB4kSRiWX_ce-BNTo6E_8TA0aa6E-YYfY30dhIv7g9KGlgFAaULTnFbegr4HRM4zcuRkwLIk6TwIL6S5c85mp50RM5RV4ml8UWq2bPRO-hQ=",
-          "title": "ddgjapan.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnWi_N3airRRytCnpcN0VTHGi6zHUdYD3MkNfgumHWRXQEXwMSARlzD494row9pK9XwPi1ZlkunIJFfBkOomqzEXwbm4inMFRZBvskkSTME_iUVXFwbieyq3M5sm0HrjHa-r4=",
+          "title": "env.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbZyujJ-nnWpFlzPZm8HcUu66Jpah_iMHvCu_AcADYSTAPEzqf9gY-ruS7Pn2oWCG1Ej8Na0VG-x0ODU2J8XoEv5cr76ijGcO0MbSpftrBlDo2ewPYoDnNYhAegWK9",
-          "title": "putiputi.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSGkQ9EBiJPUfYx_9Wm6iQ-EwDlkH4VgHjOo9AaMbOgDM90qQ0GUp4f2JK--bzkjBVXbY68xe_-nehKPKjFS9fmXh7QtU11HYvRW4Y5GcguCmvkZG-YA==",
-          "title": "phys-edu.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUejPVWUBnbWOUYxBk1T9YjQTwbAlH1bUp5TcaLZqcOt84qfoIqTkzaEGlAFwnJC4_bCqs2QBJm3aKpZtIFuc3xg8w-0p9jtGHO-gEJgl5yyW3ygbTLOLQW_LfqPYaVofhME5fJvBOAPVC7vUtxu1b",
-          "title": "perfect-s.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFam9SnBA6jZEeVQTApHA_ZCR4TzXWgi-ClrpBRFyTUn5YmbCnv-HiwNaJRPyGP_YPnKW5nDbFJcuQ5cBY-qc9bD6kQfImUqfN1J1e2HNm8at0aQK64p4WVBFuuGWJ-7LY=",
-          "title": "slouch.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf71RgvY8cagIPzDaJIRXKQChlVILFCnGu04_0YMPKBhNHAr5t9T6KBPM86eF-CTYAjaNnlqL17GGHuH8vQWjmwp_Bwo2nIaCOJRE2sdv3asuLpLF1HZ0YGMBshN6kFqj02O69nuMRx-A=",
-          "title": "tokyo929.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0yI6ZNnZrhkqP9Lwzhmog5j9OkmDlsk0Dcbvw530inXwLxCki-HQhxwWE8NW9EZoIK24RcW-vbx8UUyWpJao31ogDvkPWDdlPjbtoU3B47RZ63uHM-4-B5uF7a6umsvp8xjCr",
-          "title": "weathernews.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwC5z5Ov5hZvhlcBR900kzwnsJTw7q3ydju6xcPgextF9hBE7_sfxVFFiZhCgtA4c04j3_K-ZV3SlM8pwsd-M_UxH63Zi99dOYFa68R4KYjdo3WGkKTevBZ4p9hSj7nKamHtAW3dl9HEVmjIAVFZui384Y",
-          "title": "iri-tokyo.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzMWEleLDNFU8lNU52BRv4CLkp6AKETTTp6jRmMFJo2WI7V14EC-U0bwGYM9z7tnD2dcKdxF05UPNEH0YAgoap-58fCddQf7BGU1PAu_nbbVqUO5MO9TiEYINHBAAmAKXLxHw=",
-          "title": "lion.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpLeHI2CSaWYcZYAh9DtZqvtvXV7-u3P9bkqXhw_5L9rrfsvsjJuoQQC8nKbA7LDpQfFN5pXwbQkYJi_8WfLditdAVEfuoYjTfS50Sd2QqM9Z9MbylFQFqTfcfWSJ9D1iHUTvJBvpVLyU4wOod50aEIqgHHuC_CYbCYVOz0FUPesNOMZn10g==",
-          "title": "yahoo.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkLkrurLG82MCMANdFw3z9Xq9Lxw6dIV2EkqJT65eJ1uW9BQ7TzZxwyCLeUrve-WMK2trWPzZKur4S-sT_aoWXxKJF9AjqNpvTge76ciSDyJw3G7tSUcyDjNZ4QbOK5KdO8ZRu1ck=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXT9wkn7r62J9lNb4SVNPt5v6QE99zieg4tvLK2jWbklYZdOQIZ50Q0h83svwmvdg4yui1EobGN5VYnI6ZEmxtfZNSbo-_PWFTnByc_zSBWL5C6t1KBYhgGGLrSv930g==",
           "title": "mynavi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj8rmq8ws1mCwi1BrMv5aQYi5s4S22Wk1AJi93bhfAjcxFN8DzhiSgTlXWxBxTiL9wFjkc3Bo2hMYCeErZOHGpDT9jrxqLoOygTUpGJkRpgVLQ0MqGIxa71Pm3CEZEqytb9Gh-lFqfkw==",
-          "title": "chiba-tv.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY48j-yG2cT_PTVAjG2ta-ZCN0N8_uq0ZoxOwQ30xblpPcV928MGD9dkrObwkPuISlOoGTlWedq8j0jLceYQ5D1qAXfzMGjEOsEZR-T-Ik4T2UajC1cKNJXtafCcB0Q6zawsRZwjpqvmIpTtRB",
+          "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVHyfPdOTRcZXRVyXYuqbPee_165v4_xlnBcrQwulge5yFZYl_iDeBS7V4ckmthy4ST6kmi_pJRKIg4l57ZxTq9naDc9Twx333MpGSMma2FY79ZNy_k1ofNi-vfx_EDKFQGNNiyTSk",
-          "title": "livedoor.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUzXEutQt9dk6h68l_2jQgQuv5tRclkBsb9tSsgEhmiWgvcpNB9FTEoxX3Xl1FDLCJ0vpQaZ5r-Vb9QP84ZCiNS0zQW9YR0EKtGAs9mCPbXIlgjGNrKrh9irdJB3C6JRU2RzYE1utJe2AZ9TAY",
+          "title": "ja-aichikita.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMGQXXWAnAtDvdjJhXox1WGl721UFr0YtVN-LNcR5QWJTUdmhIZ7-MxA3yUEduxFSxixGlAGzpuLh0J3I2JKiJVva-WPncxlM5_ITW5l12Knh1Nl8B4XOfBNqWn5m27DDkdFC4",
-          "title": "ecnomikata.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-kOVVI-90h-yOe889aQHe7HA_MajKDs7BI2y5h2X78DASP_l01ZkYbDlvsUUSi6IxWqVRiA263_bm6N5_VjEPl01Rqo95iQ6BhJ1CcvIUimJeZuIlwDS0s1sVHbmWG0E6fZTKhT2NOKXA3m0zrWd5S74mLP8mpraG9qZYRkdBy7iDpML2m7ism-Vs7A==",
+          "title": "maff.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV7yGcD1w_6YgxsR8EcQVMclBVKTD8Iw8Qoe6_RPsv7lreoMC2oVtcK37coS9vuhIp0SJxnOLPvzQmoEXoCiBgWWCLpCN8A3WecYldDw8ChXCKOgGJI2bwYXbPN55zjRDr0JSnB9M=",
+          "title": "gifu-tisan.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZE3ll2HocdA8mIgDGUhF5D-Wvyj7desy9NTxaCyb7EU-T7IOIbA982ILWG9DVLlxWx23NhHCT9ySCrjqaBSCHSV8gdPsK4pxGm6Y3L0p9WtdD2IAtiVqzMkIXWavdeUOtWfpBwlaRvMVsk2m882oRBB5e_PcrZv0=",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJVYSxU5S0b2ajkK_56kewGjg4dmaerOqMODheAQ4QFzeOk3zTEc7YI9PFGuiAxnhcjjesEar-V2oWpHQ-qdbo-OlGnUSkQN3IjQp1YwiF79aYzw7fYtGTf4Dm_95-ZgcgzhBl6rS13KxMhbq2A96HB9dwoc79Y4bLqft6McTJTdmUjbSQPf1ThNgRU7spAfrXk8vD7oV8",
+          "title": "city.moriguchi.osaka.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWPlHGpPurwxq4a-3vNsR-4pa_Kkl8LD9BmWi_GYxbVrY3ar4Hc4hta2HNgrbNNYAOvoaFx2THXEbPkPq-fuW-hrSoXjvRwBb8TBHh_Q0fnTjo64EB3a8YkDYHs3o5XhV-FgRDoy8=",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_39KDQe1xgqNLHuFQjl9jbarhIpbP6v1BfdSXQLtUW48Wr61v9JjPQnVkJYm8FmndrMM5GkpJmCj3C-QSkOi3OmY9K8V7BdrAN3mjSwXV7sX_mrdfMQ2WyAG4qcbxb_6hat6mdOa1pi_RLA3TOrPoBuwpAo3o0hbaJMkM8vdsMf2aabk-Tw-WzoiT",
+          "title": "kewpie.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFliWOH-UlfQ5liXOucfyaIj_OSeT9a8d_XKSCabKWZu38v1sNvvG9JMr3H2pvZD9BbH-fIt4VCYmn35To8mnuxXJck468v-Mi5izk0qDvIgLTPMnZ_kUrMtEC9Jj09ENm",
+          "title": "kewpie.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQuckXOWYlM94OxPiBC-s4H382Tia8X7hCtAnKWmNgjrpHgHGBow1lKr-FS9VSpN9jPP2mknPGmfGLZwPDmrBdxpMspiJ9Qc5sGVZTLiGKjPrwzwFaq_yJsIkGx1Zrsi9CemsabaREmlwkPdFIQtLHNUUeURD90OW440jXhly3avle",
+          "title": "withnews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAo03Y-FZ24-Tana7pCAK2nr9nnUBpggfw6kOQRJSqWgZV05eVTZJzC0svshL3aePRqtcKN9AgB3NUlbq8V2Ae3OlEn_3Rx10huOHhFU__047gKTuy7vDAE760XAiKrY_ofqJdQghbBit8_wIOCX94_Uv8kQG-3EGjKlAT",
+          "title": "msdm-hd.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTORWiXiyfgOLknk05SX2sS_Kxt1jeTLVrRJOTZUdKm61l8cNYwMizAg1WMJtmKxDd4pTtOPcvagZKHs0XHE9w8-wcdwNndb9hJSL09LHMJQ-5g8jKpe73bNbItQ_k1cBO_zGyorsq",
+          "title": "ameblo.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAA6CRl-Nl2CSYHF0MRpH6HdVsf6FE5U5ze8VzdKHj_peViY6WnovL0LzopmTNfIDSNHEJVxSC45b-Ts3kMqLmCuTlbNM275zPAP3x87UBoHdWvFBcT11kAZrB4nfAb80Kb1jBmkTI9Wk2eO4NmTWgd_UP5Onb",
+          "title": "housefoods.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3sVZcJw7GmKnaia4JjgUN3qQyJ4eTHzbwpjijhL9G1HwfaSCdoA9OqDgK6lAl5n2AMeD0II6-PxHa-Thgl-xCrMvEt9fGlQEUj4Tp-6JpYq5D69vyoMFcQQy0keCAeoqUIy-XzieQLA==",
+          "title": "jspp.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrYviR_UK4lVjDyfjLOC4xRe2d1_NAEtkiF-jTSiD8QlMwv7U6Wo7fHRWagltqn3eVQwwm-haRZNFXmgNyhosfhv4QtJ88UWvbGcSlQ4UFRvAHR2V8ZHZe3CI8sl4wYTaey4E9VUCuLQ=",
+          "title": "chem-station.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9_MKV0gUVI5dpK5FeoJzXOuhfwxkyl-dxiIMzBxI9S0iUqWCJFn_V7IPMD0_fSXbNwUqWrA3b6PIWSRDu98RMftRQmju903c_5N711H0cId_eEhVyocXRS-TjVZBa7OMqzE6iqFK7",
+          "title": "toyokeizai.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVRD64RlImw3dcagS7BUkK2a774Wlebid6C_yMv5sxddIOtM6WprBRADiJDXYv_-Ch0HZ4fBiEaLXQ0v35qm6lVPZEBFK1_PRIvl8vgqKsNO92HxxJXDHLDEjLXHRCaQ==",
+          "title": "note.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrERJdaUyaOGd9MV8KE_8mqSs5O1UCd5zrjZ9AUtKds9GpG40OXL53n-jXE81uRGtkIEcz74y-vzokYpcL3aHY3Ls-WbBpVcVwW5s7sC1OlbtC3YoxwXzd9PMXAFmJltgPYOjRa9YlcoZ97nxkum5zIRG0du9X1ZYi",
+          "title": "hosei.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdOKULmxc8WzvffzFsaOYwDsmGkYi_WZf_ctMwpmZWXdsV0tqRVpmNQCHWNCV_t0sLs0NbQVvaW6z1cDaLt-AG3_NHxFjFQnbmATWkjXUqs9wo8p8J8KMm8vPHkiPZA3vkdmXxw8vCNKr0CV1wCTG8P6gsb30EeetvzU=",
+          "title": "housefoods-group.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshrWPegIVfkxXeN7msRp0QqI-BiKryIIJisvWPTHufKBUOC9mIW2JeW3X7j21RMugYYmV_Rp182kVg_juyBM_AdwLLmzbpOI4Sp21kjKCeBQowOKQvfyrWexcpTXNgchs0L4aTv2H-4ttcNx4rpE_-dyzDxzdGyQsQILW48M8uDqRp435tleEw8lnlXdZ1IA5MCPNfr0me_HPjw0wvBe-1Fh-zghcnVhKYnm2ECWuo_agaOXOyHJ1xGg8mbPLwuGmX188DtLBxy_NpvHqS9E=",
+          "title": "kazusa.or.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2UDfVdekrNeAdsYFz7mfs2GH05h4JLwZUrn_uw_EAnjuu1l6t-dtOO_aYIIaI7TT3sFT0eBnaRSgdnlgVicK876TYlOlKagwjqx1IaOd7nFcBiq0cHUK5eCRpXffSsRt3j0f2WVyg9VA=",
+          "title": "ameblo.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 1028,
-          "endIndex": 1172,
-          "text": "また、乳酸発酵が進んで酸味が強くなった古漬けも、油で炒めることで酸味が和らぎ、旨みが引き立ちます"
+          "startIndex": 769,
+          "endIndex": 994,
+          "text": "語源には諸説ありますが、神岡町の老舗飲食店などによると、かつて朝鮮半島でホルモン・内臓全般を指していた言葉（トンチャン等）に由来するという説が有力です"
         },
         "groundingChunkIndices": [
           0,
-          1,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 997,
+          "endIndex": 1201,
+          "text": "一般的な東海地方の「とんちゃん」は豚の腸を指すことが多いのに対し、神岡では上質な牛の内臓を鉄板で焼く独自の料理としてその名が定着しました"
+        },
+        "groundingChunkIndices": [
+          0,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1214,
-          "endIndex": 1335,
-          "text": "飛騨の家庭で冬に仕込む「切り漬け」は、野菜重量の約3％の塩分で漬けられることが多く"
+          "startIndex": 1243,
+          "endIndex": 1465,
+          "text": "飛騨市や観光協会の資料によると、神岡とんちゃんではミノ、センマイ、ハチノス、小腸など、約8〜10種類もの様々な部位の牛ホルモンがミックスされて使われます"
         },
         "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1214,
-          "endIndex": 1434,
-          "text": "飛騨の家庭で冬に仕込む「切り漬け」は、野菜重量の約3％の塩分で漬けられることが多く、冬場の厳しい寒さの中では樽の表面に分厚い氷が張るほど冷え込みます"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1437,
-          "endIndex": 1638,
-          "text": "凍ったままでは塩辛さと冷たさで食べにくい漬物も、加熱して卵（水分と脂質）で包むことで、塩分刺激がまろやかになり、立派な主菜に変わります"
-        },
-        "groundingChunkIndices": [
+          0,
           3,
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1665,
-          "endIndex": 1749,
-          "text": "「ステーキ」と名乗っていますが、お肉は一切入っていません"
-        },
-        "groundingChunkIndices": [
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 1881,
-          "endIndex": 2031,
-          "text": "かつては鉄板ではなく、囲炉裏の灰の上で「朴葉（ほおば）」の上に凍った漬物をのせて炙って食べていました"
+          "startIndex": 1468,
+          "endIndex": 1561,
+          "text": "豚ホルモン単体に比べて多彩な食感とうま味を楽しめるのが特徴です"
         },
         "groundingChunkIndices": [
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2034,
-          "endIndex": 2259,
-          "text": "昭和期に鶏卵が手頃な価格で手に入るようになってから「卵でとじる」スタイルが定着し、現在では神岡や飛騨各地の居酒屋や家庭で親しまれる定番料理となりました"
+          "startIndex": 1588,
+          "endIndex": 1769,
+          "text": "通常ホルモン焼きといえば肉を食べるのが主役ですが、神岡とんちゃんは「野菜と肉汁の調和」、そして「2段階のシメ」が真骨頂です"
         },
         "groundingChunkIndices": [
           0,
-          1
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 2289,
-          "endIndex": 2385,
-          "text": "農林水産省『うちの郷土料理（岐阜県：煮たくもじ／赤かぶ漬け等）』"
+          "startIndex": 1772,
+          "endIndex": 1976,
+          "text": "鉄板に残った秘伝の味噌ダレに、まず「うどん」を投入して楽しみ、さらにその後に「ご飯」を絡めて食べるという独自の食文化が受け継がれています"
+        },
+        "groundingChunkIndices": [
+          0,
+          3,
+          1,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2006,
+          "endIndex": 2113,
+          "text": "誕生は昭和30年代、東洋一の亜鉛山として栄えていた神岡鉱山の時代に遡ります"
+        },
+        "groundingChunkIndices": [
+          0,
+          5,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2116,
+          "endIndex": 2416,
+          "text": "過酷な坑内作業を終えた鉱山労働者たちが、手早くスタミナをつけて英気を養えるよう、味噌やニンニクを効かせたタレで味付けしたホルモンをキャベツや玉ねぎと一緒に平鍋・鉄板で豪快に炒めたのが発祥とされています"
+        },
+        "groundingChunkIndices": [
+          0,
+          5,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2451,
+          "endIndex": 2526,
+          "text": "飛騨市公式ウェブサイト「きのえ（神岡とんちゃん）」"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2531,
+          "endIndex": 2597,
+          "text": "飛騨市公式観光サイト「飛騨の旅」（たからや）"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2602,
+          "endIndex": 2686,
+          "text": "岐阜県観光公式サイト「岐阜の旅ガイド」（神岡とんちゃん）"
         },
         "groundingChunkIndices": [
           5
@@ -285,234 +387,165 @@
       },
       {
         "segment": {
-          "startIndex": 2289,
-          "endIndex": 2439,
-          "text": "農林水産省『うちの郷土料理（岐阜県：煮たくもじ／赤かぶ漬け等）』、郷土料理ものがたり『漬物ステーキ』"
+          "startIndex": 2834,
+          "endIndex": 3026,
+          "text": "岐阜県（岐阜市・各務原市など）や愛知県の木曽川・長良川流域で栽培される「守口大根」は、ギネス記録にも認定される世界一長い大根です"
         },
         "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2853,
-          "endIndex": 2907,
-          "text": "正解は「凸凹面をガラス側」に向けます"
-        },
-        "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2910,
-          "endIndex": 3123,
-          "text": "凸凹面をガラスに当てることで、気泡の中の空気に加え、気泡と気泡のすき間にも「密閉された空気の層」が二重に形成され、断熱効果がより高まるためです"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3126,
-          "endIndex": 3261,
-          "text": "また、室内側を平らな面にすることで、埃や汚れが溝に溜まるのを防ぐ衛生上のメリットもあります"
-        },
-        "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3505,
-          "endIndex": 3757,
-          "text": "空気は非常に熱を伝えにくい性質（静止空気の熱伝導率はガラスの約40分の1〜50分の1）を持っており、プチプチで窓際に動かない空気層を作ることは、手軽ながら理にかなった断熱法です"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3784,
-          "endIndex": 3955,
-          "text": "平らな面を窓にピタッと密着させたくなるのが人情ですが、実は「凸凹を窓側に向ける」のがメーカー推奨の正しい貼り方です"
-        },
-        "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3985,
-          "endIndex": 4051,
-          "text": "「プチプチ」は川上産業株式会社の登録商標です"
-        },
-        "groundingChunkIndices": [
-          6,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5172,
-          "endIndex": 5244,
-          "text": "川上産業株式会社（プチプチの登録商標・製品情報）"
-        },
-        "groundingChunkIndices": [
-          6,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5172,
-          "endIndex": 5313,
-          "text": "川上産業株式会社（プチプチの登録商標・製品情報）、DDG JAPAN『窓へのプチプチの貼り方をチェック！』"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5697,
-          "endIndex": 5901,
-          "text": "静電気は服同士のこすれ合いで生じますが、素材によって「プラスの電気を帯びやすい素材」と「マイナスの電気を帯びやすい素材」が決まっています"
-        },
-        "groundingChunkIndices": [
+          7,
+          8,
           9,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 5904,
-          "endIndex": 6003,
-          "text": "この性質の差を順に並べたものを「帯電列（たいでんれつ）」と呼びます"
+          "startIndex": 3110,
+          "endIndex": 3305,
+          "text": "品種特有の旺盛な伸長力に加え、栽培地である長良川や木曽川の河畔に「きめ細かく深くまで均質で柔らかい砂質土壌」が広がっているためです"
         },
         "groundingChunkIndices": [
-          9,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6006,
-          "endIndex": 6210,
-          "text": "プラス極の素材とマイナス極の素材を重ね着すると激しい放電（バチッ）が起きますが、似た性質同士を組み合わせれば静電気はほとんど発生しません"
-        },
-        "groundingChunkIndices": [
-          12,
-          9,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6254,
-          "endIndex": 6323,
-          "text": "プラスに帯電しやすい：ウール（羊毛）、ナイロン"
-        },
-        "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6328,
-          "endIndex": 6397,
-          "text": "マイナスに帯電しやすい：ポリエステル、アクリル"
-        },
-        "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6402,
-          "endIndex": 6483,
-          "text": "どちらにも偏りにくい：綿（コットン）、絹（シルク）、麻"
-        },
-        "groundingChunkIndices": [
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6488,
-          "endIndex": 6698,
-          "text": "たとえば「ウールのセーター（＋）」の下に「ポリエステルの機能性インナー（ー）」を着ると、帯電列の両端同士が擦れ合って最大級の静電気が起きます"
-        },
-        "groundingChunkIndices": [
-          9,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6701,
-          "endIndex": 6887,
-          "text": "逆に「ウールのセーター（＋）」に「ナイロンのジャケット（＋）」なら、擦れ合っても電位差が小さいため静電気が起きにくくなります"
-        },
-        "groundingChunkIndices": [
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6914,
-          "endIndex": 7181,
-          "text": "冬の定番である「あったかインナー」は化学繊維（ポリエステルやアクリル）が多いため、良かれと思って天然のウールセーターを重ねると、最も静電気が起きやすい組み合わせになってしまいます"
-        },
-        "groundingChunkIndices": [
-          9,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7184,
-          "endIndex": 7305,
-          "text": "中間に「綿100％のシャツ」を1枚挟むだけで、天然の緩衝材となって静電気を遮断できます"
-        },
-        "groundingChunkIndices": [
-          9,
           11,
+          12,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3308,
+          "endIndex": 3549,
+          "text": "土中に小石や粘土層などの障害物があると根が二股に分かれたり曲がったりしてしまいますが、障害物のない深い砂地だからこそ、地下深くへ真っ直ぐ1本に伸びることができます"
+        },
+        "groundingChunkIndices": [
+          11,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3591,
+          "endIndex": 3832,
+          "text": "普段家庭で食べる一般的な青首大根は長さ約30cm・太さ約8cm前後ですが、守口大根は直径がわずか2〜3cmほどしかないのに対し、長さは平均1.2〜1.3m、長いものでは1.8m以上に達します"
+        },
+        "groundingChunkIndices": [
+          11,
+          9,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3835,
+          "endIndex": 3990,
+          "text": "2013年には愛知県扶桑町で収穫された191.7cmの守口大根が「世界一長い大根」としてギネス世界記録に登録されました"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4017,
+          "endIndex": 4197,
+          "text": "「守口」という大阪の地名がついているのに、現在の全国シェアのほとんどは木曽川・長良川流域（岐阜県・愛知県）が占めています"
+        },
+        "groundingChunkIndices": [
+          11,
+          7,
+          10,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 7676,
-          "endIndex": 7772,
-          "text": "東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』"
+          "startIndex": 4200,
+          "endIndex": 4447,
+          "text": "また、身が非常に硬く締まっていて辛みが強いため、煮物やサラダなどの生食には向かず、3年近くかけて塩や酒粕・みりん粕に漬け込む「守口漬」専用の野菜として栽培されています"
         },
         "groundingChunkIndices": [
-          12
+          10,
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 7676,
-          "endIndex": 7881,
-          "text": "東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』、地方独立行政法人 東京都立産業技術研究センター（繊維帯電性試験関連資料）"
+          "startIndex": 4477,
+          "endIndex": 4699,
+          "text": "起源は室町時代の大阪・淀川流域（現在の守口市付近）とされ、天正年間に豊臣秀吉がこの大根の粕漬けを食して絶賛し「守口漬」と命名したという逸話があります"
         },
         "groundingChunkIndices": [
+          11,
           14
         ]
       },
       {
         "segment": {
-          "startIndex": 7676,
-          "endIndex": 7986,
-          "text": "東京都クリーニング生活衛生同業組合『衣服と静電気の関係について』、地方独立行政法人 東京都立産業技術研究センター（繊維帯電性試験関連資料）、ライオン株式会社『エレガード（静電気が発生しやすいコーディネート）』"
+          "startIndex": 4702,
+          "endIndex": 4834,
+          "text": "しかし明治以降、淀川の改修工事や都市化によって本家・大阪の産地はほぼ消滅してしまいました"
+        },
+        "groundingChunkIndices": [
+          11,
+          14,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4837,
+          "endIndex": 5056,
+          "text": "淀川と地質条件がそっくりだった木曽川・長良川流域の農家が栽培技術を受け継ぎ、東海地方を代表する特産品として生き残ったという数奇な歴史を持っています"
+        },
+        "groundingChunkIndices": [
+          7,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5091,
+          "endIndex": 5154,
+          "text": "農林水産省「にっぽん伝統食図鑑」（守口漬）"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5159,
+          "endIndex": 5235,
+          "text": "環境省「中部生物多様性物語Ⅱ 絶滅から生まれた名物」"
+        },
+        "groundingChunkIndices": [
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5240,
+          "endIndex": 5318,
+          "text": "愛知県農業水産局「あいちの伝統野菜（守口だいこん）」"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5323,
+          "endIndex": 5380,
+          "text": "岐阜県「ぎふの農産物（守口だいこん）」"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5545,
+          "endIndex": 5726,
+          "text": "傷みやすい「生卵」を原料に使っているマヨネーズですが、未開封であれば冷蔵庫に入れず、キッチンの常温で約1年間も保存できます"
         },
         "groundingChunkIndices": [
           15
@@ -520,55 +553,306 @@
       },
       {
         "segment": {
-          "startIndex": 8329,
-          "endIndex": 8562,
-          "text": "帝国データバンクが公表した主要食品メーカー195社の価格改定動向調査によると、**2026年11月の値上げは1,477品目**に上り、前年同月（約150品目）の約10倍の規模となりました"
+          "startIndex": 5786,
+          "endIndex": 5960,
+          "text": "マヨネーズには「食塩」と、殺菌力を持つ「醸造酢」が含まれており、製品全体が強い酸性（pH約4前後）に保たれているためです"
         },
         "groundingChunkIndices": [
           16,
-          17,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5963,
+          "endIndex": 6183,
+          "text": "さらに、成分の約7割を占める植物油の微粒子が水分を包み込む乳化構造をとっており、細菌が増殖するために必要な「自由水」が極めて少ない環境になっています"
+        },
+        "groundingChunkIndices": [
+          18,
+          15,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6225,
+          "endIndex": 6401,
+          "text": "通常の生卵の賞味期限は生食で約2週間程度ですが、キユーピーのマヨネーズ（未開封）の賞味期間は12〜13カ月に設定されています"
+        },
+        "groundingChunkIndices": [
+          18,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6404,
+          "endIndex": 6616,
+          "text": "キユーピーの実験データによると、マヨネーズの中に病原菌を試験的に添加しても、酢と食塩の殺菌作用により24時間以内に全滅することが確認されています"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6643,
+          "endIndex": 6769,
+          "text": "これほど長持ちするにもかかわらず、合成保存料や防腐剤は一切使われていません（無添加）"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6772,
+          "endIndex": 6862,
+          "text": "また、未開封の段階では「冷蔵庫に入れない」ほうが長持ちします"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6865,
+          "endIndex": 7151,
+          "text": "マヨネーズは0℃以下になると油と酢の乳化が破壊されて分離し、防腐効果が損なわれるため、メーカーは開栓前は常温の冷暗所、開栓後も冷気の直撃を避けて冷蔵室のドアポケット付近での保存を推奨しています"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7181,
+          "endIndex": 7328,
+          "text": "1925年（大正14年）に日本で初めてマヨネーズを製造・販売したキユーピーの歴史は、「酸素との戦い」でした"
+        },
+        "groundingChunkIndices": [
           18
         ]
       },
       {
         "segment": {
-          "startIndex": 8565,
-          "endIndex": 8679,
-          "text": "これにより、2026年の年間累計値上げ品目数は2万品目を突破（2万327品目）しています"
+          "startIndex": 7331,
+          "endIndex": 7412,
+          "text": "マヨネーズが傷む主な原因は腐敗ではなく「油の酸化」です"
         },
         "groundingChunkIndices": [
-          19,
-          17,
-          18
+          18,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 8682,
-          "endIndex": 8849,
-          "text": "10月のピークに比べると勢いは一服したものの、包装資材や物流費の高止まり、原材料価格の転嫁が依然として続いています"
+          "startIndex": 7415,
+          "endIndex": 7703,
+          "text": "そのため、酸素を通しにくい多層プラスチックボトル、ボトルの口に貼るアルミシール、容器内に残った空気を窒素に置き換える技術など、容器包装の改良を何十年も重ねて賞味期限を伸ばしてきた経緯があります"
         },
         "groundingChunkIndices": [
-          20,
-          18
+          18,
+          17
         ]
       },
       {
         "segment": {
-          "startIndex": 10320,
-          "endIndex": 10442,
-          "text": "帝国データバンク『「食品主要195社」価格改定動向調査―2026年11月』（2026年10月30日公表）"
+          "startIndex": 7838,
+          "endIndex": 7868,
+          "text": "おいしさを保つ工夫」"
         },
         "groundingChunkIndices": [
-          18
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7873,
+          "endIndex": 7955,
+          "text": "キユーピー株式会社 食育活動「酢と食塩の力で長持ちする」"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8294,
+          "endIndex": 8641,
+          "text": "タマネギの細胞が包丁で傷つくと、細胞内に別々に保管されていた含硫アミノ酸（PRENCSO）と酵素「アリイナーゼ」が混ざり合い、さらに「催涙因子合成酵素（LFS）」が働くことで、揮発性の催涙成分（syn-プロパンチアール-S-オキシド）が生成されるためです"
+        },
+        "groundingChunkIndices": [
+          21,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8644,
+          "endIndex": 8758,
+          "text": "この気体が空気中を漂って目の角膜に触れ、神経を刺激することで涙が分泌されます"
+        },
+        "groundingChunkIndices": [
+          23,
+          22,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9262,
+          "endIndex": 9407,
+          "text": "かつて世界の科学界では「アリイナーゼという1つの酵素が催涙成分を作る」と数十年間信じられていました"
+        },
+        "groundingChunkIndices": [
+          25,
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9410,
+          "endIndex": 9700,
+          "text": "しかし、日本のハウス食品の研究グループが「実は催涙成分を作るには、もう1つの未知の酵素（催涙因子合成酵素：LFS）が必要不可欠である」ことを突き止め、2002年に世界的科学雑誌『Nature』に論文を発表しました"
+        },
+        "groundingChunkIndices": [
+          21,
+          27,
+          28
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9703,
+          "endIndex": 9878,
+          "text": "この功績により、同研究チームは2013年に「人々を笑わせ、考えさせる」研究に贈られる「イグノーベル化学賞」を受賞しています"
+        },
+        "groundingChunkIndices": [
+          21,
+          28,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9908,
+          "endIndex": 10154,
+          "text": "この世界的な大発見のきっかけは、同社がレトルトカレーの開発中、「タマネギとニンニクを一緒に炒めると、なぜか全体が緑色に変色してしまう」という製造現場のトラブルでした"
+        },
+        "groundingChunkIndices": [
+          27,
+          28,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10157,
+          "endIndex": 10392,
+          "text": "なぜ緑色になるのかという失敗原因を追究する基礎研究の中で、偶然にもタマネギに隠されていた第2の酵素が見つかったという、まさに失敗から生まれた世紀の大発見でした"
+        },
+        "groundingChunkIndices": [
+          27,
+          28,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10427,
+          "endIndex": 10557,
+          "text": "ハウス食品グループ本社「タマネギ研究での イグノーベル賞受賞について（プレスリリース）」"
+        },
+        "groundingChunkIndices": [
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10562,
+          "endIndex": 10646,
+          "text": "ハウス食品グループ本社「タマネギの催涙成分に関する研究」"
+        },
+        "groundingChunkIndices": [
+          27
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10651,
+          "endIndex": 10741,
+          "text": "日本植物生理学会「みんなのひろば：玉ねぎの催涙成分について」"
+        },
+        "groundingChunkIndices": [
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10828,
+          "endIndex": 10933,
+          "text": "飛騨市神岡町で半世紀以上愛されている名物ソウルフード「神岡とんちゃん」"
+        },
+        "groundingChunkIndices": [
+          0,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11180,
+          "endIndex": 11215,
+          "text": "**② 牛肉（牛ホルモン）**"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11254,
+          "endIndex": 11470,
+          "text": "名前に「豚（とん）」と入っているため豚肉と思われがちですが、神岡とんちゃんは国産牛の小腸やミノ、センマイなどの牛ホルモンを使うのが大きな特徴です"
+        },
+        "groundingChunkIndices": [
+          0,
+          3,
+          29
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11476,
+          "endIndex": 11676,
+          "text": "とん」は朝鮮半島の言葉で内臓を意味していた言葉に由来するという説があり、昭和30年代に神岡鉱山で働く方々のスタミナ料理として定着しました"
+        },
+        "groundingChunkIndices": [
+          0,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11679,
+          "endIndex": 11836,
+          "text": "野菜と一緒に鉄板で炒めたあと、タレにうどん、さらにご飯を投入してシメを2度味わうのが神岡流の粋な食べ方です"
+        },
+        "groundingChunkIndices": [
+          0,
+          3,
+          4
         ]
       }
     ],
     "webSearchQueries": [
-      "帝国データバンク 食品主要195社 価格改定動向調査 2024年11月",
-      "静電気 服 組み合わせ 帯電列 東京都立産業技術研究センター",
-      "農林水産省 うちの郷土料理 岐阜県 漬物ステーキ",
-      "川上産業 プチプチ 窓 断熱 凸凹 向き"
+      "砂糖 塩 賞味期限 なぜ 農林水産省",
+      "守口大根 長さ なぜ 岐阜 農林水産省",
+      "神岡とんちゃん 牛ホルモン なぜ 飛騨市",
+      "マヨネーズ なぜ 腐らない キユーピー",
+      "タマネギ 涙 ハウス食品 イグノーベル賞 催涙成分"
     ]
   }
 }
