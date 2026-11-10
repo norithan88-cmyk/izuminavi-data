@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09T09:53:10.809+09:00",
+  "updated_at": "2026-11-10T12:33:09.635+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=12&type=2&year=2026"
   ],
-  "event_count": 15,
+  "event_count": 16,
   "events": [
     {
       "title": "あんじょう健康大学 第3講",
@@ -44,6 +44,14 @@
       "url": "https://www.city.anjo.aichi.jp/event/tiikikeahoukatufo-ramu.html",
       "start_date": "2026-11-18",
       "end_date": "2026-11-18",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "あいち花マルシェ2026 三河ステージ",
+      "url": "https://www.city.anjo.aichi.jp/event/aichihanamarche2026.html",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-23",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
