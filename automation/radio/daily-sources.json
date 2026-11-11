@@ -1,24 +1,30 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2264,
-  "estimated_minutes": 6.9,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2401,
+  "estimated_minutes": 7.3,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "名古屋名物きしめんのルーツとされる刈谷の芋川うどん。旅人に大人気だったこの麺の意外な真実とは？1番、芋が一切入っていない。2番、芋虫の形をしていた。3番、茹で汁が全部とろろ芋だった。",
-    "answer": "正解は1番の芋が一切入っていない、でした！地名の芋川が由来だもんで芋はゼロ。名前で完全に騙しにきとるじゃんね！",
+    "question": "安城市桜町にある「安城七夕神社」の歴史にまつわる意外な事実とは？1番、織田信長が勝手に建てた。2番、七夕まつりが大成功した後に建てられた。3番、仙台から神様を強引に連れてきた。",
+    "answer": "正解は2番、まつりが大成功した後に建てられたでした！昭和29年に始まったお祭りのシンボルにしようと、6年後に市民の熱意で建てられたんだって。神社がお祭りより後なんて、すごい情熱だよね！",
     "source_ids": [
-      6
+      2,
+      8,
+      9,
+      10
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr4zvq8kE4jNlnUUHQhCYl53QnNPVrrAj9VCp17U4KWZmuyLQA-JFUrC_8BEX8_zkLazU6sINaDeujWrX6t46kNriAYdnlWVsB-cQjAwoCP0GY4PoAt-cf1193w81rY_vCbClgI8E="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIep2lLnrtz3w53EVt8emdAFVSx8_UsmWac5wxa8K479FiKPx3Qe_mYDnqrYzdjTfIhDTZ2j4H48pfJFSt4sI7cn3bNwughO5oiGm1noTPrRCHJxZH-09y9vso-g3j4un7hv8=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYBLidTsgmH1Xyve5fNOuss44f2oaeIhchwXJ4F_1Z7r3RRT6v1Chs8g33HUXKEyq8XfpnNmkBIvbSAGCfSZxJULTBegKWr1L0iO8kyhEeTnMKtXyrB1GIoiA=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRlce7iOSRFkmzlrv9g6wEtChnGwgd7ylJ473tNtdlF3Uj9jpbSd7n-5JRFjznf9jiA2Nm0iGOKUnc64vShdWei3KMGDzF9YshvpsWkGcFSjWAIz1GeENr",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWt5pwvdxvjJUO-VqW6cy-0SGGg7NbA9KeD5vCwD2FzpyzOyyy2pkaRzQwiGdUezc1_QUx1D3s0Bir8uIBQm7wm1NYi2JG-PRjrugZoKOg9qUXCZ6O0kJk8Uj95OQ3Nv59JGVcF8tTQFvaQbZfqTDDQw=="
     ]
   },
   "izumi": {
-    "text": "ここで和泉の歴史を深掘りする、みおんの和泉ディープ！今朝は和泉町が生んだ偉人、都築弥厚さんのお話です。弥厚さんは1765年に和泉村で生まれた豪農で、酒造業や代官職も務めた大物なんだけど、当時の碧海台地は酸性の粘土質で水はけが悪く、水不足と水争いが絶えんかったんだよね。そこで弥厚さんは、矢作川から約30キロの水路を引いて約6,000ヘクタールを潤すというとんでもない大用水を思いつきます。1822年から高棚村の和算家、石川喜平さんと測量を始めたんだけど、水害を恐れる農民から妨害されまくって、夜に提灯や松明の明かりでこっそり測量したんだに。綿やそばの種をまいて芽を目印にしたっていうから、今なら完全に怪しい夜の不審者扱いじゃん！それでも諦めずに5年がかりで1826年に測量を終え、翌年に幕府へ願書を出しました。そして1833年、ついに計画の一部に幕府から許可が出たんです！やったー！報われたー！…って拍手したいところなんだけど、なんと弥厚さん、その同じ年に69歳で病気で亡くなっちゃうの！えっ、ちょっと待って、今から工事じゃんね！？一番いいところで主役が退場するなんて、ドラマなら視聴者が大混乱だに。しかも私財をつぎ込みすぎて、残った借金は2万5千両。現代なら大炎上ものの壮絶な人生だけど、この執念があったから今の豊かな安城があるんだよね。和泉の誇りだに！",
+    "text": "さて、みおんの和泉ディープ！今日は和泉町にもゆかりが深い明治用水の偉人、岡本兵松さんのお話です。兵松さんは1821年に現在の大浜村、今の碧南市で生まれた背の高い厳格な人物だったそう。1853年ごろに都築弥厚さんの子孫から原野を買い取って開墾を始めて、そこで弥厚さんの用水計画を知って遺志を継ぐと決めたんだって。でもね、1858年と1868年に計画を申請したものの、2回とも許可が出んかったの！普通なら心がポキッと折れちゃうじゃん？そこで兵松さん、阿弥陀堂村の庄屋、伊予田与八郎さんと計画を合体させたんです。これがまさに最強のタッグ結成！岡本さんが農民の説得、伊予田さんが出資者との交渉という、現代で言えば現場の営業担当と敏腕マネー担当の名コンビを組んだんだわ。この二人三脚で粘りに粘って、1876年に愛知県から認可！1879年に工事が始まって、1880年4月18日には水源地で通水式を迎えたんだに。翌年1881年には「明治用水」と名付けられて、かんがい面積は最大1万760ヘクタール！弥厚さんの構想から実現まで半世紀近くかかった大事業だったんだね。兵松さんも私財を投じたもんで晩年は経済的に苦しく、1897年に76歳で亡くなったそうだけど、この用水のおかげで安城は農業が発展して「日本デンマーク」と呼ばれるまでになったんだよ。説得とお金のプロが力を合わせた熱いドラマ、地元の誇りじゃんね！",
     "source_ids": [
       1
     ],
@@ -26,238 +32,164 @@
       "https://anjo-izumi.life/tuzuki/"
     ],
     "angle": {
-      "id": "yakou-timing",
-      "hook": "やっと許可が出た年に亡くなる。報われなかった男の話"
+      "id": "meiji-team",
+      "hook": "説得担当とお金担当、名コンビで完成させた明治用水"
     }
   },
   "local": {
-    "text": "11月14日の土曜日に、中部公民館ふれあいウォーキングが開催されますよ！秋風を感じながらみんなで歩いて、心地よい汗を流すのも楽しそうじゃんね。気になる方はぜひチェックしてみてりん！",
+    "text": "11月21日土曜日と22日日曜日に「西部地域まつり」が開催されますよ！さらに11月21日から23日までは「あいち花マルシェ2026 三河ステージ」も行われます。秋の安城はお出かけしたくなるイベントが目白押しだね！",
     "source_ids": [
-      29
+      18,
+      19
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
+      "https://www.city.anjo.aichi.jp/event/aichihanamarche2026.html",
+      "https://www.city.anjo.aichi.jp/event/seibumaturi2026-event.html"
     ]
   },
   "segments": [
     {
-      "topic": "江戸の握り寿司ブームを作ったのは愛知の失敗作？",
-      "text": "台所の調味料といえばお酢ですが、お寿司のシャリに使われるお酢の歴史に、お隣の知多半島がガッツリ絡んどるって知っとった？江戸時代に屋台のファーストフードとして握り寿司が大ブームになったんだけど、その立役者が愛知県半田市、今のミツカンの創業者である中野又左衛門さんなんだに！1804年の創業当時、お酢はお米から作る米酢が主流だったんだけど、これが超高級品だったのね。そこで又左衛門さんは目をつけたわけ。「うちの地域、酒造りが盛んだから酒粕が死ぬほど余っとるじゃん！」って。でもね、当時の酒蔵にとって、お酢を作る菌を持ち込むのは絶対のタブーだったんだわ。万が一酒蔵に入ったら、仕込んどるお酒が全部酸っぱくなって全滅するリスクがあるんだよ？現代で言えば、絶対にウイルスを入れちゃいけない精密機器の研究所で、素手で納豆をかき混ぜるくらいヤバい行為だに！それでも又左衛門さんは挑戦して、酒粕を3年以上じっくり熟成させてアミノ酸たっぷりの粕酢、いわゆる赤酢を完成させたの！これを船で江戸へ大量輸送したら、刺激が少なくて旨味がちんちん…じゃなくてガツンと濃いもんで、江戸の寿司職人たちが奪い合いになったんだって。あの江戸前寿司の赤いシャリのルーツが愛知の酒粕だったなんて、今夜お寿司を食べるとき誰かにドヤ顔で話したくなるじゃんね！",
+      "topic": "徳川家康の天下取りの原点は岡崎ではなく「安城」だった！？",
+      "text": "歴史の教科書を開くと、徳川家康といえば「岡崎城生まれ」ってバーンと出てくるじゃんね。だから天下取りのスタート地点も岡崎だと思っとる人が多いんじゃない？でもね、これ安城の人なら声を大にしてツッコミを入れたい大事件なんです。実は家康の直系のルーツって、岡崎じゃなくて安城にあったんだわ！えっ、岡崎じゃなくて安城なの！？って、みおんも最初に知ったときは回路がショートするかと思うくらい驚いたに！もともと豊田の松平郷から出た松平家のうち、三代の松平信光が安城城を攻略して息子の親忠を置いたことから「安城松平家」がスタートしたの。そこから親忠、長親、信忠、そして家康のおじいちゃんである清康まで、なんと4代にわたって約半世紀も安城城を本拠地にして松平家の主流へのし上がっていったんだって。しかもね、この安城城時代から仕えていた家臣たちは「安城譜代」って呼ばれて、酒井さんや本多さん、大久保さんみたいに、のちに徳川幕府をガッチリ支えるスーパー重臣ばかり！さらに幼い家康が織田家の人質から解放されたきっかけも、今川と松平が安城城を攻め落として信長の兄を生け捕りにして人質交換したからなんだよ。もし安城城での戦いがなかったら、家康は戻ってこられんかったかもしれんのだに。安祥城址公園には本多忠勝のお父さんのお墓もあるし、まさに天下取りの土台は安城で練り上げられたってわけ。職場の歴史好きに「家康の原点は安城だに」って自慢してみてりん！",
       "source_ids": [
-        7,
-        8,
-        10,
-        11
+        3,
+        4
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg-f8wxaln8vCojR_FWFgJl0OccZObT9qzPuCVGcsBaoCsm-mNi2H0Tz2ohU1TFO0ueLGm89U_pm_3W_kkAunwoYU2L4AeMIz-5RdFhNi4fUYN26VOnuJQtUggP_FTDBl8Fynayb8Gn3qtTp-Pk4VKRWAfjw==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe05rVJFZX3FWMJI_BO_l4CeXX7XOsPhiC5ZoFlFiPDTPFuPUheDgS_Gjp_uP-I7j-PGqNJa2bKkY88Lg6PjQXBIS8WoPd9FlEsldIJ9gtkFwqQlZskFeugJUQl3Dy3Gonj1US7Q==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_O_MBSf2LZfJTzpiSESTtr3jckhimDaA2Wcm7SgbSgyMJpmnFu5KzNRXXt6KOeRszpvSi8jfRWapb3vHuIXt1J7xQd384WbklHoFsZQjCpHWvgPipQF-bCa7cCuYO3sCB_3GanPY=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPo3YmOt5X2EH8N0Yi6M4F4CYvnpghZKAwO55xNH0LAFCiGJ777HLbXessMiBTXnrYir1QFgRHfpmiapL7NbCLKDCy2tLBq-LHFefz_-geM0fa8MY="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShqZVCOiCHfXfQQR09_I4-t0WKUl32PTACZu-3PXzKtYRK239-XYsXJsoQlrzGbFCAoyk1rjhJWf9yoWD5ZfRdp-I6I3P-obMqjKnebbPtbE30GvDzsoJ",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H-beaA_TBKoxb0csrum7tgLMkcOPDPKllB4d8VnTyzfF7OmqBVI4NFa3gAcxDTEBCH-POlMys0AELjrfx_t5fa-OAzMf19aGcMzZVEsbymFaACKhTkS2odSn9JHrR0GlAc6vsAS91xX_aQ=="
       ]
     },
     {
-      "topic": "世界一硬い食品かつお節はなぜ石のように硬いのか？",
-      "text": "お酢の話が出たついでに、お出汁に欠かせない台所の相棒、かつお節の話もしりん！かつお節って、世界で一番硬い食品って言われとるの知っとる？カチカチの本枯節なんて、釘が打てるどころの話じゃないんだわ。鉱物の硬さを測るモース硬度っていう基準があるんだけど、かつお節は鉄の硬さを余裕で超えて、水晶と同じレベルに達するらしいの！…うそでしょ！？台所の引き出しに水晶が入っとるようなもんじゃんね！みおん、手がないから削れんけど、削り器の刃が負けそうなくらい硬いだに。じゃあなんで魚の肉がそこまで硬くなるのかっていうと、最大の秘密はカビなんです。煙で燻したあと、優良なかつお節菌をわざとくっつけるんだって。普通、食べ物にカビが生えたらドロドロになって腐るじゃん？でもこのカビはスーパー働き者で、表面だけじゃなく節の芯の芯まで入り込んで、水分をギューッと吸い出してくれるの！生のカツオは75％くらい水分なんだけど、完成したかつお節は15％以下までカラカラになるんだわ。しかも水分を吸うだけじゃなくて、魚の脂を分解して澄んだ出汁にして、旨味成分のイノシン酸をギュギュッと凝縮してくれるんだに。カビに水分を吸い尽くされて宝石レベルまで硬くなった魚の身を削って、私たちは朝からお味噌汁にしとるわけ。そう考えると、台所って科学実験室みたいで面白くない？",
+      "topic": "正月元旦の江戸城の門を開けた！安城・西三河の芸能「三河万歳」のVIP待遇",
+      "text": "家康の話が出たついでに、徳川幕府と西三河のびっくりするほど深〜い絆の話をもうひとつ！安城市の西別所町や東別所町、お隣の西尾市なんかに伝わる国の重要無形民俗文化財「三河万歳」。お正月にめでたい歌や舞を披露する伝統芸能なんだけど、江戸時代の彼ら、幕府から信じられないほどのVIP待遇を受けていたって知っとる？普通、当時の全国の万歳って、家の玄関先を回る「門付け」が基本だったの。ところが三河万歳は、大名や旗本のお屋敷の「座敷」に上がって舞うことが公認されていて「御殿万歳」と呼ばれとったんだわ。しかも農民や芸人の身分なのに、苗字を名乗って刀を差す苗字帯刀まで許されとったっていうから破格の扱いじゃんね！でも、一番ぶったまげるのはお正月元旦の江戸城での役目。なんと、元旦の朝一番に江戸城の正門である大手門を開ける「御門開き」という超神聖な儀式を任されていたのが、三河万歳師だったの！朝6時の卯の刻に、門の外から万歳師が「鍵いらず、戸ざさる御代の、明けの春」って唱えると、中から門番が「思わず腰をのばす海老錠」って応じて門が開いたんだって。将軍に真っ先に新年の挨拶をする権利まで持っとったなんて、待遇が良すぎて「家康公、地元びいきが凄すぎん！？」ってツッコミたくなるよね。明治の混乱も乗り越えて今も地元で受け継がれとるこの芸能、まさに西三河の誇りだに！",
       "source_ids": [
-        13,
-        14,
-        15,
-        18
+        5,
+        6,
+        7
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdZiqCBonQ86x_77o-PF3CdKJvAbnm7rF1Dvb0rkDhz6SCG57s8o56fg-9XWU3ty_AP5D2fk6uvbAHH3Lb80XgIbB-xnrqqaUjH4kN_ZQw1fRJRkDtDh4Qsub8mByasRmlzCpdL0xADk4hEPFbG4MkW_ubVA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBR_dmaZyzOvmcIIg-Hq2oGdtkm7MquOlRrY6G6YrKUDl_oMQpd40OLtyBxWFqg_BC2TJsBgZIy47YAOWjt-uo30SvLYmxUJaxcyCAmlm3hg==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSU2Nk1Qb1aAM-K3Vfns_pObz_Gz_oJFbXnqa0clqlzPzsrDYHCtaVW048RmaHBtDGgO4LahFu6e7dXUQSni6OvVsCrMkVS6m-Hw5UrwWEb-Hakc5YU0U=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0gMPMFHnL4GCSpBbGQ19Ta50xezwa0ymsj2zEhFjdNenAawDLN_fUa8BGx4faMgAvNYJyrLsP2b4uScOEWtgbLUuW7DpJP_JydSOtX-KKkEROuyXQoMWcomVcwP0="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0d-u9IWx2UGNU8byheMQhPaYRRCaHbMsEqcRFh0ov3czLLYlSvjC34byjycxVlYPU1TXRA8WdAwjytYS5C4-azcdyUuaQjEky10Ku5Uob70GfMw--D4-SsasJ1fuWw1L40ND3dtO",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhKsLLeVvwUoUOxn4irHTsT8WYxO3C1hEdhhnHllL2sbnqH7cdExpAHdDX5JswC6dqubqy179yv5Zg_4PbUWU5zbwwPSGv7ZGdi-FvNTaeZQXkhw_0-o=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyInMgGqh7dpca7byc9n2n8Gh0UoTrVOoWViIoPal55rU5C4gIdkzp7MQ8yuF4gh9fIWlbBSbpfe2RFoKgCeFIh_jy6R6Zksgq0uOQBZ-oQgkY352ro1L0D1AQCyHmtL5etok5tKAm4G5tOaOJhHq67Ord-Q=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町周辺向けの地域ラジオ番組で活用できる、「食べ物・台所の雑学」に関する調査メモです。地元の西三河・愛知県にゆかりの深い話題を優先し、家族の食卓で思わず話したくなるテーマを4件まとめました。\n\n---\n\n### 調査メモ1：名古屋名物「きしめん」のルーツは、お隣・刈谷市のうどんだった？\n**【疑問】** なぜ名古屋名物の平たい麺「きしめん」の発祥が、西三河の刈谷だと言われているのか？\n\n* **理由：** 江戸時代、三河国芋川（現在の愛知県刈谷市北部、今川町・今岡町周辺）の茶店で街道の名物として旅人に親しまれていた平打ちうどん「芋川（いもかわ）うどん」が、きしめんの直接の原型とされているためです。\n* **具体的な数字や比較：** 江戸初期の浅井了意による地誌『東海道名所記』には「いも川、うどん・そば切あり。道中第一の塩梅よき所也」と記されており、十返舎一九の『東海道中膝栗毛』や井原西鶴の『好色一代男』など、名だたる大ベストセラー文学に登場するほど東海道筋で突出した知名度を誇っていました。\n* **意外な点：** 「芋川うどん」という名前ですが、材料にサツマイモや里芋などの**芋は一切入っていません**。単に「芋川」という地名に由来しています。また、江戸で平たい麺を「ひもかわ（紐革）」と呼ぶようになったのも、この三河の「いもかわ」の呼び名が江戸っ子の訛りで変化したものだと江戸後期の風俗誌『守貞謾稿』に記録されています。\n* **歴史の裏話：** 明治時代に入ると街道の衰退とともに一度は歴史から姿を消してしまいましたが、2000年代に刈谷市の市民有志らが古文書を手がかりに研究を重ね、2007年に当時の味わいが現代へ復刻されました。\n* **主な出典：** 愛知県刈谷市観光協会 公式サイト、愛知県製麺組合資料、喜田川守貞『守貞謾稿』\n\n---\n\n### 調査メモ2：江戸の握り寿司ブームを作ったのは、愛知の「酒の失敗作」だった？\n**【疑問】** 江戸前寿司が屋台のファーストフードとして爆発的に流行した背景に、なぜ愛知（知多・半田）の調味料が関係しているのか？\n\n* **理由：** 当時主流だった高価な米酢ではなく、酒造りの副産物である「酒粕」を長期間熟成させて作る「粕酢（赤酢）」を愛知県半田の中野又左衛門（ミツカン創業者）が開発し、安価で旨味の強い酢を江戸へ大量に届けたためです。\n* **具体的な数字や比較：** 1804年（文化元年）の創業当時、酢の原料となる米酢は贅沢品でした。一方、日本酒の生産が盛んだった知多半島では大量の酒粕が廃棄されていました。又左衛門はこれを3年以上熟成させてアミノ酸などの旨味が凝縮した粕酢を完成させ（後の1845年に高級粕酢「山吹」が誕生）、知多の廻船（船運）ネットワークを活かして樽ごと江戸へ大量輸送しました。\n* **意外な点：** 当時の酒造界にとって、酒蔵に酢酸菌が侵入することは「すべての酒が酢になってしまう」ことを意味し、**酒造家が酢を造る行為は絶対的なタブー**でした。又左衛門はその破滅的なリスクを承知の上であえて挑戦し、見事に成功させました。\n* **歴史の裏話：** 江戸前寿司のシャリがほんのり赤褐色を帯びている伝統は、この半田の赤酢の熟成色に由来します。米酢よりもツンとした刺激が少なく、魚の生臭さを抑えるコクがあったため、屋台の握り寿司職人たちの間で瞬く間に奪い合いとなりました。\n* **主な出典：** ミツカングループ 歴史アーカイブ（MIZKAN GLOBAL）、MIZKAN MUSEUM資料\n\n---\n\n### 調査メモ3：世界一硬い食品「かつお節」は、なぜ石のように硬いのか？\n**【疑問】** かつお節（本枯節）はどうして釘が打てるほど硬くなるのか？\n\n* **理由：** 煙で燻す焙乾工程に加え、仕上げに優良な「カビ」を人工的に付着させ、表面だけでなく節の芯の水分までカビに吸い出させる特殊な発酵・乾燥技術を用いているためです。\n* **具体的な数字や比較：** 生のカツオの身は約75％が水分ですが、完成した本枯節の水分量は**15％以下**にまで低下します。鉱物の硬さを表す指標「モース硬度」を用いた比較検証では、鉄（硬度4〜5）を大きく上回り、水晶（硬度7〜8）やコランダム（硬度9）に匹敵する硬度を示すと報告されており、「世界で最も硬い食品」として広く知られています。\n* **意外な点：** 通常、食品にカビが生えると腐敗して柔らかくなりますが、かつお節に使われる「かつお節菌（アスペルギルス属などの有用菌）」は、内部の水分を吸い上げて硬度を高めるだけでなく、**魚の脂肪分を分解して澄んだ出汁にし、イノシン酸などの旨味成分を凝縮させる**という、台所の味方を一手に引き受けています。\n* **歴史の裏話：** 奈良時代の『正倉院文書』にも税（調）として「堅魚（かたうお）」の記録が残っていますが、当時は単に干しただけの素干しでした。江戸時代に土佐（高知）や薩摩（鹿児島）で「燻乾（煙でいぶす）」と「カビ付け」を繰り返す製法が確立され、数カ月もの長旅に耐える究極の保存食へと進化しました。\n* **主な出典：** 一般社団法人全国削節工業協会資料、枕崎水産加工業協同組合資料\n\n---\n\n### 調査メモ4：ウスターソースは「床下で忘れ去られた壺」から生まれた？\n**【疑問】** フライやキャベツにかける身近なウスターソースは、どうやって誕生したのか？\n\n* **理由：** 19世紀初頭のイギリス・ウスターシャー州の町で、家庭の主婦が余った野菜や香辛料を長持ちさせようと塩や酢とともに壺に漬け込み、そのまま忘れ去られて偶然熟成したことがきっかけとされています。\n* **具体的な数字や比較：** 1800年代初頭、ウスター（Worcester）市のある家庭で誕生したと伝えられています。日本農林規格（JAS）の基準では、粘度が0.2Pa・s（パスカル秒）未満のさらりとした液体を狭義の「ウスターソース」と規定しており、濃厚なとんかつソース（2.0Pa・s以上）と比べて野菜や果実の繊維質が細かく濾過され、熟成されたスパイスの芳香が際立つ特徴を持っています。\n* **意外な点：** 長期間放置された壺を開けた際、中身はドロドロに溶けて液体化していたため、普通なら腐敗したと思って捨ててしまうような状態でした。しかし、恐る恐る口に含んでみたところ、野菜の甘み・酢の酸味・香辛料の刺激が驚くほどまろやかに一体化しており、極上の調味料になっていました。\n* **歴史の裏話：** この美味の噂を聞きつけた地元の薬剤師ジョン・リーとウィリアム・ペリンズの2人が商品化を進め、1830年代後半に世界初の市販ソース「リー＆ペリンズ（Lea & Perrins）」を発売しました。日本には幕末から明治にかけて伝来し、「西洋の醤油」として親しまれ、のちに関西の串カツやお好み焼き文化、日本の洋食文化を支える必須調味料へと独自の発展を遂げました。\n* **主な出典：** 一般社団法人日本ソース工業会 公式資料、ブルドックソース株式会社 歴史資料\n\n---\n\n### ラジオで使える3択リスナークイズ（「芋川うどん」より）\n\n**【問題】**\n西三河の刈谷が発祥地で、名古屋名物「きしめん」のルーツといわれる江戸時代の名物「芋川（いもかわ）うどん」。旅人に大人気だったこのうどんに関する「意外な事実」とは次のうちどれでしょう？\n\n* **第1問（A）：** 麺に里芋やサツマイモなどの「芋」が一切入っていない\n* **第2問（B）：** 麺が芋虫のように太くて丸い形をしていた\n* **第3問（C）：** 麺を茹でる汁に、すりおろした山芋をそのまま使っていた\n\n**【正解】** **A：麺に「芋」が一切入っていない**\n\n**【解説トークのひとこと】**\n「『芋川うどん』と聞くと、お芋を練り込んだモチモチうどんを想像しがちですよね。ですが実は、当時の土地の名前（三河国芋川）から名づけられただけで、材料は小麦粉と塩水のみ、お芋は一切使われていません！しかも、あの平たいうどんを東京などで『ひもかわ』と呼ぶのも、この西三河の『いもかわ』が江戸っ子の訛りで変化したという説が有力なんです。地元の歴史が日本の麺文化のスタンダードを作っていたなんて、誇らしいですね！」",
+  "research": "愛知県安城市和泉町向けの地域ラジオ番組用に、家族や近所の方に思わず話したくなる「地元の歴史・まちの発見」の調査メモを作成しました。安城・西三河に深く根ざしたトピック4件と、そのうち1件を活用した3択クイズです。\n\n---\n\n# 地元の歴史・まちの発見 調査メモ\n\n---\n\n## 1. 徳川家康の天下取りの原点は岡崎ではなく「安城」だった！？（安祥松平家と安城城）\n\n* **疑問・概要**  \n  徳川家康といえば「岡崎城生まれ」のイメージが全国的に定着していますが、実は家康の直系ルーツは安城市に拠点を置いた「安城松平家（安祥松平家）」であり、安城こそが三河統一と天下取りの真の足がかりでした。\n* **理由**  \n  松平郷（豊田市）から出た松平氏の中で、三代・松平信光が安城城を攻略し、三男の親忠を配置したことから「安城松平家」が誕生しました。親忠、長親、信忠、そして家康の祖父である清康までの4代にわたり安城城を本拠地とし、松平一族の主流（惣領家）へとのし上がっていきました。\n* **具体的な数字や比較**  \n  安城城が本拠地だった約半世紀の間に家康の直系へ臣従した家臣団は、特別に**「安城譜代（あんじょうふだい）」**と呼ばれます。酒井氏や本多氏、大久保氏など、のちに徳川幕府を支える重臣たちの多くが、岡崎時代より前の「安城時代」からの最古参の家臣でした。\n* **意外な点（安城城と幼少期の家康）**  \n  幼少期の家康（竹千代）が織田方の人質から解放されたきっかけの舞台は、まさに安城城でした。天文18年（1549年）の「安城合戦」で今川・松平軍が織田方の守る安城城を攻め落とし、城将だった織田信長の庶兄・織田信広を生け捕りにしました。この信広と竹千代の「人質交換」が成立したことで、家康は織田の手を離れることができました。\n* **歴史の裏話**  \n  安城城跡（安城市安城町）は現在、安祥城址公園として整備され、敷地内には安城市歴史博物館や大乗寺、安城合戦で討死した本多忠勝の父・本多忠高の墓碑が残っています。\n* **出典・根拠**  \n  * 安城市観光協会 家康公特設サイト コラム「家康と安城 第1回 家康と安城城」\n  * 安城市歴史博物館「家康ゆかりの地・安城」\n  * 愛知県観光コンベンション推進局「あいち歴史観光：安祥城址（安城城跡）」\n\n---\n\n## 2. 正月元旦の江戸城の門を開けた！安城・西三河の芸能「三河万歳」のVIP待遇\n\n* **疑問・概要**  \n  安城市（西別所町・東別所町）や西尾市などに伝わる国の重要無形民俗文化財「三河万歳（みかわまんざい）」。新年の言祝ぎ（ことほぎ）を歌い舞うこの芸能集団は、江戸時代になぜ幕府から破格のVIP待遇を受けていたのでしょうか。\n* **理由**  \n  徳川家康と同郷の三河出身者であったことから、江戸幕府から格別の保護を受けました。陰陽道の宗家である土御門（つちみかど）家の免許を受け、身分制度の厳しい江戸時代に、農民・芸人身分でありながら**「苗字帯刀御免（名字を名乗り刀を差すこと）」**や大紋の直垂着用という武士同等の特権を許されていました。\n* **具体的な数字や比較**  \n  一般的な全国の万歳は、家々の玄関先や門前を回る「門付け（かどづけ）」が基本でした。しかし、三河万歳は格式ある大名や旗本の屋敷に招かれ、屋敷内の「座敷」に上がって舞うことが公認されていたため**「御殿万歳（ごてんまんざい）」**と呼ばれました。\n* **意外な点（江戸城の開門儀式）**  \n  元旦の朝、江戸城の正門（大手門）を一番最初に開く神聖な儀式「御門開き（ごもんびらき）」を司っていたのは三河万歳師でした。卯の刻（午前6時）、門の外から万歳師が「鍵いらず 戸ざさる御代の 明けの春」と唱え、城内から門番が「思わず腰をのばす海老錠」と応じ、めでたく城門を開いて将軍へ真っ先に新年の祝辞を述べました。\n* **歴史の裏話**  \n  明治維新で幕府の後援を失い、さらに新政府の神仏分離・神道国教化政策によって存続の危機に陥りましたが、神道の教導職の資格を得るなど時代の波を乗り越え、安城や西尾の保存会、地元小中学校のクラブ活動によって今日まで受け継がれています。\n* **出典・根拠**  \n  * 文化庁 文化遺産オンライン「三河万歳」\n  * 安祥文化のさと（安城市）「歴史・文化：三河万歳」\n  * 西尾市公式ウェブサイト「三河万歳（国指定無形民俗文化財）」\n\n---\n\n## 3. 日本一長い竹飾りストリート！「安城七夕まつり」と後からできた神社の秘密\n\n* **疑問・概要**  \n  愛知県を代表する夏の風物詩「安城七夕まつり」。港町でもなく歴史的な七夕伝説の地でもない内陸の安城で、なぜ全国有数の七夕まつりが開かれるようになり、「願いごと日本一」と呼ばれるようになったのでしょうか。\n* **理由**  \n  昭和27年（1952年）の市制施行を機に、農業中心だったまちの商工業を活性化させようと、当時の商店街青年部が立ち上がったことが発端です。平塚や仙台などの先進地を視察・研究し、1954年（昭和29年）に第1回が市民・商店街主導の手作りで開催されました。\n* **具体的な数字や比較**  \n  駅前商店街を中心に飾られる竹飾りは約1,000本に達し、「竹飾りのストリート」の長さは日本一を誇ります。期間中には延べ100万人を超える人出で賑わいます。さらに2013年には「竹にかけられた最も多い短冊の数」として13,809枚を達成し、ギネス世界記録に公式認定されました。\n* **意外な点（神社のほうが祭りより後！？）**  \n  安城市桜町には全国的にも極めて珍しい名前の「安城七夕神社」が鎮座しています。一般的には「由緒ある神社のお祭りが発展した」と思われがちですが、実は正反対です。「始まった七夕まつりを永く市民に親しまれる心のよりどころにしたい」という熱意から、まつり開始から6年後の昭和35年（1960年）に神社が勧請・創建されました。\n* **歴史の裏話**  \n  かつては仙台・平塚と並び「日本三大七夕」と称していましたが、2009年からは順位争いを超えて「願いごと、日本一。」という新しいコンセプトへ舵を切りました。願いごと短冊や風船の一斉飛ばしなど、参加者が自らの夢を託す体験型イベントが充実しています。\n* **出典・根拠**  \n  * 安城七夕まつり協賛会（事務局：安城市商工課）公式サイト「安城七夕まつりの歴史」\n  * 安城七夕まつり協賛会 公式サイト「『日本三大』から『願いごと日本一』へ」\n  * 安城市役所「第73回安城七夕まつり」観光案内\n\n---\n\n## 4. モーター修理の町工場から世界的企業へ！安城発「マキタ」の国産第1号マシン\n\n* **疑問・概要**  \n  プロ用電動工具で世界的なシェアを誇り、緑がかった青のカラーでおなじみの株式会社マキタ。本社を安城市住吉町に置くこの巨大グローバル企業は、なぜ安城の地から誕生したのでしょうか。\n* **理由**  \n  マキタは1915年に名古屋市で電灯器具やモーターの販売・修理を行う個人商店「牧田電機製作所」として創業しました。太平洋戦争末期の1945年4月、空襲を避けるための工場疎開として現在の安城市へ移転してきたことが、安城とマキタの結びつきの始まりです。\n* **具体的な数字や比較**  \n  転機となったのは1958年（昭和33年）、日本初となる国産の携帯用電気カンナ「モデル1000」の開発・発売でした。毎分13,000回転（毎分26,000カット）、刃幅120mmの高速刃を備え、熟練を要した大工の鉋がけ作業を一変させました。この「モデル1000」は、日本のものづくりを画期的に前進させた遺産として、2021年に日本機械学会の「機械遺産（第110号）」に認定されています。\n* **意外な点（主力事業の完全撤退と大勝負）**  \n  電気カンナの大ヒットを受けた翌年の1959年、マキタはそれまでの大黒柱であった一般モーターの受託修理や製造をスパッと全廃し、「電動工具の専門メーカー」へ完全に業態転換するという社運を賭けた大決断を下しました。この徹底した方針転換が、のちの世界進出への基盤となりました。\n* **歴史の裏話**  \n  当時、手作業のカンナがけは腕や腰に極度の負担がかかる重労働でした。マキタの技術者たちはアメリカ製の大型工具を徹底的に研究し、日本の木造建築の木材規格に合わせて小型・軽量化を図り、現場の大工の負担を劇的に減らしました。\n* **出典・根拠**  \n  * 株式会社マキタ 公式ウェブサイト「沿革」\n  * 株式会社マキタ 公式ウェブサイト「マキタ早わかり：HISTORYあゆみ」\n  * 一般社団法人日本機械学会「機械遺産 第110号 携帯用電気カンナ モデル1000」\n\n---\n\n## ラジオ用 3択クイズコーナー（第3件「安城七夕まつり」より）\n\n**【問題】**  \n安城市内には、全国的にも名前が非常に珍しい「安城七夕（たなばた）神社」があります。この神社にまつわる「意外な歴史の事実」とは、次のうちどれでしょう？\n\n* **① 織田信長が戦勝祈願をしたという、戦国時代からの七夕伝説が残っている**\n* **② 「七夕まつり」が大成功したため、後からまつりのシンボルとして建てられた**\n* **③ 仙台七夕まつりに対抗するため、仙台藩の神社から神様を強引に連れてきた**\n\n---\n\n**【正解】**  \n**② 「七夕まつり」が大成功したため、後からまつりのシンボルとして建てられた**\n\n**【解説トークの目安】**  \n「普通は『昔からある神社のお祭りが賑やかになっていった』と思いますよね。ところが安城の七夕神社はまったく逆なんです！昭和29年に商店街の皆さんがゼロから始めた『安城七夕まつり』がものすごい賑わいになったため、『このお祭りを末永く市民に愛される行事にしたい』という熱い思いから、祭りが始まって6年後の昭和35年に市民の手で新しく建てられました。市民の手作りで生まれた、まちの情熱を象徴する神社だったんですね。」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%BC%E3%82%B9+%E8%AA%95%E7%94%9F+%E5%81%B6%E7%84%B6+%E7%86%9F%E6%88%90+%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9+%E3%82%A6%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A3&client=app-vertex-grounding&safesearch=active\">ウスターソース 誕生 偶然 熟成 イギリス ウスターシャ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9F%E3%83%84%E3%82%AB%E3%83%B3+%E7%B2%95%E9%85%A2+%E6%B1%9F%E6%88%B8%E5%89%8D%E5%AF%BF%E5%8F%B8+%E4%B8%AD%E9%87%8E%E5%8F%88%E5%B7%A6%E8%A1%9B%E9%96%80+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">ミツカン 粕酢 江戸前寿司 中野又左衛門 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%8A%8B%E5%B7%9D%E3%81%86%E3%81%A9%E3%82%93+%E3%81%8D%E3%81%97%E3%82%81%E3%82%93+%E3%83%AB%E3%83%BC%E3%83%84+%E5%88%88%E8%B0%B7+%E5%B9%B3%E3%81%9F%E3%81%84+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">芋川うどん きしめん ルーツ 刈谷 平たい 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%8B%E3%81%A4%E3%81%8A%E7%AF%80+%E4%B8%96%E7%95%8C%E4%B8%80%E7%A1%AC%E3%81%84+%E6%B0%B4%E5%88%86+%E3%82%AE%E3%83%8D%E3%82%B9+%E3%83%A2%E3%83%BC%E3%82%B9%E7%A1%AC%E5%BA%A6+%E3%82%AB%E3%83%93&client=app-vertex-grounding&safesearch=active\">かつお節 世界一硬い 水分 ギネス モース硬度 カビ</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9E%E3%82%AD%E3%82%BF+%E6%9C%AC%E7%A4%BE+%E5%AE%89%E5%9F%8E%E5%B8%82+%E6%AD%B4%E5%8F%B2+%E5%9B%BD%E7%94%A3%E5%88%9D+%E9%9B%BB%E6%B0%97%E3%82%AB%E3%83%B3%E3%83%8A&client=app-vertex-grounding&safesearch=active\">マキタ 本社 安城市 歴史 国産初 電気カンナ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E6%AD%B4%E5%8F%B2+%E9%A1%98%E3%81%84%E3%81%94%E3%81%A8+%E7%AB%B9%E9%A3%BE%E3%82%8A+%E6%97%A5%E6%9C%AC%E4%B8%80+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 歴史 願いごと 竹飾り 日本一 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E6%9D%BE%E5%B9%B3%E5%AE%B6+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E5%AE%89%E5%9F%8E%E5%9F%8E+%E6%AD%B4%E5%8F%B2+%E4%B8%89%E6%B2%B3%E7%B5%B1%E4%B8%80&client=app-vertex-grounding&safesearch=active\">安城松平家 徳川家康 安城城 歴史 三河統一</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E4%B8%87%E6%AD%B3+%E6%B1%9F%E6%88%B8%E5%9F%8E+%E6%AD%A3%E6%9C%88+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E7%89%B9%E6%A8%A9+%E5%AE%89%E5%9F%8E&client=app-vertex-grounding&safesearch=active\">三河万歳 江戸城 正月 徳川家康 特権 安城</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuAh27HV3PmwcMXIpBUBYA4pySylIVG4_M5hU1ajNNupMyjXKhFwU77c8OjuYyBeFgYO7Nai-zrDzRt6NVr43mZeAQiD0liH80wirUnOdh6cTflXlEbiMAGCFBRBRLaxCpCRxruSVUb5BvWKpbIRE=",
-          "title": "yoshidamen.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIep2lLnrtz3w53EVt8emdAFVSx8_UsmWac5wxa8K479FiKPx3Qe_mYDnqrYzdjTfIhDTZ2j4H48pfJFSt4sI7cn3bNwughO5oiGm1noTPrRCHJxZH-09y9vso-g3j4un7hv8=",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfeF5LMl4wxXmNg7CB7eHryt5R_QUXNOyujRA58SxIRS83qUTBhJEea1nYH012F9YlBvodPYr0LHYAMrK85Z6dBPAIGp66C-5OvqWTJ3u6qkOgEchFn9_ESjM90aRO1QFoebFsV0beYiBRzEOg5a0kbWpGJaj401WX76XOLPwYNaA=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShqZVCOiCHfXfQQR09_I4-t0WKUl32PTACZu-3PXzKtYRK239-XYsXJsoQlrzGbFCAoyk1rjhJWf9yoWD5ZfRdp-I6I3P-obMqjKnebbPtbE30GvDzsoJ",
+          "title": "ansyobunka.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyoekBxQsWfh1YZ6jBaQ8wqfDyB07LhsGqHRsRLxm0OCEd1-cT7xWQtRURMSWiBhEfXTpWVtej62bKgAm6UxrmkWSGMZIUGKZRrAGoukUnkTzq-iT-Esp45S9hNxkZ9tdKomAiIZo=",
-          "title": "mynavi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H-beaA_TBKoxb0csrum7tgLMkcOPDPKllB4d8VnTyzfF7OmqBVI4NFa3gAcxDTEBCH-POlMys0AELjrfx_t5fa-OAzMf19aGcMzZVEsbymFaACKhTkS2odSn9JHrR0GlAc6vsAS91xX_aQ==",
+          "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESdHmWEWPREfvHASLeTETgZnX1lbp_rtwLMKprPATXFqls2F7jTwM5cvozT6d5Ra5NJww-8nHQN2Z8XsGpkS93hYHpbIEdrM7jI_zW1Th8_n3V0VClxKk3wllTsAK10fvH_iRWnhEjHMOTBJ4shANx7AEMNXxqXA==",
-          "title": "hicbc.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0d-u9IWx2UGNU8byheMQhPaYRRCaHbMsEqcRFh0ov3czLLYlSvjC34byjycxVlYPU1TXRA8WdAwjytYS5C4-azcdyUuaQjEky10Ku5Uob70GfMw--D4-SsasJ1fuWw1L40ND3dtO",
+          "title": "bunka.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEr4zvq8kE4jNlnUUHQhCYl53QnNPVrrAj9VCp17U4KWZmuyLQA-JFUrC_8BEX8_zkLazU6sINaDeujWrX6t46kNriAYdnlWVsB-cQjAwoCP0GY4PoAt-cf1193w81rY_vCbClgI8E=",
-          "title": "kariya-guide.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhKsLLeVvwUoUOxn4irHTsT8WYxO3C1hEdhhnHllL2sbnqH7cdExpAHdDX5JswC6dqubqy179yv5Zg_4PbUWU5zbwwPSGv7ZGdi-FvNTaeZQXkhw_0-o=",
+          "title": "ansyobunka.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg-f8wxaln8vCojR_FWFgJl0OccZObT9qzPuCVGcsBaoCsm-mNi2H0Tz2ohU1TFO0ueLGm89U_pm_3W_kkAunwoYU2L4AeMIz-5RdFhNi4fUYN26VOnuJQtUggP_FTDBl8Fynayb8Gn3qtTp-Pk4VKRWAfjw==",
-          "title": "mizkanholdings.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyInMgGqh7dpca7byc9n2n8Gh0UoTrVOoWViIoPal55rU5C4gIdkzp7MQ8yuF4gh9fIWlbBSbpfe2RFoKgCeFIh_jy6R6Zksgq0uOQBZ-oQgkY352ro1L0D1AQCyHmtL5etok5tKAm4G5tOaOJhHq67Ord-Q==",
+          "title": "city.nishio.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFe05rVJFZX3FWMJI_BO_l4CeXX7XOsPhiC5ZoFlFiPDTPFuPUheDgS_Gjp_uP-I7j-PGqNJa2bKkY88Lg6PjQXBIS8WoPd9FlEsldIJ9gtkFwqQlZskFeugJUQl3Dy3Gonj1US7Q==",
-          "title": "mizkan.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYBLidTsgmH1Xyve5fNOuss44f2oaeIhchwXJ4F_1Z7r3RRT6v1Chs8g33HUXKEyq8XfpnNmkBIvbSAGCfSZxJULTBegKWr1L0iO8kyhEeTnMKtXyrB1GIoiA=",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa-lZhcmSMnT8kMZP38S_2Unw9RSi4KsevtU2nV_hUTbGqCediIXRZTjJ0PIdmTgwcakXlENv6DioajBZ0HM_HMBCaqexcaHuvU3Ip8NIKKyP9Sd2zVLf59N6l",
-          "title": "exblog.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRlce7iOSRFkmzlrv9g6wEtChnGwgd7ylJ473tNtdlF3Uj9jpbSd7n-5JRFjznf9jiA2Nm0iGOKUnc64vShdWei3KMGDzF9YshvpsWkGcFSjWAIz1GeENr",
+          "title": "anjo-tanabata.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_O_MBSf2LZfJTzpiSESTtr3jckhimDaA2Wcm7SgbSgyMJpmnFu5KzNRXXt6KOeRszpvSi8jfRWapb3vHuIXt1J7xQd384WbklHoFsZQjCpHWvgPipQF-bCa7cCuYO3sCB_3GanPY=",
-          "title": "mizkanholdings.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWt5pwvdxvjJUO-VqW6cy-0SGGg7NbA9KeD5vCwD2FzpyzOyyy2pkaRzQwiGdUezc1_QUx1D3s0Bir8uIBQm7wm1NYi2JG-PRjrugZoKOg9qUXCZ6O0kJk8Uj95OQ3Nv59JGVcF8tTQFvaQbZfqTDDQw==",
+          "title": "city.anjo.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPo3YmOt5X2EH8N0Yi6M4F4CYvnpghZKAwO55xNH0LAFCiGJ777HLbXessMiBTXnrYir1QFgRHfpmiapL7NbCLKDCy2tLBq-LHFefz_-geM0fa8MY=",
-          "title": "mizkan.asia"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIAbTxdoMnXhur-atjfwu6F4AJBSreRQvsmUyB593eRCTbITXz_SbIaxNTIDZONL2adARb-imCTy3zPuCJkRln23C2i1pUo29-6At7IT1kRQfs3y3eO9b5X_PDjNxVMdl3Elzd",
+          "title": "makita.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh-8kZDquMLjFNQR8AsXNSySBN7QH4dlEOMyCcKDsrqa_DGFJQauOxAmnAfr3jZPeaqzgN_38svlPa_2mdBF7seJaO7yaiMZgnKnHd5Bvi4cOyBfZzoY0zCHsoBNbar_by84MeiGKuIdHpWw==",
-          "title": "intojapanwaraku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGls3N5kOXZeIy_PRYrwth43PyNtcOwbQFJCSB5F1oHa-IJpGL-hOkMJFBV71rz3zNW1XIxTW8vPQOhu8AbedbkCzGCqUgSRemFbQQ-dMX4H_OuLIAx7IP5ixzRgK1zi1E=",
+          "title": "makita.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdZiqCBonQ86x_77o-PF3CdKJvAbnm7rF1Dvb0rkDhz6SCG57s8o56fg-9XWU3ty_AP5D2fk6uvbAHH3Lb80XgIbB-xnrqqaUjH4kN_ZQw1fRJRkDtDh4Qsub8mByasRmlzCpdL0xADk4hEPFbG4MkW_ubVA==",
-          "title": "japias.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBR_dmaZyzOvmcIIg-Hq2oGdtkm7MquOlRrY6G6YrKUDl_oMQpd40OLtyBxWFqg_BC2TJsBgZIy47YAOWjt-uo30SvLYmxUJaxcyCAmlm3hg==",
-          "title": "macaro-ni.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSU2Nk1Qb1aAM-K3Vfns_pObz_Gz_oJFbXnqa0clqlzPzsrDYHCtaVW048RmaHBtDGgO4LahFu6e7dXUQSni6OvVsCrMkVS6m-Hw5UrwWEb-Hakc5YU0U=",
-          "title": "katsuokoubou.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBpb3XWrIuM1KNLbzhsaYZ-j0F8zaB665LZVNmoRNs2acJTWsseRyS-NUXBuuzUJNalSMucYQtIEaQeHrGkBENFEZrC3DW3bULZV9fNe4q5pkiuS543xG2St4KQTFLcA==",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFP0EEcomfP6VOQHFp83S1gBoe92oXJaQ0Rg00ek7jkO776Zo90pITndp9k1dJBQdvqdadlIrZafx6I4COyXgkVnM5-hPLT6D-jJ4lITYhBxLeo1u1Z-y0aYWITre82aHaRGlB-QdEZDRE=",
-          "title": "kirishima.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0gMPMFHnL4GCSpBbGQ19Ta50xezwa0ymsj2zEhFjdNenAawDLN_fUa8BGx4faMgAvNYJyrLsP2b4uScOEWtgbLUuW7DpJP_JydSOtX-KKkEROuyXQoMWcomVcwP0=",
-          "title": "kezuribushi.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1f8kqGUgW8Iil6n8L_wry0kGSKivL5iUL7eHMbMw7XaWWMNIzc6aZ0eqFbAHqILTnZo-jViH3jI1f0t_DRrpj9oDUa2qP9QBaqIczU12cM6TG_heJE7FOQtFWFec2pwo=",
-          "title": "kaneni24.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSD4v9mzSzg4fmBVsfDBhpJ3DaecHC6BwI1_Kw7Zh4gZLUnmgfdSTT2HHl3OQWS9W2jKBwP46g58epQcMYhwBDpaNyS8QKh_QAs1t8GQ2Uax-uyHJIVto50rgIbrZJv606aNDtxw==",
-          "title": "nippon-sauce.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7MPCgjtUrFfjNTTZ1dCMOsKzlfQLUevTF8xUS3vMVj_JIbrBcx2DNkiFAcCMdQi0V77yjWFYoQLxOD3ZiDCB5IR2xRRKO48so5UqueV6maKZWh6E48sDyeJNSpRR-VkyzMAl6MQ==",
-          "title": "bulldog.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEygcrTydS2h0niaOtpdUeOOvqdntdJbAyxrYqzXHL-GDY7gCb9RceSRoMTIO2lcO-nrRRuM7xdthYhLnBHFkPVXpDI1mLMRVJO5xBfv4IwKh9x1TdFMIJqnopHrHN_lC1EKd3bdKue0oRkYlyBfoKadnYjZ206rvu4KYJM78PU4ga67bXyAQUGsk6A-TLZl7nYs4Y=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8KhHmHthxQtAkZT_R7RaCEAhU2RfUtWu1g2q01C8kklIWtyhUE8pGmiE3fyvO0BtkF6iTaI294ALBaBtPmBXpke_eW6vuYgZaSMfvRs1FX2Nq9G6GiRcnFhjvoM_CkKsC1OHjbzQbiQ_Tb1_GKkF8w9A=",
-          "title": "tomfamilyworld.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxMIY5c7XCPXZqqJ9znNhIpZYgqQx3a22vLin0uXy-cOWBLB0HkhMdhwsqeeaksA5TXAp8JUNR84G5WyZYNq41YaFNa76HvhSTBordOMfGiE3Ug-ZqF6-FVQXieZ1UqhShv5e9ieCc",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsOwNLzUoEuMUGkElqn8_Sh6NjFl9hur49j8XmxjBrdcSUL9eFmguhZkO7oAPcljP9tdS8fdHGsltqMOFMknxQ-cv1p8GOuxJ9A4onBWYTu1W0eNBD0gDCG1ba-u8PAJvv6YCeiz9_u7YYa9OE_R9U",
-          "title": "prtimes.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkrekomVP45pc7RR7gQnTvbWMqu4fiP7I1ZkkRY6lJCqV9TIhYieqr8Z-OvaGTUj3bVdhjAsGYKrwEJTFzkM2V8s84NBWmu_7WyJ8zeEiM-kFtB_DCW64C07zQBEpnEEVVdS7iI7D2Ow0=",
-          "title": "g-de-b.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xQahlGG1wDvHvwUanWLZMT8KxqGPkMeKnPe_Zl6Tjr6tNbXDso_ccWh5uC3ftu22RUU9lwr94eda1hoA2L5E3QDLddpWh2DivjuhvQ0MNxe-gk3tuwYFtr7-OMJMJnMvClPV5-MsxFQv",
+          "title": "jsme.or.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 566,
-          "endIndex": 868,
-          "text": "**理由：** 江戸時代、三河国芋川（現在の愛知県刈谷市北部、今川町・今岡町周辺）の茶店で街道の名物として旅人に親しまれていた平打ちうどん「芋川（いもかわ）うどん」が、きしめんの直接の原型とされているためです"
+          "startIndex": 2449,
+          "endIndex": 2553,
+          "text": "安城市観光協会 家康公特設サイト コラム「家康と安城 第1回 家康と安城城」"
         },
         "groundingChunkIndices": [
-          0,
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2558,
+          "endIndex": 2618,
+          "text": "安城市歴史博物館「家康ゆかりの地・安城」"
+        },
+        "groundingChunkIndices": [
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 1026,
-          "endIndex": 1299,
-          "text": "道中第一の塩梅よき所也」と記されており、十返舎一九の『東海道中膝栗毛』や井原西鶴の『好色一代男』など、名だたる大ベストセラー文学に登場するほど東海道筋で突出した知名度を誇っていました"
+          "startIndex": 2623,
+          "endIndex": 2728,
+          "text": "愛知県観光コンベンション推進局「あいち歴史観光：安祥城址（安城城跡）」"
         },
         "groundingChunkIndices": [
-          1,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1305,
-          "endIndex": 1452,
-          "text": "**意外な点：** 「芋川うどん」という名前ですが、材料にサツマイモや里芋などの**芋は一切入っていません**"
+          "startIndex": 4948,
+          "endIndex": 5003,
+          "text": "文化庁 文化遺産オンライン「三河万歳」"
         },
         "groundingChunkIndices": [
           3
@@ -265,367 +197,90 @@
       },
       {
         "segment": {
-          "startIndex": 1455,
-          "endIndex": 1512,
-          "text": "単に「芋川」という地名に由来しています"
+          "startIndex": 5008,
+          "endIndex": 5080,
+          "text": "安祥文化のさと（安城市）「歴史・文化：三河万歳」"
         },
         "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1515,
-          "endIndex": 1779,
-          "text": "また、江戸で平たい麺を「ひもかわ（紐革）」と呼ぶようになったのも、この三河の「いもかわ」の呼び名が江戸っ子の訛りで変化したものだと江戸後期の風俗誌『守貞謾稿』に記録されています"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1785,
-          "endIndex": 2068,
-          "text": "**歴史の裏話：** 明治時代に入ると街道の衰退とともに一度は歴史から姿を消してしまいましたが、2000年代に刈谷市の市民有志らが古文書を手がかりに研究を重ね、2007年に当時の味わいが現代へ復刻されました"
-        },
-        "groundingChunkIndices": [
-          1,
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2074,
-          "endIndex": 2206,
-          "text": "**主な出典：** 愛知県刈谷市観光協会 公式サイト、愛知県製麺組合資料、喜田川守貞『守貞謾稿』"
-        },
-        "groundingChunkIndices": [
-          1,
           4
         ]
       },
       {
         "segment": {
-          "startIndex": 2519,
-          "endIndex": 2833,
-          "text": "**理由：** 当時主流だった高価な米酢ではなく、酒造りの副産物である「酒粕」を長期間熟成させて作る「粕酢（赤酢）」を愛知県半田の中野又左衛門（ミツカン創業者）が開発し、安価で旨味の強い酢を江戸へ大量に届けたためです"
+          "startIndex": 5085,
+          "endIndex": 5172,
+          "text": "西尾市公式ウェブサイト「三河万歳（国指定無形民俗文化財）」"
         },
         "groundingChunkIndices": [
-          5,
-          6,
+          5
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7339,
+          "endIndex": 7456,
+          "text": "安城七夕まつり協賛会（事務局：安城市商工課）公式サイト「安城七夕まつりの歴史」"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7461,
+          "endIndex": 7567,
+          "text": "安城七夕まつり協賛会 公式サイト「『日本三大』から『願いごと日本一』へ」"
+        },
+        "groundingChunkIndices": [
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 2839,
-          "endIndex": 2965,
-          "text": "**具体的な数字や比較：** 1804年（文化元年）の創業当時、酢の原料となる米酢は贅沢品でした"
+          "startIndex": 7572,
+          "endIndex": 7634,
+          "text": "安城市役所「第73回安城七夕まつり」観光案内"
         },
         "groundingChunkIndices": [
-          6,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 2968,
-          "endIndex": 3076,
-          "text": "一方、日本酒の生産が盛んだった知多半島では大量の酒粕が廃棄されていました"
+          "startIndex": 9793,
+          "endIndex": 9851,
+          "text": "株式会社マキタ 公式ウェブサイト「沿革」"
         },
         "groundingChunkIndices": [
-          5,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3079,
-          "endIndex": 3351,
-          "text": "又左衛門はこれを3年以上熟成させてアミノ酸などの旨味が凝縮した粕酢を完成させ（後の1845年に高級粕酢「山吹」が誕生）、知多の廻船（船運）ネットワークを活かして樽ごと江戸へ大量輸送しました"
-        },
-        "groundingChunkIndices": [
-          5,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3357,
-          "endIndex": 3588,
-          "text": "**意外な点：** 当時の酒造界にとって、酒蔵に酢酸菌が侵入することは「すべての酒が酢になってしまう」ことを意味し、**酒造家が酢を造る行為は絶対的なタブー**でした"
+          "startIndex": 9856,
+          "endIndex": 9948,
+          "text": "株式会社マキタ 公式ウェブサイト「マキタ早わかり：HISTORYあゆみ」"
         },
         "groundingChunkIndices": [
-          5,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3591,
-          "endIndex": 3702,
-          "text": "又左衛門はその破滅的なリスクを承知の上であえて挑戦し、見事に成功させました"
-        },
-        "groundingChunkIndices": [
-          5,
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3708,
-          "endIndex": 3863,
-          "text": "**歴史の裏話：** 江戸前寿司のシャリがほんのり赤褐色を帯びている伝統は、この半田の赤酢の熟成色に由来します"
-        },
-        "groundingChunkIndices": [
-          6,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 3866,
-          "endIndex": 4055,
-          "text": "米酢よりもツンとした刺激が少なく、魚の生臭さを抑えるコクがあったため、屋台の握り寿司職人たちの間で瞬く間に奪い合いとなりました"
+          "startIndex": 9953,
+          "endIndex": 10056,
+          "text": "一般社団法人日本機械学会「機械遺産 第110号 携帯用電気カンナ モデル1000」"
         },
         "groundingChunkIndices": [
-          5,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4061,
-          "endIndex": 4168,
-          "text": "**主な出典：** ミツカングループ 歴史アーカイブ（MIZKAN GLOBAL）、MIZKAN MUSEUM資料"
-        },
-        "groundingChunkIndices": [
-          5,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4382,
-          "endIndex": 4627,
-          "text": "**理由：** 煙で燻す焙乾工程に加え、仕上げに優良な「カビ」を人工的に付着させ、表面だけでなく節の芯の水分までカビに吸い出させる特殊な発酵・乾燥技術を用いているためです"
-        },
-        "groundingChunkIndices": [
-          11,
-          12,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4633,
-          "endIndex": 4796,
-          "text": "**具体的な数字や比較：** 生のカツオの身は約75％が水分ですが、完成した本枯節の水分量は**15％以下**にまで低下します"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4799,
-          "endIndex": 5107,
-          "text": "鉱物の硬さを表す指標「モース硬度」を用いた比較検証では、鉄（硬度4〜5）を大きく上回り、水晶（硬度7〜8）やコランダム（硬度9）に匹敵する硬度を示すと報告されており、「世界で最も硬い食品」として広く知られています"
-        },
-        "groundingChunkIndices": [
-          15,
-          16,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5113,
-          "endIndex": 5560,
-          "text": "**意外な点：** 通常、食品にカビが生えると腐敗して柔らかくなりますが、かつお節に使われる「かつお節菌（アスペルギルス属などの有用菌）」は、内部の水分を吸い上げて硬度を高めるだけでなく、**魚の脂肪分を分解して澄んだ出汁にし、イノシン酸などの旨味成分を凝縮させる**という、台所の味方を一手に引き受けています"
-        },
-        "groundingChunkIndices": [
-          11,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5566,
-          "endIndex": 5769,
-          "text": "**歴史の裏話：** 奈良時代の『正倉院文書』にも税（調）として「堅魚（かたうお）」の記録が残っていますが、当時は単に干しただけの素干しでした"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5772,
-          "endIndex": 6000,
-          "text": "江戸時代に土佐（高知）や薩摩（鹿児島）で「燻乾（煙でいぶす）」と「カビ付け」を繰り返す製法が確立され、数カ月もの長旅に耐える究極の保存食へと進化しました"
-        },
-        "groundingChunkIndices": [
-          11,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6006,
-          "endIndex": 6116,
-          "text": "**主な出典：** 一般社団法人全国削節工業協会資料、枕崎水産加工業協同組合資料"
-        },
-        "groundingChunkIndices": [
-          14,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6354,
-          "endIndex": 6640,
-          "text": "**理由：** 19世紀初頭のイギリス・ウスターシャー州の町で、家庭の主婦が余った野菜や香辛料を長持ちさせようと塩や酢とともに壺に漬け込み、そのまま忘れ去られて偶然熟成したことがきっかけとされています"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6646,
-          "endIndex": 6787,
-          "text": "**具体的な数字や比較：** 1800年代初頭、ウスター（Worcester）市のある家庭で誕生したと伝えられています"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6790,
-          "endIndex": 7162,
-          "text": "日本農林規格（JAS）の基準では、粘度が0.2Pa・s（パスカル秒）未満のさらりとした液体を狭義の「ウスターソース」と規定しており、濃厚なとんかつソース（2.0Pa・s以上）と比べて野菜や果実の繊維質が細かく濾過され、熟成されたスパイスの芳香が際立つ特徴を持っています"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7168,
-          "endIndex": 7374,
-          "text": "**意外な点：** 長期間放置された壺を開けた際、中身はドロドロに溶けて液体化していたため、普通なら腐敗したと思って捨ててしまうような状態でした"
-        },
-        "groundingChunkIndices": [
-          19,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7377,
-          "endIndex": 7581,
-          "text": "しかし、恐る恐る口に含んでみたところ、野菜の甘み・酢の酸味・香辛料の刺激が驚くほどまろやかに一体化しており、極上の調味料になっていました"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7587,
-          "endIndex": 7859,
-          "text": "**歴史の裏話：** この美味の噂を聞きつけた地元の薬剤師ジョン・リーとウィリアム・ペリンズの2人が商品化を進め、1830年代後半に世界初の市販ソース「リー＆ペリンズ（Lea & Perrins）」を発売しました"
-        },
-        "groundingChunkIndices": [
-          22,
-          23,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7862,
-          "endIndex": 8102,
-          "text": "日本には幕末から明治にかけて伝来し、「西洋の醤油」として親しまれ、のちに関西の串カツやお好み焼き文化、日本の洋食文化を支える必須調味料へと独自の発展を遂げました"
-        },
-        "groundingChunkIndices": [
-          19,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8108,
-          "endIndex": 8235,
-          "text": "**主な出典：** 一般社団法人日本ソース工業会 公式資料、ブルドックソース株式会社 歴史資料"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8621,
-          "endIndex": 8718,
-          "text": "**第1問（A）：** 麺に里芋やサツマイモなどの「芋」が一切入っていない"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8905,
-          "endIndex": 8972,
-          "text": "**【正解】** **A：麺に「芋」が一切入っていない**"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9015,
-          "endIndex": 9129,
-          "text": "「『芋川うどん』と聞くと、お芋を練り込んだモチモチうどんを想像しがちですよね"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9132,
-          "endIndex": 9306,
-          "text": "ですが実は、当時の土地の名前（三河国芋川）から名づけられただけで、材料は小麦粉と塩水のみ、お芋は一切使われていません"
-        },
-        "groundingChunkIndices": [
-          1,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9309,
-          "endIndex": 9507,
-          "text": "しかも、あの平たいうどんを東京などで『ひもかわ』と呼ぶのも、この西三河の『いもかわ』が江戸っ子の訛りで変化したという説が有力なんです"
-        },
-        "groundingChunkIndices": [
-          1
+          11
         ]
       }
     ],
     "webSearchQueries": [
-      "ウスターソース 誕生 偶然 熟成 イギリス ウスターシャ",
-      "ミツカン 粕酢 江戸前寿司 中野又左衛門 歴史",
-      "芋川うどん きしめん ルーツ 刈谷 平たい 由来",
-      "かつお節 世界一硬い 水分 ギネス モース硬度 カビ"
+      "マキタ 本社 安城市 歴史 国産初 電気カンナ",
+      "安城七夕まつり 歴史 願いごと 竹飾り 日本一 由来",
+      "安城松平家 徳川家康 安城城 歴史 三河統一",
+      "三河万歳 江戸城 正月 徳川家康 特権 安城"
     ]
   }
 }
