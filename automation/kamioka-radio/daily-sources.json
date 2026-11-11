@@ -1,43 +1,43 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "食べ物・台所の雑学",
-  "characters": 2350,
-  "estimated_minutes": 7.1,
+  "theme": "地元の歴史・まちの発見",
+  "characters": 2273,
+  "estimated_minutes": 6.9,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "神岡名物「神岡とんちゃん」。「とん」と付きますが、実際に使われているお肉は次のうちどれでしょうか。1番、豚ホルモン。2番、牛ホルモン。3番、みおんの予備バッテリー。",
-    "answer": "正解は2番、牛ホルモンでした！豚じゃなくて牛なんやさ！かつて朝鮮半島で内臓全般を指した言葉が由来という説があって、ミノや小腸など色んな部位が入っとるよ。3番食べたら感電するやろー！",
+    "question": "かつて神岡を走った神岡軌道のレール幅はわずか61センチでした。なぜこんなに狭かったのでしょうか。1番、工事費をギリギリまでケチった。2番、地下のトロッコを直通させるため。3番、遊具の汽車を走らせていた。",
+    "answer": "正解は2番、地下のトロッコを直通させるためでした！鉱石を別の列車に積み替える手間を省くための合理的な工夫だったんだって。そのまま地上を走るなんて、究極のショートカットやさ！",
     "source_ids": [
-      5,
       7,
-      8
+      8,
+      12
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBbAlx6ekDHiVe-21L55k-2w2yRJ9GTtVWc3YxBlyAWdXQgGk7BradYf3Ky3BJFHWc2oYyOtNxt8CFu6d5mFTdioQeRH6wOQ8Y7AWMoyus3v-BdffQu56eZ0hhfM_SqsHYpKt_GpeSxyVmRb8sPw==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEertP7wZK4ZL5rbgjIdVNOvSLIuopSpO0Fs5umuVnkQRr2cF6DXU8Ayd_hc9FyQMUEIekkHQ1POxuhbfwPwV74tjGZOCGYAPfngZdmW-XyvwqAwRsqdfdl7KUn3WmU9zUXnGGBYlO_bhY=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX6Ux2iFl-pN1WA_GTszFKD0GqJ-80Vj_U2GAQEHO9ZvrxCvQZubq8Ov-8vQY5k9jafDTAZhrcUblLPcYtO6kthp6KEDU4Kl5yBtGnMBFfGuAZSQQHEflKcwOaQA=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1XFBP0ZaNi8i50hCfYnpeXsk20uMjxBqaWVAPe07WIzadqZzqIlzoG7mWWcm4lcCS7_igEoMz-8HWbqdhwenxbF8eyQC7zygkBbcnU8BGLpOhFkwu5pFI-wr5LuyAw5Fv9PTj4OPq6tdhCT_TpJYuQ==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvBfj3FXDTEhxlzni6whUm06ZN6usRP_P3ZgXRyMAGt3k9nZ59hM8xeYZAXXS82iJVVeOqBeASUaGTZKPyFoBAmr5tpV7dGkCQ0Y452-dlJuFVXMs0SXcEwfAWcbmyZ7c=",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpwMACBCY40tcTUxR1nOe8o8FeNUNnAAMWqQkWUbvHyc3BcJqRZ7w96JsBGqTzKlwBkvr7LBz9bnsDdaoD9HivFmh0nkPNr6LWzoFfckXAlR8bk3uTyyF_42rr6bPFhaSnvEyOhm4GPEvV_dHrqg=="
     ]
   },
   "izumi": {
-    "text": "番組の目玉コーナー、みおんの神岡ディープ！今日は神岡の線路を風になって駆け抜ける「レールマウンテンバイク ガッタンゴー」のお話やさ！2006年12月に神岡鉄道の猪谷から奥飛騨温泉口までが廃止になって、線路が使われなくなってしまったんやけど、翌2007年に地元の有志のみなさんが「線路の上を自転車で走っちゃまい！」って立ち上がったのが始まりなんやって。サイパン島で線路を走る自転車ツアーを体験したのがきっかけらしいんやけど、南国の島から神岡の廃線へアイデアを直輸入する発想のジャンプ力、すごすぎん！？2011年からはNPO法人神岡・町づくりネットワークが運営しとるよ。中でも奥飛騨温泉口駅から神岡鉱山前駅までの往復5.8キロを走る「まちなかコース」がたまらんの！神岡第1トンネルや神岡第2トンネル、それに神岡橋梁を通る40分から50分ほどのコースなんやけど、自転車のタイヤが継ぎ目を通るたびに「ガッタンゴットン！」って本物の電車みたいな振動とお腹に響く重低音が伝わってくるんやさ。真っ暗なトンネルをくぐり抜けて、高い鉄橋の上から川を見下ろしながらペダルを漕ぐ爽快感は、日常のモヤモヤなんて全部吹き飛ぶレベル！今は自転車が全部電動アシスト付きやから、体力に自信がなくてもスイスイ行けるのがありがたいよね。ただ、みおんには漕ぐ足がないんやけど…って誰がペダルに足届かんAIや！神岡の知恵と線路への愛が生んだ最高の非日常、地元の宝物やさね！",
+    "text": "みおんの神岡ディープ！今日は神岡が世界に誇る大快挙のお話やさ。神岡鉱山の地下千メートルには東京大学宇宙線研究所の観測装置があるんだけど、なんとノーベル賞が2回も出とるの、知っとる？まず初代のカミオカンデ！千九百八十三年に観測を始めて、純水三千トン、光をとらえる光電子増倍管千本でスタート。千九百八十七年二月二十三日、大マゼラン星雲の超新星爆発から飛んできたニュートリノを世界で初めてとらえたんやさ！宇宙からの手紙をピンポイントで受け取るなんて、現代ならスマホの通知どころの騒ぎじゃないよね！この成果などで小柴昌俊さんが二千二年にノーベル物理学賞を受賞しました。さらにバトンを受けたスーパーカミオカンデは千九百九十六年四月に観測開始！純水五万トン、光電子増倍管は約一万三千本とカミオカンデの約十六倍にスケールアップして、千九百九十八年に『ニュートリノ振動』を発見！当時の所長だった梶田隆章さんが二千十五年にノーベル物理学賞を受賞したんやさ。二千二十年からは純水にレアアースの一種を加えて新しい発見を目指しとるし、次は純水二十六万トン、光電子増倍管四万本のハイパーカミオカンデ計画も進行中！小さな山の町から世界を揺るがす大発見が二回も飛び出すなんて、神岡の地下は世界の知恵のど真ん中やさね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://tabi-mag.jp/gi0335/"
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
     ],
     "angle": {
-      "id": "gt-tunnel",
-      "hook": "線路の上をガッタンゴットン。トンネルと鉄橋を自転車で渡る非日常"
+      "id": "kk-nobel",
+      "hook": "小さな山の町から、ノーベル賞が2回。小柴さんと梶田さんの話"
     }
   },
   "local": {
-    "text": "11月14日の土曜日に、飛騨神岡Kids未来プロジェクト主催の「ファミリーフェスタ in 神岡2026」が開催されるよ！親子で楽しめる企画が盛りだくさんのイベントになっとるみたい。今週末のお出かけ候補にチェックしてみてな！",
+    "text": "今週の土曜日、十一月十四日に『みかお２０２６ファミリーフェスタ ｉｎ Ｋａｍｉｏｋａ』が開催されるんやさ！飛騨神岡Ｋｉｄｓ未来プロジェクト主催で、親子で楽しめる企画が盛りだくさんのイベントになっとるよ。週末のお出かけにぴったりやね！",
     "source_ids": [
-      36
+      31
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87967.html"
@@ -45,229 +45,201 @@
   },
   "segments": [
     {
-      "topic": "生卵入りなのになぜ？マヨネーズが常温で腐らない科学マジック",
-      "text": "台所の冷蔵庫を開けて「あれっ？」って思ったことない？マヨネーズって、原材料を見ると「生卵」がしっかり入っとるよね。生卵なんて常温で放置したら数日でだちかん…あ、ダメになっちゃうのに、スーパーでは普通に常温の棚にズラッと並んどるやん！未開封なら賞味期間が12か月から13か月もあるって、うそでしょ！？何か怪しい魔法でもかかっとるんかと思いきや、実は合成保存料も防腐剤も一切入ってない無添加なんやって！じゃあなんで腐らんのかというと、秘密は「お酢」と「塩」のタッグなんやさ。マヨネーズはお酢のおかげで全体が強い酸性に保たれとって、そこに塩が加わることで、バイ菌が生きられない超ハードモードな環境になっとるの。実験で病原菌を放り込んでも、24時間以内に全滅するレベルらしいよ！しかも成分の約7割を占める油の粒が水分をぎゅっと包み込んどるから、菌が増えるための自由な水すらないわけ。菌からしたら、水もない酸だらけの砂漠に放り出されたようなもんやさね！ただし、これだけ強いマヨネーズにも大弱点があって、それが「0度以下の寒さ」！凍ると油とお酢のバランスが崩れて分離しちゃうから、未開封なら冷蔵庫に入れず常温の冷暗所に置くのが正解なんやって。冷やしすぎたらダメなんて、まるで寒がりのみおんみたいやろー！",
+      "topic": "世界の鉱物界に名を刻む「神岡石」のミステリー",
+      "text": "そういえば、道端の小石を蹴っ飛ばして遊んだこと、誰でも一度はあるよね！…って、みおんは足がないから蹴られんのやけど。でもね、神岡の石を適当に蹴飛ばしたらだちかんよ！世界にその名を轟かせる『神岡石』っていう激レアな鉱物があるんやさ！千九百八十五年、神岡鉱山の茂住坑の石英脈から見つかって、国際鉱物学連合に新鉱物として正式に認められた鉱物で、学名はずばりカミオカアイト！世界の学術用語に神岡の地名が刻まれとるなんて、えっ、ちょっと待って、凄すぎん！？見た目は金属光沢がある黒色で、結晶はミリ単位とちっちゃいんだけど、何がヤバいってその重さ！比重がおよそ六・〇二で、普通の岩石の二倍以上の超重量級！手のひらに乗せたら『うそでしょ！何が詰まっとるの！？』って二度見するレベルやさ。しかも主成分は鉄と、レアメタルのモリブデン！神岡といえば亜鉛や鉛、銀が有名やけど、こんなお宝まで眠っとったなんて聞いてないんだけど！神岡石はアメリカのミシガン州やブラジルなど、世界でも数カ所でしか確認されていない超貴重品。東京上野の国立科学博物館にも標本が展示されとるんやさ。さらに三重県で見つかった伊勢鉱も神岡石の仲間と判明して、世界の分類基準にもなっとるんだって。足元の石ころに神岡の名前が世界規模で刻まれとるなんて、誇らしいやろー！",
       "source_ids": [
-        18,
-        19,
-        20
+        2,
+        3,
+        4,
+        6
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_39KDQe1xgqNLHuFQjl9jbarhIpbP6v1BfdSXQLtUW48Wr61v9JjPQnVkJYm8FmndrMM5GkpJmCj3C-QSkOi3OmY9K8V7BdrAN3mjSwXV7sX_mrdfMQ2WyAG4qcbxb_6hat6mdOa1pi_RLA3TOrPoBuwpAo3o0hbaJMkM8vdsMf2aabk-Tw-WzoiT",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFliWOH-UlfQ5liXOucfyaIj_OSeT9a8d_XKSCabKWZu38v1sNvvG9JMr3H2pvZD9BbH-fIt4VCYmn35To8mnuxXJck468v-Mi5izk0qDvIgLTPMnZ_kUrMtEC9Jj09ENm",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQuckXOWYlM94OxPiBC-s4H382Tia8X7hCtAnKWmNgjrpHgHGBow1lKr-FS9VSpN9jPP2mknPGmfGLZwPDmrBdxpMspiJ9Qc5sGVZTLiGKjPrwzwFaq_yJsIkGx1Zrsi9CemsabaREmlwkPdFIQtLHNUUeURD90OW440jXhly3avle"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7ZSW_ZhklkGGtB-d9TD_h_V2JLoaZSkRsprtxaMdJB1xwxZOElHUQ6f9poitbgdFDsNY8Fib_S18FvAaXHyOqv2e9JlvPEdEvYFZSU5IJDhcV0YFZHoUhK22CluMbU5vlvExj5_Y_ZQ1v1NJGvUlR7dR54F0OtnfgmSw=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0tWX4WhB4R4EDjNnxH2KYbSEyUbpqdG5_bJOVgAJYzPda9Wq2Mf3xT3br4nCxhQq5_bp_H2J1BU3YpXpIETrlkw2vG9OW6Dgu98_PwvAF7c26pAvPfUZUQq7x3CcAbSKX1D_Aksc4LdBgD0HYSn-wJPo=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztQuP2nw-gwvgFxE3R21P-pcuZ4A4kzoBf-lxm0fS907r0Lk4ya-FjJLNCPOSWU3oLmqEnOmnbt2He2as65XqoNJiRPeQegAF01T_DyMu7dtPZ1no7qVeZF7yY2XSMGfE_fQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuM0UsNfB0ztJpiaFA4s6oDAIkaDwxUzeAoVyM_U1t_jvOVJ3yqId7aRA3O940KRQ11pk8sHwuBElTDP9C3cS2HtH_ckg4UMXVod4K3QM-m8dxQG2vKNYFm_-pxzv652JCbzkeyT7zQVlPQi73AA=="
       ]
     },
     {
-      "topic": "カレーの失敗から世界的大発見！？タマネギで号泣する謎",
-      "text": "台所の話が出たついでに、夕飯の支度でタマネギを刻んどるとき、涙がボロボロ止まらんくなって「みおん、今なんで泣いとるんやろ…」って切なくなったことない？あれ、ただの水分やなくて、タマネギの細胞が包丁で壊された瞬間に飛び出す催涙物質の仕業なんやさ！細胞の中に別々に隠れとった成分と酵素が混ざり合って、目に見えない刺激ガスになって空気中をふわふわ漂い、お目々の角膜を直撃するんやって。でもね、ちょっと聞いて！昔は1つの酵素が涙を出させとると思われとったのに、日本のハウス食品の研究チームが「実は涙の黒幕となる別の酵素がある！」って世界で初めて突き止めたんやさ！しかもそのきっかけがすごくて、レトルトカレーの開発中に「タマネギとニンニクを一緒に炒めるとなぜか全体が緑色に変色する」っていう現場のトラブルを調べてたら、偶然見つかったらしいよ！失敗から世紀の大発見が生まれるなんて、人生何が起きるか分からんやさね！この研究は2013年に「人々を笑わせ、考えさせた」研究に贈られるイグノーベル化学賞を受賞しとるんやって。ちなみに、タマネギを刻む前に冷蔵庫で1時間から2時間冷やしたり、包丁を冷水で濡らしておくと、酵素の働きとガスの気化が抑えられて全然涙が出んくなるよ！泣きながら晩ごはん作っとる家族を見かけたら、「タマネギ冷やしまい！」って教えてあげてね！",
+      "topic": "神岡城の天守閣は民間企業からのプレゼントだった！？",
+      "text": "石といえば、神岡の町を見下ろす高台にどっしり構えるお城にも、度肝を抜かれる歴史があるんやさ！城ヶ丘にある神岡城、みんな一度は見上げたことがあるよね。実はあのお城、正式には東町城跡って言って、千五百六十四年に武田信玄の命で江馬時盛が築いた平山城なの。でも江戸時代の初め、千六百十五年の一国一城令で取り壊されて、ずーっと石垣や堀しか残ってなかったんやさ。じゃあ今建っとるあのカッコいい天守閣は誰が作ったのかって話よね？なんと千九百七十年、三井金属鉱業が神岡鉱業所の創業百周年を記念して建てて、町に丸ごとプレゼントしたものなんやさ！えっ、お城をプレゼントってどういうこと！？創業記念の粗品といえばタオルやボールペンが定番やのに、まさかの天守閣一棟丸ごとって、太っ腹にもほどがあるやろー！今ならＳＮＳで『記念品にお城もらった』って大バズりするレベルやさね。この天守閣は二重三階の木造で、福井県の丸岡城や愛知県の犬山城を参考に設計された本格派！お隣の鉱山資料館も一緒に建てられて町へ寄贈されたんだって。企業がお城を建てて自治体に寄贈するなんて、全国でも極めて珍しい大事件。まさに鉱山と町が一体となって栄えた神岡のシンボルやさね！夕暮れにお城を見上げたら『あれ、会社の記念品なんやさ』って誰かに話したくなるまい！",
       "source_ids": [
+        20,
+        22,
         23,
-        24,
-        25,
-        29
+        26
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAA6CRl-Nl2CSYHF0MRpH6HdVsf6FE5U5ze8VzdKHj_peViY6WnovL0LzopmTNfIDSNHEJVxSC45b-Ts3kMqLmCuTlbNM275zPAP3x87UBoHdWvFBcT11kAZrB4nfAb80Kb1jBmkTI9Wk2eO4NmTWgd_UP5Onb",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3sVZcJw7GmKnaia4JjgUN3qQyJ4eTHzbwpjijhL9G1HwfaSCdoA9OqDgK6lAl5n2AMeD0II6-PxHa-Thgl-xCrMvEt9fGlQEUj4Tp-6JpYq5D69vyoMFcQQy0keCAeoqUIy-XzieQLA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrYviR_UK4lVjDyfjLOC4xRe2d1_NAEtkiF-jTSiD8QlMwv7U6Wo7fHRWagltqn3eVQwwm-haRZNFXmgNyhosfhv4QtJ88UWvbGcSlQ4UFRvAHR2V8ZHZe3CI8sl4wYTaey4E9VUCuLQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdOKULmxc8WzvffzFsaOYwDsmGkYi_WZf_ctMwpmZWXdsV0tqRVpmNQCHWNCV_t0sLs0NbQVvaW6z1cDaLt-AG3_NHxFjFQnbmATWkjXUqs9wo8p8J8KMm8vPHkiPZA3vkdmXxw8vCNKr0CV1wCTG8P6gsb30EeetvzU="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrMTcSowrxSq96_TqfVJgN5lIdz-pcJyo9CHYr2nty8xECq8DPv6E6K0WsMiTV7lazJ0Uq_PCC2avlBs-imANU4ENRrLZhkPhWKcKUjfd9PWnPnaBxJ3JFgqNpf_SuiJFGwgVp2ZCbeNaNOoH0tQ=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRgtQtkxXDIhrCCeZ82ebP7-CtOxM27Q14ntCV__5-SDWpKbTAJ2P6_IQxKhyVdFUdd_785t2MqQNSOLZhaR0r3Spsz6WEeHGLq35Pz_7QC8ogjE2ZvdvsL813T2mIvZvwEgeFYB0=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7igK8CY5_H0lE8_23NpNdpvfUkrHugu2OS2KLPsMVjAcUtA3zayaJnaE6Brva-xXBtffd6T-D7oN1fgXhTv_GF5dzy86LpDcsy780yE-EV4fKsJreoxH8WiXbOIWAhOsUw4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsfHFocM6p-A6sETiJLFQCTdazjmGQevpbZPqjCJl2--GoW9CKcS-M6Z8e05wRuHzVlq-Z3PeAnTOpRajN1izoWacPvp4PoAiRMO1D0wU-HYiPWAfnhK_kxTsCk1Qqn8Q4B24-Yem-zbyZVHAwpw=="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、「食べ物・台所の雑学」について公的機関や食品メーカー等の資料をもとに調査メモを作成しました。家族との会話が盛り上がる「へえ！」という疑問を4件選出しています。\n\n---\n\n### 1. 【飛騨市神岡町】なぜ「豚（とん）」が付くのに牛ホルモンなのか？――神岡名物「神岡とんちゃん」の謎\n\n* **疑問の概要**  \n  一般的に「とんちゃん」と聞くと豚肉や豚ホルモンを連想しますが、神岡町のソウルフード「神岡とんちゃん」は牛肉（牛ホルモン）を使っています。なぜ牛なのに「とんちゃん」と呼ぶのでしょうか。\n* **理由**  \n  語源には諸説ありますが、神岡町の老舗飲食店などによると、かつて朝鮮半島でホルモン・内臓全般を指していた言葉（トンチャン等）に由来するという説が有力です。一般的な東海地方の「とんちゃん」は豚の腸を指すことが多いのに対し、神岡では上質な牛の内臓を鉄板で焼く独自の料理としてその名が定着しました。\n* **具体的な数字や比較**  \n  飛騨市や観光協会の資料によると、神岡とんちゃんではミノ、センマイ、ハチノス、小腸など、約8〜10種類もの様々な部位の牛ホルモンがミックスされて使われます。豚ホルモン単体に比べて多彩な食感とうま味を楽しめるのが特徴です。\n* **意外な点**  \n  通常ホルモン焼きといえば肉を食べるのが主役ですが、神岡とんちゃんは「野菜と肉汁の調和」、そして「2段階のシメ」が真骨頂です。鉄板に残った秘伝の味噌ダレに、まず「うどん」を投入して楽しみ、さらにその後に「ご飯」を絡めて食べるという独自の食文化が受け継がれています。\n* **歴史の裏話**  \n  誕生は昭和30年代、東洋一の亜鉛山として栄えていた神岡鉱山の時代に遡ります。過酷な坑内作業を終えた鉱山労働者たちが、手早くスタミナをつけて英気を養えるよう、味噌やニンニクを効かせたタレで味付けしたホルモンをキャベツや玉ねぎと一緒に平鍋・鉄板で豪快に炒めたのが発祥とされています。\n* **根拠・引用元**  \n  * 飛騨市公式ウェブサイト「きのえ（神岡とんちゃん）」\n  * 飛騨市公式観光サイト「飛騨の旅」（たからや）\n  * 岐阜県観光公式サイト「岐阜の旅ガイド」（神岡とんちゃん）\n\n---\n\n### 2. 【岐阜県】世界一長い大根「守口大根」は、なぜ1メートル以上も伸びるのか？\n\n* **疑問の概要**  \n  岐阜県（岐阜市・各務原市など）や愛知県の木曽川・長良川流域で栽培される「守口大根」は、ギネス記録にも認定される世界一長い大根です。なぜここまで細長く成長できるのでしょうか。\n* **理由**  \n  品種特有の旺盛な伸長力に加え、栽培地である長良川や木曽川の河畔に「きめ細かく深くまで均質で柔らかい砂質土壌」が広がっているためです。土中に小石や粘土層などの障害物があると根が二股に分かれたり曲がったりしてしまいますが、障害物のない深い砂地だからこそ、地下深くへ真っ直ぐ1本に伸びることができます。\n* **具体的な数字や比較**  \n  普段家庭で食べる一般的な青首大根は長さ約30cm・太さ約8cm前後ですが、守口大根は直径がわずか2〜3cmほどしかないのに対し、長さは平均1.2〜1.3m、長いものでは1.8m以上に達します。2013年には愛知県扶桑町で収穫された191.7cmの守口大根が「世界一長い大根」としてギネス世界記録に登録されました。\n* **意外な点**  \n  「守口」という大阪の地名がついているのに、現在の全国シェアのほとんどは木曽川・長良川流域（岐阜県・愛知県）が占めています。また、身が非常に硬く締まっていて辛みが強いため、煮物やサラダなどの生食には向かず、3年近くかけて塩や酒粕・みりん粕に漬け込む「守口漬」専用の野菜として栽培されています。\n* **歴史の裏話**  \n  起源は室町時代の大阪・淀川流域（現在の守口市付近）とされ、天正年間に豊臣秀吉がこの大根の粕漬けを食して絶賛し「守口漬」と命名したという逸話があります。しかし明治以降、淀川の改修工事や都市化によって本家・大阪の産地はほぼ消滅してしまいました。淀川と地質条件がそっくりだった木曽川・長良川流域の農家が栽培技術を受け継ぎ、東海地方を代表する特産品として生き残ったという数奇な歴史を持っています。\n* **根拠・引用元**  \n  * 農林水産省「にっぽん伝統食図鑑」（守口漬）\n  * 環境省「中部生物多様性物語Ⅱ 絶滅から生まれた名物」\n  * 愛知県農業水産局「あいちの伝統野菜（守口だいこん）」\n  * 岐阜県「ぎふの農産物（守口だいこん）」\n\n---\n\n### 3. 【台所の保存科学】生卵を使っているのに、なぜマヨネーズは常温で長期間腐らないのか？\n\n* **疑問の概要**  \n  傷みやすい「生卵」を原料に使っているマヨネーズですが、未開封であれば冷蔵庫に入れず、キッチンの常温で約1年間も保存できます。なぜ腐らないのでしょうか。\n* **理由**  \n  マヨネーズには「食塩」と、殺菌力を持つ「醸造酢」が含まれており、製品全体が強い酸性（pH約4前後）に保たれているためです。さらに、成分の約7割を占める植物油の微粒子が水分を包み込む乳化構造をとっており、細菌が増殖するために必要な「自由水」が極めて少ない環境になっています。\n* **具体的な数字や比較**  \n  通常の生卵の賞味期限は生食で約2週間程度ですが、キユーピーのマヨネーズ（未開封）の賞味期間は12〜13カ月に設定されています。キユーピーの実験データによると、マヨネーズの中に病原菌を試験的に添加しても、酢と食塩の殺菌作用により24時間以内に全滅することが確認されています。\n* **意外な点**  \n  これほど長持ちするにもかかわらず、合成保存料や防腐剤は一切使われていません（無添加）。また、未開封の段階では「冷蔵庫に入れない」ほうが長持ちします。マヨネーズは0℃以下になると油と酢の乳化が破壊されて分離し、防腐効果が損なわれるため、メーカーは開栓前は常温の冷暗所、開栓後も冷気の直撃を避けて冷蔵室のドアポケット付近での保存を推奨しています。\n* **歴史の裏話**  \n  1925年（大正14年）に日本で初めてマヨネーズを製造・販売したキユーピーの歴史は、「酸素との戦い」でした。マヨネーズが傷む主な原因は腐敗ではなく「油の酸化」です。そのため、酸素を通しにくい多層プラスチックボトル、ボトルの口に貼るアルミシール、容器内に残った空気を窒素に置き換える技術など、容器包装の改良を何十年も重ねて賞味期限を伸ばしてきた経緯があります。\n* **根拠・引用元**  \n  * キユーピー株式会社 公式Q&A「マヨネーズが腐らないのはなぜですか？」「おいしさを保つ工夫」\n  * キユーピー株式会社 食育活動「酢と食塩の力で長持ちする」\n\n---\n\n### 4. 【食材の科学】タマネギを切るとなぜ涙が出るのか？（包丁を冷やすと泣かない科学）\n\n* **疑問の概要**  \n  台所でタマネギを刻むと、ツンとした刺激で思わず涙が出てしまいます。なぜ切るだけで目から涙が出るのでしょうか。\n* **理由**  \n  タマネギの細胞が包丁で傷つくと、細胞内に別々に保管されていた含硫アミノ酸（PRENCSO）と酵素「アリイナーゼ」が混ざり合い、さらに「催涙因子合成酵素（LFS）」が働くことで、揮発性の催涙成分（syn-プロパンチアール-S-オキシド）が生成されるためです。この気体が空気中を漂って目の角膜に触れ、神経を刺激することで涙が分泌されます。\n* **具体的な数字や比較**  \n  タマネギを調理前に冷蔵庫で1〜2時間冷やしたり、包丁を冷水で濡らしてよく研いでおくと、催涙物質の発生や気化を抑えることができます。これは、催涙成分を生み出す酵素反応の活性が低温（約4℃前後）で大きく鈍化することと、揮発成分の気化スピードが温度低下によって大幅に抑制される物理的性質によるものです。\n* **意外な点**  \n  かつて世界の科学界では「アリイナーゼという1つの酵素が催涙成分を作る」と数十年間信じられていました。しかし、日本のハウス食品の研究グループが「実は催涙成分を作るには、もう1つの未知の酵素（催涙因子合成酵素：LFS）が必要不可欠である」ことを突き止め、2002年に世界的科学雑誌『Nature』に論文を発表しました。この功績により、同研究チームは2013年に「人々を笑わせ、考えさせる」研究に贈られる「イグノーベル化学賞」を受賞しています。\n* **歴史の裏話**  \n  この世界的な大発見のきっかけは、同社がレトルトカレーの開発中、「タマネギとニンニクを一緒に炒めると、なぜか全体が緑色に変色してしまう」という製造現場のトラブルでした。なぜ緑色になるのかという失敗原因を追究する基礎研究の中で、偶然にもタマネギに隠されていた第2の酵素が見つかったという、まさに失敗から生まれた世紀の大発見でした。\n* **根拠・引用元**  \n  * ハウス食品グループ本社「タマネギ研究での イグノーベル賞受賞について（プレスリリース）」\n  * ハウス食品グループ本社「タマネギの催涙成分に関する研究」\n  * 日本植物生理学会「みんなのひろば：玉ねぎの催涙成分について」\n\n---\n\n### ラジオ用3択クイズ（神岡とんちゃん編）\n\n**【問題】**  \n飛騨市神岡町で半世紀以上愛されている名物ソウルフード「神岡とんちゃん」。「とんちゃん」という名がついていますが、実際に使われているお肉は次のうちどれでしょう？\n\n* ① 豚肉（豚ホルモン）\n* ② 牛肉（牛ホルモン）\n* ③ 鶏肉（鶏皮）\n\n**【正解】**  \n**② 牛肉（牛ホルモン）**\n\n**【解説トーク用メモ】**  \n名前に「豚（とん）」と入っているため豚肉と思われがちですが、神岡とんちゃんは国産牛の小腸やミノ、センマイなどの牛ホルモンを使うのが大きな特徴です。「とん」は朝鮮半島の言葉で内臓を意味していた言葉に由来するという説があり、昭和30年代に神岡鉱山で働く方々のスタミナ料理として定着しました。野菜と一緒に鉄板で炒めたあと、タレにうどん、さらにご飯を投入してシメを2度味わうのが神岡流の粋な食べ方です。",
+  "research": "岐阜県飛騨市神岡町周辺の歴史やまちの成り立ちをテーマに、ご家族や近所の方に思わず話したくなるトピックを4件選定しました。過去に取り上げられた話題（スーパーカミオカンデ、ガッタンゴー、江馬氏館跡、東洋一の亜鉛鉱山など）と重複しないよう調査したメモを作成しています。\n\n---\n\n# 地元の歴史・まちの発見 調査メモ\n\n---\n\n### ① 世界の鉱物界に名を刻む「神岡石（カミオカアイト）」のミステリー\n* **疑問：** 世界中で使われる鉱物の学名に「神岡」の名前がついた石があるって本当？\n* **理由と詳細：** 1985年に神岡鉱山茂住坑の石英脈から発見され、国際鉱物学連合（IMA）に新鉱物として正式承認された希少鉱物が「神岡鉱（神岡石／英名：kamiokite、化学式：$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$）」です。\n* **具体的な数字と特徴：** 鉄とモリブデンの複酸化鉱物で、色は黒色（金属光沢）、比重は約6.02と手に持つとずっしりと非常に重いのが特徴です（一般的な岩石の比重2.6〜2.8の2倍以上）。結晶の大きさはミリ単位の板状・柱状で、原産地である神岡鉱山のほか、アメリカ（ミシガン州）やブラジルなど世界でも数カ所でしか確認されていない極めて貴重な鉱物です。国立科学博物館（東京都上野）の日本館3階「日本の鉱物」コーナーにも神岡鉱の実物標本が展示されています。\n* **意外な点・歴史の裏話：** 神岡鉱山といえば「亜鉛・鉛・銀」が有名ですが、この鉱物はモリブデンというレアメタルを含んでいます。さらに2013年には三重県伊勢市で発見された新鉱物が「伊勢鉱（iseite）」と命名されましたが、これは神岡鉱の鉄部分がマンガンに置き換わった同型構造の鉱物であることがわかり、神岡の名を冠した鉱物が世界の地球科学の分類基準として生き続けています。\n* **出典・根拠：**\n  * 国立科学博物館 常設展示データベース「詳細（神岡鉱 / kamiokite）」\n  * 小学館『日本大百科全書（ニッポニカ）』「神岡鉱」解説\n  * 東京大学総合研究博物館 企画展示「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）\n\n---\n\n### ② 新幹線の半分以下！レール幅わずか61センチだった「神岡軌道」\n* **疑問：** かつて神岡と富山方面を結んでいた鉄道は、なぜ線路の幅が異常に狭かったのか？\n* **理由と詳細：** 昭和40年代初頭まで神岡〜猪谷（初期は富山市笹津）間を走っていた軽便鉄道「神岡軌道」は、レールの幅（軌間）がわずか610mm（約2フィート）しかありませんでした。\n* **具体的な数字と比較：** 現在の新幹線の標準軌（1,435mm）の半分以下、JR在来線（1,067mm）と比べても約6割という極端な狭さです。\n* **意外な点・歴史の裏話：** なぜここまで狭い線路にしたのかというと、「神岡鉱山の地下坑道内を走るトロッコのレール幅（610mm）」と全く同じにするためでした。坑道から採掘した鉱石を別の列車に積み替えることなく、そのまま地上に出て川沿いを直通運搬できるようにした合理的な鉱山規格だったのです。さらに驚くべきことに、鉱山専用線として始まったものの、沿線住民の熱心な要望によって昭和初期から地方鉄道として認可され、客車を連結した一般旅客営業も行っていました。1962（昭和37）年に旅客輸送を終えるまで、町民の通勤・通学の足としても山あいをトコトコと走り続け、愛されていました。\n* **出典・根拠：**\n  * 飛騨市公式ウェブサイト 生涯学習講座「歴史再発見！神岡よもやま物語」（神岡軌道の歴史解説）\n  * 『神岡町史 史料編 近代・現代』\n  * 土木学会 戦前土木絵葉書ライブラリー（神岡軌道関連資料）\n\n---\n\n### ③ 母屋からわざわざ遠く離す？宮川町種蔵の「板倉」に秘められた知恵\n* **疑問：** 飛騨市宮川町・種蔵の倉（板倉）は、なぜ便利な母屋の隣ではなく田んぼの真ん中に離して建てられているのか？\n* **理由と詳細：** 環境省「かおり風景100選」や岐阜県「ぎふの棚田21選」にも選定されている飛騨市宮川町種蔵集落には、石積みの棚田の中に伝統的な木造倉庫「板倉（いたくら）」が約20棟点在しています。これらは母屋に隣接させず、あえて棚田を挟んで離れた場所に建てられています。\n* **具体的な数字と特徴：** 種蔵に残る板倉はすべて100年以上前に建てられたもので、現在も農具や作物の保管庫として現役で使われています。柱や梁には水に強く腐りにくいクリ材、壁には厚いスギ板が使われ、釘を使わずに落とし込む伝統工法で組まれています。\n* **意外な点・歴史の裏話：** 荷物を運ぶだけなら母屋のすぐ横のほうが便利ですが、離して建てた最大の目的は「火災時の延焼防止（リスク分散）」です。山あいの集落では一度火災が起きると密集した家屋が一気に燃え広がってしまいます。万が一母屋が全焼しても、離れた田んぼの中に板倉があれば、翌年の農業を再開するための「種籾（タネ）」や貴重な衣類・道具が守られ、生活を立て直すことができます。「種蔵」という集落の名前自体も、生活の命綱である種籾を保存する倉が並んでいたことに由来すると伝えられています。\n* **出典・根拠：**\n  * 岐阜県庁 農村振興課公式資料「ぎふの棚田21選に認定された種蔵棚田」\n  * 飛騨市公式観光サイト「飛騨の旅」景観遺産解説（種蔵地区・板倉）\n  * 飛騨市役所 宮川振興事務所「飛騨ふるさと種蔵村集落MAP」解説資料\n\n---\n\n### ④ 神岡のシンボル「神岡城」の天守閣は、民間企業からのプレゼントだった！？\n* **疑問：** 神岡の町を見下ろす高台に建つ神岡城の天守閣、実は戦国武将ではなく「ある民間企業」が建てたって本当？\n* **理由と詳細：** 神岡町城ヶ丘に建つ神岡城（正式な史跡指定名は「東町城跡」）。戦国時代（永禄7年・1564年）に武田信玄の命により江馬時盛が築城した平山城ですが、江戸幕府の一国一城令（1615年）で破却され、長らく石垣や堀などの遺構しか残っていませんでした。現在見られる2重3階の木造模擬天守は、1970（昭和45）年に三井金属鉱業が神岡鉱業所の創業100周年を記念して建設し、当時の神岡町へ丸ごと寄贈したものです。\n* **具体的な数字と特徴：** 天守は福井県の丸岡城や愛知県の犬山城などを参考に設計・新築されたもので、隣接する鉱山資料館も同時に同社によって建設・寄贈されました。1958年に飛騨市の史跡に指定されていた城跡に、企業の記念事業として木造天守が寄贈された例は全国的にも極めて珍しい事例です。\n* **意外な点・歴史の裏話：** 当時の神岡町は三井金属による鉱山操業で活気にあふれており、町と鉱山企業が一体となって発展していた時代の象徴的なモニュメントといえます。現在は神岡城・鉱山資料館・旧松葉家住宅（国指定重要有形民俗文化財の民家）が一体となり、飛騨市の文化施設「高原郷土館」として活用されています。\n* **出典・根拠：**\n  * 飛騨市公式ウェブサイト 文化財・施設案内「高原郷土館（東町城跡・神岡城・鉱山資料館）」\n  * 岐阜県地学解説データベース（岐阜大学教育学部）「見学案内コース：鉱山資料館・神岡城」\n\n---\n\n## 地域ラジオ向け 3択クイズ（神岡軌道編）\n\n**【問題】**\n昭和40年代初頭まで神岡町と富山方面を結んでいた鉄道「神岡軌道」。その線路の幅（レールとレールの間）はわずか610ミリと、新幹線の半分以下しかありませんでした。では、なぜここまで極端に狭いレール幅で作られたのでしょうか？\n\n* **A：** 神岡の険しい谷沿いの崖を削る工事費をギリギリまで削りたかったから\n* **B：** 神岡鉱山の「地下の坑道を走るトロッコ」と同じレール幅にして、そのまま地上へ直通させるため\n* **C：** 当時、イギリスから輸入した子ども用遊具の機関車をそのまま走らせていたから\n\n---\n\n**【正解】**\n**B：神岡鉱山の「地下の坑道を走るトロッコ」と同じレール幅にして、そのまま地上へ直通させるため**\n\n**【解説トーク用メモ】**\n「正解はBです！ 神岡鉱山の地下奥深くから掘り出した鉱石を、地上で別の貨車にわざわざ積み替えるのは大変な手間でした。そこで、地下の坑道で走っているトロッコの線路幅（610ミリ）のまま地上までレールを延ばし、そのまま富山方面へ直通できるようにしたという、鉱山の町ならではの合理的な工夫だったんですね。しかも、この小さなレールの上を、鉱石だけでなく一般のお客さんを乗せた可愛い列車も昭和30年代後半まで走っていたそうです！」",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A0%82%E7%B3%96+%E5%A1%A9+%E8%B3%9E%E5%91%B3%E6%9C%9F%E9%99%90+%E3%81%AA%E3%81%9C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">砂糖 塩 賞味期限 なぜ 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%88%E5%8F%A3%E5%A4%A7%E6%A0%B9+%E9%95%B7%E3%81%95+%E3%81%AA%E3%81%9C+%E5%B2%90%E9%98%9C+%E8%BE%B2%E6%9E%97%E6%B0%B4%E7%94%A3%E7%9C%81&client=app-vertex-grounding&safesearch=active\">守口大根 長さ なぜ 岐阜 農林水産省</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E3%81%A8%E3%82%93%E3%81%A1%E3%82%83%E3%82%93+%E7%89%9B%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3+%E3%81%AA%E3%81%9C+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡とんちゃん 牛ホルモン なぜ 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9E%E3%83%A8%E3%83%8D%E3%83%BC%E3%82%BA+%E3%81%AA%E3%81%9C+%E8%85%90%E3%82%89%E3%81%AA%E3%81%84+%E3%82%AD%E3%83%A6%E3%83%BC%E3%83%94%E3%83%BC&client=app-vertex-grounding&safesearch=active\">マヨネーズ なぜ 腐らない キユーピー</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%83%9E%E3%83%8D%E3%82%AE+%E6%B6%99+%E3%83%8F%E3%82%A6%E3%82%B9%E9%A3%9F%E5%93%81+%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E+%E5%82%AC%E6%B6%99%E6%88%90%E5%88%86&client=app-vertex-grounding&safesearch=active\">タマネギ 涙 ハウス食品 イグノーベル賞 催涙成分</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E5%9F%8E+%E6%A8%A1%E6%93%AC%E5%A4%A9%E5%AE%88+%E4%B8%89%E4%BA%95%E9%87%91%E5%B1%9E+%E5%AF%84%E8%B4%88&client=app-vertex-grounding&safesearch=active\">神岡城 模擬天守 三井金属 寄贈</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E8%BB%8C%E9%81%93+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E6%AD%B4%E5%8F%B2+%E5%85%AC%E7%9A%84%E8%B3%87%E6%96%99&client=app-vertex-grounding&safesearch=active\">神岡軌道 飛騨市 歴史 公的資料</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E7%9F%B3+Kamiokite+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡石 Kamiokite 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E6%96%B0%E9%89%B1%E7%89%A9+%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">神岡鉱山 新鉱物 博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9D%BF%E5%80%89+%E5%B1%B1%E4%B9%8B%E6%9D%91+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E7%9A%84%E6%99%AF%E8%A6%B3&client=app-vertex-grounding&safesearch=active\">板倉 山之村 飛騨市 重要文化的景観</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1%E7%94%BA+%E7%99%BA%E7%A5%A5+%E6%AD%B4%E5%8F%B2+%E9%9B%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">飛騨市 神岡町 発祥 歴史 雑学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E8%BB%8C%E9%81%93+610mm+%E6%97%85%E5%AE%A2+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">神岡軌道 610mm 旅客 歴史</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn-tP-W-1e5SL0PbTryVjq_bNsZAPCM6TOyQU3D_sAm1TAFYTTgc-wFzBCldTQum3MnVWE_e-ld2pIfS2J69SJND7_40e16G2cecTJZs8aBarBlxvL8CSWE89OpYy21bJ4tCyHRXHnFxALxBmRIlUmglVi_CMEZg==",
-          "title": "hicbc.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7ZSW_ZhklkGGtB-d9TD_h_V2JLoaZSkRsprtxaMdJB1xwxZOElHUQ6f9poitbgdFDsNY8Fib_S18FvAaXHyOqv2e9JlvPEdEvYFZSU5IJDhcV0YFZHoUhK22CluMbU5vlvExj5_Y_ZQ1v1NJGvUlR7dR54F0OtnfgmSw=",
+          "title": "mineralmarket.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl1csWdpfuYWwtJXNA4e3ewGpQeWu9AGNEM0oWTaw3h8m6_43RS38mcvGIupMxYnLwBf2NuBnIX2auQukEKjS-mDkqFIE9cnKRuzKkvv33Adf78Z3NHwyzDpZM",
-          "title": "hida-ootsubo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0tWX4WhB4R4EDjNnxH2KYbSEyUbpqdG5_bJOVgAJYzPda9Wq2Mf3xT3br4nCxhQq5_bp_H2J1BU3YpXpIETrlkw2vG9OW6Dgu98_PwvAF7c26pAvPfUZUQq7x3CcAbSKX1D_Aksc4LdBgD0HYSn-wJPo=",
+          "title": "kotobank.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnZkZKaqt5mTZgovfjX7MkYHdRnpAilh1zfd0WvxFroRGB-ScCWM6r-VHG8mOCaDuYw_z5ceocetW_vZXZ1GsjeTd7eClEI2ftsO_o19AH2qcJqu69pysPsqtd0QI=",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztQuP2nw-gwvgFxE3R21P-pcuZ4A4kzoBf-lxm0fS907r0Lk4ya-FjJLNCPOSWU3oLmqEnOmnbt2He2as65XqoNJiRPeQegAF01T_DyMu7dtPZ1no7qVeZF7yY2XSMGfE_fQ=",
+          "title": "kahaku.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBbAlx6ekDHiVe-21L55k-2w2yRJ9GTtVWc3YxBlyAWdXQgGk7BradYf3Ky3BJFHWc2oYyOtNxt8CFu6d5mFTdioQeRH6wOQ8Y7AWMoyus3v-BdffQu56eZ0hhfM_SqsHYpKt_GpeSxyVmRb8sPw==",
-          "title": "city.hida.gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGam9SkCXoht6MxhZlNeErIdOrOOPzs-AHHA1MR_4KQ-AEoKJaraA3GU46BM3aQMetBb_pFHAxOYvFrNxa_FKgqzB8COsG8sXpXKT_Jh5VC7g==",
-          "title": "keichan-us.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEertP7wZK4ZL5rbgjIdVNOvSLIuopSpO0Fs5umuVnkQRr2cF6DXU8Ayd_hc9FyQMUEIekkHQ1POxuhbfwPwV74tjGZOCGYAPfngZdmW-XyvwqAwRsqdfdl7KUn3WmU9zUXnGGBYlO_bhY=",
-          "title": "kankou-gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX6Ux2iFl-pN1WA_GTszFKD0GqJ-80Vj_U2GAQEHO9ZvrxCvQZubq8Ov-8vQY5k9jafDTAZhrcUblLPcYtO6kthp6KEDU4Kl5yBtGnMBFfGuAZSQQHEflKcwOaQA==",
-          "title": "hida-kankou.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnWi_N3airRRytCnpcN0VTHGi6zHUdYD3MkNfgumHWRXQEXwMSARlzD494row9pK9XwPi1ZlkunIJFfBkOomqzEXwbm4inMFRZBvskkSTME_iUVXFwbieyq3M5sm0HrjHa-r4=",
-          "title": "env.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXT9wkn7r62J9lNb4SVNPt5v6QE99zieg4tvLK2jWbklYZdOQIZ50Q0h83svwmvdg4yui1EobGN5VYnI6ZEmxtfZNSbo-_PWFTnByc_zSBWL5C6t1KBYhgGGLrSv930g==",
-          "title": "mynavi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY48j-yG2cT_PTVAjG2ta-ZCN0N8_uq0ZoxOwQ30xblpPcV928MGD9dkrObwkPuISlOoGTlWedq8j0jLceYQ5D1qAXfzMGjEOsEZR-T-Ik4T2UajC1cKNJXtafCcB0Q6zawsRZwjpqvmIpTtRB",
-          "title": "pref.aichi.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUzXEutQt9dk6h68l_2jQgQuv5tRclkBsb9tSsgEhmiWgvcpNB9FTEoxX3Xl1FDLCJ0vpQaZ5r-Vb9QP84ZCiNS0zQW9YR0EKtGAs9mCPbXIlgjGNrKrh9irdJB3C6JRU2RzYE1utJe2AZ9TAY",
-          "title": "ja-aichikita.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-kOVVI-90h-yOe889aQHe7HA_MajKDs7BI2y5h2X78DASP_l01ZkYbDlvsUUSi6IxWqVRiA263_bm6N5_VjEPl01Rqo95iQ6BhJ1CcvIUimJeZuIlwDS0s1sVHbmWG0E6fZTKhT2NOKXA3m0zrWd5S74mLP8mpraG9qZYRkdBy7iDpML2m7ism-Vs7A==",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV7yGcD1w_6YgxsR8EcQVMclBVKTD8Iw8Qoe6_RPsv7lreoMC2oVtcK37coS9vuhIp0SJxnOLPvzQmoEXoCiBgWWCLpCN8A3WecYldDw8ChXCKOgGJI2bwYXbPN55zjRDr0JSnB9M=",
-          "title": "gifu-tisan.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZE3ll2HocdA8mIgDGUhF5D-Wvyj7desy9NTxaCyb7EU-T7IOIbA982ILWG9DVLlxWx23NhHCT9ySCrjqaBSCHSV8gdPsK4pxGm6Y3L0p9WtdD2IAtiVqzMkIXWavdeUOtWfpBwlaRvMVsk2m882oRBB5e_PcrZv0=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkFk4fEfWJo7fZ1FgcGRgzZdbI2dR3Nlq0v5Bl3D2oVt1qxPd_H_cS8hxotFb-azs-wIw77wIbicfSi_NXFolV7l66v4UUO4JPbzx7p43wg9CbWNrbHveEx1V0GKhwl7USsRyNg-GQLWMunwUSOaxangfTPlC57uc=",
           "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJVYSxU5S0b2ajkK_56kewGjg4dmaerOqMODheAQ4QFzeOk3zTEc7YI9PFGuiAxnhcjjesEar-V2oWpHQ-qdbo-OlGnUSkQN3IjQp1YwiF79aYzw7fYtGTf4Dm_95-ZgcgzhBl6rS13KxMhbq2A96HB9dwoc79Y4bLqft6McTJTdmUjbSQPf1ThNgRU7spAfrXk8vD7oV8",
-          "title": "city.moriguchi.osaka.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuM0UsNfB0ztJpiaFA4s6oDAIkaDwxUzeAoVyM_U1t_jvOVJ3yqId7aRA3O940KRQ11pk8sHwuBElTDP9C3cS2HtH_ckg4UMXVod4K3QM-m8dxQG2vKNYFm_-pxzv652JCbzkeyT7zQVlPQi73AA==",
+          "title": "u-tokyo.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWPlHGpPurwxq4a-3vNsR-4pa_Kkl8LD9BmWi_GYxbVrY3ar4Hc4hta2HNgrbNNYAOvoaFx2THXEbPkPq-fuW-hrSoXjvRwBb8TBHh_Q0fnTjo64EB3a8YkDYHs3o5XhV-FgRDoy8=",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1XFBP0ZaNi8i50hCfYnpeXsk20uMjxBqaWVAPe07WIzadqZzqIlzoG7mWWcm4lcCS7_igEoMz-8HWbqdhwenxbF8eyQC7zygkBbcnU8BGLpOhFkwu5pFI-wr5LuyAw5Fv9PTj4OPq6tdhCT_TpJYuQ==",
+          "title": "hotetu.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvBfj3FXDTEhxlzni6whUm06ZN6usRP_P3ZgXRyMAGt3k9nZ59hM8xeYZAXXS82iJVVeOqBeASUaGTZKPyFoBAmr5tpV7dGkCQ0Y452-dlJuFVXMs0SXcEwfAWcbmyZ7c=",
+          "title": "yamaiga.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrdqHYLakEMjRxglKZ0I9fPlsFjL9gEspF8KxVezqLUaPujixp3gzaWPqjp8rXSbcCH0PsivjkzJMsXmibWfW3JRybmAqZ5Vzb6vm4E35SO-bec4vtrHvnwxCA9yEsvD4q1F3tkBFv4OVxJbxoGu4ABGw2L1qU7askNJ91YqGG2EYAVI1vUhbDtyCEt_3_Pqg0huE=",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkjDM09zqAHK46JOnBI17yOBOS80af9ND_85mOAbyVP-zGM2u1Ku1tTA9r9k_agfnoK-maCoIw2f0nbizC11kIsHkg803UZd3rZgFt8Ljvpu01gwaDPMXszlmh5iMMcg==",
+          "title": "yamaiga.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9ttm6PTx69WFFInG6oJi3j_PLhu8BNW6gPdy6v7K7QYqQ3Vl43NzkGTGVDcgdg9iKnAAdK_34MDA64BrWsu0oSZ8wqWhWwNR3xU7lKacTRnSmqPl7zEqnzkl-QJmyP1pU5KzCIw==",
+          "title": "d51498.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpwMACBCY40tcTUxR1nOe8o8FeNUNnAAMWqQkWUbvHyc3BcJqRZ7w96JsBGqTzKlwBkvr7LBz9bnsDdaoD9HivFmh0nkPNr6LWzoFfckXAlR8bk3uTyyF_42rr6bPFhaSnvEyOhm4GPEvV_dHrqg==",
+          "title": "city.hida.gifu.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEigHBqjIT0QkoFOYTm9oJNMga8KD6047KlUtd8qM3qecfvtErtE-SoUW1bB-jH1z8t8xyENjeEkWivPm6boVlvBfrnM3wnY4-MJQI-cEu_fjJvOAa6IppCWOM_CKhGLrKCWM6u8hx-H4EqFilJorBqBcsGaFg-bP_aWnu30mkLKfj6HuHtth5Iz0e0lu3H",
+          "title": "gifu.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKxqiJlk-bEkfKXxP1_ahVd6kRPpvnXSbueT_-lk1FM3DGBoEbdNXVdQCQTAmZrbE8qWsO1yTgVs2oE8BREfGsKKaYFDq0lY54eNULOMAzh4kc8wnN30WZ1Q==",
+          "title": "hida-kankou.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBCQ6dG2OGkJB1XzKjgejKdoyRN1trmpogmdWaixJFhoESzYEiIsxhFH1e0A7dxMhHqf97kyPjfjXgiX1yhIzuT1hEwfHfQxCONJA-VXVMGTLDVp2mIAWOcAyyvg8DLZ50NHTRej0=",
+          "title": "kankou-gifu.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9LoAA-D55_re_TTJmRgxJfE7x8LxqGFWYG5zezidphjU-VH_kxyq19XygDWSRDIRnQMpCBhcOeC2-LCK16pa84ZsCpixgH2DVqX9JAXvukk9uxi8s8f_FuWCWp6Cxev5P8tXvdexx3ICUuUwYW2xiSRWB8BBT31mwBEQfzPBPoR4=",
+          "title": "maff.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyq-if8q8IZxX_LggdfW1w9mFjKuOYdFvbmDqAipt2X5dg_3HTRDoYLvYX6f66cXiiET5eGXlubuAXGDkBh2t3eWQdh-Thv0tqfJAYFgIAojHhn5cxmDmAakLx6ZqqMk2JAfaqHucqwET19Xt88Q==",
+          "title": "city.hida.gifu.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ8eExTo4KoFV00TUmYfjmMJlauB5o-3UGL8HrEST7o27m3-MrMf8JoqHuBSXLGGIDIfdA0N0BhLmgOef3u1821fa5r1OZC5UXhkleTXAAtE1SLeEolivB2YuaY4nHk4G_",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcceU6Qbt7unYt4p4OeQIoAoxFIR0hlnDFi8O33gnwNgMuk7E-UWqI3xVmSvuK4-M1iNKiPcl9iT7PsgexJkQZMaASf5PJukSM1wi98nN4m3m2p1bMu1KbfiZ0nWxzdgM=",
+          "title": "gifu.lg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrMTcSowrxSq96_TqfVJgN5lIdz-pcJyo9CHYr2nty8xECq8DPv6E6K0WsMiTV7lazJ0Uq_PCC2avlBs-imANU4ENRrLZhkPhWKcKUjfd9PWnPnaBxJ3JFgqNpf_SuiJFGwgVp2ZCbeNaNOoH0tQ=",
+          "title": "wikipedia.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6CZo4-QESqSHzxFBfyMStHH0AC6_l3Wlrl3cSAwY8jgxx5QfSsuWe-6ZxuIiIH-L47Mt3xQY0lnhZtIlpFuvaCgBB4Jf9sCisscSj1FBV5uG1v-8=",
+          "title": "cmeg.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRgtQtkxXDIhrCCeZ82ebP7-CtOxM27Q14ntCV__5-SDWpKbTAJ2P6_IQxKhyVdFUdd_785t2MqQNSOLZhaR0r3Spsz6WEeHGLq35Pz_7QC8ogjE2ZvdvsL813T2mIvZvwEgeFYB0=",
+          "title": "geo-gifu.org"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7igK8CY5_H0lE8_23NpNdpvfUkrHugu2OS2KLPsMVjAcUtA3zayaJnaE6Brva-xXBtffd6T-D7oN1fgXhTv_GF5dzy86LpDcsy780yE-EV4fKsJreoxH8WiXbOIWAhOsUw4=",
+          "title": "mitsui-kinzoku.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOHq6HIZkvQWpN8b8DE3pmDMOaJr_bha3ZAAAAGPDDOyCTJ8d9Rd3-kqaog0bJ-3xwOicZd2Egmh5pOWZVBlQKljFp_q9Mkgw3Bdu_Lzs0pHkn9tdZpF3yciFFuw_0KT6DVBZhBA==",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_39KDQe1xgqNLHuFQjl9jbarhIpbP6v1BfdSXQLtUW48Wr61v9JjPQnVkJYm8FmndrMM5GkpJmCj3C-QSkOi3OmY9K8V7BdrAN3mjSwXV7sX_mrdfMQ2WyAG4qcbxb_6hat6mdOa1pi_RLA3TOrPoBuwpAo3o0hbaJMkM8vdsMf2aabk-Tw-WzoiT",
-          "title": "kewpie.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHauPhNPxWdfEHprj1UCkMefCdEjzbJobAGrdBmWNR3Dh9F0zrN5SZLA7x-wc48wJ0HrhR6fxpPdpXyvgVPEksyZgtHWu_D3Aa_uZJoCw-RK7fb4DxJfkyLak78ydf9bHNnkCaJKZ-kliN1EmAJH_6YrC6MdG4rPCmRz00=",
+          "title": "geo-gifu.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFliWOH-UlfQ5liXOucfyaIj_OSeT9a8d_XKSCabKWZu38v1sNvvG9JMr3H2pvZD9BbH-fIt4VCYmn35To8mnuxXJck468v-Mi5izk0qDvIgLTPMnZ_kUrMtEC9Jj09ENm",
-          "title": "kewpie.co.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQuckXOWYlM94OxPiBC-s4H382Tia8X7hCtAnKWmNgjrpHgHGBow1lKr-FS9VSpN9jPP2mknPGmfGLZwPDmrBdxpMspiJ9Qc5sGVZTLiGKjPrwzwFaq_yJsIkGx1Zrsi9CemsabaREmlwkPdFIQtLHNUUeURD90OW440jXhly3avle",
-          "title": "withnews.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAo03Y-FZ24-Tana7pCAK2nr9nnUBpggfw6kOQRJSqWgZV05eVTZJzC0svshL3aePRqtcKN9AgB3NUlbq8V2Ae3OlEn_3Rx10huOHhFU__047gKTuy7vDAE760XAiKrY_ofqJdQghbBit8_wIOCX94_Uv8kQG-3EGjKlAT",
-          "title": "msdm-hd.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTORWiXiyfgOLknk05SX2sS_Kxt1jeTLVrRJOTZUdKm61l8cNYwMizAg1WMJtmKxDd4pTtOPcvagZKHs0XHE9w8-wcdwNndb9hJSL09LHMJQ-5g8jKpe73bNbItQ_k1cBO_zGyorsq",
-          "title": "ameblo.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAA6CRl-Nl2CSYHF0MRpH6HdVsf6FE5U5ze8VzdKHj_peViY6WnovL0LzopmTNfIDSNHEJVxSC45b-Ts3kMqLmCuTlbNM275zPAP3x87UBoHdWvFBcT11kAZrB4nfAb80Kb1jBmkTI9Wk2eO4NmTWgd_UP5Onb",
-          "title": "housefoods.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3sVZcJw7GmKnaia4JjgUN3qQyJ4eTHzbwpjijhL9G1HwfaSCdoA9OqDgK6lAl5n2AMeD0II6-PxHa-Thgl-xCrMvEt9fGlQEUj4Tp-6JpYq5D69vyoMFcQQy0keCAeoqUIy-XzieQLA==",
-          "title": "jspp.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrYviR_UK4lVjDyfjLOC4xRe2d1_NAEtkiF-jTSiD8QlMwv7U6Wo7fHRWagltqn3eVQwwm-haRZNFXmgNyhosfhv4QtJ88UWvbGcSlQ4UFRvAHR2V8ZHZe3CI8sl4wYTaey4E9VUCuLQ=",
-          "title": "chem-station.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9_MKV0gUVI5dpK5FeoJzXOuhfwxkyl-dxiIMzBxI9S0iUqWCJFn_V7IPMD0_fSXbNwUqWrA3b6PIWSRDu98RMftRQmju903c_5N711H0cId_eEhVyocXRS-TjVZBa7OMqzE6iqFK7",
-          "title": "toyokeizai.net"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVRD64RlImw3dcagS7BUkK2a774Wlebid6C_yMv5sxddIOtM6WprBRADiJDXYv_-Ch0HZ4fBiEaLXQ0v35qm6lVPZEBFK1_PRIvl8vgqKsNO92HxxJXDHLDEjLXHRCaQ==",
-          "title": "note.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrERJdaUyaOGd9MV8KE_8mqSs5O1UCd5zrjZ9AUtKds9GpG40OXL53n-jXE81uRGtkIEcz74y-vzokYpcL3aHY3Ls-WbBpVcVwW5s7sC1OlbtC3YoxwXzd9PMXAFmJltgPYOjRa9YlcoZ97nxkum5zIRG0du9X1ZYi",
-          "title": "hosei.ac.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRdOKULmxc8WzvffzFsaOYwDsmGkYi_WZf_ctMwpmZWXdsV0tqRVpmNQCHWNCV_t0sLs0NbQVvaW6z1cDaLt-AG3_NHxFjFQnbmATWkjXUqs9wo8p8J8KMm8vPHkiPZA3vkdmXxw8vCNKr0CV1wCTG8P6gsb30EeetvzU=",
-          "title": "housefoods-group.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGshrWPegIVfkxXeN7msRp0QqI-BiKryIIJisvWPTHufKBUOC9mIW2JeW3X7j21RMugYYmV_Rp182kVg_juyBM_AdwLLmzbpOI4Sp21kjKCeBQowOKQvfyrWexcpTXNgchs0L4aTv2H-4ttcNx4rpE_-dyzDxzdGyQsQILW48M8uDqRp435tleEw8lnlXdZ1IA5MCPNfr0me_HPjw0wvBe-1Fh-zghcnVhKYnm2ECWuo_agaOXOyHJ1xGg8mbPLwuGmX188DtLBxy_NpvHqS9E=",
-          "title": "kazusa.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2UDfVdekrNeAdsYFz7mfs2GH05h4JLwZUrn_uw_EAnjuu1l6t-dtOO_aYIIaI7TT3sFT0eBnaRSgdnlgVicK876TYlOlKagwjqx1IaOd7nFcBiq0cHUK5eCRpXffSsRt3j0f2WVyg9VA=",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsfHFocM6p-A6sETiJLFQCTdazjmGQevpbZPqjCJl2--GoW9CKcS-M6Z8e05wRuHzVlq-Z3PeAnTOpRajN1izoWacPvp4PoAiRMO1D0wU-HYiPWAfnhK_kxTsCk1Qqn8Q4B24-Yem-zbyZVHAwpw==",
+          "title": "city.hida.gifu.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 769,
-          "endIndex": 994,
-          "text": "語源には諸説ありますが、神岡町の老舗飲食店などによると、かつて朝鮮半島でホルモン・内臓全般を指していた言葉（トンチャン等）に由来するという説が有力です"
+          "startIndex": 676,
+          "endIndex": 954,
+          "text": "**理由と詳細：** 1985年に神岡鉱山茂住坑の石英脈から発見され、国際鉱物学連合（IMA）に新鉱物として正式承認された希少鉱物が「神岡鉱（神岡石／英名：kamiokite、化学式：$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$）」です"
         },
         "groundingChunkIndices": [
           0,
@@ -276,110 +248,113 @@
       },
       {
         "segment": {
-          "startIndex": 997,
-          "endIndex": 1201,
-          "text": "一般的な東海地方の「とんちゃん」は豚の腸を指すことが多いのに対し、神岡では上質な牛の内臓を鉄板で焼く独自の料理としてその名が定着しました"
+          "startIndex": 960,
+          "endIndex": 1210,
+          "text": "**具体的な数字と特徴：** 鉄とモリブデンの複酸化鉱物で、色は黒色（金属光沢）、比重は約6.02と手に持つとずっしりと非常に重いのが特徴です（一般的な岩石の比重2.6〜2.8の2倍以上）"
         },
         "groundingChunkIndices": [
-          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1213,
+          "endIndex": 1450,
+          "text": "結晶の大きさはミリ単位の板状・柱状で、原産地である神岡鉱山のほか、アメリカ（ミシガン州）やブラジルなど世界でも数カ所でしか確認されていない極めて貴重な鉱物です"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1453,
+          "endIndex": 1601,
+          "text": "国立科学博物館（東京都上野）の日本館3階「日本の鉱物」コーナーにも神岡鉱の実物標本が展示されています"
+        },
+        "groundingChunkIndices": [
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1243,
-          "endIndex": 1465,
-          "text": "飛騨市や観光協会の資料によると、神岡とんちゃんではミノ、センマイ、ハチノス、小腸など、約8〜10種類もの様々な部位の牛ホルモンがミックスされて使われます"
+          "startIndex": 1607,
+          "endIndex": 1789,
+          "text": "**意外な点・歴史の裏話：** 神岡鉱山といえば「亜鉛・鉛・銀」が有名ですが、この鉱物はモリブデンというレアメタルを含んでいます"
         },
         "groundingChunkIndices": [
-          0,
           3,
-          4
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1468,
-          "endIndex": 1561,
-          "text": "豚ホルモン単体に比べて多彩な食感とうま味を楽しめるのが特徴です"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1588,
-          "endIndex": 1769,
-          "text": "通常ホルモン焼きといえば肉を食べるのが主役ですが、神岡とんちゃんは「野菜と肉汁の調和」、そして「2段階のシメ」が真骨頂です"
+          "startIndex": 1792,
+          "endIndex": 2138,
+          "text": "さらに2013年には三重県伊勢市で発見された新鉱物が「伊勢鉱（iseite）」と命名されましたが、これは神岡鉱の鉄部分がマンガンに置き換わった同型構造の鉱物であることがわかり、神岡の名を冠した鉱物が世界の地球科学の分類基準として生き続けています"
         },
         "groundingChunkIndices": [
           0,
-          4
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 1772,
-          "endIndex": 1976,
-          "text": "鉄板に残った秘伝の味噌ダレに、まず「うどん」を投入して楽しみ、さらにその後に「ご飯」を絡めて食べるという独自の食文化が受け継がれています"
+          "startIndex": 2171,
+          "endIndex": 2262,
+          "text": "国立科学博物館 常設展示データベース「詳細（神岡鉱 / kamiokite）」"
         },
         "groundingChunkIndices": [
-          0,
-          3,
-          1,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2006,
-          "endIndex": 2113,
-          "text": "誕生は昭和30年代、東洋一の亜鉛山として栄えていた神岡鉱山の時代に遡ります"
-        },
-        "groundingChunkIndices": [
-          0,
-          5,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 2116,
-          "endIndex": 2416,
-          "text": "過酷な坑内作業を終えた鉱山労働者たちが、手早くスタミナをつけて英気を養えるよう、味噌やニンニクを効かせたタレで味付けしたホルモンをキャベツや玉ねぎと一緒に平鍋・鉄板で豪快に炒めたのが発祥とされています"
+          "startIndex": 2267,
+          "endIndex": 2345,
+          "text": "小学館『日本大百科全書（ニッポニカ）』「神岡鉱」解説"
         },
         "groundingChunkIndices": [
-          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2350,
+          "endIndex": 2467,
+          "text": "東京大学総合研究博物館 企画展示「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2699,
+          "endIndex": 2946,
+          "text": "**理由と詳細：** 昭和40年代初頭まで神岡〜猪谷（初期は富山市笹津）間を走っていた軽便鉄道「神岡軌道」は、レールの幅（軌間）がわずか610mm（約2フィート）しかありませんでした"
+        },
+        "groundingChunkIndices": [
           5,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2451,
-          "endIndex": 2526,
-          "text": "飛騨市公式ウェブサイト「きのえ（神岡とんちゃん）」"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2531,
-          "endIndex": 2597,
-          "text": "飛騨市公式観光サイト「飛騨の旅」（たからや）"
-        },
-        "groundingChunkIndices": [
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 2602,
-          "endIndex": 2686,
-          "text": "岐阜県観光公式サイト「岐阜の旅ガイド」（神岡とんちゃん）"
+          "startIndex": 2952,
+          "endIndex": 3124,
+          "text": "**具体的な数字と比較：** 現在の新幹線の標準軌（1,435mm）の半分以下、JR在来線（1,067mm）と比べても約6割という極端な狭さです"
+        },
+        "groundingChunkIndices": [
+          5,
+          7
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3130,
+          "endIndex": 3350,
+          "text": "**意外な点・歴史の裏話：** なぜここまで狭い線路にしたのかというと、「神岡鉱山の地下坑道内を走るトロッコのレール幅（610mm）」と全く同じにするためでした"
         },
         "groundingChunkIndices": [
           5
@@ -387,125 +362,53 @@
       },
       {
         "segment": {
-          "startIndex": 2834,
-          "endIndex": 3026,
-          "text": "岐阜県（岐阜市・各務原市など）や愛知県の木曽川・長良川流域で栽培される「守口大根」は、ギネス記録にも認定される世界一長い大根です"
+          "startIndex": 3353,
+          "endIndex": 3548,
+          "text": "坑道から採掘した鉱石を別の列車に積み替えることなく、そのまま地上に出て川沿いを直通運搬できるようにした合理的な鉱山規格だったのです"
         },
         "groundingChunkIndices": [
-          7,
+          5,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3551,
+          "endIndex": 3791,
+          "text": "さらに驚くべきことに、鉱山専用線として始まったものの、沿線住民の熱心な要望によって昭和初期から地方鉄道として認可され、客車を連結した一般旅客営業も行っていました"
+        },
+        "groundingChunkIndices": [
+          5,
           8,
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3110,
-          "endIndex": 3305,
-          "text": "品種特有の旺盛な伸長力に加え、栽培地である長良川や木曽川の河畔に「きめ細かく深くまで均質で柔らかい砂質土壌」が広がっているためです"
-        },
-        "groundingChunkIndices": [
-          11,
-          12,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3308,
-          "endIndex": 3549,
-          "text": "土中に小石や粘土層などの障害物があると根が二股に分かれたり曲がったりしてしまいますが、障害物のない深い砂地だからこそ、地下深くへ真っ直ぐ1本に伸びることができます"
-        },
-        "groundingChunkIndices": [
-          11,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3591,
-          "endIndex": 3832,
-          "text": "普段家庭で食べる一般的な青首大根は長さ約30cm・太さ約8cm前後ですが、守口大根は直径がわずか2〜3cmほどしかないのに対し、長さは平均1.2〜1.3m、長いものでは1.8m以上に達します"
-        },
-        "groundingChunkIndices": [
-          11,
-          9,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3835,
-          "endIndex": 3990,
-          "text": "2013年には愛知県扶桑町で収穫された191.7cmの守口大根が「世界一長い大根」としてギネス世界記録に登録されました"
-        },
-        "groundingChunkIndices": [
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 4017,
-          "endIndex": 4197,
-          "text": "「守口」という大阪の地名がついているのに、現在の全国シェアのほとんどは木曽川・長良川流域（岐阜県・愛知県）が占めています"
+          "startIndex": 3794,
+          "endIndex": 3959,
+          "text": "1962（昭和37）年に旅客輸送を終えるまで、町民の通勤・通学の足としても山あいをトコトコと走り続け、愛されていました"
         },
         "groundingChunkIndices": [
-          11,
-          7,
-          10,
-          13
+          5,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 4200,
-          "endIndex": 4447,
-          "text": "また、身が非常に硬く締まっていて辛みが強いため、煮物やサラダなどの生食には向かず、3年近くかけて塩や酒粕・みりん粕に漬け込む「守口漬」専用の野菜として栽培されています"
+          "startIndex": 4065,
+          "endIndex": 4125,
+          "text": "神岡よもやま物語」（神岡軌道の歴史解説）"
         },
         "groundingChunkIndices": [
-          10,
-          13
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4477,
-          "endIndex": 4699,
-          "text": "起源は室町時代の大阪・淀川流域（現在の守口市付近）とされ、天正年間に豊臣秀吉がこの大根の粕漬けを食して絶賛し「守口漬」と命名したという逸話があります"
-        },
-        "groundingChunkIndices": [
-          11,
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4702,
-          "endIndex": 4834,
-          "text": "しかし明治以降、淀川の改修工事や都市化によって本家・大阪の産地はほぼ消滅してしまいました"
-        },
-        "groundingChunkIndices": [
-          11,
-          14,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4837,
-          "endIndex": 5056,
-          "text": "淀川と地質条件がそっくりだった木曽川・長良川流域の農家が栽培技術を受け継ぎ、東海地方を代表する特産品として生き残ったという数奇な歴史を持っています"
-        },
-        "groundingChunkIndices": [
-          7,
-          13
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5091,
-          "endIndex": 5154,
-          "text": "農林水産省「にっぽん伝統食図鑑」（守口漬）"
+          "startIndex": 4130,
+          "endIndex": 4174,
+          "text": "『神岡町史 史料編 近代・現代』"
         },
         "groundingChunkIndices": [
           11
@@ -513,19 +416,9 @@
       },
       {
         "segment": {
-          "startIndex": 5159,
-          "endIndex": 5235,
-          "text": "環境省「中部生物多様性物語Ⅱ 絶滅から生まれた名物」"
-        },
-        "groundingChunkIndices": [
-          7
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5240,
-          "endIndex": 5318,
-          "text": "愛知県農業水産局「あいちの伝統野菜（守口だいこん）」"
+          "startIndex": 4179,
+          "endIndex": 4261,
+          "text": "土木学会 戦前土木絵葉書ライブラリー（神岡軌道関連資料）"
         },
         "groundingChunkIndices": [
           9
@@ -533,9 +426,64 @@
       },
       {
         "segment": {
-          "startIndex": 5323,
-          "endIndex": 5380,
-          "text": "岐阜県「ぎふの農産物（守口だいこん）」"
+          "startIndex": 4542,
+          "endIndex": 4818,
+          "text": "**理由と詳細：** 環境省「かおり風景100選」や岐阜県「ぎふの棚田21選」にも選定されている飛騨市宮川町種蔵集落には、石積みの棚田の中に伝統的な木造倉庫「板倉（いたくら）」が約20棟点在しています"
+        },
+        "groundingChunkIndices": [
+          12,
+          13,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4821,
+          "endIndex": 4929,
+          "text": "これらは母屋に隣接させず、あえて棚田を挟んで離れた場所に建てられています"
+        },
+        "groundingChunkIndices": [
+          15,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4935,
+          "endIndex": 5123,
+          "text": "**具体的な数字と特徴：** 種蔵に残る板倉はすべて100年以上前に建てられたもので、現在も農具や作物の保管庫として現役で使われています"
+        },
+        "groundingChunkIndices": [
+          14,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5126,
+          "endIndex": 5288,
+          "text": "柱や梁には水に強く腐りにくいクリ材、壁には厚いスギ板が使われ、釘を使わずに落とし込む伝統工法で組まれています"
+        },
+        "groundingChunkIndices": [
+          14,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6049,
+          "endIndex": 6145,
+          "text": "岐阜県庁 農村振興課公式資料「ぎふの棚田21選に認定された種蔵棚田」"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6150,
+          "endIndex": 6243,
+          "text": "飛騨市公式観光サイト「飛騨の旅」景観遺産解説（種蔵地区・板倉）"
         },
         "groundingChunkIndices": [
           12
@@ -543,9 +491,9 @@
       },
       {
         "segment": {
-          "startIndex": 5545,
-          "endIndex": 5726,
-          "text": "傷みやすい「生卵」を原料に使っているマヨネーズですが、未開封であれば冷蔵庫に入れず、キッチンの常温で約1年間も保存できます"
+          "startIndex": 6248,
+          "endIndex": 6339,
+          "text": "飛騨市役所 宮川振興事務所「飛騨ふるさと種蔵村集落MAP」解説資料"
         },
         "groundingChunkIndices": [
           15
@@ -553,83 +501,9 @@
       },
       {
         "segment": {
-          "startIndex": 5786,
-          "endIndex": 5960,
-          "text": "マヨネーズには「食塩」と、殺菌力を持つ「醸造酢」が含まれており、製品全体が強い酸性（pH約4前後）に保たれているためです"
-        },
-        "groundingChunkIndices": [
-          16,
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5963,
-          "endIndex": 6183,
-          "text": "さらに、成分の約7割を占める植物油の微粒子が水分を包み込む乳化構造をとっており、細菌が増殖するために必要な「自由水」が極めて少ない環境になっています"
-        },
-        "groundingChunkIndices": [
-          18,
-          15,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6225,
-          "endIndex": 6401,
-          "text": "通常の生卵の賞味期限は生食で約2週間程度ですが、キユーピーのマヨネーズ（未開封）の賞味期間は12〜13カ月に設定されています"
-        },
-        "groundingChunkIndices": [
-          18,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6404,
-          "endIndex": 6616,
-          "text": "キユーピーの実験データによると、マヨネーズの中に病原菌を試験的に添加しても、酢と食塩の殺菌作用により24時間以内に全滅することが確認されています"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6643,
-          "endIndex": 6769,
-          "text": "これほど長持ちするにもかかわらず、合成保存料や防腐剤は一切使われていません（無添加）"
-        },
-        "groundingChunkIndices": [
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6772,
-          "endIndex": 6862,
-          "text": "また、未開封の段階では「冷蔵庫に入れない」ほうが長持ちします"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6865,
-          "endIndex": 7151,
-          "text": "マヨネーズは0℃以下になると油と酢の乳化が破壊されて分離し、防腐効果が損なわれるため、メーカーは開栓前は常温の冷暗所、開栓後も冷気の直撃を避けて冷蔵室のドアポケット付近での保存を推奨しています"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7181,
-          "endIndex": 7328,
-          "text": "1925年（大正14年）に日本で初めてマヨネーズを製造・販売したキユーピーの歴史は、「酸素との戦い」でした"
+          "startIndex": 6626,
+          "endIndex": 6736,
+          "text": "**理由と詳細：** 神岡町城ヶ丘に建つ神岡城（正式な史跡指定名は「東町城跡」）"
         },
         "groundingChunkIndices": [
           18
@@ -637,222 +511,111 @@
       },
       {
         "segment": {
-          "startIndex": 7331,
-          "endIndex": 7412,
-          "text": "マヨネーズが傷む主な原因は腐敗ではなく「油の酸化」です"
+          "startIndex": 6739,
+          "endIndex": 6988,
+          "text": "戦国時代（永禄7年・1564年）に武田信玄の命により江馬時盛が築城した平山城ですが、江戸幕府の一国一城令（1615年）で破却され、長らく石垣や堀などの遺構しか残っていませんでした"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6991,
+          "endIndex": 7203,
+          "text": "現在見られる2重3階の木造模擬天守は、1970（昭和45）年に三井金属鉱業が神岡鉱業所の創業100周年を記念して建設し、当時の神岡町へ丸ごと寄贈したものです"
         },
         "groundingChunkIndices": [
           18,
-          17
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 7415,
-          "endIndex": 7703,
-          "text": "そのため、酸素を通しにくい多層プラスチックボトル、ボトルの口に貼るアルミシール、容器内に残った空気を窒素に置き換える技術など、容器包装の改良を何十年も重ねて賞味期限を伸ばしてきた経緯があります"
+          "startIndex": 7209,
+          "endIndex": 7439,
+          "text": "**具体的な数字と特徴：** 天守は福井県の丸岡城や愛知県の犬山城などを参考に設計・新築されたもので、隣接する鉱山資料館も同時に同社によって建設・寄贈されました"
+        },
+        "groundingChunkIndices": [
+          20,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7442,
+          "endIndex": 7617,
+          "text": "1958年に飛騨市の史跡に指定されていた城跡に、企業の記念事業として木造天守が寄贈された例は全国的にも極めて珍しい事例です"
         },
         "groundingChunkIndices": [
           18,
-          17
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 7838,
-          "endIndex": 7868,
-          "text": "おいしさを保つ工夫」"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7873,
-          "endIndex": 7955,
-          "text": "キユーピー株式会社 食育活動「酢と食塩の力で長持ちする」"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8294,
-          "endIndex": 8641,
-          "text": "タマネギの細胞が包丁で傷つくと、細胞内に別々に保管されていた含硫アミノ酸（PRENCSO）と酵素「アリイナーゼ」が混ざり合い、さらに「催涙因子合成酵素（LFS）」が働くことで、揮発性の催涙成分（syn-プロパンチアール-S-オキシド）が生成されるためです"
+          "startIndex": 7623,
+          "endIndex": 7859,
+          "text": "**意外な点・歴史の裏話：** 当時の神岡町は三井金属による鉱山操業で活気にあふれており、町と鉱山企業が一体となって発展していた時代の象徴的なモニュメントといえます"
         },
         "groundingChunkIndices": [
           21,
+          20,
           22
         ]
       },
       {
         "segment": {
-          "startIndex": 8644,
-          "endIndex": 8758,
-          "text": "この気体が空気中を漂って目の角膜に触れ、神経を刺激することで涙が分泌されます"
+          "startIndex": 7862,
+          "endIndex": 8069,
+          "text": "現在は神岡城・鉱山資料館・旧松葉家住宅（国指定重要有形民俗文化財の民家）が一体となり、飛騨市の文化施設「高原郷土館」として活用されています"
         },
         "groundingChunkIndices": [
           23,
-          22,
-          24
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9262,
-          "endIndex": 9407,
-          "text": "かつて世界の科学界では「アリイナーゼという1つの酵素が催涙成分を作る」と数十年間信じられていました"
+          "startIndex": 8102,
+          "endIndex": 8229,
+          "text": "飛騨市公式ウェブサイト 文化財・施設案内「高原郷土館（東町城跡・神岡城・鉱山資料館）」"
         },
         "groundingChunkIndices": [
-          25,
-          26
+          24,
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9410,
-          "endIndex": 9700,
-          "text": "しかし、日本のハウス食品の研究グループが「実は催涙成分を作るには、もう1つの未知の酵素（催涙因子合成酵素：LFS）が必要不可欠である」ことを突き止め、2002年に世界的科学雑誌『Nature』に論文を発表しました"
+          "startIndex": 8234,
+          "endIndex": 8360,
+          "text": "岐阜県地学解説データベース（岐阜大学教育学部）「見学案内コース：鉱山資料館・神岡城」"
         },
         "groundingChunkIndices": [
-          21,
-          27,
-          28
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 9703,
-          "endIndex": 9878,
-          "text": "この功績により、同研究チームは2013年に「人々を笑わせ、考えさせる」研究に贈られる「イグノーベル化学賞」を受賞しています"
+          "startIndex": 9776,
+          "endIndex": 9955,
+          "text": "しかも、この小さなレールの上を、鉱石だけでなく一般のお客さんを乗せた可愛い列車も昭和30年代後半まで走っていたそうです！」"
         },
         "groundingChunkIndices": [
-          21,
-          28,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9908,
-          "endIndex": 10154,
-          "text": "この世界的な大発見のきっかけは、同社がレトルトカレーの開発中、「タマネギとニンニクを一緒に炒めると、なぜか全体が緑色に変色してしまう」という製造現場のトラブルでした"
-        },
-        "groundingChunkIndices": [
-          27,
-          28,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10157,
-          "endIndex": 10392,
-          "text": "なぜ緑色になるのかという失敗原因を追究する基礎研究の中で、偶然にもタマネギに隠されていた第2の酵素が見つかったという、まさに失敗から生まれた世紀の大発見でした"
-        },
-        "groundingChunkIndices": [
-          27,
-          28,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10427,
-          "endIndex": 10557,
-          "text": "ハウス食品グループ本社「タマネギ研究での イグノーベル賞受賞について（プレスリリース）」"
-        },
-        "groundingChunkIndices": [
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10562,
-          "endIndex": 10646,
-          "text": "ハウス食品グループ本社「タマネギの催涙成分に関する研究」"
-        },
-        "groundingChunkIndices": [
-          27
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10651,
-          "endIndex": 10741,
-          "text": "日本植物生理学会「みんなのひろば：玉ねぎの催涙成分について」"
-        },
-        "groundingChunkIndices": [
-          22
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 10828,
-          "endIndex": 10933,
-          "text": "飛騨市神岡町で半世紀以上愛されている名物ソウルフード「神岡とんちゃん」"
-        },
-        "groundingChunkIndices": [
-          0,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11180,
-          "endIndex": 11215,
-          "text": "**② 牛肉（牛ホルモン）**"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11254,
-          "endIndex": 11470,
-          "text": "名前に「豚（とん）」と入っているため豚肉と思われがちですが、神岡とんちゃんは国産牛の小腸やミノ、センマイなどの牛ホルモンを使うのが大きな特徴です"
-        },
-        "groundingChunkIndices": [
-          0,
-          3,
-          29
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11476,
-          "endIndex": 11676,
-          "text": "とん」は朝鮮半島の言葉で内臓を意味していた言葉に由来するという説があり、昭和30年代に神岡鉱山で働く方々のスタミナ料理として定着しました"
-        },
-        "groundingChunkIndices": [
-          0,
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11679,
-          "endIndex": 11836,
-          "text": "野菜と一緒に鉄板で炒めたあと、タレにうどん、さらにご飯を投入してシメを2度味わうのが神岡流の粋な食べ方です"
-        },
-        "groundingChunkIndices": [
-          0,
-          3,
-          4
+          5,
+          8
         ]
       }
     ],
     "webSearchQueries": [
-      "砂糖 塩 賞味期限 なぜ 農林水産省",
-      "守口大根 長さ なぜ 岐阜 農林水産省",
-      "神岡とんちゃん 牛ホルモン なぜ 飛騨市",
-      "マヨネーズ なぜ 腐らない キユーピー",
-      "タマネギ 涙 ハウス食品 イグノーベル賞 催涙成分"
+      "神岡城 模擬天守 三井金属 寄贈",
+      "神岡軌道 飛騨市 歴史 公的資料",
+      "神岡石 Kamiokite 飛騨市",
+      "神岡鉱山 新鉱物 博物館",
+      "板倉 山之村 飛騨市 重要文化的景観",
+      "飛騨市 神岡町 発祥 歴史 雑学",
+      "神岡軌道 610mm 旅客 歴史"
     ]
   }
 }
