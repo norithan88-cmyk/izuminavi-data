@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-11-10T12:33:09.635+09:00",
+  "updated_at": "2026-11-11T10:13:40.736+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=12&type=2&year=2026"
   ],
-  "event_count": 16,
+  "event_count": 15,
   "events": [
-    {
-      "title": "あんじょう健康大学 第3講",
-      "url": "https://www.city.anjo.aichi.jp/event/202611kenkodaigaku3.html",
-      "start_date": "2026-11-10",
-      "end_date": "2026-11-10",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
     {
       "title": "あんじょう健康大学 第4講",
       "url": "https://www.city.anjo.aichi.jp/event/202611114kenkodaigaku.html",
