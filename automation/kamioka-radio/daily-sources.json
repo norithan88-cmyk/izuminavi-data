@@ -1,43 +1,41 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2273,
-  "estimated_minutes": 6.9,
+  "theme": "科学・自然のなぜ",
+  "characters": 2201,
+  "estimated_minutes": 6.7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "かつて神岡を走った神岡軌道のレール幅はわずか61センチでした。なぜこんなに狭かったのでしょうか。1番、工事費をギリギリまでケチった。2番、地下のトロッコを直通させるため。3番、遊具の汽車を走らせていた。",
-    "answer": "正解は2番、地下のトロッコを直通させるためでした！鉱石を別の列車に積み替える手間を省くための合理的な工夫だったんだって。そのまま地上を走るなんて、究極のショートカットやさ！",
+    "question": "カモシカはシカではなくウシの仲間ですが、本物のシカとの決定的な違いはどれでしょうか。1番、角が一生生え替わらない。2番、お肉が大好き。3番、朝のアラームで起きる。",
+    "answer": "正解は1番、角が一生生え替わらない、でした！シカの角は春にポロリと落ちますが、カモシカは一生伸び続けるんやさ。朝アラームで起きるクマもおったら見てみたいやろー！",
     "source_ids": [
-      7,
-      8,
-      12
+      4,
+      8
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1XFBP0ZaNi8i50hCfYnpeXsk20uMjxBqaWVAPe07WIzadqZzqIlzoG7mWWcm4lcCS7_igEoMz-8HWbqdhwenxbF8eyQC7zygkBbcnU8BGLpOhFkwu5pFI-wr5LuyAw5Fv9PTj4OPq6tdhCT_TpJYuQ==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvBfj3FXDTEhxlzni6whUm06ZN6usRP_P3ZgXRyMAGt3k9nZ59hM8xeYZAXXS82iJVVeOqBeASUaGTZKPyFoBAmr5tpV7dGkCQ0Y452-dlJuFVXMs0SXcEwfAWcbmyZ7c=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpwMACBCY40tcTUxR1nOe8o8FeNUNnAAMWqQkWUbvHyc3BcJqRZ7w96JsBGqTzKlwBkvr7LBz9bnsDdaoD9HivFmh0nkPNr6LWzoFfckXAlR8bk3uTyyF_42rr6bPFhaSnvEyOhm4GPEvV_dHrqg=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZcROw-iUKuZdr21eArE2j3DEfrpR1BhbB_9vZ7aTyZgTAcWwlIKbYXJ5rwc2Z_pg_P6fNd_rYQYQMx8LYmuImqKms1UCLFa2DEnA7rY1yv7E0_KiNvRrCWR8vvJiJq_WSXg==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2C9KYY4RH5v_UZB6OxDxzvWHrc71ySP1kcJb2ExwGDCqxd7UiNf3HOSd7l29YFXAkJHoiHorjEaUCnKzinRL_ngil39PKyW1CpQktB2vYc-8vTV1AnCzqfrESXGheNarQMdHNUnSKxFI="
     ]
   },
   "izumi": {
-    "text": "みおんの神岡ディープ！今日は神岡が世界に誇る大快挙のお話やさ。神岡鉱山の地下千メートルには東京大学宇宙線研究所の観測装置があるんだけど、なんとノーベル賞が2回も出とるの、知っとる？まず初代のカミオカンデ！千九百八十三年に観測を始めて、純水三千トン、光をとらえる光電子増倍管千本でスタート。千九百八十七年二月二十三日、大マゼラン星雲の超新星爆発から飛んできたニュートリノを世界で初めてとらえたんやさ！宇宙からの手紙をピンポイントで受け取るなんて、現代ならスマホの通知どころの騒ぎじゃないよね！この成果などで小柴昌俊さんが二千二年にノーベル物理学賞を受賞しました。さらにバトンを受けたスーパーカミオカンデは千九百九十六年四月に観測開始！純水五万トン、光電子増倍管は約一万三千本とカミオカンデの約十六倍にスケールアップして、千九百九十八年に『ニュートリノ振動』を発見！当時の所長だった梶田隆章さんが二千十五年にノーベル物理学賞を受賞したんやさ。二千二十年からは純水にレアアースの一種を加えて新しい発見を目指しとるし、次は純水二十六万トン、光電子増倍管四万本のハイパーカミオカンデ計画も進行中！小さな山の町から世界を揺るがす大発見が二回も飛び出すなんて、神岡の地下は世界の知恵のど真ん中やさね！",
+    "text": "みおんの神岡ディープ！今日は神岡の誇る大逆転劇のお話やさ。神岡といえば、かつて三井金属鉱業が運営して亜鉛や鉛、銀などを採掘しとった鉱山の町。1559年から1642年にかけて茂住宗貞さんが茂住や和佐保の鉱山を開発して発展の土台を作ったんやけど、2001年に採掘を終えたんやよね。普通なら役目を終えた巨大な地下の穴って、埋めるか放置するしかないやろー？せっかく掘った穴をそのまま放置するなんて、おとましいにもほどがある！…って、もったいないって意味で合っとる？でも神岡は違ったんやさ！なんとその鉱山跡地の地下深くが、スーパーカミオカンデという世界最先端の宇宙研究の舞台に大抜擢されちゃいました！これ、現代で言えば定年退職したベテラン社員が急にNASAの超重要プロジェクトにヘッドハンティングされたようなもんやろー！穴を掘って掘って掘りまくった神岡の歴史が、そのまま世界中の科学者が集まる最先端の研究拠点に生まれ変わるなんて、究極のリサイクルすぎん！？かつて大地を相手に汗を流して掘った地下の穴が、今や宇宙の謎を解き明かす場所になっとるなんて、神岡のスケール、世界に誇れる自慢やさね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
+      "https://kotobank.jp/word/神岡"
     ],
     "angle": {
-      "id": "kk-nobel",
-      "hook": "小さな山の町から、ノーベル賞が2回。小柴さんと梶田さんの話"
+      "id": "mine-after",
+      "hook": "鉱山が終わったあと、穴が世界の最先端研究の場所に。究極のリサイクル"
     }
   },
   "local": {
-    "text": "今週の土曜日、十一月十四日に『みかお２０２６ファミリーフェスタ ｉｎ Ｋａｍｉｏｋａ』が開催されるんやさ！飛騨神岡Ｋｉｄｓ未来プロジェクト主催で、親子で楽しめる企画が盛りだくさんのイベントになっとるよ。週末のお出かけにぴったりやね！",
+    "text": "今週の土曜日、11月14日に「みかお2026ファミリーフェスタ in Kamioka」が開催されるよ！飛騨神岡Kids未来プロジェクトが主催するイベントで、親子で楽しめる企画が盛りだくさん用意されとるんやさ。週末のお出かけにぴったりやね！",
     "source_ids": [
-      31
+      36
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87967.html"
@@ -45,201 +43,237 @@
   },
   "segments": [
     {
-      "topic": "世界の鉱物界に名を刻む「神岡石」のミステリー",
-      "text": "そういえば、道端の小石を蹴っ飛ばして遊んだこと、誰でも一度はあるよね！…って、みおんは足がないから蹴られんのやけど。でもね、神岡の石を適当に蹴飛ばしたらだちかんよ！世界にその名を轟かせる『神岡石』っていう激レアな鉱物があるんやさ！千九百八十五年、神岡鉱山の茂住坑の石英脈から見つかって、国際鉱物学連合に新鉱物として正式に認められた鉱物で、学名はずばりカミオカアイト！世界の学術用語に神岡の地名が刻まれとるなんて、えっ、ちょっと待って、凄すぎん！？見た目は金属光沢がある黒色で、結晶はミリ単位とちっちゃいんだけど、何がヤバいってその重さ！比重がおよそ六・〇二で、普通の岩石の二倍以上の超重量級！手のひらに乗せたら『うそでしょ！何が詰まっとるの！？』って二度見するレベルやさ。しかも主成分は鉄と、レアメタルのモリブデン！神岡といえば亜鉛や鉛、銀が有名やけど、こんなお宝まで眠っとったなんて聞いてないんだけど！神岡石はアメリカのミシガン州やブラジルなど、世界でも数カ所でしか確認されていない超貴重品。東京上野の国立科学博物館にも標本が展示されとるんやさ。さらに三重県で見つかった伊勢鉱も神岡石の仲間と判明して、世界の分類基準にもなっとるんだって。足元の石ころに神岡の名前が世界規模で刻まれとるなんて、誇らしいやろー！",
+      "topic": "夏の数百倍！？冬の日本海側を襲う「モンスター雷」の謎",
+      "text": "そういえば、冬が近づくと雪と一緒にゴロゴロ鳴る雷があるよね。雪起こしなんて呼ぶけど、実はこの冬の雷、とんでもないパワーを持っとるって知っとった？えっ、ちょっと待って！なんと冬の雷って、大地に流れる電気エネルギーが夏の平均的な雷の数十倍から数百倍に達することがあるんだって！数百倍！？聞いてないんだけど！夏に鳴る雷が軽自動車なら、冬の雷は超大型トレーラーが一撃で突っ込んでくるようなもんやさ！なんでそんな破壊力になるのかというと、雲の低さが原因。夏の雷雲は底が地上2000メートルくらい高い場所にあるけど、冬の雪雲は底が地上数百メートルから1キロ以下と、地面スレスレまで垂れ下がっとるの。蓄えた電気が最短距離でドカンと落ちてくるわけ。しかも冬の雷って、空から落ちるだけじゃなくて、地上の高い鉄塔や山頂の避雷針から空に向かってイナズマが駆け上がる「上向き雷」が頻繁に起きるんだって！下から上に登る雷なんて、物理法則どうなっとるの！？論文を出した日本の研究者が海外で冗談扱いされたくらいだけど、日本海側で100メートル以上の風力発電の風車が雷で破壊されて実証されたんやさ。冬にこんな雷が多発する場所、世界でも日本海側や中部山岳地帯など数カ所しかない超レア現象なんだって！次にゴロッと鳴ったら、世界最強クラスのモンスターの仕業やさね！",
       "source_ids": [
-        2,
-        3,
-        4,
-        6
+        10,
+        13,
+        14
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7ZSW_ZhklkGGtB-d9TD_h_V2JLoaZSkRsprtxaMdJB1xwxZOElHUQ6f9poitbgdFDsNY8Fib_S18FvAaXHyOqv2e9JlvPEdEvYFZSU5IJDhcV0YFZHoUhK22CluMbU5vlvExj5_Y_ZQ1v1NJGvUlR7dR54F0OtnfgmSw=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0tWX4WhB4R4EDjNnxH2KYbSEyUbpqdG5_bJOVgAJYzPda9Wq2Mf3xT3br4nCxhQq5_bp_H2J1BU3YpXpIETrlkw2vG9OW6Dgu98_PwvAF7c26pAvPfUZUQq7x3CcAbSKX1D_Aksc4LdBgD0HYSn-wJPo=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztQuP2nw-gwvgFxE3R21P-pcuZ4A4kzoBf-lxm0fS907r0Lk4ya-FjJLNCPOSWU3oLmqEnOmnbt2He2as65XqoNJiRPeQegAF01T_DyMu7dtPZ1no7qVeZF7yY2XSMGfE_fQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuM0UsNfB0ztJpiaFA4s6oDAIkaDwxUzeAoVyM_U1t_jvOVJ3yqId7aRA3O940KRQ11pk8sHwuBElTDP9C3cS2HtH_ckg4UMXVod4K3QM-m8dxQG2vKNYFm_-pxzv652JCbzkeyT7zQVlPQi73AA=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnCtCRA4h9N-tt5EsBg8sqQIydJrhpPlB1SGBkemet4wUgPSMym0ofsrI_fyJJ7K2u_hG4l5UWPoA1V32TEc5gtsNaI4DAGSrlId1QFH34EFEPxGR7VvCJXjXeogz4On5VmdoRaFORXbZekBfyXG4o8Gr2UlIrwfWw-6Q_8zlJslSx3NiF17aTYXUFniDy",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYm3wNHxLknmwP8I8jMstIaXs4iT4h1rgeKgX55KUjn2N5YXKbTYqL8GwMiDVCipa4ZurNEgWruPRgyYxZ4tfcvtyiSHCK_mTYImTstVQPzkvlWRAFlsC10rfA1sxlxSZsVO4eGHcsoUFopYAVtaFC6hoeds=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIHerqTpWKqTvWMo3NbaYu5aoZjlSDAPi575xjYBMBu6OOPjW4toAt03BSD5Fyk5fAat3gnMDMAmf8FkajzARN96OFa_FM7psfyhtGNVolLgM_yWJQl8W3JZeFKjGfWnUAsyJmIC4xxb5g2XyApXsFcG6clnO-o6NKk6X9fQsrxRPpfl0="
       ]
     },
     {
-      "topic": "神岡城の天守閣は民間企業からのプレゼントだった！？",
-      "text": "石といえば、神岡の町を見下ろす高台にどっしり構えるお城にも、度肝を抜かれる歴史があるんやさ！城ヶ丘にある神岡城、みんな一度は見上げたことがあるよね。実はあのお城、正式には東町城跡って言って、千五百六十四年に武田信玄の命で江馬時盛が築いた平山城なの。でも江戸時代の初め、千六百十五年の一国一城令で取り壊されて、ずーっと石垣や堀しか残ってなかったんやさ。じゃあ今建っとるあのカッコいい天守閣は誰が作ったのかって話よね？なんと千九百七十年、三井金属鉱業が神岡鉱業所の創業百周年を記念して建てて、町に丸ごとプレゼントしたものなんやさ！えっ、お城をプレゼントってどういうこと！？創業記念の粗品といえばタオルやボールペンが定番やのに、まさかの天守閣一棟丸ごとって、太っ腹にもほどがあるやろー！今ならＳＮＳで『記念品にお城もらった』って大バズりするレベルやさね。この天守閣は二重三階の木造で、福井県の丸岡城や愛知県の犬山城を参考に設計された本格派！お隣の鉱山資料館も一緒に建てられて町へ寄贈されたんだって。企業がお城を建てて自治体に寄贈するなんて、全国でも極めて珍しい大事件。まさに鉱山と町が一体となって栄えた神岡のシンボルやさね！夕暮れにお城を見上げたら『あれ、会社の記念品なんやさ』って誰かに話したくなるまい！",
+      "topic": "半年間寝たきり＆トイレなし！冬眠クマが筋肉ムキムキな超科学",
+      "text": "雷の話が出たついでに、冬をじっとやり過ごす動物のお話。飛騨の山にもおるツキノワグマもそろそろ冬眠の季節やよね。でもさ、人間ってベッドでゴロゴロ寝たきり生活を続けると、1日に1パーセントくらい筋肉が落ちてあっという間に歩けんくなるやん？みおんも運動不足で…って、AIだから最初から筋肉ないわ！なのにクマって、約5か月から半年間も水もエサも口にせず、トイレも一回も行かんのに、春に起きたら即元気に動ける筋肉をキープしとるんやさ！うそでしょ！？半年間寝たきりで筋肉の太さも活動期とほぼ変わらんって、どんなチート体質なん！？これ最近の研究で、冬眠中のクマは筋肉の合成と分解を両方ストップする「超省エネモード」に切り替わっとるって判明したの。さらにビックリなのがトイレ問題！老廃物の尿素を体内で再吸収して、腸内細菌の力で窒素に分解して、なんと新しい筋肉やタンパク質を作る原料にリサイクルしとるんだって！自分のゴミを高級プロテインに変えとるようなもんやろー！だちかん、凄すぎて人間がマネしたらただの危険人物やさ。この仕組み、いま宇宙飛行士の筋肉を守る薬や、寝たきりを防ぐ薬の研究に応用されとるらしいよ。半年間トイレも行かずにムキムキなんて、ぐうたら寝正月を過ごしたい全人類の夢やさね！",
       "source_ids": [
-        20,
-        22,
-        23,
-        26
+        17,
+        19,
+        20
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrMTcSowrxSq96_TqfVJgN5lIdz-pcJyo9CHYr2nty8xECq8DPv6E6K0WsMiTV7lazJ0Uq_PCC2avlBs-imANU4ENRrLZhkPhWKcKUjfd9PWnPnaBxJ3JFgqNpf_SuiJFGwgVp2ZCbeNaNOoH0tQ=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRgtQtkxXDIhrCCeZ82ebP7-CtOxM27Q14ntCV__5-SDWpKbTAJ2P6_IQxKhyVdFUdd_785t2MqQNSOLZhaR0r3Spsz6WEeHGLq35Pz_7QC8ogjE2ZvdvsL813T2mIvZvwEgeFYB0=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7igK8CY5_H0lE8_23NpNdpvfUkrHugu2OS2KLPsMVjAcUtA3zayaJnaE6Brva-xXBtffd6T-D7oN1fgXhTv_GF5dzy86LpDcsy780yE-EV4fKsJreoxH8WiXbOIWAhOsUw4=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsfHFocM6p-A6sETiJLFQCTdazjmGQevpbZPqjCJl2--GoW9CKcS-M6Z8e05wRuHzVlq-Z3PeAnTOpRajN1izoWacPvp4PoAiRMO1D0wU-HYiPWAfnhK_kxTsCk1Qqn8Q4B24-Yem-zbyZVHAwpw=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-QGv3lyY3CfUyG5ZJv70oVFg_INtbl1S2Q7uPOFC0gfudJMfeoCdg2PKenaSWcRwVrsYmU-5NkL-pMm5B2aNgCBOevnNIzZwBv4R3FFX04s0FcmShm2L8Hqonn9EScnohSFz9zhzAcvE03nkF9VXBXvyLF__1",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPKmMKTped6pDI-rKFw7aIeJlYizEFwVBRB4zX-7dfqeoiSvm4ooi74xEhKm5mPib51haJ3Lpe0wZQsZV8hpicajDPsYty5WF01PgQlzmh-IQDy_jzFXAmp8kppb14",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv89FwHVagJu8k2MScQ9Uinl-CKJdLNfg3WketvC5gOlWo9bkD2zxLTALcKaExu5DXaZeTLe5-ByVYlV8Ngs_mfVksuQpP8mYPTRPR3uoGBfdSehksa9RzIlr9L4sMkj3DJOFK_yCwvii0AcrT5s50"
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町周辺の歴史やまちの成り立ちをテーマに、ご家族や近所の方に思わず話したくなるトピックを4件選定しました。過去に取り上げられた話題（スーパーカミオカンデ、ガッタンゴー、江馬氏館跡、東洋一の亜鉛鉱山など）と重複しないよう調査したメモを作成しています。\n\n---\n\n# 地元の歴史・まちの発見 調査メモ\n\n---\n\n### ① 世界の鉱物界に名を刻む「神岡石（カミオカアイト）」のミステリー\n* **疑問：** 世界中で使われる鉱物の学名に「神岡」の名前がついた石があるって本当？\n* **理由と詳細：** 1985年に神岡鉱山茂住坑の石英脈から発見され、国際鉱物学連合（IMA）に新鉱物として正式承認された希少鉱物が「神岡鉱（神岡石／英名：kamiokite、化学式：$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$）」です。\n* **具体的な数字と特徴：** 鉄とモリブデンの複酸化鉱物で、色は黒色（金属光沢）、比重は約6.02と手に持つとずっしりと非常に重いのが特徴です（一般的な岩石の比重2.6〜2.8の2倍以上）。結晶の大きさはミリ単位の板状・柱状で、原産地である神岡鉱山のほか、アメリカ（ミシガン州）やブラジルなど世界でも数カ所でしか確認されていない極めて貴重な鉱物です。国立科学博物館（東京都上野）の日本館3階「日本の鉱物」コーナーにも神岡鉱の実物標本が展示されています。\n* **意外な点・歴史の裏話：** 神岡鉱山といえば「亜鉛・鉛・銀」が有名ですが、この鉱物はモリブデンというレアメタルを含んでいます。さらに2013年には三重県伊勢市で発見された新鉱物が「伊勢鉱（iseite）」と命名されましたが、これは神岡鉱の鉄部分がマンガンに置き換わった同型構造の鉱物であることがわかり、神岡の名を冠した鉱物が世界の地球科学の分類基準として生き続けています。\n* **出典・根拠：**\n  * 国立科学博物館 常設展示データベース「詳細（神岡鉱 / kamiokite）」\n  * 小学館『日本大百科全書（ニッポニカ）』「神岡鉱」解説\n  * 東京大学総合研究博物館 企画展示「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）\n\n---\n\n### ② 新幹線の半分以下！レール幅わずか61センチだった「神岡軌道」\n* **疑問：** かつて神岡と富山方面を結んでいた鉄道は、なぜ線路の幅が異常に狭かったのか？\n* **理由と詳細：** 昭和40年代初頭まで神岡〜猪谷（初期は富山市笹津）間を走っていた軽便鉄道「神岡軌道」は、レールの幅（軌間）がわずか610mm（約2フィート）しかありませんでした。\n* **具体的な数字と比較：** 現在の新幹線の標準軌（1,435mm）の半分以下、JR在来線（1,067mm）と比べても約6割という極端な狭さです。\n* **意外な点・歴史の裏話：** なぜここまで狭い線路にしたのかというと、「神岡鉱山の地下坑道内を走るトロッコのレール幅（610mm）」と全く同じにするためでした。坑道から採掘した鉱石を別の列車に積み替えることなく、そのまま地上に出て川沿いを直通運搬できるようにした合理的な鉱山規格だったのです。さらに驚くべきことに、鉱山専用線として始まったものの、沿線住民の熱心な要望によって昭和初期から地方鉄道として認可され、客車を連結した一般旅客営業も行っていました。1962（昭和37）年に旅客輸送を終えるまで、町民の通勤・通学の足としても山あいをトコトコと走り続け、愛されていました。\n* **出典・根拠：**\n  * 飛騨市公式ウェブサイト 生涯学習講座「歴史再発見！神岡よもやま物語」（神岡軌道の歴史解説）\n  * 『神岡町史 史料編 近代・現代』\n  * 土木学会 戦前土木絵葉書ライブラリー（神岡軌道関連資料）\n\n---\n\n### ③ 母屋からわざわざ遠く離す？宮川町種蔵の「板倉」に秘められた知恵\n* **疑問：** 飛騨市宮川町・種蔵の倉（板倉）は、なぜ便利な母屋の隣ではなく田んぼの真ん中に離して建てられているのか？\n* **理由と詳細：** 環境省「かおり風景100選」や岐阜県「ぎふの棚田21選」にも選定されている飛騨市宮川町種蔵集落には、石積みの棚田の中に伝統的な木造倉庫「板倉（いたくら）」が約20棟点在しています。これらは母屋に隣接させず、あえて棚田を挟んで離れた場所に建てられています。\n* **具体的な数字と特徴：** 種蔵に残る板倉はすべて100年以上前に建てられたもので、現在も農具や作物の保管庫として現役で使われています。柱や梁には水に強く腐りにくいクリ材、壁には厚いスギ板が使われ、釘を使わずに落とし込む伝統工法で組まれています。\n* **意外な点・歴史の裏話：** 荷物を運ぶだけなら母屋のすぐ横のほうが便利ですが、離して建てた最大の目的は「火災時の延焼防止（リスク分散）」です。山あいの集落では一度火災が起きると密集した家屋が一気に燃え広がってしまいます。万が一母屋が全焼しても、離れた田んぼの中に板倉があれば、翌年の農業を再開するための「種籾（タネ）」や貴重な衣類・道具が守られ、生活を立て直すことができます。「種蔵」という集落の名前自体も、生活の命綱である種籾を保存する倉が並んでいたことに由来すると伝えられています。\n* **出典・根拠：**\n  * 岐阜県庁 農村振興課公式資料「ぎふの棚田21選に認定された種蔵棚田」\n  * 飛騨市公式観光サイト「飛騨の旅」景観遺産解説（種蔵地区・板倉）\n  * 飛騨市役所 宮川振興事務所「飛騨ふるさと種蔵村集落MAP」解説資料\n\n---\n\n### ④ 神岡のシンボル「神岡城」の天守閣は、民間企業からのプレゼントだった！？\n* **疑問：** 神岡の町を見下ろす高台に建つ神岡城の天守閣、実は戦国武将ではなく「ある民間企業」が建てたって本当？\n* **理由と詳細：** 神岡町城ヶ丘に建つ神岡城（正式な史跡指定名は「東町城跡」）。戦国時代（永禄7年・1564年）に武田信玄の命により江馬時盛が築城した平山城ですが、江戸幕府の一国一城令（1615年）で破却され、長らく石垣や堀などの遺構しか残っていませんでした。現在見られる2重3階の木造模擬天守は、1970（昭和45）年に三井金属鉱業が神岡鉱業所の創業100周年を記念して建設し、当時の神岡町へ丸ごと寄贈したものです。\n* **具体的な数字と特徴：** 天守は福井県の丸岡城や愛知県の犬山城などを参考に設計・新築されたもので、隣接する鉱山資料館も同時に同社によって建設・寄贈されました。1958年に飛騨市の史跡に指定されていた城跡に、企業の記念事業として木造天守が寄贈された例は全国的にも極めて珍しい事例です。\n* **意外な点・歴史の裏話：** 当時の神岡町は三井金属による鉱山操業で活気にあふれており、町と鉱山企業が一体となって発展していた時代の象徴的なモニュメントといえます。現在は神岡城・鉱山資料館・旧松葉家住宅（国指定重要有形民俗文化財の民家）が一体となり、飛騨市の文化施設「高原郷土館」として活用されています。\n* **出典・根拠：**\n  * 飛騨市公式ウェブサイト 文化財・施設案内「高原郷土館（東町城跡・神岡城・鉱山資料館）」\n  * 岐阜県地学解説データベース（岐阜大学教育学部）「見学案内コース：鉱山資料館・神岡城」\n\n---\n\n## 地域ラジオ向け 3択クイズ（神岡軌道編）\n\n**【問題】**\n昭和40年代初頭まで神岡町と富山方面を結んでいた鉄道「神岡軌道」。その線路の幅（レールとレールの間）はわずか610ミリと、新幹線の半分以下しかありませんでした。では、なぜここまで極端に狭いレール幅で作られたのでしょうか？\n\n* **A：** 神岡の険しい谷沿いの崖を削る工事費をギリギリまで削りたかったから\n* **B：** 神岡鉱山の「地下の坑道を走るトロッコ」と同じレール幅にして、そのまま地上へ直通させるため\n* **C：** 当時、イギリスから輸入した子ども用遊具の機関車をそのまま走らせていたから\n\n---\n\n**【正解】**\n**B：神岡鉱山の「地下の坑道を走るトロッコ」と同じレール幅にして、そのまま地上へ直通させるため**\n\n**【解説トーク用メモ】**\n「正解はBです！ 神岡鉱山の地下奥深くから掘り出した鉱石を、地上で別の貨車にわざわざ積み替えるのは大変な手間でした。そこで、地下の坑道で走っているトロッコの線路幅（610ミリ）のまま地上までレールを延ばし、そのまま富山方面へ直通できるようにしたという、鉱山の町ならではの合理的な工夫だったんですね。しかも、この小さなレールの上を、鉱石だけでなく一般のお客さんを乗せた可愛い列車も昭和30年代後半まで走っていたそうです！」",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ番組向けに、晩秋から冬の入り口（11月中旬）にかけてリスナーが家族に話したくなる「科学・自然のなぜ」を4件調査しました。飛騨の自然や山里の暮らしに深く根ざした話題を中心に、公的機関・大学・博物館等の一次資料や学術研究に基づいてまとめています。\n\n---\n\n### 1. 【動物のなぜ】カモシカはシカではなく「ウシ」の仲間！？\n飛騨の山道や人里近くでも時折姿を見せる国の特別天然記念物「ニホンカモシカ」。名前に「シカ」と付きますが、生物学的にはシカ科ではなく**ウシ科（ヤギ亜科）**の動物です。\n\n* **理由：**\n  骨格や内臓の構造がウシやヤギと共通しています。ウシと同じように4つの胃を持ち、一度飲み込んだ植物を口に戻して噛み直す「反芻（はんすう）」を行いながら消化します。\n* **具体的な数字や比較：**\n  決定的な違いは「角（ツノ）」と「暮らし方」です。\n  * **本物のシカ（ニホンジカ）：** 角が生えるのは基本的に**オスのみ**で、木の枝のように枝分かれし、**毎年春にポロリと抜け落ちて生え替わります**。また、群れで行動することが多いです。\n  * **カモシカ：** **オスにもメスにも角があり**、枝分かれしない黒く鋭い角（長さ10〜15cmほど）が生えます。この角は中が骨で表面を角質が覆う「洞角（どうかく）」と呼ばれ、**一生抜け落ちずに伸び続けます**。群れは作らず、1頭ごとに縄張りを持って単独で行動します。体長は約1〜1.2m、体重30〜40kgほどです。\n* **意外な点：**\n  すらりと細く美しい脚を「カモシカのような脚」と例えますが、実際のニホンカモシカの脚は**ずんぐりと太く短め**です。険しい岩場や急斜面を滑らずに踏ん張るための筋肉質な体型をしており、細い脚を持つ外国のレイヨウ（羚羊）と混同されたことによる誤解です。\n* **ちょっとした歴史の裏話：**\n  明治から大正にかけて毛皮や肉目当てに乱獲され、大正時代には山奥にわずかに残るだけの「幻の動物」と呼ばれるまで激減しました。1934年に国の天然記念物、1955年に特別天然記念物に指定されて厳重に保護され、現在では岐阜県内（飛騨市・高山市等）でも里山近くまで姿を見せるまでに回復しました。\n* **出典・根拠：**\n  環境省 中部地方環境事務所「『カモシカ』はシカじゃない？」／飛騨市公式ウェブサイト「特別天然記念物『ニホンカモシカ』遭遇時は注意！」／富山市科学博物館「とやまサイエンストピックス No.543」／みのかも文化の森 美濃加茂市民ミュージアム資料\n\n---\n\n### 2. 【気象のなぜ】冬の山越えで鳴る「冬季雷」は夏の雷の数百倍のパワー！？\n飛騨地方や日本海側では、初冬から真冬にかけて雪とともに激しい雷が鳴ることがあります。この冬の雷（冬季雷・とうきらい）は、夏の雷とは発生の仕組みも威力も桁違いです。\n\n* **理由：**\n  夏の雷は強い日差しで地表が熱せられてできる背の高い積乱雲（雲頂10,000〜12,000m、雲の底は地上2,000mほど）で発生します。一方、冬の雷は大陸からの冷たい季節風が暖かい日本海を渡る際に水蒸気を含んで発生します。冬の積乱雲は高さが3,000〜5,000m程度と低いのですが、**雲の底が地上数百メートルから1km以下と極めて低い位置**にあります。電気を帯びた層が地表に異常に近い位置にあるため、地上へ強烈な一撃が直撃します。\n* **具体的な数字や比較：**\n  夏の雷は数多くピカピカと落ちますが、1回の放電時間は短めです。冬の雷は発生回数こそ少ないものの、1回あたりの放電継続時間が長く、大地に流れる電気エネルギー（電荷量）が**平均的な夏の雷の数十倍から数百倍**に達する超巨大落雷（モンスター落雷）が時折発生します。\n* **意外な点：**\n  冬の雷は雲から地上へ落ちるだけでなく、地上の高い鉄塔や山頂の避雷針から**空の雲に向かってイナズマが駆け上がる「上向き雷（上向き放電）」**が頻繁に起きます。また、冬にこれほど雷が多発する地域は地球上でも極めて珍しく、**日本の日本海沿岸〜中部山岳地帯と、ノルウェー西岸など世界で数カ所**しかありません。\n* **ちょっとした歴史の裏話：**\n  かつて日本の電力研究者が国際学会で「冬に巨大なエネルギーの雷が鳴り、地上から空へ雷が登る」と論文を発表した際、海外の学者からは「日本の学者がまた突飛な冗談を言っている」と信じてもらえませんでした。しかし1990年代以降、日本海側に建設された欧州製の大型風力発電の風車（ブレード先端の高さ100m以上）が冬の雷で相次いで破壊され、その異常なパワーが実証されました。現在では国際大電力システム会議（CIGRE）などで世界中の技術者が注目する重要テーマになっています。\n* **出典・根拠：**\n  気象庁「冬季の雷」コラム／気象庁「あおぞら彩時記 2022年第4号（雷の特徴）」／電力中央研究所・株式会社サンコーシヤ雷情報技術資料\n\n---\n\n### 3. 【生物のなぜ】半年間トイレも行かないクマが、筋肉も骨も衰えない不思議\n北アルプス山麓の飛騨地域にも多く生息するツキノワグマ。11月を過ぎると越冬穴に入って冬眠に入りますが、半年間も寝たきりで運動しないのに、なぜ春に目覚めてすぐ元気に動けるのでしょうか。\n\n* **理由：**\n  通常、人間や実験動物はケガや病気でベッドに寝たきりになると、筋肉のタンパク質が分解されて1日あたり約0.5〜1.0%の割合で筋肉量が減っていきます。しかしツキノワグマの骨格筋細胞は、冬眠期に入ると筋肉タンパク質の「合成」と「分解」の両方のシグナルを同時に強く抑え込む**「全身省エネモード」**へと切り替わり、筋肉が痩せ細るのを防いでいることが近年の研究で判明しました（広島大学・北海道大学・東京大学等の共同研究、2022年発表）。\n* **具体的な数字や比較：**\n  クマは冬眠中の**約5〜6か月間、水もエサも一滴も口にせず、尿も糞も一切出しません**。人間なら数日で尿毒症になり、数週間で筋肉が激減して歩けなくなりますが、クマは冬眠期間を終えて巣穴から出た直後でも、**筋肉の線維の太さや遅筋・速筋の割合が活動期とほとんど変わらない状態**を保っています。\n* **意外な点：**\n  「数か月もオシッコを我慢したら体に毒が回るのでは？」という疑問の答えは、驚異の**「生体内リサイクル」**です。筋肉の代謝から生じた老廃物（尿素）は膀胱などから再吸収され、腸内細菌の働きによって窒素へと分解され、なんと**新しいアミノ酸やタンパク質を作る原料として体内で再利用**されています。\n* **ちょっとした歴史の裏話：**\n  かつては「冬眠中のクマの筋肉が落ちないのは、眠りが浅くて穴の中で寝返りを打ったり体を動かしているからでは？」と疑われていました。しかしセンサーによる長期間観察や血液（血清）の詳細な分析により、完全に代謝レベルで筋肉分解がブロックされていることが証明されました。現在、冬眠クマの血清成分を応用して、高齢者の寝たきり（サルコペニア）防止や、長期宇宙飛行における宇宙飛行士の筋肉萎縮を防ぐ新薬の開発研究が進められています。\n* **出典・根拠：**\n  東京大学大学院総合文化研究科／広島大学／北海道大学 プレスリリース「ツキノワグマは冬眠期に筋肉を省エネモードに変化させることで筋肉の衰えを防止していることを発見」（2022年11月）／日本学術振興会 科研費研究成果報告（課題番号: 22H03439）\n\n---\n\n### 4. 【自然のなぜ】寒い所ならどこでもできるわけじゃない！？「霜柱」の意外な条件\n晩秋から冬の朝、地面を踏むと「ザクザク」と心地よい音を立てる霜柱（しもばしら）。実は、日本全国どこでも、あるいは寒い国ならどこでも見られる現象ではありません。\n\n* **理由：**\n  霜柱は、空気中の水蒸気が凍って草木や車のフロントガラスに付く「霜」とは別物で、**「土の中の水分」が凍ったもの**です。地表の温度が0℃以下になり、かつ地中の温度が0℃以上のとき、地表付近の水がまず凍ります。すると、まだ凍っていない地中の水分が、土の粒と粒の微細な隙間を通って**「毛細管現象（もうさいかんげんしょう）」**によって地表へ吸い上げられ、冷気に触れて次々と下から押し上げられながら凍ることで柱状に成長します。\n* **具体的な数字や比較：**\n  霜柱は力持ちで、伸びるときに土や小石を持ち上げ、条件が良いと**10cm以上の高さ**まで成長します。\n  しかし、日本で最も寒い**北海道や、北陸などの豪雪地帯では霜柱はめったに見られません**。雪が積もると、雪が天然の「断熱布団」になって冷気を遮断し、地表付近の土が氷点下まで冷え込まないためです。\n* **意外な点：**\n  土なら何でもいいわけではなく、適度な隙間を持つ**火山灰土（関東ローム層や軽石質の土など）**が最も霜柱を作りやすいとされています。砂地では粒の隙間が広すぎて毛細管現象が起きず、粘土質では隙間が狭すぎて水が吸い上がれません。また、イギリスやドイツなどヨーロッパ諸国では霜柱は極めて珍しく、**「火山灰土が広く分布し、適度に冷え込み、雪が積もりすぎていない晴天の冬朝」**という条件が揃う日本は、世界でも稀に見る「霜柱大国」です。\n* **ちょっとした歴史の裏話：**\n  明治初期（1870〜1880年代）、来日したお雇い外国人や欧米の研究者が日本の冬の地面を見て「土から氷の柱が無数に生えている！」と驚愕し、イギリスを代表する科学雑誌『Nature』の投書欄に「日本で見られる奇妙な氷の柱」として相次いで報告・議論された記録が残っています（千葉大学・金光達太郎氏「霜柱の生長に関する研究」より）。\n* **出典・根拠：**\n  日本科学未来館 科学コミュニケーターブログ「霜柱実験①〜そうだったのか！霜柱！〜（千葉大学研究論文の解説）」／日本気象協会「思わず踏みたくなる！冬の風物詩『霜柱』はどうやってできる？」／富山市科学博物館 科学普及資料「霜の話」\n\n---\n\n### 【番組用3択クイズ】（話題1：カモシカより）\n\n**問題：**\n国の特別天然記念物で、飛騨の山々でも時折出会う「ニホンカモシカ」。名前に「シカ」と付いていますが、実は生物学上はシカではなく「ウシ（牛）」の仲間です。\nでは、**本物のシカ（ニホンジカ）とカモシカの決定的な違い**として正しいものは次のうちどれでしょう？\n\n* **① カモシカの角は一生生え替わらない（抜けない）**\n* **② カモシカは草を食べずに木の実や肉を食べる**\n* **③ カモシカには胃が1つしかない**\n\n---\n\n**【正解】**\n**① カモシカの角は一生生え替わらない（抜けない）**\n\n**【解説トークのポイント】**\n本物のシカ（ニホンジカ）の角は基本的にオスにしか生えず、毎年生え替わって春になると根元からポロリと自然に抜け落ちます。一方、ウシ科であるカモシカは**オスにもメスにも角があり、一生抜けることなく少しずつ伸び続けます**。なお、カモシカもウシと同じ完全な草食動物で、胃もウシと同じようにしっかり「4つ」持っています。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E5%9F%8E+%E6%A8%A1%E6%93%AC%E5%A4%A9%E5%AE%88+%E4%B8%89%E4%BA%95%E9%87%91%E5%B1%9E+%E5%AF%84%E8%B4%88&client=app-vertex-grounding&safesearch=active\">神岡城 模擬天守 三井金属 寄贈</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E8%BB%8C%E9%81%93+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E6%AD%B4%E5%8F%B2+%E5%85%AC%E7%9A%84%E8%B3%87%E6%96%99&client=app-vertex-grounding&safesearch=active\">神岡軌道 飛騨市 歴史 公的資料</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E7%9F%B3+Kamiokite+%E9%A3%9B%E9%A8%A8%E5%B8%82&client=app-vertex-grounding&safesearch=active\">神岡石 Kamiokite 飛騨市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E9%89%B1%E5%B1%B1+%E6%96%B0%E9%89%B1%E7%89%A9+%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">神岡鉱山 新鉱物 博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%9D%BF%E5%80%89+%E5%B1%B1%E4%B9%8B%E6%9D%91+%E9%A3%9B%E9%A8%A8%E5%B8%82+%E9%87%8D%E8%A6%81%E6%96%87%E5%8C%96%E7%9A%84%E6%99%AF%E8%A6%B3&client=app-vertex-grounding&safesearch=active\">板倉 山之村 飛騨市 重要文化的景観</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8%E5%B8%82+%E7%A5%9E%E5%B2%A1%E7%94%BA+%E7%99%BA%E7%A5%A5+%E6%AD%B4%E5%8F%B2+%E9%9B%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">飛騨市 神岡町 発祥 歴史 雑学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%A5%9E%E5%B2%A1%E8%BB%8C%E9%81%93+610mm+%E6%97%85%E5%AE%A2+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">神岡軌道 610mm 旅客 歴史</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9C%9C%E6%9F%B1+%E3%81%A7%E3%81%8D%E3%82%8B%E6%9D%A1%E4%BB%B6+%E5%9C%9F+%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">霜柱 できる条件 土 毛細管現象 科学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%86%AC%E5%AD%A3%E9%9B%B7+%E5%A4%8F%E3%81%AE%E9%9B%B7+%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC+%E9%81%95%E3%81%84+%E6%B0%97%E8%B1%A1%E5%BA%81+%E4%B8%80%E6%AC%A1%E8%B3%87%E6%96%99&client=app-vertex-grounding&safesearch=active\">冬季雷 夏の雷 エネルギー 違い 気象庁 一次資料</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C+%E7%9C%8C%E7%8D%A3+%E3%82%AB%E3%83%A2%E3%82%B7%E3%82%AB+%E3%82%A6%E3%82%B7%E7%A7%91+%E9%81%95%E3%81%84+%E5%8D%9A%E7%89%A9%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">岐阜 県獣 カモシカ ウシ科 違い 博物館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%AF%E3%83%9E+%E5%86%AC%E7%9C%A0+%E7%AD%8B%E8%82%89+%E8%A1%B0%E3%81%88%E3%81%AA%E3%81%84+%E5%B0%BF+%E7%A7%91%E5%AD%A6+%E6%A3%AE%E6%9E%97%E7%B7%8F%E5%90%88%E7%A0%94%E7%A9%B6%E6%89%80+%E5%A4%A7%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">クマ 冬眠 筋肉 衰えない 尿 科学 森林総合研究所 大学</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7ZSW_ZhklkGGtB-d9TD_h_V2JLoaZSkRsprtxaMdJB1xwxZOElHUQ6f9poitbgdFDsNY8Fib_S18FvAaXHyOqv2e9JlvPEdEvYFZSU5IJDhcV0YFZHoUhK22CluMbU5vlvExj5_Y_ZQ1v1NJGvUlR7dR54F0OtnfgmSw=",
-          "title": "mineralmarket.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwTnI5AwRImUZfal7fg7auE7t9spuWpj-aRFN5wjM9uenZ29k1gMQ2EGQaVbgp9r_0is1XCrsfbYUXhlAhB1YqSCVc4wrFHhEDXJM3zG4Q4auBe7VLK7kRKRKIgGQZCqeQVLAX374h3SITNPBTzS6G1XL3CQ==",
+          "title": "toki.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0tWX4WhB4R4EDjNnxH2KYbSEyUbpqdG5_bJOVgAJYzPda9Wq2Mf3xT3br4nCxhQq5_bp_H2J1BU3YpXpIETrlkw2vG9OW6Dgu98_PwvAF7c26pAvPfUZUQq7x3CcAbSKX1D_Aksc4LdBgD0HYSn-wJPo=",
-          "title": "kotobank.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdVSvxmx6jBK5ltutNhl6eOzo1QYtzoKCZtg4Fzf0KzKG8v1-v0lQpks04ik0b6WWZw-YlcD82X3mHpzSm1qN7pI_NCiJQwv5P9IDvejnbwKqpj_a2IgRqCEzDowzcsqfjRg==",
+          "title": "tsm.toyama.toyama.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGztQuP2nw-gwvgFxE3R21P-pcuZ4A4kzoBf-lxm0fS907r0Lk4ya-FjJLNCPOSWU3oLmqEnOmnbt2He2as65XqoNJiRPeQegAF01T_DyMu7dtPZ1no7qVeZF7yY2XSMGfE_fQ=",
-          "title": "kahaku.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZcROw-iUKuZdr21eArE2j3DEfrpR1BhbB_9vZ7aTyZgTAcWwlIKbYXJ5rwc2Z_pg_P6fNd_rYQYQMx8LYmuImqKms1UCLFa2DEnA7rY1yv7E0_KiNvRrCWR8vvJiJq_WSXg==",
+          "title": "env.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkFk4fEfWJo7fZ1FgcGRgzZdbI2dR3Nlq0v5Bl3D2oVt1qxPd_H_cS8hxotFb-azs-wIw77wIbicfSi_NXFolV7l66v4UUO4JPbzx7p43wg9CbWNrbHveEx1V0GKhwl7USsRyNg-GQLWMunwUSOaxangfTPlC57uc=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG90L-13pu9D58iQh6zfbmSkDTDWijBcS5yB-KDuzrUPSqViJ6RQeCunB_UdfGBdeSq7TEd2RK6T4CbRMSZSHKO9UD1U23w_iZdAr7lJ-v1A-Hiz0Cmgez144SMiBhElLCPzG0VR46VW0EOuAdQktCKNYZ7fmAeOGjDUhm3RJxb8w==",
+          "title": "mizunami.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuM0UsNfB0ztJpiaFA4s6oDAIkaDwxUzeAoVyM_U1t_jvOVJ3yqId7aRA3O940KRQ11pk8sHwuBElTDP9C3cS2HtH_ckg4UMXVod4K3QM-m8dxQG2vKNYFm_-pxzv652JCbzkeyT7zQVlPQi73AA==",
-          "title": "u-tokyo.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQGADjLvYEO1gbhrI0dLZiGda49HkNMAOE_2bdPZCBsmmU1LyzXtZL1nmdxwzQrqhVFdn54XluTh7Swyjc7EF8bNYWe-hAJcxw2UOqP-RNcGiQaeViOKWwfBCD-ImPO44mQhzz3CKVKcSxTyvSPp_AaNENPS5t4eZhDw==",
+          "title": "takayama.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR1XFBP0ZaNi8i50hCfYnpeXsk20uMjxBqaWVAPe07WIzadqZzqIlzoG7mWWcm4lcCS7_igEoMz-8HWbqdhwenxbF8eyQC7zygkBbcnU8BGLpOhFkwu5pFI-wr5LuyAw5Fv9PTj4OPq6tdhCT_TpJYuQ==",
-          "title": "hotetu.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsqbPWtQCI9UX-FjTxXOJqWq5dNMeXr8Nmw17wKlIajT9HDut2qvhP0bQvHqbXuf35cKDHfUzEN_YyfYX6z_yTTur0D0K40INdGfUaSJHb8eHp44HsYdJKJ_yRgQ5tVfT0qxo_HnxNNti_XxwBAEYutCeSVTJt_ZEWbtXfUjvtB2gKWCwg",
+          "title": "forest.minokamo.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvBfj3FXDTEhxlzni6whUm06ZN6usRP_P3ZgXRyMAGt3k9nZ59hM8xeYZAXXS82iJVVeOqBeASUaGTZKPyFoBAmr5tpV7dGkCQ0Y452-dlJuFVXMs0SXcEwfAWcbmyZ7c=",
-          "title": "yamaiga.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrdqHYLakEMjRxglKZ0I9fPlsFjL9gEspF8KxVezqLUaPujixp3gzaWPqjp8rXSbcCH0PsivjkzJMsXmibWfW3JRybmAqZ5Vzb6vm4E35SO-bec4vtrHvnwxCA9yEsvD4q1F3tkBFv4OVxJbxoGu4ABGw2L1qU7askNJ91YqGG2EYAVI1vUhbDtyCEt_3_Pqg0huE=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkjDM09zqAHK46JOnBI17yOBOS80af9ND_85mOAbyVP-zGM2u1Ku1tTA9r9k_agfnoK-maCoIw2f0nbizC11kIsHkg803UZd3rZgFt8Ljvpu01gwaDPMXszlmh5iMMcg==",
-          "title": "yamaiga.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9ttm6PTx69WFFInG6oJi3j_PLhu8BNW6gPdy6v7K7QYqQ3Vl43NzkGTGVDcgdg9iKnAAdK_34MDA64BrWsu0oSZ8wqWhWwNR3xU7lKacTRnSmqPl7zEqnzkl-QJmyP1pU5KzCIw==",
-          "title": "d51498.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpwMACBCY40tcTUxR1nOe8o8FeNUNnAAMWqQkWUbvHyc3BcJqRZ7w96JsBGqTzKlwBkvr7LBz9bnsDdaoD9HivFmh0nkPNr6LWzoFfckXAlR8bk3uTyyF_42rr6bPFhaSnvEyOhm4GPEvV_dHrqg==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2C9KYY4RH5v_UZB6OxDxzvWHrc71ySP1kcJb2ExwGDCqxd7UiNf3HOSd7l29YFXAkJHoiHorjEaUCnKzinRL_ngil39PKyW1CpQktB2vYc-8vTV1AnCzqfrESXGheNarQMdHNUnSKxFI=",
           "title": "city.hida.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEigHBqjIT0QkoFOYTm9oJNMga8KD6047KlUtd8qM3qecfvtErtE-SoUW1bB-jH1z8t8xyENjeEkWivPm6boVlvBfrnM3wnY4-MJQI-cEu_fjJvOAa6IppCWOM_CKhGLrKCWM6u8hx-H4EqFilJorBqBcsGaFg-bP_aWnu30mkLKfj6HuHtth5Iz0e0lu3H",
-          "title": "gifu.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8tv1vXjQ0G4Ea-fzpm5M58cwutGkI0s66zPHna9CR_Ob-9Dy_BbIWo1Xi31zVeDUza5hqIac22JjpAsnaNwaIibVbF4DrgX73ljj-f_t-M4BMr8GOU6nvQK-vnJUqYbxSYEI8_2zQK7aA8rSZgrssAjjibuUNd6tU1TM=",
+          "title": "forest.minokamo.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKxqiJlk-bEkfKXxP1_ahVd6kRPpvnXSbueT_-lk1FM3DGBoEbdNXVdQCQTAmZrbE8qWsO1yTgVs2oE8BREfGsKKaYFDq0lY54eNULOMAzh4kc8wnN30WZ1Q==",
-          "title": "hida-kankou.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnCtCRA4h9N-tt5EsBg8sqQIydJrhpPlB1SGBkemet4wUgPSMym0ofsrI_fyJJ7K2u_hG4l5UWPoA1V32TEc5gtsNaI4DAGSrlId1QFH34EFEPxGR7VvCJXjXeogz4On5VmdoRaFORXbZekBfyXG4o8Gr2UlIrwfWw-6Q_8zlJslSx3NiF17aTYXUFniDy",
+          "title": "sankosha.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBCQ6dG2OGkJB1XzKjgejKdoyRN1trmpogmdWaixJFhoESzYEiIsxhFH1e0A7dxMhHqf97kyPjfjXgiX1yhIzuT1hEwfHfQxCONJA-VXVMGTLDVp2mIAWOcAyyvg8DLZ50NHTRej0=",
-          "title": "kankou-gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1FXFuKl-teWeQhiY2yJm71HW6YrNgx4xJii_wXD8lPj9V3lJZIgbW2TSuz_jw0ThtBr2rCJEqfJKSQdoW68ES3che7-o48YYGovZA1iv-by47PSvCmYiG6mD0x9saWNOnyKt7",
+          "title": "weathernews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9LoAA-D55_re_TTJmRgxJfE7x8LxqGFWYG5zezidphjU-VH_kxyq19XygDWSRDIRnQMpCBhcOeC2-LCK16pa84ZsCpixgH2DVqX9JAXvukk9uxi8s8f_FuWCWp6Cxev5P8tXvdexx3ICUuUwYW2xiSRWB8BBT31mwBEQfzPBPoR4=",
-          "title": "maff.go.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyq-if8q8IZxX_LggdfW1w9mFjKuOYdFvbmDqAipt2X5dg_3HTRDoYLvYX6f66cXiiET5eGXlubuAXGDkBh2t3eWQdh-Thv0tqfJAYFgIAojHhn5cxmDmAakLx6ZqqMk2JAfaqHucqwET19Xt88Q==",
-          "title": "city.hida.gifu.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ8eExTo4KoFV00TUmYfjmMJlauB5o-3UGL8HrEST7o27m3-MrMf8JoqHuBSXLGGIDIfdA0N0BhLmgOef3u1821fa5r1OZC5UXhkleTXAAtE1SLeEolivB2YuaY4nHk4G_",
-          "title": "youtube.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcceU6Qbt7unYt4p4OeQIoAoxFIR0hlnDFi8O33gnwNgMuk7E-UWqI3xVmSvuK4-M1iNKiPcl9iT7PsgexJkQZMaASf5PJukSM1wi98nN4m3m2p1bMu1KbfiZ0nWxzdgM=",
-          "title": "gifu.lg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUrMTcSowrxSq96_TqfVJgN5lIdz-pcJyo9CHYr2nty8xECq8DPv6E6K0WsMiTV7lazJ0Uq_PCC2avlBs-imANU4ENRrLZhkPhWKcKUjfd9PWnPnaBxJ3JFgqNpf_SuiJFGwgVp2ZCbeNaNOoH0tQ=",
-          "title": "wikipedia.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6CZo4-QESqSHzxFBfyMStHH0AC6_l3Wlrl3cSAwY8jgxx5QfSsuWe-6ZxuIiIH-L47Mt3xQY0lnhZtIlpFuvaCgBB4Jf9sCisscSj1FBV5uG1v-8=",
-          "title": "cmeg.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRgtQtkxXDIhrCCeZ82ebP7-CtOxM27Q14ntCV__5-SDWpKbTAJ2P6_IQxKhyVdFUdd_785t2MqQNSOLZhaR0r3Spsz6WEeHGLq35Pz_7QC8ogjE2ZvdvsL813T2mIvZvwEgeFYB0=",
-          "title": "geo-gifu.org"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq7igK8CY5_H0lE8_23NpNdpvfUkrHugu2OS2KLPsMVjAcUtA3zayaJnaE6Brva-xXBtffd6T-D7oN1fgXhTv_GF5dzy86LpDcsy780yE-EV4fKsJreoxH8WiXbOIWAhOsUw4=",
-          "title": "mitsui-kinzoku.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOHq6HIZkvQWpN8b8DE3pmDMOaJr_bha3ZAAAAGPDDOyCTJ8d9Rd3-kqaog0bJ-3xwOicZd2Egmh5pOWZVBlQKljFp_q9Mkgw3Bdu_Lzs0pHkn9tdZpF3yciFFuw_0KT6DVBZhBA==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0UpZC3X-YOQkB6T0IUAVD9zBUrahvh5Hg58Mxk3HBicU4McLR9UltbhWpC1LP-CSgWWbwHbwOoQxP-VMQDT3BXKcUgXSi-TYuClbA_FIBiMtya-gawAr6NAa085xXFHI=",
           "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHauPhNPxWdfEHprj1UCkMefCdEjzbJobAGrdBmWNR3Dh9F0zrN5SZLA7x-wc48wJ0HrhR6fxpPdpXyvgVPEksyZgtHWu_D3Aa_uZJoCw-RK7fb4DxJfkyLak78ydf9bHNnkCaJKZ-kliN1EmAJH_6YrC6MdG4rPCmRz00=",
-          "title": "geo-gifu.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQYm3wNHxLknmwP8I8jMstIaXs4iT4h1rgeKgX55KUjn2N5YXKbTYqL8GwMiDVCipa4ZurNEgWruPRgyYxZ4tfcvtyiSHCK_mTYImTstVQPzkvlWRAFlsC10rfA1sxlxSZsVO4eGHcsoUFopYAVtaFC6hoeds=",
+          "title": "jma.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsfHFocM6p-A6sETiJLFQCTdazjmGQevpbZPqjCJl2--GoW9CKcS-M6Z8e05wRuHzVlq-Z3PeAnTOpRajN1izoWacPvp4PoAiRMO1D0wU-HYiPWAfnhK_kxTsCk1Qqn8Q4B24-Yem-zbyZVHAwpw==",
-          "title": "city.hida.gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIHerqTpWKqTvWMo3NbaYu5aoZjlSDAPi575xjYBMBu6OOPjW4toAt03BSD5Fyk5fAat3gnMDMAmf8FkajzARN96OFa_FM7psfyhtGNVolLgM_yWJQl8W3JZeFKjGfWnUAsyJmIC4xxb5g2XyApXsFcG6clnO-o6NKk6X9fQsrxRPpfl0=",
+          "title": "jma-net.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmyoMHRvogCKspM6f0xcpNU1KZKQkoj45beUlwYNwunSuGALW-NP9zwizun_QAyQAmAPXqnNwy5fpZ2_rJQKNcYi9667Ikw1H0lqmxGJ6AXl7wZ8wdbbh3ZOGJbQ==",
+          "title": "denken-ou.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtmmwMroJqoAFu5v0-B3UofQ2ibJydN8N3ZVR-skR9bbeNpvoYvuvpolM9vbyq8pETPXm4lGoZpKS0RSDtLQVl4G6xOqK6MnyuThj68E1mMhRnVryX35jFUxK7OMjvJcxDBJYfWdR-BvrklHqBIydoY3XKZO13Viuy",
+          "title": "tss-tv.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-QGv3lyY3CfUyG5ZJv70oVFg_INtbl1S2Q7uPOFC0gfudJMfeoCdg2PKenaSWcRwVrsYmU-5NkL-pMm5B2aNgCBOevnNIzZwBv4R3FFX04s0FcmShm2L8Hqonn9EScnohSFz9zhzAcvE03nkF9VXBXvyLF__1",
+          "title": "u-tokyo.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFm1TtXMkXs-5R-cNun5QFZmKut7y3Lm0o2mrZ34EtMo_nnpJZHAwMghmH3qUolNSKgwqxj_g7TUF_zrkQfMTeStBcSMzij-VApd2XQ4bo3CVaPoujR9QVXG6iFpr2PpP18qy9iOEKa4hA6",
+          "title": "technologyreview.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPKmMKTped6pDI-rKFw7aIeJlYizEFwVBRB4zX-7dfqeoiSvm4ooi74xEhKm5mPib51haJ3Lpe0wZQsZV8hpicajDPsYty5WF01PgQlzmh-IQDy_jzFXAmp8kppb14",
+          "title": "hiroshima-u.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv89FwHVagJu8k2MScQ9Uinl-CKJdLNfg3WketvC5gOlWo9bkD2zxLTALcKaExu5DXaZeTLe5-ByVYlV8Ngs_mfVksuQpP8mYPTRPR3uoGBfdSehksa9RzIlr9L4sMkj3DJOFK_yCwvii0AcrT5s50",
+          "title": "nii.ac.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbJfa9KzbSYr4ra2ALCwAr2TOc7Mewo48UBrIM7x2mv-TztcbWVgTfYDNQk0CcrX712XazobG9dKw4mO0h21XtMagOOXKI90tfuVpV9B9e0DYW2oSFgCS2IuCgX2zCU6I5Wjqh_l8WVlT92R2xZLviubU6",
+          "title": "kuma-watch.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJAcmaIDRqd3EoczxP1UY0EI1P6OOCmhWm7IxOrYczDSHYMO2i9vY6dkEDCEgTJDPO2gNQWAZSp-UBi7su1L3P8KWXe_uOHLsr7HLkzh8mt6u74TsHIQPC6Md2LFYPbFTQ03DMIjpL41dSGSA7jsTXfD1b9vgxXeud94CHyDuG9EU=",
+          "title": "ndl.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv1fhEGu8wi6BRsSlhZR8kq2Dz1BPEXHDqgyVkDhtNbyXZVITPz6J1TF-SwbIpkGDLawLvbuuCHtI5dfuxcYgoSOXujU-VA1fwO76a3I0shiCB3U8SvCTqX3QEefoQRpbQ5XxY",
+          "title": "weathernews.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWH8k6z0pNFt-aJRsxfTVKAp3Vw34yqrTgDJbd3tq-MValAKUVRdCmpc-KSmzUmJdHUqbDCCdlN5mLGeX04toJyc-IiyzqlTFdTZg3ibzKVgSOgg_m3Fl7XalA2jIrkYlZ2-HeVjnDFA==",
+          "title": "nissei-web.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoJZE7PDHE3LrxZljd9fk9-zi7F1KysFcfPfQfdxD9vpCJM0LWj5g0CDGHN8xTVjoqMDoGLzTLvP6FcAy-eHZUjEjGAWEysLBCP_zhLEJ9sB3D6DWBIuZGiZhjnfsRpmLg5AoCaet8Fn-HoATW5ccXWpIqTQ==",
+          "title": "jst.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDtS1ayCQIpusClwUMb2ae-7kZY7MOEIM_QqHdJp00EwvR42NsiiVJtX6nKppKWeNRYgDXyBYR3Vi9XyYaAwpX4M5vR2MO6bfPbf8oyPAxFNPmGs5OIE5F3wxrXIERb9CpZsisUMppFiN57AEv3H1mQ3do6_qWVeKmCA4qtPtvc0uzqIE4Mki7",
+          "title": "tsm.toyama.toyama.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk5KHCAci-W74kvI9gY4pjXGklj62tj_cTsi3yLV8duApCtznuF5ite-aHtRXaLQzJKTxjms7ekEMlEC9QzW6l7iJ62qSb8KRPEY-vW2uAuEygZ-Tfyg==",
+          "title": "ngk.co.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY8eo0nlUVWogioobr4ZZwIgkclKmUnMnS35sbfZqkElwOBLJAtACAPDFWhUfy9c8UT7qUqpsJpwN_QYGqDX9jmCtpuGKHuagiJ3xXHS9DIA2Y8X2qqxggmoZx0OF68KykR9KcJKU=",
+          "title": "air-mag.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2Pxrt7c0x6s6_EE9R_FOgZ2yJFbaP0f_Jv1-OJn1FbdLpMinPVGd9-aeAF3GJXR-2H2_ol5hWVhzb6w-3QPwgmb3twSxMzKtCMVFGudKuGainq0uFoA==",
+          "title": "phys-edu.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaazsOlk5zWfmllfF6QDbcstBPiCE7b8asfH_2yMJ5xnSAVdobCwQxjNYVpRcoTiON18OUeetKD43P66hiGhcDcPknbOaV9rX1JNaObz2NMjzK2uU0a9J21-S0mq3VBbbBA2w_d1FkbIU=",
+          "title": "tenki.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn_bH9MXUU5vHJxFiswqFxqCxHM6DDqU52xIagC3y9R2qjuLzz_rL-x5d1RJ5Trn7DMroXjiIxKiT8hs0XIb2cPZ3PNAyfmc8FfZjD0pXcgy7hW-gv",
+          "title": "a-def.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 676,
-          "endIndex": 954,
-          "text": "**理由と詳細：** 1985年に神岡鉱山茂住坑の石英脈から発見され、国際鉱物学連合（IMA）に新鉱物として正式承認された希少鉱物が「神岡鉱（神岡石／英名：kamiokite、化学式：$\\mathrm{Fe^{2+}_2Mo^{4+}_3O_8}$）」です"
+          "startIndex": 612,
+          "endIndex": 739,
+          "text": "名前に「シカ」と付きますが、生物学的にはシカ科ではなく**ウシ科（ヤギ亜科）**の動物です"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 762,
+          "endIndex": 828,
+          "text": "骨格や内臓の構造がウシやヤギと共通しています"
         },
         "groundingChunkIndices": [
           0,
@@ -248,29 +282,19 @@
       },
       {
         "segment": {
-          "startIndex": 960,
-          "endIndex": 1210,
-          "text": "**具体的な数字と特徴：** 鉄とモリブデンの複酸化鉱物で、色は黒色（金属光沢）、比重は約6.02と手に持つとずっしりと非常に重いのが特徴です（一般的な岩石の比重2.6〜2.8の2倍以上）"
+          "startIndex": 831,
+          "endIndex": 997,
+          "text": "ウシと同じように4つの胃を持ち、一度飲み込んだ植物を口に戻して噛み直す「反芻（はんすう）」を行いながら消化します"
         },
         "groundingChunkIndices": [
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 1213,
-          "endIndex": 1450,
-          "text": "結晶の大きさはミリ単位の板状・柱状で、原産地である神岡鉱山のほか、アメリカ（ミシガン州）やブラジルなど世界でも数カ所でしか確認されていない極めて貴重な鉱物です"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1453,
-          "endIndex": 1601,
-          "text": "国立科学博物館（東京都上野）の日本館3階「日本の鉱物」コーナーにも神岡鉱の実物標本が展示されています"
+          "startIndex": 1040,
+          "endIndex": 1109,
+          "text": "決定的な違いは「角（ツノ）」と「暮らし方」です"
         },
         "groundingChunkIndices": [
           2
@@ -278,31 +302,41 @@
       },
       {
         "segment": {
-          "startIndex": 1607,
-          "endIndex": 1789,
-          "text": "**意外な点・歴史の裏話：** 神岡鉱山といえば「亜鉛・鉛・銀」が有名ですが、この鉱物はモリブデンというレアメタルを含んでいます"
+          "startIndex": 1117,
+          "endIndex": 1319,
+          "text": "**本物のシカ（ニホンジカ）：** 角が生えるのは基本的に**オスのみ**で、木の枝のように枝分かれし、**毎年春にポロリと抜け落ちて生え替わります**"
         },
         "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1322,
+          "endIndex": 1373,
+          "text": "また、群れで行動することが多いです"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1381,
+          "endIndex": 1522,
+          "text": "**カモシカ：** **オスにもメスにも角があり**、枝分かれしない黒く鋭い角（長さ10〜15cmほど）が生えます"
+        },
+        "groundingChunkIndices": [
+          2,
           3,
-          1
+          4
         ]
       },
       {
         "segment": {
-          "startIndex": 1792,
-          "endIndex": 2138,
-          "text": "さらに2013年には三重県伊勢市で発見された新鉱物が「伊勢鉱（iseite）」と命名されましたが、これは神岡鉱の鉄部分がマンガンに置き換わった同型構造の鉱物であることがわかり、神岡の名を冠した鉱物が世界の地球科学の分類基準として生き続けています"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2171,
-          "endIndex": 2262,
-          "text": "国立科学博物館 常設展示データベース「詳細（神岡鉱 / kamiokite）」"
+          "startIndex": 1525,
+          "endIndex": 1664,
+          "text": "この角は中が骨で表面を角質が覆う「洞角（どうかく）」と呼ばれ、**一生抜け落ちずに伸び続けます**"
         },
         "groundingChunkIndices": [
           2
@@ -310,19 +344,42 @@
       },
       {
         "segment": {
-          "startIndex": 2267,
-          "endIndex": 2345,
-          "text": "小学館『日本大百科全書（ニッポニカ）』「神岡鉱」解説"
+          "startIndex": 1667,
+          "endIndex": 1746,
+          "text": "群れは作らず、1頭ごとに縄張りを持って単独で行動します"
         },
         "groundingChunkIndices": [
-          1
+          2,
+          0,
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 2350,
-          "endIndex": 2467,
-          "text": "東京大学総合研究博物館 企画展示「神岡展 日本を代表する非鉄金属鉱山誌」（2001年）"
+          "startIndex": 1749,
+          "endIndex": 1799,
+          "text": "体長は約1〜1.2m、体重30〜40kgほどです"
+        },
+        "groundingChunkIndices": [
+          0,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1827,
+          "endIndex": 1990,
+          "text": "すらりと細く美しい脚を「カモシカのような脚」と例えますが、実際のニホンカモシカの脚は**ずんぐりと太く短め**です"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1993,
+          "endIndex": 2188,
+          "text": "険しい岩場や急斜面を滑らずに踏ん張るための筋肉質な体型をしており、細い脚を持つ外国のレイヨウ（羚羊）と混同されたことによる誤解です"
         },
         "groundingChunkIndices": [
           4
@@ -330,95 +387,185 @@
       },
       {
         "segment": {
-          "startIndex": 2699,
-          "endIndex": 2946,
-          "text": "**理由と詳細：** 昭和40年代初頭まで神岡〜猪谷（初期は富山市笹津）間を走っていた軽便鉄道「神岡軌道」は、レールの幅（軌間）がわずか610mm（約2フィート）しかありませんでした"
+          "startIndex": 2237,
+          "endIndex": 2417,
+          "text": "明治から大正にかけて毛皮や肉目当てに乱獲され、大正時代には山奥にわずかに残るだけの「幻の動物」と呼ばれるまで激減しました"
         },
         "groundingChunkIndices": [
           5,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2420,
+          "endIndex": 2524,
+          "text": "1934年に国の天然記念物、1955年に特別天然記念物に指定されて厳重に保護され"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2420,
+          "endIndex": 2647,
+          "text": "1934年に国の天然記念物、1955年に特別天然記念物に指定されて厳重に保護され、現在では岐阜県内（飛騨市・高山市等）でも里山近くまで姿を見せるまでに回復しました"
+        },
+        "groundingChunkIndices": [
+          0,
+          6,
+          4,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2678,
+          "endIndex": 2763,
+          "text": "環境省 中部地方環境事務所「『カモシカ』はシカじゃない？」"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2763,
+          "endIndex": 2874,
+          "text": "／飛騨市公式ウェブサイト「特別天然記念物『ニホンカモシカ』遭遇時は注意！」"
+        },
+        "groundingChunkIndices": [
           6
         ]
       },
       {
         "segment": {
-          "startIndex": 2952,
-          "endIndex": 3124,
-          "text": "**具体的な数字と比較：** 現在の新幹線の標準軌（1,435mm）の半分以下、JR在来線（1,067mm）と比べても約6割という極端な狭さです"
+          "startIndex": 2874,
+          "endIndex": 2953,
+          "text": "／富山市科学博物館「とやまサイエンストピックス No.543」"
         },
         "groundingChunkIndices": [
-          5,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2874,
+          "endIndex": 3023,
+          "text": "／富山市科学博物館「とやまサイエンストピックス No.543」／みのかも文化の森 美濃加茂市民ミュージアム資料"
+        },
+        "groundingChunkIndices": [
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3130,
-          "endIndex": 3350,
-          "text": "**意外な点・歴史の裏話：** なぜここまで狭い線路にしたのかというと、「神岡鉱山の地下坑道内を走るトロッコのレール幅（610mm）」と全く同じにするためでした"
+          "startIndex": 3266,
+          "endIndex": 3380,
+          "text": "この冬の雷（冬季雷・とうきらい）は、夏の雷とは発生の仕組みも威力も桁違いです"
         },
         "groundingChunkIndices": [
-          5
+          8,
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 3353,
-          "endIndex": 3548,
-          "text": "坑道から採掘した鉱石を別の列車に積み替えることなく、そのまま地上に出て川沿いを直通運搬できるようにした合理的な鉱山規格だったのです"
+          "startIndex": 3403,
+          "endIndex": 3566,
+          "text": "夏の雷は強い日差しで地表が熱せられてできる背の高い積乱雲（雲頂10,000〜12,000m、雲の底は地上2,000mほど）で発生します"
         },
         "groundingChunkIndices": [
-          5,
-          8
+          9,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 3551,
-          "endIndex": 3791,
-          "text": "さらに驚くべきことに、鉱山専用線として始まったものの、沿線住民の熱心な要望によって昭和初期から地方鉄道として認可され、客車を連結した一般旅客営業も行っていました"
+          "startIndex": 3569,
+          "endIndex": 3695,
+          "text": "一方、冬の雷は大陸からの冷たい季節風が暖かい日本海を渡る際に水蒸気を含んで発生します"
         },
         "groundingChunkIndices": [
-          5,
+          8,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3698,
+          "endIndex": 3863,
+          "text": "冬の積乱雲は高さが3,000〜5,000m程度と低いのですが、**雲の底が地上数百メートルから1km以下と極めて低い位置**にあります"
+        },
+        "groundingChunkIndices": [
+          9,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3866,
+          "endIndex": 3980,
+          "text": "電気を帯びた層が地表に異常に近い位置にあるため、地上へ強烈な一撃が直撃します"
+        },
+        "groundingChunkIndices": [
+          9,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4023,
+          "endIndex": 4111,
+          "text": "夏の雷は数多くピカピカと落ちますが、1回の放電時間は短めです"
+        },
+        "groundingChunkIndices": [
+          8,
+          12,
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4114,
+          "endIndex": 4398,
+          "text": "冬の雷は発生回数こそ少ないものの、1回あたりの放電継続時間が長く、大地に流れる電気エネルギー（電荷量）が**平均的な夏の雷の数十倍から数百倍**に達する超巨大落雷（モンスター落雷）が時折発生します"
+        },
+        "groundingChunkIndices": [
+          8,
+          9,
+          12,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4426,
+          "endIndex": 4652,
+          "text": "冬の雷は雲から地上へ落ちるだけでなく、地上の高い鉄塔や山頂の避雷針から**空の雲に向かってイナズマが駆け上がる「上向き雷（上向き放電）」**が頻繁に起きます"
+        },
+        "groundingChunkIndices": [
           8,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 3794,
-          "endIndex": 3959,
-          "text": "1962（昭和37）年に旅客輸送を終えるまで、町民の通勤・通学の足としても山あいをトコトコと走り続け、愛されていました"
+          "startIndex": 4655,
+          "endIndex": 4866,
+          "text": "また、冬にこれほど雷が多発する地域は地球上でも極めて珍しく、**日本の日本海沿岸〜中部山岳地帯と、ノルウェー西岸など世界で数カ所**しかありません"
         },
         "groundingChunkIndices": [
-          5,
           8
         ]
       },
       {
         "segment": {
-          "startIndex": 4065,
-          "endIndex": 4125,
-          "text": "神岡よもやま物語」（神岡軌道の歴史解説）"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4130,
-          "endIndex": 4174,
-          "text": "『神岡町史 史料編 近代・現代』"
-        },
-        "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4179,
-          "endIndex": 4261,
-          "text": "土木学会 戦前土木絵葉書ライブラリー（神岡軌道関連資料）"
+          "startIndex": 4915,
+          "endIndex": 5206,
+          "text": "かつて日本の電力研究者が国際学会で「冬に巨大なエネルギーの雷が鳴り、地上から空へ雷が登る」と論文を発表した際、海外の学者からは「日本の学者がまた突飛な冗談を言っている」と信じてもらえませんでした"
         },
         "groundingChunkIndices": [
           9
@@ -426,64 +573,41 @@
       },
       {
         "segment": {
-          "startIndex": 4542,
-          "endIndex": 4818,
-          "text": "**理由と詳細：** 環境省「かおり風景100選」や岐阜県「ぎふの棚田21選」にも選定されている飛騨市宮川町種蔵集落には、石積みの棚田の中に伝統的な木造倉庫「板倉（いたくら）」が約20棟点在しています"
+          "startIndex": 5209,
+          "endIndex": 5439,
+          "text": "しかし1990年代以降、日本海側に建設された欧州製の大型風力発電の風車（ブレード先端の高さ100m以上）が冬の雷で相次いで破壊され、その異常なパワーが実証されました"
         },
         "groundingChunkIndices": [
-          12,
-          13,
-          14
+          9,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4821,
-          "endIndex": 4929,
-          "text": "これらは母屋に隣接させず、あえて棚田を挟んで離れた場所に建てられています"
+          "startIndex": 5442,
+          "endIndex": 5579,
+          "text": "現在では国際大電力システム会議（CIGRE）などで世界中の技術者が注目する重要テーマになっています"
         },
         "groundingChunkIndices": [
-          15,
-          14
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 4935,
-          "endIndex": 5123,
-          "text": "**具体的な数字と特徴：** 種蔵に残る板倉はすべて100年以上前に建てられたもので、現在も農具や作物の保管庫として現役で使われています"
+          "startIndex": 5610,
+          "endIndex": 5646,
+          "text": "気象庁「冬季の雷」コラム"
         },
         "groundingChunkIndices": [
-          14,
-          16
+          10,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5126,
-          "endIndex": 5288,
-          "text": "柱や梁には水に強く腐りにくいクリ材、壁には厚いスギ板が使われ、釘を使わずに落とし込む伝統工法で組まれています"
-        },
-        "groundingChunkIndices": [
-          14,
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6049,
-          "endIndex": 6145,
-          "text": "岐阜県庁 農村振興課公式資料「ぎふの棚田21選に認定された種蔵棚田」"
-        },
-        "groundingChunkIndices": [
-          17
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6150,
-          "endIndex": 6243,
-          "text": "飛騨市公式観光サイト「飛騨の旅」景観遺産解説（種蔵地区・板倉）"
+          "startIndex": 5610,
+          "endIndex": 5718,
+          "text": "気象庁「冬季の雷」コラム／気象庁「あおぞら彩時記 2022年第4号（雷の特徴）」"
         },
         "groundingChunkIndices": [
           12
@@ -491,9 +615,120 @@
       },
       {
         "segment": {
-          "startIndex": 6248,
-          "endIndex": 6339,
-          "text": "飛騨市役所 宮川振興事務所「飛騨ふるさと種蔵村集落MAP」解説資料"
+          "startIndex": 5610,
+          "endIndex": 5796,
+          "text": "気象庁「冬季の雷」コラム／気象庁「あおぞら彩時記 2022年第4号（雷の特徴）」／電力中央研究所・株式会社サンコーシヤ雷情報技術資料"
+        },
+        "groundingChunkIndices": [
+          8,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5994,
+          "endIndex": 6179,
+          "text": "11月を過ぎると越冬穴に入って冬眠に入りますが、半年間も寝たきりで運動しないのに、なぜ春に目覚めてすぐ元気に動けるのでしょうか"
+        },
+        "groundingChunkIndices": [
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6202,
+          "endIndex": 6405,
+          "text": "通常、人間や実験動物はケガや病気でベッドに寝たきりになると、筋肉のタンパク質が分解されて1日あたり約0.5〜1.0%の割合で筋肉量が減っていきます"
+        },
+        "groundingChunkIndices": [
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6408,
+          "endIndex": 6815,
+          "text": "しかしツキノワグマの骨格筋細胞は、冬眠期に入ると筋肉タンパク質の「合成」と「分解」の両方のシグナルを同時に強く抑え込む**「全身省エネモード」**へと切り替わり、筋肉が痩せ細るのを防いでいることが近年の研究で判明しました（広島大学・北海道大学・東京大学等の共同研究、2022年発表）"
+        },
+        "groundingChunkIndices": [
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6858,
+          "endIndex": 6975,
+          "text": "クマは冬眠中の**約5〜6か月間、水もエサも一滴も口にせず、尿も糞も一切出しません**"
+        },
+        "groundingChunkIndices": [
+          15,
+          18,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6978,
+          "endIndex": 7273,
+          "text": "人間なら数日で尿毒症になり、数週間で筋肉が激減して歩けなくなりますが、クマは冬眠期間を終えて巣穴から出た直後でも、**筋肉の線維の太さや遅筋・速筋の割合が活動期とほとんど変わらない状態**を保っています"
+        },
+        "groundingChunkIndices": [
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7379,
+          "endIndex": 7458,
+          "text": "という疑問の答えは、驚異の**「生体内リサイクル」**です"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7461,
+          "endIndex": 7723,
+          "text": "筋肉の代謝から生じた老廃物（尿素）は膀胱などから再吸収され、腸内細菌の働きによって窒素へと分解され、なんと**新しいアミノ酸やタンパク質を作る原料として体内で再利用**されています"
+        },
+        "groundingChunkIndices": [
+          20,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7964,
+          "endIndex": 8159,
+          "text": "しかしセンサーによる長期間観察や血液（血清）の詳細な分析により、完全に代謝レベルで筋肉分解がブロックされていることが証明されました"
+        },
+        "groundingChunkIndices": [
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8162,
+          "endIndex": 8393,
+          "text": "現在、冬眠クマの血清成分を応用して、高齢者の寝たきり（サルコペニア）防止や、長期宇宙飛行における宇宙飛行士の筋肉萎縮を防ぐ新薬の開発研究が進められています"
+        },
+        "groundingChunkIndices": [
+          15,
+          17,
+          20,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8424,
+          "endIndex": 8683,
+          "text": "東京大学大学院総合文化研究科／広島大学／北海道大学 プレスリリース「ツキノワグマは冬眠期に筋肉を省エネモードに変化させることで筋肉の衰えを防止していることを発見」（2022年11月）"
         },
         "groundingChunkIndices": [
           15
@@ -501,9 +736,9 @@
       },
       {
         "segment": {
-          "startIndex": 6626,
-          "endIndex": 6736,
-          "text": "**理由と詳細：** 神岡町城ヶ丘に建つ神岡城（正式な史跡指定名は「東町城跡」）"
+          "startIndex": 8424,
+          "endIndex": 8763,
+          "text": "東京大学大学院総合文化研究科／広島大学／北海道大学 プレスリリース「ツキノワグマは冬眠期に筋肉を省エネモードに変化させることで筋肉の衰えを防止していることを発見」（2022年11月）／日本学術振興会 科研費研究成果報告（課題番号: 22H03439）"
         },
         "groundingChunkIndices": [
           18
@@ -511,111 +746,231 @@
       },
       {
         "segment": {
-          "startIndex": 6739,
-          "endIndex": 6988,
-          "text": "戦国時代（永禄7年・1564年）に武田信玄の命により江馬時盛が築城した平山城ですが、江戸幕府の一国一城令（1615年）で破却され、長らく石垣や堀などの遺構しか残っていませんでした"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6991,
-          "endIndex": 7203,
-          "text": "現在見られる2重3階の木造模擬天守は、1970（昭和45）年に三井金属鉱業が神岡鉱業所の創業100周年を記念して建設し、当時の神岡町へ丸ごと寄贈したものです"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7209,
-          "endIndex": 7439,
-          "text": "**具体的な数字と特徴：** 天守は福井県の丸岡城や愛知県の犬山城などを参考に設計・新築されたもので、隣接する鉱山資料館も同時に同社によって建設・寄贈されました"
-        },
-        "groundingChunkIndices": [
-          20,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7442,
-          "endIndex": 7617,
-          "text": "1958年に飛騨市の史跡に指定されていた城跡に、企業の記念事業として木造天守が寄贈された例は全国的にも極めて珍しい事例です"
-        },
-        "groundingChunkIndices": [
-          18,
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7623,
-          "endIndex": 7859,
-          "text": "**意外な点・歴史の裏話：** 当時の神岡町は三井金属による鉱山操業で活気にあふれており、町と鉱山企業が一体となって発展していた時代の象徴的なモニュメントといえます"
+          "startIndex": 8889,
+          "endIndex": 9006,
+          "text": "晩秋から冬の朝、地面を踏むと「ザクザク」と心地よい音を立てる霜柱（しもばしら）"
         },
         "groundingChunkIndices": [
           21,
-          20,
           22
         ]
       },
       {
         "segment": {
-          "startIndex": 7862,
-          "endIndex": 8069,
-          "text": "現在は神岡城・鉱山資料館・旧松葉家住宅（国指定重要有形民俗文化財の民家）が一体となり、飛騨市の文化施設「高原郷土館」として活用されています"
+          "startIndex": 9009,
+          "endIndex": 9123,
+          "text": "実は、日本全国どこでも、あるいは寒い国ならどこでも見られる現象ではありません"
         },
         "groundingChunkIndices": [
           23,
-          18
+          21,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 8102,
-          "endIndex": 8229,
-          "text": "飛騨市公式ウェブサイト 文化財・施設案内「高原郷土館（東町城跡・神岡城・鉱山資料館）」"
+          "startIndex": 9146,
+          "endIndex": 9315,
+          "text": "霜柱は、空気中の水蒸気が凍って草木や車のフロントガラスに付く「霜」とは別物で、**「土の中の水分」が凍ったもの**です"
+        },
+        "groundingChunkIndices": [
+          23,
+          24,
+          21,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9318,
+          "endIndex": 9443,
+          "text": "地表の温度が0℃以下になり、かつ地中の温度が0℃以上のとき、地表付近の水がまず凍ります"
+        },
+        "groundingChunkIndices": [
+          25,
+          26,
+          21
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9446,
+          "endIndex": 9756,
+          "text": "すると、まだ凍っていない地中の水分が、土の粒と粒の微細な隙間を通って**「毛細管現象（もうさいかんげんしょう）」**によって地表へ吸い上げられ、冷気に触れて次々と下から押し上げられながら凍ることで柱状に成長します"
+        },
+        "groundingChunkIndices": [
+          23,
+          25,
+          27,
+          21,
+          28
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9799,
+          "endIndex": 9933,
+          "text": "霜柱は力持ちで、伸びるときに土や小石を持ち上げ、条件が良いと**10cm以上の高さ**まで成長します"
         },
         "groundingChunkIndices": [
           24,
-          18
+          22,
+          28
         ]
       },
       {
         "segment": {
-          "startIndex": 8234,
-          "endIndex": 8360,
-          "text": "岐阜県地学解説データベース（岐阜大学教育学部）「見学案内コース：鉱山資料館・神岡城」"
+          "startIndex": 9939,
+          "endIndex": 10063,
+          "text": "しかし、日本で最も寒い**北海道や、北陸などの豪雪地帯では霜柱はめったに見られません**"
         },
         "groundingChunkIndices": [
-          20
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 9776,
-          "endIndex": 9955,
-          "text": "しかも、この小さなレールの上を、鉱石だけでなく一般のお客さんを乗せた可愛い列車も昭和30年代後半まで走っていたそうです！」"
+          "startIndex": 10066,
+          "endIndex": 10219,
+          "text": "雪が積もると、雪が天然の「断熱布団」になって冷気を遮断し、地表付近の土が氷点下まで冷え込まないためです"
         },
         "groundingChunkIndices": [
-          5,
-          8
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10247,
+          "endIndex": 10434,
+          "text": "土なら何でもいいわけではなく、適度な隙間を持つ**火山灰土（関東ローム層や軽石質の土など）**が最も霜柱を作りやすいとされています"
+        },
+        "groundingChunkIndices": [
+          23,
+          25,
+          29
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10575,
+          "endIndex": 10870,
+          "text": "また、イギリスやドイツなどヨーロッパ諸国では霜柱は極めて珍しく、**「火山灰土が広く分布し、適度に冷え込み、雪が積もりすぎていない晴天の冬朝」**という条件が揃う日本は、世界でも稀に見る「霜柱大国」です"
+        },
+        "groundingChunkIndices": [
+          23,
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11095,
+          "endIndex": 11377,
+          "text": "と驚愕し、イギリスを代表する科学雑誌『Nature』の投書欄に「日本で見られる奇妙な氷の柱」として相次いで報告・議論された記録が残っています（千葉大学・金光達太郎氏「霜柱の生長に関する研究」より）"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11523,
+          "endIndex": 11568,
+          "text": "〜（千葉大学研究論文の解説）」"
+        },
+        "groundingChunkIndices": [
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11622,
+          "endIndex": 11682,
+          "text": "冬の風物詩『霜柱』はどうやってできる？」"
+        },
+        "groundingChunkIndices": [
+          28
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11682,
+          "endIndex": 11743,
+          "text": "／富山市科学博物館 科学普及資料「霜の話」"
+        },
+        "groundingChunkIndices": [
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11832,
+          "endIndex": 11928,
+          "text": "国の特別天然記念物で、飛騨の山々でも時折出会う「ニホンカモシカ」"
+        },
+        "groundingChunkIndices": [
+          6,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11931,
+          "endIndex": 12054,
+          "text": "名前に「シカ」と付いていますが、実は生物学上はシカではなく「ウシ（牛）」の仲間です"
+        },
+        "groundingChunkIndices": [
+          2,
+          0,
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12427,
+          "endIndex": 12501,
+          "text": "**① カモシカの角は一生生え替わらない（抜けない）**"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12544,
+          "endIndex": 12718,
+          "text": "本物のシカ（ニホンジカ）の角は基本的にオスにしか生えず、毎年生え替わって春になると根元からポロリと自然に抜け落ちます"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12721,
+          "endIndex": 12863,
+          "text": "一方、ウシ科であるカモシカは**オスにもメスにも角があり、一生抜けることなく少しずつ伸び続けます**"
+        },
+        "groundingChunkIndices": [
+          2,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12866,
+          "endIndex": 13002,
+          "text": "なお、カモシカもウシと同じ完全な草食動物で、胃もウシと同じようにしっかり「4つ」持っています"
+        },
+        "groundingChunkIndices": [
+          0
         ]
       }
     ],
     "webSearchQueries": [
-      "神岡城 模擬天守 三井金属 寄贈",
-      "神岡軌道 飛騨市 歴史 公的資料",
-      "神岡石 Kamiokite 飛騨市",
-      "神岡鉱山 新鉱物 博物館",
-      "板倉 山之村 飛騨市 重要文化的景観",
-      "飛騨市 神岡町 発祥 歴史 雑学",
-      "神岡軌道 610mm 旅客 歴史"
+      "霜柱 できる条件 土 毛細管現象 科学",
+      "冬季雷 夏の雷 エネルギー 違い 気象庁 一次資料",
+      "岐阜 県獣 カモシカ ウシ科 違い 博物館",
+      "クマ 冬眠 筋肉 衰えない 尿 科学 森林総合研究所 大学"
     ]
   }
 }
