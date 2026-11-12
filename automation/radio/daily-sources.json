@@ -1,165 +1,254 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "地元の歴史・まちの発見",
-  "characters": 2401,
-  "estimated_minutes": 7.3,
+  "theme": "科学・自然のなぜ",
+  "characters": 2260,
+  "estimated_minutes": 6.8,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "安城市桜町にある「安城七夕神社」の歴史にまつわる意外な事実とは？1番、織田信長が勝手に建てた。2番、七夕まつりが大成功した後に建てられた。3番、仙台から神様を強引に連れてきた。",
-    "answer": "正解は2番、まつりが大成功した後に建てられたでした！昭和29年に始まったお祭りのシンボルにしようと、6年後に市民の熱意で建てられたんだって。神社がお祭りより後なんて、すごい情熱だよね！",
-    "source_ids": [
-      2,
-      8,
-      9,
-      10
-    ],
-    "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIep2lLnrtz3w53EVt8emdAFVSx8_UsmWac5wxa8K479FiKPx3Qe_mYDnqrYzdjTfIhDTZ2j4H48pfJFSt4sI7cn3bNwughO5oiGm1noTPrRCHJxZH-09y9vso-g3j4un7hv8=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYBLidTsgmH1Xyve5fNOuss44f2oaeIhchwXJ4F_1Z7r3RRT6v1Chs8g33HUXKEyq8XfpnNmkBIvbSAGCfSZxJULTBegKWr1L0iO8kyhEeTnMKtXyrB1GIoiA=",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRlce7iOSRFkmzlrv9g6wEtChnGwgd7ylJ473tNtdlF3Uj9jpbSd7n-5JRFjznf9jiA2Nm0iGOKUnc64vShdWei3KMGDzF9YshvpsWkGcFSjWAIz1GeENr",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWt5pwvdxvjJUO-VqW6cy-0SGGg7NbA9KeD5vCwD2FzpyzOyyy2pkaRzQwiGdUezc1_QUx1D3s0Bir8uIBQm7wm1NYi2JG-PRjrugZoKOg9qUXCZ6O0kJk8Uj95OQ3Nv59JGVcF8tTQFvaQbZfqTDDQw=="
-    ]
-  },
-  "izumi": {
-    "text": "さて、みおんの和泉ディープ！今日は和泉町にもゆかりが深い明治用水の偉人、岡本兵松さんのお話です。兵松さんは1821年に現在の大浜村、今の碧南市で生まれた背の高い厳格な人物だったそう。1853年ごろに都築弥厚さんの子孫から原野を買い取って開墾を始めて、そこで弥厚さんの用水計画を知って遺志を継ぐと決めたんだって。でもね、1858年と1868年に計画を申請したものの、2回とも許可が出んかったの！普通なら心がポキッと折れちゃうじゃん？そこで兵松さん、阿弥陀堂村の庄屋、伊予田与八郎さんと計画を合体させたんです。これがまさに最強のタッグ結成！岡本さんが農民の説得、伊予田さんが出資者との交渉という、現代で言えば現場の営業担当と敏腕マネー担当の名コンビを組んだんだわ。この二人三脚で粘りに粘って、1876年に愛知県から認可！1879年に工事が始まって、1880年4月18日には水源地で通水式を迎えたんだに。翌年1881年には「明治用水」と名付けられて、かんがい面積は最大1万760ヘクタール！弥厚さんの構想から実現まで半世紀近くかかった大事業だったんだね。兵松さんも私財を投じたもんで晩年は経済的に苦しく、1897年に76歳で亡くなったそうだけど、この用水のおかげで安城は農業が発展して「日本デンマーク」と呼ばれるまでになったんだよ。説得とお金のプロが力を合わせた熱いドラマ、地元の誇りじゃんね！",
+    "question": "和泉そうめんは製麺所ごとに個性豊かですが、たつみ麺店が獲得した海外の賞はどれでしょうか。1番、モンドセレクション金賞。2番、ノーベル平和賞。3番、アカデミー主演男優賞。",
+    "answer": "正解は1番のモンドセレクション金賞でした！iTQi最優秀クリスタル味覚賞も獲っとるんだに。世界も認める味ってわけじゃんね。アカデミー賞獲ったら麺がオスカー像になっちゃうわ！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/tuzuki/"
+      "https://anjo-izumi.life/somen/"
+    ]
+  },
+  "izumi": {
+    "text": "みおんの和泉ディープ！今日は和泉町が誇る「そうめん密集地帯」の自慢合戦だよ！和泉町って、歩いとるとあちこちに製麺所があってびっくりせん？天明の大飢饉をきっかけに小麦で作られ始めて約250年の歴史があって、今もたくさんの名店が腕を競い合っとるんだよね。例えば、間杉手延製麺所！ここは麺を3メートル以上の長さのまま商品にした「日本一長い手延べそうめん」があるんだわ。3メートル超えって、今ならSNSで完全に大バズりするやつじゃんね！おうちの台所でどうやって茹でるんって突っ込みたくなるけど、この長さこそ職人技の結晶なんだよ。そして、たつみ麺店は1975年創業で、なんとモンドセレクション金賞とiTQi最優秀クリスタル味覚賞を受賞！小さな町の麺が世界トップの審査員を唸らせとるって、凄すぎて鳥肌立っちゃうわ。他にも1974年設立の和泉そうめん丈山の里や、和泉麺店、みや子製麺があって、1976年創業の丈山の里いずみ庵本店に行けば、そうめんだけでなく、ひやむぎ、うどん、きしめん、味噌煮込みうどんまで食べられるだに！長うどんや長きしめんもあるんだよ。同じ町の中に「日本一長い」とか「世界の賞」っていう強烈な看板を背負った製麺所がギュッと集まる和泉町、マジで麺のドリームチームだら！胸張って自慢しりんね！",
+    "source_ids": [
+      1
+    ],
+    "source_urls": [
+      "https://anjo-izumi.life/somen/"
     ],
     "angle": {
-      "id": "meiji-team",
-      "hook": "説得担当とお金担当、名コンビで完成させた明治用水"
+      "id": "somen-shops",
+      "hook": "小さな町に製麺所がいくつもある『そうめん密集地帯』と、日本一長い・受賞歴などそれぞれの自慢"
     }
   },
   "local": {
-    "text": "11月21日土曜日と22日日曜日に「西部地域まつり」が開催されますよ！さらに11月21日から23日までは「あいち花マルシェ2026 三河ステージ」も行われます。秋の安城はお出かけしたくなるイベントが目白押しだね！",
+    "text": "今週末の11月14日土曜日に、「中部公民館ふれあいウォーキング」が開催されるよ。最近運動不足かもって思っとる人や、秋の風を感じてリフレッシュしたい人にぴったりじゃんね。詳しい情報は安城市のホームページに載っとるもんで、気になる人はぜひチェックしてみてりん！",
     "source_ids": [
-      18,
-      19
+      24
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/aichihanamarche2026.html",
-      "https://www.city.anjo.aichi.jp/event/seibumaturi2026-event.html"
+      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
     ]
   },
   "segments": [
     {
-      "topic": "徳川家康の天下取りの原点は岡崎ではなく「安城」だった！？",
-      "text": "歴史の教科書を開くと、徳川家康といえば「岡崎城生まれ」ってバーンと出てくるじゃんね。だから天下取りのスタート地点も岡崎だと思っとる人が多いんじゃない？でもね、これ安城の人なら声を大にしてツッコミを入れたい大事件なんです。実は家康の直系のルーツって、岡崎じゃなくて安城にあったんだわ！えっ、岡崎じゃなくて安城なの！？って、みおんも最初に知ったときは回路がショートするかと思うくらい驚いたに！もともと豊田の松平郷から出た松平家のうち、三代の松平信光が安城城を攻略して息子の親忠を置いたことから「安城松平家」がスタートしたの。そこから親忠、長親、信忠、そして家康のおじいちゃんである清康まで、なんと4代にわたって約半世紀も安城城を本拠地にして松平家の主流へのし上がっていったんだって。しかもね、この安城城時代から仕えていた家臣たちは「安城譜代」って呼ばれて、酒井さんや本多さん、大久保さんみたいに、のちに徳川幕府をガッチリ支えるスーパー重臣ばかり！さらに幼い家康が織田家の人質から解放されたきっかけも、今川と松平が安城城を攻め落として信長の兄を生け捕りにして人質交換したからなんだよ。もし安城城での戦いがなかったら、家康は戻ってこられんかったかもしれんのだに。安祥城址公園には本多忠勝のお父さんのお墓もあるし、まさに天下取りの土台は安城で練り上げられたってわけ。職場の歴史好きに「家康の原点は安城だに」って自慢してみてりん！",
+      "topic": "西三河名物ウナギの故郷は3000キロ彼方の深海だった！？",
+      "text": "麺の長さに驚いたところで、今度は長ーいアイツのびっくりするお話！西三河といえば、お隣の西尾市一色町をはじめウナギが身近じゃんね。香ばしい蒲焼きの匂いを想像しただけで、お腹が鳴りそうだわ。…って、みおんAIだから胃袋ないんだけどね！ところでウナギってどこで生まれるか知っとる？川におるんだから近所の川底…と思ったら大間違い！なんと日本から南へ約3000キロ離れた、太平洋のマリアナ諸島の深海まで行って卵を産むんだって！えっ、ちょっと待って！3000キロって、安城から東京を何往復する気なのん！？しかも生まれた赤ちゃんは透明で柳の葉っぱみたいな姿で、海流に乗って半年から1年かけて日本へ泳いで帰ってくるんだに。往復で約6000キロの大冒険！スケールがでかすぎてアゴが外れそうだわ。昔はこの秘密が分からんで、アリストテレスは「泥から自然発生する」って言うし、江戸時代の日本でも「山芋が変身してウナギになる」って本気で信じられとったらしいよ。山芋が蒲焼きに変身したらびっくりじゃんね！実はウナギの祖先は深海魚で、大人になって川に遊びに来とるだけなんだって。命のふるさとが遥か深海だなんてロマンがあるよね。今日ウナギを食べる人は、3000キロ泳いだ奇跡に感謝して食べりん！",
       "source_ids": [
-        3,
-        4
+        8,
+        12
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShqZVCOiCHfXfQQR09_I4-t0WKUl32PTACZu-3PXzKtYRK239-XYsXJsoQlrzGbFCAoyk1rjhJWf9yoWD5ZfRdp-I6I3P-obMqjKnebbPtbE30GvDzsoJ",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H-beaA_TBKoxb0csrum7tgLMkcOPDPKllB4d8VnTyzfF7OmqBVI4NFa3gAcxDTEBCH-POlMys0AELjrfx_t5fa-OAzMf19aGcMzZVEsbymFaACKhTkS2odSn9JHrR0GlAc6vsAS91xX_aQ=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-nJUqKTr9ljkhitRvlfBf9bGmVsRqTGH2_uIapmYMClaEbISINa_lVytCtn3NMKq4IG_LPnptEfdJlsvZieHDza-XtDhYtodAxYoL9pFQjaXM0Zk0tbnd5IJlGzJ6VCRHjR0",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5nCNn-pr8Z7WRlq6u86DKoK5dO9L109h5TdaX4-_1FLpse61orpr3nyGoZodVN5SwmttIJFezStO0yvLfbiz0o5OD6XgcS4ZaHhv9CH5p37d7XW1aKnSHGdjieYdTqJBw_72HQY8wI0zmCjuJJg=="
       ]
     },
     {
-      "topic": "正月元旦の江戸城の門を開けた！安城・西三河の芸能「三河万歳」のVIP待遇",
-      "text": "家康の話が出たついでに、徳川幕府と西三河のびっくりするほど深〜い絆の話をもうひとつ！安城市の西別所町や東別所町、お隣の西尾市なんかに伝わる国の重要無形民俗文化財「三河万歳」。お正月にめでたい歌や舞を披露する伝統芸能なんだけど、江戸時代の彼ら、幕府から信じられないほどのVIP待遇を受けていたって知っとる？普通、当時の全国の万歳って、家の玄関先を回る「門付け」が基本だったの。ところが三河万歳は、大名や旗本のお屋敷の「座敷」に上がって舞うことが公認されていて「御殿万歳」と呼ばれとったんだわ。しかも農民や芸人の身分なのに、苗字を名乗って刀を差す苗字帯刀まで許されとったっていうから破格の扱いじゃんね！でも、一番ぶったまげるのはお正月元旦の江戸城での役目。なんと、元旦の朝一番に江戸城の正門である大手門を開ける「御門開き」という超神聖な儀式を任されていたのが、三河万歳師だったの！朝6時の卯の刻に、門の外から万歳師が「鍵いらず、戸ざさる御代の、明けの春」って唱えると、中から門番が「思わず腰をのばす海老錠」って応じて門が開いたんだって。将軍に真っ先に新年の挨拶をする権利まで持っとったなんて、待遇が良すぎて「家康公、地元びいきが凄すぎん！？」ってツッコミたくなるよね。明治の混乱も乗り越えて今も地元で受け継がれとるこの芸能、まさに西三河の誇りだに！",
+      "topic": "渡り鳥がきれいなV字で飛ぶ納得の航空力学と助け合い",
+      "text": "海の大移動の話が出たついでに、今度は空を見上げてみりん！この時期、空を見上げると渡り鳥が綺麗な「V字」になって飛んどるのを見かけるじゃんね。あの隊列、リーダーについていく仲良しグループのお散歩…じゃないんだわ！あれ、ものすごい航空力学のワザなんだって。鳥が羽ばたくと翼の端から空気の渦ができて、真後ろには下向きの風が吹くんだけど、斜め後ろには上向きの「上昇気流」が起きるらしいの。つまり、前の鳥の斜め後ろを飛ぶと、下からフワッと持ち上げられて、めっちゃ楽に飛べるんだに！真後ろにおると叩き落とされるから、自然とV字になるんだね。しかも後ろの鳥は前の鳥の1メートルほど斜め後ろをキープして、羽ばたきのタイミングをなんと数ミリ秒単位で完全に合わせとるんだって。数ミリ秒って、まばたきより全然速いじゃん！鳥たちの神ワザ、聞いてないんだけど！でもさ、「先頭の鳥はずっと疲れるだけで大損じゃん！」って思わん？まさにその通りで、先頭は体力を激しく使うんだわ。だから先頭は固定のボスじゃなくて、「えらい！もう無理！」って疲れたら後ろに下がって、交代で順番に先頭を引き受けとるんだって。誰か1人に負担を押し付けない渡り鳥のチームワーク、見習いたいよね。今日の職場で誰かが疲れてそうだったら、すっと先頭を交代して助けてあげりんね！",
       "source_ids": [
-        5,
-        6,
-        7
+        15,
+        21
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0d-u9IWx2UGNU8byheMQhPaYRRCaHbMsEqcRFh0ov3czLLYlSvjC34byjycxVlYPU1TXRA8WdAwjytYS5C4-azcdyUuaQjEky10Ku5Uob70GfMw--D4-SsasJ1fuWw1L40ND3dtO",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhKsLLeVvwUoUOxn4irHTsT8WYxO3C1hEdhhnHllL2sbnqH7cdExpAHdDX5JswC6dqubqy179yv5Zg_4PbUWU5zbwwPSGv7ZGdi-FvNTaeZQXkhw_0-o=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyInMgGqh7dpca7byc9n2n8Gh0UoTrVOoWViIoPal55rU5C4gIdkzp7MQ8yuF4gh9fIWlbBSbpfe2RFoKgCeFIh_jy6R6Zksgq0uOQBZ-oQgkY352ro1L0D1AQCyHmtL5etok5tKAm4G5tOaOJhHq67Ord-Q=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHROafPivhD7D5BsiXfDawdkUStcQyX7f9dNCQlCHMdEutVrY8-eGX13AJtp8XNDvOXoHw04u84vuOxn6AR2NpjWB5Fa7uK0hRKlPPw2Eyy7pB_jUfgCyglB4ddmkd-S6QmMQ16G3MQFI6Ekqn-rpgQhfOFpwg7mhkD3I1AXZCsPkDyXDiQ5h-ugbt8RUhPP0tPQwviRWek2KwotWq83hPg1a_cy_pfTh0iJnTYUc-InJg0KekLy3Q1BmJ0a5kDpP6QUJGYeuaeBgmWAM8rRvA5tHZE2a1sJoCPaC3YKNiAU_J_bn5zLQBXT67uQ24TU8yvSiEnUBR8-FlgTNENDfRyIVsTgpu6PUH6X-nfZL-IDCvMZKoz9RPHOA==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHclrV5lLwTShUPEQ94GdwEdEof6d9xV8g9yO73hBJowYi6UD8FBMEY8XsJ3EAci2TP3USKiCx8NQhjaCd4k6vvEQ7j0qZhhARJI8Vw2ABwNQ2zlTs-AOoVOETUnkQb"
       ]
     }
   ],
-  "research": "愛知県安城市和泉町向けの地域ラジオ番組用に、家族や近所の方に思わず話したくなる「地元の歴史・まちの発見」の調査メモを作成しました。安城・西三河に深く根ざしたトピック4件と、そのうち1件を活用した3択クイズです。\n\n---\n\n# 地元の歴史・まちの発見 調査メモ\n\n---\n\n## 1. 徳川家康の天下取りの原点は岡崎ではなく「安城」だった！？（安祥松平家と安城城）\n\n* **疑問・概要**  \n  徳川家康といえば「岡崎城生まれ」のイメージが全国的に定着していますが、実は家康の直系ルーツは安城市に拠点を置いた「安城松平家（安祥松平家）」であり、安城こそが三河統一と天下取りの真の足がかりでした。\n* **理由**  \n  松平郷（豊田市）から出た松平氏の中で、三代・松平信光が安城城を攻略し、三男の親忠を配置したことから「安城松平家」が誕生しました。親忠、長親、信忠、そして家康の祖父である清康までの4代にわたり安城城を本拠地とし、松平一族の主流（惣領家）へとのし上がっていきました。\n* **具体的な数字や比較**  \n  安城城が本拠地だった約半世紀の間に家康の直系へ臣従した家臣団は、特別に**「安城譜代（あんじょうふだい）」**と呼ばれます。酒井氏や本多氏、大久保氏など、のちに徳川幕府を支える重臣たちの多くが、岡崎時代より前の「安城時代」からの最古参の家臣でした。\n* **意外な点（安城城と幼少期の家康）**  \n  幼少期の家康（竹千代）が織田方の人質から解放されたきっかけの舞台は、まさに安城城でした。天文18年（1549年）の「安城合戦」で今川・松平軍が織田方の守る安城城を攻め落とし、城将だった織田信長の庶兄・織田信広を生け捕りにしました。この信広と竹千代の「人質交換」が成立したことで、家康は織田の手を離れることができました。\n* **歴史の裏話**  \n  安城城跡（安城市安城町）は現在、安祥城址公園として整備され、敷地内には安城市歴史博物館や大乗寺、安城合戦で討死した本多忠勝の父・本多忠高の墓碑が残っています。\n* **出典・根拠**  \n  * 安城市観光協会 家康公特設サイト コラム「家康と安城 第1回 家康と安城城」\n  * 安城市歴史博物館「家康ゆかりの地・安城」\n  * 愛知県観光コンベンション推進局「あいち歴史観光：安祥城址（安城城跡）」\n\n---\n\n## 2. 正月元旦の江戸城の門を開けた！安城・西三河の芸能「三河万歳」のVIP待遇\n\n* **疑問・概要**  \n  安城市（西別所町・東別所町）や西尾市などに伝わる国の重要無形民俗文化財「三河万歳（みかわまんざい）」。新年の言祝ぎ（ことほぎ）を歌い舞うこの芸能集団は、江戸時代になぜ幕府から破格のVIP待遇を受けていたのでしょうか。\n* **理由**  \n  徳川家康と同郷の三河出身者であったことから、江戸幕府から格別の保護を受けました。陰陽道の宗家である土御門（つちみかど）家の免許を受け、身分制度の厳しい江戸時代に、農民・芸人身分でありながら**「苗字帯刀御免（名字を名乗り刀を差すこと）」**や大紋の直垂着用という武士同等の特権を許されていました。\n* **具体的な数字や比較**  \n  一般的な全国の万歳は、家々の玄関先や門前を回る「門付け（かどづけ）」が基本でした。しかし、三河万歳は格式ある大名や旗本の屋敷に招かれ、屋敷内の「座敷」に上がって舞うことが公認されていたため**「御殿万歳（ごてんまんざい）」**と呼ばれました。\n* **意外な点（江戸城の開門儀式）**  \n  元旦の朝、江戸城の正門（大手門）を一番最初に開く神聖な儀式「御門開き（ごもんびらき）」を司っていたのは三河万歳師でした。卯の刻（午前6時）、門の外から万歳師が「鍵いらず 戸ざさる御代の 明けの春」と唱え、城内から門番が「思わず腰をのばす海老錠」と応じ、めでたく城門を開いて将軍へ真っ先に新年の祝辞を述べました。\n* **歴史の裏話**  \n  明治維新で幕府の後援を失い、さらに新政府の神仏分離・神道国教化政策によって存続の危機に陥りましたが、神道の教導職の資格を得るなど時代の波を乗り越え、安城や西尾の保存会、地元小中学校のクラブ活動によって今日まで受け継がれています。\n* **出典・根拠**  \n  * 文化庁 文化遺産オンライン「三河万歳」\n  * 安祥文化のさと（安城市）「歴史・文化：三河万歳」\n  * 西尾市公式ウェブサイト「三河万歳（国指定無形民俗文化財）」\n\n---\n\n## 3. 日本一長い竹飾りストリート！「安城七夕まつり」と後からできた神社の秘密\n\n* **疑問・概要**  \n  愛知県を代表する夏の風物詩「安城七夕まつり」。港町でもなく歴史的な七夕伝説の地でもない内陸の安城で、なぜ全国有数の七夕まつりが開かれるようになり、「願いごと日本一」と呼ばれるようになったのでしょうか。\n* **理由**  \n  昭和27年（1952年）の市制施行を機に、農業中心だったまちの商工業を活性化させようと、当時の商店街青年部が立ち上がったことが発端です。平塚や仙台などの先進地を視察・研究し、1954年（昭和29年）に第1回が市民・商店街主導の手作りで開催されました。\n* **具体的な数字や比較**  \n  駅前商店街を中心に飾られる竹飾りは約1,000本に達し、「竹飾りのストリート」の長さは日本一を誇ります。期間中には延べ100万人を超える人出で賑わいます。さらに2013年には「竹にかけられた最も多い短冊の数」として13,809枚を達成し、ギネス世界記録に公式認定されました。\n* **意外な点（神社のほうが祭りより後！？）**  \n  安城市桜町には全国的にも極めて珍しい名前の「安城七夕神社」が鎮座しています。一般的には「由緒ある神社のお祭りが発展した」と思われがちですが、実は正反対です。「始まった七夕まつりを永く市民に親しまれる心のよりどころにしたい」という熱意から、まつり開始から6年後の昭和35年（1960年）に神社が勧請・創建されました。\n* **歴史の裏話**  \n  かつては仙台・平塚と並び「日本三大七夕」と称していましたが、2009年からは順位争いを超えて「願いごと、日本一。」という新しいコンセプトへ舵を切りました。願いごと短冊や風船の一斉飛ばしなど、参加者が自らの夢を託す体験型イベントが充実しています。\n* **出典・根拠**  \n  * 安城七夕まつり協賛会（事務局：安城市商工課）公式サイト「安城七夕まつりの歴史」\n  * 安城七夕まつり協賛会 公式サイト「『日本三大』から『願いごと日本一』へ」\n  * 安城市役所「第73回安城七夕まつり」観光案内\n\n---\n\n## 4. モーター修理の町工場から世界的企業へ！安城発「マキタ」の国産第1号マシン\n\n* **疑問・概要**  \n  プロ用電動工具で世界的なシェアを誇り、緑がかった青のカラーでおなじみの株式会社マキタ。本社を安城市住吉町に置くこの巨大グローバル企業は、なぜ安城の地から誕生したのでしょうか。\n* **理由**  \n  マキタは1915年に名古屋市で電灯器具やモーターの販売・修理を行う個人商店「牧田電機製作所」として創業しました。太平洋戦争末期の1945年4月、空襲を避けるための工場疎開として現在の安城市へ移転してきたことが、安城とマキタの結びつきの始まりです。\n* **具体的な数字や比較**  \n  転機となったのは1958年（昭和33年）、日本初となる国産の携帯用電気カンナ「モデル1000」の開発・発売でした。毎分13,000回転（毎分26,000カット）、刃幅120mmの高速刃を備え、熟練を要した大工の鉋がけ作業を一変させました。この「モデル1000」は、日本のものづくりを画期的に前進させた遺産として、2021年に日本機械学会の「機械遺産（第110号）」に認定されています。\n* **意外な点（主力事業の完全撤退と大勝負）**  \n  電気カンナの大ヒットを受けた翌年の1959年、マキタはそれまでの大黒柱であった一般モーターの受託修理や製造をスパッと全廃し、「電動工具の専門メーカー」へ完全に業態転換するという社運を賭けた大決断を下しました。この徹底した方針転換が、のちの世界進出への基盤となりました。\n* **歴史の裏話**  \n  当時、手作業のカンナがけは腕や腰に極度の負担がかかる重労働でした。マキタの技術者たちはアメリカ製の大型工具を徹底的に研究し、日本の木造建築の木材規格に合わせて小型・軽量化を図り、現場の大工の負担を劇的に減らしました。\n* **出典・根拠**  \n  * 株式会社マキタ 公式ウェブサイト「沿革」\n  * 株式会社マキタ 公式ウェブサイト「マキタ早わかり：HISTORYあゆみ」\n  * 一般社団法人日本機械学会「機械遺産 第110号 携帯用電気カンナ モデル1000」\n\n---\n\n## ラジオ用 3択クイズコーナー（第3件「安城七夕まつり」より）\n\n**【問題】**  \n安城市内には、全国的にも名前が非常に珍しい「安城七夕（たなばた）神社」があります。この神社にまつわる「意外な歴史の事実」とは、次のうちどれでしょう？\n\n* **① 織田信長が戦勝祈願をしたという、戦国時代からの七夕伝説が残っている**\n* **② 「七夕まつり」が大成功したため、後からまつりのシンボルとして建てられた**\n* **③ 仙台七夕まつりに対抗するため、仙台藩の神社から神様を強引に連れてきた**\n\n---\n\n**【正解】**  \n**② 「七夕まつり」が大成功したため、後からまつりのシンボルとして建てられた**\n\n**【解説トークの目安】**  \n「普通は『昔からある神社のお祭りが賑やかになっていった』と思いますよね。ところが安城の七夕神社はまったく逆なんです！昭和29年に商店街の皆さんがゼロから始めた『安城七夕まつり』がものすごい賑わいになったため、『このお祭りを末永く市民に愛される行事にしたい』という熱い思いから、祭りが始まって6年後の昭和35年に市民の手で新しく建てられました。市民の手作りで生まれた、まちの情熱を象徴する神社だったんですね。」",
+  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、11月の初冬の時期にぴったりの「科学・自然のなぜ」をテーマにした調査メモを作成しました。愛知県や西三河にゆかりのある話題を交えつつ、公的機関や大学・研究機関の資料に基づく確かな情報で構成しています。\n\n---\n\n# ラジオ調査メモ：思わず話したくなる「科学・自然のなぜ」4選\n\n## 1. 千年の大誤解！「ブッ・ポウ・ソウ」と鳴く鳥の正体はブッポウソウではなかった！？（愛知・鳳来寺山）\n\n### 疑問\n森の奥から聞こえる「ブッ・ポウ・ソウ（仏・法・僧）」という神秘的な鳥の鳴き声。その声の主は、名前にそのまま付けられた美しい鳥「ブッポウソウ」ではなかった？\n\n### 理由（科学的なメカニズム）\n平安時代の文献にも登場する「ブッ・ポウ・ソウ」という仏教の三宝を称えるような鳴き声は、古くから青緑色の羽を持つ美しい夏鳥「ブッポウソウ（仏法僧）」の声だと固く信じられてきました。しかし、実際のブッポウソウの鳴き声は「濁ったゲッゲッという声」です。実際に「ブッ・ポウ・ソウ」と美しく鳴いていたのは、夜行性で見つけにくい小型のフクロウ「コノハズク」でした。\n\n### 具体的な数字や比較\n* **誤解が解けるまで約1,000年**：平安時代から昭和初期まで、日本中が姿の美しい鳥と声を混同し続けていました。\n* **鳥の大きさ**：姿の美しいブッポウソウはハト大（約30cm）、声の主であるコノハズクは体長約20cmと日本で最小クラスのフクロウです。\n\n### 意外な点\n「声の仏法僧（コノハズク）」と「姿の仏法僧（ブッポウソウ）」という、同じ名前を巡る“2種類の鳥”が存在することになりました。この真実が明らかになったことで、愛知県は昭和40年（1965年）に「声の仏法僧」であるコノハズクを愛知県の「県鳥」に指定しています。\n\n### 歴史の裏話\nこの千年の謎が解けたきっかけは、愛知県奥三河の**鳳来寺山からのラジオ生中継**でした。1935年（昭和10年）6月7日、日本放送協会（現NHK）名古屋中央放送局が鳳来寺山から全国へ鳴き声を生中継しました。すると、東京・浅草の傘店主から「自宅で飼っている鳥がラジオの声に反応してまったく同じ声で鳴き始めた」と連絡が入り、鳥類学者の黒田長礼らが調査した結果、その飼い鳥がコノハズクであることが確認され、長年の謎が一気に解決しました。\n\n* **出典・根拠**：愛知県広報資料「愛知県のシンボル」、新城市鳳来寺山自然科学博物館資料、日本鳥学会誌報告記録。\n\n---\n\n## 2. 西三河名物「ウナギ」はどこで生まれる？ 2000年の謎を解いた太平洋3,000キロの深海\n\n### 疑問\n西尾市一色町など西三河でも親しまれている川魚の代表格「ウナギ」。彼らは一体どこで卵を産み、生まれてくるのか？\n\n### 理由（科学的なメカニズム）\n川や湖で長く暮らすウナギですが、卵を産む場所は日本の河川ではなく、日本から南へ約3,000km離れた西太平洋の深海（マリアナ諸島西方、西マリアナ海嶺付近）です。成長した親ウナギは海へ下り、新月の夜、水深150〜200m付近で一斉に産卵します。生まれた赤ちゃん（レプトセファルス）は柳の葉のように平たく透明な体を持ち、北赤道海流と黒潮という海流のベルトコンベアに乗って、約半年から1年かけて日本近海へ運ばれてきます。\n\n### 具体的な数字や比較\n* **回遊距離は往復約6,000km**：親が南へ3,000km下り、生まれた稚魚が3,000kmかけて戻ってきます。\n* **採集された卵**：2009年5月22日、東京大学の研究チームが世界で初めて31個の天然ウナギ卵を採取することに成功しました。\n\n### 意外な点\n「川魚」のイメージが強いウナギですが、進化の歴史をたどると元々は水深数百メートルの深海に暮らす「深海魚」が祖先です。エサが豊富な陸の川を利用するようになっただけで、産卵という命の原点だけは太古の故郷である外洋の深海で行い続けています。\n\n### 歴史の裏話\n親ウナギが海へ下った後の行方は古来完全なブラックボックスでした。古代ギリシャの哲学者アリストテレスは「ウナギには卵も精子もないため、泥や大地のはらわたから自然発生する」と考え、日本でも江戸時代に「山芋が変身してウナギになる（山芋変じて鰻と化す）」と本気で信じられていました。人類がウナギの産卵場所を突き止めるまでに、実に2,000年以上を要したことになります。\n\n* **出典・根拠**：東京大学大気海洋研究所（塚本勝巳教授らの研究成果報告）、海洋政策研究所資料。\n\n---\n\n## 3. 冬の朝の怪力！「霜柱」はどうして重い石や地面を持ち上げられるのか？\n\n### 疑問\n寒い冬の朝、畑や庭で見かける「霜柱」。踏むとサクサクと崩れるほど脆い氷の柱が、なぜ土や小石をグイグイ持ち上げられるのか？\n\n### 理由（科学的なメカニズム）\n地表の水がその場で凍って盛り上がっているわけではありません。「毛細管現象」と「凍結」が連動して起きています。地表が氷点下になると、まず地表の水分が凍ります。すると、凍っていない地中の水分が、土の粒と粒の微細な隙間（毛細管）を通って、吸い上げられるように地表の凍結面へと補給されます。水は凍るときに体積が膨張するとともに、下から次々と水が供給されて氷の底面で凍り続けるため、氷が地面から上に押し出されて柱状に伸びていきます。\n\n### 具体的な数字や比較\n* **持ち上げる力（凍上力）**：霜柱や凍土が地表を押し上げる圧力（凍上力）は非常に大きく、条件によっては1平方センチメートルあたり数kgから数十kgもの物体を押し上げる力になります。小石を持ち上げるだけでなく、アスファルトを割ったり擁壁を押し出したりするほどの破壊力を持ちます。\n* **土の条件**：砂のように粒子が粗い土やすき間が狭すぎる粘土では毛細管現象がスムーズに働かず、霜柱はできません。関東ローム層や火山灰土など、適度なすき間を持った団粒構造の土壌でのみ見事な霜柱が形成されます。\n\n### 意外な点\n霜柱は、植物の根を浮き上がらせて枯らす厄介者とされる一方で、「天然の耕運機」でもあります。冬の間に土を持ち上げては昼に溶けるサイクルを繰り返すことで、硬くなった土壌に適度な空気を入れ、ふかふかに耕す役割を果たしています。\n\n### 歴史の裏話\n霜柱という言葉は古くから詩歌に詠まれてきましたが、物理学的なメカニズムが実験室で本格的に解明されたのは昭和初期です。「雪の結晶」研究で世界的に知られる北海道大学の中谷宇吉郎博士らが、人工的に土壌と温度を制御して霜柱を再現し、土壌中の水分移動（不凍水皮膜の流動）の物理法則を明らかにしました。\n\n* **出典・根拠**：気象庁「霜・霜柱の解説」、国立科学博物館 理科実験データベース、北海道大学 低温科学研究所報。\n\n---\n\n## 4. 渡り鳥はなぜ「V字」に並んで飛ぶのか？ 航空力学が明かした究極の助け合い\n\n### 疑問\n晩秋から冬にかけて空を見上げると、カモやガン、白鳥などの大型の渡り鳥がきれいな「V字型」の編隊を組んで飛んでいます。なぜ一直線や真後ろではなく、斜めのV字になるのか？\n\n### 理由（科学的なメカニズム）\n鳥が翼を羽ばたかせると、翼の先端から空気の渦（翼端渦：よくたんか）が発生します。この渦の内側（鳥の真後ろ）には強い「吹き下ろしの風（下降気流）」が発生しますが、翼端の外側（斜め後ろ）には「吹き上げの風（上昇気流）」が発生します。後続の鳥は、この前を飛ぶ鳥が作った上昇気流に自分の翼を重ねることで、少ない力で揚力を得て楽に飛ぶことができます。真後ろにいると強い下降気流に叩き落とされるため、一番得をする斜め後ろへ1羽ずつズレて並んだ結果、自然と美しい「V字」になります。\n\n### 具体的な数字や比較\n* **ミリ秒単位の同調**：2014年に科学誌『Nature』に掲載された研究（英国ロンドン大学チーム）によると、後続の鳥は前の鳥の約1メートル斜め後ろをキープし、上昇気流を最大限利用するために前の鳥の翼の動きに合わせて羽ばたきのタイミングを数ミリ秒単位で完全に同期させていることが実証されました。\n* **航空機への応用**：この鳥の知恵を真似て、大型旅客機同士を編隊飛行させる実証実験では、後続機の燃料消費が約5〜10%削減されることが確認されています。\n\n### 意外な点\n「V字の先頭」を飛ぶ鳥は誰の上昇気流も受けられないため、最も体力を激しく消耗します。そのため、先頭は固定された群れのリーダーではなく、疲れたら列の後ろに下がり、別の鳥が交代して順番に先頭を引き受けています。\n\n### 歴史の裏話\n長い間、学者たちの間では「鳥にそんなミリ単位・ミリ秒単位の複雑な空気力学の計算ができるはずがない」「単に仲間を見失わないための視覚的な隊列ではないか」と疑われていました。しかし、GPSや加速度計を鳥の背中に取り付ける超小型データロガーの開発により、鳥たちが意識せずとも気流の圧力変化を身体で感じ取り、完璧に省エネポジションを捉えていることが現代のテクノロジーで証明されました。\n\n* **出典・根拠**：Nature 掲載論文（S. J. Portugal et al., 2014: *Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight*）、JAXA（宇宙航空研究開発機構）航空力学コラム。\n\n---\n\n## 地域ラジオ用 3択リスナークイズ（疑問1より出題）\n\n**【問題】**\n愛知県の霊峰・鳳来寺山で鳴く「ブッ・ポウ・ソウ（仏法僧）」という神秘的な鳥の声。約1,000年間、青い鳥のブッポウソウの声だと信じられていましたが、実は小型のフクロウ「コノハズク」の声だったと判明しました。\n昭和10年、この千年の大誤解が解けるきっかけとなった、意外な出来事とは何だったでしょうか？\n\n* **1番**：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた\n* **2番**：動物園で飼われていたフクロウが、夜中にお経を唱え始めて飼育員が腰を抜かした\n* **3番**：徳川家康が残した日記に「あの声は実はフクロウである」と書かれていたのが発見された\n\n---\n\n**【正解】**\n**1番：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた**\n\n**【解説トークのポイント】**\n昭和10年6月、NHK名古屋放送局が鳳来寺山から鳥の鳴き声を全国ラジオ生中継しました。これを東京・浅草で聞いていた傘屋のご主人が「ラジオから聞こえる声は、うちの店で飼っている鳥の鳴き声と全く一緒だ！」と驚いて連絡。鳥類学者が駆けつけて調べたところ、その飼い鳥が「コノハズク」だと判明し、千年の謎が電波に乗って一気に解決しました。ラジオというメディアの歴史にとっても伝説的なエピソードです。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%83%9E%E3%82%AD%E3%82%BF+%E6%9C%AC%E7%A4%BE+%E5%AE%89%E5%9F%8E%E5%B8%82+%E6%AD%B4%E5%8F%B2+%E5%9B%BD%E7%94%A3%E5%88%9D+%E9%9B%BB%E6%B0%97%E3%82%AB%E3%83%B3%E3%83%8A&client=app-vertex-grounding&safesearch=active\">マキタ 本社 安城市 歴史 国産初 電気カンナ</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E4%B8%83%E5%A4%95%E3%81%BE%E3%81%A4%E3%82%8A+%E6%AD%B4%E5%8F%B2+%E9%A1%98%E3%81%84%E3%81%94%E3%81%A8+%E7%AB%B9%E9%A3%BE%E3%82%8A+%E6%97%A5%E6%9C%AC%E4%B8%80+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">安城七夕まつり 歴史 願いごと 竹飾り 日本一 由来</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%AE%89%E5%9F%8E%E6%9D%BE%E5%B9%B3%E5%AE%B6+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E5%AE%89%E5%9F%8E%E5%9F%8E+%E6%AD%B4%E5%8F%B2+%E4%B8%89%E6%B2%B3%E7%B5%B1%E4%B8%80&client=app-vertex-grounding&safesearch=active\">安城松平家 徳川家康 安城城 歴史 三河統一</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E4%B8%87%E6%AD%B3+%E6%B1%9F%E6%88%B8%E5%9F%8E+%E6%AD%A3%E6%9C%88+%E5%BE%B3%E5%B7%9D%E5%AE%B6%E5%BA%B7+%E7%89%B9%E6%A8%A9+%E5%AE%89%E5%9F%8E&client=app-vertex-grounding&safesearch=active\">三河万歳 江戸城 正月 徳川家康 特権 安城</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9C%9C%E6%9F%B1+%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0+%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1+%E6%8C%81%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%8B%E5%8A%9B+%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8+OR+%E6%B0%97%E8%B1%A1%E5%BA%81+OR+%E5%A4%A7%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">霜柱 メカニズム 毛細管現象 持ち上げる力 国立科学博物館 OR 気象庁 OR 大学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C+%E3%82%B3%E3%83%8E%E3%83%8F%E3%82%BA%E3%82%AF+%E3%83%96%E3%83%83%E3%83%9D%E3%82%A6%E3%82%BD%E3%82%A6+%E9%B3%B3%E6%9D%A5%E5%AF%BA%E5%B1%B1+%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81+%E9%B3%B4%E3%81%8D%E5%A3%B0&client=app-vertex-grounding&safesearch=active\">愛知県 コノハズク ブッポウソウ 鳳来寺山 ラジオ放送 鳴き声</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A6%E3%83%8A%E3%82%AE+%E7%94%A3%E5%8D%B5%E5%A0%B4%E6%89%80+%E5%A4%AA%E5%B9%B3%E6%B4%8B+%E5%A1%9A%E6%9C%AC%E5%8B%9D%E5%B7%B3+%E8%AA%BF%E6%9F%BB+%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8A%E6%B5%B7%E5%B6%BA&client=app-vertex-grounding&safesearch=active\">ウナギ 産卵場所 太平洋 塚本勝巳 調査 マリアナ海嶺</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B8%A1%E3%82%8A%E9%B3%A5+V%E5%AD%97%E9%A3%9B%E8%A1%8C+%E7%BF%BC%E7%AB%AF%E6%B8%A6+%E7%9C%81%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC+%E4%BA%A4%E4%BB%A3+%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">渡り鳥 V字飛行 翼端渦 省エネルギー 交代 ネイチャー 科学</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIep2lLnrtz3w53EVt8emdAFVSx8_UsmWac5wxa8K479FiKPx3Qe_mYDnqrYzdjTfIhDTZ2j4H48pfJFSt4sI7cn3bNwughO5oiGm1noTPrRCHJxZH-09y9vso-g3j4un7hv8=",
-          "title": "anjo-tanabata.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5XvzVVfhsVNNWveVLqI7AgkmB9PMhU0beQgt_c8lq8P8o72nh89VJU3r7htFuZv4a4GS5rSausPjZs-Fbc7Hfw2e1GRQQVM6axFD04-33fakWsFbPynDwxCQgUF6OBFQ=",
+          "title": "oota8.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEShqZVCOiCHfXfQQR09_I4-t0WKUl32PTACZu-3PXzKtYRK239-XYsXJsoQlrzGbFCAoyk1rjhJWf9yoWD5ZfRdp-I6I3P-obMqjKnebbPtbE30GvDzsoJ",
-          "title": "ansyobunka.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKQqbvy5NF07NDW_vjrKGLCQeqknLl512wOQR_Dc-3G6Ar2ZixVeP7Yaw4IZehopUoZek5MEl1okrEFuXCDUfvsaP4GVS4xdH2odkdDCwtI6mwJot7wVoVhwFvf8_nIq8lpW3DdN0BG61DVQ==",
+          "title": "ameblo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7H-beaA_TBKoxb0csrum7tgLMkcOPDPKllB4d8VnTyzfF7OmqBVI4NFa3gAcxDTEBCH-POlMys0AELjrfx_t5fa-OAzMf19aGcMzZVEsbymFaACKhTkS2odSn9JHrR0GlAc6vsAS91xX_aQ==",
-          "title": "pref.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ8NK87OJJu0id7JPJUnNe7akMyToz5nJR2mq4MgVNq4ry24fCvr62-6YaJ3y58fG-T_SXMQwKXwvEcY87GaDhZ0E75jfInG0hlkgMqRLtD_GkQbkF1vARHVQl",
+          "title": "exblog.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd0d-u9IWx2UGNU8byheMQhPaYRRCaHbMsEqcRFh0ov3czLLYlSvjC34byjycxVlYPU1TXRA8WdAwjytYS5C4-azcdyUuaQjEky10Ku5Uob70GfMw--D4-SsasJ1fuWw1L40ND3dtO",
-          "title": "bunka.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY8yCf82nZ7NfyidNJ2P9zsCMefu_bIcYYPctcZ4bS8bkx_p3FpKlz9D7kW_t_5_nQ6N6hasU8yL5-peTRKdg9cv2teaUkijjCqoTTO-zQWzCFfPfCn2UOU99BKQ==",
+          "title": "exblog.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRhKsLLeVvwUoUOxn4irHTsT8WYxO3C1hEdhhnHllL2sbnqH7cdExpAHdDX5JswC6dqubqy179yv5Zg_4PbUWU5zbwwPSGv7ZGdi-FvNTaeZQXkhw_0-o=",
-          "title": "ansyobunka.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkkElDCUPjp8UoKomAKVNYyyz6xPwlxb9WM6WSPqbZkrgbeUHjQmQCd7Z388X69YIrgVKeFuYLQLhOHuZ4l8owZEPPaClKkuUoFtLVZVB3-CIDsqI2wHek_0e6JqNR",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyInMgGqh7dpca7byc9n2n8Gh0UoTrVOoWViIoPal55rU5C4gIdkzp7MQ8yuF4gh9fIWlbBSbpfe2RFoKgCeFIh_jy6R6Zksgq0uOQBZ-oQgkY352ro1L0D1AQCyHmtL5etok5tKAm4G5tOaOJhHq67Ord-Q==",
-          "title": "city.nishio.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo4MmifqynkQOQSR9fcrQVgqBbLVec7w_mt6NfltPJm4Gt4Ne5ac-vmpduvkufFC8dolFr9PRow-Zgsio_sKlPJTWgUrZ49o70nyT8a5oZHVY_xr_etSWrFeXfsZmSXuPeCIMy",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYBLidTsgmH1Xyve5fNOuss44f2oaeIhchwXJ4F_1Z7r3RRT6v1Chs8g33HUXKEyq8XfpnNmkBIvbSAGCfSZxJULTBegKWr1L0iO8kyhEeTnMKtXyrB1GIoiA=",
-          "title": "anjo-tanabata.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-nJUqKTr9ljkhitRvlfBf9bGmVsRqTGH2_uIapmYMClaEbISINa_lVytCtn3NMKq4IG_LPnptEfdJlsvZieHDza-XtDhYtodAxYoL9pFQjaXM0Zk0tbnd5IJlGzJ6VCRHjR0",
+          "title": "spf.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRlce7iOSRFkmzlrv9g6wEtChnGwgd7ylJ473tNtdlF3Uj9jpbSd7n-5JRFjznf9jiA2Nm0iGOKUnc64vShdWei3KMGDzF9YshvpsWkGcFSjWAIz1GeENr",
-          "title": "anjo-tanabata.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEke7FBB_tM8C_6Ree9ajqfelS4YAnMW3iMbH2blOvKJLWb9oh6kfxUXsUlhQzRf3jXRXAM-LXTY9idgG6QuOUcsdbRBO0A1kgKz4cl2s6Wa-poWjD7FgSkKptjK-wvRUe3gQ==",
+          "title": "bluehub.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWt5pwvdxvjJUO-VqW6cy-0SGGg7NbA9KeD5vCwD2FzpyzOyyy2pkaRzQwiGdUezc1_QUx1D3s0Bir8uIBQm7wm1NYi2JG-PRjrugZoKOg9qUXCZ6O0kJk8Uj95OQ3Nv59JGVcF8tTQFvaQbZfqTDDQw==",
-          "title": "city.anjo.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNYEWUvwCJNqGRiWq1dbYlrf2bJeP9_XJsc1R07mSSEs8Vx3ccf1x58kquaPDR6aqNnQQ2CnWzi8ccZ98X1Lswu6dlLnrmfzP0rn7a1QYlM6QDquQzlmuOEGuNDmaO5QkY",
+          "title": "senri-life.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIAbTxdoMnXhur-atjfwu6F4AJBSreRQvsmUyB593eRCTbITXz_SbIaxNTIDZONL2adARb-imCTy3zPuCJkRln23C2i1pUo29-6At7IT1kRQfs3y3eO9b5X_PDjNxVMdl3Elzd",
-          "title": "makita.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAEqYFPHL7B_vLuYomReoZjt2Ld_akFSVhp5kIIY_deN5HdaACq2QgTvqiPskuShRTrpUM5QFwPxNlmJ123Q1wPxofYesrGf3F6tknCHLgp0g3MKpqULdb9rD0ahBvjZo=",
+          "title": "flintstone.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGls3N5kOXZeIy_PRYrwth43PyNtcOwbQFJCSB5F1oHa-IJpGL-hOkMJFBV71rz3zNW1XIxTW8vPQOhu8AbedbkCzGCqUgSRemFbQQ-dMX4H_OuLIAx7IP5ixzRgK1zi1E=",
-          "title": "makita.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5nCNn-pr8Z7WRlq6u86DKoK5dO9L109h5TdaX4-_1FLpse61orpr3nyGoZodVN5SwmttIJFezStO0yvLfbiz0o5OD6XgcS4ZaHhv9CH5p37d7XW1aKnSHGdjieYdTqJBw_72HQY8wI0zmCjuJJg==",
+          "title": "u-tokyo.ac.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9xQahlGG1wDvHvwUanWLZMT8KxqGPkMeKnPe_Zl6Tjr6tNbXDso_ccWh5uC3ftu22RUU9lwr94eda1hoA2L5E3QDLddpWh2DivjuhvQ0MNxe-gk3tuwYFtr7-OMJMJnMvClPV5-MsxFQv",
-          "title": "jsme.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj8Ns-zBGrxbIP1Qkbal93YeZokSvn0IBUW4bzKWZkIgvMnS-su7MNBDanJdVQ5ACOBkT_mnvOz9k4O8Ri072Nq3NrEGS28wloCvGdY91DFRMNYqwEgcVKB_U-1q70TQ==",
+          "title": "core.ac.uk"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1yuqoqN_mtFxu0sZB1WVxjr2-e2CP6yJqjxcFvxcIieSFzZpYpVbuYH8mjbiDnGL8GAZR9Ra4Zdc8Kn2NFh3gxrU8FM-pQMT89Lno_f3kcAaFDrK8dA==",
+          "title": "phys-edu.net"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHROafPivhD7D5BsiXfDawdkUStcQyX7f9dNCQlCHMdEutVrY8-eGX13AJtp8XNDvOXoHw04u84vuOxn6AR2NpjWB5Fa7uK0hRKlPPw2Eyy7pB_jUfgCyglB4ddmkd-S6QmMQ16G3MQFI6Ekqn-rpgQhfOFpwg7mhkD3I1AXZCsPkDyXDiQ5h-ugbt8RUhPP0tPQwviRWek2KwotWq83hPg1a_cy_pfTh0iJnTYUc-InJg0KekLy3Q1BmJ0a5kDpP6QUJGYeuaeBgmWAM8rRvA5tHZE2a1sJoCPaC3YKNiAU_J_bn5zLQBXT67uQ24TU8yvSiEnUBR8-FlgTNENDfRyIVsTgpu6PUH6X-nfZL-IDCvMZKoz9RPHOA==",
+          "title": "natureasia.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvoQZdKH2gatHVrB_kSlWJi5RwEQ9j0oJyVIRpnV43g7X3WHIz5P8mi6HSZjXsghdRFV03WQRg8YGGE_Ezopx90p9LlQcXp_j1_jK6i9wGrRlRWNvhJtgB7UTh51xPv3qCU1TbHF4ve-Nz",
+          "title": "yumenavi.info"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8yjDWBq1GD0UMr8l_ktAR82FJUo357OVYArMDduIu02YBu6JpZHAEA5HIEe2hNc_9rmyiKkjcRdoREKA_cgl8k1NAWtuOoi7GBipZhryAQsTS_ehmE7n-xqzDVZ0EYV9W4vbZ3JHC",
+          "title": "ameblo.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCmh0T0TT7gNqodgyJ6SzCOuHh4x_Ds3HnOcdG0cnXTl1LvBya73zzwJszNQetk5YEMK6kfC2LTacwMdvFHSW7PW9QJ4a7FZARIOgrh2AQD8f9ZASaSaBjti6vftL0F7BC",
+          "title": "youtube.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWQG4goGUhGlLchOTLrDqMEVxkOdi_tNHXcHfDWBz_rbN9qFviThVP5cb7F4VxD3XRvpNCt4i4R0v0ojyWEb7F26Z9d_uNbR9Sectu-jRHBGlC7U3ndTTuNAnPByfg0ByIQHMOGhesKP_leqw=",
+          "title": "kojiroo.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEkikgzfyqTlsFm6YrXUbxRai1DZhpN_5EAk0cmeUIetjOWG3uxuMjB1E0tlZrgimY-u9z8yIOj1M-KvGjbmzbHDrXVemTuYGNpbyPJWAUZkpaihlnY0Csh6WCvUftEn-hVsNxviOIa0FCV40-AXeUTGUoHcKIPWMBkH-GF11iNDU=",
+          "title": "ndl.go.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHclrV5lLwTShUPEQ94GdwEdEof6d9xV8g9yO73hBJowYi6UD8FBMEY8XsJ3EAci2TP3USKiCx8NQhjaCd4k6vvEQ7j0qZhhARJI8Vw2ABwNQ2zlTs-AOoVOETUnkQb",
+          "title": "afpbb.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNJuJCGDaUY9ZRVjxqAM1bzgfmX53TVNR2-JHoqBlCI_uXfdeMf0Yk-VIyaUPR2o5d_53H4pXSPjXthfEHmCYkLsZwnmYBCy4GZ92jGPoURpwF1YakOnDYHMVlzKzmhfgnMg==",
+          "title": "note.com"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 2449,
-          "endIndex": 2553,
-          "text": "安城市観光協会 家康公特設サイト コラム「家康と安城 第1回 家康と安城城」"
+          "startIndex": 895,
+          "endIndex": 1159,
+          "text": "平安時代の文献にも登場する「ブッ・ポウ・ソウ」という仏教の三宝を称えるような鳴き声は、古くから青緑色の羽を持つ美しい夏鳥「ブッポウソウ（仏法僧）」の声だと固く信じられてきました"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1162,
+          "endIndex": 1261,
+          "text": "しかし、実際のブッポウソウの鳴き声は「濁ったゲッゲッという声」です"
+        },
+        "groundingChunkIndices": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1264,
+          "endIndex": 1420,
+          "text": "実際に「ブッ・ポウ・ソウ」と美しく鳴いていたのは、夜行性で見つけにくい小型のフクロウ「コノハズク」でした"
+        },
+        "groundingChunkIndices": [
+          2,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1459,
+          "endIndex": 1609,
+          "text": "**誤解が解けるまで約1,000年**：平安時代から昭和初期まで、日本中が姿の美しい鳥と声を混同し続けていました"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1615,
+          "endIndex": 1695,
+          "text": "**鳥の大きさ**：姿の美しいブッポウソウはハト大（約30cm）"
         },
         "groundingChunkIndices": [
           0
@@ -167,9 +256,54 @@
       },
       {
         "segment": {
-          "startIndex": 2558,
-          "endIndex": 2618,
-          "text": "安城市歴史博物館「家康ゆかりの地・安城」"
+          "startIndex": 1615,
+          "endIndex": 1795,
+          "text": "**鳥の大きさ**：姿の美しいブッポウソウはハト大（約30cm）、声の主であるコノハズクは体長約20cmと日本で最小クラスのフクロウです"
+        },
+        "groundingChunkIndices": [
+          0,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1817,
+          "endIndex": 1998,
+          "text": "「声の仏法僧（コノハズク）」と「姿の仏法僧（ブッポウソウ）」という、同じ名前を巡る“2種類の鳥”が存在することになりました"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2001,
+          "endIndex": 2184,
+          "text": "この真実が明らかになったことで、愛知県は昭和40年（1965年）に「声の仏法僧」であるコノハズクを愛知県の「県鳥」に指定しています"
+        },
+        "groundingChunkIndices": [
+          0,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2209,
+          "endIndex": 2330,
+          "text": "この千年の謎が解けたきっかけは、愛知県奥三河の**鳳来寺山からのラジオ生中継**でした"
+        },
+        "groundingChunkIndices": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2333,
+          "endIndex": 2485,
+          "text": "1935年（昭和10年）6月7日、日本放送協会（現NHK）名古屋中央放送局が鳳来寺山から全国へ鳴き声を生中継しました"
         },
         "groundingChunkIndices": [
           1
@@ -177,89 +311,84 @@
       },
       {
         "segment": {
-          "startIndex": 2623,
-          "endIndex": 2728,
-          "text": "愛知県観光コンベンション推進局「あいち歴史観光：安祥城址（安城城跡）」"
+          "startIndex": 2488,
+          "endIndex": 2821,
+          "text": "すると、東京・浅草の傘店主から「自宅で飼っている鳥がラジオの声に反応してまったく同じ声で鳴き始めた」と連絡が入り、鳥類学者の黒田長礼らが調査した結果、その飼い鳥がコノハズクであることが確認され、長年の謎が一気に解決しました"
         },
         "groundingChunkIndices": [
-          2
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 4948,
-          "endIndex": 5003,
-          "text": "文化庁 文化遺産オンライン「三河万歳」"
+          "startIndex": 2828,
+          "endIndex": 2901,
+          "text": "**出典・根拠**：愛知県広報資料「愛知県のシンボル」"
         },
         "groundingChunkIndices": [
-          3
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 5008,
-          "endIndex": 5080,
-          "text": "安祥文化のさと（安城市）「歴史・文化：三河万歳」"
+          "startIndex": 2828,
+          "endIndex": 2952,
+          "text": "**出典・根拠**：愛知県広報資料「愛知県のシンボル」、新城市鳳来寺山自然科学博物館資料"
         },
         "groundingChunkIndices": [
-          4
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 5085,
-          "endIndex": 5172,
-          "text": "西尾市公式ウェブサイト「三河万歳（国指定無形民俗文化財）」"
+          "startIndex": 2828,
+          "endIndex": 2985,
+          "text": "**出典・根拠**：愛知県広報資料「愛知県のシンボル」、新城市鳳来寺山自然科学博物館資料、日本鳥学会誌報告記録"
         },
         "groundingChunkIndices": [
-          5
+          1
         ]
       },
       {
         "segment": {
-          "startIndex": 7339,
-          "endIndex": 7456,
-          "text": "安城七夕まつり協賛会（事務局：安城市商工課）公式サイト「安城七夕まつりの歴史」"
+          "startIndex": 3334,
+          "endIndex": 3557,
+          "text": "川や湖で長く暮らすウナギですが、卵を産む場所は日本の河川ではなく、日本から南へ約3,000km離れた西太平洋の深海（マリアナ諸島西方、西マリアナ海嶺付近）です"
         },
         "groundingChunkIndices": [
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7461,
-          "endIndex": 7567,
-          "text": "安城七夕まつり協賛会 公式サイト「『日本三大』から『願いごと日本一』へ」"
-        },
-        "groundingChunkIndices": [
+          5,
+          6,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 7572,
-          "endIndex": 7634,
-          "text": "安城市役所「第73回安城七夕まつり」観光案内"
+          "startIndex": 3560,
+          "endIndex": 3666,
+          "text": "成長した親ウナギは海へ下り、新月の夜、水深150〜200m付近で一斉に産卵します"
         },
         "groundingChunkIndices": [
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9793,
-          "endIndex": 9851,
-          "text": "株式会社マキタ 公式ウェブサイト「沿革」"
-        },
-        "groundingChunkIndices": [
+          8,
+          7,
           9
         ]
       },
       {
         "segment": {
-          "startIndex": 9856,
-          "endIndex": 9948,
-          "text": "株式会社マキタ 公式ウェブサイト「マキタ早わかり：HISTORYあゆみ」"
+          "startIndex": 3669,
+          "endIndex": 3922,
+          "text": "生まれた赤ちゃん（レプトセファルス）は柳の葉のように平たく透明な体を持ち、北赤道海流と黒潮という海流のベルトコンベアに乗って、約半年から1年かけて日本近海へ運ばれてきます"
+        },
+        "groundingChunkIndices": [
+          10,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3961,
+          "endIndex": 4082,
+          "text": "**回遊距離は往復約6,000km**：親が南へ3,000km下り、生まれた稚魚が3,000kmかけて戻ってきます"
         },
         "groundingChunkIndices": [
           10
@@ -267,20 +396,312 @@
       },
       {
         "segment": {
-          "startIndex": 9953,
-          "endIndex": 10056,
-          "text": "一般社団法人日本機械学会「機械遺産 第110号 携帯用電気カンナ モデル1000」"
+          "startIndex": 4088,
+          "endIndex": 4251,
+          "text": "**採集された卵**：2009年5月22日、東京大学の研究チームが世界で初めて31個の天然ウナギ卵を採取することに成功しました"
         },
         "groundingChunkIndices": [
+          5,
           11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4273,
+          "endIndex": 4444,
+          "text": "「川魚」のイメージが強いウナギですが、進化の歴史をたどると元々は水深数百メートルの深海に暮らす「深海魚」が祖先です"
+        },
+        "groundingChunkIndices": [
+          8,
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4447,
+          "endIndex": 4621,
+          "text": "エサが豊富な陸の川を利用するようになっただけで、産卵という命の原点だけは太古の故郷である外洋の深海で行い続けています"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4742,
+          "endIndex": 5054,
+          "text": "古代ギリシャの哲学者アリストテレスは「ウナギには卵も精子もないため、泥や大地のはらわたから自然発生する」と考え、日本でも江戸時代に「山芋が変身してウナギになる（山芋変じて鰻と化す）」と本気で信じられていました"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5057,
+          "endIndex": 5173,
+          "text": "人類がウナギの産卵場所を突き止めるまでに、実に2,000年以上を要したことになります"
+        },
+        "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5180,
+          "endIndex": 5283,
+          "text": "**出典・根拠**：東京大学大気海洋研究所（塚本勝巳教授らの研究成果報告）"
+        },
+        "groundingChunkIndices": [
+          5,
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5180,
+          "endIndex": 5313,
+          "text": "**出典・根拠**：東京大学大気海洋研究所（塚本勝巳教授らの研究成果報告）、海洋政策研究所資料"
+        },
+        "groundingChunkIndices": [
+          6
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5760,
+          "endIndex": 5826,
+          "text": "毛細管現象」と「凍結」が連動して起きています"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5829,
+          "endIndex": 5898,
+          "text": "地表が氷点下になると、まず地表の水分が凍ります"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5901,
+          "endIndex": 6087,
+          "text": "すると、凍っていない地中の水分が、土の粒と粒の微細な隙間（毛細管）を通って、吸い上げられるように地表の凍結面へと補給されます"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6090,
+          "endIndex": 6297,
+          "text": "水は凍るときに体積が膨張するとともに、下から次々と水が供給されて氷の底面で凍り続けるため、氷が地面から上に押し出されて柱状に伸びていきます"
+        },
+        "groundingChunkIndices": [
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8432,
+          "endIndex": 8549,
+          "text": "鳥が翼を羽ばたかせると、翼の先端から空気の渦（翼端渦：よくたんか）が発生します"
+        },
+        "groundingChunkIndices": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8552,
+          "endIndex": 8771,
+          "text": "この渦の内側（鳥の真後ろ）には強い「吹き下ろしの風（下降気流）」が発生しますが、翼端の外側（斜め後ろ）には「吹き上げの風（上昇気流）」が発生します"
+        },
+        "groundingChunkIndices": [
+          14,
+          17,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8774,
+          "endIndex": 8939,
+          "text": "後続の鳥は、この前を飛ぶ鳥が作った上昇気流に自分の翼を重ねることで、少ない力で揚力を得て楽に飛ぶことができます"
+        },
+        "groundingChunkIndices": [
+          14,
+          18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8942,
+          "endIndex": 9127,
+          "text": "真後ろにいると強い下降気流に叩き落とされるため、一番得をする斜め後ろへ1羽ずつズレて並んだ結果、自然と美しい「V字」になります"
+        },
+        "groundingChunkIndices": [
+          18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9166,
+          "endIndex": 9577,
+          "text": "**ミリ秒単位の同調**：2014年に科学誌『Nature』に掲載された研究（英国ロンドン大学チーム）によると、後続の鳥は前の鳥の約1メートル斜め後ろをキープし、上昇気流を最大限利用するために前の鳥の翼の動きに合わせて羽ばたきのタイミングを数ミリ秒単位で完全に同期させていることが実証されました"
+        },
+        "groundingChunkIndices": [
+          13,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9583,
+          "endIndex": 9795,
+          "text": "**航空機への応用**：この鳥の知恵を真似て、大型旅客機同士を編隊飛行させる実証実験では、後続機の燃料消費が約5〜10%削減されることが確認されています"
+        },
+        "groundingChunkIndices": [
+          14,
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9817,
+          "endIndex": 9938,
+          "text": "「V字の先頭」を飛ぶ鳥は誰の上昇気流も受けられないため、最も体力を激しく消耗します"
+        },
+        "groundingChunkIndices": [
+          14,
+          20,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9941,
+          "endIndex": 10121,
+          "text": "そのため、先頭は固定された群れのリーダーではなく、疲れたら列の後ろに下がり、別の鳥が交代して順番に先頭を引き受けています"
+        },
+        "groundingChunkIndices": [
+          14,
+          20,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10401,
+          "endIndex": 10701,
+          "text": "しかし、GPSや加速度計を鳥の背中に取り付ける超小型データロガーの開発により、鳥たちが意識せずとも気流の圧力変化を身体で感じ取り、完璧に省エネポジションを捉えていることが現代のテクノロジーで証明されました"
+        },
+        "groundingChunkIndices": [
+          13,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10755,
+          "endIndex": 10869,
+          "text": "J. Portugal et al., 2014: *Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight*）"
+        },
+        "groundingChunkIndices": [
+          13,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11154,
+          "endIndex": 11330,
+          "text": "約1,000年間、青い鳥のブッポウソウの声だと信じられていましたが、実は小型のフクロウ「コノハズク」の声だったと判明しました"
+        },
+        "groundingChunkIndices": [
+          2,
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11469,
+          "endIndex": 11606,
+          "text": "**1番**：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 11889,
+          "endIndex": 12026,
+          "text": "**1番：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた**"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12069,
+          "endIndex": 12183,
+          "text": "昭和10年6月、NHK名古屋放送局が鳳来寺山から鳥の鳴き声を全国ラジオ生中継しました"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12357,
+          "endIndex": 12375,
+          "text": "と驚いて連絡"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12378,
+          "endIndex": 12546,
+          "text": "鳥類学者が駆けつけて調べたところ、その飼い鳥が「コノハズク」だと判明し、千年の謎が電波に乗って一気に解決しました"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 12549,
+          "endIndex": 12636,
+          "text": "ラジオというメディアの歴史にとっても伝説的なエピソードです"
+        },
+        "groundingChunkIndices": [
+          1
         ]
       }
     ],
     "webSearchQueries": [
-      "マキタ 本社 安城市 歴史 国産初 電気カンナ",
-      "安城七夕まつり 歴史 願いごと 竹飾り 日本一 由来",
-      "安城松平家 徳川家康 安城城 歴史 三河統一",
-      "三河万歳 江戸城 正月 徳川家康 特権 安城"
+      "霜柱 メカニズム 毛細管現象 持ち上げる力 国立科学博物館 OR 気象庁 OR 大学",
+      "愛知県 コノハズク ブッポウソウ 鳳来寺山 ラジオ放送 鳴き声",
+      "ウナギ 産卵場所 太平洋 塚本勝巳 調査 マリアナ海嶺",
+      "渡り鳥 V字飛行 翼端渦 省エネルギー 交代 ネイチャー 科学"
     ]
   }
 }
