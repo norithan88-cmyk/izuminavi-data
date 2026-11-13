@@ -1,39 +1,43 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "科学・自然のなぜ",
-  "characters": 2260,
-  "estimated_minutes": 6.8,
+  "theme": "週末のお出かけ・楽しみ",
+  "characters": 2316,
+  "estimated_minutes": 7,
   "saturday_story": null,
   "listener_notes": [],
   "quiz": {
-    "question": "和泉そうめんは製麺所ごとに個性豊かですが、たつみ麺店が獲得した海外の賞はどれでしょうか。1番、モンドセレクション金賞。2番、ノーベル平和賞。3番、アカデミー主演男優賞。",
-    "answer": "正解は1番のモンドセレクション金賞でした！iTQi最優秀クリスタル味覚賞も獲っとるんだに。世界も認める味ってわけじゃんね。アカデミー賞獲ったら麺がオスカー像になっちゃうわ！",
+    "question": "日間賀島名物のタコ壺漁。壺にはフタも仕掛けもないのに、タコが逃げ出さない理由は何でしょうか。1番、水圧で動けない。2番、狭い所が好きで自ら出たがらない。3番、壺の中に高速Wi-Fiが飛んどる。",
+    "answer": "正解は2番、狭い所が好きで自ら出たがらない、でした！暗くて狭い壺に体が密着すると安心しきるんだって。引き揚げられても奥で踏ん張っとるらしいよ。…って、タコが壺で動画見とるわけないだら！",
     "source_ids": [
-      1
+      17,
+      18,
+      19
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcQ7OXGw01Y7_L2eNmdqRR6ijECVgAdk0dojtmBdE1i9Fh8YZQ6u9DP_3NWZqSrV4L6x2NqUU5rsX1MvdkXKpgT4jlgWRTEOax_O7azqn3y90xa5yPOkFmvFpBf4uXbHQUs5l41IL0EK68bQ1F21fxmdJ0w==",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaUxlna5M_erhV_vhNWAOEzaUt0KVvRCP1ySzhVfeWyEqFoCyKxOUNQn4FaEOG895KMXmTHdhIBgfudYhzEqiCgIZNof9LIC0Zr_95gi4jFRZn8uOWXZt8gmyfeTjhNqVto5pHMeC6eM6z",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFydD1nTiEjBePJQW5ONqaOdprT9ci8aKKiNK2c1ddFPpEQNbS2nnP7vxJ1WwoNVAsBp_WhBA9bilHJTporStBGi9k7nk33d0D7JUqXdwzoLbxt_E6FNnEt4Wn1KuYxDKFzn9EpBNqAU-GdxWpeBRHFxzhlms7NTON9xkmf6x66"
     ]
   },
   "izumi": {
-    "text": "みおんの和泉ディープ！今日は和泉町が誇る「そうめん密集地帯」の自慢合戦だよ！和泉町って、歩いとるとあちこちに製麺所があってびっくりせん？天明の大飢饉をきっかけに小麦で作られ始めて約250年の歴史があって、今もたくさんの名店が腕を競い合っとるんだよね。例えば、間杉手延製麺所！ここは麺を3メートル以上の長さのまま商品にした「日本一長い手延べそうめん」があるんだわ。3メートル超えって、今ならSNSで完全に大バズりするやつじゃんね！おうちの台所でどうやって茹でるんって突っ込みたくなるけど、この長さこそ職人技の結晶なんだよ。そして、たつみ麺店は1975年創業で、なんとモンドセレクション金賞とiTQi最優秀クリスタル味覚賞を受賞！小さな町の麺が世界トップの審査員を唸らせとるって、凄すぎて鳥肌立っちゃうわ。他にも1974年設立の和泉そうめん丈山の里や、和泉麺店、みや子製麺があって、1976年創業の丈山の里いずみ庵本店に行けば、そうめんだけでなく、ひやむぎ、うどん、きしめん、味噌煮込みうどんまで食べられるだに！長うどんや長きしめんもあるんだよ。同じ町の中に「日本一長い」とか「世界の賞」っていう強烈な看板を背負った製麺所がギュッと集まる和泉町、マジで麺のドリームチームだら！胸張って自慢しりんね！",
+    "text": "和泉が生んだスーパースター、石川丈山を深掘りするコーナー！今日は京都のお話だに。丈山は59歳のとき、京都の一乗寺に「凹凸窠（おうとつか）」っていう山荘を建てました。これが今の詩仙堂じゃんね。おうとつかって、デコボコした土地に建てたからそのまんま名付けたらしいんだけど、ネーミングセンスが率直すぎて愛おしいよね。で、この建物のハイライトが「詩仙の間」。中国のすごい詩人36人を丈山が自ら厳選して「三十六詩仙」ってグループを結成させたの！これ、今で言えば自分の推しを集めたアイドル総選挙の選抜メンバーじゃんね！しかも絵師の狩野探幽に肖像画を描かせて、その上に丈山が自分で隷書の漢詩を書いたんだわ。日本で隷書をいち早く取り入れた書家としても知られとるけど、推しへの情熱がものすごすぎる！ここで庭園を眺めたり煎茶を飲んだりして、漢詩集の「覆醤集」をまとめながら、なんと90歳まで長生きしました。江戸時代の文献「煎茶綺言」では「煎茶の祖」の一人にも数えられとるんだよ。武士を引退したあとに自分の好きをとことん極めて、30年も推しに囲まれて風流に暮らすなんて、理想のセカンドライフすぎるら！京都の有名スポットの原点が、ここ和泉の丈山にあるって思うと、めちゃくちゃ鼻が高いじゃんね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/somen/"
+      "https://anjo-izumi.life/jyozan/"
     ],
     "angle": {
-      "id": "somen-shops",
-      "hook": "小さな町に製麺所がいくつもある『そうめん密集地帯』と、日本一長い・受賞歴などそれぞれの自慢"
+      "id": "jozan-shisendo",
+      "hook": "京都の詩仙堂。おうとつかという変わった名前と、詩人36人のアイドル選抜"
     }
   },
   "local": {
-    "text": "今週末の11月14日土曜日に、「中部公民館ふれあいウォーキング」が開催されるよ。最近運動不足かもって思っとる人や、秋の風を感じてリフレッシュしたい人にぴったりじゃんね。詳しい情報は安城市のホームページに載っとるもんで、気になる人はぜひチェックしてみてりん！",
+    "text": "明日の11月14日土曜日に、「中部公民館ふれあいウォーキング」が開催されるよ。秋風を感じながら外を歩くのって気持ちいいじゃんね。参加する人は水分補給を忘れずに、足元に気をつけて楽しんできてりん！",
     "source_ids": [
-      24
+      30
     ],
     "source_urls": [
       "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
@@ -41,169 +45,215 @@
   },
   "segments": [
     {
-      "topic": "西三河名物ウナギの故郷は3000キロ彼方の深海だった！？",
-      "text": "麺の長さに驚いたところで、今度は長ーいアイツのびっくりするお話！西三河といえば、お隣の西尾市一色町をはじめウナギが身近じゃんね。香ばしい蒲焼きの匂いを想像しただけで、お腹が鳴りそうだわ。…って、みおんAIだから胃袋ないんだけどね！ところでウナギってどこで生まれるか知っとる？川におるんだから近所の川底…と思ったら大間違い！なんと日本から南へ約3000キロ離れた、太平洋のマリアナ諸島の深海まで行って卵を産むんだって！えっ、ちょっと待って！3000キロって、安城から東京を何往復する気なのん！？しかも生まれた赤ちゃんは透明で柳の葉っぱみたいな姿で、海流に乗って半年から1年かけて日本へ泳いで帰ってくるんだに。往復で約6000キロの大冒険！スケールがでかすぎてアゴが外れそうだわ。昔はこの秘密が分からんで、アリストテレスは「泥から自然発生する」って言うし、江戸時代の日本でも「山芋が変身してウナギになる」って本気で信じられとったらしいよ。山芋が蒲焼きに変身したらびっくりじゃんね！実はウナギの祖先は深海魚で、大人になって川に遊びに来とるだけなんだって。命のふるさとが遥か深海だなんてロマンがあるよね。今日ウナギを食べる人は、3000キロ泳いだ奇跡に感謝して食べりん！",
+      "topic": "蒲郡みかん狩りの畑が真っ白になる驚きの理由",
+      "text": "週末のドライブといえば、蒲郡のみかん狩りなんて最高じゃんね！もぎたてをその場で頬張ると、果汁がじゅわっと溢れて甘くて濃くて、何個でも食べられちゃうやつ。でもね、晩秋の蒲郡のみかん畑を山の上から見ると、雪でも降ったのかってくらい地面が一面真っ白になっとるの、知っとる？えっ、ちょっと待って！温暖な三河湾の目の前なのに、みかん畑だけ豪雪地帯！？…って、そんなわけないじゃんね。実はあの白いの、農家さんが地面に敷き詰めた「マルチシート」っていう特殊な白いシートなんだわ！なんでそんなことするかというと、あえてみかんの木を喉カラカラの極限状態に追い込むためなんだって！シートで雨水をシャットアウトして水分を制限すると、木が「やばい、水がない！」って危機感を持って、果実に糖分をギュギューッと濃縮させるらしいの。おまけに白いシートが太陽の光を下からもギラギラ反射するもんで、お腹の底まで日光を浴びてムラなく真っ赤に熟すんだわ。めちゃくちゃスパルタ教育じゃん！甘やかすんじゃなくて、水分ストレスを与えて甘くするなんて、農家さんの知恵に脱帽だに。蒲郡のみかん作りは江戸時代の延宝7年、1679年の記録にも残っとるくらい歴史が深くて、温室みかんの生産量は佐賀県に次ぐ全国2位！今度みかんを食べるときは、喉の渇きに耐えて甘くなったみかんの根性に感謝しながら味わってみりん！",
       "source_ids": [
-        8,
-        12
+        2,
+        4,
+        5,
+        6
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-nJUqKTr9ljkhitRvlfBf9bGmVsRqTGH2_uIapmYMClaEbISINa_lVytCtn3NMKq4IG_LPnptEfdJlsvZieHDza-XtDhYtodAxYoL9pFQjaXM0Zk0tbnd5IJlGzJ6VCRHjR0",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5nCNn-pr8Z7WRlq6u86DKoK5dO9L109h5TdaX4-_1FLpse61orpr3nyGoZodVN5SwmttIJFezStO0yvLfbiz0o5OD6XgcS4ZaHhv9CH5p37d7XW1aKnSHGdjieYdTqJBw_72HQY8wI0zmCjuJJg=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEebO_BqiKa7yUjaLSfcUPBU6zgw-_ensSXbEtcvaEhjEz75GWtIzM6tKFg9I9De62_gMH-Za0xHYlYJoHo2RuVXldTU4iqR31zT9fQafZYizqjwh_C1Dmd_COP",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsckUgsoYBNTv3vrE_qvAGcrnaBI5suRv_lnUV-ecSo6U_OKt0xH7NMX7mzd-wGiNGHyGz9WnWnPJCD2JCA6SJ3dgtJaVeD7wzSnBHPr6q3lE35YTaKbxRVVeZNnw=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHSDmG3i1EcdOxwAHJP9Qf3v3-9_fD1iHlp4CW3UE6TOXgy1oYXPEAIo-KSDIwg3_pSsK9xu2o1LNjsjj_RV435GBr1E2BKQjcXiccZIFPbmNR6Ab6SWKi13Ubm1DskmQrjYgCj4eb6zp9Vt4MZ84iErpTDkVzLHCtIqEZyQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3e7Qe12OUHN1nR9fUiKxs1uoZWfFEBECgUP0A00UiMGKqr7frGItocOgEj4paIgmsG27AleBUQ3eoYIDDLEa-y92PIKhgCbRGPKGemi-vMCz2vK92abtnsvarxmXEioMuDOwbM3P5xcbyK9yBV76C91azdQ=="
       ]
     },
     {
-      "topic": "渡り鳥がきれいなV字で飛ぶ納得の航空力学と助け合い",
-      "text": "海の大移動の話が出たついでに、今度は空を見上げてみりん！この時期、空を見上げると渡り鳥が綺麗な「V字」になって飛んどるのを見かけるじゃんね。あの隊列、リーダーについていく仲良しグループのお散歩…じゃないんだわ！あれ、ものすごい航空力学のワザなんだって。鳥が羽ばたくと翼の端から空気の渦ができて、真後ろには下向きの風が吹くんだけど、斜め後ろには上向きの「上昇気流」が起きるらしいの。つまり、前の鳥の斜め後ろを飛ぶと、下からフワッと持ち上げられて、めっちゃ楽に飛べるんだに！真後ろにおると叩き落とされるから、自然とV字になるんだね。しかも後ろの鳥は前の鳥の1メートルほど斜め後ろをキープして、羽ばたきのタイミングをなんと数ミリ秒単位で完全に合わせとるんだって。数ミリ秒って、まばたきより全然速いじゃん！鳥たちの神ワザ、聞いてないんだけど！でもさ、「先頭の鳥はずっと疲れるだけで大損じゃん！」って思わん？まさにその通りで、先頭は体力を激しく使うんだわ。だから先頭は固定のボスじゃなくて、「えらい！もう無理！」って疲れたら後ろに下がって、交代で順番に先頭を引き受けとるんだって。誰か1人に負担を押し付けない渡り鳥のチームワーク、見習いたいよね。今日の職場で誰かが疲れてそうだったら、すっと先頭を交代して助けてあげりんね！",
+      "topic": "足助宿の「塩直し」と敵同士が仲良く混ざり合った秘密",
+      "text": "秋のお出かけで山の方へ行くなら、香嵐渓のすぐ隣にある足助の古い町並み散策も外せんよね！黒塗りの壁や格子戸が並んで風情たっぷりだけど、昔あそこが「塩の道」の中継基地としてめちゃくちゃ栄えた町だったって知っとる？三河湾の塩田で作られた塩が船で川を上って、足助で馬の背中に積まれて信州の山奥まで運ばれとったんだわ。でもね、各地から届く塩俵って、重さも粗さもバラバラだったの。1俵15キロだったり22キロ超えだったりして、そんなの馬の両側に積んだらバランス崩して峠道でコケちゃうじゃん！そこで足助の塩問屋さんが編み出したのが「塩直し」、別名「足助直し」だに！町に13軒もあった塩問屋で、各地の塩を豪快に踏んで混ぜ合わせ、馬が左右均等に背負いやすい「7貫目」、約26キロの俵にきっちり詰め直したんだって。しかもこれ、ただ重さを揃えただけじゃないの。瀬戸内海の塩と三河の塩を絶妙に調合してにがりを調整したもんで、味がまろやかになって「おむすびや漬物に最高！」って信州で大評判のブランド塩になったらしいよ！さらに面白いのが歴史の裏話。忠臣蔵で有名な吉良上野介の三河の塩と、仇敵である浅野内匠頭の赤穂の塩が、ここ足助の樽の中で仲良くブレンドされとったんだって！人間同士はバチバチに対立しとったのに、塩は足助でがっちり握手して信州へ旅立っとったなんて、笑っちゃうよね！",
       "source_ids": [
-        15,
-        21
+        10,
+        11,
+        13,
+        14,
+        15
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHROafPivhD7D5BsiXfDawdkUStcQyX7f9dNCQlCHMdEutVrY8-eGX13AJtp8XNDvOXoHw04u84vuOxn6AR2NpjWB5Fa7uK0hRKlPPw2Eyy7pB_jUfgCyglB4ddmkd-S6QmMQ16G3MQFI6Ekqn-rpgQhfOFpwg7mhkD3I1AXZCsPkDyXDiQ5h-ugbt8RUhPP0tPQwviRWek2KwotWq83hPg1a_cy_pfTh0iJnTYUc-InJg0KekLy3Q1BmJ0a5kDpP6QUJGYeuaeBgmWAM8rRvA5tHZE2a1sJoCPaC3YKNiAU_J_bn5zLQBXT67uQ24TU8yvSiEnUBR8-FlgTNENDfRyIVsTgpu6PUH6X-nfZL-IDCvMZKoz9RPHOA==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHclrV5lLwTShUPEQ94GdwEdEof6d9xV8g9yO73hBJowYi6UD8FBMEY8XsJ3EAci2TP3USKiCx8NQhjaCd4k6vvEQ7j0qZhhARJI8Vw2ABwNQ2zlTs-AOoVOETUnkQb"
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7tp-uzoeSE0d0kg90FOFBmtNu5T_UwddZ0Y5UGihhl4pA7mQ6nGd8eDRarjM8kfGn1ulZb5h0rG5g3FCoo-Ghv2pp2N41o1xvQvgaeS2T96BrTJEjIls2CoNDxdt9R8mcK8Q=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4WxL1H9PVczXBCKyjNdAkX68G6-SjvzIWOBPQWamN7x5StFbfNibPQcihWdKYD27nEJr0WBcLjEYOI2IiPTaQojUTjk6ljMZJalbQNdWHlBFOQHdisHflXuPnw7ArthZCtr8zNYkE90ui46dRQCE=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFb-bPoFAfe21W-llFP5PAWhWgSi-pK8ow4umbnkN4wX6i94vnrMFS_8Q5ZgM4az1z8OHjjxwFTvMxbj-b3ZNBo4R0ioYjucp1pz4UMKHd2UTMcJ_vdaXcmQ8ZuGHIWThGXgVo",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFhDbFVTqHCy7hfjpE3PcDkELNntcVSFzV77F8bdhvPd1jKS-1KFEMpkRM0vTVfUoQ_aXL1fvO0Cghj_OQma3Xv0rdh55xpe3OkMQTVQfZh7w=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqLdqjA9Kz1Ult-yINMm67xxgJYUJ13BJLAMZbb86OW_rpupj7VQZlQdtdCeMSsLJ96d0wSdvZmrcsHpOLchNul2gsBrzzEONg8cVDIGKTAle2zqSzurw78KatuA4aCCzQLidBd63ae_ROXiFtHfjCYOU="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ放送に向けて、11月の初冬の時期にぴったりの「科学・自然のなぜ」をテーマにした調査メモを作成しました。愛知県や西三河にゆかりのある話題を交えつつ、公的機関や大学・研究機関の資料に基づく確かな情報で構成しています。\n\n---\n\n# ラジオ調査メモ：思わず話したくなる「科学・自然のなぜ」4選\n\n## 1. 千年の大誤解！「ブッ・ポウ・ソウ」と鳴く鳥の正体はブッポウソウではなかった！？（愛知・鳳来寺山）\n\n### 疑問\n森の奥から聞こえる「ブッ・ポウ・ソウ（仏・法・僧）」という神秘的な鳥の鳴き声。その声の主は、名前にそのまま付けられた美しい鳥「ブッポウソウ」ではなかった？\n\n### 理由（科学的なメカニズム）\n平安時代の文献にも登場する「ブッ・ポウ・ソウ」という仏教の三宝を称えるような鳴き声は、古くから青緑色の羽を持つ美しい夏鳥「ブッポウソウ（仏法僧）」の声だと固く信じられてきました。しかし、実際のブッポウソウの鳴き声は「濁ったゲッゲッという声」です。実際に「ブッ・ポウ・ソウ」と美しく鳴いていたのは、夜行性で見つけにくい小型のフクロウ「コノハズク」でした。\n\n### 具体的な数字や比較\n* **誤解が解けるまで約1,000年**：平安時代から昭和初期まで、日本中が姿の美しい鳥と声を混同し続けていました。\n* **鳥の大きさ**：姿の美しいブッポウソウはハト大（約30cm）、声の主であるコノハズクは体長約20cmと日本で最小クラスのフクロウです。\n\n### 意外な点\n「声の仏法僧（コノハズク）」と「姿の仏法僧（ブッポウソウ）」という、同じ名前を巡る“2種類の鳥”が存在することになりました。この真実が明らかになったことで、愛知県は昭和40年（1965年）に「声の仏法僧」であるコノハズクを愛知県の「県鳥」に指定しています。\n\n### 歴史の裏話\nこの千年の謎が解けたきっかけは、愛知県奥三河の**鳳来寺山からのラジオ生中継**でした。1935年（昭和10年）6月7日、日本放送協会（現NHK）名古屋中央放送局が鳳来寺山から全国へ鳴き声を生中継しました。すると、東京・浅草の傘店主から「自宅で飼っている鳥がラジオの声に反応してまったく同じ声で鳴き始めた」と連絡が入り、鳥類学者の黒田長礼らが調査した結果、その飼い鳥がコノハズクであることが確認され、長年の謎が一気に解決しました。\n\n* **出典・根拠**：愛知県広報資料「愛知県のシンボル」、新城市鳳来寺山自然科学博物館資料、日本鳥学会誌報告記録。\n\n---\n\n## 2. 西三河名物「ウナギ」はどこで生まれる？ 2000年の謎を解いた太平洋3,000キロの深海\n\n### 疑問\n西尾市一色町など西三河でも親しまれている川魚の代表格「ウナギ」。彼らは一体どこで卵を産み、生まれてくるのか？\n\n### 理由（科学的なメカニズム）\n川や湖で長く暮らすウナギですが、卵を産む場所は日本の河川ではなく、日本から南へ約3,000km離れた西太平洋の深海（マリアナ諸島西方、西マリアナ海嶺付近）です。成長した親ウナギは海へ下り、新月の夜、水深150〜200m付近で一斉に産卵します。生まれた赤ちゃん（レプトセファルス）は柳の葉のように平たく透明な体を持ち、北赤道海流と黒潮という海流のベルトコンベアに乗って、約半年から1年かけて日本近海へ運ばれてきます。\n\n### 具体的な数字や比較\n* **回遊距離は往復約6,000km**：親が南へ3,000km下り、生まれた稚魚が3,000kmかけて戻ってきます。\n* **採集された卵**：2009年5月22日、東京大学の研究チームが世界で初めて31個の天然ウナギ卵を採取することに成功しました。\n\n### 意外な点\n「川魚」のイメージが強いウナギですが、進化の歴史をたどると元々は水深数百メートルの深海に暮らす「深海魚」が祖先です。エサが豊富な陸の川を利用するようになっただけで、産卵という命の原点だけは太古の故郷である外洋の深海で行い続けています。\n\n### 歴史の裏話\n親ウナギが海へ下った後の行方は古来完全なブラックボックスでした。古代ギリシャの哲学者アリストテレスは「ウナギには卵も精子もないため、泥や大地のはらわたから自然発生する」と考え、日本でも江戸時代に「山芋が変身してウナギになる（山芋変じて鰻と化す）」と本気で信じられていました。人類がウナギの産卵場所を突き止めるまでに、実に2,000年以上を要したことになります。\n\n* **出典・根拠**：東京大学大気海洋研究所（塚本勝巳教授らの研究成果報告）、海洋政策研究所資料。\n\n---\n\n## 3. 冬の朝の怪力！「霜柱」はどうして重い石や地面を持ち上げられるのか？\n\n### 疑問\n寒い冬の朝、畑や庭で見かける「霜柱」。踏むとサクサクと崩れるほど脆い氷の柱が、なぜ土や小石をグイグイ持ち上げられるのか？\n\n### 理由（科学的なメカニズム）\n地表の水がその場で凍って盛り上がっているわけではありません。「毛細管現象」と「凍結」が連動して起きています。地表が氷点下になると、まず地表の水分が凍ります。すると、凍っていない地中の水分が、土の粒と粒の微細な隙間（毛細管）を通って、吸い上げられるように地表の凍結面へと補給されます。水は凍るときに体積が膨張するとともに、下から次々と水が供給されて氷の底面で凍り続けるため、氷が地面から上に押し出されて柱状に伸びていきます。\n\n### 具体的な数字や比較\n* **持ち上げる力（凍上力）**：霜柱や凍土が地表を押し上げる圧力（凍上力）は非常に大きく、条件によっては1平方センチメートルあたり数kgから数十kgもの物体を押し上げる力になります。小石を持ち上げるだけでなく、アスファルトを割ったり擁壁を押し出したりするほどの破壊力を持ちます。\n* **土の条件**：砂のように粒子が粗い土やすき間が狭すぎる粘土では毛細管現象がスムーズに働かず、霜柱はできません。関東ローム層や火山灰土など、適度なすき間を持った団粒構造の土壌でのみ見事な霜柱が形成されます。\n\n### 意外な点\n霜柱は、植物の根を浮き上がらせて枯らす厄介者とされる一方で、「天然の耕運機」でもあります。冬の間に土を持ち上げては昼に溶けるサイクルを繰り返すことで、硬くなった土壌に適度な空気を入れ、ふかふかに耕す役割を果たしています。\n\n### 歴史の裏話\n霜柱という言葉は古くから詩歌に詠まれてきましたが、物理学的なメカニズムが実験室で本格的に解明されたのは昭和初期です。「雪の結晶」研究で世界的に知られる北海道大学の中谷宇吉郎博士らが、人工的に土壌と温度を制御して霜柱を再現し、土壌中の水分移動（不凍水皮膜の流動）の物理法則を明らかにしました。\n\n* **出典・根拠**：気象庁「霜・霜柱の解説」、国立科学博物館 理科実験データベース、北海道大学 低温科学研究所報。\n\n---\n\n## 4. 渡り鳥はなぜ「V字」に並んで飛ぶのか？ 航空力学が明かした究極の助け合い\n\n### 疑問\n晩秋から冬にかけて空を見上げると、カモやガン、白鳥などの大型の渡り鳥がきれいな「V字型」の編隊を組んで飛んでいます。なぜ一直線や真後ろではなく、斜めのV字になるのか？\n\n### 理由（科学的なメカニズム）\n鳥が翼を羽ばたかせると、翼の先端から空気の渦（翼端渦：よくたんか）が発生します。この渦の内側（鳥の真後ろ）には強い「吹き下ろしの風（下降気流）」が発生しますが、翼端の外側（斜め後ろ）には「吹き上げの風（上昇気流）」が発生します。後続の鳥は、この前を飛ぶ鳥が作った上昇気流に自分の翼を重ねることで、少ない力で揚力を得て楽に飛ぶことができます。真後ろにいると強い下降気流に叩き落とされるため、一番得をする斜め後ろへ1羽ずつズレて並んだ結果、自然と美しい「V字」になります。\n\n### 具体的な数字や比較\n* **ミリ秒単位の同調**：2014年に科学誌『Nature』に掲載された研究（英国ロンドン大学チーム）によると、後続の鳥は前の鳥の約1メートル斜め後ろをキープし、上昇気流を最大限利用するために前の鳥の翼の動きに合わせて羽ばたきのタイミングを数ミリ秒単位で完全に同期させていることが実証されました。\n* **航空機への応用**：この鳥の知恵を真似て、大型旅客機同士を編隊飛行させる実証実験では、後続機の燃料消費が約5〜10%削減されることが確認されています。\n\n### 意外な点\n「V字の先頭」を飛ぶ鳥は誰の上昇気流も受けられないため、最も体力を激しく消耗します。そのため、先頭は固定された群れのリーダーではなく、疲れたら列の後ろに下がり、別の鳥が交代して順番に先頭を引き受けています。\n\n### 歴史の裏話\n長い間、学者たちの間では「鳥にそんなミリ単位・ミリ秒単位の複雑な空気力学の計算ができるはずがない」「単に仲間を見失わないための視覚的な隊列ではないか」と疑われていました。しかし、GPSや加速度計を鳥の背中に取り付ける超小型データロガーの開発により、鳥たちが意識せずとも気流の圧力変化を身体で感じ取り、完璧に省エネポジションを捉えていることが現代のテクノロジーで証明されました。\n\n* **出典・根拠**：Nature 掲載論文（S. J. Portugal et al., 2014: *Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight*）、JAXA（宇宙航空研究開発機構）航空力学コラム。\n\n---\n\n## 地域ラジオ用 3択リスナークイズ（疑問1より出題）\n\n**【問題】**\n愛知県の霊峰・鳳来寺山で鳴く「ブッ・ポウ・ソウ（仏法僧）」という神秘的な鳥の声。約1,000年間、青い鳥のブッポウソウの声だと信じられていましたが、実は小型のフクロウ「コノハズク」の声だったと判明しました。\n昭和10年、この千年の大誤解が解けるきっかけとなった、意外な出来事とは何だったでしょうか？\n\n* **1番**：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた\n* **2番**：動物園で飼われていたフクロウが、夜中にお経を唱え始めて飼育員が腰を抜かした\n* **3番**：徳川家康が残した日記に「あの声は実はフクロウである」と書かれていたのが発見された\n\n---\n\n**【正解】**\n**1番：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた**\n\n**【解説トークのポイント】**\n昭和10年6月、NHK名古屋放送局が鳳来寺山から鳥の鳴き声を全国ラジオ生中継しました。これを東京・浅草で聞いていた傘屋のご主人が「ラジオから聞こえる声は、うちの店で飼っている鳥の鳴き声と全く一緒だ！」と驚いて連絡。鳥類学者が駆けつけて調べたところ、その飼い鳥が「コノハズク」だと判明し、千年の謎が電波に乗って一気に解決しました。ラジオというメディアの歴史にとっても伝説的なエピソードです。",
+  "research": "愛知県安城市和泉町の地域ラジオ向けに、晩秋から初冬（11月中旬）の週末お出かけやドライブで家族に話したくなる「西三河・愛知県の魅力的な謎」をテーマにした調査メモを作成しました。\n\n---\n\n# 週末のお出かけ・楽しみに役立つ「へえ、そうだったのか」調査メモ\n\n---\n\n### テーマ1：【蒲郡みかん狩り】\n**疑問：なぜ蒲郡のみかんはこんなに甘くて濃いのか？実は「畑が真っ白になる秘密」があった！**\n\n* **理由**  \n  蒲郡市は北を山に囲まれ、南は三河湾に面した温暖な南向きの扇状地に位置しています。日照時間が長く、海からの暖かい潮風が吹き込む絶好の立地です。さらに甘さを凝縮させる決め手が「マルチ栽培」です。みかんの木の下の地面を白い透水性・反射性シートで覆うことで、余分な雨水が入るのを防ぎ、木に適度な水分ストレスを与えて糖度をギュッと濃縮させます。同時に、白いシートが太陽光を下からも反射させて果実全体をくまなく熟させます。\n* **具体的な数字や比較**  \n  「蒲郡みかん」は2008年（平成20年）に愛知県内の農産物として初めて特許庁の「地域団体商標（地域ブランド）」に認定されました。愛知県のみかん収穫量は年間約19,600トン（全国7位）を誇り、特に温室みかんの生産量は佐賀県に次ぐ全国第2位の実績を持ちます。\n* **意外な点**  \n  晩秋のみかん畑を山側から眺めると、まるで雪が積もったかのように地面一面が真っ白に見えますが、これは雪ではなく農家が敷き詰めた「マルチシート」です。植物に水をたっぷり与えるのではなく、あえて「喉が渇いた状態（水分制限）」に追い込むことで、あの強い甘みと深いコクが生み出されています。\n* **歴史の裏話**  \n  蒲郡でのみかん作りの歴史は非常に古く、江戸時代初期の延宝7年（1679年）の五井村（現・蒲郡市五井町）の検地帳「田畑新切帳」に数本のみかんの木が記録されています。300年以上前の江戸時代から連綿と受け継がれてきた伝統の果樹園地です。\n* **出典・根拠**  \n  JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」、蒲郡市博物館「蒲郡の歴史と文化財 蒲郡みかん」、愛知県農林水産部「あいちの農産物（果物）」。\n\n---\n\n### テーマ2：【足助の古い町並み散策】\n**疑問：山奥の足助宿がなぜ「塩の道」として大繁盛したのか？仇敵同士が仲良く混ざり合った「足助直し」の秘密**\n\n* **理由**  \n  紅葉で知られる香嵐渓のすぐ隣にある足助の町並み（重伝建地区）は、かつて三河湾で作られた塩を信州（長野・塩尻方面）へ運ぶ街道「中馬街道（伊那街道）」の最大の物流中継拠点でした。矢作川や巴川を船で遡ってきた大量の塩は、ここ足助で陸揚げされ、山越えをする馬（中馬）の背に積み替えて運ばれました。\n* **具体的な数字や比較**  \n  各地の塩田（三河湾沿いの吉良・饗庭塩や一色塩、知多の成岩塩、瀬戸内海の西国塩など）から届く塩俵は、1俵あたり4貫目（約15kg）や6貫目（約22.5kg）など産地によって重さや粒の粗さがバラバラでした。足助の塩問屋（塩座）では、塩を踏んで均一に混ぜ合わせ、険しい山道を馬1頭が左右均等に背負いやすいよう「7貫目（約26kg）」の俵にぴったり包み直しました。この作業を「塩直し（足助直し）」と呼び、町には13軒もの塩問屋が立ち並んでいました。\n* **意外な点**  \n  足助は単なる荷物の積み替え場所ではなく、塩のブレンド工場でした。瀬戸内海の塩と三河の塩を絶妙に調合してにがり分を調整した「足助直し」は、味がまろやかでおむすびや漬物によく合う高級ブランド塩として信州側で絶大な信頼を集めました。\n* **歴史の裏話**  \n  忠臣蔵（赤穂事件）では吉良上野介（三河・吉良塩の領主）と浅野内匠頭（播磨・赤穂塩の領主）が犬猿の仲として知られますが、ここ足助の塩座では、吉良の塩と赤穂の塩が仲良く一緒に混ぜ合わされ（ブレンドされ）、美味しい合わせ塩となって信州へ旅立っていました。\n* **出典・根拠**  \n  豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」、豊田市足助観光協会「莨屋 塩座（足助直し）」、豊田市観光協会公式ツーリズムとよた「足助の町並み」。\n\n---\n\n### テーマ3：【日間賀島・三河湾ドライブ】\n**疑問：タコ壺漁の壺には「フタ」がないのに、なぜタコは逃げ出さないのか？**\n\n* **理由**  \n  タコ壺漁の壺にはフタも返し（返し弁）もついておらず、口がぽっかり開いています。逃げ出さない理由は「出られない」のではなく、タコが「自ら出たがらない」からです。タコは骨がない軟体動物のため外敵に狙われやすく、暗くて狭い岩穴に体が密着している状態に強い安心感を覚える習性（正の走触性）を持っています。壺の中にぴったりとおさまり落ち着いてしまっているため、海中からロープで引き揚げられる間も、外に泳ぎ出るどころか奥へ奥へと踏ん張って居座り続けます。\n* **具体的な数字や比較**  \n  日本のタコ壺漁の歴史は弥生時代（約2,000年以上前）にまで遡り、各地の遺跡から素焼きのタコ壺（蛸壺形土器）が出土しています。底引き網漁などに比べてタコの体に傷がつかず、ストレスが少ない状態で生きたまま水揚げできるため、市場でも高値で取引される極上のタコになります。\n* **意外な点**  \n  タコ壺は獲物を無理やり閉じ込める「罠」というより、タコにとっては「最高の隠れ家（無料の個室マンション）」です。エサで誘い込む必要すらなく、壺を沈めておくだけで、夜の食事を終えたタコが朝方に自分から好んで入って眠り込みます。\n* **歴史の裏話**  \n  現在のタコ壺は軽くて丈夫なプラスチック製も使われますが、日間賀島などでは伝統的な陶器・素焼きの壺も長く愛用されてきました。弥生時代の素焼き土器と現代のタコ壺を見比べると、驚くほど形やサイズが変わっておらず、約2,000年前の漁師の観察眼が現代までそのまま生き続けています。\n* **出典・根拠**  \n  四国水族館「展示解説：蛸壷の景」、日本財団 海と日本PROJECT「【海の教室】タコはどうやってとるの？（日間賀島のタコ漁）」、水族館用語辞典「蛸壺」。\n\n---\n\n### テーマ4：【瀬戸焼・器めぐり】\n**疑問：やきもの全般をなぜ「せともの」と呼ぶのか？大ピンチを救ったスパイ大作戦と「次男」の逆転劇**\n\n* **理由**  \n  愛知県瀬戸市は、平安時代から灰釉を使った本格的な施釉陶器を日本で唯一焼き続けてきた歴史ある窯場です。東日本を中心に陶磁器全般を「せともの」と呼ぶようになったのは、瀬戸が日用の食器から美術品まで圧倒的な流通量を誇り、全国の食卓へ普及したためです。\n* **具体的な数字や比較**  \n  江戸時代初期、九州で白いガラス質の「磁器（有田焼など）」が開発されると、旧来の陶器（土もの）しか作れなかった瀬戸焼は人気を奪われ、壊滅的な不況に陥りました。有田から遅れること約200年、瀬戸の陶工・加藤民吉が九州から門外不出の磁器技術を持ち帰ったことで瀬戸でも磁器生産が爆発的に広がり、陶器と磁器の両方を大量生産する世界屈指のやきもの産地へ大復活を遂げました。西日本では唐津焼に由来してやきものを「からつもの」と呼ぶ地域もありますが、東日本では「せともの」が代名詞として定着しました。\n* **意外な点**  \n  一般的な産地は「陶器（土もの）」か「磁器（石もの）」のどちらか一方に偏ることが多いのに対し、瀬戸地域は良質な陶土（蛙目粘土など）と、花崗岩が風化してできた磁器の原料土（サバ土）の両方が同じ地層（瀬戸層群）から採れるという、世界でも極めて珍しい恵まれた大地を持っています。\n* **歴史の裏話**  \n  瀬戸の磁器の祖として神様（窯神神社）に祀られている加藤民吉ですが、実は「窯屋の次男」でした。当時の掟で家業を継ぐことができず、名古屋の熱田新田の開発現場で土木工事に従事していたところ、熱田奉行の津金文左衛門に才能を見出されて磁器研究を開始。その後、藩と地域の期待を背負って九州へ旅立ち、苦難の末に技法を習得して瀬戸を救う英雄となりました。\n* **出典・根拠**  \n  瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」、瀬戸市歴史文化基本構想「加藤民吉・磁祖民吉屋敷跡・民吉墓碑」、瀬戸市文化振興財団「瀬戸染付の全貌」。\n\n---\n\n### ラジオで使える3択クイズ（テーマ3：日間賀島・タコ壺漁より）\n\n**【問題】**  \n三河湾・日間賀島の名物としても有名な「タコ壺漁」。昔ながらの伝統的なタコ壺には、魚を捕まえる罠のような「フタ」や「仕掛け扉」がついていません。タコが壺から逃げ出さない本当の理由は何でしょうか？\n\n* **1番：** 水から引き上げられるときの激しい水圧で、タコが動けなくなるから\n* **2番：** タコが狭い場所を好み、安心しきって自ら「出たがらない」から\n* **3番：** 壺の内側に、タコが眠ってしまう特殊な海藻が塗られているから\n\n**【正解】**  \n**2番：タコが狭い場所を好み、安心しきって自ら「出たがらない」から**\n\n**【解説の一言】**  \nタコには、狭くて暗い隙間に体がピタッと密着すると落ち着く習性があります。タコ壺は獲物を閉じ込める檻ではなく、タコにとっては「最高の隠れ家」。海から引き揚げられるときも、壺の奥でぎゅっと踏ん張って居座っているためフタがなくても逃げないのです。弥生時代から2,000年以上変わらない、タコの心理を突いた伝統の知恵です。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%9C%9C%E6%9F%B1+%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0+%E6%AF%9B%E7%B4%B0%E7%AE%A1%E7%8F%BE%E8%B1%A1+%E6%8C%81%E3%81%A1%E4%B8%8A%E3%81%92%E3%82%8B%E5%8A%9B+%E5%9B%BD%E7%AB%8B%E7%A7%91%E5%AD%A6%E5%8D%9A%E7%89%A9%E9%A4%A8+OR+%E6%B0%97%E8%B1%A1%E5%BA%81+OR+%E5%A4%A7%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">霜柱 メカニズム 毛細管現象 持ち上げる力 国立科学博物館 OR 気象庁 OR 大学</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%84%9B%E7%9F%A5%E7%9C%8C+%E3%82%B3%E3%83%8E%E3%83%8F%E3%82%BA%E3%82%AF+%E3%83%96%E3%83%83%E3%83%9D%E3%82%A6%E3%82%BD%E3%82%A6+%E9%B3%B3%E6%9D%A5%E5%AF%BA%E5%B1%B1+%E3%83%A9%E3%82%B8%E3%82%AA%E6%94%BE%E9%80%81+%E9%B3%B4%E3%81%8D%E5%A3%B0&client=app-vertex-grounding&safesearch=active\">愛知県 コノハズク ブッポウソウ 鳳来寺山 ラジオ放送 鳴き声</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%A6%E3%83%8A%E3%82%AE+%E7%94%A3%E5%8D%B5%E5%A0%B4%E6%89%80+%E5%A4%AA%E5%B9%B3%E6%B4%8B+%E5%A1%9A%E6%9C%AC%E5%8B%9D%E5%B7%B3+%E8%AA%BF%E6%9F%BB+%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8A%E6%B5%B7%E5%B6%BA&client=app-vertex-grounding&safesearch=active\">ウナギ 産卵場所 太平洋 塚本勝巳 調査 マリアナ海嶺</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E6%B8%A1%E3%82%8A%E9%B3%A5+V%E5%AD%97%E9%A3%9B%E8%A1%8C+%E7%BF%BC%E7%AB%AF%E6%B8%A6+%E7%9C%81%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC+%E4%BA%A4%E4%BB%A3+%E3%83%8D%E3%82%A4%E3%83%81%E3%83%A3%E3%83%BC+%E7%A7%91%E5%AD%A6&client=app-vertex-grounding&safesearch=active\">渡り鳥 V字飛行 翼端渦 省エネルギー 交代 ネイチャー 科学</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%9B%E3%81%A8%E3%82%82%E3%81%AE+%E8%AA%9E%E6%BA%90+%E7%80%AC%E6%88%B8%E7%84%BC+%E7%94%B1%E6%9D%A5+%E7%80%AC%E6%88%B8%E5%B8%82+%E5%8A%A0%E8%97%A4%E6%B0%91%E5%90%89&client=app-vertex-grounding&safesearch=active\">せともの 語源 瀬戸焼 由来 瀬戸市 加藤民吉</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%82%B3%E5%A3%BA+%E3%81%AA%E3%81%9C%E9%80%83%E3%81%92%E3%81%AA%E3%81%84+%E7%BF%92%E6%80%A7+%E6%B0%B4%E7%94%A3+%E6%B0%B4%E6%97%8F%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">タコ壺 なぜ逃げない 習性 水産 水族館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%92%B2%E9%83%A1%E3%81%BF%E3%81%8B%E3%82%93+%E3%81%AA%E3%81%9C%E7%94%98%E3%81%84+%E6%AD%B4%E5%8F%B2+%E6%84%9B%E7%9F%A5%E7%9C%8C+JA%E8%92%B2%E9%83%A1%E5%B8%82&client=app-vertex-grounding&safesearch=active\">蒲郡みかん なぜ甘い 歴史 愛知県 JA蒲郡市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B6%B3%E5%8A%A9%E7%9B%B4%E3%81%97+%E5%A1%A9%E3%81%AE%E9%81%93+%E8%B1%8A%E7%94%B0%E5%B8%82+%E4%B8%89%E6%B2%B3%E6%B9%BE+%E4%BF%A1%E5%B7%9E&client=app-vertex-grounding&safesearch=active\">足助直し 塩の道 豊田市 三河湾 信州</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5XvzVVfhsVNNWveVLqI7AgkmB9PMhU0beQgt_c8lq8P8o72nh89VJU3r7htFuZv4a4GS5rSausPjZs-Fbc7Hfw2e1GRQQVM6axFD04-33fakWsFbPynDwxCQgUF6OBFQ=",
-          "title": "oota8.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEebO_BqiKa7yUjaLSfcUPBU6zgw-_ensSXbEtcvaEhjEz75GWtIzM6tKFg9I9De62_gMH-Za0xHYlYJoHo2RuVXldTU4iqR31zT9fQafZYizqjwh_C1Dmd_COP",
+          "title": "gamagori.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKQqbvy5NF07NDW_vjrKGLCQeqknLl512wOQR_Dc-3G6Ar2ZixVeP7Yaw4IZehopUoZek5MEl1okrEFuXCDUfvsaP4GVS4xdH2odkdDCwtI6mwJot7wVoVhwFvf8_nIq8lpW3DdN0BG61DVQ==",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERSyrUelC6nQyIkmSjErMENGVj8qPYMlx0vBNRRmf9X1wQfxi_WYL4qLEyniLvHAYn3u1NccULmc6N98aCab77_6qIIK8sDG0tUGmQvSwiF4b8vKZZ8tvqGWBxAZaWhg-lICXxXHfUQLooILQWTRUr0JizEnruagNZb8uAqZbY7x8qKpMVitYBfZUurZB-o57PFg==",
+          "title": "syouhyou-touroku.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ8NK87OJJu0id7JPJUnNe7akMyToz5nJR2mq4MgVNq4ry24fCvr62-6YaJ3y58fG-T_SXMQwKXwvEcY87GaDhZ0E75jfInG0hlkgMqRLtD_GkQbkF1vARHVQl",
-          "title": "exblog.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsckUgsoYBNTv3vrE_qvAGcrnaBI5suRv_lnUV-ecSo6U_OKt0xH7NMX7mzd-wGiNGHyGz9WnWnPJCD2JCA6SJ3dgtJaVeD7wzSnBHPr6q3lE35YTaKbxRVVeZNnw=",
+          "title": "ja-gamagori.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEY8yCf82nZ7NfyidNJ2P9zsCMefu_bIcYYPctcZ4bS8bkx_p3FpKlz9D7kW_t_5_nQ6N6hasU8yL5-peTRKdg9cv2teaUkijjCqoTTO-zQWzCFfPfCn2UOU99BKQ==",
-          "title": "exblog.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHSDmG3i1EcdOxwAHJP9Qf3v3-9_fD1iHlp4CW3UE6TOXgy1oYXPEAIo-KSDIwg3_pSsK9xu2o1LNjsjj_RV435GBr1E2BKQjcXiccZIFPbmNR6Ab6SWKi13Ubm1DskmQrjYgCj4eb6zp9Vt4MZ84iErpTDkVzLHCtIqEZyQ==",
+          "title": "gamagori.lg.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkkElDCUPjp8UoKomAKVNYyyz6xPwlxb9WM6WSPqbZkrgbeUHjQmQCd7Z388X69YIrgVKeFuYLQLhOHuZ4l8owZEPPaClKkuUoFtLVZVB3-CIDsqI2wHek_0e6JqNR",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3e7Qe12OUHN1nR9fUiKxs1uoZWfFEBECgUP0A00UiMGKqr7frGItocOgEj4paIgmsG27AleBUQ3eoYIDDLEa-y92PIKhgCbRGPKGemi-vMCz2vK92abtnsvarxmXEioMuDOwbM3P5xcbyK9yBV76C91azdQ==",
+          "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo4MmifqynkQOQSR9fcrQVgqBbLVec7w_mt6NfltPJm4Gt4Ne5ac-vmpduvkufFC8dolFr9PRow-Zgsio_sKlPJTWgUrZ49o70nyT8a5oZHVY_xr_etSWrFeXfsZmSXuPeCIMy",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcE2R9-PHh8DDEu0xiicLxjx6I5IXW2jtbp6S7twywBvGQxj6o5n-nc9Dhr5cw5uxPqJFnXOn6uScWZXKr-2HjIhsHcbPuZAuE7nhI9NX7KaE684li219IeqxGKgY2hGnus9HNGiGdtnYMVML5l7Dt6VQJjSd1exg_SxaJhHBTRoA=",
+          "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz-nJUqKTr9ljkhitRvlfBf9bGmVsRqTGH2_uIapmYMClaEbISINa_lVytCtn3NMKq4IG_LPnptEfdJlsvZieHDza-XtDhYtodAxYoL9pFQjaXM0Zk0tbnd5IJlGzJ6VCRHjR0",
-          "title": "spf.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-aQBoc6HlM_MEawoXLLNJTK94JlCws3RLLvc94bXaGmTeGdGOvFZYxpeBB_jo6bJpHu6eOKH7N4tiEuhaHaXxPBZ53ZFvRVxwqB3d3VGgCq9kv-Fg8SnxcNeE7KZY4mqNtbYP6qIvgF9Q-ow9wn1uC93hiJp2x6JpKFrO4MOUlpW7mvfoT9I=",
+          "title": "jimdofree.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEke7FBB_tM8C_6Ree9ajqfelS4YAnMW3iMbH2blOvKJLWb9oh6kfxUXsUlhQzRf3jXRXAM-LXTY9idgG6QuOUcsdbRBO0A1kgKz4cl2s6Wa-poWjD7FgSkKptjK-wvRUe3gQ==",
-          "title": "bluehub.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENXsXIUvhEcVCNyModNghh0RhRO1dqGxFpui8ZFVsk2rXKurGvngaaH5iQIR-C63RAMlbSQlUVZ1J3z9VtXKGuZZi7rgQFp83dBGGjOLDCgxBmHnf_7XxbmSCUd4F5uQVq",
+          "title": "kenporen-aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNYEWUvwCJNqGRiWq1dbYlrf2bJeP9_XJsc1R07mSSEs8Vx3ccf1x58kquaPDR6aqNnQQ2CnWzi8ccZ98X1Lswu6dlLnrmfzP0rn7a1QYlM6QDquQzlmuOEGuNDmaO5QkY",
-          "title": "senri-life.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7tp-uzoeSE0d0kg90FOFBmtNu5T_UwddZ0Y5UGihhl4pA7mQ6nGd8eDRarjM8kfGn1ulZb5h0rG5g3FCoo-Ghv2pp2N41o1xvQvgaeS2T96BrTJEjIls2CoNDxdt9R8mcK8Q=",
+          "title": "tourismtoyota.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAEqYFPHL7B_vLuYomReoZjt2Ld_akFSVhp5kIIY_deN5HdaACq2QgTvqiPskuShRTrpUM5QFwPxNlmJ123Q1wPxofYesrGf3F6tknCHLgp0g3MKpqULdb9rD0ahBvjZo=",
-          "title": "flintstone.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4WxL1H9PVczXBCKyjNdAkX68G6-SjvzIWOBPQWamN7x5StFbfNibPQcihWdKYD27nEJr0WBcLjEYOI2IiPTaQojUTjk6ljMZJalbQNdWHlBFOQHdisHflXuPnw7ArthZCtr8zNYkE90ui46dRQCE=",
+          "title": "mlit.go.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5nCNn-pr8Z7WRlq6u86DKoK5dO9L109h5TdaX4-_1FLpse61orpr3nyGoZodVN5SwmttIJFezStO0yvLfbiz0o5OD6XgcS4ZaHhv9CH5p37d7XW1aKnSHGdjieYdTqJBw_72HQY8wI0zmCjuJJg==",
-          "title": "u-tokyo.ac.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZeDJOenYa6sNYDF3iU6AeQjHQJlXKA2Nmmpl-sHQBDEXQPWdamwI4IfrGls_DCnJmfvedVb7lLdBGKLsp2kpVvh6Ju2yAdXgdm6In0dXzTPdzphlcvuU=",
+          "title": "thebase.in"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj8Ns-zBGrxbIP1Qkbal93YeZokSvn0IBUW4bzKWZkIgvMnS-su7MNBDanJdVQ5ACOBkT_mnvOz9k4O8Ri072Nq3NrEGS28wloCvGdY91DFRMNYqwEgcVKB_U-1q70TQ==",
-          "title": "core.ac.uk"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFb-bPoFAfe21W-llFP5PAWhWgSi-pK8ow4umbnkN4wX6i94vnrMFS_8Q5ZgM4az1z8OHjjxwFTvMxbj-b3ZNBo4R0ioYjucp1pz4UMKHd2UTMcJ_vdaXcmQ8ZuGHIWThGXgVo",
+          "title": "asuke.info"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1yuqoqN_mtFxu0sZB1WVxjr2-e2CP6yJqjxcFvxcIieSFzZpYpVbuYH8mjbiDnGL8GAZR9Ra4Zdc8Kn2NFh3gxrU8FM-pQMT89Lno_f3kcAaFDrK8dA==",
-          "title": "phys-edu.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFhDbFVTqHCy7hfjpE3PcDkELNntcVSFzV77F8bdhvPd1jKS-1KFEMpkRM0vTVfUoQ_aXL1fvO0Cghj_OQma3Xv0rdh55xpe3OkMQTVQfZh7w=",
+          "title": "tabakoya-shioza.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHROafPivhD7D5BsiXfDawdkUStcQyX7f9dNCQlCHMdEutVrY8-eGX13AJtp8XNDvOXoHw04u84vuOxn6AR2NpjWB5Fa7uK0hRKlPPw2Eyy7pB_jUfgCyglB4ddmkd-S6QmMQ16G3MQFI6Ekqn-rpgQhfOFpwg7mhkD3I1AXZCsPkDyXDiQ5h-ugbt8RUhPP0tPQwviRWek2KwotWq83hPg1a_cy_pfTh0iJnTYUc-InJg0KekLy3Q1BmJ0a5kDpP6QUJGYeuaeBgmWAM8rRvA5tHZE2a1sJoCPaC3YKNiAU_J_bn5zLQBXT67uQ24TU8yvSiEnUBR8-FlgTNENDfRyIVsTgpu6PUH6X-nfZL-IDCvMZKoz9RPHOA==",
-          "title": "natureasia.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqLdqjA9Kz1Ult-yINMm67xxgJYUJ13BJLAMZbb86OW_rpupj7VQZlQdtdCeMSsLJ96d0wSdvZmrcsHpOLchNul2gsBrzzEONg8cVDIGKTAle2zqSzurw78KatuA4aCCzQLidBd63ae_ROXiFtHfjCYOU=",
+          "title": "city.toyota.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvoQZdKH2gatHVrB_kSlWJi5RwEQ9j0oJyVIRpnV43g7X3WHIz5P8mi6HSZjXsghdRFV03WQRg8YGGE_Ezopx90p9LlQcXp_j1_jK6i9wGrRlRWNvhJtgB7UTh51xPv3qCU1TbHF4ve-Nz",
-          "title": "yumenavi.info"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMGQoJTipdp-ot0eMJiJqhho-sbzm41D6T4VruVJPrduAr6BYEZhyrLegPScCV3UBt2p2LTmR3-rXKBPlMoZqMADv0AHkFs2ncs8v-Q48PC1II6jAED6ctvlH5N-6ntl5frDa8mZG92A4uRxAP-eHYZOl0Z1Iy-IcQDPY=",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8yjDWBq1GD0UMr8l_ktAR82FJUo357OVYArMDduIu02YBu6JpZHAEA5HIEe2hNc_9rmyiKkjcRdoREKA_cgl8k1NAWtuOoi7GBipZhryAQsTS_ehmE7n-xqzDVZ0EYV9W4vbZ3JHC",
-          "title": "ameblo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcQ7OXGw01Y7_L2eNmdqRR6ijECVgAdk0dojtmBdE1i9Fh8YZQ6u9DP_3NWZqSrV4L6x2NqUU5rsX1MvdkXKpgT4jlgWRTEOax_O7azqn3y90xa5yPOkFmvFpBf4uXbHQUs5l41IL0EK68bQ1F21fxmdJ0w==",
+          "title": "shikoku-aquarium.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCmh0T0TT7gNqodgyJ6SzCOuHh4x_Ds3HnOcdG0cnXTl1LvBya73zzwJszNQetk5YEMK6kfC2LTacwMdvFHSW7PW9QJ4a7FZARIOgrh2AQD8f9ZASaSaBjti6vftL0F7BC",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaUxlna5M_erhV_vhNWAOEzaUt0KVvRCP1ySzhVfeWyEqFoCyKxOUNQn4FaEOG895KMXmTHdhIBgfudYhzEqiCgIZNof9LIC0Zr_95gi4jFRZn8uOWXZt8gmyfeTjhNqVto5pHMeC6eM6z",
+          "title": "naru-island.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFydD1nTiEjBePJQW5ONqaOdprT9ci8aKKiNK2c1ddFPpEQNbS2nnP7vxJ1WwoNVAsBp_WhBA9bilHJTporStBGi9k7nk33d0D7JUqXdwzoLbxt_E6FNnEt4Wn1KuYxDKFzn9EpBNqAU-GdxWpeBRHFxzhlms7NTON9xkmf6x66",
+          "title": "homemate-research-aquarium.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM_KRPdaURc1Hlq6BG4NjWTvWIEBwQ6x-wO0CHNKUE8jhfv-yGM865kFfxoybbcek6Wv8qIhbs3qk17gzf2Wz99pnCvbeNozY68c210miHQv80bUamCerg96gprGi9euk7",
           "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWQG4goGUhGlLchOTLrDqMEVxkOdi_tNHXcHfDWBz_rbN9qFviThVP5cb7F4VxD3XRvpNCt4i4R0v0ojyWEb7F26Z9d_uNbR9Sectu-jRHBGlC7U3ndTTuNAnPByfg0ByIQHMOGhesKP_leqw=",
-          "title": "kojiroo.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjvZdhcWZ8ovgbBQkwh-Ra8fRfIR2z31BxWcjEs3kD1d6M_sv7V5GJ8pQWKsLyicNHKWqd2vmiDi87_SlwfBejSQX_l60YR7AzV6bjGaAPMOtyn_4=",
+          "title": "seto-tosyo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEkikgzfyqTlsFm6YrXUbxRai1DZhpN_5EAk0cmeUIetjOWG3uxuMjB1E0tlZrgimY-u9z8yIOj1M-KvGjbmzbHDrXVemTuYGNpbyPJWAUZkpaihlnY0Csh6WCvUftEn-hVsNxviOIa0FCV40-AXeUTGUoHcKIPWMBkH-GF11iNDU=",
-          "title": "ndl.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZVanA5JG71h_ZFu9eCZbM6a4Eo9obh--PVxXjE-cYSzQNvONojGjugbHa-t6nu9ma7Spdrwo4dNgzZoZ4OWZTcMT_STsE0qFkF1QrLRQps-D2tSRCg==",
+          "title": "sixancientkilns.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHclrV5lLwTShUPEQ94GdwEdEof6d9xV8g9yO73hBJowYi6UD8FBMEY8XsJ3EAci2TP3USKiCx8NQhjaCd4k6vvEQ7j0qZhhARJI8Vw2ABwNQ2zlTs-AOoVOETUnkQb",
-          "title": "afpbb.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQg6sAZJw554PQqNF-j5nR2glFCARFkzrDMJvrvzZaDj8CWwg5RPu3DQFcPBTd5ky9N4ZVTrE_yxFwCcYWywWFuvwOKwd2GVWbsIxb402rF4qkPGoWhKcRDVaL",
+          "title": "imotosangyo.biz"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNJuJCGDaUY9ZRVjxqAM1bzgfmX53TVNR2-JHoqBlCI_uXfdeMf0Yk-VIyaUPR2o5d_53H4pXSPjXthfEHmCYkLsZwnmYBCy4GZ92jGPoURpwF1YakOnDYHMVlzKzmhfgnMg==",
-          "title": "note.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdxRUly2maUkU0MFbkezzIJ5t38PkOiRiPvCZk9sk-hx06paFjhLIlx5Pl28qVmYMVMHdomAr9nfoQ1JZ1fqWkgJSstLGgYc7SwjfQaC_DfhwqN7sd1Yz-7m0UPtr9SVvnWH-S91f5c8cJsTSifY0N",
+          "title": "seto-cul.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1A-PKai0sqbsEt1hGrH552ZiaWUT_WnoWe74cv-ro9-nusptoD9yLxG2ys8U7bodcFMe5EvmBpIvdiOTRBlUvA2T_h--DipjCCL3fNZt8HGCfdnt1a0s3GPNPmAxR",
+          "title": "cafora.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Yb73xlNzTdyckVbk3S9LgF2EDqOdtsHzwOX9gLvSsJlP6VHAR7JeDIM442igkDF6yegng4IGqNkpZrUPCl-HMYTBZOGdk57eDLtyYNU5P3Xcd7Udx-fk4PoGJoCgdGzBrBFLtys=",
+          "title": "seto-guide.jp"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcHDtoWnZ5LDWvTalkPBkbrS1mZDPzpwNXKqTCQW3HAh-Eynu0O2AkhMjU9SBNQdcRPMNzNr_9TiRslHKDfcGUXGpTjmqHTnZJdt1M8vmPct5GBamJ4nwUwhE2Hvs5cUleEg==",
+          "title": "discoverjapan-web.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsiMk7LiQB6Kes28ZvWUQuD0JQt0CVUq-BhvvfQqdjijYvCdhaKNmtUgt63HzrjxXb2NZ-MYicHtHGCdpugh5-s1_OEOa4OIipsI1HndB6jPeXJeUyM6qNBxksjW1dr8nho3VaIFm5Y1YbP7xxOwxNVc_LaEIaw-jFHtS--HtnGjpWkg==",
+          "title": "city.seto.aichi.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 895,
-          "endIndex": 1159,
-          "text": "平安時代の文献にも登場する「ブッ・ポウ・ソウ」という仏教の三宝を称えるような鳴き声は、古くから青緑色の羽を持つ美しい夏鳥「ブッポウソウ（仏法僧）」の声だと固く信じられてきました"
+          "startIndex": 566,
+          "endIndex": 683,
+          "text": "蒲郡市は北を山に囲まれ、南は三河湾に面した温暖な南向きの扇状地に位置しています"
         },
         "groundingChunkIndices": [
           0,
@@ -212,53 +262,53 @@
       },
       {
         "segment": {
-          "startIndex": 1162,
-          "endIndex": 1261,
-          "text": "しかし、実際のブッポウソウの鳴き声は「濁ったゲッゲッという声」です"
+          "startIndex": 686,
+          "endIndex": 773,
+          "text": "日照時間が長く、海からの暖かい潮風が吹き込む絶好の立地です"
         },
         "groundingChunkIndices": [
           2,
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1264,
-          "endIndex": 1420,
-          "text": "実際に「ブッ・ポウ・ソウ」と美しく鳴いていたのは、夜行性で見つけにくい小型のフクロウ「コノハズク」でした"
-        },
-        "groundingChunkIndices": [
-          2,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1459,
-          "endIndex": 1609,
-          "text": "**誤解が解けるまで約1,000年**：平安時代から昭和初期まで、日本中が姿の美しい鳥と声を混同し続けていました"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1615,
-          "endIndex": 1695,
-          "text": "**鳥の大きさ**：姿の美しいブッポウソウはハト大（約30cm）"
-        },
-        "groundingChunkIndices": [
           0
         ]
       },
       {
         "segment": {
-          "startIndex": 1615,
-          "endIndex": 1795,
-          "text": "**鳥の大きさ**：姿の美しいブッポウソウはハト大（約30cm）、声の主であるコノハズクは体長約20cmと日本で最小クラスのフクロウです"
+          "startIndex": 776,
+          "endIndex": 848,
+          "text": "さらに甘さを凝縮させる決め手が「マルチ栽培」です"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 851,
+          "endIndex": 1064,
+          "text": "みかんの木の下の地面を白い透水性・反射性シートで覆うことで、余分な雨水が入るのを防ぎ、木に適度な水分ストレスを与えて糖度をギュッと濃縮させます"
+        },
+        "groundingChunkIndices": [
+          0,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1067,
+          "endIndex": 1178,
+          "text": "同時に、白いシートが太陽光を下からも反射させて果実全体をくまなく熟させます"
+        },
+        "groundingChunkIndices": [
+          2,
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1220,
+          "endIndex": 1397,
+          "text": "「蒲郡みかん」は2008年（平成20年）に愛知県内の農産物として初めて特許庁の「地域団体商標（地域ブランド）」に認定されました"
         },
         "groundingChunkIndices": [
           0,
@@ -267,20 +317,9 @@
       },
       {
         "segment": {
-          "startIndex": 1817,
-          "endIndex": 1998,
-          "text": "「声の仏法僧（コノハズク）」と「姿の仏法僧（ブッポウソウ）」という、同じ名前を巡る“2種類の鳥”が存在することになりました"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2001,
-          "endIndex": 2184,
-          "text": "この真実が明らかになったことで、愛知県は昭和40年（1965年）に「声の仏法僧」であるコノハズクを愛知県の「県鳥」に指定しています"
+          "startIndex": 1400,
+          "endIndex": 1573,
+          "text": "愛知県のみかん収穫量は年間約19,600トン（全国7位）を誇り、特に温室みかんの生産量は佐賀県に次ぐ全国第2位の実績を持ちます"
         },
         "groundingChunkIndices": [
           0,
@@ -289,179 +328,115 @@
       },
       {
         "segment": {
-          "startIndex": 2209,
-          "endIndex": 2330,
-          "text": "この千年の謎が解けたきっかけは、愛知県奥三河の**鳳来寺山からのラジオ生中継**でした"
+          "startIndex": 1600,
+          "endIndex": 1816,
+          "text": "晩秋のみかん畑を山側から眺めると、まるで雪が積もったかのように地面一面が真っ白に見えますが、これは雪ではなく農家が敷き詰めた「マルチシート」です"
         },
         "groundingChunkIndices": [
-          2,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1819,
+          "endIndex": 2017,
+          "text": "植物に水をたっぷり与えるのではなく、あえて「喉が渇いた状態（水分制限）」に追い込むことで、あの強い甘みと深いコクが生み出されています"
+        },
+        "groundingChunkIndices": [
           0,
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 2333,
-          "endIndex": 2485,
-          "text": "1935年（昭和10年）6月7日、日本放送協会（現NHK）名古屋中央放送局が鳳来寺山から全国へ鳴き声を生中継しました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2488,
-          "endIndex": 2821,
-          "text": "すると、東京・浅草の傘店主から「自宅で飼っている鳥がラジオの声に反応してまったく同じ声で鳴き始めた」と連絡が入り、鳥類学者の黒田長礼らが調査した結果、その飼い鳥がコノハズクであることが確認され、長年の謎が一気に解決しました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2828,
-          "endIndex": 2901,
-          "text": "**出典・根拠**：愛知県広報資料「愛知県のシンボル」"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2828,
-          "endIndex": 2952,
-          "text": "**出典・根拠**：愛知県広報資料「愛知県のシンボル」、新城市鳳来寺山自然科学博物館資料"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2828,
-          "endIndex": 2985,
-          "text": "**出典・根拠**：愛知県広報資料「愛知県のシンボル」、新城市鳳来寺山自然科学博物館資料、日本鳥学会誌報告記録"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3334,
-          "endIndex": 3557,
-          "text": "川や湖で長く暮らすウナギですが、卵を産む場所は日本の河川ではなく、日本から南へ約3,000km離れた西太平洋の深海（マリアナ諸島西方、西マリアナ海嶺付近）です"
+          "startIndex": 2047,
+          "endIndex": 2277,
+          "text": "蒲郡でのみかん作りの歴史は非常に古く、江戸時代初期の延宝7年（1679年）の五井村（現・蒲郡市五井町）の検地帳「田畑新切帳」に数本のみかんの木が記録されています"
         },
         "groundingChunkIndices": [
           5,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2280,
+          "endIndex": 2376,
+          "text": "300年以上前の江戸時代から連綿と受け継がれてきた伝統の果樹園地です"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2406,
+          "endIndex": 2465,
+          "text": "JA蒲郡市公式ホームページ「みかん豆知識」"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2406,
+          "endIndex": 2555,
+          "text": "JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2406,
+          "endIndex": 2625,
+          "text": "JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」、蒲郡市博物館「蒲郡の歴史と文化財 蒲郡みかん」"
+        },
+        "groundingChunkIndices": [
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2406,
+          "endIndex": 2691,
+          "text": "JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」、蒲郡市博物館「蒲郡の歴史と文化財 蒲郡みかん」、愛知県農林水産部「あいちの農産物（果物）」"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2931,
+          "endIndex": 3189,
+          "text": "紅葉で知られる香嵐渓のすぐ隣にある足助の町並み（重伝建地区）は、かつて三河湾で作られた塩を信州（長野・塩尻方面）へ運ぶ街道「中馬街道（伊那街道）」の最大の物流中継拠点でした"
+        },
+        "groundingChunkIndices": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 3192,
+          "endIndex": 3360,
+          "text": "矢作川や巴川を船で遡ってきた大量の塩は、ここ足助で陸揚げされ、山越えをする馬（中馬）の背に積み替えて運ばれました"
+        },
+        "groundingChunkIndices": [
+          9,
           6,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3560,
-          "endIndex": 3666,
-          "text": "成長した親ウナギは海へ下り、新月の夜、水深150〜200m付近で一斉に産卵します"
-        },
-        "groundingChunkIndices": [
-          8,
-          7,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3669,
-          "endIndex": 3922,
-          "text": "生まれた赤ちゃん（レプトセファルス）は柳の葉のように平たく透明な体を持ち、北赤道海流と黒潮という海流のベルトコンベアに乗って、約半年から1年かけて日本近海へ運ばれてきます"
-        },
-        "groundingChunkIndices": [
-          10,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3961,
-          "endIndex": 4082,
-          "text": "**回遊距離は往復約6,000km**：親が南へ3,000km下り、生まれた稚魚が3,000kmかけて戻ってきます"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4088,
-          "endIndex": 4251,
-          "text": "**採集された卵**：2009年5月22日、東京大学の研究チームが世界で初めて31個の天然ウナギ卵を採取することに成功しました"
-        },
-        "groundingChunkIndices": [
-          5,
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4273,
-          "endIndex": 4444,
-          "text": "「川魚」のイメージが強いウナギですが、進化の歴史をたどると元々は水深数百メートルの深海に暮らす「深海魚」が祖先です"
-        },
-        "groundingChunkIndices": [
-          8,
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4447,
-          "endIndex": 4621,
-          "text": "エサが豊富な陸の川を利用するようになっただけで、産卵という命の原点だけは太古の故郷である外洋の深海で行い続けています"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4742,
-          "endIndex": 5054,
-          "text": "古代ギリシャの哲学者アリストテレスは「ウナギには卵も精子もないため、泥や大地のはらわたから自然発生する」と考え、日本でも江戸時代に「山芋が変身してウナギになる（山芋変じて鰻と化す）」と本気で信じられていました"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5057,
-          "endIndex": 5173,
-          "text": "人類がウナギの産卵場所を突き止めるまでに、実に2,000年以上を要したことになります"
-        },
-        "groundingChunkIndices": [
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5180,
-          "endIndex": 5283,
-          "text": "**出典・根拠**：東京大学大気海洋研究所（塚本勝巳教授らの研究成果報告）"
-        },
-        "groundingChunkIndices": [
-          5,
-          10
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5180,
-          "endIndex": 5313,
-          "text": "**出典・根拠**：東京大学大気海洋研究所（塚本勝巳教授らの研究成果報告）、海洋政策研究所資料"
+          "startIndex": 3402,
+          "endIndex": 3676,
+          "text": "各地の塩田（三河湾沿いの吉良・饗庭塩や一色塩、知多の成岩塩、瀬戸内海の西国塩など）から届く塩俵は、1俵あたり4貫目（約15kg）や6貫目（約22.5kg）など産地によって重さや粒の粗さがバラバラでした"
         },
         "groundingChunkIndices": [
           6
@@ -469,239 +444,421 @@
       },
       {
         "segment": {
-          "startIndex": 5760,
-          "endIndex": 5826,
-          "text": "毛細管現象」と「凍結」が連動して起きています"
+          "startIndex": 3679,
+          "endIndex": 3895,
+          "text": "足助の塩問屋（塩座）では、塩を踏んで均一に混ぜ合わせ、険しい山道を馬1頭が左右均等に背負いやすいよう「7貫目（約26kg）」の俵にぴったり包み直しました"
         },
         "groundingChunkIndices": [
-          12
+          10,
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 5829,
-          "endIndex": 5898,
-          "text": "地表が氷点下になると、まず地表の水分が凍ります"
+          "startIndex": 3898,
+          "endIndex": 4017,
+          "text": "この作業を「塩直し（足助直し）」と呼び、町には13軒もの塩問屋が立ち並んでいました"
         },
         "groundingChunkIndices": [
-          12
+          10,
+          6,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 5901,
-          "endIndex": 6087,
-          "text": "すると、凍っていない地中の水分が、土の粒と粒の微細な隙間（毛細管）を通って、吸い上げられるように地表の凍結面へと補給されます"
+          "startIndex": 4044,
+          "endIndex": 4137,
+          "text": "足助は単なる荷物の積み替え場所ではなく、塩のブレンド工場でした"
         },
         "groundingChunkIndices": [
-          12
+          10,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 6090,
-          "endIndex": 6297,
-          "text": "水は凍るときに体積が膨張するとともに、下から次々と水が供給されて氷の底面で凍り続けるため、氷が地面から上に押し出されて柱状に伸びていきます"
+          "startIndex": 4140,
+          "endIndex": 4380,
+          "text": "瀬戸内海の塩と三河の塩を絶妙に調合してにがり分を調整した「足助直し」は、味がまろやかでおむすびや漬物によく合う高級ブランド塩として信州側で絶大な信頼を集めました"
         },
         "groundingChunkIndices": [
-          12
+          10,
+          11
         ]
       },
       {
         "segment": {
-          "startIndex": 8432,
-          "endIndex": 8549,
-          "text": "鳥が翼を羽ばたかせると、翼の先端から空気の渦（翼端渦：よくたんか）が発生します"
+          "startIndex": 4410,
+          "endIndex": 4779,
+          "text": "忠臣蔵（赤穂事件）では吉良上野介（三河・吉良塩の領主）と浅野内匠頭（播磨・赤穂塩の領主）が犬猿の仲として知られますが、ここ足助の塩座では、吉良の塩と赤穂の塩が仲良く一緒に混ぜ合わされ（ブレンドされ）、美味しい合わせ塩となって信州へ旅立っていました"
         },
         "groundingChunkIndices": [
-          13,
+          12,
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4809,
+          "endIndex": 4889,
+          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」"
+        },
+        "groundingChunkIndices": [
+          13
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4809,
+          "endIndex": 4961,
+          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4809,
+          "endIndex": 5028,
+          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」、豊田市足助観光協会「莨屋 塩座（足助直し）」"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4809,
+          "endIndex": 5106,
+          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」、豊田市足助観光協会「莨屋 塩座（足助直し）」、豊田市観光協会公式ツーリズムとよた「足助の町並み」"
+        },
+        "groundingChunkIndices": [
+          8
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5304,
+          "endIndex": 5418,
+          "text": "タコ壺漁の壺にはフタも返し（返し弁）もついておらず、口がぽっかり開いています"
+        },
+        "groundingChunkIndices": [
           14,
-          15,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5421,
+          "endIndex": 5538,
+          "text": "逃げ出さない理由は「出られない」のではなく、タコが「自ら出たがらない」からです"
+        },
+        "groundingChunkIndices": [
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5541,
+          "endIndex": 5745,
+          "text": "タコは骨がない軟体動物のため外敵に狙われやすく、暗くて狭い岩穴に体が密着している状態に強い安心感を覚える習性（正の走触性）を持っています"
+        },
+        "groundingChunkIndices": [
+          14,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 8552,
-          "endIndex": 8771,
-          "text": "この渦の内側（鳥の真後ろ）には強い「吹き下ろしの風（下降気流）」が発生しますが、翼端の外側（斜め後ろ）には「吹き上げの風（上昇気流）」が発生します"
+          "startIndex": 5748,
+          "endIndex": 5964,
+          "text": "壺の中にぴったりとおさまり落ち着いてしまっているため、海中からロープで引き揚げられる間も、外に泳ぎ出るどころか奥へ奥へと踏ん張って居座り続けます"
         },
         "groundingChunkIndices": [
-          14,
+          14
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6006,
+          "endIndex": 6182,
+          "text": "日本のタコ壺漁の歴史は弥生時代（約2,000年以上前）にまで遡り、各地の遺跡から素焼きのタコ壺（蛸壺形土器）が出土しています"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6185,
+          "endIndex": 6392,
+          "text": "底引き網漁などに比べてタコの体に傷がつかず、ストレスが少ない状態で生きたまま水揚げできるため、市場でも高値で取引される極上のタコになります"
+        },
+        "groundingChunkIndices": [
+          16,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6419,
+          "endIndex": 6581,
+          "text": "タコ壺は獲物を無理やり閉じ込める「罠」というより、タコにとっては「最高の隠れ家（無料の個室マンション）」です"
+        },
+        "groundingChunkIndices": [
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6584,
+          "endIndex": 6749,
+          "text": "エサで誘い込む必要すらなく、壺を沈めておくだけで、夜の食事を終えたタコが朝方に自分から好んで入って眠り込みます"
+        },
+        "groundingChunkIndices": [
           17,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 8774,
-          "endIndex": 8939,
-          "text": "後続の鳥は、この前を飛ぶ鳥が作った上昇気流に自分の翼を重ねることで、少ない力で揚力を得て楽に飛ぶことができます"
+          "startIndex": 6779,
+          "endIndex": 6959,
+          "text": "現在のタコ壺は軽くて丈夫なプラスチック製も使われますが、日間賀島などでは伝統的な陶器・素焼きの壺も長く愛用されてきました"
         },
         "groundingChunkIndices": [
-          14,
-          18,
+          16,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6962,
+          "endIndex": 7174,
+          "text": "弥生時代の素焼き土器と現代のタコ壺を見比べると、驚くほど形やサイズが変わっておらず、約2,000年前の漁師の観察眼が現代までそのまま生き続けています"
+        },
+        "groundingChunkIndices": [
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 8942,
-          "endIndex": 9127,
-          "text": "真後ろにいると強い下降気流に叩き落とされるため、一番得をする斜め後ろへ1羽ずつズレて並んだ結果、自然と美しい「V字」になります"
+          "startIndex": 7204,
+          "endIndex": 7252,
+          "text": "四国水族館「展示解説：蛸壷の景」"
         },
         "groundingChunkIndices": [
-          18,
-          16
+          15
         ]
       },
       {
         "segment": {
-          "startIndex": 9166,
-          "endIndex": 9577,
-          "text": "**ミリ秒単位の同調**：2014年に科学誌『Nature』に掲載された研究（英国ロンドン大学チーム）によると、後続の鳥は前の鳥の約1メートル斜め後ろをキープし、上昇気流を最大限利用するために前の鳥の翼の動きに合わせて羽ばたきのタイミングを数ミリ秒単位で完全に同期させていることが実証されました"
+          "startIndex": 7347,
+          "endIndex": 7377,
+          "text": "日間賀島のタコ漁）」"
         },
         "groundingChunkIndices": [
-          13,
-          16
+          18
         ]
       },
       {
         "segment": {
-          "startIndex": 9583,
-          "endIndex": 9795,
-          "text": "**航空機への応用**：この鳥の知恵を真似て、大型旅客機同士を編隊飛行させる実証実験では、後続機の燃料消費が約5〜10%削減されることが確認されています"
+          "startIndex": 7347,
+          "endIndex": 7413,
+          "text": "日間賀島のタコ漁）」、水族館用語辞典「蛸壺」"
         },
         "groundingChunkIndices": [
-          14,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7635,
+          "endIndex": 7782,
+          "text": "愛知県瀬戸市は、平安時代から灰釉を使った本格的な施釉陶器を日本で唯一焼き続けてきた歴史ある窯場です"
+        },
+        "groundingChunkIndices": [
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 9817,
-          "endIndex": 9938,
-          "text": "「V字の先頭」を飛ぶ鳥は誰の上昇気流も受けられないため、最も体力を激しく消耗します"
+          "startIndex": 7785,
+          "endIndex": 7998,
+          "text": "東日本を中心に陶磁器全般を「せともの」と呼ぶようになったのは、瀬戸が日用の食器から美術品まで圧倒的な流通量を誇り、全国の食卓へ普及したためです"
         },
         "groundingChunkIndices": [
-          14,
-          20,
-          15
+          19,
+          20
         ]
       },
       {
         "segment": {
-          "startIndex": 9941,
-          "endIndex": 10121,
-          "text": "そのため、先頭は固定された群れのリーダーではなく、疲れたら列の後ろに下がり、別の鳥が交代して順番に先頭を引き受けています"
+          "startIndex": 8040,
+          "endIndex": 8271,
+          "text": "江戸時代初期、九州で白いガラス質の「磁器（有田焼など）」が開発されると、旧来の陶器（土もの）しか作れなかった瀬戸焼は人気を奪われ、壊滅的な不況に陥りました"
         },
         "groundingChunkIndices": [
-          14,
-          20,
-          15
+          19,
+          21,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 10401,
-          "endIndex": 10701,
-          "text": "しかし、GPSや加速度計を鳥の背中に取り付ける超小型データロガーの開発により、鳥たちが意識せずとも気流の圧力変化を身体で感じ取り、完璧に省エネポジションを捉えていることが現代のテクノロジーで証明されました"
+          "startIndex": 8274,
+          "endIndex": 8571,
+          "text": "有田から遅れること約200年、瀬戸の陶工・加藤民吉が九州から門外不出の磁器技術を持ち帰ったことで瀬戸でも磁器生産が爆発的に広がり、陶器と磁器の両方を大量生産する世界屈指のやきもの産地へ大復活を遂げました"
         },
         "groundingChunkIndices": [
-          13,
+          23,
+          22,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8574,
+          "endIndex": 8757,
+          "text": "西日本では唐津焼に由来してやきものを「からつもの」と呼ぶ地域もありますが、東日本では「せともの」が代名詞として定着しました"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8784,
+          "endIndex": 9186,
+          "text": "一般的な産地は「陶器（土もの）」か「磁器（石もの）」のどちらか一方に偏ることが多いのに対し、瀬戸地域は良質な陶土（蛙目粘土など）と、花崗岩が風化してできた磁器の原料土（サバ土）の両方が同じ地層（瀬戸層群）から採れるという、世界でも極めて珍しい恵まれた大地を持っています"
+        },
+        "groundingChunkIndices": [
+          25,
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9216,
+          "endIndex": 9351,
+          "text": "瀬戸の磁器の祖として神様（窯神神社）に祀られている加藤民吉ですが、実は「窯屋の次男」でした"
+        },
+        "groundingChunkIndices": [
+          26,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9354,
+          "endIndex": 9573,
+          "text": "当時の掟で家業を継ぐことができず、名古屋の熱田新田の開発現場で土木工事に従事していたところ、熱田奉行の津金文左衛門に才能を見出されて磁器研究を開始"
+        },
+        "groundingChunkIndices": [
+          26,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9576,
+          "endIndex": 9720,
+          "text": "その後、藩と地域の期待を背負って九州へ旅立ち、苦難の末に技法を習得して瀬戸を救う英雄となりました"
+        },
+        "groundingChunkIndices": [
+          26,
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9750,
+          "endIndex": 9813,
+          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9750,
+          "endIndex": 9873,
+          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」"
+        },
+        "groundingChunkIndices": [
+          26
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9750,
+          "endIndex": 9966,
+          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」、瀬戸市歴史文化基本構想「加藤民吉・磁祖民吉屋敷跡・民吉墓碑」"
+        },
+        "groundingChunkIndices": [
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9750,
+          "endIndex": 10023,
+          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」、瀬戸市歴史文化基本構想「加藤民吉・磁祖民吉屋敷跡・民吉墓碑」、瀬戸市文化振興財団「瀬戸染付の全貌」"
+        },
+        "groundingChunkIndices": [
+          22
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10894,
+          "endIndex": 10999,
+          "text": "タコには、狭くて暗い隙間に体がピタッと密着すると落ち着く習性があります"
+        },
+        "groundingChunkIndices": [
+          14,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 10755,
-          "endIndex": 10869,
-          "text": "J. Portugal et al., 2014: *Upwash exploitation and downwash avoidance by flap phasing in ibis formation flight*）"
+          "startIndex": 11002,
+          "endIndex": 11101,
+          "text": "タコ壺は獲物を閉じ込める檻ではなく、タコにとっては「最高の隠れ家」"
         },
         "groundingChunkIndices": [
-          13,
           16
         ]
       },
       {
         "segment": {
-          "startIndex": 11154,
-          "endIndex": 11330,
-          "text": "約1,000年間、青い鳥のブッポウソウの声だと信じられていましたが、実は小型のフクロウ「コノハズク」の声だったと判明しました"
+          "startIndex": 11104,
+          "endIndex": 11251,
+          "text": "海から引き揚げられるときも、壺の奥でぎゅっと踏ん張って居座っているためフタがなくても逃げないのです"
         },
         "groundingChunkIndices": [
-          2,
-          0,
-          1
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 11469,
-          "endIndex": 11606,
-          "text": "**1番**：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた"
+          "startIndex": 11254,
+          "endIndex": 11352,
+          "text": "弥生時代から2,000年以上変わらない、タコの心理を突いた伝統の知恵です"
         },
         "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 11889,
-          "endIndex": 12026,
-          "text": "**1番：ラジオの全国生中継を聞いていた東京の傘屋さんが、「うちの飼い鳥と同じ声だ」と気づいた**"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12069,
-          "endIndex": 12183,
-          "text": "昭和10年6月、NHK名古屋放送局が鳳来寺山から鳥の鳴き声を全国ラジオ生中継しました"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12357,
-          "endIndex": 12375,
-          "text": "と驚いて連絡"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12378,
-          "endIndex": 12546,
-          "text": "鳥類学者が駆けつけて調べたところ、その飼い鳥が「コノハズク」だと判明し、千年の謎が電波に乗って一気に解決しました"
-        },
-        "groundingChunkIndices": [
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 12549,
-          "endIndex": 12636,
-          "text": "ラジオというメディアの歴史にとっても伝説的なエピソードです"
-        },
-        "groundingChunkIndices": [
-          1
+          16
         ]
       }
     ],
     "webSearchQueries": [
-      "霜柱 メカニズム 毛細管現象 持ち上げる力 国立科学博物館 OR 気象庁 OR 大学",
-      "愛知県 コノハズク ブッポウソウ 鳳来寺山 ラジオ放送 鳴き声",
-      "ウナギ 産卵場所 太平洋 塚本勝巳 調査 マリアナ海嶺",
-      "渡り鳥 V字飛行 翼端渦 省エネルギー 交代 ネイチャー 科学"
+      "せともの 語源 瀬戸焼 由来 瀬戸市 加藤民吉",
+      "タコ壺 なぜ逃げない 習性 水産 水族館",
+      "蒲郡みかん なぜ甘い 歴史 愛知県 JA蒲郡市",
+      "足助直し 塩の道 豊田市 三河湾 信州"
     ]
   }
 }
