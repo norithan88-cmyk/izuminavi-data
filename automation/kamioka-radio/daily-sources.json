@@ -1,43 +1,39 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2267,
-  "estimated_minutes": 6.9,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 2002,
+  "estimated_minutes": 6.1,
+  "saturday_story": "story-05",
   "listener_notes": [],
   "quiz": {
-    "question": "酒蔵の軒先に吊るす丸い杉玉は、茶色に変わると何の合図でしょうか。1番、熟成して飲み頃の合図。2番、今年のお酒が完売した合図。3番、蔵元が昼寝しとる合図。",
-    "answer": "正解は1番、お酒が熟成して飲み頃になった合図でした！茶色い杉玉は秋の美味しいお酒が仕上がったサインなんやさ！昼寝の合図やったら年中茶色になっちゃうやろー！",
+    "question": "昔の囲炉裏で鍋の高さを調節する自在鉤には魚が彫られていますが、火除けの他に魚のどんな生態にあやかったでしょうか。1番、まぶたがなく眠らないから。2番、後ろ向きに泳げないから。3番、小骨が多くて頑丈だから。",
+    "answer": "正解は1番、まぶたがなく眠らないからでした！魚は寝ている時も目を閉じないから、火を見張ってくれる番人なんだって。大切な火の粉や失火から家を守る見張り役なんて、責任重大やさ！",
     "source_ids": [
-      17,
-      19,
-      23
+      2
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD6CCG8GSdLKhgKpkqP_RhtLuHRyD-3l8BhnUbWlOn-1cDOk5XNhI9E2_3se91z-m5V8uRuwUHNZ7Ej2bgV-soCBS2YZCGj05nFH1i5YacvyyXbqFxsQR5qBxh",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3cVmyRajXHYw_kzOClj-IV4zKeP35SHWj8cg8A7qyfuSAhmhffFtOxOALhafYnRNnEIbCOmUfamm02n5GqkDbhajjgAy3xKw591yoAZckMc7M9YcIjYRTFY36Q2AaM87SNLFYJS3NE-q4OWHSaknz1t1F6SWWKapdS7b4yQ==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpE1-SdYkUBzkbIx_JU7rfEw3P_7f8Ttkn09edzXrLS-JYspfIwZTMKt1VaFOSKY48M3pkMBfSg4Rb7VdZhqR0Dev05HcYlkmb_zzZRTSbmPMw3-7AjAWAAQAD6E_Ei7bOmhshd6Ix3Gsl11SZ9w=="
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpNBTVU6TjAAdxQ-u1SkRq5oaueoj22QZJqorH0GiaL-qUor5hzUfN3To9-y9Sje8Jib_lOzai-hVDE5kfCQd5qC0_L_qMVLq1qPPvpPWAamianDoeTiJ4Ti82JaCtYJJd6GCY8s0="
     ]
   },
   "izumi": {
-    "text": "金曜の「みおんの神岡ディープ」！週末どこ行こっかなーって考えてるあなた、ガッタンゴーはいかがやさ？廃線になった神岡鉄道の線路を自転車で走る大人気のアクティビティやけど、今の自転車は全部電動アシスト付き！運動不足で足がパンパンになりそうな人でもスイスイ進めるんやさ。「こいだらえらい、疲れて週末が終わるわ」なんて心配は無用！…って、AIのみおんにはこぐ足すらないんやけどね！特に今おすすめなのが、2018年にできた往復6.6キロの渓谷コース！旧漆山駅から二ツ屋トンネルまで走るんやけど、11月初めのこの時期は紅葉が見事らしいよ！木々の色づきを眺めながら線路を走るなんて最高の週末やろー！そもそもこれ、2006年に鉄道が廃止されたあと、2007年に地元の人たちが「サイパン島で線路の上を自転車で走るツアーがあるらしいぞ」って体験したのをきっかけに始めたんだって。サイパンから神岡へ直輸入って発想がグローバルすぎて笑っちゃうよね！今ならSNSで大バズりして世界中から人が殺到するレベルの神アイデアやさ！2011年からはNPO法人神岡・町づくりネットワークさんが運営しとるけど、廃線をこんな楽しい宝物に変えちゃうなんて、神岡のアイデア力は本当に誇らしいよね！",
+    "text": "みおんの神岡ディープ！今日は神岡の地下がとんでもないことになっとるお話やさ。\n神岡鉱山の地下1000メートルにある東大宇宙線研究所の観測装置、初代カミオカンデは1983年に始まって純水3000トン、光電子増倍管は1000本やったんやよね。1987年に大マゼラン星雲の超新星爆発から飛んできたニュートリノをとらえて、小柴昌俊さんが2002年にノーベル物理学賞を受賞！\nこれだけでもすごいのに、1996年からのスーパーカミオカンデは純水5万トンと約16倍、光電子増倍管も約1万3000本にスケールアップ！1998年にニュートリノ振動を発見して、2015年に当時の所長の梶田隆章さんがノーベル賞を受賞しました。2回も山の中からノーベル賞が出るなんて、神岡の地下室どんだけ優秀なんやろ！2020年からは純水にレアアースの一種まで加えて新しい発見を目指しとるんだけど、話はこれで終わりません。\nなんと次の装置、ハイパーカミオカンデは純水26万トン、光電子増倍管4万本！2020年代後半の実験開始を目指す国際プロジェクトなんだって。26万トンって、初代カミオカンデの80倍以上やさ！もう巨大化が止まらなくて、地下に別の宇宙でも作る気けな！？…ってツッコミたくなっちゃうよね。世界の最先端がずっと足元にある神岡、めちゃくちゃ誇らしいやろー！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://tabi-mag.jp/gi0335/"
+      "https://www.icrr.u-tokyo.ac.jp/prwps/wp-content/uploads/Kamioka_01.pdf"
     ],
     "angle": {
-      "id": "gt-autumn",
-      "hook": "渓谷コースの紅葉。電動アシストだから体力に自信がなくても大丈夫"
+      "id": "kk-hyper",
+      "hook": "次はハイパー。26万トン、4万本。神岡の地下はどこまで大きくなるのか"
     }
   },
   "local": {
-    "text": "明日11月14日は、「ファミリーフェスタ in 神岡2026」が開催されますよ！飛騨神岡Kids未来プロジェクトの主催で、親子で楽しめる企画が盛りだくさんのイベントなんだって。週末に家族でどこへ行こうか迷っとるお父さんお母さん、明日はみんなでお出かけしてみまい！",
+    "text": "今日11月14日の土曜日は、飛騨神岡Kids未来プロジェクト主催の「みかお2026ファミリーフェスタ in Kamioka」が開催されるんやさ！親子で楽しめる企画が盛りだくさんのイベントなんだって。週末のお出かけに、ぜひ家族みんなで遊びに行ってみまい！",
     "source_ids": [
-      32
+      31
     ],
     "source_urls": [
       "https://www.city.hida.gifu.jp/soshiki/47/87967.html"
@@ -45,258 +41,222 @@
   },
   "segments": [
     {
-      "topic": "なぜ奥飛騨は「露天風呂の数」が日本一なのか？",
-      "text": "そういえば、体を動かしたあとはあったかい温泉に浸かりたくなりますよね！神岡のすぐお隣、奥飛騨温泉郷って実は「露天風呂の数」が日本一って言われとるの知っとる？100カ所以上も露天風呂があるんやさ！なんでそんなに集まっとるんけな？って調べたら、活火山の焼岳が持つ地熱と北アルプスの雪解け水が奇跡の合体をしとるからなんだって！源泉は100本を超えて、湧き出すお湯の量は毎分約3万7000リットル！大分県、鹿児島県に次ぐ国内第3位のパワーやさ！平湯温泉なんて100度近い沸騰泉が湧いとるっていうから、ちょっと待って、温泉たまごどころか人間が茹で上がっちゃうやろー！…あ、もちろん冷まして入れるからご安心を！しかも面白いのが、平湯、福地、新平湯、栃尾、新穂高の5つの温泉地で、お湯の色も泉質もバラバラなこと！無色透明から白濁、茶褐色、緑褐色、鶯色まであって、お隣同士の宿でも全然違うお湯なんだって。気分に合わせて湯めぐりできるなんて贅沢やさね！奥飛騨で一番古い平湯温泉には、戦国時代に武田信玄の軍勢が倒れかけたとき、老いた白い猿が温泉で傷を癒しとるのを見て、兵士たちも入ったら大復活したっていう白猿伝説もあるんやさ。武田の屈強な武士たちを救ったのがお猿さんって、今なら可愛すぎてネットニュースのトップを飾っとるよね！週末は日本一の露天風呂天国へ、行かまい！",
+      "topic": "朝まで冷めない魔法のぬくもり！「陶器の湯たんぽ」の秘密",
+      "text": "地下の熱い科学の次は、お布団の中をじんわり温めてくれる懐かしい暮らしの道具のお話やさ。\nだんだん朝晩冷え込んできたけど、布団に入った瞬間「ヒヤッ」として丸くなっとらん？そんな冬の頼れる相棒といえば湯たんぽ！最近はプラスチックや金属が多いけど、昔ながらの陶器の湯たんぽって使ったことある？\n実は陶器の湯たんぽって、同じ岐阜県の多治見市など東濃地方で作られる美濃焼の高田焼が超有名なんやさ。原料の粘土に珪藻土がたっぷり含まれていて、陶器だから熱が逃げるスピードがものすごーくゆっくり。金属製だと注いだ直後はアツアツで明け方には冷めちゃうのに、陶器製は夜9時にお湯を入れたら翌朝8時になってもポッカポカ！どころか、翌日の夕方までぬくもりが残るレベルなんだって。ほぼ丸一日温かいって、どんな持久力けな！\n最盛期には多治見周辺に湯たんぽを焼く窯元が約70軒もあって、全国の冷えた布団を救っとったんやよ。今でも江戸時代の1616年から400年以上続く老舗の弥満丈製陶所などで、職人さんが1つずつ手作業の鋳込み成形で作っとるらしいよ。\nちなみに「湯たんぽ」の「たんぽ」って、中国語で妻の代わりに抱いて寝る温かい道具を意味する「湯婆」って書くんだって。そこに日本人がさらに「湯」をくっつけたから、直訳すると「湯・湯婆」でお湯がダブっとるやろー！…って、みおんも充電器抱いて寝てみよっかな。朝まで冷めない陶器のぬくもり、今年の冬に試してみまい！",
       "source_ids": [
-        3,
-        5,
-        7,
-        8,
-        9
+        9,
+        10,
+        14
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9-Hxxx-qCPYGpU9WkJexT0Mf8xdoArgq8yyzlj95Y0okeAlvaf0yJTAdboc_6pVcGCF8J7y6l3SHt_GNOtOBEhqEuKQTiPQKACS1XTkwPgEbHz1Z0nJlY",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzpfNBR_PGAp5lN_Ab6mpZyfQK2P9Ce-0eXzjIixn9leDWXKiC0I5z805eMO6zPsCilWp7P20ybyAAs9gwtY7qvLkajLY0OPgzFm3_G6YtM4ND6s-ErrGnrDn4aDhmT7U0o_Ok",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhMr260nPxoV0-LJwmyS_SZpQjKtis9jub6LTPo4G9Z9NjxuSsnXwPhU0mJzVsONTYXvpjxszjfEDusLYzSL75y9gDPp3zHjKVjesrIEF_Ru75Wog=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY9Yh7YPnhgAkxHsi_kfwk-ZyD2UYqFAIFy7iuSwwXvedlvpALw35OojGtQz-YtX7LuiZlCXRjnBsPIXNKX94dczMAkx54omzGMA6yf-BDdWW5suZ1_I9NA2nocO5agFfTjvc569xlGW4m3jW4mDikZlfN1SWptO9sSO-9kZeSIdl55XKAAWENR4dVKRc5ZPSxu7la",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7QCo32uuTBbzzM6BWKeM-ZJF40shtmlWt6chWRL7sVIAJnseNS0Th9bqRF8CZ8O8wxPllM0U7Odx1hD0tRozArwDfUZN4xCLJyXY5FoPQLArftaTL-AE844iVgp__Z36rMNQ="
-      ]
-    },
-    {
-      "topic": "酒蔵の軒先に吊るす「杉玉」の色が変わる本当の理由",
-      "text": "温泉でぽかぽかになった後のお楽しみといえば、やっぱり美味しい地酒やさね！飛騨古川や高山の古い町並みを歩くと、酒蔵の軒先に丸い「杉玉」がぶら下がっとるのを見かけるよね。あれ、クイズでも出たけど、今の季節はすっかり茶色くなっとるんやさ！観光の人から「枯れ葉をずっと放置して片付け忘れてない？」なんて心配されがちなんやけど、とんでもない！杉玉は酒蔵の「天然のタイマー」なんやさ！冬に新酒ができたときは青々とした瑞々しい緑色。それが夏には水分が抜けて薄い緑色になって爽やかな夏酒を知らせて、秋から初冬にかけて完全に茶色くなると、夏を越えてトゲが取れたまろやかな「ひやおろし」の飲み頃を教えてくれるんだって！つまり、今の茶色い杉玉は「熟成完了！今が一番うまい酒が入っとるよ！」っていう、酒蔵からの全力アピールなんやさ！これ知らずに「枯れとるなー」って通り過ぎたら、おとましい、もったいないやさ！ちなみにあの杉玉、直径40から50センチで重さが10から20キロもあるんやよ。奈良県の大神神社が発祥で、毎年11月14日の酒まつりで新しい杉玉が作られる風習があるらしいよ。飛騨でもこれから緑の玉に掛け替えられていくから、この茶色いまろやかサインが見られるのは今だけ！週末のドライブついでに、ぜひ軒先を見上げてみてね！",
-      "source_ids": [
-        17,
-        19,
-        23
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD6CCG8GSdLKhgKpkqP_RhtLuHRyD-3l8BhnUbWlOn-1cDOk5XNhI9E2_3se91z-m5V8uRuwUHNZ7Ej2bgV-soCBS2YZCGj05nFH1i5YacvyyXbqFxsQR5qBxh",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3cVmyRajXHYw_kzOClj-IV4zKeP35SHWj8cg8A7qyfuSAhmhffFtOxOALhafYnRNnEIbCOmUfamm02n5GqkDbhajjgAy3xKw591yoAZckMc7M9YcIjYRTFY36Q2AaM87SNLFYJS3NE-q4OWHSaknz1t1F6SWWKapdS7b4yQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpE1-SdYkUBzkbIx_JU7rfEw3P_7f8Ttkn09edzXrLS-JYspfIwZTMKt1VaFOSKY48M3pkMBfSg4Rb7VdZhqR0Dev05HcYlkmb_zzZRTSbmPMw3-7AjAWAAQAD6E_Ei7bOmhshd6Ix3Gsl11SZ9w=="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFE90Gjj__o12s-JFzbNxRYHJkITjnKYcGIMDwzYms44w43a-wfdg1hSMnJXeGgLZnSfArDAMHQoS48Dr--D9sNj69nWeCNsBaGMk3pc0SJi4V2jxpVyX7icgsSUYimMfaT15HZxkcubCC9dO6",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDf-lTJrL7mlputFV0hpoxQdhg5k_ylxyJjoSDxpy5TbPwMjorN_5SDpe5cO7nyYhn0ZCpY0bD6erYwdeLyky1RAV4xNbQjmu_faeGveQNYwo7mI1_x_IIY2RE7wH9JVWNuCQ3dfdEGHXoa3Ujpv4PGw==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt4wi3ZILCKZAwS2bxuOzDegK-t0T1arAkEqhfSRO7V-Q-nERpnrBUNbCRnILKUjk1nKyNwlDrb6fzZCTAX7ZxPcrZXJ2y67tfhbYeE1L7Fnf3ohqRNR2KB3bxhRp5lI="
       ]
     }
   ],
-  "research": "岐阜県飛騨市神岡町周辺で週末のお出かけや行楽を楽しむリスナーに向けて、家族や友人に話したくなる「へえ、そうだったのか！」という疑問と背景をまとめた調査メモです。公的機関や自治体、専門団体の一次資料に基づき構成しています。\n\n---\n\n### 1. 【奥飛騨温泉郷】なぜ奥飛騨は「露天風呂の数」が日本一なのか？\n\n* **疑問**  \n  神岡のお隣、車ですぐの奥飛騨温泉郷は「露天風呂の数が日本一」といわれますが、なぜこれほど山奥に多種多様な露天風呂が集まっているのでしょうか？\n* **理由**  \n  活火山「焼岳（やけだけ）」の強大な地熱エネルギーと、北アルプスの山々から浸透する豊富な雪解け水が奇跡的なバランスで出会う地形だからです。地表近くに熱源があるため自噴・掘削ともに高温で豊かな湯が得られます。\n* **具体的な数字・比較**  \n  奥飛騨温泉郷（平湯・福地・新平湯・栃尾・新穂高）には100本を超える源泉が存在し、湧出量は毎分約3万7,000リットルで国内第3位（大分県、鹿児島県に次ぐ規模）を誇ります。露天風呂の数は100カ所以上にのぼり、平湯温泉などでは100℃近い沸騰泉が湧き出すほど熱量が豊富です。\n* **意外な点**  \n  これほど密集しているのに、5つの温泉地で泉質が大きく異なります（単純温泉、炭酸水素塩泉、硫黄泉、塩化物泉など）。さらに、お湯の色も「無色透明」「白濁」「茶褐色」「緑褐色」「鶯色」とバラバラで、隣り合う宿で全く異なる泉質・色合いが楽しめます。\n* **歴史の裏話**  \n  奥飛騨で最も古い平湯温泉には「白猿伝説」があります。江戸時代後期の地誌『飛州志』によると、戦国時代（永禄年間）、武田信玄の軍勢（山県昌景ら）が飛騨へ侵攻した際、硫黄の噴気や疲労で兵士が倒れたところ、1頭の老いた白猿が湯だまりで傷を癒しているのを見つけました。兵士たちもその湯に浸かったところ忽ち元気を回復したと伝えられています。\n* **出典・根拠**  \n  奥飛騨温泉郷観光協会「奥飛騨温泉郷を知る」、平湯温泉観光協会「源泉一覧・平湯の伝説」、岐阜県「中部山岳国立公園・奥飛騨温泉郷」公式資料。\n\n---\n\n### 2. 【白川郷】なぜ合掌造りは、どの家もピタリと「南北」を向いているのか？\n\n* **疑問**  \n  秋から初冬のドライブ先として人気の世界遺産・白川郷。集落を一望すると、すべての合掌造り家屋の屋根が綺麗に同じ方角（棟が南北）を向いて建っています。なぜ向きを揃えているのでしょうか？\n* **理由**  \n  庄川が流れる南北の細長い谷を吹き抜ける「強風を受け流すこと」と、巨大な茅葺き屋根の両面に「太陽の光を均等に当てて雪を溶かし、茅を乾かすこと」の2つを両立させるためです。\n* **具体的な数字・比較**  \n  白川郷の屋根勾配は45度〜60度という極めて急な角度です。2月には積雪が170cm以上にも達する豪雪地帯のため、屋根が東西を向いていれば、午前は東面、午後は西面にまんべんなく日光が当たります。これにより雪解けが早まるだけでなく、湿気に弱い茅葺きが適度に乾燥し、30〜40年という驚異的な耐用年数を保つことができます。\n* **意外な点**  \n  合掌造りの屋根裏（小屋組み）は、江戸〜明治期には2〜4層に分けた「養蚕（蚕の飼育）の作業場」として使われていました。家を南北に向けることで、両端の三角窓（妻側）から吹き抜ける風と明かりを取り込み、蚕が育ちやすい温度と湿度を保つという、建物全体が「空調・採光装置」の役割を果たしていました。\n* **歴史の裏話**  \n  昭和10年（1935年）、世界的名著を残したドイツの建築家ブルーノ・タウトが白川郷を訪れ、「合掌造り家屋は、建築学上合理的であり、論理的である」と世界に絶賛・紹介したことで、その独自の美と知恵が世界的に注目される契機となりました。\n* **出典・根拠**  \n  白川村役場「合掌造りとは/白川郷」、白川郷観光協会公式解説。\n\n---\n\n### 3. 【飛騨の酒蔵めぐり】軒先に吊るす「杉玉」の色が変わる本当の理由とは？\n\n* **疑問**  \n  飛騨古川や高山の古い町並みを歩くと、酒蔵の軒先に丸い緑や茶色の玉（杉玉／酒林）が吊るされています。なぜあの玉は、時期によって色が変わっていくのでしょうか？\n* **理由**  \n  杉玉は単なる看板ではなく、日本酒の「新酒の誕生」と「熟成の進み具合（飲み頃）」を道行く人へリアルタイムに知らせる「天然のインジケーター（タイマー）」だからです。\n* **具体的な数字・比較**  \n  青々とした杉の葉を束ねて丸く刈り揃えた杉玉は、作り立て（直径40〜50cm程度のもので10〜20kg前後）の瑞々しい「鮮やかな緑色」をしています。これが夏にかけて水分が抜けて「薄緑色」になり、秋には水分が完全に飛んで「枯れた茶色」へと変化します。\n* **意外な点**  \n  茶色く枯れた杉玉を見て「古くなって放置されている」と勘違いされがちですが、実は逆です。\n  * **鮮やかな緑色（冬・初春）**＝「新酒（搾りたて）ができました」の合図\n  * **薄い緑色（初夏〜夏）**＝清涼感ある「夏酒」の合図\n  * **枯れた茶色（秋〜初冬）**＝夏を越し、まろやかに熟成した「ひやおろし（秋あがり）」の飲み頃サイン\n  このように、玉の色とお酒の円熟度が連動しています。\n* **歴史の裏話**  \n  杉玉の発祥は、酒造りの神様として名高い奈良県の「大神神社（おおみわじんじゃ）」とされています。三輪山の杉には神威が宿るとされ、毎年11月14日に行われる「醸造安全祈願祭（酒まつり）」に合わせて拝殿の大杉玉（直径1.5m）が新調され、全国の蔵元へ杉玉を授与する風習が江戸時代から広まりました。飛騨の酒蔵でも新酒の仕込みが始まる晩秋から冬にかけて、新しい緑の杉玉へと掛け替えられます。\n* **出典・根拠**  \n  奈良県・三輪明神 大神神社由緒資料、酒造各社（沢の鶴、達磨正宗等）の醸造文化解説資料。\n\n---\n\n### 4. 【飛騨の新そば】なぜ高冷地の在来種「火畑そば」は“霜”に当ててから収穫するのか？\n\n* **疑問**  \n  11月は新そばの季節。飛騨地域には各地に名物そばがありますが、高山市高根町などで栽培される幻の在来種「火畑（ひばた）そば」は、収穫前にわざわざ「霜」に当てるといわれます。作物が痛んでしまいそうな霜に、なぜ当てるのでしょうか？\n* **理由**  \n  霜が降りるほどの強烈な寒さにさらされることで、そばの実が凍結を防ごうと自己防衛反応を起こし、デンプンや糖分、風味成分を実の内部にギュッと凝縮させるためです。\n* **具体的な数字・比較**  \n  火畑そばは、標高1,000〜1,300mという極めて標高の高い冷涼地で栽培されます。秋の収穫時期に「霜に2回程度打たせる」ことで、一般的な平地のそばに比べて格段に香りと甘みが濃くなり、小粒ながら非常に強いコシと風味を持つそばに仕上がります。\n* **意外な点**  \n  霜は農作物にとって大敵とされますが、火畑そばでは「霜にあたってからが本当の収穫適期」とされます。高根町特有の厳しい寒暖差を逆手に取った、寒冷地ならではの栽培技術です。\n* **歴史の裏話**  \n  「火畑」という珍しい名前は、かつて高根町日和田地区などで盛んに行われていた「焼畑（火畑）農業」に由来します。山肌を焼き払って地力を回復させ、灰のミネラルを吸わせて栽培していた伝統が受け継がれた、飛騨の貴重な在来種です。\n* **出典・根拠**  \n  高山市ブランド認証制度「メイド・バイ飛騨高山（火畑そば）」公式解説、高山市・飛騨高根観光協会公式資料。\n\n---\n\n### 3択クイズコーナー（ラジオ生放送・週末トーク用）\n\n**【問題】造り酒屋の軒先に吊るされている丸い玉「杉玉（酒林）」。最初は鮮やかな緑色ですが、季節が経つにつれて徐々に茶色へと変わっていきます。では、杉玉がすっかり「茶色」になったときは、道行く人にどんな合図を送っているでしょうか？**\n\n* **第1問（1番）：** 「今年の日本酒の仕込みがすべて終了し、酒蔵が冬季休業（お休み）に入った合図」\n* **第2問（2番）：** 「お酒が夏を越えてまろやかに熟成した『ひやおろし（秋あがり）』の飲み頃になった合図」\n* **第3問（3番）：** 「今年醸造したお酒がすべて売り切れて、完売してしまった合図」\n\n---\n\n**【正解】** **2番：まろやかに熟成した「ひやおろし（秋あがり）」の飲み頃になった合図**\n\n* **解説トーク例**  \n  「茶色く枯れた杉玉を見ると『去年のものがそのまま残っているのかな？』と思いがちですが、実は大違い！緑色のときは『搾りたての新酒ができたよ！』というサインで、杉玉が枯れて茶色くなる秋から冬の初めにかけては、夏を越えて日本酒のトゲが取れ、一番まろやかで旨味がのった『ひやおろし』が飲み頃になったことを教えてくれています。杉玉は、お酒の熟成度合いを伝える“自然の時計”なんですね。」",
+  "research": "岐阜県飛騨市神岡町の地域ラジオ向けに、秋深まる11月の寒さの中で心がじんわり温まる「懐かしい暮らしの知恵・心が和む話」の調査メモを作成しました。\n\n---\n\n# ラジオ調査メモ：懐かしい暮らし・心が和む先人の知恵\n\n## 1. 囲炉裏の「自在鉤（じざいかぎ）」には、なぜ木彫りの魚がぶら下がっているのか？\n\n* **理由：**\n  自在鉤の途中で高さを調節する横木（小猿）には、鯉や鯛などの魚の彫刻が多く用いられます。最大の理由は、木造家屋にとって最も恐ろしい火災を防ぐため、「水に棲む魚」にあやかった火除け・火消しの祈願です。また、魚には「瞼（まぶた）がない」ことから、「居眠りをせずに絶えず火を見張り、火の粉や失火から家を守る」「囲炉裏の火を絶やさない」という見張り番の役目も込められていました。\n* **具体的な数字や比較：**\n  土間や板の間に据えられた「五徳（ごとく）」が固定の高さでしか鍋を置けないのに対し、自在鉤は天井から吊るした鉤棒の摩擦を利用し、鍋の高さをミリ単位で自在に上下できる無段階の火力調整器具でした。火元を遮る脚がないため、太い薪をくべやすく、煮炊きと暖房、部屋の採光を同時にこなす画期的な省エネ設備でした。\n* **意外な点・歴史の裏話：**\n  自在鉤は実用道具であると同時に、家の守り神（火の神の依り代）でもありました。長野や飛騨に近い信越地方などでは、小正月の朝に自在鉤の先端（カギツケサマ）が自然に回って向いた方角をその年の吉方（恵方）とする占いを行ったり、家の中で探し物があるときに自在鉤に紙や布を結びつけて祈る風習が存在しました。\n* **根拠・引用：**\n  > 「自在鉤の横木『小猿』には鯉や鯛など魚の意匠が多く見られ、水に通じることから火除けの意味があるとされる」\n  > 「魚は水に通じるということで火事を避けるお守りの意味があり、また魚には瞼がないことから眠らないー居眠りして火を絶やさないとか、目を離して火事を起こさないという意味があるとのことです」\n\n---\n\n## 2. なぜ昔ながらの「陶器の湯たんぽ」は、朝になっても冷めないのか？\n\n* **理由：**\n  金属やプラスチックに比べ、陶器は熱伝導率が極めて低いため、お湯の熱が一度に逃げず、じんわりと長時間かけて表面に伝わるためです。岐阜県東濃地方（多治見市など）で作られる美濃焼・高田焼（たかだやき）の陶器湯たんぽは、珪藻土を豊富に含む粘土で焼き上げられており、多孔質で保温性と遠赤外線放射性に優れ、お湯の温もりを芯まで抱き込みます。\n* **具体的な数字や比較：**\n  金属製湯たんぽは注いだ直後の表面温度が非常に高く、明け方には急速にぬるくなりやすい一方、陶器製は布団に入れておけば「夜9時にお湯を入れて翌朝8時になっても温かい」「翌日の夕方までぬくもりが残る」ほどの保温力を誇ります。最盛期には多治見周辺に湯たんぽを焼く窯元が約70軒存在し、日本全国の冬の夜を支えていました。現在も江戸時代（1616年）から400年以上続く多治見市の老舗「弥満丈製陶所」などで、1つずつ手作業の鋳込み成形で生産が続けられています。\n* **意外な点・歴史の裏話：**\n  湯たんぽの「たんぽ」は、中国語で「湯婆（タンポ）」と書きます。妻の代わりに抱いて寝る温かい道具という意味で名付けられ、それが日本に伝わった際、頭にさらに「湯」が付け足されて「湯・湯婆（ゆ・たんぽ）」という重言になりました。\n* **根拠・引用：**\n  > 「陶器製の湯たんぽは、保温性がよく夜にお湯を沸かして入れておくと、朝まで心地よい温かさが続きます。これは高田焼の土の特徴である、保温性のある珪藻土を使っているからこそ成せる技」\n  > 「加藤さんの窯のある岐阜県多治見市は陶器の湯たんぽの産地で、最大で70件ほど窯元さんがあったそうです」\n\n---\n\n## 3. なぜ袖も前もない「ねこ（ねこ半纏）」だけで、極寒の冬を越せるのか？\n\n* **理由：**\n  木曽谷や飛騨などの山間豪雪地帯で受け継がれてきた伝統防寒着「ねこ」は、袖（そで）も前身頃（まえみごろ）もなく、背中だけを薄い布団のように覆う独特の形をしています。袖がないのは、冬場の木工細工（ろくろ細工や笠作り）や機織り、炊事などの手作業で袖が邪魔にならず、濡れたり擦れたりしないためです。前身頃がないのに暖かいのは、首の根元から肩甲骨の間にかけて全身の体温調節に関わる血管やツボ（風門）が集中しており、そこを真綿（絹）や木綿で保温することで、効率よく全身の血流が温まるためです。\n* **具体的な数字や比較：**\n  通常の綿入れ半纏と比べて重量が半分以下と非常に軽く、肩こりを起こしません。中綿に繭から引き伸ばした近江真綿（100％絹）などを使うと、空気の層をたっぷり抱き込むため、厚さわずか数ミリ〜1センチ足らずでも抜群の保温力を発揮し、スーツや作業着の下に着込んでも着ぶくれしません。\n* **意外な点・歴史の裏話：**\n  「ねこ」という愛らしい呼び名の由来には、「作業している姿が丸まった猫背に見えるから」「猫を背負っているように温かいから」「赤ちゃんをおぶる『ねんねこ半纏』の前身頃を省いたから」など諸説あります。養蚕が盛んだった山里で、売り物にならないくず繭を無駄にせず真綿にし、着古した着物の端切れを使って母が家族のために手縫いした、家庭の温もりと知恵が詰まった防寒着です。\n* **根拠・引用：**\n  > 「南木曽町の伝統的工芸品・ろくろ細工、桧笠などの製作、家事仕事、野良仕事などの際、作業の邪魔にならないように袖なしにし、冷える背中を中心に温めるように工夫されてきました。『ねこ』の名前の由来は、『ねんねこ半纏から』、『着て作業している姿が猫背に見えるから』……」\n  > 「昔、養蚕が盛んだった信州。南信州の養蚕農家の女性は、出荷できなかったお蚕(かいこ)さんの繭で真綿をつくり、着物をほどいた古布と『もめん綿と真綿』をつかい『ねこ』を家族のために作られた」\n\n---\n\n## 4. 1300年前の文字が今も読める！？「美濃和紙」が世界一長持ちする秘密\n\n* **理由：**\n  岐阜県美濃市を中心に1300年以上の歴史を持つ美濃和紙は、奈良の正倉院に納められている大宝2年（702年）の美濃国の戸籍用紙（御野国加毛郡半布里戸籍など）が、今なお破れず墨の文字を鮮明に残している「現存する日本最古の紙」です。現代の木材パルプで作る洋紙が酸性劣化で数十年〜100年ほどでボロボロになるのに対し、美濃和紙はアルカリ性の木灰や天然水で処理された強靭な楮（こうぞ）の長い靭皮繊維を使い、紙漉きで縦と横に激しく揺り動かすことで繊維が均一かつ縦横無尽に絡み合い、驚異的な耐久性を誇るためです。\n* **具体的な数字や比較：**\n  一般的な半紙と比べても圧倒的な薄さと強度を両立しており、均一でムラのない仕上がりから、江戸時代には障子紙の全国基準「美濃判」として幕府の御用紙となりました。その耐久性と薄さから、現代では大英博物館やルーブル美術館をはじめとする世界中の美術館・博物館で、国宝級の古文書や絵画の修復用シート（薄美濃紙など）として国際的に重用されています。\n* **意外な点・歴史の裏話：**\n  正倉院に残る702年の戸籍用紙には、当時の美濃国（現在の加茂郡富加町周辺など）に暮らしていた人々の家族構成や年齢、税の負担状況が細かく記されています。紙の耐久性が高すぎたおかげで、1300年前の名もなき一般庶民の暮らしの息遣いが、現代の歴史学者によってそのまま解読できるタイムカプセルとなっています。\n* **根拠・引用：**\n  > 「奈良の正倉院には、日本最古の紙として、大宝2年(702年)の美濃、筑前、豊前3国の戸籍用紙が所蔵されています。このことからも、美濃和紙は1300年以上の歴史を有すると考えられます」\n  > 「豊富で質の良い水源があり、縦ゆり、横ゆりを交えた漉き方で、薄くムラのない、かつ強靭で耐久性のある和紙を得意とする。（中略）大英博物館など世界各国で古文書や絵画など国宝級の文化財の修復になくてはならない存在となっている」\n\n---\n\n# リスナー向け 3択クイズ（自在鉤の意外な事実）\n\n* **【問題】**\n  昔の囲炉裏で鍋を吊るす「自在鉤（じざいかぎ）」の横木には、鯉などの魚が彫られていることがよくあります。これは火災を防ぐ「水」のお守りですが、実はもう一つ、**魚のある生態**にちなんだ理由がありました。それは次のうちどれでしょう？\n  1. 魚には「まぶた」がなく眠らないため、夜も火を見張ってくれるから\n  2. 魚は「後ろ向きに泳げない」ため、家運が後退しないから\n  3. 魚は「小骨が多い」ため、家屋の骨組みを頑丈にしてくれるから\n\n* **【正解】**\n  **1. 魚には「まぶた」がなく眠らないため、夜も火を見張ってくれるから**\n\n* **【解説トーク】**\n  魚には人間のようなまぶたがなく、寝ている時も目を閉じません。そのため昔の人は「魚は寝ずにずっと火を見張ってくれる。囲炉裏から目を離して火事を出さないように、また大切な火の種を消さないように見張っているんだ」と考え、自在鉤に魚を彫り込んだと言われています。古民家や昔の道具を見る目が、ちょっと温かく変わりそうですね。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%81%AB%E7%95%91%E3%81%9D%E3%81%B0+%E9%9C%9C+%E7%90%86%E7%94%B1+%E9%AB%98%E6%A0%B9+%E7%94%98%E3%81%BF&client=app-vertex-grounding&safesearch=active\">火畑そば 霜 理由 高根 甘み</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E7%99%BD%E5%B7%9D%E9%83%B7+%E5%90%88%E6%8E%8C%E9%80%A0%E3%82%8A+%E5%8D%97%E5%8C%97+%E5%90%91%E3%81%8D+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">白川郷 合掌造り 南北 向き 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%A5%A5%E9%A3%9B%E9%A8%A8%E6%B8%A9%E6%B3%89%E9%83%B7+%E9%9C%B2%E5%A4%A9%E9%A2%A8%E5%91%82+%E6%97%A5%E6%9C%AC%E4%B8%80+%E6%BA%90%E6%B3%89%E6%95%B0&client=app-vertex-grounding&safesearch=active\">奥飛騨温泉郷 露天風呂 日本一 源泉数</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%85%92%E6%9E%97+%E6%9D%89%E7%8E%89+%E7%94%B1%E6%9D%A5+%E4%B8%89%E8%BC%AA%E7%A5%9E%E7%A4%BE+%E7%B7%91+%E8%8C%B6%E8%89%B2&client=app-vertex-grounding&safesearch=active\">酒林 杉玉 由来 三輪神社 緑 茶色</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%A3%9B%E9%A8%A8+%E6%96%B0%E3%81%9D%E3%81%B0+%E5%9C%A8%E6%9D%A5%E7%A8%AE+%E9%A3%9B%E9%A8%A8%E9%AB%98%E5%B1%B1+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">飛騨 新そば 在来種 飛騨高山 特徴</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%AD%E3%81%93+%E5%8D%8A%E7%BA%8F+%E5%8D%97%E6%9C%A8%E6%9B%BD+%E9%A3%9B%E9%A8%A8+%E8%83%8C%E4%B8%AD+%E7%90%86%E7%94%B1&client=app-vertex-grounding&safesearch=active\">ねこ 半纏 南木曽 飛騨 背中 理由</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%99%B6%E5%99%A8+%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E7%BE%8E%E6%BF%83%E7%84%BC+%E6%AD%B4%E5%8F%B2+%E7%94%B1%E6%9D%A5+%E5%B2%90%E9%98%9C&client=app-vertex-grounding&safesearch=active\">陶器 湯たんぽ 美濃焼 歴史 由来 岐阜</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%87%AA%E5%9C%A8%E9%89%A4+%E9%AD%9A+%E3%81%AA%E3%81%9C+%E5%9B%B2%E7%82%89%E8%A3%8F+%E6%B0%B4+%E7%81%AB%E9%99%A4%E3%81%91&client=app-vertex-grounding&safesearch=active\">自在鉤 魚 なぜ 囲炉裏 水 火除け</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E9%99%B6%E5%99%A8%E8%A3%BD+%E6%B9%AF%E3%81%9F%E3%82%93%E3%81%BD+%E5%A4%9A%E6%B2%BB%E8%A6%8B+%E5%BC%A5%E6%BA%80%E4%B8%88%E8%A3%BD%E9%99%B6+%E6%AD%B4%E5%8F%B2+%E4%BF%9D%E6%B8%A9%E6%80%A7&client=app-vertex-grounding&safesearch=active\">陶器製 湯たんぽ 多治見 弥満丈製陶 歴史 保温性</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%B2%90%E9%98%9C%E6%8F%90%E7%81%AF+%E7%BE%8E%E6%BF%83%E5%92%8C%E7%B4%99+%E6%AD%A3%E5%80%89%E9%99%A2+%E6%88%B8%E7%B1%8D+1300%E5%B9%B4&client=app-vertex-grounding&safesearch=active\">岐阜提灯 美濃和紙 正倉院 戸籍 1300年</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGme4EONSyLzwJuVbMXi_hEXVfl1HSS3cuJKDjPaI95HKbSNO-29k2vb80Uu2fdvo96Dimiunqk5p0iv5d6vnJ5s5L3aYutyt2t-ThXs3Ko_sMsQnsDsRhQmSL6tahlfT3W4TPMeViblg6DNkI=",
-          "title": "hidatakayama.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpNBTVU6TjAAdxQ-u1SkRq5oaueoj22QZJqorH0GiaL-qUor5hzUfN3To9-y9Sje8Jib_lOzai-hVDE5kfCQd5qC0_L_qMVLq1qPPvpPWAamianDoeTiJ4Ti82JaCtYJJd6GCY8s0=",
+          "title": "mcfjapan.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9-Hxxx-qCPYGpU9WkJexT0Mf8xdoArgq8yyzlj95Y0okeAlvaf0yJTAdboc_6pVcGCF8J7y6l3SHt_GNOtOBEhqEuKQTiPQKACS1XTkwPgEbHz1Z0nJlY",
-          "title": "okuhida.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFthvFmEys6eR33p5PPPVuIfHtlBSQpbMyvAMy1F0dRWMdQNbgi4L0kjLym6cp2L7JZ35fDNyUaxMT--MxIFppwx42PTiNPxM8LxvMfLRHkT7pqMHnRYyOsPUUd1jX6qBrLyOhLwOa9fMAKtC3lT0WZhUGmEXQP9Owkg==",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHo_HXJjxob7ZXaOKot1831eEgJE0H02I5JjlEeN0kPHfjyx9lxKDx4meyYcY4E72oDALqW3PfKBoa8f1Hdxw1WT0FQ7JCVCcs2KRglsS2EgskRUPV8jT8ekoslxVlLPzJHg0Muwg==",
-          "title": "hotel-around.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYnNyBkLKOq4hX2QYa9NqLiS-M8W3KvqjwPFw9vmYddOdGYWZlBMj8XANf1WvzstqKQwUvuuR2A7GBQLRP0uhPOCmk4ML391TUO-7uPDkWbn9Z4XJwtlZWAq8hhQxpL6ToJDNiya3CKa4aLKOsiJsMaJgHcEeFdgWXAA==",
+          "title": "yahoo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzpfNBR_PGAp5lN_Ab6mpZyfQK2P9Ce-0eXzjIixn9leDWXKiC0I5z805eMO6zPsCilWp7P20ybyAAs9gwtY7qvLkajLY0OPgzFm3_G6YtM4ND6s-ErrGnrDn4aDhmT7U0o_Ok",
-          "title": "hirayuonsen.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlLbtL-_qnGckjfUic5UnQLm9WkalyDZCduXWPTvzErOfrWQC8Q6xc1Ct59HmO5jaDIR5LCcgPoLDtGKvv4Zo5J9VGr-bJtGcKJQUbPX2XHG2JSmZRXBINthZtWdcVB3nSysrRNWpcHHTStk7MkBI=",
+          "title": "jalan.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb4wIGJlQf53cr02qXWv6luZxviWIo8OBclNj6gHgVLG5qYviDS9wJHnTKJi6IOigZQb9bXTXNqKmnNjoTW-saOZaDhbwS1-T9sa1pIcAHq-NUG1yXwx_OB5dEi4GoQQ==",
-          "title": "zipangu-tourism.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxSJUQUnVpJdNdcZR9DjmbM4Hv496OmmK9YU2TddeyBMo0PkDGZMt7Orr8vLL5hXG8Hwy88O0E0KFLdsPp8107UyB5cH36PR7SJuzhPbg97efNbk0t84VFsZXDCWW-TLkb",
+          "title": "7rinhonpo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhMr260nPxoV0-LJwmyS_SZpQjKtis9jub6LTPo4G9Z9NjxuSsnXwPhU0mJzVsONTYXvpjxszjfEDusLYzSL75y9gDPp3zHjKVjesrIEF_Ru75Wog=",
-          "title": "okuhida.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3w2LhlPorNTB3DRu88YpQ2Hh_Q9bUnau0ZvJPkX9FuoAk6wRVaZWCoxVbxM-2vaSm77fa4DJXYBgz-RDssP9pPCcgAAvgk5sP727j1uEl6GrZX7AZ9B4V2vf45B9EnkwuArBckSylMXoJCD9FFOg=",
+          "title": "wikipedia.org"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY9Yh7YPnhgAkxHsi_kfwk-ZyD2UYqFAIFy7iuSwwXvedlvpALw35OojGtQz-YtX7LuiZlCXRjnBsPIXNKX94dczMAkx54omzGMA6yf-BDdWW5suZ1_I9NA2nocO5agFfTjvc569xlGW4m3jW4mDikZlfN1SWptO9sSO-9kZeSIdl55XKAAWENR4dVKRc5ZPSxu7la",
-          "title": "spa.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHu_dpZhrfPcgK30q2WQB4lYtKg4gO_tZMYY2Vs5k7d0BPmOvEdgPBdUm9egeHcoyq7uCYjsYZ96eLU3Tg3LsfvVU2T9M3Sjc9-s42sBdxu-XY1U3c887pmt3Yl2r0nFk0L71uKAdCWj86xQMGqIA==",
+          "title": "fc2.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7QCo32uuTBbzzM6BWKeM-ZJF40shtmlWt6chWRL7sVIAJnseNS0Th9bqRF8CZ8O8wxPllM0U7Odx1hD0tRozArwDfUZN4xCLJyXY5FoPQLArftaTL-AE844iVgp__Z36rMNQ=",
-          "title": "hidasanmyaku-gifu.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFE90Gjj__o12s-JFzbNxRYHJkITjnKYcGIMDwzYms44w43a-wfdg1hSMnJXeGgLZnSfArDAMHQoS48Dr--D9sNj69nWeCNsBaGMk3pc0SJi4V2jxpVyX7icgsSUYimMfaT15HZxkcubCC9dO6",
+          "title": "magazineworld.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXDl-PgEnVrmgJoCGD7ZH0Rh93-PC4GqWLZcNpczR3a24ZYkOkAB_gqIigMcUcWDTl_n2My9_NeBl9d9UlrBvtElJ4Dt0Dtk8gYHw_FNRaynOp6fzJnQnycm3PEtSu6OIFpyi848jW2Py3Di3FpA==",
-          "title": "shinrin-ringyou.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDf-lTJrL7mlputFV0hpoxQdhg5k_ylxyJjoSDxpy5TbPwMjorN_5SDpe5cO7nyYhn0ZCpY0bD6erYwdeLyky1RAV4xNbQjmu_faeGveQNYwo7mI1_x_IIY2RE7wH9JVWNuCQ3dfdEGHXoa3Ujpv4PGw==",
+          "title": "blogspot.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUbkqxzA1XmVvT1GYheuQRmvryydD71DoC_IEo_N-g9fHXYAs-byQT3hEbos3TgcQbzlgPfGXbRnkEP5eGsxC-aQiS4dVZgWL74_pxSQkXIRkJd65boHz5Z8Lm5i4drQ==",
-          "title": "shirakawa.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9uWweEKs1Clm7qZ8JDfWTI3AwWhzanZ9pFobWOfL8HzxDxcjXag1VMSvWJpFKBgekBE8RCzJta-CJqFwEOEz-zBQARv-TyZsGlOjyr5ggHsWGuq9c5F9LIF1p8DB0rg==",
+          "title": "healthymate.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_21dIP_amAOIJrpOQMdkzxCrE0F4uNTYCfdFp_bzEz0SOzc3OaCBEqPC-42WFxaBIS7_qxvic5qrxlgOsICUIgkUYdy_tsGOgeRJGQYXqwpV_ADlPgNFNGA6avXgTp8N9Hoi-zd4QnBGlebNq",
-          "title": "akita-gt.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEItI1EbocZHhndjE68SKkUUP4AN6ax5lFKJL28qvu1xsDrVFDpSaZ_qROc4HHfcAU8a1A2MCE7W7eFs3rTluIqFgmQERgzexXt8KJ9pwxzD4R6PruuKR-IR08QN3N_9Zl_dgvlIIqh2TUIYc45G_ALJFgJ2A==",
+          "title": "satofull.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd7TJLMUSOaoDIUjIpXhWM9qM-STY4_v2ZMa_RH3MUSS_96LoHFpxLTzsSRtyR4KtcSk57CJfOogcVWKBeJ1Yo7UpYa2yC3R5RibLx2lPwm6fAOmvUHNQruxRNV_F8nrghKou77whFkmaZDBRREOwGypvrNZuL8HqqlkgSqW7QMNQrejWm2BIhaD5hhr6zHgr1L7YapQzzNkBBAjN0ggYhm2lwsgejw9l-yfYu9h11YkH0uNM66xoSKu3q9PWWDOVP4ch00axwmBdXDkpGtHvAoBz0eWQHn8m9L6hDlOu4L9hkSIj-QS2tWunSjyT5pRPN33ua-iU8ve7EOI-1mQzEBiLTvKgw0CegrrDCrYcYtWZOU6Ds",
-          "title": "nikko-home.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBwYgLHBZOn_sYQVzCnUYP_a18lvL0gTxoQ1uZjBmbBuHQiqepcvuP7vcsGo1Q60bZ0Je5PRO6MrJ8eGOfpeCJ0mBhOM1T99MGR4FutJ6Tr01Lua9ylbWhDoS6kfSITFebdG-aEbk0kZhxhA==",
+          "title": "ameblo.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2SbIt8Ekd1WmQ9FXI-G8XLzx5ywdMkZ5f9611bxNifAiGmEzfBvsaRhD558I-Y2pIHMKvO1-oik9KkbkrKw0VqitnxwgzYdFw6a-KJ08JHP9oPTolSS2fvEpgnA==",
-          "title": "shirakawa-go.gr.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwt4wi3ZILCKZAwS2bxuOzDegK-t0T1arAkEqhfSRO7V-Q-nERpnrBUNbCRnILKUjk1nKyNwlDrb6fzZCTAX7ZxPcrZXJ2y67tfhbYeE1L7Fnf3ohqRNR2KB3bxhRp5lI=",
+          "title": "tokonameenkel.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF25eNM3XClI2blS_tpQNvhgaL1xejfJe7CGgz7F4MyiXMnrqEIebAYm75yEdkO-ML-n3UGiKRqQNrVKsotZWxzmN5Ks_oxGlJD_45enTZQcae9XvbuAV_H-BDAWVj9niIxIo1BOrXoio0=",
-          "title": "shakaika.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVZpRLt-vqPc2A1fJNLc22P_F0owZVsqToCUaTdH8tBCI5zCDqz9W2w4Y0i7620yLciB1B-a41y0cOuPy20CJh_SrE3KMpxKVgk8xqbGI7ScP3x8javB8mLxwQgJ8mKIsnSOz8tHKo",
+          "title": "noren-japan.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfg8KjrMFqPW3YttnLfbZrxmbpcTG_GVXLU7-zKcANm3X0sUCauSmIgqLh_FAvkfzCCsog9pQWYzjgDFukaz3o6vHfhrLeJKQQNQdkPJ2OxrXJq-KtfLZcZ1EoBd2Kn_II9P-XFg==",
-          "title": "sansya.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7Z-7UtF4oTmsvq_1Jat-2vZKy_GkRzPMzMIdiGh3B3X6sP2lmpWnmP8gQp2x3JiY7qV_pdN0SPg1choZbbpmmQ0kcqLFnBN72I3Q1ZmwLSeJpxrxXwbdM3ZJhVSj_7Di0",
+          "title": "youtube.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFD6CCG8GSdLKhgKpkqP_RhtLuHRyD-3l8BhnUbWlOn-1cDOk5XNhI9E2_3se91z-m5V8uRuwUHNZ7Ej2bgV-soCBS2YZCGj05nFH1i5YacvyyXbqFxsQR5qBxh",
-          "title": "sakenoshizuku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXVdyyr2rTGhbBo7J-yqQxcxRCLVzRzaNEC7j0HjjxsmU0Nax-I5R51OUQZym9Sg_6_K7lQ4XSQjYwwVKoQgISYB3j32pGbheTfShw09q7GCTbu_8Bj6KJKztV",
+          "title": "nagiso.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_qZKzY2ggv6hLa58WpsX5D8wTKOhONy4hVtzs1jD6OcSrOR-ZpjatynDeOsKSl53EsshRRc71nD_86U9pxaLnRGbtvx5b5MKuvFcbRNfvF2XNrybw-eBkeF9dNic=",
-          "title": "chibasake.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqcYyRlRSoNDgzLIwU7Vkx8h6oPVQJKo-KfkmzYl9C9el6Q4eMFwg8ZYejyaeH-WYittetG6Hp9IaX5Tnyj5qaKE1oKgVsJoaf32PDdPksmZjYXMpoBIQrgb9-ncqpE2YEqY7tDZrcDkfOXCy5LrDz8_8wUZoa6cnZkwKlUDuR72R7RSTKa7GECgiOxYo_PbWqInGzdXU--zbyW51OnJOM",
+          "title": "jimdofree.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3cVmyRajXHYw_kzOClj-IV4zKeP35SHWj8cg8A7qyfuSAhmhffFtOxOALhafYnRNnEIbCOmUfamm02n5GqkDbhajjgAy3xKw591yoAZckMc7M9YcIjYRTFY36Q2AaM87SNLFYJS3NE-q4OWHSaknz1t1F6SWWKapdS7b4yQ==",
-          "title": "sawanotsuru.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5fg85u33k5CIdGuCbz3COQdXfQSYQO2__WCE6f3ZJ1NC7tMBNvo2BwpQOGZ1XviemTjE-j2es3zINNE_MLj7wN_n6ujO1YOfaafN1coJ0-P0nWani-D8HIhuYx8JRDahEJw==",
+          "title": "ichiri-mall.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaJFZfeE0BJJNqb9iOq9SP1nddrGpsLsUez7t4gbaruMIyUM4lBwZWSZ2K0lxgoRxF-h30lx5S2sNbrPD5traCjGMA7j3az0Y9EGmi6PYh96XvDgHuWoM8QAJYjNYGJI79hb3ChHz0wP_c",
-          "title": "intojapanwaraku.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzliFVUwEvPhcXE2xLUB53Z4rvHd_v4c6hVCQ4bxqAOsWsz2LXVBMyFWRGFXDVl-xj7p6dPGSx1-ytVn7GP0dZg6JDq4V92XdL7rACc-Wm-y5kmiEiCm2lz5ZC1-2tRTYMQpPnR2A=",
+          "title": "nagano-ken.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnD7nQMAoCcFqHfLqpamYVYCPz_ptU8lFvB6z0KCWnDOOiDCBcL00CGrviiJ_PBUISdLX_Uk-xhyG6pTVu2rQI-WneRijMgDRJBMmWNKgJs6sa6lYX4ry_FYr9mx_iwg==",
-          "title": "amabuki.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGECXjNfsbestnFwibAMKOkicHjGFNIZLv7gD8RR4IUKD_ub4YmHlaSzFksByyo0kLXmuv2WLU3_UQ830Xv9yz-PBM-a0j40SHWd5b94J7fR7HWIzyWGtQl7jGhkNs=",
+          "title": "kiso-nagano.ne.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBpxVOuvlUttiL3Uk1P03EbzOIy0CxhG-J8Ydaq3ovTuEG7Pp0rw8crUapAYbn6E9vV9yWoQjAVUpBYt4WIn1OXV9r1A60NBwLrDCurnFOv5EX5QaBFmi2z8RGQ0MMtMVZl1aRd4=",
-          "title": "takarashuzo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfi1LkbENZr1eh93Lai5NNfFLBVDg7w8VlEc9NLYsRPQtokcsSuyqO4Q0HwtF41lfFm3MLrT7EjPN8s9R3rmOhv3Ba_sh3Mqq3oDV51K0YYmyOV8aNgeu8QosEpAScbY_q1o_M8YmMr6ag43E=",
+          "title": "nakagawa-masashichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpE1-SdYkUBzkbIx_JU7rfEw3P_7f8Ttkn09edzXrLS-JYspfIwZTMKt1VaFOSKY48M3pkMBfSg4Rb7VdZhqR0Dev05HcYlkmb_zzZRTSbmPMw3-7AjAWAAQAD6E_Ei7bOmhshd6Ix3Gsl11SZ9w==",
-          "title": "daruma-masamune.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8rmmYRDxyqJKKxoJP6sJtRmmmzzgROgk1XGeDvGboTM3ChTHBx71GVkevRqQV3UkWUfSVDS9_jeEvbRkJa1ymafL303UJoJXwpMSKpJ_lKtp2FvCJbn-z2hnAFnmqI0CHscCYd2_NR5pvdW82T-kY7Amc5r5hrlfAGlTQDzytY8tDNbjqiwkoilrI839jDSS9cb4ssgAP6PPzHw==",
+          "title": "minowashi.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRWhBCl1LL96SiSCSCmf5Iy2xLZEzmflrH5hqY8vsiDro9MvvB8vMwcd3ZMhhc0AiQKQg7o6i0s2r0v_GmPzCAnVqunZ616LbgOVOAvImwFRtvd9-Y4t3kJ9EAfRjAtaqAsnhJ",
-          "title": "hida-bako.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL5Il4gsUzMGHSGbEJbJSY6dKUZH_34afSgsD2ZcSzCRrEiYtGNpOVfl-1JBV9GXOcWDuBBtfRZxxxUUynzn0vBAwvImvO9TT5CkNnuXekJnqXgbvPIU4d-lUs5kDYOeHdaoA=",
+          "title": "town.tomika.gifu.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEd7vxpTh2v_lS6vodSG_lzUcPTN7aNXHGoR2QqjbatPoXKe8xjUlg_Mx-2VOknOwDA7kfGFnvNlyz63vZttQ0Af2ZwFvS57cr7uG2TdWB-SEhdLbMQ0AVZ2Eh8l-fBpYEPUaF2b0UPaG3VJicRz_QA",
-          "title": "prtimes.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr_qJK46CfFc5FfD51dlM-uTnKN08jLak7QktAXk-Jp4jp4RvNJpH_HRX-sS_X845S3-GNH0x5vvgtWs_EATwu5AAK53MNuISXOmlxXng9487sK7KfbNPgzwBQ",
+          "title": "shiyu-minowashi.shop"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjW1nfZyRFoO7pBa15lJVMSchtSjswvIg5xWmev3wer5lRRxdtIX2qD2PV4lnvo4h1Ah0h4aeiH-v_qnCDHP_5FM4Qr9DuaWDsYrjYuvuQomuJRs6zllwTiWtElxgs9jM55i841SHlsXb9CWkpVu8W7NSA-TfotA==",
-          "title": "takayama.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_IBwCey0Cjvwngmq2evOdJFCWXMcbuVu7CGd6PCflDRGE9PsSkhJ2pXc9wueHJily2n3jh73-VKFNWQbI2O4kMQBLiNMBSW6uXTXEOjUUJcfY9fcANOI6tR0lwtqRtc_4R2jW",
+          "title": "kumojyo.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM5TBWABpLu_qrAXu8TtVVqwqsoDc1ga7Zw2oIWh8vQTHuaG_CBjmreB_UA3hx8L5jQq_N54EaEHxVmEdV2-PnFyUyQaGOT-OnZMPree6BXAABreYYhMJp5ci3lRYn7NVavlR_aqnJn9WG3g==",
-          "title": "hidatakayama.or.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHV-KMCuhT8doM1w-a5jWaDHMZUQ2aD-YhstV1FC-YavfVLdzfzD6OMkMRUu6i62rGSXx47a8hD3in0KEDO-_UjbnEfxfUWVqNvUbfUNv7dbIz5uXs1dJk=",
-          "title": "gourmetpress.net"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWjbXso6kxku1MsI_jxRSBVAHkGIj7zeAgYiD5qa0fKWuL_LZkeUh5yWLK6XyIU_y610YMjOzyDY0Lb2XNJSjayV8MEPap9gdJtZvnRvycewdQQ0J-jqfVJkiN_t10yxpQX5j2lrQ=",
+          "title": "kankou-gifu.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 681,
-          "endIndex": 882,
-          "text": "活火山「焼岳（やけだけ）」の強大な地熱エネルギーと、北アルプスの山々から浸透する豊富な雪解け水が奇跡的なバランスで出会う地形だからです"
+          "startIndex": 438,
+          "endIndex": 564,
+          "text": "自在鉤の途中で高さを調節する横木（小猿）には、鯉や鯛などの魚の彫刻が多く用いられます"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 885,
-          "endIndex": 984,
-          "text": "地表近くに熱源があるため自噴・掘削ともに高温で豊かな湯が得られます"
+          "startIndex": 567,
+          "endIndex": 729,
+          "text": "最大の理由は、木造家屋にとって最も恐ろしい火災を防ぐため、「水に棲む魚」にあやかった火除け・火消しの祈願です"
         },
         "groundingChunkIndices": [
-          2,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1026,
-          "endIndex": 1261,
-          "text": "奥飛騨温泉郷（平湯・福地・新平湯・栃尾・新穂高）には100本を超える源泉が存在し、湧出量は毎分約3万7,000リットルで国内第3位（大分県、鹿児島県に次ぐ規模）を誇ります"
-        },
-        "groundingChunkIndices": [
-          4,
-          5,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1264,
-          "endIndex": 1402,
-          "text": "露天風呂の数は100カ所以上にのぼり、平湯温泉などでは100℃近い沸騰泉が湧き出すほど熱量が豊富です"
-        },
-        "groundingChunkIndices": [
+          1,
           0,
           2
         ]
       },
       {
         "segment": {
-          "startIndex": 1429,
-          "endIndex": 1592,
-          "text": "これほど密集しているのに、5つの温泉地で泉質が大きく異なります（単純温泉、炭酸水素塩泉、硫黄泉、塩化物泉など）"
+          "startIndex": 732,
+          "endIndex": 987,
+          "text": "また、魚には「瞼（まぶた）がない」ことから、「居眠りをせずに絶えず火を見張り、火の粉や失火から家を守る」「囲炉裏の火を絶やさない」という見張り番の役目も込められていました"
+        },
+        "groundingChunkIndices": [
+          1,
+          3
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1030,
+          "endIndex": 1312,
+          "text": "土間や板の間に据えられた「五徳（ごとく）」が固定の高さでしか鍋を置けないのに対し、自在鉤は天井から吊るした鉤棒の摩擦を利用し、鍋の高さをミリ単位で自在に上下できる無段階の火力調整器具でした"
         },
         "groundingChunkIndices": [
           1,
@@ -305,52 +265,51 @@
       },
       {
         "segment": {
-          "startIndex": 1595,
-          "endIndex": 1784,
-          "text": "さらに、お湯の色も「無色透明」「白濁」「茶褐色」「緑褐色」「鶯色」とバラバラで、隣り合う宿で全く異なる泉質・色合いが楽しめます"
+          "startIndex": 1315,
+          "endIndex": 1474,
+          "text": "火元を遮る脚がないため、太い薪をくべやすく、煮炊きと暖房、部屋の採光を同時にこなす画期的な省エネ設備でした"
         },
         "groundingChunkIndices": [
-          7,
-          4,
+          5,
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1520,
+          "endIndex": 1631,
+          "text": "自在鉤は実用道具であると同時に、家の守り神（火の神の依り代）でもありました"
+        },
+        "groundingChunkIndices": [
+          6,
           5
         ]
       },
       {
         "segment": {
-          "startIndex": 1892,
-          "endIndex": 2196,
-          "text": "江戸時代後期の地誌『飛州志』によると、戦国時代（永禄年間）、武田信玄の軍勢（山県昌景ら）が飛騨へ侵攻した際、硫黄の噴気や疲労で兵士が倒れたところ、1頭の老いた白猿が湯だまりで傷を癒しているのを見つけました"
+          "startIndex": 1634,
+          "endIndex": 1958,
+          "text": "長野や飛騨に近い信越地方などでは、小正月の朝に自在鉤の先端（カギツケサマ）が自然に回って向いた方角をその年の吉方（恵方）とする占いを行ったり、家の中で探し物があるときに自在鉤に紙や布を結びつけて祈る風習が存在しました"
         },
         "groundingChunkIndices": [
-          1,
-          2
+          6
         ]
       },
       {
         "segment": {
-          "startIndex": 2199,
-          "endIndex": 2301,
-          "text": "兵士たちもその湯に浸かったところ忽ち元気を回復したと伝えられています"
+          "startIndex": 1991,
+          "endIndex": 2147,
+          "text": "「自在鉤の横木『小猿』には鯉や鯛など魚の意匠が多く見られ、水に通じることから火除けの意味があるとされる」"
         },
         "groundingChunkIndices": [
-          2
+          0
         ]
       },
       {
         "segment": {
-          "startIndex": 2331,
-          "endIndex": 2394,
-          "text": "奥飛騨温泉郷観光協会「奥飛騨温泉郷を知る」"
-        },
-        "groundingChunkIndices": [
-          5
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2331,
-          "endIndex": 2457,
-          "text": "奥飛騨温泉郷観光協会「奥飛騨温泉郷を知る」、平湯温泉観光協会「源泉一覧・平湯の伝説」"
+          "startIndex": 2152,
+          "endIndex": 2425,
+          "text": "「魚は水に通じるということで火事を避けるお守りの意味があり、また魚には瞼がないことから眠らないー居眠りして火を絶やさないとか、目を離して火事を起こさないという意味があるとのことです」"
         },
         "groundingChunkIndices": [
           3
@@ -358,104 +317,86 @@
       },
       {
         "segment": {
-          "startIndex": 2331,
-          "endIndex": 2532,
-          "text": "奥飛騨温泉郷観光協会「奥飛騨温泉郷を知る」、平湯温泉観光協会「源泉一覧・平湯の伝説」、岐阜県「中部山岳国立公園・奥飛騨温泉郷」公式資料"
+          "startIndex": 2551,
+          "endIndex": 2737,
+          "text": "金属やプラスチックに比べ、陶器は熱伝導率が極めて低いため、お湯の熱が一度に逃げず、じんわりと長時間かけて表面に伝わるためです"
         },
         "groundingChunkIndices": [
-          7
+          7,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 2958,
-          "endIndex": 3205,
-          "text": "庄川が流れる南北の細長い谷を吹き抜ける「強風を受け流すこと」と、巨大な茅葺き屋根の両面に「太陽の光を均等に当てて雪を溶かし、茅を乾かすこと」の2つを両立させるためです"
+          "startIndex": 2740,
+          "endIndex": 3040,
+          "text": "岐阜県東濃地方（多治見市など）で作られる美濃焼・高田焼（たかだやき）の陶器湯たんぽは、珪藻土を豊富に含む粘土で焼き上げられており、多孔質で保温性と遠赤外線放射性に優れ、お湯の温もりを芯まで抱き込みます"
         },
         "groundingChunkIndices": [
-          8,
           9,
+          7,
           10
         ]
       },
       {
         "segment": {
-          "startIndex": 3247,
-          "endIndex": 3323,
-          "text": "白川郷の屋根勾配は45度〜60度という極めて急な角度です"
+          "startIndex": 3083,
+          "endIndex": 3403,
+          "text": "金属製湯たんぽは注いだ直後の表面温度が非常に高く、明け方には急速にぬるくなりやすい一方、陶器製は布団に入れておけば「夜9時にお湯を入れて翌朝8時になっても温かい」「翌日の夕方までぬくもりが残る」ほどの保温力を誇ります"
         },
         "groundingChunkIndices": [
-          11
+          11,
+          8
         ]
       },
       {
         "segment": {
-          "startIndex": 3326,
-          "endIndex": 3512,
-          "text": "2月には積雪が170cm以上にも達する豪雪地帯のため、屋根が東西を向いていれば、午前は東面、午後は西面にまんべんなく日光が当たります"
+          "startIndex": 3406,
+          "endIndex": 3537,
+          "text": "最盛期には多治見周辺に湯たんぽを焼く窯元が約70軒存在し、日本全国の冬の夜を支えていました"
         },
         "groundingChunkIndices": [
-          8,
-          10,
-          12
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3515,
-          "endIndex": 3690,
-          "text": "これにより雪解けが早まるだけでなく、湿気に弱い茅葺きが適度に乾燥し、30〜40年という驚異的な耐用年数を保つことができます"
-        },
-        "groundingChunkIndices": [
-          10,
+          12,
           13
         ]
       },
       {
         "segment": {
-          "startIndex": 3717,
-          "endIndex": 3884,
-          "text": "合掌造りの屋根裏（小屋組み）は、江戸〜明治期には2〜4層に分けた「養蚕（蚕の飼育）の作業場」として使われていました"
+          "startIndex": 3540,
+          "endIndex": 3728,
+          "text": "現在も江戸時代（1616年）から400年以上続く多治見市の老舗「弥満丈製陶所」などで、1つずつ手作業の鋳込み成形で生産が続けられています"
         },
         "groundingChunkIndices": [
-          9
+          14,
+          7,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 3887,
-          "endIndex": 4142,
-          "text": "家を南北に向けることで、両端の三角窓（妻側）から吹き抜ける風と明かりを取り込み、蚕が育ちやすい温度と湿度を保つという、建物全体が「空調・採光装置」の役割を果たしていました"
+          "startIndex": 3774,
+          "endIndex": 3864,
+          "text": "湯たんぽの「たんぽ」は、中国語で「湯婆（タンポ）」と書きます"
         },
         "groundingChunkIndices": [
-          9
+          5
         ]
       },
       {
         "segment": {
-          "startIndex": 4172,
-          "endIndex": 4502,
-          "text": "昭和10年（1935年）、世界的名著を残したドイツの建築家ブルーノ・タウトが白川郷を訪れ、「合掌造り家屋は、建築学上合理的であり、論理的である」と世界に絶賛・紹介したことで、その独自の美と知恵が世界的に注目される契機となりました"
+          "startIndex": 4284,
+          "endIndex": 4401,
+          "text": "これは高田焼の土の特徴である、保温性のある珪藻土を使っているからこそ成せる技」"
         },
         "groundingChunkIndices": [
-          9
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4532,
-          "endIndex": 4581,
-          "text": "白川村役場「合掌造りとは/白川郷」"
-        },
-        "groundingChunkIndices": [
-          9
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4532,
-          "endIndex": 4617,
-          "text": "白川村役場「合掌造りとは/白川郷」、白川郷観光協会公式解説"
+          "startIndex": 4406,
+          "endIndex": 4555,
+          "text": "「加藤さんの窯のある岐阜県多治見市は陶器の湯たんぽの産地で、最大で70件ほど窯元さんがあったそうです」"
         },
         "groundingChunkIndices": [
           12
@@ -463,221 +404,142 @@
       },
       {
         "segment": {
-          "startIndex": 5004,
-          "endIndex": 5241,
-          "text": "杉玉は単なる看板ではなく、日本酒の「新酒の誕生」と「熟成の進み具合（飲み頃）」を道行く人へリアルタイムに知らせる「天然のインジケーター（タイマー）」だからです"
+          "startIndex": 4687,
+          "endIndex": 4927,
+          "text": "木曽谷や飛騨などの山間豪雪地帯で受け継がれてきた伝統防寒着「ねこ」は、袖（そで）も前身頃（まえみごろ）もなく、背中だけを薄い布団のように覆う独特の形をしています"
         },
         "groundingChunkIndices": [
-          14,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5283,
-          "endIndex": 5475,
-          "text": "青々とした杉の葉を束ねて丸く刈り揃えた杉玉は、作り立て（直径40〜50cm程度のもので10〜20kg前後）の瑞々しい「鮮やかな緑色」をしています"
-        },
-        "groundingChunkIndices": [
+          15,
           16,
-          14,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5478,
-          "endIndex": 5625,
-          "text": "これが夏にかけて水分が抜けて「薄緑色」になり、秋には水分が完全に飛んで「枯れた茶色」へと変化します"
-        },
-        "groundingChunkIndices": [
-          17,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5652,
-          "endIndex": 5778,
-          "text": "茶色く枯れた杉玉を見て「古くなって放置されている」と勘違いされがちですが、実は逆です"
-        },
-        "groundingChunkIndices": [
-          17,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5786,
-          "endIndex": 5886,
-          "text": "**鮮やかな緑色（冬・初春）**＝「新酒（搾りたて）ができました」の合図"
-        },
-        "groundingChunkIndices": [
-          18,
-          17,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5891,
-          "endIndex": 5964,
-          "text": "**薄い緑色（初夏〜夏）**＝清涼感ある「夏酒」の合図"
-        },
-        "groundingChunkIndices": [
-          17,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5969,
-          "endIndex": 6111,
-          "text": "**枯れた茶色（秋〜初冬）**＝夏を越し、まろやかに熟成した「ひやおろし（秋あがり）」の飲み頃サイン"
-        },
-        "groundingChunkIndices": [
-          17,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6114,
-          "endIndex": 6186,
-          "text": "このように、玉の色とお酒の円熟度が連動しています"
-        },
-        "groundingChunkIndices": [
-          14,
           17
         ]
       },
       {
         "segment": {
-          "startIndex": 6216,
-          "endIndex": 6354,
-          "text": "杉玉の発祥は、酒造りの神様として名高い奈良県の「大神神社（おおみわじんじゃ）」とされています"
+          "startIndex": 4930,
+          "endIndex": 5119,
+          "text": "袖がないのは、冬場の木工細工（ろくろ細工や笠作り）や機織り、炊事などの手作業で袖が邪魔にならず、濡れたり擦れたりしないためです"
+        },
+        "groundingChunkIndices": [
+          15,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5122,
+          "endIndex": 5404,
+          "text": "前身頃がないのに暖かいのは、首の根元から肩甲骨の間にかけて全身の体温調節に関わる血管やツボ（風門）が集中しており、そこを真綿（絹）や木綿で保温することで、効率よく全身の血流が温まるためです"
+        },
+        "groundingChunkIndices": [
+          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5447,
+          "endIndex": 5555,
+          "text": "通常の綿入れ半纏と比べて重量が半分以下と非常に軽く、肩こりを起こしません"
+        },
+        "groundingChunkIndices": [
+          16,
+          17
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5558,
+          "endIndex": 5844,
+          "text": "中綿に繭から引き伸ばした近江真綿（100％絹）などを使うと、空気の層をたっぷり抱き込むため、厚さわずか数ミリ〜1センチ足らずでも抜群の保温力を発揮し、スーツや作業着の下に着込んでも着ぶくれしません"
         },
         "groundingChunkIndices": [
           18,
+          16
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5890,
+          "endIndex": 6178,
+          "text": "「ねこ」という愛らしい呼び名の由来には、「作業している姿が丸まった猫背に見えるから」「猫を背負っているように温かいから」「赤ちゃんをおぶる『ねんねこ半纏』の前身頃を省いたから」など諸説あります"
+        },
+        "groundingChunkIndices": [
+          15,
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6181,
+          "endIndex": 6424,
+          "text": "養蚕が盛んだった山里で、売り物にならないくず繭を無駄にせず真綿にし、着古した着物の端切れを使って母が家族のために手縫いした、家庭の温もりと知恵が詰まった防寒着です"
+        },
+        "groundingChunkIndices": [
+          16,
           19
         ]
       },
       {
         "segment": {
-          "startIndex": 6357,
-          "endIndex": 6632,
-          "text": "三輪山の杉には神威が宿るとされ、毎年11月14日に行われる「醸造安全祈願祭（酒まつり）」に合わせて拝殿の大杉玉（直径1.5m）が新調され、全国の蔵元へ杉玉を授与する風習が江戸時代から広まりました"
+          "startIndex": 6715,
+          "endIndex": 6850,
+          "text": "ねこ』の名前の由来は、『ねんねこ半纏から』、『着て作業している姿が猫背に見えるから』……」"
         },
         "groundingChunkIndices": [
-          18,
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6897,
+          "endIndex": 7130,
+          "text": "南信州の養蚕農家の女性は、出荷できなかったお蚕(かいこ)さんの繭で真綿をつくり、着物をほどいた古布と『もめん綿と真綿』をつかい『ねこ』を家族のために作られた」"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7257,
+          "endIndex": 7577,
+          "text": "岐阜県美濃市を中心に1300年以上の歴史を持つ美濃和紙は、奈良の正倉院に納められている大宝2年（702年）の美濃国の戸籍用紙（御野国加毛郡半布里戸籍など）が、今なお破れず墨の文字を鮮明に残している「現存する日本最古の紙」です"
+        },
+        "groundingChunkIndices": [
           20,
-          17
+          21,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 6635,
-          "endIndex": 6767,
-          "text": "飛騨の酒蔵でも新酒の仕込みが始まる晩秋から冬にかけて、新しい緑の杉玉へと掛け替えられます"
+          "startIndex": 7580,
+          "endIndex": 7979,
+          "text": "現代の木材パルプで作る洋紙が酸性劣化で数十年〜100年ほどでボロボロになるのに対し、美濃和紙はアルカリ性の木灰や天然水で処理された強靭な楮（こうぞ）の長い靭皮繊維を使い、紙漉きで縦と横に激しく揺り動かすことで繊維が均一かつ縦横無尽に絡み合い、驚異的な耐久性を誇るためです"
         },
         "groundingChunkIndices": [
-          18,
-          17,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6797,
-          "endIndex": 6846,
-          "text": "奈良県・三輪明神 大神神社由緒資料"
-        },
-        "groundingChunkIndices": [
-          18,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6797,
-          "endIndex": 6921,
-          "text": "奈良県・三輪明神 大神神社由緒資料、酒造各社（沢の鶴、達磨正宗等）の醸造文化解説資料"
-        },
-        "groundingChunkIndices": [
-          17,
-          21
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7700,
-          "endIndex": 7801,
-          "text": "火畑そばは、標高1,000〜1,300mという極めて標高の高い冷涼地で栽培されます"
-        },
-        "groundingChunkIndices": [
-          22,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7804,
-          "endIndex": 8033,
-          "text": "秋の収穫時期に「霜に2回程度打たせる」ことで、一般的な平地のそばに比べて格段に香りと甘みが濃くなり、小粒ながら非常に強いコシと風味を持つそばに仕上がります"
-        },
-        "groundingChunkIndices": [
-          24,
-          25
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8060,
-          "endIndex": 8201,
-          "text": "霜は農作物にとって大敵とされますが、火畑そばでは「霜にあたってからが本当の収穫適期」とされます"
-        },
-        "groundingChunkIndices": [
+          23,
           24
         ]
       },
       {
         "segment": {
-          "startIndex": 8204,
-          "endIndex": 8306,
-          "text": "高根町特有の厳しい寒暖差を逆手に取った、寒冷地ならではの栽培技術です"
+          "startIndex": 8022,
+          "endIndex": 8253,
+          "text": "一般的な半紙と比べても圧倒的な薄さと強度を両立しており、均一でムラのない仕上がりから、江戸時代には障子紙の全国基準「美濃判」として幕府の御用紙となりました"
         },
         "groundingChunkIndices": [
-          26,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8336,
-          "endIndex": 8495,
-          "text": "「火畑」という珍しい名前は、かつて高根町日和田地区などで盛んに行われていた「焼畑（火畑）農業」に由来します"
-        },
-        "groundingChunkIndices": [
-          26,
-          23
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8498,
-          "endIndex": 8660,
-          "text": "山肌を焼き払って地力を回復させ、灰のミネラルを吸わせて栽培していた伝統が受け継がれた、飛騨の貴重な在来種です"
-        },
-        "groundingChunkIndices": [
+          20,
           25,
-          26
+          24
         ]
       },
       {
         "segment": {
-          "startIndex": 8690,
-          "endIndex": 8789,
-          "text": "高山市ブランド認証制度「メイド・バイ飛騨高山（火畑そば）」公式解説"
+          "startIndex": 8256,
+          "endIndex": 8520,
+          "text": "その耐久性と薄さから、現代では大英博物館やルーブル美術館をはじめとする世界中の美術館・博物館で、国宝級の古文書や絵画の修復用シート（薄美濃紙など）として国際的に重用されています"
         },
         "groundingChunkIndices": [
           24
@@ -685,54 +547,72 @@
       },
       {
         "segment": {
-          "startIndex": 8690,
-          "endIndex": 8840,
-          "text": "高山市ブランド認証制度「メイド・バイ飛騨高山（火畑そば）」公式解説、高山市・飛騨高根観光協会公式資料"
+          "startIndex": 8566,
+          "endIndex": 8782,
+          "text": "正倉院に残る702年の戸籍用紙には、当時の美濃国（現在の加茂郡富加町周辺など）に暮らしていた人々の家族構成や年齢、税の負担状況が細かく記されています"
         },
         "groundingChunkIndices": [
-          26
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 9691,
-          "endIndex": 9815,
-          "text": "**【正解】** **2番：まろやかに熟成した「ひやおろし（秋あがり）」の飲み頃になった合図**"
+          "startIndex": 8785,
+          "endIndex": 8999,
+          "text": "紙の耐久性が高すぎたおかげで、1300年前の名もなき一般庶民の暮らしの息遣いが、現代の歴史学者によってそのまま解読できるタイムカプセルとなっています"
         },
         "groundingChunkIndices": [
-          17,
-          15
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 10056,
-          "endIndex": 10317,
-          "text": "というサインで、杉玉が枯れて茶色くなる秋から冬の初めにかけては、夏を越えて日本酒のトゲが取れ、一番まろやかで旨味がのった『ひやおろし』が飲み頃になったことを教えてくれています"
+          "startIndex": 9186,
+          "endIndex": 9283,
+          "text": "このことからも、美濃和紙は1300年以上の歴史を有すると考えられます」"
         },
         "groundingChunkIndices": [
-          17,
-          15
+          21
         ]
       },
       {
         "segment": {
-          "startIndex": 10320,
-          "endIndex": 10404,
-          "text": "杉玉は、お酒の熟成度合いを伝える“自然の時計”なんですね"
+          "startIndex": 9465,
+          "endIndex": 9618,
+          "text": "中略）大英博物館など世界各国で古文書や絵画など国宝級の文化財の修復になくてはならない存在となっている」"
         },
         "groundingChunkIndices": [
-          14,
-          17
+          24
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10483,
+          "endIndex": 10570,
+          "text": "魚には人間のようなまぶたがなく、寝ている時も目を閉じません"
+        },
+        "groundingChunkIndices": [
+          1
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10654,
+          "endIndex": 10861,
+          "text": "囲炉裏から目を離して火事を出さないように、また大切な火の種を消さないように見張っているんだ」と考え、自在鉤に魚を彫り込んだと言われています"
+        },
+        "groundingChunkIndices": [
+          1,
+          3
         ]
       }
     ],
     "webSearchQueries": [
-      "火畑そば 霜 理由 高根 甘み",
-      "白川郷 合掌造り 南北 向き 理由",
-      "奥飛騨温泉郷 露天風呂 日本一 源泉数",
-      "酒林 杉玉 由来 三輪神社 緑 茶色",
-      "飛騨 新そば 在来種 飛騨高山 特徴"
+      "ねこ 半纏 南木曽 飛騨 背中 理由",
+      "陶器 湯たんぽ 美濃焼 歴史 由来 岐阜",
+      "自在鉤 魚 なぜ 囲炉裏 水 火除け",
+      "陶器製 湯たんぽ 多治見 弥満丈製陶 歴史 保温性",
+      "岐阜提灯 美濃和紙 正倉院 戸籍 1300年"
     ]
   }
 }
