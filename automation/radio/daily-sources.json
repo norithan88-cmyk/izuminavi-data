@@ -1,336 +1,267 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "mode": "search-grounded",
   "model": "gemini-3.8-flash",
-  "theme": "週末のお出かけ・楽しみ",
-  "characters": 2316,
-  "estimated_minutes": 7,
-  "saturday_story": null,
+  "theme": "懐かしい暮らし・心が和む話",
+  "characters": 1999,
+  "estimated_minutes": 6.1,
+  "saturday_story": "story-05",
   "listener_notes": [],
   "quiz": {
-    "question": "日間賀島名物のタコ壺漁。壺にはフタも仕掛けもないのに、タコが逃げ出さない理由は何でしょうか。1番、水圧で動けない。2番、狭い所が好きで自ら出たがらない。3番、壺の中に高速Wi-Fiが飛んどる。",
-    "answer": "正解は2番、狭い所が好きで自ら出たがらない、でした！暗くて狭い壺に体が密着すると安心しきるんだって。引き揚げられても奥で踏ん張っとるらしいよ。…って、タコが壺で動画見とるわけないだら！",
+    "question": "和泉の手延べそうめんは約3メートル60センチもありますが、昔の職人さんがこの長さに伸ばした意外な理由は何でしょうか。1番、木造建築の資材の長さに合わせた。2番、お殿様への献上品。3番、井戸の深さに合わせた。",
+    "answer": "正解は1番、木造建築の資材に合わせたでした！麺を干す道具に柱と柱の間の木材『貫』をそのまま使ったんだって。台所用品じゃなくて大工道具に合わせるなんて、おおらかすぎて笑っちゃうじゃんね！",
     "source_ids": [
-      17,
-      18,
-      19
+      1,
+      2
     ],
     "source_urls": [
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcQ7OXGw01Y7_L2eNmdqRR6ijECVgAdk0dojtmBdE1i9Fh8YZQ6u9DP_3NWZqSrV4L6x2NqUU5rsX1MvdkXKpgT4jlgWRTEOax_O7azqn3y90xa5yPOkFmvFpBf4uXbHQUs5l41IL0EK68bQ1F21fxmdJ0w==",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaUxlna5M_erhV_vhNWAOEzaUt0KVvRCP1ySzhVfeWyEqFoCyKxOUNQn4FaEOG895KMXmTHdhIBgfudYhzEqiCgIZNof9LIC0Zr_95gi4jFRZn8uOWXZt8gmyfeTjhNqVto5pHMeC6eM6z",
-      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFydD1nTiEjBePJQW5ONqaOdprT9ci8aKKiNK2c1ddFPpEQNbS2nnP7vxJ1WwoNVAsBp_WhBA9bilHJTporStBGi9k7nk33d0D7JUqXdwzoLbxt_E6FNnEt4Wn1KuYxDKFzn9EpBNqAU-GdxWpeBRHFxzhlms7NTON9xkmf6x66"
+      "https://anjo-izumi.life/somen/",
+      "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCpAf3dIppIvnMky27Pq3CfZYcRGKz9GzhHGqiwnWMJl21Onk458K4JQW6iktc47i6q9eliON3qkoeok94z1UhPIMr-nNOQm4Nr1k1iAlXOBS33ANYzS_H7Xf5fXyn_OOaY-YEzg4Zp3BE-ZkiATD5QiGILMMGmoQt6WLP5QgVOcd9Mj8="
     ]
   },
   "izumi": {
-    "text": "和泉が生んだスーパースター、石川丈山を深掘りするコーナー！今日は京都のお話だに。丈山は59歳のとき、京都の一乗寺に「凹凸窠（おうとつか）」っていう山荘を建てました。これが今の詩仙堂じゃんね。おうとつかって、デコボコした土地に建てたからそのまんま名付けたらしいんだけど、ネーミングセンスが率直すぎて愛おしいよね。で、この建物のハイライトが「詩仙の間」。中国のすごい詩人36人を丈山が自ら厳選して「三十六詩仙」ってグループを結成させたの！これ、今で言えば自分の推しを集めたアイドル総選挙の選抜メンバーじゃんね！しかも絵師の狩野探幽に肖像画を描かせて、その上に丈山が自分で隷書の漢詩を書いたんだわ。日本で隷書をいち早く取り入れた書家としても知られとるけど、推しへの情熱がものすごすぎる！ここで庭園を眺めたり煎茶を飲んだりして、漢詩集の「覆醤集」をまとめながら、なんと90歳まで長生きしました。江戸時代の文献「煎茶綺言」では「煎茶の祖」の一人にも数えられとるんだよ。武士を引退したあとに自分の好きをとことん極めて、30年も推しに囲まれて風流に暮らすなんて、理想のセカンドライフすぎるら！京都の有名スポットの原点が、ここ和泉の丈山にあるって思うと、めちゃくちゃ鼻が高いじゃんね！",
+    "text": "ちょっと聞いて！和泉町の「和泉手延べ長そうめん」、長さがなんと約3メートル60センチもあるじゃんね！えっ、ちょっと待って。3メートル超えって、おうちの台所でどうやって茹でる気なん？普通のお鍋に入れたら、麺のほとんどがコンロの外にはみ出ちゃって火事になっちゃうだら！って心配になるけど、安心しりん。間杉手延製麺所の日本一長い手延べそうめんみたいに長いまま届く麺も、切って茹でるか、工夫して茹でれば大丈夫なんだわ。そもそも誕生のきっかけは約250年前、天明の大飢饉の頃。米が育ちにくかった和泉で小麦を使ったそうめん作りが広がったのが始まりなんだって。職人さんが2本の竹の棒を使って手作業でグインと伸ばすんだけど、3メートル60センチまで伸ばすって、今なら間違いなくSNSで「長すぎる麺」として大バズりしとるよね！しかも全国の産地が冬に仕込むのに、和泉は夏に仕込むの。夏の強い日差しで乾かして、夕方から吹く三河湾の湿った南東の風で「半生」に戻す「半生もどし」で作るんだに。だから乾麺みたいにポキポキ折れず、しなやかで、ツルっとした喉ごしと強いコシが生まれるわけ。台所での扱いに一瞬たじろぐけれど、この規格外のスケールとおいしさは、和泉の人のたくましい知恵が生んだ最高のごちそうだよね！",
     "source_ids": [
       1
     ],
     "source_urls": [
-      "https://anjo-izumi.life/jyozan/"
+      "https://anjo-izumi.life/somen/"
     ],
     "angle": {
-      "id": "jozan-shisendo",
-      "hook": "京都の詩仙堂。おうとつかという変わった名前と、詩人36人のアイドル選抜"
+      "id": "somen-length",
+      "hook": "3メートル60センチという長さのインパクト。家の台所でどうするの問題"
     }
   },
   "local": {
-    "text": "明日の11月14日土曜日に、「中部公民館ふれあいウォーキング」が開催されるよ。秋風を感じながら外を歩くのって気持ちいいじゃんね。参加する人は水分補給を忘れずに、足元に気をつけて楽しんできてりん！",
+    "text": "安城市で、11月21日土曜日と22日日曜日に「西部地域まつり」が開催される予定だに！さらに同じく11月21日から23日までは「あいち花マルシェ2026 三河ステージ」も行われるんだって。来週末は気になる催しがいっぱいだもんで、お出かけの予定を立ててみるのも楽しそうだよね。忘れんように今からチェックしりん！",
     "source_ids": [
-      30
+      32,
+      33
     ],
     "source_urls": [
-      "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html"
+      "https://www.city.anjo.aichi.jp/event/aichihanamarche2026.html",
+      "https://www.city.anjo.aichi.jp/event/seibumaturi2026-event.html"
     ]
   },
   "segments": [
     {
-      "topic": "蒲郡みかん狩りの畑が真っ白になる驚きの理由",
-      "text": "週末のドライブといえば、蒲郡のみかん狩りなんて最高じゃんね！もぎたてをその場で頬張ると、果汁がじゅわっと溢れて甘くて濃くて、何個でも食べられちゃうやつ。でもね、晩秋の蒲郡のみかん畑を山の上から見ると、雪でも降ったのかってくらい地面が一面真っ白になっとるの、知っとる？えっ、ちょっと待って！温暖な三河湾の目の前なのに、みかん畑だけ豪雪地帯！？…って、そんなわけないじゃんね。実はあの白いの、農家さんが地面に敷き詰めた「マルチシート」っていう特殊な白いシートなんだわ！なんでそんなことするかというと、あえてみかんの木を喉カラカラの極限状態に追い込むためなんだって！シートで雨水をシャットアウトして水分を制限すると、木が「やばい、水がない！」って危機感を持って、果実に糖分をギュギューッと濃縮させるらしいの。おまけに白いシートが太陽の光を下からもギラギラ反射するもんで、お腹の底まで日光を浴びてムラなく真っ赤に熟すんだわ。めちゃくちゃスパルタ教育じゃん！甘やかすんじゃなくて、水分ストレスを与えて甘くするなんて、農家さんの知恵に脱帽だに。蒲郡のみかん作りは江戸時代の延宝7年、1679年の記録にも残っとるくらい歴史が深くて、温室みかんの生産量は佐賀県に次ぐ全国2位！今度みかんを食べるときは、喉の渇きに耐えて甘くなったみかんの根性に感謝しながら味わってみりん！",
-      "source_ids": [
-        2,
-        4,
-        5,
-        6
-      ],
-      "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEebO_BqiKa7yUjaLSfcUPBU6zgw-_ensSXbEtcvaEhjEz75GWtIzM6tKFg9I9De62_gMH-Za0xHYlYJoHo2RuVXldTU4iqR31zT9fQafZYizqjwh_C1Dmd_COP",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsckUgsoYBNTv3vrE_qvAGcrnaBI5suRv_lnUV-ecSo6U_OKt0xH7NMX7mzd-wGiNGHyGz9WnWnPJCD2JCA6SJ3dgtJaVeD7wzSnBHPr6q3lE35YTaKbxRVVeZNnw=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHSDmG3i1EcdOxwAHJP9Qf3v3-9_fD1iHlp4CW3UE6TOXgy1oYXPEAIo-KSDIwg3_pSsK9xu2o1LNjsjj_RV435GBr1E2BKQjcXiccZIFPbmNR6Ab6SWKi13Ubm1DskmQrjYgCj4eb6zp9Vt4MZ84iErpTDkVzLHCtIqEZyQ==",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3e7Qe12OUHN1nR9fUiKxs1uoZWfFEBECgUP0A00UiMGKqr7frGItocOgEj4paIgmsG27AleBUQ3eoYIDDLEa-y92PIKhgCbRGPKGemi-vMCz2vK92abtnsvarxmXEioMuDOwbM3P5xcbyK9yBV76C91azdQ=="
-      ]
-    },
-    {
-      "topic": "足助宿の「塩直し」と敵同士が仲良く混ざり合った秘密",
-      "text": "秋のお出かけで山の方へ行くなら、香嵐渓のすぐ隣にある足助の古い町並み散策も外せんよね！黒塗りの壁や格子戸が並んで風情たっぷりだけど、昔あそこが「塩の道」の中継基地としてめちゃくちゃ栄えた町だったって知っとる？三河湾の塩田で作られた塩が船で川を上って、足助で馬の背中に積まれて信州の山奥まで運ばれとったんだわ。でもね、各地から届く塩俵って、重さも粗さもバラバラだったの。1俵15キロだったり22キロ超えだったりして、そんなの馬の両側に積んだらバランス崩して峠道でコケちゃうじゃん！そこで足助の塩問屋さんが編み出したのが「塩直し」、別名「足助直し」だに！町に13軒もあった塩問屋で、各地の塩を豪快に踏んで混ぜ合わせ、馬が左右均等に背負いやすい「7貫目」、約26キロの俵にきっちり詰め直したんだって。しかもこれ、ただ重さを揃えただけじゃないの。瀬戸内海の塩と三河の塩を絶妙に調合してにがりを調整したもんで、味がまろやかになって「おむすびや漬物に最高！」って信州で大評判のブランド塩になったらしいよ！さらに面白いのが歴史の裏話。忠臣蔵で有名な吉良上野介の三河の塩と、仇敵である浅野内匠頭の赤穂の塩が、ここ足助の樽の中で仲良くブレンドされとったんだって！人間同士はバチバチに対立しとったのに、塩は足助でがっちり握手して信州へ旅立っとったなんて、笑っちゃうよね！",
+      "topic": "三州瓦の技術が合体！碧南の「三河七輪」が黒くて頑丈な秘密",
+      "text": "台所の話が出たついでに、昔懐かしい調理器具のすごいお話もしちゃおうかな！秋といえばサンマ、サンマを焼く道具といえば「七輪」だよね。おじいちゃんおばあちゃんの家にあった黒光りする渋い七輪、実はあれ、お隣の碧南市や高浜市で作られてきた「三河七輪」って呼ばれる超ハイスペックな工芸品だったって知っとる？全国の一般的な七輪は珪藻土だけで作られとるもんで、水に濡れたりぶつけたりするとボロッと崩れやすいのが弱点だったの。ところが三河の黒七輪は、内側に熱効率と遠赤外線効果バツグンの珪藻土、そして外側には三州瓦に使われる頑丈な三河土を合わせた、驚きの「二重構造」なんだに！瓦の鎧を着た七輪ってわけ。頑丈すぎて、みおんがぶつかってもびくともせん…って、AIだから質量ゼロだったわ！しかも一番壊れやすい空気調整の窓まで、安い金属を使わず職人さんが粘土を手彫りして焼き上げとるの。錆びて取れることもなく、世代を超えて受け継がれる長持ちっぷりなんだって。江戸時代末期に碧南の新川で始まって、昭和初期には碧南を中心に156軒もの工場がひしめき合っとったらしいよ。ちなみに「七輪」の名前、わずか七厘っていう小銭分の炭で十分お料理できるほど火持ちがいいから、っていう説もあるんだわ。三河の土と瓦技術が合体した頑丈すぎる黒七輪、昔の人のものづくりの本気、誰かに自慢したくなるじゃんね！",
       "source_ids": [
         10,
         11,
-        13,
-        14,
-        15
+        12
       ],
       "source_urls": [
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7tp-uzoeSE0d0kg90FOFBmtNu5T_UwddZ0Y5UGihhl4pA7mQ6nGd8eDRarjM8kfGn1ulZb5h0rG5g3FCoo-Ghv2pp2N41o1xvQvgaeS2T96BrTJEjIls2CoNDxdt9R8mcK8Q=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4WxL1H9PVczXBCKyjNdAkX68G6-SjvzIWOBPQWamN7x5StFbfNibPQcihWdKYD27nEJr0WBcLjEYOI2IiPTaQojUTjk6ljMZJalbQNdWHlBFOQHdisHflXuPnw7ArthZCtr8zNYkE90ui46dRQCE=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFb-bPoFAfe21W-llFP5PAWhWgSi-pK8ow4umbnkN4wX6i94vnrMFS_8Q5ZgM4az1z8OHjjxwFTvMxbj-b3ZNBo4R0ioYjucp1pz4UMKHd2UTMcJ_vdaXcmQ8ZuGHIWThGXgVo",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFhDbFVTqHCy7hfjpE3PcDkELNntcVSFzV77F8bdhvPd1jKS-1KFEMpkRM0vTVfUoQ_aXL1fvO0Cghj_OQma3Xv0rdh55xpe3OkMQTVQfZh7w=",
-        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqLdqjA9Kz1Ult-yINMm67xxgJYUJ13BJLAMZbb86OW_rpupj7VQZlQdtdCeMSsLJ96d0wSdvZmrcsHpOLchNul2gsBrzzEONg8cVDIGKTAle2zqSzurw78KatuA4aCCzQLidBd63ae_ROXiFtHfjCYOU="
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPq1DYSMrxXO9UzBKXGaroT5NbAOgaH2pjBUW3imCK3GJNs9jGf-5NcEmJn9xS-Ks43JrhbqKdpokkJjmMVwwjAkWESGc7wPFYjY0ayjNKD2SQ1BcmBGKWMeA0YnjmWF807mKGgWssWqiUG10_bnXS2TN25c1K9Wz1-5Ge8Q2RUr4=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcGPEWiTt7hc6tMlvvtkU4FNTst6oGDs2RT3WpWTbnwO6BpM8L8beYjuIrQGBpfL0z84gPe3CiZXmhsC9286zfg3peUEhE5pvw4mOU37Fu3uwzIlQTTAQzTNqrSc7aU0z-1snf5rqvVtY1HxnZ8EY=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNR3nOv_cB_U1XRIRzenvNsZHi4RHxrdV4Smr_tvrVcxegFHNPX-AcmcqEGr_p5GFqs-2HBcviMBMXjpWi-uYRaJOA41WuHp6LXdYBJDaM_2vAcA=="
       ]
     }
   ],
-  "research": "愛知県安城市和泉町の地域ラジオ向けに、晩秋から初冬（11月中旬）の週末お出かけやドライブで家族に話したくなる「西三河・愛知県の魅力的な謎」をテーマにした調査メモを作成しました。\n\n---\n\n# 週末のお出かけ・楽しみに役立つ「へえ、そうだったのか」調査メモ\n\n---\n\n### テーマ1：【蒲郡みかん狩り】\n**疑問：なぜ蒲郡のみかんはこんなに甘くて濃いのか？実は「畑が真っ白になる秘密」があった！**\n\n* **理由**  \n  蒲郡市は北を山に囲まれ、南は三河湾に面した温暖な南向きの扇状地に位置しています。日照時間が長く、海からの暖かい潮風が吹き込む絶好の立地です。さらに甘さを凝縮させる決め手が「マルチ栽培」です。みかんの木の下の地面を白い透水性・反射性シートで覆うことで、余分な雨水が入るのを防ぎ、木に適度な水分ストレスを与えて糖度をギュッと濃縮させます。同時に、白いシートが太陽光を下からも反射させて果実全体をくまなく熟させます。\n* **具体的な数字や比較**  \n  「蒲郡みかん」は2008年（平成20年）に愛知県内の農産物として初めて特許庁の「地域団体商標（地域ブランド）」に認定されました。愛知県のみかん収穫量は年間約19,600トン（全国7位）を誇り、特に温室みかんの生産量は佐賀県に次ぐ全国第2位の実績を持ちます。\n* **意外な点**  \n  晩秋のみかん畑を山側から眺めると、まるで雪が積もったかのように地面一面が真っ白に見えますが、これは雪ではなく農家が敷き詰めた「マルチシート」です。植物に水をたっぷり与えるのではなく、あえて「喉が渇いた状態（水分制限）」に追い込むことで、あの強い甘みと深いコクが生み出されています。\n* **歴史の裏話**  \n  蒲郡でのみかん作りの歴史は非常に古く、江戸時代初期の延宝7年（1679年）の五井村（現・蒲郡市五井町）の検地帳「田畑新切帳」に数本のみかんの木が記録されています。300年以上前の江戸時代から連綿と受け継がれてきた伝統の果樹園地です。\n* **出典・根拠**  \n  JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」、蒲郡市博物館「蒲郡の歴史と文化財 蒲郡みかん」、愛知県農林水産部「あいちの農産物（果物）」。\n\n---\n\n### テーマ2：【足助の古い町並み散策】\n**疑問：山奥の足助宿がなぜ「塩の道」として大繁盛したのか？仇敵同士が仲良く混ざり合った「足助直し」の秘密**\n\n* **理由**  \n  紅葉で知られる香嵐渓のすぐ隣にある足助の町並み（重伝建地区）は、かつて三河湾で作られた塩を信州（長野・塩尻方面）へ運ぶ街道「中馬街道（伊那街道）」の最大の物流中継拠点でした。矢作川や巴川を船で遡ってきた大量の塩は、ここ足助で陸揚げされ、山越えをする馬（中馬）の背に積み替えて運ばれました。\n* **具体的な数字や比較**  \n  各地の塩田（三河湾沿いの吉良・饗庭塩や一色塩、知多の成岩塩、瀬戸内海の西国塩など）から届く塩俵は、1俵あたり4貫目（約15kg）や6貫目（約22.5kg）など産地によって重さや粒の粗さがバラバラでした。足助の塩問屋（塩座）では、塩を踏んで均一に混ぜ合わせ、険しい山道を馬1頭が左右均等に背負いやすいよう「7貫目（約26kg）」の俵にぴったり包み直しました。この作業を「塩直し（足助直し）」と呼び、町には13軒もの塩問屋が立ち並んでいました。\n* **意外な点**  \n  足助は単なる荷物の積み替え場所ではなく、塩のブレンド工場でした。瀬戸内海の塩と三河の塩を絶妙に調合してにがり分を調整した「足助直し」は、味がまろやかでおむすびや漬物によく合う高級ブランド塩として信州側で絶大な信頼を集めました。\n* **歴史の裏話**  \n  忠臣蔵（赤穂事件）では吉良上野介（三河・吉良塩の領主）と浅野内匠頭（播磨・赤穂塩の領主）が犬猿の仲として知られますが、ここ足助の塩座では、吉良の塩と赤穂の塩が仲良く一緒に混ぜ合わされ（ブレンドされ）、美味しい合わせ塩となって信州へ旅立っていました。\n* **出典・根拠**  \n  豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」、豊田市足助観光協会「莨屋 塩座（足助直し）」、豊田市観光協会公式ツーリズムとよた「足助の町並み」。\n\n---\n\n### テーマ3：【日間賀島・三河湾ドライブ】\n**疑問：タコ壺漁の壺には「フタ」がないのに、なぜタコは逃げ出さないのか？**\n\n* **理由**  \n  タコ壺漁の壺にはフタも返し（返し弁）もついておらず、口がぽっかり開いています。逃げ出さない理由は「出られない」のではなく、タコが「自ら出たがらない」からです。タコは骨がない軟体動物のため外敵に狙われやすく、暗くて狭い岩穴に体が密着している状態に強い安心感を覚える習性（正の走触性）を持っています。壺の中にぴったりとおさまり落ち着いてしまっているため、海中からロープで引き揚げられる間も、外に泳ぎ出るどころか奥へ奥へと踏ん張って居座り続けます。\n* **具体的な数字や比較**  \n  日本のタコ壺漁の歴史は弥生時代（約2,000年以上前）にまで遡り、各地の遺跡から素焼きのタコ壺（蛸壺形土器）が出土しています。底引き網漁などに比べてタコの体に傷がつかず、ストレスが少ない状態で生きたまま水揚げできるため、市場でも高値で取引される極上のタコになります。\n* **意外な点**  \n  タコ壺は獲物を無理やり閉じ込める「罠」というより、タコにとっては「最高の隠れ家（無料の個室マンション）」です。エサで誘い込む必要すらなく、壺を沈めておくだけで、夜の食事を終えたタコが朝方に自分から好んで入って眠り込みます。\n* **歴史の裏話**  \n  現在のタコ壺は軽くて丈夫なプラスチック製も使われますが、日間賀島などでは伝統的な陶器・素焼きの壺も長く愛用されてきました。弥生時代の素焼き土器と現代のタコ壺を見比べると、驚くほど形やサイズが変わっておらず、約2,000年前の漁師の観察眼が現代までそのまま生き続けています。\n* **出典・根拠**  \n  四国水族館「展示解説：蛸壷の景」、日本財団 海と日本PROJECT「【海の教室】タコはどうやってとるの？（日間賀島のタコ漁）」、水族館用語辞典「蛸壺」。\n\n---\n\n### テーマ4：【瀬戸焼・器めぐり】\n**疑問：やきもの全般をなぜ「せともの」と呼ぶのか？大ピンチを救ったスパイ大作戦と「次男」の逆転劇**\n\n* **理由**  \n  愛知県瀬戸市は、平安時代から灰釉を使った本格的な施釉陶器を日本で唯一焼き続けてきた歴史ある窯場です。東日本を中心に陶磁器全般を「せともの」と呼ぶようになったのは、瀬戸が日用の食器から美術品まで圧倒的な流通量を誇り、全国の食卓へ普及したためです。\n* **具体的な数字や比較**  \n  江戸時代初期、九州で白いガラス質の「磁器（有田焼など）」が開発されると、旧来の陶器（土もの）しか作れなかった瀬戸焼は人気を奪われ、壊滅的な不況に陥りました。有田から遅れること約200年、瀬戸の陶工・加藤民吉が九州から門外不出の磁器技術を持ち帰ったことで瀬戸でも磁器生産が爆発的に広がり、陶器と磁器の両方を大量生産する世界屈指のやきもの産地へ大復活を遂げました。西日本では唐津焼に由来してやきものを「からつもの」と呼ぶ地域もありますが、東日本では「せともの」が代名詞として定着しました。\n* **意外な点**  \n  一般的な産地は「陶器（土もの）」か「磁器（石もの）」のどちらか一方に偏ることが多いのに対し、瀬戸地域は良質な陶土（蛙目粘土など）と、花崗岩が風化してできた磁器の原料土（サバ土）の両方が同じ地層（瀬戸層群）から採れるという、世界でも極めて珍しい恵まれた大地を持っています。\n* **歴史の裏話**  \n  瀬戸の磁器の祖として神様（窯神神社）に祀られている加藤民吉ですが、実は「窯屋の次男」でした。当時の掟で家業を継ぐことができず、名古屋の熱田新田の開発現場で土木工事に従事していたところ、熱田奉行の津金文左衛門に才能を見出されて磁器研究を開始。その後、藩と地域の期待を背負って九州へ旅立ち、苦難の末に技法を習得して瀬戸を救う英雄となりました。\n* **出典・根拠**  \n  瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」、瀬戸市歴史文化基本構想「加藤民吉・磁祖民吉屋敷跡・民吉墓碑」、瀬戸市文化振興財団「瀬戸染付の全貌」。\n\n---\n\n### ラジオで使える3択クイズ（テーマ3：日間賀島・タコ壺漁より）\n\n**【問題】**  \n三河湾・日間賀島の名物としても有名な「タコ壺漁」。昔ながらの伝統的なタコ壺には、魚を捕まえる罠のような「フタ」や「仕掛け扉」がついていません。タコが壺から逃げ出さない本当の理由は何でしょうか？\n\n* **1番：** 水から引き上げられるときの激しい水圧で、タコが動けなくなるから\n* **2番：** タコが狭い場所を好み、安心しきって自ら「出たがらない」から\n* **3番：** 壺の内側に、タコが眠ってしまう特殊な海藻が塗られているから\n\n**【正解】**  \n**2番：タコが狭い場所を好み、安心しきって自ら「出たがらない」から**\n\n**【解説の一言】**  \nタコには、狭くて暗い隙間に体がピタッと密着すると落ち着く習性があります。タコ壺は獲物を閉じ込める檻ではなく、タコにとっては「最高の隠れ家」。海から引き揚げられるときも、壺の奥でぎゅっと踏ん張って居座っているためフタがなくても逃げないのです。弥生時代から2,000年以上変わらない、タコの心理を突いた伝統の知恵です。",
+  "research": "愛知県安城市和泉町向けの地域ラジオ放送用に、家族団らんのひとときに「へえ、そうだったのか！」と盛り上がれる、暮らしにまつわる懐かしい話題を4件調査しました。地元・和泉町をはじめ西三河・愛知県の話題を優先して選定しています。\n\n---\n\n### 1. 【安城市和泉町】和泉手延べそうめんが「3.6メートル」も長く、珍しい「半生」な理由\n\n* **理由と具体的な数字・比較**  \n  一般的なそうめんは乾燥させた「乾麺」で長さ20cm前後ですが、地元・和泉町で作られる「和泉手延べ長そうめん」は、なんと**約3.6メートル（約2間、畳2畳分の長さ）**もあります。乾麺ではなくしなやかな「半生麺」だからこそ、3.6mもの長い麺を切らずに束ねて袋詰めできます。この独特の食感を生むのが、一度乾燥させた麺に初夏から夏にかけて三河湾から吹き込む湿った南風（通称「そうめん風」）や蒸気をあてて再びやわらかく戻す、全国でも類を見ない**「半生もどし（半生返し）」**の製法です。\n* **意外な点**  \n  なぜこれほど長いのかというと、昔、麺を延ばす乾燥用の棒として**木造家屋の柱に通す建築資材「貫（ぬき）」**を道具として流用していたためです。その木材の規格が「2間（約3.6m）」だったことから、そのまま麺の長さとして定着しました。麺を限界まで細く長く手延べすることで、小麦のグルテン組織が均一に整い、モチモチとした強いコシが生まれます。\n* **歴史の裏話**  \n  起源は江戸時代の天明の飢饉（1782〜1788年）の頃。明治用水が開削される前の和泉村は水不足に苦しみ、稲作が難しく小麦を栽培していました。飢えと貧困を乗り越える副業として、隣の鷲塚村（現・碧南市）から手延べそうめん作りを学んだのが始まりです。奈良の三輪や兵庫の播州など全国の主要産地が「冬」に製麺するのに対し、和泉そうめんは「小麦を初夏に収穫した直後の農閑期（夏）」に作る副業だったため、今も夏に製造するという珍しい伝統が残っています。\n* **根拠・出典**  \n  愛知県教育委員会（愛知エースネット）「和泉手延べ長そうめん」、間杉手延製麺所「和泉手延長そうめん 由来と特徴」、CBCテレビ「チャント！ほぼ地元だけ愛されフード（2024年8月21日）」 などの資料に基づきます。\n\n---\n\n### 2. 【碧南市・西三河】昔懐かしい「三河七輪」が黒くて頑丈な秘密〜三州瓦の土が生んだ二重構造〜\n\n* **理由と具体的な数字・比較**  \n  昭和の台所や縁側で秋刀魚などを焼いた「七輪（しちりん）」。全国で流通する一般的な七輪は能登半島などの「珪藻土（けいそうど）」単体で作られますが、珪藻土は熱効率が良い反面、水に濡れたり衝撃を受けたりすると崩れやすい欠点があります。これに対し、お隣の碧南市や高浜市で作られてきた「三河焼（黒七輪）」は、**内側に熱効率と遠赤外線効果に優れた「珪藻土」、外側に三州瓦に使われる頑丈な「三河土（粘土）」を合わせた【二重構造】**になっているのが最大の特徴です。\n* **意外な点**  \n  七輪で最も壊れやすいのは下部にある空気調整用の窓（風戸・空気口）ですが、安価な金属板を使う一般的な七輪と違い、三河の黒七輪はこの**空気口のパーツまで職人が粘土（三河土）を手彫りして焼き上げています**。金属のように錆びて外れることがなく、親から子へ世代を超えて使い続けられるほど長持ちします。外側が瓦と同じ黒光り（いぶし銀）をしているのも三州瓦の窯業技術そのものです。\n* **歴史の裏話**  \n  江戸時代末期の天保年間（1830〜1844年）、長州（山口県）から碧南市新川地区に移り住んだ岡本銀造が製造を始めたと伝えられています。昭和初期には碧南を中心に陶土器工場が**156軒**もひしめき、石川県や香川県と並ぶ七輪の三大産地として日本の台所を支えました。なお「七輪」という名前の由来には、「わずか七厘（当時のごくわずかな小銭）分の炭で十分煮炊きができるほど燃焼効率が良いから」という暮らしの知恵にまつわる説があります。\n* **根拠・出典**  \n  愛知県公式Webサイト 産業労働部「三河焼について」、碧南市地域情報紙「eホームニュース（三河焼の七輪や植木鉢）」、日本職人名工会「三河黒七輪」 などの資料に基づきます。\n\n---\n\n### 3. 【名古屋・愛知発祥】ノスタルジックな「大正琴」は和楽器ではなく、タイプライターから生まれたハイテク洋楽器だった！？\n\n* **理由と具体的な数字・比較**  \n  昭和の家庭やお茶の間で親しまれ、哀愁を帯びた独特の金属音を奏でる「大正琴（たいしょうごと）」。和風の形をしていますが、実は伝統的な和楽器ではなく、**大正元年（1912年）に名古屋市中区の大須で発明された「日本生まれの洋楽器」**です。絹糸を指で押さえる日本の琴とは異なり、弦には「金属弦（スチール弦）」を用い、ピアノと同じ西洋の半音階（1オクターブ12音）が並ぶキートップがついています。\n* **意外な点**  \n  このボタンを押して弦を抑える画期的な構造は、発明者の森田吾郎（本名・川口仁三郎）がヨーロッパ演奏旅行の際に目にした**「文字を打つタイプライター」**のキー構造から着想を得たものです。当時流行していた二絃琴にタイプライターのボタンとピアノの音階配列を組み合わせることで誕生しました。\n* **歴史の裏話**  \n  明治・大正初期、ピアノやバイオリンは庶民には手の届かない超高級品で、琴や三味線も習得に何年もかかりました。森田は「誰でも家庭ですぐに音楽を楽しめる楽器を作りたい」と考え、楽譜が読めなくても弾けるよう、鍵盤に「1・2・3」と数字を割り振った数字譜を考案しました。当時の**「3ヶ月で弾けるようになる」**というキャッチコピーが大評判となり、大正から昭和にかけて家庭用楽器として全国的なブームを巻き起こしました。現在も大須観音の境内には「大正琴発祥の地」の記念碑が建てられています。\n* **根拠・出典**  \n  愛知県教育委員会（愛知エースネット）「森田吾郎 -大正琴の発明者-」、公益社団法人大正琴協会「大正琴の歴史」、ヤマハ株式会社「楽器解体全書（大正琴＆ヴィオリラ誕生ストーリー）」、名古屋市図書館「名古屋の偉人伝」 などの資料に基づきます。\n\n---\n\n### 4. 【昔の夏の風景】蚊取り線香が「渦巻き」になったのは、奥さんが見た“ヘビ”がきっかけ！？\n\n* **理由と具体的な数字・比較**  \n  昭和の夏、縁側や和室に欠かせなかった緑色の渦巻き型蚊取り線香。世界で初めて蚊取り線香を作った金鳥（大日本除虫菊）の初代製品（1890年発売）は、実は渦巻きではなく仏壇用の線香と同じ**「長さ約20センチのまっすぐな棒状」**でした。しかし、棒状の線香はわずか**約40分**で燃え尽きてしまい、人が寝ている間の蚊を防ぎきれないという致命的な弱点がありました。\n* **意外な点**  \n  人の睡眠時間である約6〜7時間持たせるには、線香を約75センチまで長くする必要があります。しかし、まっすぐな棒のまま長くすると運ぶ際や使う際にポキポキ折れてしまい、場所も取ります。悩んでいた創業者・上山英一郎に対し、**「とぐろを巻いたヘビのように渦巻き型に巻いてみてはどうか」**と提案したのは、妻の「ゆき」でした。庭や蔵でとぐろを巻くヘビの姿から着想を得た内助の功によって、コンパクトで長時間（一晩中）均一に燃え続ける理想の形が1895年に誕生したのです。\n* **歴史の裏話**  \n  蚊取り線香の渦巻きは、よく見ると中心から外側に向かって「右巻き（時計回り）」と「左巻き（反時計回り）」があります。かつて手巻きで作られていた時代は右利きの職人が作業しやすい「右巻き」が主流でした。しかし昭和30年代に機械による型抜き製造が始まった際、金鳥は他社製品との差別化を図るため、自社製品をあえて**「左巻き」**に統一しました。なお、トレードマークが鶏なのは中国の歴史書『史記』の「鶏口となるも牛後となるなかれ（大組織の末端に甘んじるより、小さな集団でも先頭・トップに立て）」という故事成語に由来しています。\n* **根拠・出典**  \n  大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです」、「金鳥商標のいわれ」、国立科学博物館 産業技術史資料データベース（未来技術遺産登録資料）などの資料に基づきます。\n\n---\n\n### 【番組用3択クイズ】（話題1：和泉手延べ長そうめん より）\n\n**問題：**  \n地元・安城市和泉町の名産「和泉手延べ長そうめん」は、畳2枚分にあたる約3.6メートルもの長さがあります。では、昔の職人たちが麺をわざわざこの長さに伸ばすようになった「意外な理由」とは何でしょう？\n\n* **1番：** 当時、木造の家を建てるときに使っていた横木（建築資材）の長さに合わせたから\n* **2番：** 刈谷藩のお殿様へ献上するときに、一番豪華に見える長さだったから\n* **3番：** 和泉町にあった井戸の深さと同じ長さにして、水で冷やしやすくしたから\n\n**【正解】**  \n**1番：当時、木造の家を建てるときに使っていた横木（建築資材）の長さに合わせたから**\n\n**【解説トークのポイント】**  \n昔、伸ばした麺を掛けて干す道具として、専用の台ではなく木造住宅の柱と柱の間に通す水平材「貫（ぬき）」という建築資材を使っていました。この木材の規格が当時の単位で「2間（にけん＝約3.6メートル）」だったため、道具の長さに合わせて麺を伸ばしたところ、約3.6メートルの日本一長いそうめんが誕生したと伝えられています。身近な大工道具を活用した、和泉の先人たちのたくましい生活の知恵ですね。",
   "grounding": {
     "searchEntryPoint": {
-      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%81%9B%E3%81%A8%E3%82%82%E3%81%AE+%E8%AA%9E%E6%BA%90+%E7%80%AC%E6%88%B8%E7%84%BC+%E7%94%B1%E6%9D%A5+%E7%80%AC%E6%88%B8%E5%B8%82+%E5%8A%A0%E8%97%A4%E6%B0%91%E5%90%89&client=app-vertex-grounding&safesearch=active\">せともの 語源 瀬戸焼 由来 瀬戸市 加藤民吉</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E3%82%BF%E3%82%B3%E5%A3%BA+%E3%81%AA%E3%81%9C%E9%80%83%E3%81%92%E3%81%AA%E3%81%84+%E7%BF%92%E6%80%A7+%E6%B0%B4%E7%94%A3+%E6%B0%B4%E6%97%8F%E9%A4%A8&client=app-vertex-grounding&safesearch=active\">タコ壺 なぜ逃げない 習性 水産 水族館</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%92%B2%E9%83%A1%E3%81%BF%E3%81%8B%E3%82%93+%E3%81%AA%E3%81%9C%E7%94%98%E3%81%84+%E6%AD%B4%E5%8F%B2+%E6%84%9B%E7%9F%A5%E7%9C%8C+JA%E8%92%B2%E9%83%A1%E5%B8%82&client=app-vertex-grounding&safesearch=active\">蒲郡みかん なぜ甘い 歴史 愛知県 JA蒲郡市</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%B6%B3%E5%8A%A9%E7%9B%B4%E3%81%97+%E5%A1%A9%E3%81%AE%E9%81%93+%E8%B1%8A%E7%94%B0%E5%B8%82+%E4%B8%89%E6%B2%B3%E6%B9%BE+%E4%BF%A1%E5%B7%9E&client=app-vertex-grounding&safesearch=active\">足助直し 塩の道 豊田市 三河湾 信州</a>\n  </div>\n</div>"
+      "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E4%B8%89%E6%B2%B3%E4%B8%83%E8%BC%AA+%E7%A2%A7%E5%8D%97+%E7%89%B9%E5%BE%B4+%E4%BA%8C%E9%87%8D%E6%A7%8B%E9%80%A0+%E6%AD%B4%E5%8F%B2&client=app-vertex-grounding&safesearch=active\">三河七輪 碧南 特徴 二重構造 歴史</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%92%8C%E6%B3%89%E6%89%8B%E5%BB%B6%E3%81%B9%E3%81%9D%E3%81%86%E3%82%81%E3%82%93+%E6%AD%B4%E5%8F%B2+%E5%AE%89%E5%9F%8E+%E7%89%B9%E5%BE%B4&client=app-vertex-grounding&safesearch=active\">和泉手延べそうめん 歴史 安城 特徴</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E5%A4%A7%E6%AD%A3%E7%90%B4+%E5%90%8D%E5%8F%A4%E5%B1%8B+%E7%94%B1%E6%9D%A5+%E6%A3%AE%E7%94%B0%E5%90%BE%E9%83%8E&client=app-vertex-grounding&safesearch=active\">大正琴 名古屋 由来 森田吾郎</a>\n<a class=\"chip\" href=\"https://www.google.com/search?q=%E8%9A%8A%E5%8F%96%E3%82%8A%E7%B7%9A%E9%A6%99+%E6%B8%A6%E5%B7%BB%E3%81%8D+%E7%90%86%E7%94%B1+%E9%87%91%E9%B3%A5+%E7%94%B1%E6%9D%A5&client=app-vertex-grounding&safesearch=active\">蚊取り線香 渦巻き 理由 金鳥 由来</a>\n  </div>\n</div>"
     },
     "groundingChunks": [
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEebO_BqiKa7yUjaLSfcUPBU6zgw-_ensSXbEtcvaEhjEz75GWtIzM6tKFg9I9De62_gMH-Za0xHYlYJoHo2RuVXldTU4iqR31zT9fQafZYizqjwh_C1Dmd_COP",
-          "title": "gamagori.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCpAf3dIppIvnMky27Pq3CfZYcRGKz9GzhHGqiwnWMJl21Onk458K4JQW6iktc47i6q9eliON3qkoeok94z1UhPIMr-nNOQm4Nr1k1iAlXOBS33ANYzS_H7Xf5fXyn_OOaY-YEzg4Zp3BE-ZkiATD5QiGILMMGmoQt6WLP5QgVOcd9Mj8=",
+          "title": "aichi-c.ed.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERSyrUelC6nQyIkmSjErMENGVj8qPYMlx0vBNRRmf9X1wQfxi_WYL4qLEyniLvHAYn3u1NccULmc6N98aCab77_6qIIK8sDG0tUGmQvSwiF4b8vKZZ8tvqGWBxAZaWhg-lICXxXHfUQLooILQWTRUr0JizEnruagNZb8uAqZbY7x8qKpMVitYBfZUurZB-o57PFg==",
-          "title": "syouhyou-touroku.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED3247otfum9mTxYw5wNnVjR7vo-J3aZN6Xjl0qUIpGV_tHhVGmEDk3yLMNXnAEcty3DF1kuRXHyhR79SPg4kMORQ8GhG3mSFLBfrwCHU7ZoworoFT44x_h6pXVpQdRDUpnHrTIaIdndfKva6lgk8d1qntBKoCzA==",
+          "title": "hicbc.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsckUgsoYBNTv3vrE_qvAGcrnaBI5suRv_lnUV-ecSo6U_OKt0xH7NMX7mzd-wGiNGHyGz9WnWnPJCD2JCA6SJ3dgtJaVeD7wzSnBHPr6q3lE35YTaKbxRVVeZNnw=",
-          "title": "ja-gamagori.or.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdKRgH9Ti8e4bialaEyG9JCTJebS_2T9CEWuWPPeQAsGuXEqm1O53SH6BbxACmsOv954bWMB-rk3oTq_6er9WFlfIoJrkobqBOh26kovZZ9w_y9KHgMez1o0unIA==",
+          "title": "masugiseimen.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHSDmG3i1EcdOxwAHJP9Qf3v3-9_fD1iHlp4CW3UE6TOXgy1oYXPEAIo-KSDIwg3_pSsK9xu2o1LNjsjj_RV435GBr1E2BKQjcXiccZIFPbmNR6Ab6SWKi13Ubm1DskmQrjYgCj4eb6zp9Vt4MZ84iErpTDkVzLHCtIqEZyQ==",
-          "title": "gamagori.lg.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbiCkRmTC6ccP_BfEmrLJOiN2jad8oO20Druz5UswFK6xMWcbNaF98mdK8NOD1g3MlN1R8VWj1U2HTwlLP5KnqwFkmwgj5oWOGUPVXsJkVfGhW3OY5wb9sOE-I9Xv7gQEGJ9U5RH-z",
+          "title": "tatsumi-shop.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3e7Qe12OUHN1nR9fUiKxs1uoZWfFEBECgUP0A00UiMGKqr7frGItocOgEj4paIgmsG27AleBUQ3eoYIDDLEa-y92PIKhgCbRGPKGemi-vMCz2vK92abtnsvarxmXEioMuDOwbM3P5xcbyK9yBV76C91azdQ==",
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFq5XNzHmafsx76izyuAkUW1XCpfPMKIdRtWIhwqdtXHw3nD2BoyOwMOrFuHPN4vFsjZr5eeMAa_Io92Yi83rvam_vkvE51zKxFWbpDWJvHdlKobGOlDZ_nwoeZsb0=",
+          "title": "a-def.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7oO11FnIWwVCHHhtllXV9_8FMZ5CR4Z5x4qcMn4Pavn5jZb_GzCVa-1qVdcjno_7dnOp-ZfteK1Fi5Q4XqA-SPlaCtrgKWMbaccRqEKvwWfwsys9gB1lBow==",
+          "title": "tokonameenkel.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq2Itt5zuIuEi8e7iNGZniAII39v0VAtQUJUN9LUkzvQaL4jiGEE7DGTgJdqZ-1UslI3J3oUXYlFznYQiO2oGsSn0BzqTZd1AththYGd5l-JH9ewRPCanTbgF11UzZNL-wiEovw4fILlek",
+          "title": "mingei-okumura.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA7Rf8yZ1RNR2C1bcdid3Fsl78LXpMOF9tQJjYneUjH0Xe0dcUXlDXQoyk2CBCpFmkq8E20dMZ0tN9HI_2pFfKPI0HoWkgQYm7PQJnTPRk-YWhLADiFlFATRk95mUna0bMlxqY",
+          "title": "tokonameenkel.com"
+        }
+      },
+      {
+        "web": {
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPq1DYSMrxXO9UzBKXGaroT5NbAOgaH2pjBUW3imCK3GJNs9jGf-5NcEmJn9xS-Ks43JrhbqKdpokkJjmMVwwjAkWESGc7wPFYjY0ayjNKD2SQ1BcmBGKWMeA0YnjmWF807mKGgWssWqiUG10_bnXS2TN25c1K9Wz1-5Ge8Q2RUr4=",
           "title": "pref.aichi.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcE2R9-PHh8DDEu0xiicLxjx6I5IXW2jtbp6S7twywBvGQxj6o5n-nc9Dhr5cw5uxPqJFnXOn6uScWZXKr-2HjIhsHcbPuZAuE7nhI9NX7KaE684li219IeqxGKgY2hGnus9HNGiGdtnYMVML5l7Dt6VQJjSd1exg_SxaJhHBTRoA=",
-          "title": "wikipedia.org"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcGPEWiTt7hc6tMlvvtkU4FNTst6oGDs2RT3WpWTbnwO6BpM8L8beYjuIrQGBpfL0z84gPe3CiZXmhsC9286zfg3peUEhE5pvw4mOU37Fu3uwzIlQTTAQzTNqrSc7aU0z-1snf5rqvVtY1HxnZ8EY=",
+          "title": "meikoukai.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-aQBoc6HlM_MEawoXLLNJTK94JlCws3RLLvc94bXaGmTeGdGOvFZYxpeBB_jo6bJpHu6eOKH7N4tiEuhaHaXxPBZ53ZFvRVxwqB3d3VGgCq9kv-Fg8SnxcNeE7KZY4mqNtbYP6qIvgF9Q-ow9wn1uC93hiJp2x6JpKFrO4MOUlpW7mvfoT9I=",
-          "title": "jimdofree.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNR3nOv_cB_U1XRIRzenvNsZHi4RHxrdV4Smr_tvrVcxegFHNPX-AcmcqEGr_p5GFqs-2HBcviMBMXjpWi-uYRaJOA41WuHp6LXdYBJDaM_2vAcA==",
+          "title": "e-hn.net"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENXsXIUvhEcVCNyModNghh0RhRO1dqGxFpui8ZFVsk2rXKurGvngaaH5iQIR-C63RAMlbSQlUVZ1J3z9VtXKGuZZi7rgQFp83dBGGjOLDCgxBmHnf_7XxbmSCUd4F5uQVq",
-          "title": "kenporen-aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDPokJAH0vjia8vmYfBEFN4IB-HR_3zwZuwSOYvbOFKL9VFofsJdeD7PYekhv4UGiIPfar5fiCdqUlfqHMHjZ-TkRqVD0ERg72utzdIX0BHXBK7JO569T1h1FmnjN3-3DFMHWFL3gEsAmEAHAeJ0pcIrEL1MZEexWR0ggwejnf4KSWyQuvLA==",
+          "title": "yamaha.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7tp-uzoeSE0d0kg90FOFBmtNu5T_UwddZ0Y5UGihhl4pA7mQ6nGd8eDRarjM8kfGn1ulZb5h0rG5g3FCoo-Ghv2pp2N41o1xvQvgaeS2T96BrTJEjIls2CoNDxdt9R8mcK8Q=",
-          "title": "tourismtoyota.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlGKVyVCaT3LZuB6fcawjcnp6zFZNjqw514JsJCi8KRdLooKybVpEYrpPIfjI2CkFlXAhH0OOF3noox7HWetZRG7u1iC_R2vlNFdOgiWhN4NeXhwCDThVzDkFje0Pumy5bb7hIUHhXCM8UJvV2VxqElDrYMCCIZbJwId2mXw==",
+          "title": "meinaka-hojinkai.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4WxL1H9PVczXBCKyjNdAkX68G6-SjvzIWOBPQWamN7x5StFbfNibPQcihWdKYD27nEJr0WBcLjEYOI2IiPTaQojUTjk6ljMZJalbQNdWHlBFOQHdisHflXuPnw7ArthZCtr8zNYkE90ui46dRQCE=",
-          "title": "mlit.go.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfRx7nZO3E2rr4ubjtAu39OFKBeHpn_YZi0HsZsx7QwvGBRvCMYraDJEzRICp-guNrz55VCIhZ3sF75coaxWcjmRljvEV_-QtaxETX05BAPljGMXt8",
+          "title": "suminekai.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZeDJOenYa6sNYDF3iU6AeQjHQJlXKA2Nmmpl-sHQBDEXQPWdamwI4IfrGls_DCnJmfvedVb7lLdBGKLsp2kpVvh6Ju2yAdXgdm6In0dXzTPdzphlcvuU=",
-          "title": "thebase.in"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ-_PfdqnWV6B9qZyoZmkg3FxholLfBWFiVLyEh4p36v5kWM6vUK1OX9uQNDGWVEDAiLuvniDVsGDljzzIrqquCFGgD09BfhGD3Zwc2dXhok6o9pBlsA_VmZMq6nRfdFO7-hft",
+          "title": "gakki.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFb-bPoFAfe21W-llFP5PAWhWgSi-pK8ow4umbnkN4wX6i94vnrMFS_8Q5ZgM4az1z8OHjjxwFTvMxbj-b3ZNBo4R0ioYjucp1pz4UMKHd2UTMcJ_vdaXcmQ8ZuGHIWThGXgVo",
-          "title": "asuke.info"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtUbogMm7fpGJxPoKRXdwXRpJrACJ0JmBDASEAbPv2N0fV6IBo9ne9s4iWN3VDjK0j4pbvzYKsCqbG7wxL85sZRVoBP696PA21ZwXdb1sRh4Bu-R37__HMXS_9jzhMQbU0",
+          "title": "taishokoto.or.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFhDbFVTqHCy7hfjpE3PcDkELNntcVSFzV77F8bdhvPd1jKS-1KFEMpkRM0vTVfUoQ_aXL1fvO0Cghj_OQma3Xv0rdh55xpe3OkMQTVQfZh7w=",
-          "title": "tabakoya-shioza.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8OMsgR7_msXBdxBdLxB5DZZ8xtPdAr9Jg3QvnTXcJun7U5nW6qFpTynvdLXPWlvw1WsZCQyJd5P4WqywlcadoRowJxqPAE_xiu25PAWulnjGHl4icn9g8CSvukbdAwMFw5HCKvMSGXQ==",
+          "title": "kindenryu.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqLdqjA9Kz1Ult-yINMm67xxgJYUJ13BJLAMZbb86OW_rpupj7VQZlQdtdCeMSsLJ96d0wSdvZmrcsHpOLchNul2gsBrzzEONg8cVDIGKTAle2zqSzurw78KatuA4aCCzQLidBd63ae_ROXiFtHfjCYOU=",
-          "title": "city.toyota.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYprI36Sjj0UPGSvVt2Rn7W6NLTDn_euciJS8wuvvjbztMEjwXh6yeInFrJhAX3QnhN925VoR5_WfvLkyqd7rKIwkmmbTY7hQikVn5XS0wF6aI-iV_BO-CgVUw8kg6PBpTUP5Y8sjzat13-TOUs_SXiiDaj370FwNO-e7rdwlDNhtziHQ=",
+          "title": "aichi-c.ed.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMGQoJTipdp-ot0eMJiJqhho-sbzm41D6T4VruVJPrduAr6BYEZhyrLegPScCV3UBt2p2LTmR3-rXKBPlMoZqMADv0AHkFs2ncs8v-Q48PC1II6jAED6ctvlH5N-6ntl5frDa8mZG92A4uRxAP-eHYZOl0Z1Iy-IcQDPY=",
-          "title": "yahoo.co.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-h_WhtqVxrracXCLWB8SXb6eTnvOz9cuiI4O2GxCkO3TQ6iJt9l2fvfzfok_-wJcUwDCNbhlZsdnKjcg8vJ3gwTQWptbu2V8QzC1YPBJV0o1gBuNS9BzEptrRffvITTQVcdeBDTuFAicAP0jc35DlzEXD1Btg_h1l5xY=",
+          "title": "city.nagoya.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcQ7OXGw01Y7_L2eNmdqRR6ijECVgAdk0dojtmBdE1i9Fh8YZQ6u9DP_3NWZqSrV4L6x2NqUU5rsX1MvdkXKpgT4jlgWRTEOax_O7azqn3y90xa5yPOkFmvFpBf4uXbHQUs5l41IL0EK68bQ1F21fxmdJ0w==",
-          "title": "shikoku-aquarium.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXOCbtqh6X47zahxEnjx-fTOGdLrIG10raN2EcTwMlfT2j71huWlRYkoLQgkYJEQwNkv0ftjeeWH7igT2jS_BcVVzFLnwUlVGAmUynaicihWa7nPU3Q8ODNsgHK9OLcccE-S0G",
+          "title": "weathernews.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaUxlna5M_erhV_vhNWAOEzaUt0KVvRCP1ySzhVfeWyEqFoCyKxOUNQn4FaEOG895KMXmTHdhIBgfudYhzEqiCgIZNof9LIC0Zr_95gi4jFRZn8uOWXZt8gmyfeTjhNqVto5pHMeC6eM6z",
-          "title": "naru-island.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWa_rFkaM-sBo2XS7ieBaiITMgWPY-n8WR2cD3tkb0yNVWECCXj-p44wWjwE6nyVlkR6ODv2RAZ_HvfmqVEKVG41qBXqW98GGX_YaiZ7vlen6H0Ah8BbCWl__TVQJxPoSFgitSwJbIGA==",
+          "title": "kincho.co.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFydD1nTiEjBePJQW5ONqaOdprT9ci8aKKiNK2c1ddFPpEQNbS2nnP7vxJ1WwoNVAsBp_WhBA9bilHJTporStBGi9k7nk33d0D7JUqXdwzoLbxt_E6FNnEt4Wn1KuYxDKFzn9EpBNqAU-GdxWpeBRHFxzhlms7NTON9xkmf6x66",
-          "title": "homemate-research-aquarium.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmPJSeS_A3NzEy1HfHUAMKf70qC19VAfFhZzwgY-7MsyBQ099VEchLhEW7VrE3UZ4MYUVb_0tMVuDPKrbn0KoTrTb2WJ7GxVXFCngJ4aOO4b-KfG_D1Nh-RFlXmrOvETTpjyhfLOPW27BwVPpdXAU3zQ==",
+          "title": "newsweekjapan.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM_KRPdaURc1Hlq6BG4NjWTvWIEBwQ6x-wO0CHNKUE8jhfv-yGM865kFfxoybbcek6Wv8qIhbs3qk17gzf2Wz99pnCvbeNozY68c210miHQv80bUamCerg96gprGi9euk7",
-          "title": "youtube.com"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVBm9EizKRplZmRj5JLWkWMs2mW5SeB6cHWLD8Pgn9m7tDrxKWrUq2KxmiSh5PJCY_ucEaT6zsXKljVAJCeNSbzDj4DlWB6XxhOUgTaY2U1EmU8-rQDcX39VNiRAJ4Weg=",
+          "title": "note.com"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjvZdhcWZ8ovgbBQkwh-Ra8fRfIR2z31BxWcjEs3kD1d6M_sv7V5GJ8pQWKsLyicNHKWqd2vmiDi87_SlwfBejSQX_l60YR7AzV6bjGaAPMOtyn_4=",
-          "title": "seto-tosyo.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP9NQlb7aKTIyoBI1BJ0-2lZheOHuLrjC2HJTApYMdgaHhfiMzHYTicKajIeJ06ct8oVq-I72GDxGWouaTdxHOV1WKXYm3_crz3U6rcylfeTbvVvKRQx0zZjSPVxVevkD7kweMFXs6czIOXe7dPQ9PP1M=",
+          "title": "tenki.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhZVanA5JG71h_ZFu9eCZbM6a4Eo9obh--PVxXjE-cYSzQNvONojGjugbHa-t6nu9ma7Spdrwo4dNgzZoZ4OWZTcMT_STsE0qFkF1QrLRQps-D2tSRCg==",
-          "title": "sixancientkilns.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4SbAelqpXomOdmq70BzPAZViZ8Gv7XaHcxJ4eRk5PTsnazWJIwzz563vQYtwzWkEIV5zf2rHHI2yDQuP1_ib8SckcEcQ0D84mjsKmKRtNTWE=",
+          "title": "joshi-spa.jp"
         }
       },
       {
         "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQg6sAZJw554PQqNF-j5nR2glFCARFkzrDMJvrvzZaDj8CWwg5RPu3DQFcPBTd5ky9N4ZVTrE_yxFwCcYWywWFuvwOKwd2GVWbsIxb402rF4qkPGoWhKcRDVaL",
-          "title": "imotosangyo.biz"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdxRUly2maUkU0MFbkezzIJ5t38PkOiRiPvCZk9sk-hx06paFjhLIlx5Pl28qVmYMVMHdomAr9nfoQ1JZ1fqWkgJSstLGgYc7SwjfQaC_DfhwqN7sd1Yz-7m0UPtr9SVvnWH-S91f5c8cJsTSifY0N",
-          "title": "seto-cul.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1A-PKai0sqbsEt1hGrH552ZiaWUT_WnoWe74cv-ro9-nusptoD9yLxG2ys8U7bodcFMe5EvmBpIvdiOTRBlUvA2T_h--DipjCCL3fNZt8HGCfdnt1a0s3GPNPmAxR",
-          "title": "cafora.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6Yb73xlNzTdyckVbk3S9LgF2EDqOdtsHzwOX9gLvSsJlP6VHAR7JeDIM442igkDF6yegng4IGqNkpZrUPCl-HMYTBZOGdk57eDLtyYNU5P3Xcd7Udx-fk4PoGJoCgdGzBrBFLtys=",
-          "title": "seto-guide.jp"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcHDtoWnZ5LDWvTalkPBkbrS1mZDPzpwNXKqTCQW3HAh-Eynu0O2AkhMjU9SBNQdcRPMNzNr_9TiRslHKDfcGUXGpTjmqHTnZJdt1M8vmPct5GBamJ4nwUwhE2Hvs5cUleEg==",
-          "title": "discoverjapan-web.com"
-        }
-      },
-      {
-        "web": {
-          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsiMk7LiQB6Kes28ZvWUQuD0JQt0CVUq-BhvvfQqdjijYvCdhaKNmtUgt63HzrjxXb2NZ-MYicHtHGCdpugh5-s1_OEOa4OIipsI1HndB6jPeXJeUyM6qNBxksjW1dr8nho3VaIFm5Y1YbP7xxOwxNVc_LaEIaw-jFHtS--HtnGjpWkg==",
-          "title": "city.seto.aichi.jp"
+          "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxGTUrK147nUUCOyTkNSqjjZ2oILZD0e7_6TfJCkb6ixHhPT6I9QAgd7N76pO0u37tOyqweugONeke_tOv_2uPaQ1jB_8muEkUVw7rbNfasbs094mejlaVVqWPZKcV3BQyIIaHwA==",
+          "title": "kincho.co.jp"
         }
       }
     ],
     "groundingSupports": [
       {
         "segment": {
-          "startIndex": 566,
-          "endIndex": 683,
-          "text": "蒲郡市は北を山に囲まれ、南は三河湾に面した温暖な南向きの扇状地に位置しています"
+          "startIndex": 511,
+          "endIndex": 752,
+          "text": "一般的なそうめんは乾燥させた「乾麺」で長さ20cm前後ですが、地元・和泉町で作られる「和泉手延べ長そうめん」は、なんと**約3.6メートル（約2間、畳2畳分の長さ）**もあります"
         },
         "groundingChunkIndices": [
           0,
-          1
+          1,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 686,
-          "endIndex": 773,
-          "text": "日照時間が長く、海からの暖かい潮風が吹き込む絶好の立地です"
+          "startIndex": 755,
+          "endIndex": 885,
+          "text": "乾麺ではなくしなやかな「半生麺」だからこそ、3.6mもの長い麺を切らずに束ねて袋詰めできます"
         },
         "groundingChunkIndices": [
-          2,
-          0
+          1,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 776,
-          "endIndex": 848,
-          "text": "さらに甘さを凝縮させる決め手が「マルチ栽培」です"
+          "startIndex": 888,
+          "endIndex": 1192,
+          "text": "この独特の食感を生むのが、一度乾燥させた麺に初夏から夏にかけて三河湾から吹き込む湿った南風（通称「そうめん風」）や蒸気をあてて再びやわらかく戻す、全国でも類を見ない**「半生もどし（半生返し）」**の製法です"
         },
         "groundingChunkIndices": [
-          0,
-          1
+          3,
+          2
         ]
       },
       {
         "segment": {
-          "startIndex": 851,
-          "endIndex": 1064,
-          "text": "みかんの木の下の地面を白い透水性・反射性シートで覆うことで、余分な雨水が入るのを防ぎ、木に適度な水分ストレスを与えて糖度をギュッと濃縮させます"
-        },
-        "groundingChunkIndices": [
-          0,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1067,
-          "endIndex": 1178,
-          "text": "同時に、白いシートが太陽光を下からも反射させて果実全体をくまなく熟させます"
-        },
-        "groundingChunkIndices": [
-          2,
-          1
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1220,
-          "endIndex": 1397,
-          "text": "「蒲郡みかん」は2008年（平成20年）に愛知県内の農産物として初めて特許庁の「地域団体商標（地域ブランド）」に認定されました"
-        },
-        "groundingChunkIndices": [
-          0,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1400,
-          "endIndex": 1573,
-          "text": "愛知県のみかん収穫量は年間約19,600トン（全国7位）を誇り、特に温室みかんの生産量は佐賀県に次ぐ全国第2位の実績を持ちます"
-        },
-        "groundingChunkIndices": [
-          0,
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 1600,
-          "endIndex": 1816,
-          "text": "晩秋のみかん畑を山側から眺めると、まるで雪が積もったかのように地面一面が真っ白に見えますが、これは雪ではなく農家が敷き詰めた「マルチシート」です"
+          "startIndex": 1219,
+          "endIndex": 1421,
+          "text": "なぜこれほど長いのかというと、昔、麺を延ばす乾燥用の棒として**木造家屋の柱に通す建築資材「貫（ぬき）」**を道具として流用していたためです"
         },
         "groundingChunkIndices": [
           2
@@ -338,181 +269,196 @@
       },
       {
         "segment": {
-          "startIndex": 1819,
-          "endIndex": 2017,
-          "text": "植物に水をたっぷり与えるのではなく、あえて「喉が渇いた状態（水分制限）」に追い込むことで、あの強い甘みと深いコクが生み出されています"
+          "startIndex": 1424,
+          "endIndex": 1546,
+          "text": "その木材の規格が「2間（約3.6m）」だったことから、そのまま麺の長さとして定着しました"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1549,
+          "endIndex": 1705,
+          "text": "麺を限界まで細く長く手延べすることで、小麦のグルテン組織が均一に整い、モチモチとした強いコシが生まれます"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1735,
+          "endIndex": 1800,
+          "text": "起源は江戸時代の天明の飢饉（1782〜1788年）の頃"
         },
         "groundingChunkIndices": [
           0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1803,
+          "endIndex": 1926,
+          "text": "明治用水が開削される前の和泉村は水不足に苦しみ、稲作が難しく小麦を栽培していました"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 1929,
+          "endIndex": 2082,
+          "text": "飢えと貧困を乗り越える副業として、隣の鷲塚村（現・碧南市）から手延べそうめん作りを学んだのが始まりです"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2085,
+          "endIndex": 2373,
+          "text": "奈良の三輪や兵庫の播州など全国の主要産地が「冬」に製麺するのに対し、和泉そうめんは「小麦を初夏に収穫した直後の農閑期（夏）」に作る副業だったため、今も夏に製造するという珍しい伝統が残っています"
+        },
+        "groundingChunkIndices": [
+          0,
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2403,
+          "endIndex": 2493,
+          "text": "愛知県教育委員会（愛知エースネット）「和泉手延べ長そうめん」"
+        },
+        "groundingChunkIndices": [
+          0
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2403,
+          "endIndex": 2566,
+          "text": "愛知県教育委員会（愛知エースネット）「和泉手延べ長そうめん」、間杉手延製麺所「和泉手延長そうめん 由来と特徴」"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2599,
+          "endIndex": 2660,
+          "text": "ほぼ地元だけ愛されフード（2024年8月21日）」"
+        },
+        "groundingChunkIndices": [
           1
         ]
       },
       {
         "segment": {
-          "startIndex": 2047,
-          "endIndex": 2277,
-          "text": "蒲郡でのみかん作りの歴史は非常に古く、江戸時代初期の延宝7年（1679年）の五井村（現・蒲郡市五井町）の検地帳「田畑新切帳」に数本のみかんの木が記録されています"
+          "startIndex": 2892,
+          "endIndex": 2976,
+          "text": "昭和の台所や縁側で秋刀魚などを焼いた「七輪（しちりん）」"
+        },
+        "groundingChunkIndices": [
+          4
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 2979,
+          "endIndex": 3231,
+          "text": "全国で流通する一般的な七輪は能登半島などの「珪藻土（けいそうど）」単体で作られますが、珪藻土は熱効率が良い反面、水に濡れたり衝撃を受けたりすると崩れやすい欠点があります"
         },
         "groundingChunkIndices": [
           5,
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2280,
-          "endIndex": 2376,
-          "text": "300年以上前の江戸時代から連綿と受け継がれてきた伝統の果樹園地です"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2406,
-          "endIndex": 2465,
-          "text": "JA蒲郡市公式ホームページ「みかん豆知識」"
-        },
-        "groundingChunkIndices": [
-          2
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2406,
-          "endIndex": 2555,
-          "text": "JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」"
-        },
-        "groundingChunkIndices": [
-          0
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2406,
-          "endIndex": 2625,
-          "text": "JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」、蒲郡市博物館「蒲郡の歴史と文化財 蒲郡みかん」"
-        },
-        "groundingChunkIndices": [
-          3
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2406,
-          "endIndex": 2691,
-          "text": "JA蒲郡市公式ホームページ「みかん豆知識」、蒲郡市観光協会公式サイト「がまごおり、ナビ（蒲郡みかん）」、蒲郡市博物館「蒲郡の歴史と文化財 蒲郡みかん」、愛知県農林水産部「あいちの農産物（果物）」"
-        },
-        "groundingChunkIndices": [
-          4
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 2931,
-          "endIndex": 3189,
-          "text": "紅葉で知られる香嵐渓のすぐ隣にある足助の町並み（重伝建地区）は、かつて三河湾で作られた塩を信州（長野・塩尻方面）へ運ぶ街道「中馬街道（伊那街道）」の最大の物流中継拠点でした"
-        },
-        "groundingChunkIndices": [
-          6,
-          7,
-          8
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3192,
-          "endIndex": 3360,
-          "text": "矢作川や巴川を船で遡ってきた大量の塩は、ここ足助で陸揚げされ、山越えをする馬（中馬）の背に積み替えて運ばれました"
-        },
-        "groundingChunkIndices": [
-          9,
+          4,
           6,
           7
         ]
       },
       {
         "segment": {
-          "startIndex": 3402,
-          "endIndex": 3676,
-          "text": "各地の塩田（三河湾沿いの吉良・饗庭塩や一色塩、知多の成岩塩、瀬戸内海の西国塩など）から届く塩俵は、1俵あたり4貫目（約15kg）や6貫目（約22.5kg）など産地によって重さや粒の粗さがバラバラでした"
+          "startIndex": 3234,
+          "endIndex": 3559,
+          "text": "これに対し、お隣の碧南市や高浜市で作られてきた「三河焼（黒七輪）」は、**内側に熱効率と遠赤外線効果に優れた「珪藻土」、外側に三州瓦に使われる頑丈な「三河土（粘土）」を合わせた【二重構造】**になっているのが最大の特徴です"
         },
         "groundingChunkIndices": [
-          6
+          5,
+          4,
+          8,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 3679,
-          "endIndex": 3895,
-          "text": "足助の塩問屋（塩座）では、塩を踏んで均一に混ぜ合わせ、険しい山道を馬1頭が左右均等に背負いやすいよう「7貫目（約26kg）」の俵にぴったり包み直しました"
+          "startIndex": 3586,
+          "endIndex": 3881,
+          "text": "七輪で最も壊れやすいのは下部にある空気調整用の窓（風戸・空気口）ですが、安価な金属板を使う一般的な七輪と違い、三河の黒七輪はこの**空気口のパーツまで職人が粘土（三河土）を手彫りして焼き上げています**"
         },
         "groundingChunkIndices": [
-          10,
-          6
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 3898,
-          "endIndex": 4017,
-          "text": "この作業を「塩直し（足助直し）」と呼び、町には13軒もの塩問屋が立ち並んでいました"
-        },
-        "groundingChunkIndices": [
-          10,
+          5,
           6,
-          11
+          9,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 4044,
-          "endIndex": 4137,
-          "text": "足助は単なる荷物の積み替え場所ではなく、塩のブレンド工場でした"
+          "startIndex": 3884,
+          "endIndex": 4016,
+          "text": "金属のように錆びて外れることがなく、親から子へ世代を超えて使い続けられるほど長持ちします"
         },
         "groundingChunkIndices": [
-          10,
-          11
+          5,
+          7
         ]
       },
       {
         "segment": {
-          "startIndex": 4140,
-          "endIndex": 4380,
-          "text": "瀬戸内海の塩と三河の塩を絶妙に調合してにがり分を調整した「足助直し」は、味がまろやかでおむすびや漬物によく合う高級ブランド塩として信州側で絶大な信頼を集めました"
+          "startIndex": 4019,
+          "endIndex": 4130,
+          "text": "外側が瓦と同じ黒光り（いぶし銀）をしているのも三州瓦の窯業技術そのものです"
         },
         "groundingChunkIndices": [
-          10,
-          11
+          5,
+          9
         ]
       },
       {
         "segment": {
-          "startIndex": 4410,
-          "endIndex": 4779,
-          "text": "忠臣蔵（赤穂事件）では吉良上野介（三河・吉良塩の領主）と浅野内匠頭（播磨・赤穂塩の領主）が犬猿の仲として知られますが、ここ足助の塩座では、吉良の塩と赤穂の塩が仲良く一緒に混ぜ合わされ（ブレンドされ）、美味しい合わせ塩となって信州へ旅立っていました"
+          "startIndex": 4160,
+          "endIndex": 4342,
+          "text": "江戸時代末期の天保年間（1830〜1844年）、長州（山口県）から碧南市新川地区に移り住んだ岡本銀造が製造を始めたと伝えられています"
         },
         "groundingChunkIndices": [
-          12,
-          11
+          8,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4809,
-          "endIndex": 4889,
-          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」"
+          "startIndex": 4345,
+          "endIndex": 4520,
+          "text": "昭和初期には碧南を中心に陶土器工場が**156軒**もひしめき、石川県や香川県と並ぶ七輪の三大産地として日本の台所を支えました"
         },
         "groundingChunkIndices": [
-          13
+          5,
+          8,
+          10
         ]
       },
       {
         "segment": {
-          "startIndex": 4809,
-          "endIndex": 4961,
-          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」"
+          "startIndex": 4523,
+          "endIndex": 4766,
+          "text": "なお「七輪」という名前の由来には、「わずか七厘（当時のごくわずかな小銭）分の炭で十分煮炊きができるほど燃焼効率が良いから」という暮らしの知恵にまつわる説があります"
         },
         "groundingChunkIndices": [
           9
@@ -520,19 +466,9 @@
       },
       {
         "segment": {
-          "startIndex": 4809,
-          "endIndex": 5028,
-          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」、豊田市足助観光協会「莨屋 塩座（足助直し）」"
-        },
-        "groundingChunkIndices": [
-          11
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 4809,
-          "endIndex": 5106,
-          "text": "豊田市博物館 展示ガイド「信州まで続く塩の道 足助直し」、国土交通省中部地方整備局「塩の道～中馬街道～」、豊田市足助観光協会「莨屋 塩座（足助直し）」、豊田市観光協会公式ツーリズムとよた「足助の町並み」"
+          "startIndex": 4796,
+          "endIndex": 4866,
+          "text": "愛知県公式Webサイト 産業労働部「三河焼について」"
         },
         "groundingChunkIndices": [
           8
@@ -540,134 +476,136 @@
       },
       {
         "segment": {
-          "startIndex": 5304,
-          "endIndex": 5418,
-          "text": "タコ壺漁の壺にはフタも返し（返し弁）もついておらず、口がぽっかり開いています"
+          "startIndex": 4796,
+          "endIndex": 4957,
+          "text": "愛知県公式Webサイト 産業労働部「三河焼について」、碧南市地域情報紙「eホームニュース（三河焼の七輪や植木鉢）」"
         },
         "groundingChunkIndices": [
+          10
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 4796,
+          "endIndex": 5002,
+          "text": "愛知県公式Webサイト 産業労働部「三河焼について」、碧南市地域情報紙「eホームニュース（三河焼の七輪や植木鉢）」、日本職人名工会「三河黒七輪」"
+        },
+        "groundingChunkIndices": [
+          9
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5273,
+          "endIndex": 5411,
+          "text": "昭和の家庭やお茶の間で親しまれ、哀愁を帯びた独特の金属音を奏でる「大正琴（たいしょうごと）」"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 5414,
+          "endIndex": 5608,
+          "text": "和風の形をしていますが、実は伝統的な和楽器ではなく、**大正元年（1912年）に名古屋市中区の大須で発明された「日本生まれの洋楽器」**です"
+        },
+        "groundingChunkIndices": [
+          11,
+          13,
           14,
           15
         ]
       },
       {
         "segment": {
-          "startIndex": 5421,
-          "endIndex": 5538,
-          "text": "逃げ出さない理由は「出られない」のではなく、タコが「自ら出たがらない」からです"
+          "startIndex": 5611,
+          "endIndex": 5833,
+          "text": "絹糸を指で押さえる日本の琴とは異なり、弦には「金属弦（スチール弦）」を用い、ピアノと同じ西洋の半音階（1オクターブ12音）が並ぶキートップがついています"
         },
         "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 5541,
-          "endIndex": 5745,
-          "text": "タコは骨がない軟体動物のため外敵に狙われやすく、暗くて狭い岩穴に体が密着している状態に強い安心感を覚える習性（正の走触性）を持っています"
-        },
-        "groundingChunkIndices": [
+          11,
+          13,
           14,
-          16
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 5748,
-          "endIndex": 5964,
-          "text": "壺の中にぴったりとおさまり落ち着いてしまっているため、海中からロープで引き揚げられる間も、外に泳ぎ出るどころか奥へ奥へと踏ん張って居座り続けます"
-        },
-        "groundingChunkIndices": [
-          14
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6006,
-          "endIndex": 6182,
-          "text": "日本のタコ壺漁の歴史は弥生時代（約2,000年以上前）にまで遡り、各地の遺跡から素焼きのタコ壺（蛸壺形土器）が出土しています"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6185,
-          "endIndex": 6392,
-          "text": "底引き網漁などに比べてタコの体に傷がつかず、ストレスが少ない状態で生きたまま水揚げできるため、市場でも高値で取引される極上のタコになります"
+          "startIndex": 5860,
+          "endIndex": 6125,
+          "text": "このボタンを押して弦を抑える画期的な構造は、発明者の森田吾郎（本名・川口仁三郎）がヨーロッパ演奏旅行の際に目にした**「文字を打つタイプライター」**のキー構造から着想を得たものです"
         },
         "groundingChunkIndices": [
           16,
-          15
+          11,
+          13,
+          12
         ]
       },
       {
         "segment": {
-          "startIndex": 6419,
-          "endIndex": 6581,
-          "text": "タコ壺は獲物を無理やり閉じ込める「罠」というより、タコにとっては「最高の隠れ家（無料の個室マンション）」です"
+          "startIndex": 6128,
+          "endIndex": 6272,
+          "text": "当時流行していた二絃琴にタイプライターのボタンとピアノの音階配列を組み合わせることで誕生しました"
         },
         "groundingChunkIndices": [
-          16
+          11,
+          17,
+          14
         ]
       },
       {
         "segment": {
-          "startIndex": 6584,
-          "endIndex": 6749,
-          "text": "エサで誘い込む必要すらなく、壺を沈めておくだけで、夜の食事を終えたタコが朝方に自分から好んで入って眠り込みます"
+          "startIndex": 6302,
+          "endIndex": 6458,
+          "text": "明治・大正初期、ピアノやバイオリンは庶民には手の届かない超高級品で、琴や三味線も習得に何年もかかりました"
+        },
+        "groundingChunkIndices": [
+          11,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6461,
+          "endIndex": 6683,
+          "text": "森田は「誰でも家庭ですぐに音楽を楽しめる楽器を作りたい」と考え、楽譜が読めなくても弾けるよう、鍵盤に「1・2・3」と数字を割り振った数字譜を考案しました"
+        },
+        "groundingChunkIndices": [
+          13,
+          15,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6686,
+          "endIndex": 6895,
+          "text": "当時の**「3ヶ月で弾けるようになる」**というキャッチコピーが大評判となり、大正から昭和にかけて家庭用楽器として全国的なブームを巻き起こしました"
+        },
+        "groundingChunkIndices": [
+          15,
+          12
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 6898,
+          "endIndex": 7000,
+          "text": "現在も大須観音の境内には「大正琴発祥の地」の記念碑が建てられています"
         },
         "groundingChunkIndices": [
           17,
-          16
+          13
         ]
       },
       {
         "segment": {
-          "startIndex": 6779,
-          "endIndex": 6959,
-          "text": "現在のタコ壺は軽くて丈夫なプラスチック製も使われますが、日間賀島などでは伝統的な陶器・素焼きの壺も長く愛用されてきました"
-        },
-        "groundingChunkIndices": [
-          16,
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 6962,
-          "endIndex": 7174,
-          "text": "弥生時代の素焼き土器と現代のタコ壺を見比べると、驚くほど形やサイズが変わっておらず、約2,000年前の漁師の観察眼が現代までそのまま生き続けています"
-        },
-        "groundingChunkIndices": [
-          16
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7204,
-          "endIndex": 7252,
-          "text": "四国水族館「展示解説：蛸壷の景」"
-        },
-        "groundingChunkIndices": [
-          15
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7347,
-          "endIndex": 7377,
-          "text": "日間賀島のタコ漁）」"
-        },
-        "groundingChunkIndices": [
-          18
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 7347,
-          "endIndex": 7413,
-          "text": "日間賀島のタコ漁）」、水族館用語辞典「蛸壺」"
+          "startIndex": 7030,
+          "endIndex": 7126,
+          "text": "愛知県教育委員会（愛知エースネット）「森田吾郎 -大正琴の発明者-」"
         },
         "groundingChunkIndices": [
           17
@@ -675,9 +613,39 @@
       },
       {
         "segment": {
-          "startIndex": 7635,
-          "endIndex": 7782,
-          "text": "愛知県瀬戸市は、平安時代から灰釉を使った本格的な施釉陶器を日本で唯一焼き続けてきた歴史ある窯場です"
+          "startIndex": 7030,
+          "endIndex": 7186,
+          "text": "愛知県教育委員会（愛知エースネット）「森田吾郎 -大正琴の発明者-」、公益社団法人大正琴協会「大正琴の歴史」"
+        },
+        "groundingChunkIndices": [
+          15
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7030,
+          "endIndex": 7288,
+          "text": "愛知県教育委員会（愛知エースネット）「森田吾郎 -大正琴の発明者-」、公益社団法人大正琴協会「大正琴の歴史」、ヤマハ株式会社「楽器解体全書（大正琴＆ヴィオリラ誕生ストーリー）」"
+        },
+        "groundingChunkIndices": [
+          11
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7030,
+          "endIndex": 7339,
+          "text": "愛知県教育委員会（愛知エースネット）「森田吾郎 -大正琴の発明者-」、公益社団法人大正琴協会「大正琴の歴史」、ヤマハ株式会社「楽器解体全書（大正琴＆ヴィオリラ誕生ストーリー）」、名古屋市図書館「名古屋の偉人伝」"
+        },
+        "groundingChunkIndices": [
+          18
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 7568,
+          "endIndex": 7658,
+          "text": "昭和の夏、縁側や和室に欠かせなかった緑色の渦巻き型蚊取り線香"
         },
         "groundingChunkIndices": [
           19
@@ -685,22 +653,12 @@
       },
       {
         "segment": {
-          "startIndex": 7785,
-          "endIndex": 7998,
-          "text": "東日本を中心に陶磁器全般を「せともの」と呼ぶようになったのは、瀬戸が日用の食器から美術品まで圧倒的な流通量を誇り、全国の食卓へ普及したためです"
+          "startIndex": 7661,
+          "endIndex": 7893,
+          "text": "世界で初めて蚊取り線香を作った金鳥（大日本除虫菊）の初代製品（1890年発売）は、実は渦巻きではなく仏壇用の線香と同じ**「長さ約20センチのまっすぐな棒状」**でした"
         },
         "groundingChunkIndices": [
-          19,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8040,
-          "endIndex": 8271,
-          "text": "江戸時代初期、九州で白いガラス質の「磁器（有田焼など）」が開発されると、旧来の陶器（土もの）しか作れなかった瀬戸焼は人気を奪われ、壊滅的な不況に陥りました"
-        },
-        "groundingChunkIndices": [
+          20,
           19,
           21,
           22
@@ -708,157 +666,161 @@
       },
       {
         "segment": {
-          "startIndex": 8274,
-          "endIndex": 8571,
-          "text": "有田から遅れること約200年、瀬戸の陶工・加藤民吉が九州から門外不出の磁器技術を持ち帰ったことで瀬戸でも磁器生産が爆発的に広がり、陶器と磁器の両方を大量生産する世界屈指のやきもの産地へ大復活を遂げました"
+          "startIndex": 7896,
+          "endIndex": 8070,
+          "text": "しかし、棒状の線香はわずか**約40分**で燃え尽きてしまい、人が寝ている間の蚊を防ぎきれないという致命的な弱点がありました"
         },
         "groundingChunkIndices": [
-          23,
-          22,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8574,
-          "endIndex": 8757,
-          "text": "西日本では唐津焼に由来してやきものを「からつもの」と呼ぶ地域もありますが、東日本では「せともの」が代名詞として定着しました"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 8784,
-          "endIndex": 9186,
-          "text": "一般的な産地は「陶器（土もの）」か「磁器（石もの）」のどちらか一方に偏ることが多いのに対し、瀬戸地域は良質な陶土（蛙目粘土など）と、花崗岩が風化してできた磁器の原料土（サバ土）の両方が同じ地層（瀬戸層群）から採れるという、世界でも極めて珍しい恵まれた大地を持っています"
-        },
-        "groundingChunkIndices": [
-          25,
-          20
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9216,
-          "endIndex": 9351,
-          "text": "瀬戸の磁器の祖として神様（窯神神社）に祀られている加藤民吉ですが、実は「窯屋の次男」でした"
-        },
-        "groundingChunkIndices": [
-          26,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9354,
-          "endIndex": 9573,
-          "text": "当時の掟で家業を継ぐことができず、名古屋の熱田新田の開発現場で土木工事に従事していたところ、熱田奉行の津金文左衛門に才能を見出されて磁器研究を開始"
-        },
-        "groundingChunkIndices": [
-          26,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9576,
-          "endIndex": 9720,
-          "text": "その後、藩と地域の期待を背負って九州へ旅立ち、苦難の末に技法を習得して瀬戸を救う英雄となりました"
-        },
-        "groundingChunkIndices": [
-          26,
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9750,
-          "endIndex": 9813,
-          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」"
-        },
-        "groundingChunkIndices": [
-          19
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9750,
-          "endIndex": 9873,
-          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」"
-        },
-        "groundingChunkIndices": [
-          26
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9750,
-          "endIndex": 9966,
-          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」、瀬戸市歴史文化基本構想「加藤民吉・磁祖民吉屋敷跡・民吉墓碑」"
-        },
-        "groundingChunkIndices": [
-          24
-        ]
-      },
-      {
-        "segment": {
-          "startIndex": 9750,
-          "endIndex": 10023,
-          "text": "瀬戸陶磁器卸商業協同組合「せとものの歴史」、瀬戸市公式ホームページ「民吉について」、瀬戸市歴史文化基本構想「加藤民吉・磁祖民吉屋敷跡・民吉墓碑」、瀬戸市文化振興財団「瀬戸染付の全貌」"
-        },
-        "groundingChunkIndices": [
+          20,
+          19,
+          21,
           22
         ]
       },
       {
         "segment": {
-          "startIndex": 10894,
-          "endIndex": 10999,
-          "text": "タコには、狭くて暗い隙間に体がピタッと密着すると落ち着く習性があります"
+          "startIndex": 8097,
+          "endIndex": 8221,
+          "text": "人の睡眠時間である約6〜7時間持たせるには、線香を約75センチまで長くする必要があります"
         },
         "groundingChunkIndices": [
-          14,
-          16
+          20,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 11002,
-          "endIndex": 11101,
-          "text": "タコ壺は獲物を閉じ込める檻ではなく、タコにとっては「最高の隠れ家」"
+          "startIndex": 8224,
+          "endIndex": 8356,
+          "text": "しかし、まっすぐな棒のまま長くすると運ぶ際や使う際にポキポキ折れてしまい、場所も取ります"
         },
         "groundingChunkIndices": [
-          16
+          20,
+          19
         ]
       },
       {
         "segment": {
-          "startIndex": 11104,
-          "endIndex": 11251,
-          "text": "海から引き揚げられるときも、壺の奥でぎゅっと踏ん張って居座っているためフタがなくても逃げないのです"
+          "startIndex": 8359,
+          "endIndex": 8555,
+          "text": "悩んでいた創業者・上山英一郎に対し、**「とぐろを巻いたヘビのように渦巻き型に巻いてみてはどうか」**と提案したのは、妻の「ゆき」でした"
         },
         "groundingChunkIndices": [
-          14
+          20,
+          19,
+          22
         ]
       },
       {
         "segment": {
-          "startIndex": 11254,
-          "endIndex": 11352,
-          "text": "弥生時代から2,000年以上変わらない、タコの心理を突いた伝統の知恵です"
+          "startIndex": 8558,
+          "endIndex": 8760,
+          "text": "庭や蔵でとぐろを巻くヘビの姿から着想を得た内助の功によって、コンパクトで長時間（一晩中）均一に燃え続ける理想の形が1895年に誕生したのです"
         },
         "groundingChunkIndices": [
-          16
+          20,
+          19,
+          22,
+          23
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8790,
+          "endIndex": 8958,
+          "text": "蚊取り線香の渦巻きは、よく見ると中心から外側に向かって「右巻き（時計回り）」と「左巻き（反時計回り）」があります"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 8961,
+          "endIndex": 9081,
+          "text": "かつて手巻きで作られていた時代は右利きの職人が作業しやすい「右巻き」が主流でした"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9084,
+          "endIndex": 9279,
+          "text": "しかし昭和30年代に機械による型抜き製造が始まった際、金鳥は他社製品との差別化を図るため、自社製品をあえて**「左巻き」**に統一しました"
+        },
+        "groundingChunkIndices": [
+          19
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9282,
+          "endIndex": 9549,
+          "text": "なお、トレードマークが鶏なのは中国の歴史書『史記』の「鶏口となるも牛後となるなかれ（大組織の末端に甘んじるより、小さな集団でも先頭・トップに立て）」という故事成語に由来しています"
+        },
+        "groundingChunkIndices": [
+          24,
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9579,
+          "endIndex": 9694,
+          "text": "大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです」"
+        },
+        "groundingChunkIndices": [
+          20
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 9579,
+          "endIndex": 9727,
+          "text": "大日本除虫菊株式会社（KINCHO）公式「害虫コラム：1世紀以上経っても、渦巻きです」、「金鳥商標のいわれ」"
+        },
+        "groundingChunkIndices": [
+          25
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10626,
+          "endIndex": 10748,
+          "text": "**1番：当時、木造の家を建てるときに使っていた横木（建築資材）の長さに合わせたから**"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10793,
+          "endIndex": 10988,
+          "text": "昔、伸ばした麺を掛けて干す道具として、専用の台ではなく木造住宅の柱と柱の間に通す水平材「貫（ぬき）」という建築資材を使っていました"
+        },
+        "groundingChunkIndices": [
+          2
+        ]
+      },
+      {
+        "segment": {
+          "startIndex": 10991,
+          "endIndex": 11247,
+          "text": "この木材の規格が当時の単位で「2間（にけん＝約3.6メートル）」だったため、道具の長さに合わせて麺を伸ばしたところ、約3.6メートルの日本一長いそうめんが誕生したと伝えられています"
+        },
+        "groundingChunkIndices": [
+          2
         ]
       }
     ],
     "webSearchQueries": [
-      "せともの 語源 瀬戸焼 由来 瀬戸市 加藤民吉",
-      "タコ壺 なぜ逃げない 習性 水産 水族館",
-      "蒲郡みかん なぜ甘い 歴史 愛知県 JA蒲郡市",
-      "足助直し 塩の道 豊田市 三河湾 信州"
+      "三河七輪 碧南 特徴 二重構造 歴史",
+      "和泉手延べそうめん 歴史 安城 特徴",
+      "大正琴 名古屋 由来 森田吾郎",
+      "蚊取り線香 渦巻き 理由 金鳥 由来"
     ]
   }
 }
