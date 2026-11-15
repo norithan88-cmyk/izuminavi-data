@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:26:16.030Z",
+  "updated_at": "2026-11-15T01:01:02.839Z",
   "source_name": "安城市公式サイト 新着情報RSS",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/kurasu/shinchaku.xml",
@@ -9,6 +9,38 @@
   ],
   "news_count": 40,
   "news": [
+    {
+      "title": "中部公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-11-14T20:22:55+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "中部公民館講座",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkankoza.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-11-14T20:07:33+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "子ども自転車教室トップページ",
+      "url": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/jitensya/kodomojitensyakyousitu.html",
+      "summary": "自転車の補助輪をはずしたいお子様を対象に自転車を上手に乗るための基本を教えます。",
+      "category": "くらし",
+      "published_at": "2026-11-14T11:59:52+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "昭林公民館",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/shorin-kominkant.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-11-13T19:08:15+09:00",
+      "source": "安城市公式サイト"
+    },
     {
       "title": "要介護認定・要支援認定申請後の進捗状況の確認",
       "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/youkaigoyoushienjoukyou.html",
@@ -50,14 +82,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "中部公民館講座",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkankoza.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-11-13T15:26:30+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "見つかるつながる(公開用）",
       "url": "https://www.city.anjo.aichi.jp/kurasu/fukushikaigo/koureisya/documents/documents/yukuefumei.html",
       "summary": "",
@@ -79,6 +103,14 @@
       "summary": "社会課題テーマ講座",
       "category": "学び",
       "published_at": "2026-11-13T11:27:50+09:00",
+      "source": "安城市公式サイト"
+    },
+    {
+      "title": "公民館だより",
+      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/shorinkouminkandayori.html",
+      "summary": "",
+      "category": "市政",
+      "published_at": "2026-11-13T11:17:00+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -167,14 +199,6 @@
       "summary": "",
       "category": "市政",
       "published_at": "2026-11-12T13:59:01+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "子ども自転車教室トップページ",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/jitensya/kodomojitensyakyousitu.html",
-      "summary": "自転車の補助輪をはずしたいお子様を対象に自転車を上手に乗るための基本を教えます。",
-      "category": "くらし",
-      "published_at": "2026-11-12T13:57:15+09:00",
       "source": "安城市公式サイト"
     },
     {
@@ -290,14 +314,6 @@
       "source": "安城市公式サイト"
     },
     {
-      "title": "中部公民館",
-      "url": "https://www.city.anjo.aichi.jp/shisei/shisetsu/kyoikushisetsu/chubu-kominkant.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-11-11T20:57:15+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
       "title": "こどものまちドリームタウン",
       "url": "https://www.city.anjo.aichi.jp/manabu/shogaigakushu/dreamtown.html",
       "summary": "こどもがつくるこどものまち。自分のやりたい仕事を選んで働き、こどものまちだけで使えるお金をもらいます。もらったお金はこどものまちで買い物したり、遊んだり自由に使えます。",
@@ -311,22 +327,6 @@
       "summary": "",
       "category": "くらし",
       "published_at": "2026-11-11T16:49:59+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "多文化子育てサロン",
-      "url": "https://www.city.anjo.aichi.jp/shisei/kokusai/tabunkakosodatesalon.html",
-      "summary": "",
-      "category": "市政",
-      "published_at": "2026-11-11T14:02:14+09:00",
-      "source": "安城市公式サイト"
-    },
-    {
-      "title": "モビリティマネジメント～「かしこい」バスの使い方～",
-      "url": "https://www.city.anjo.aichi.jp/kurasu/dorokotsu/ankurubus/mobilitymanagement.html",
-      "summary": "",
-      "category": "くらし",
-      "published_at": "2026-11-11T12:51:47+09:00",
       "source": "安城市公式サイト"
     }
   ]

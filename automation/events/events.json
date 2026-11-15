@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T10:26:14.309+09:00",
+  "updated_at": "2026-11-15T10:01:01.131+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
@@ -7,22 +7,6 @@
   ],
   "event_count": 15,
   "events": [
-    {
-      "title": "あんじょう健康大学 第4講",
-      "url": "https://www.city.anjo.aichi.jp/event/202611114kenkodaigaku.html",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
-    {
-      "title": "中部公民館ふれあいウォーキング",
-      "url": "https://www.city.anjo.aichi.jp/event/08chubu-hureaiuo-kingu-.html",
-      "start_date": "2026-11-14",
-      "end_date": "2026-11-14",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
     {
       "title": "あんじょう健康大学 第5講",
       "url": "https://www.city.anjo.aichi.jp/event/20261116kenkodaigaku5.html",
@@ -96,10 +80,26 @@
       "source": "安城市イベントカレンダー"
     },
     {
+      "title": "第30回昭林ホールフェスタ",
+      "url": "https://www.city.anjo.aichi.jp/event/26fesuta126.html",
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
       "title": "東部芸能まつり",
       "url": "https://www.city.anjo.aichi.jp/event/syogaitobu/2026toubugeinoumatsuri.html",
       "start_date": "2026-12-06",
       "end_date": "2026-12-06",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "昭林クリスマスジャズコンサート",
+      "url": "https://www.city.anjo.aichi.jp/event/26shokon1212.html",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
