@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-11-16T10:00:07.008+09:00",
+  "updated_at": "2026-11-17T12:51:46.744+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=12&type=2&year=2026"
   ],
-  "event_count": 15,
+  "event_count": 14,
   "events": [
-    {
-      "title": "あんじょう健康大学 第5講",
-      "url": "https://www.city.anjo.aichi.jp/event/20261116kenkodaigaku5.html",
-      "start_date": "2026-11-16",
-      "end_date": "2026-11-16",
-      "category": "安城市公式",
-      "source": "安城市イベントカレンダー"
-    },
     {
       "title": "令和８年度地域包括ケアフォーラム 人生100年時代を豊かに生きるために 軽運動で体も脳も活性化！～みんなでスローエアロビック～を開催します",
       "url": "https://www.city.anjo.aichi.jp/event/tiikikeahoukatufo-ramu.html",
