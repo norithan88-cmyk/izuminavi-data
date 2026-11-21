@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20T11:17:53.530+09:00",
+  "updated_at": "2026-11-21T11:11:43.139+09:00",
   "source_name": "安城市イベントカレンダー",
   "source_urls": [
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=11&type=2&year=2026",
     "https://www.city.anjo.aichi.jp/cgi-bin/event_cal_multi/calendar.cgi?month=12&type=2&year=2026"
   ],
-  "event_count": 13,
+  "event_count": 14,
   "events": [
     {
       "title": "あいち花マルシェ2026 三河ステージ",
@@ -52,6 +52,14 @@
       "url": "https://www.city.anjo.aichi.jp/event/08chubu-ryuukyuunoshirabeokinawasanshinkonsa-to-.html",
       "start_date": "2026-12-05",
       "end_date": "2026-12-05",
+      "category": "安城市公式",
+      "source": "安城市イベントカレンダー"
+    },
+    {
+      "title": "安祥公民館まつり",
+      "url": "https://www.city.anjo.aichi.jp/event/08anshou-maturi.html",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
       "category": "安城市公式",
       "source": "安城市イベントカレンダー"
     },
